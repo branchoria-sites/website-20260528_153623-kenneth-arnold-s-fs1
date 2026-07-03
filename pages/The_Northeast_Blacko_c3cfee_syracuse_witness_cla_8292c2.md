@@ -245,15 +245,15 @@ image: /assets/images/The_Northeast_Blacko_c3cfee_syracuse_witness_cla_8292c2-Il
 The UFO stories linked to the Northeast Blackout of 9 November 1965 gained much of their long-term momentum from reports around Syracuse, New York. In later retellings, Central New York became the supposed centre of a cluster of glowing aerial objects seen shortly before the power grid collapsed across the north-eastern United States and parts of Canada. Witnesses described dome-shaped lights, fireballs and hovering luminous objects near substations and transmission lines. Some reports involved pilots or aviation observers, which gave the accounts added credibility in UFO literature.
 
 <img src="{{ "/assets/images/The_Northeast_Blacko_c3cfee_syracuse_witness_cla_8292c2-Illustration-1-dark.svg" | relative_url }}" alt="Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/The_Northeast_Blacko_c3cfee_syracuse_witness_cla_8292c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/The_Northeast_Blacko_c3cfee_syracuse_witness_cla_8292c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Yet the Syracuse sightings also reveal one of the central problems in the blackout-UFO debate: the evidence trail is uneven. Many accounts appeared only after the blackout had already become headline news. Timings vary from source to source, some stories were amplified through UFO organisations rather than primary records, and several dramatic claims cannot be traced cleanly back to contemporaneous documentation. The Syracuse reports therefore matter less as proof of a UFO connection than as a case study in how a major infrastructure failure acquired a paranormal afterlife. <span class="citation-chip-wrap"><a class="citation-chip" href="https://syracusenewtimes.com/nov-9-1965-did-ufos-turn-the-lights-off/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syracusenewtimes.com">[2syracusenewtimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syracusenewtimes.com</span><span class="citation-popover-title">nov 9 1965 did ufos turn the lights off</span><span class="citation-popover-snippet">nov 9 1965 did ufos turn the lights off</span></span></span>
+Yet the Syracuse sightings also reveal one of the central problems in the blackout-UFO debate: the evidence trail is uneven. Many accounts appeared only after the blackout had already become headline news. Timings vary from source to source, some stories were amplified through UFO organisations rather than primary records, and several dramatic claims cannot be traced cleanly back to contemporaneous documentation. The Syracuse reports therefore matter less as proof of a UFO connection than as a case study in how a major infrastructure failure acquired a paranormal afterlife.<span class="citation-chip-wrap"><a class="citation-chip" href="https://syracusenewtimes.com/nov-9-1965-did-ufos-turn-the-lights-off/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syracusenewtimes.com">[2syracusenewtimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syracusenewtimes.com</span><span class="citation-popover-title">nov 9 1965 did ufos turn the lights off</span><span class="citation-popover-snippet">nov 9 1965 did ufos turn the lights off</span></span></span>
 
 ## Fireballs and Dome-Shaped Lights Around Syracuse
 
-The best-known Syracuse-area stories involve bright aerial objects reported in the minutes before the blackout. Later UFO compilations repeatedly cited witnesses from Camillus, Cicero and other suburbs west and north of Syracuse. According to these accounts, observers saw glowing red or orange lights near electrical installations shortly before power failed across the region. <span class="citation-chip-wrap"><a class="citation-chip" href="https://syracusenewtimes.com/nov-9-1965-did-ufos-turn-the-lights-off/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syracusenewtimes.com">[syracusenewtimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syracusenewtimes.com</span><span class="citation-popover-title">nov 9 1965 did ufos turn the lights off</span><span class="citation-popover-snippet">nov 9 1965 did ufos turn the lights off</span></span></span>
+The best-known Syracuse-area stories involve bright aerial objects reported in the minutes before the blackout. Later UFO compilations repeatedly cited witnesses from Camillus, Cicero and other suburbs west and north of Syracuse. According to these accounts, observers saw glowing red or orange lights near electrical installations shortly before power failed across the region.<span class="citation-chip-wrap"><a class="citation-chip" href="https://syracusenewtimes.com/nov-9-1965-did-ufos-turn-the-lights-off/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syracusenewtimes.com">[syracusenewtimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syracusenewtimes.com</span><span class="citation-popover-title">nov 9 1965 did ufos turn the lights off</span><span class="citation-popover-snippet">nov 9 1965 did ufos turn the lights off</span></span></span>
 
-One of the most frequently repeated claims described a “huge, dome-shaped object” near a substation in Camillus about five minutes before the blackout. Another account placed a bright hovering object near high-tension lines crossing the Mohawk River near Cicero. In some versions, witnesses interpreted the light as stationary; in others it appeared to rise or move away immediately after the lights went out. <span class="citation-chip-wrap"><a class="citation-chip" href="https://syracusenewtimes.com/nov-9-1965-did-ufos-turn-the-lights-off/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syracusenewtimes.com">[syracusenewtimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syracusenewtimes.com</span><span class="citation-popover-title">nov 9 1965 did ufos turn the lights off</span><span class="citation-popover-snippet">nov 9 1965 did ufos turn the lights off</span></span></span>
+One of the most frequently repeated claims described a “huge, dome-shaped object” near a substation in Camillus about five minutes before the blackout. Another account placed a bright hovering object near high-tension lines crossing the Mohawk River near Cicero. In some versions, witnesses interpreted the light as stationary; in others it appeared to rise or move away immediately after the lights went out.<span class="citation-chip-wrap"><a class="citation-chip" href="https://syracusenewtimes.com/nov-9-1965-did-ufos-turn-the-lights-off/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syracusenewtimes.com">[syracusenewtimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syracusenewtimes.com</span><span class="citation-popover-title">nov 9 1965 did ufos turn the lights off</span><span class="citation-popover-snippet">nov 9 1965 did ufos turn the lights off</span></span></span>
 
-The imagery mattered. A hovering luminous dome near power infrastructure fit neatly into an already developing UFO narrative of unidentified craft interfering with electrical systems. By the late 1960s and early 1970s, organisations such as NICAP (National Investigations Committee on Aerial Phenomena) were actively collecting cases involving blackouts, radio disruption and electrical anomalies. The Syracuse reports became a prominent example in those catalogues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/nyne.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">On November 9th, 1965 New York State23B. (3) John G. Fuller, &#x27;Aliens in the Skies: The New UFO Battle of the. Scientists&#x27; (New York: G.P...</span></span></span>
+The imagery mattered. A hovering luminous dome near power infrastructure fit neatly into an already developing UFO narrative of unidentified craft interfering with electrical systems. By the late 1960s and early 1970s, organisations such as NICAP (National Investigations Committee on Aerial Phenomena) were actively collecting cases involving blackouts, radio disruption and electrical anomalies. The Syracuse reports became a prominent example in those catalogues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/nyne.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">On November 9th, 1965 New York State23B. (3) John G. Fuller, &#x27;Aliens in the Skies: The New UFO Battle of the. Scientists&#x27; (New York: G.P...</span></span></span>
 
 However, the original reports were far less tidy than later summaries suggest. Some descriptions referred simply to bright lights in the sky. Others resembled ordinary fireball or meteor observations. A few accounts appear to have been reconstructed from newspaper recollections after the event rather than from formal witness interviews made at the time. The more dramatic the retelling became, the harder it often is to identify the first verifiable source.
 
@@ -261,22 +261,22 @@ However, the original reports were far less tidy than later summaries suggest. S
 
 ## Pilots, Aviation Witnesses and Media Amplification
 
-The Syracuse stories gained wider attention because some witnesses were linked to aviation. UFO investigators repeatedly highlighted pilot testimony as especially persuasive, arguing that trained observers were less likely to mistake ordinary lights or atmospheric effects for unusual craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/outage_main.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">glowing object ascending within about a...Read more...</span></span></span>
+The Syracuse stories gained wider attention because some witnesses were linked to aviation. UFO investigators repeatedly highlighted pilot testimony as especially persuasive, arguing that trained observers were less likely to mistake ordinary lights or atmospheric effects for unusual craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/outage_main.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">glowing object ascending within about a...Read more...</span></span></span>
 
-One report described an orchestra conductor travelling on a flight between Syracuse and Rochester who allegedly observed a bright descending light over Central New York shortly before the blackout. Other retellings mentioned private pilots seeing glowing objects near the Niagara power region or around upstate New York transmission corridors. NBC commentator Frank McGee publicly referred to a pilot sighting near Niagara Falls shortly before official explanations for the blackout were released, helping push the UFO angle into national discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://syracusenewtimes.com/nov-9-1965-did-ufos-turn-the-lights-off/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syracusenewtimes.com">[syracusenewtimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syracusenewtimes.com</span><span class="citation-popover-title">nov 9 1965 did ufos turn the lights off</span><span class="citation-popover-snippet">nov 9 1965 did ufos turn the lights off</span></span></span>
+One report described an orchestra conductor travelling on a flight between Syracuse and Rochester who allegedly observed a bright descending light over Central New York shortly before the blackout. Other retellings mentioned private pilots seeing glowing objects near the Niagara power region or around upstate New York transmission corridors. NBC commentator Frank McGee publicly referred to a pilot sighting near Niagara Falls shortly before official explanations for the blackout were released, helping push the UFO angle into national discussion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://syracusenewtimes.com/nov-9-1965-did-ufos-turn-the-lights-off/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syracusenewtimes.com">[syracusenewtimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syracusenewtimes.com</span><span class="citation-popover-title">nov 9 1965 did ufos turn the lights off</span><span class="citation-popover-snippet">nov 9 1965 did ufos turn the lights off</span></span></span>
 
-Newspapers amplified the atmosphere of uncertainty. During the first hours after the blackout, nobody outside the power industry understood why the grid had failed. In a Cold War environment shaped by fears of sabotage or attack, reports of strange lights naturally attracted attention. Later accounts claimed that the Syracuse Herald-Journal received more than one hundred calls describing unusual glowing objects seen around the city that evening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prestondennett.weebly.com/ufos-over-new-york.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prestondennett.weebly.com">[Preston Dennett]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prestondennett.weebly.com</span><span class="citation-popover-title">Preston Dennett UFOs Over New York</span><span class="citation-popover-snippet">Preston DennettUFOs Over New York - Preston Dennett - Weeblylights went out.” In the days that followed, the Syracuse-Herald Journal rece...</span></span></span>
+Newspapers amplified the atmosphere of uncertainty. During the first hours after the blackout, nobody outside the power industry understood why the grid had failed. In a Cold War environment shaped by fears of sabotage or attack, reports of strange lights naturally attracted attention. Later accounts claimed that the Syracuse Herald-Journal received more than one hundred calls describing unusual glowing objects seen around the city that evening.<span class="citation-chip-wrap"><a class="citation-chip" href="https://prestondennett.weebly.com/ufos-over-new-york.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prestondennett.weebly.com">[Preston Dennett]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prestondennett.weebly.com</span><span class="citation-popover-title">Preston Dennett UFOs Over New York</span><span class="citation-popover-snippet">Preston DennettUFOs Over New York - Preston Dennett - Weeblylights went out.” In the days that followed, the Syracuse-Herald Journal rece...</span></span></span>
 
 That flood of calls is significant, but not necessarily in the way UFO proponents argued. Once a dramatic event enters the news cycle, public perception changes rapidly. Witnesses who might otherwise dismiss an unusual light begin connecting it to the larger event. The blackout itself created the interpretive framework through which later sightings were understood.
 
 <img src="{{ "/assets/images/The_Northeast_Blacko_c3cfee_syracuse_witness_cla_8292c2-Illustration-2-dark.svg" | relative_url }}" alt="Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/The_Northeast_Blacko_c3cfee_syracuse_witness_cla_8292c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/The_Northeast_Blacko_c3cfee_syracuse_witness_cla_8292c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Timing Became Controversial
 
-The major weakness in the Syracuse UFO narrative is chronology. The official power-failure sequence is documented to the second: the cascade began at 5:16:11 p.m. after relay operations near the Sir Adam Beck generating system in Ontario. Electrical failures then spread rapidly through the interconnected grid. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Northeast_blackout_of_1965" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Northeast blackout of 1965</span><span class="citation-popover-snippet">Northeast blackout of 1965</span></span></span>
+The major weakness in the Syracuse UFO narrative is chronology. The official power-failure sequence is documented to the second: the cascade began at 5:16:11 p.m. after relay operations near the Sir Adam Beck generating system in Ontario. Electrical failures then spread rapidly through the interconnected grid.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Northeast_blackout_of_1965" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Northeast blackout of 1965</span><span class="citation-popover-snippet">Northeast blackout of 1965</span></span></span>
 
 Many Syracuse-area UFO accounts, however, were recorded only approximately. Witnesses often remembered events happening “around 5 p.m.” or “just before the blackout”. That sounds precise until compared against the speed of the actual cascade, which unfolded in seconds rather than minutes. A witness estimating “five minutes before” may simply have been reconstructing memory after the fact.
 
-The timing problem becomes sharper when later UFO writers tried to align separate reports into a coordinated sequence. Some accounts placed objects near Syracuse before the blackout, others during it, and some after lights had already failed. Certain versions also merged reports from geographically distant areas such as Massachusetts, New Jersey and Pennsylvania into a single implied wave of activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://syracusenewtimes.com/nov-9-1965-did-ufos-turn-the-lights-off/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syracusenewtimes.com">[syracusenewtimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syracusenewtimes.com</span><span class="citation-popover-title">nov 9 1965 did ufos turn the lights off</span><span class="citation-popover-snippet">nov 9 1965 did ufos turn the lights off</span></span></span>
+The timing problem becomes sharper when later UFO writers tried to align separate reports into a coordinated sequence. Some accounts placed objects near Syracuse before the blackout, others during it, and some after lights had already failed. Certain versions also merged reports from geographically distant areas such as Massachusetts, New Jersey and Pennsylvania into a single implied wave of activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://syracusenewtimes.com/nov-9-1965-did-ufos-turn-the-lights-off/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syracusenewtimes.com">[syracusenewtimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syracusenewtimes.com</span><span class="citation-popover-title">nov 9 1965 did ufos turn the lights off</span><span class="citation-popover-snippet">nov 9 1965 did ufos turn the lights off</span></span></span>
 
 This does not automatically make the witnesses dishonest. Human recollection during surprising events is often imprecise, especially when observers do not initially realise the significance of what they are seeing. But it does weaken claims that the Syracuse sightings demonstrate a direct causal relationship with the outage.
 
@@ -284,11 +284,11 @@ This does not automatically make the witnesses dishonest. Human recollection dur
 
 ## Could Ordinary Explanations Fit the Reports?
 
-Several sceptical explanations have been proposed for the Syracuse lights. Some researchers suggested that at least part of the phenomenon may have involved electrical arcing or corona discharge associated with unstable transmission conditions. One technical commentary argued that a bright red glow near the Clay substation outside Syracuse could plausibly have been an electrical arc interacting with nearby trees or infrastructure during the surge conditions surrounding the blackout. <span class="citation-chip-wrap"><a class="citation-chip" href="https://midimagic.sgc-hosting.com/howiblak.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: midimagic.sgc-hosting.com">[midimagic.sgc-hosting.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">midimagic.sgc-hosting.com</span><span class="citation-popover-snippet">This would have been...Read more...</span></span></span>
+Several sceptical explanations have been proposed for the Syracuse lights. Some researchers suggested that at least part of the phenomenon may have involved electrical arcing or corona discharge associated with unstable transmission conditions. One technical commentary argued that a bright red glow near the Clay substation outside Syracuse could plausibly have been an electrical arc interacting with nearby trees or infrastructure during the surge conditions surrounding the blackout.<span class="citation-chip-wrap"><a class="citation-chip" href="https://midimagic.sgc-hosting.com/howiblak.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: midimagic.sgc-hosting.com">[midimagic.sgc-hosting.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">midimagic.sgc-hosting.com</span><span class="citation-popover-snippet">This would have been...Read more...</span></span></span>
 
 Others point to astronomical or atmospheric causes. November skies commonly produce visible meteors and fireballs, and isolated bright objects can appear unusually dramatic at dusk. Once the blackout darkened much of the region, ordinary celestial objects would also have become far more noticeable.
 
-There is also the issue of retrospective contamination. UFO literature from the late 1960s increasingly linked electrical disturbances with unidentified aerial phenomena. Once the blackout entered UFO culture, older witness memories may have become reshaped by repeated retellings in books, television programmes and magazine articles. John G. Fuller’s writings, widely circulated among UFO enthusiasts, helped cement the idea that Syracuse was central to a hidden mystery surrounding the blackout. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/nyne.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">On November 9th, 1965 New York State23B. (3) John G. Fuller, &#x27;Aliens in the Skies: The New UFO Battle of the. Scientists&#x27; (New York: G.P...</span></span></span>
+There is also the issue of retrospective contamination. UFO literature from the late 1960s increasingly linked electrical disturbances with unidentified aerial phenomena. Once the blackout entered UFO culture, older witness memories may have become reshaped by repeated retellings in books, television programmes and magazine articles. John G. Fuller’s writings, widely circulated among UFO enthusiasts, helped cement the idea that Syracuse was central to a hidden mystery surrounding the blackout.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/nyne.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">On November 9th, 1965 New York State23B. (3) John G. Fuller, &#x27;Aliens in the Skies: The New UFO Battle of the. Scientists&#x27; (New York: G.P...</span></span></span>
 
 <img src="{{ "/assets/images/The_Northeast_Blacko_c3cfee_syracuse_witness_cla_8292c2-Illustration-3-dark.svg" | relative_url }}" alt="Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/The_Northeast_Blacko_c3cfee_syracuse_witness_cla_8292c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/The_Northeast_Blacko_c3cfee_syracuse_witness_cla_8292c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Syracuse Remained Central to the Blackout Mythology
@@ -297,199 +297,199 @@ The Syracuse sightings persisted because they occupied a useful middle ground be
 
 The setting also mattered. Central New York sat within the affected blackout corridor but away from the overwhelming media focus on New York City. That allowed regional stories to grow with less scrutiny. Local memories, newspaper anecdotes and UFO-investigator compilations gradually fused into a semi-coherent folklore account: strange lights appeared near Syracuse, and then the eastern grid collapsed.
 
-Modern historical treatments of the blackout usually regard the UFO connection as culturally interesting but evidentially weak. The engineering explanation for the outage is detailed and strongly documented, while the Syracuse sightings remain fragmented, inconsistently timed and difficult to verify independently. Even so, the reports continue to appear in discussions of the blackout because they capture the atmosphere of confusion that surrounded one of the largest power failures in North American history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/history/new-york-city-lost-power-radio-saved-day-180957194/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Smithsonian MagazineWhen New York City Lost Power in 1965, Radio Saved the...9 Nov 2015 — To this day, however, the blackout remains bel...</span></span></span>
+Modern historical treatments of the blackout usually regard the UFO connection as culturally interesting but evidentially weak. The engineering explanation for the outage is detailed and strongly documented, while the Syracuse sightings remain fragmented, inconsistently timed and difficult to verify independently. Even so, the reports continue to appear in discussions of the blackout because they capture the atmosphere of confusion that surrounded one of the largest power failures in North American history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/history/new-york-city-lost-power-radio-saved-day-180957194/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Smithsonian MagazineWhen New York City Lost Power in 1965, Radio Saved the...9 Nov 2015 — To this day, however, the blackout remains bel...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q3p7vuja74Q" title="How The Blackout of 1965 Changed Electricity Forever" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q3p7vuja74Q" target="_blank" rel="noopener noreferrer">How The Blackout of 1965 Changed Electricity Forever</a></p><p class="youtube-embed-meta">Channel: Invention Flex &middot; Views: 116 &middot; Uploaded: January 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q3p7vuja74Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q3p7vuja74Q">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did Witnesses See Near Syracuse?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Witnesses See Near Syracuse?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Reproduces NICAP file compilations detailing the dome-shaped lights and fireballs reported near power transmission lines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reproduces NICAP file compilations detailing the dome-shaped lights and fireballs reported near power transmission lines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Examines the severe timing problems inside the Syracuse sighting record, tracking why many accounts appeared only after headline news broke.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the severe timing problems inside the Syracuse sighting record, tracking why many accounts appeared only after headline news broke.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Deconstructs why sincere observers west and north of Syracuse retroactively associated random sky lights with the ongoing blackout.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Deconstructs why sincere observers west and north of Syracuse retroactively associated random sky lights with the ongoing blackout.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Details why Project Blue Book researchers checked regional newspaper calls to evaluate the New York cluster files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details why Project Blue Book researchers checked regional newspaper calls to evaluate the New York cluster files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor"><img src="{{ '/assets/images/marketplace-covers/968ff0f45a8670cd676d.jpg' | relative_url }}" alt="Listing image for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sighting poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sighting poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor"><img src="{{ '/assets/images/marketplace-covers/968ff0f45a8670cd676d.jpg' | relative_url }}" alt="Listing image for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sighting poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo sighting poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor"><img src="{{ '/assets/images/marketplace-covers/7789344ffac51e699338.jpg' | relative_url }}" alt="Listing image for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sighting poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sighting poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor"><img src="{{ '/assets/images/marketplace-covers/7789344ffac51e699338.jpg' | relative_url }}" alt="Listing image for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sighting poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo sighting poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert UFO Sighting Retro Sci-Fi Alien Poster"><img src="{{ '/assets/images/marketplace-covers/f57f47c8b7356c2cb098.jpg' | relative_url }}" alt="Listing image for Desert UFO Sighting Retro Sci-Fi Alien Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">Desert UFO Sighting Retro Sci-Fi Alien Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sighting poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sighting poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert UFO Sighting Retro Sci-Fi Alien Poster"><img src="{{ '/assets/images/marketplace-covers/f57f47c8b7356c2cb098.jpg' | relative_url }}" alt="Listing image for Desert UFO Sighting Retro Sci-Fi Alien Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">Desert UFO Sighting Retro Sci-Fi Alien Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sighting poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo sighting poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor"><img src="{{ '/assets/images/marketplace-covers/563718fc8a241397dc67.jpg' | relative_url }}" alt="Listing image for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sighting poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sighting poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor"><img src="{{ '/assets/images/marketplace-covers/563718fc8a241397dc67.jpg' | relative_url }}" alt="Listing image for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sighting poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo sighting poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sighting+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sighting poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sightings-what-did-witnesses-see-near-syracuse-the-northeast-blackout-1965-ufo-sighting-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -505,7 +505,7 @@ Modern historical treatments of the blackout usually regard the UFO connection a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -525,7 +525,7 @@ Modern historical treatments of the blackout usually regard the UFO connection a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -557,7 +557,7 @@ Modern historical treatments of the blackout usually regard the UFO connection a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -609,7 +609,7 @@ Modern historical treatments of the blackout usually regard the UFO connection a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -654,7 +654,7 @@ Modern historical treatments of the blackout usually regard the UFO connection a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -695,120 +695,120 @@ Modern historical treatments of the blackout usually regard the UFO connection a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/nyne.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/nyne.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On November 9th, 1965 New York State23B. (3) John G. Fuller, &#x27;Aliens in the Skies: The New UFO Battle of the. Scientists&#x27; (New York: G.P...</p></details>
+   Link:<a href="https://www.nicap.org/nyne.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/nyne.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On November 9th, 1965 New York State23B. (3) John G. Fuller, &#x27;Aliens in the Skies: The New UFO Battle of the. Scientists&#x27; (New York: G.P...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: syracusenewtimes.com  
    Title: nov 9 1965 did ufos turn the lights off  
-   Link: <a href="https://syracusenewtimes.com/nov-9-1965-did-ufos-turn-the-lights-off/" target="_blank" rel="noopener noreferrer nofollow">https://syracusenewtimes.com/nov-9-1965-did-ufos-turn-the-lights-off/</a>  
+   Link:<a href="https://syracusenewtimes.com/nov-9-1965-did-ufos-turn-the-lights-off/" target="_blank" rel="noopener noreferrer nofollow">https://syracusenewtimes.com/nov-9-1965-did-ufos-turn-the-lights-off/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/outage_main.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/outage_main.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>glowing object ascending within about a...Read more...</p></details>
+   Link:<a href="https://www.nicap.org/outage_main.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/outage_main.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>glowing object ascending within about a...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Northeast blackout of 1965  
-   Link: <a href="https://en.wikipedia.org/wiki/Northeast_blackout_of_1965" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Northeast_blackout_of_1965</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Northeast_blackout_of_1965" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Northeast_blackout_of_1965</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: midimagic.sgc-hosting.com  
-   Link: <a href="https://midimagic.sgc-hosting.com/howiblak.htm" target="_blank" rel="noopener noreferrer nofollow">https://midimagic.sgc-hosting.com/howiblak.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This would have been...Read more...</p></details>
+   Link:<a href="https://midimagic.sgc-hosting.com/howiblak.htm" target="_blank" rel="noopener noreferrer nofollow">https://midimagic.sgc-hosting.com/howiblak.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This would have been...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incidentThe Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireb...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO incidentThe Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireb...</p></details>
    Published: December 9, 1965  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ufology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufology - WikipediaClose Encounters - Jerk Magazine...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ufology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufology - WikipediaClose Encounters - Jerk Magazine...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Exeter incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Exeter_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exeter incidentThe Exeter incident or Incident at Exeter was a highly publicized UFO sighting that occurred on September 3, 1965, appr...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Exeter_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exeter incidentThe Exeter incident or Incident at Exeter was a highly publicized UFO sighting that occurred on September 3, 1965, appr...</p></details>
    Published: September 3, 1965  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/history/new-york-city-lost-power-radio-saved-day-180957194/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/new-york-city-lost-power-radio-saved-day-180957194/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineWhen New York City Lost Power in 1965, Radio Saved the...9 Nov 2015 — To this day, however, the blackout remains bel...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/history/new-york-city-lost-power-radio-saved-day-180957194/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/new-york-city-lost-power-radio-saved-day-180957194/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineWhen New York City Lost Power in 1965, Radio Saved the...9 Nov 2015 — To this day, however, the blackout remains bel...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: prestondennett.weebly.com  
    Title: Preston Dennett UFOs Over New York  
-   Link: <a href="https://prestondennett.weebly.com/ufos-over-new-york.html" target="_blank" rel="noopener noreferrer nofollow">https://prestondennett.weebly.com/ufos-over-new-york.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Preston DennettUFOs Over New York - Preston Dennett - Weeblylights went out.” In the days that followed, the Syracuse-Herald Journal rece...</p></details>
+   Link:<a href="https://prestondennett.weebly.com/ufos-over-new-york.html" target="_blank" rel="noopener noreferrer nofollow">https://prestondennett.weebly.com/ufos-over-new-york.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Preston DennettUFOs Over New York - Preston Dennett - Weeblylights went out.” In the days that followed, the Syracuse-Herald Journal rece...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: historyhit.com  
    Title: the northeast blackout  
-   Link: <a href="https://www.historyhit.com/the-northeast-blackout/" target="_blank" rel="noopener noreferrer nofollow">https://www.historyhit.com/the-northeast-blackout/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Did the Northeast of America Go Dark During 1965?...</p></details>
+   Link:<a href="https://www.historyhit.com/the-northeast-blackout/" target="_blank" rel="noopener noreferrer nofollow">https://www.historyhit.com/the-northeast-blackout/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Did the Northeast of America Go Dark During 1965?...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: presidency.ucsb.edu  
-   Link: <a href="https://www.presidency.ucsb.edu/documents/statement-the-president-response-federal-power-commission-report-the-northeastern-electric" target="_blank" rel="noopener noreferrer nofollow">https://www.presidency.ucsb.edu/documents/statement-the-president-response-federal-power-commission-report-the-northeastern-electric</a>  
+   Link:<a href="https://www.presidency.ucsb.edu/documents/statement-the-president-response-federal-power-commission-report-the-northeastern-electric" target="_blank" rel="noopener noreferrer nofollow">https://www.presidency.ucsb.edu/documents/statement-the-president-response-federal-power-commission-report-the-northeastern-electric</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: tbt in 1965 police departments took the possible presence of ufos seriously as d  
-   Link: <a href="https://www.facebook.com/paramuspolice/posts/tbt-in-1965-police-departments-took-the-possible-presence-of-ufos-seriously-as-d/3546626512043941/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/paramuspolice/posts/tbt-in-1965-police-departments-took-the-possible-presence-of-ufos-seriously-as-d/3546626512043941/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TBT: In 1965, Police Departments took the possible...A uniformed police officer, PC KEITH DROUDGE observed a UFO and said of his sightin...</p></details>
+   Link:<a href="https://www.facebook.com/paramuspolice/posts/tbt-in-1965-police-departments-took-the-possible-presence-of-ufos-seriously-as-d/3546626512043941/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/paramuspolice/posts/tbt-in-1965-police-departments-took-the-possible-presence-of-ufos-seriously-as-d/3546626512043941/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TBT: In 1965, Police Departments took the possible...A uniformed police officer, PC KEITH DROUDGE observed a UFO and said of his sightin...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: on november 9 1965 the northeast united states and canada experienced a massive  
-   Link: <a href="https://www.facebook.com/hudsonrivervalleyinstitute/posts/on-november-9-1965-the-northeast-united-states-and-canada-experienced-a-massive-/1288724926616899/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hudsonrivervalleyinstitute/posts/on-november-9-1965-the-northeast-united-states-and-canada-experienced-a-massive-/1288724926616899/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On November 9, 1965 the Northeast United States and...There was also a lot of evidence that showed UFO sightings being reported in conne...</p></details>
+   Link:<a href="https://www.facebook.com/hudsonrivervalleyinstitute/posts/on-november-9-1965-the-northeast-united-states-and-canada-experienced-a-massive-/1288724926616899/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hudsonrivervalleyinstitute/posts/on-november-9-1965-the-northeast-united-states-and-canada-experienced-a-massive-/1288724926616899/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On November 9, 1965 the Northeast United States and...There was also a lot of evidence that showed UFO sightings being reported in conne...</p></details>
    Published: November 9, 1965  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: the 1965 northeast blackout did ufos turn out the lightsdid ufos cause the 1965  
-   Link: <a href="https://www.facebook.com/hercolubus.en/posts/the-1965-northeast-blackout-did-ufos-turn-out-the-lightsdid-ufos-cause-the-1965-/1064732335698650/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hercolubus.en/posts/the-1965-northeast-blackout-did-ufos-turn-out-the-lightsdid-ufos-cause-the-1965-/1064732335698650/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE 1965 NORTHEAST BLACKOUT: DID UFOS TURN...Key Witness Reports: • In Syracuse, NY, multiple witnesses reported a large, glowing object...</p></details>
+   Link:<a href="https://www.facebook.com/hercolubus.en/posts/the-1965-northeast-blackout-did-ufos-turn-out-the-lightsdid-ufos-cause-the-1965-/1064732335698650/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hercolubus.en/posts/the-1965-northeast-blackout-did-ufos-turn-out-the-lightsdid-ufos-cause-the-1965-/1064732335698650/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE 1965 NORTHEAST BLACKOUT: DID UFOS TURN...Key Witness Reports: • In Syracuse, NY, multiple witnesses reported a large, glowing object...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
    Title: the blackout of 1965 did ufos turn the lights off  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/8a6oy4/the_blackout_of_1965_did_ufos_turn_the_lights_off/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/8a6oy4/the_blackout_of_1965_did_ufos_turn_the_lights_off/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Blackout of 1965: Did UFOs turn the lights off?Nov. 9, 1965: At 5 p.m. an Orchestra Conductor on a flight between Syracuse and Roches...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/8a6oy4/the_blackout_of_1965_did_ufos_turn_the_lights_off/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/8a6oy4/the_blackout_of_1965_did_ufos_turn_the_lights_off/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Blackout of 1965: Did UFOs turn the lights off?Nov. 9, 1965: At 5 p.m. an Orchestra Conductor on a flight between Syracuse and Roches...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/meawwcom/posts/recently-released-declassified-pentagon-files-reveal-chilling-witness-reports-fr/1303865215207686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/meawwcom/posts/recently-released-declassified-pentagon-files-reveal-chilling-witness-reports-fr/1303865215207686/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings of UFOs were ordinary objects from...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/meawwcom/posts/recently-released-declassified-pentagon-files-reveal-chilling-witness-reports-fr/1303865215207686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/meawwcom/posts/recently-released-declassified-pentagon-files-reveal-chilling-witness-reports-fr/1303865215207686/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings of UFOs were ordinary objects from...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ufoinsight.com  
-   Link: <a href="https://www.ufoinsight.com/ufos/cover-ups/east-coast-power-blackout-1965-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/east-coast-power-blackout-1965-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The East Coast Power Blackout Of 1965 – Were UFOs To...30 Mar 2017 — However, accounts from private pilots and on-site personnel keep th...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/cover-ups/east-coast-power-blackout-1965-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/east-coast-power-blackout-1965-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The East Coast Power Blackout Of 1965 – Were UFOs To...30 Mar 2017 — However, accounts from private pilots and on-site personnel keep th...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theblackoutreport.co.uk  
    Title: northeastern blackout usa canada 1965  
-   Link: <a href="https://www.theblackoutreport.co.uk/2019/11/11/northeastern-blackout-usa-canada-1965/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackoutreport.co.uk/2019/11/11/northeastern-blackout-usa-canada-1965/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Biggest Blackouts In History: Northeastern USA &amp; Canada 196511 Nov 2019 — More than 30 million people across Northeastern USA and Canada...</p></details>
+   Link:<a href="https://www.theblackoutreport.co.uk/2019/11/11/northeastern-blackout-usa-canada-1965/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackoutreport.co.uk/2019/11/11/northeastern-blackout-usa-canada-1965/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Biggest Blackouts In History: Northeastern USA &amp; Canada 196511 Nov 2019 — More than 30 million people across Northeastern USA and Canada...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ufodex.com  
-   Link: <a href="https://www.ufodex.com/?ai-ufologist-q-and-a=describe-in-detail-the-ufo-cases-there-they-were-responsible-for-power-outage-or-blackout-what-really-caused-the-new-york-blackout-in-1965" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodex.com/?ai-ufologist-q-and-a=describe-in-detail-the-ufo-cases-there-they-were-responsible-for-power-outage-or-blackout-what-really-caused-the-new-york-blackout-in-1965</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Describe in detail the UFO cases there they were...6 Feb 2025 — Paul, Minnesota**: On November 26, 1965, shortly after the Northeast bla...</p></details>
+   Link:<a href="https://www.ufodex.com/?ai-ufologist-q-and-a=describe-in-detail-the-ufo-cases-there-they-were-responsible-for-power-outage-or-blackout-what-really-caused-the-new-york-blackout-in-1965" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodex.com/?ai-ufologist-q-and-a=describe-in-detail-the-ufo-cases-there-they-were-responsible-for-power-outage-or-blackout-what-really-caused-the-new-york-blackout-in-1965</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Describe in detail the UFO cases there they were...6 Feb 2025 — Paul, Minnesota**: On November 26, 1965, shortly after the Northeast bla...</p></details>
    Published: November 26, 1965

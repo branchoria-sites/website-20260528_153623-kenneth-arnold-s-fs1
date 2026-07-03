@@ -242,23 +242,23 @@ image: /assets/images/Eagle_River_encounte_9b53c8_simonton_witness_32bf48-Illust
 
 ## Introduction
 
-Joe Simonton’s credibility sits at the centre of the 1961 Eagle River encounter because almost everything about the case depends on whether he was a truthful observer, a confused witness, or a deliberate storyteller. Unlike famous UFO incidents involving radar tracks, multiple military personnel or extensive photographic evidence, the Eagle River case rested primarily on one man standing in his rural Wisconsin yard claiming that three humanoid occupants of a landed craft asked him for water and handed him pancake-like cakes before leaving. The physical samples did not prove anything extraterrestrial, and the Air Force ultimately leaned toward a psychological explanation. Yet even sceptics who dismissed the event often stopped short of calling Simonton a fraud. That tension is why the case survived for decades in UFO literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/pancakes-from-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Pancakes From the UFO</span><span class="citation-popover-snippet">Podcast UFO6 Dec 2020 — Simonton gave Hynek a sample of one of the “pancakes.” It was sent to the Food and Drug Administration where a mi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wxpr.org">[2wxpr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wxpr.org</span><span class="citation-popover-title">a northwoods case for the x files</span><span class="citation-popover-snippet">A Northwoods Case for the X-Files24 Jul 2019 — Plus, Savino Borgo, an Eagle River insurance agent, independently corroborated Simonton&#x27;s...</span></span></span>
+Joe Simonton’s credibility sits at the centre of the 1961 Eagle River encounter because almost everything about the case depends on whether he was a truthful observer, a confused witness, or a deliberate storyteller. Unlike famous UFO incidents involving radar tracks, multiple military personnel or extensive photographic evidence, the Eagle River case rested primarily on one man standing in his rural Wisconsin yard claiming that three humanoid occupants of a landed craft asked him for water and handed him pancake-like cakes before leaving. The physical samples did not prove anything extraterrestrial, and the Air Force ultimately leaned toward a psychological explanation. Yet even sceptics who dismissed the event often stopped short of calling Simonton a fraud. That tension is why the case survived for decades in UFO literature.<span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/pancakes-from-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Pancakes From the UFO</span><span class="citation-popover-snippet">Podcast UFO6 Dec 2020 — Simonton gave Hynek a sample of one of the “pancakes.” It was sent to the Food and Drug Administration where a mi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wxpr.org">[2wxpr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wxpr.org</span><span class="citation-popover-title">a northwoods case for the x files</span><span class="citation-popover-snippet">A Northwoods Case for the X-Files24 Jul 2019 — Plus, Savino Borgo, an Eagle River insurance agent, independently corroborated Simonton&#x27;s...</span></span></span>
 
 <img src="{{ "/assets/images/Eagle_River_encounte_9b53c8_simonton_witness_32bf48-Illustration-1-dark.svg" | relative_url }}" alt="The Witness illustration 1" data-theme-src-dark="{{ "/assets/images/Eagle_River_encounte_9b53c8_simonton_witness_32bf48-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eagle_River_encounte_9b53c8_simonton_witness_32bf48-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The credibility problem is therefore not simply whether Simonton lied. It is whether sincerity, local reputation and consistency are enough to support an extraordinary claim when hard corroboration remains weak. The Eagle River case became a classic example of how UFO investigations often collide with the limits of witness testimony itself.
 
 ## Who Simonton Was In Eagle River
 
-Joe Simonton was not introduced to the public as a celebrity, scientist or professional UFO promoter. Contemporary accounts and later retellings generally describe him as a plumber, handyman and small-scale farmer living near Eagle River, Wisconsin. He was already middle-aged by the time of the incident and appears to have lived a relatively ordinary life before the sudden publicity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_NICAP_Simonton-CE-III.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Authorities are investigating the alleged landing and contact between three men in a &quot;flying saucer&quot; and Joe Simonton, about 55 years of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wxpr.org">[2wxpr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wxpr.org</span><span class="citation-popover-title">a northwoods case for the x files</span><span class="citation-popover-snippet">A Northwoods Case for the X-Files24 Jul 2019 — Plus, Savino Borgo, an Eagle River insurance agent, independently corroborated Simonton&#x27;s...</span></span></span>
+Joe Simonton was not introduced to the public as a celebrity, scientist or professional UFO promoter. Contemporary accounts and later retellings generally describe him as a plumber, handyman and small-scale farmer living near Eagle River, Wisconsin. He was already middle-aged by the time of the incident and appears to have lived a relatively ordinary life before the sudden publicity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_NICAP_Simonton-CE-III.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Authorities are investigating the alleged landing and contact between three men in a &quot;flying saucer&quot; and Joe Simonton, about 55 years of...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wxpr.org">[2wxpr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wxpr.org</span><span class="citation-popover-title">a northwoods case for the x files</span><span class="citation-popover-snippet">A Northwoods Case for the X-Files24 Jul 2019 — Plus, Savino Borgo, an Eagle River insurance agent, independently corroborated Simonton&#x27;s...</span></span></span>
 
-That ordinariness became central to how supporters defended him. Local figures who knew Simonton often described him as dependable, practical and not especially imaginative. One Air Force investigator reportedly remarked that Simonton appeared sincere and did not seem like someone carrying out an elaborate deception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/BBCArchive/posts/meet-joe-simonton-a-retired-wisconsin-plumber-who-told-dr-stephen-black-about-a-/749396144151982/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Meet Joe Simonton, a retired Wisconsin plumber who told...One Air Force investigator, according to Mallan, said that Simonton &quot;a...</span></span></span>
+That ordinariness became central to how supporters defended him. Local figures who knew Simonton often described him as dependable, practical and not especially imaginative. One Air Force investigator reportedly remarked that Simonton appeared sincere and did not seem like someone carrying out an elaborate deception.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/BBCArchive/posts/meet-joe-simonton-a-retired-wisconsin-plumber-who-told-dr-stephen-black-about-a-/749396144151982/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Meet Joe Simonton, a retired Wisconsin plumber who told...One Air Force investigator, according to Mallan, said that Simonton &quot;a...</span></span></span>
 
 Several aspects of Simonton’s behaviour strengthened that impression:
 
 * He did not initially seek publicity and reportedly delayed reporting the incident.
 * He gained little obvious financial benefit from the story.
 * He later expressed regret about the attention the case brought to his life.
-* His account remained broadly stable over time even as details shifted slightly in retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wxpr.org">[wxpr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wxpr.org</span><span class="citation-popover-title">a northwoods case for the x files</span><span class="citation-popover-snippet">A Northwoods Case for the X-Files24 Jul 2019 — Plus, Savino Borgo, an Eagle River insurance agent, independently corroborated Simonton&#x27;s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dekedickerson.com/musings/joe-simonton-and-the-alien-pancakes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dekedickerson.com">[2dekedickerson.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dekedickerson.com</span><span class="citation-popover-snippet">Joe Simonton and the Alien Pancakes1 Sept 2022 — A spaceship descended upon his farm and the aliens inside needed water, so he gave them...</span></span></span>
+* His account remained broadly stable over time even as details shifted slightly in retellings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wxpr.org">[wxpr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wxpr.org</span><span class="citation-popover-title">a northwoods case for the x files</span><span class="citation-popover-snippet">A Northwoods Case for the X-Files24 Jul 2019 — Plus, Savino Borgo, an Eagle River insurance agent, independently corroborated Simonton&#x27;s...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://dekedickerson.com/musings/joe-simonton-and-the-alien-pancakes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dekedickerson.com">[2dekedickerson.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dekedickerson.com</span><span class="citation-popover-snippet">Joe Simonton and the Alien Pancakes1 Sept 2022 — A spaceship descended upon his farm and the aliens inside needed water, so he gave them...</span></span></span>
 
 For many UFO researchers, this profile mattered. The argument was not that Simonton proved alien visitation, but that he did not fit the stereotype of a prankster chasing fame. The difficulty is that credibility in everyday life does not automatically translate into reliability during an extraordinary event. A sincere witness can still misperceive, exaggerate or unconsciously reshape memory.
 
@@ -266,13 +266,13 @@ That distinction became the central weakness in attempts to treat the Eagle Rive
 
 ## What He Said Happened That Morning
 
-According to Simonton’s account, he heard an unusual noise outside his home on the morning of 18 April 1961 and saw a metallic craft descending near his property. He described the object as resembling two bowls joined together. A hatch allegedly opened, revealing three short humanoid occupants. One gestured for water. Simonton filled a container and handed it over. He then observed another occupant cooking small cakes on what he described as a grill-like surface without visible flames. One of the occupants handed him several of the cakes before the craft departed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_NICAP_Simonton-CE-III.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Authorities are investigating the alleged landing and contact between three men in a &quot;flying saucer&quot; and Joe Simonton, about 55 years of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/pancakes-from-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[2podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Pancakes From the UFO</span><span class="citation-popover-snippet">Podcast UFO6 Dec 2020 — Simonton gave Hynek a sample of one of the “pancakes.” It was sent to the Food and Drug Administration where a mi...</span></span></span>
+According to Simonton’s account, he heard an unusual noise outside his home on the morning of 18 April 1961 and saw a metallic craft descending near his property. He described the object as resembling two bowls joined together. A hatch allegedly opened, revealing three short humanoid occupants. One gestured for water. Simonton filled a container and handed it over. He then observed another occupant cooking small cakes on what he described as a grill-like surface without visible flames. One of the occupants handed him several of the cakes before the craft departed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_NICAP_Simonton-CE-III.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Authorities are investigating the alleged landing and contact between three men in a &quot;flying saucer&quot; and Joe Simonton, about 55 years of...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/pancakes-from-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[2podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Pancakes From the UFO</span><span class="citation-popover-snippet">Podcast UFO6 Dec 2020 — Simonton gave Hynek a sample of one of the “pancakes.” It was sent to the Food and Drug Administration where a mi...</span></span></span>
 
 The story is memorable partly because it lacks the dramatic aggression associated with many later alien encounter narratives. There were no threats, medical experiments or apocalyptic warnings. The exchange was mundane, almost domestic. That peculiar tone actually helped some researchers see the account as psychologically authentic. Fabricated stories often become theatrical, whereas Simonton’s description was oddly ordinary.
 
 At the same time, the very strangeness of the details complicated his credibility. Critics argued that the account sounded dreamlike rather than observational. The combination of silent humanoids, requests for water and “space pancakes” pushed the case into territory that many investigators found inherently implausible. Even sympathetic listeners sometimes treated the story as folkloric rather than evidential.
 
-Another complication was that there were no direct eyewitnesses to the central encounter itself. Some later reports mentioned a local insurance agent claiming to have seen an unusual object moving through the area around the same time, but this did not independently confirm the landing or the interaction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wxpr.org">[wxpr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wxpr.org</span><span class="citation-popover-title">a northwoods case for the x files</span><span class="citation-popover-snippet">A Northwoods Case for the X-Files24 Jul 2019 — Plus, Savino Borgo, an Eagle River insurance agent, independently corroborated Simonton&#x27;s...</span></span></span>
+Another complication was that there were no direct eyewitnesses to the central encounter itself. Some later reports mentioned a local insurance agent claiming to have seen an unusual object moving through the area around the same time, but this did not independently confirm the landing or the interaction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wxpr.org">[wxpr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wxpr.org</span><span class="citation-popover-title">a northwoods case for the x files</span><span class="citation-popover-snippet">A Northwoods Case for the X-Files24 Jul 2019 — Plus, Savino Borgo, an Eagle River insurance agent, independently corroborated Simonton&#x27;s...</span></span></span>
 
 That left investigators with a familiar UFO problem: a witness who seemed believable personally, but whose claims could not be externally verified in any decisive way.
 
@@ -282,11 +282,11 @@ That left investigators with a familiar UFO problem: a witness who seemed believ
 
 The strongest argument in Simonton’s favour was always that he appeared genuine. The strongest argument against the case was that sincerity alone is weak evidence.
 
-Project [Blue Book]({{ 'blue-book-8b589b/' | relative_url }}) investigators did not present the pancake samples as evidence of exotic technology. Laboratory analysis reportedly identified ordinary terrestrial ingredients including starches, fats and grain material consistent with a buckwheat-type pancake. Radiation readings and bacterial analysis revealed nothing unusual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/pancakes-from-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Pancakes From the UFO</span><span class="citation-popover-snippet">Podcast UFO6 Dec 2020 — Simonton gave Hynek a sample of one of the “pancakes.” It was sent to the Food and Drug Administration where a mi...</span></span></span>
+Project [Blue Book]({{ 'blue-book-8b589b/' | relative_url }}) investigators did not present the pancake samples as evidence of exotic technology. Laboratory analysis reportedly identified ordinary terrestrial ingredients including starches, fats and grain material consistent with a buckwheat-type pancake. Radiation readings and bacterial analysis revealed nothing unusual.<span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/pancakes-from-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Pancakes From the UFO</span><span class="citation-popover-snippet">Podcast UFO6 Dec 2020 — Simonton gave Hynek a sample of one of the “pancakes.” It was sent to the Food and Drug Administration where a mi...</span></span></span>
 
 This mattered enormously because [the pancakes]({{ 'the-pancakes/' | relative_url }}) were the only physical artefacts connected to the encounter. Once testing suggested mundane food material, the case became almost entirely dependent on Simonton’s interpretation of events.
 
-The Air Force conclusion associated with the case eventually leaned toward hallucination or psychological misinterpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/pancakes-from-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Pancakes From the UFO</span><span class="citation-popover-snippet">Podcast UFO6 Dec 2020 — Simonton gave Hynek a sample of one of the “pancakes.” It was sent to the Food and Drug Administration where a mi...</span></span></span> That explanation has often been criticised because it seemed speculative in its own way. Critics noted that investigators did not establish a medical condition, intoxication or documented mental illness that would clearly explain the experience. Yet the Air Force position reflected a broader evidential principle: extraordinary claims require stronger support than personal conviction.
+The Air Force conclusion associated with the case eventually leaned toward hallucination or psychological misinterpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/pancakes-from-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Pancakes From the UFO</span><span class="citation-popover-snippet">Podcast UFO6 Dec 2020 — Simonton gave Hynek a sample of one of the “pancakes.” It was sent to the Food and Drug Administration where a mi...</span></span></span> That explanation has often been criticised because it seemed speculative in its own way. Critics noted that investigators did not establish a medical condition, intoxication or documented mental illness that would clearly explain the experience. Yet the Air Force position reflected a broader evidential principle: extraordinary claims require stronger support than personal conviction.
 
 This distinction between honesty and accuracy is essential to understanding the credibility debate.
 
@@ -308,17 +308,17 @@ The Eagle River encounter exposed that tension perfectly. Many people who met Si
 
 Single-witness UFO encounters occupy an awkward position in investigation history. They can feel compelling because the testimony comes from one identifiable human being rather than rumour or mythology. But they are also fragile because there is no independent cross-check.
 
-The Eagle River case illustrates several weaknesses common to lone-witness reports: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/aliens/encounters/eagle-river-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[ufoinsight.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">eagle river incident</span><span class="citation-popover-snippet">The Eagle River Incident14 Jul 2019 — The case of Joe Simonton in Eagle River, Wisconsin is one that divides opinion in the UFO community...</span></span></span>
+The Eagle River case illustrates several weaknesses common to lone-witness reports:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/aliens/encounters/eagle-river-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[ufoinsight.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">eagle river incident</span><span class="citation-popover-snippet">The Eagle River Incident14 Jul 2019 — The case of Joe Simonton in Eagle River, Wisconsin is one that divides opinion in the UFO community...</span></span></span>
 
 ### Memory Drift Over Time
 
-As the story circulated through newspapers, UFO organisations, television interviews and later books, small details changed. Descriptions of the beings, the craft dimensions and the pancakes varied slightly between versions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoevidence.org/cases/case708.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.org">[UFO Evidence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.org</span><span class="citation-popover-snippet">UFO EvidenceEagle River Close Encounter (man given &#x27;pancakes...Wisconsin &#x27;s strangest close encounter of the third kind must surely be t...</span></span></span>
+As the story circulated through newspapers, UFO organisations, television interviews and later books, small details changed. Descriptions of the beings, the craft dimensions and the pancakes varied slightly between versions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoevidence.org/cases/case708.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.org">[UFO Evidence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.org</span><span class="citation-popover-snippet">UFO EvidenceEagle River Close Encounter (man given &#x27;pancakes...Wisconsin &#x27;s strangest close encounter of the third kind must surely be t...</span></span></span>
 
 These inconsistencies are not necessarily signs of deception. Memory naturally shifts over decades. But they make reconstruction difficult and allow believers and sceptics alike to emphasise whichever version best supports their interpretation.
 
 ### Retelling Changed The Story’s Tone
 
-The original account gradually transformed into one of the most famous “alien pancake” stories in UFO culture. That reputation created a problem for evaluating Simonton seriously. Humorous retellings often overshadowed the more restrained original testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hardcorezen.info/alien-pancakes/7894" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hardcorezen.info">[hardcorezen.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hardcorezen.info</span><span class="citation-popover-title">alien pancakes</span><span class="citation-popover-snippet">6 Mar 2023 — The story of Joe Simonton&#x27;s encounter with a flying saucer whose occupants gave him pancakes is, to me, the quintessential U...</span></span></span>
+The original account gradually transformed into one of the most famous “alien pancake” stories in UFO culture. That reputation created a problem for evaluating Simonton seriously. Humorous retellings often overshadowed the more restrained original testimony.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hardcorezen.info/alien-pancakes/7894" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hardcorezen.info">[hardcorezen.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hardcorezen.info</span><span class="citation-popover-title">alien pancakes</span><span class="citation-popover-snippet">6 Mar 2023 — The story of Joe Simonton&#x27;s encounter with a flying saucer whose occupants gave him pancakes is, to me, the quintessential U...</span></span></span>
 
 As a result, the case sometimes became easier to mock than to analyse.
 
@@ -333,11 +333,11 @@ That absence prevented the encounter from moving beyond the level of anecdote.
 
 Despite the evidential weaknesses, Simonton continued to attract support from portions of the UFO research community for several reasons.
 
-First, the account lacked obvious self-serving motives. Simonton did not become a professional lecturer or major media personality. Accounts repeatedly describe him as uncomfortable with the publicity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wxpr.org">[wxpr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wxpr.org</span><span class="citation-popover-title">a northwoods case for the x files</span><span class="citation-popover-snippet">A Northwoods Case for the X-Files24 Jul 2019 — Plus, Savino Borgo, an Eagle River insurance agent, independently corroborated Simonton&#x27;s...</span></span></span>
+First, the account lacked obvious self-serving motives. Simonton did not become a professional lecturer or major media personality. Accounts repeatedly describe him as uncomfortable with the publicity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wxpr.org">[wxpr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wxpr.org</span><span class="citation-popover-title">a northwoods case for the x files</span><span class="citation-popover-snippet">A Northwoods Case for the X-Files24 Jul 2019 — Plus, Savino Borgo, an Eagle River insurance agent, independently corroborated Simonton&#x27;s...</span></span></span>
 
 Second, the case arrived during a period when UFO reports were receiving significant national attention in the United States. To some researchers, this reduced the likelihood that the story was invented purely for novelty value. The incident fit a wider cultural atmosphere of reported close encounters during the early 1960s.
 
-Third, some investigators viewed the bizarre triviality of the pancakes as psychologically important. Hoaxes often aim for dramatic impact. Simonton instead described awkward cooking activity and bland cakes that supposedly tasted like cardboard. Supporters argued that the sheer absurdity of the details paradoxically made the account feel less manufactured. <span class="citation-chip-wrap"><a class="citation-chip" href="https://harpers.org/archive/2023/11/the-abduction-of-betty-and-barney-hill-bowman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: harpers.org">[harpers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">harpers.org</span><span class="citation-popover-title">the abduction of betty and barney hill bowman</span><span class="citation-popover-snippet">New Books, by Dan PiepenbringMy favorite comes from Joe Simonton, a plumber in Eagle River, Wisconsin. In 1961, he claimed that a flying...</span></span></span>
+Third, some investigators viewed the bizarre triviality of the pancakes as psychologically important. Hoaxes often aim for dramatic impact. Simonton instead described awkward cooking activity and bland cakes that supposedly tasted like cardboard. Supporters argued that the sheer absurdity of the details paradoxically made the account feel less manufactured.<span class="citation-chip-wrap"><a class="citation-chip" href="https://harpers.org/archive/2023/11/the-abduction-of-betty-and-barney-hill-bowman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: harpers.org">[harpers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">harpers.org</span><span class="citation-popover-title">the abduction of betty and barney hill bowman</span><span class="citation-popover-snippet">New Books, by Dan PiepenbringMy favorite comes from Joe Simonton, a plumber in Eagle River, Wisconsin. In 1961, he claimed that a flying...</span></span></span>
 
 This argument remains controversial. Critics counter that unusual detail can emerge naturally from dreams, confabulation or imaginative storytelling just as easily as from genuine anomalous events.
 
@@ -347,201 +347,201 @@ This argument remains controversial. Critics counter that unusual detail can eme
 
 The Eagle River encounter ultimately became less a debate about extraterrestrials than a debate about human testimony. Joe Simonton was neither exposed as a conscious fraud nor validated by compelling physical evidence. That unresolved middle ground is precisely why the case endured.
 
-For sceptics, the incident demonstrates how honest people can report extraordinary experiences without providing sufficient proof. The mundane pancake analysis and absence of corroborating evidence keep the case firmly below the threshold required for extraordinary conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/pancakes-from-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Pancakes From the UFO</span><span class="citation-popover-snippet">Podcast UFO6 Dec 2020 — Simonton gave Hynek a sample of one of the “pancakes.” It was sent to the Food and Drug Administration where a mi...</span></span></span>
+For sceptics, the incident demonstrates how honest people can report extraordinary experiences without providing sufficient proof. The mundane pancake analysis and absence of corroborating evidence keep the case firmly below the threshold required for extraordinary conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/pancakes-from-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Pancakes From the UFO</span><span class="citation-popover-snippet">Podcast UFO6 Dec 2020 — Simonton gave Hynek a sample of one of the “pancakes.” It was sent to the Food and Drug Administration where a mi...</span></span></span>
 
-For believers and some open-minded researchers, Simonton remains difficult to dismiss because his personal reputation, emotional consistency and apparent lack of motive do not fit a simple hoax narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wxpr.org">[wxpr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wxpr.org</span><span class="citation-popover-title">a northwoods case for the x files</span><span class="citation-popover-snippet">A Northwoods Case for the X-Files24 Jul 2019 — Plus, Savino Borgo, an Eagle River insurance agent, independently corroborated Simonton&#x27;s...</span></span></span>
+For believers and some open-minded researchers, Simonton remains difficult to dismiss because his personal reputation, emotional consistency and apparent lack of motive do not fit a simple hoax narrative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wxpr.org">[wxpr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wxpr.org</span><span class="citation-popover-title">a northwoods case for the x files</span><span class="citation-popover-snippet">A Northwoods Case for the X-Files24 Jul 2019 — Plus, Savino Borgo, an Eagle River insurance agent, independently corroborated Simonton&#x27;s...</span></span></span>
 
 That unresolved tension is the real legacy of Joe Simonton’s testimony. The case survives not because the evidence became stronger with time, but because it captured a recurring problem in UFO investigation: a witness can appear deeply credible while the underlying claim remains unverified.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Joe Simonton A Reliable Witness?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Joe Simonton A Reliable Witness?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Profiles the 1961 Eagle River case objectively, summarizing Joe Simonton&#x27;s testimony and the Air Force&#x27;s response.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Profiles the 1961 Eagle River case objectively, summarizing Joe Simonton&#x27;s testimony and the Air Force&#x27;s response.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Places the Eagle River incident in the context of global humanoid-entity reports and contactee-era expectations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places the Eagle River incident in the context of global humanoid-entity reports and contactee-era expectations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches investigative methodology to distinguish between genuine witness sincerity and the physical limitations of an extraordinary claim.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches investigative methodology to distinguish between genuine witness sincerity and the physical limitations of an extraordinary claim.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Documents how early military intelligence files treated cases based primarily on single-witness testimony and small physical artifacts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents how early military intelligence files treated cases based primarily on single-witness testimony and small physical artifacts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-witness-was-joe-simonton-a-reliable-witness-eagle-river-encounter-1961-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ That unresolved tension is the real legacy of Joe Simonton’s testimony. The ca
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ That unresolved tension is the real legacy of Joe Simonton’s testimony. The ca
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ That unresolved tension is the real legacy of Joe Simonton’s testimony. The ca
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ That unresolved tension is the real legacy of Joe Simonton’s testimony. The ca
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ That unresolved tension is the real legacy of Joe Simonton’s testimony. The ca
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,140 +747,140 @@ That unresolved tension is the real legacy of Joe Simonton’s testimony. The ca
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: podcastufo.com  
    Title: Pancakes From the UFO  
-   Link: <a href="https://podcastufo.com/pancakes-from-the-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/pancakes-from-the-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Podcast UFO6 Dec 2020 — Simonton gave Hynek a sample of one of the “pancakes.” It was sent to the Food and Drug Administration where a mi...</p></details>
+   Link:<a href="https://podcastufo.com/pancakes-from-the-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/pancakes-from-the-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Podcast UFO6 Dec 2020 — Simonton gave Hynek a sample of one of the “pancakes.” It was sent to the Food and Drug Administration where a mi...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wxpr.org  
    Title: a northwoods case for the x files  
-   Link: <a href="https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Northwoods Case for the X-Files24 Jul 2019 — Plus, Savino Borgo, an Eagle River insurance agent, independently corroborated Simonton&#x27;s...</p></details>
+   Link:<a href="https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Northwoods Case for the X-Files24 Jul 2019 — Plus, Savino Borgo, an Eagle River insurance agent, independently corroborated Simonton&#x27;s...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCArchive/posts/meet-joe-simonton-a-retired-wisconsin-plumber-who-told-dr-stephen-black-about-a-/749396144151982/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/posts/meet-joe-simonton-a-retired-wisconsin-plumber-who-told-dr-stephen-black-about-a-/749396144151982/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meet Joe Simonton, a retired Wisconsin plumber who told...One Air Force investigator, according to Mallan, said that Simonton &quot;a...</p></details>
+   Link:<a href="https://www.facebook.com/BBCArchive/posts/meet-joe-simonton-a-retired-wisconsin-plumber-who-told-dr-stephen-black-about-a-/749396144151982/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/posts/meet-joe-simonton-a-retired-wisconsin-plumber-who-told-dr-stephen-black-about-a-/749396144151982/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meet Joe Simonton, a retired Wisconsin plumber who told...One Air Force investigator, according to Mallan, said that Simonton &quot;a...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/111156462236936/posts/2498501776835714/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/111156462236936/posts/2498501776835714/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EAA Radio 2006 report with familiar voicesOne Air Force investigator, according to Mallan, said that Simonton &quot;appeared quite sincere to...</p></details>
+   Link:<a href="https://www.facebook.com/groups/111156462236936/posts/2498501776835714/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/111156462236936/posts/2498501776835714/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EAA Radio 2006 report with familiar voicesOne Air Force investigator, according to Mallan, said that Simonton &quot;appeared quite sincere to...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dekedickerson.com  
-   Link: <a href="https://dekedickerson.com/musings/joe-simonton-and-the-alien-pancakes/" target="_blank" rel="noopener noreferrer nofollow">https://dekedickerson.com/musings/joe-simonton-and-the-alien-pancakes/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Joe Simonton and the Alien Pancakes1 Sept 2022 — A spaceship descended upon his farm and the aliens inside needed water, so he gave them...</p></details>
+   Link:<a href="https://dekedickerson.com/musings/joe-simonton-and-the-alien-pancakes/" target="_blank" rel="noopener noreferrer nofollow">https://dekedickerson.com/musings/joe-simonton-and-the-alien-pancakes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joe Simonton and the Alien Pancakes1 Sept 2022 — A spaceship descended upon his farm and the aliens inside needed water, so he gave them...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hardcorezen.info  
    Title: alien pancakes  
-   Link: <a href="https://hardcorezen.info/alien-pancakes/7894" target="_blank" rel="noopener noreferrer nofollow">https://hardcorezen.info/alien-pancakes/7894</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Mar 2023 — The story of Joe Simonton&#x27;s encounter with a flying saucer whose occupants gave him pancakes is, to me, the quintessential U...</p></details>
+   Link:<a href="https://hardcorezen.info/alien-pancakes/7894" target="_blank" rel="noopener noreferrer nofollow">https://hardcorezen.info/alien-pancakes/7894</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 Mar 2023 — The story of Joe Simonton&#x27;s encounter with a flying saucer whose occupants gave him pancakes is, to me, the quintessential U...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: harpers.org  
    Title: the abduction of betty and barney hill bowman  
-   Link: <a href="https://harpers.org/archive/2023/11/the-abduction-of-betty-and-barney-hill-bowman/" target="_blank" rel="noopener noreferrer nofollow">https://harpers.org/archive/2023/11/the-abduction-of-betty-and-barney-hill-bowman/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Books, by Dan PiepenbringMy favorite comes from Joe Simonton, a plumber in Eagle River, Wisconsin. In 1961, he claimed that a flying...</p></details>
+   Link:<a href="https://harpers.org/archive/2023/11/the-abduction-of-betty-and-barney-hill-bowman/" target="_blank" rel="noopener noreferrer nofollow">https://harpers.org/archive/2023/11/the-abduction-of-betty-and-barney-hill-bowman/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Books, by Dan PiepenbringMy favorite comes from Joe Simonton, a plumber in Eagle River, Wisconsin. In 1961, he claimed that a flying...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wisconsinfrights/posts/the-strange-case-of-joe-simontons-alien-pancakes-in-eagle-river-wi/1138721047051490/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wisconsinfrights/posts/the-strange-case-of-joe-simontons-alien-pancakes-in-eagle-river-wi/1138721047051490/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ts) Date: April 18, 1961 Location: Eagle River, Wisconsin...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/wisconsinfrights/posts/the-strange-case-of-joe-simontons-alien-pancakes-in-eagle-river-wi/1138721047051490/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wisconsinfrights/posts/the-strange-case-of-joe-simontons-alien-pancakes-in-eagle-river-wi/1138721047051490/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ts) Date: April 18, 1961 Location: Eagle River, Wisconsin...Read more...</p></details>
    Published: April 18, 1961  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: Three short, human‑like  
-   Link: <a href="https://www.facebook.com/UnexplainedMysteriousUniverse/posts/joe-simonton-a-60yearold-farmer-in-eagle-river-wisconsin-claimed-that-in-april-1/1567138415417580/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnexplainedMysteriousUniverse/posts/joe-simonton-a-60yearold-farmer-in-eagle-river-wisconsin-claimed-that-in-april-1/1567138415417580/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Joe Simonton, a 60‑year‑old farmer in Eagle River, Wisconsin...Joe Simonton, a 60‑year‑old farmer in Eagle River, Wisconsin, claimed tha...</p></details>
+   Link:<a href="https://www.facebook.com/UnexplainedMysteriousUniverse/posts/joe-simonton-a-60yearold-farmer-in-eagle-river-wisconsin-claimed-that-in-april-1/1567138415417580/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnexplainedMysteriousUniverse/posts/joe-simonton-a-60yearold-farmer-in-eagle-river-wisconsin-claimed-that-in-april-1/1567138415417580/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joe Simonton, a 60‑year‑old farmer in Eagle River, Wisconsin...Joe Simonton, a 60‑year‑old farmer in Eagle River, Wisconsin, claimed tha...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCArchive/videos/1968-flying-saucers-and-the-pancakes-from-outer-space/1250777623109321/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/videos/1968-flying-saucers-and-the-pancakes-from-outer-space/1250777623109321/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>out a bizarre encounter he had with a UFO and three aliens who offered him pancakes...</p></details>
+   Link:<a href="https://www.facebook.com/BBCArchive/videos/1968-flying-saucers-and-the-pancakes-from-outer-space/1250777623109321/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/videos/1968-flying-saucers-and-the-pancakes-from-outer-space/1250777623109321/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>out a bizarre encounter he had with a UFO and three aliens who offered him pancakes...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_NICAP_Simonton-CE-III.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_NICAP_Simonton-CE-III.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Authorities are investigating the alleged landing and contact between three men in a &quot;flying saucer&quot; and Joe Simonton, about 55 years of...</p></details>
+   Link:<a href="https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_NICAP_Simonton-CE-III.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_NICAP_Simonton-CE-III.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Authorities are investigating the alleged landing and contact between three men in a &quot;flying saucer&quot; and Joe Simonton, about 55 years of...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ufoevidence.org  
-   Link: <a href="https://www.ufoevidence.org/cases/case708.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case708.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO EvidenceEagle River Close Encounter (man given &#x27;pancakes...Wisconsin &#x27;s strangest close encounter of the third kind must surely be t...</p></details>
+   Link:<a href="https://www.ufoevidence.org/cases/case708.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case708.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO EvidenceEagle River Close Encounter (man given &#x27;pancakes...Wisconsin &#x27;s strangest close encounter of the third kind must surely be t...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya piece of planned work or an activity which is done over a period of time and intended to achiev...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya piece of planned work or an activity which is done over a period of time and intended to achiev...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ufoinsight.com  
    Title: eagle river incident  
-   Link: <a href="https://www.ufoinsight.com/aliens/encounters/eagle-river-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/aliens/encounters/eagle-river-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Eagle River Incident14 Jul 2019 — The case of Joe Simonton in Eagle River, Wisconsin is one that divides opinion in the UFO community...</p></details>
+   Link:<a href="https://www.ufoinsight.com/aliens/encounters/eagle-river-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/aliens/encounters/eagle-river-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Eagle River Incident14 Jul 2019 — The case of Joe Simonton in Eagle River, Wisconsin is one that divides opinion in the UFO community...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/project" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT Definition &amp; Meaning1. a: to devise in the mind: design b: to plan, figure, or estimate for the future 2. to throw or cast for...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/project" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT Definition &amp; Meaning1. a: to devise in the mind: design b: to plan, figure, or estimate for the future 2. to throw or cast for...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmi.org  
-   Link: <a href="https://www.pmi.org/about/what-is-a-project" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/about/what-is-a-project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Project, Examples and the Project LifecycleA project is a series of structured tasks, activities, and deliverables that are car...</p></details>
+   Link:<a href="https://www.pmi.org/about/what-is-a-project" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/about/what-is-a-project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Project, Examples and the Project LifecycleA project is a series of structured tasks, activities, and deliverables that are car...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2021%20No.%201%20Spring%201996.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2021%20No.%201%20Spring%201996.pdf</a>  
+   Link:<a href="https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2021%20No.%201%20Spring%201996.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2021%20No.%201%20Spring%201996.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theunconventionalufologist.captivate.fm  
    Title: the 1961 simonton incident a study in alien culinary mediocrity  
-   Link: <a href="https://theunconventionalufologist.captivate.fm/episode/the-1961-simonton-incident-a-study-in-alien-culinary-mediocrity" target="_blank" rel="noopener noreferrer nofollow">https://theunconventionalufologist.captivate.fm/episode/the-1961-simonton-incident-a-study-in-alien-culinary-mediocrity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book under Dr. J. Allen Hynek&#x27;s gaze. Analysis revealed hydrogenated fat, starch, buckwheat, soy, and bran—terrestrial stapl...</p></details>
+   Link:<a href="https://theunconventionalufologist.captivate.fm/episode/the-1961-simonton-incident-a-study-in-alien-culinary-mediocrity" target="_blank" rel="noopener noreferrer nofollow">https://theunconventionalufologist.captivate.fm/episode/the-1961-simonton-incident-a-study-in-alien-culinary-mediocrity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book under Dr. J. Allen Hynek&#x27;s gaze. Analysis revealed hydrogenated fat, starch, buckwheat, soy, and bran—terrestrial stapl...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: podcasts.apple.com  
    Title: In one of the strangest, most oddly wholesome UFO  
-   Link: <a href="https://podcasts.apple.com/de/podcast/mindless-banter-139-joe-simonton-the-alien-pancakes/id1121846301?i=1000743409118" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/de/podcast/mindless-banter-139-joe-simonton-the-alien-pancakes/id1121846301?i=1000743409118</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple PodcastsMindless Banter 139: Joe Simonton &amp; the Alien PancakesIn 1961, a quiet Wisconsin farmer claimed a UFO landed in his yard an...</p></details>
+   Link:<a href="https://podcasts.apple.com/de/podcast/mindless-banter-139-joe-simonton-the-alien-pancakes/id1121846301?i=1000743409118" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/de/podcast/mindless-banter-139-joe-simonton-the-alien-pancakes/id1121846301?i=1000743409118</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apple PodcastsMindless Banter 139: Joe Simonton &amp; the Alien PancakesIn 1961, a quiet Wisconsin farmer claimed a UFO landed in his yard an...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
    Title: the strange case of joe simonton often forgotten  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/12i872x/the_strange_case_of_joe_simonton_often_forgotten/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/12i872x/the_strange_case_of_joe_simonton_often_forgotten/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The strange case of Joe Simonton. Often forgotten about in...Joe was a chicken farmer in 1960s Wisconsin, when he had a bizarre encounte...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/12i872x/the_strange_case_of_joe_simonton_often_forgotten/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/12i872x/the_strange_case_of_joe_simonton_often_forgotten/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The strange case of Joe Simonton. Often forgotten about in...Joe was a chicken farmer in 1960s Wisconsin, when he had a bizarre encounte...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/EnglishLearning/comments/8ki46r/what_does_projects_mean_as_in_i_grew_up_in_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EnglishLearning/comments/8ki46r/what_does_projects_mean_as_in_i_grew_up_in_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>erring to government owned housing for low income residents.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/EnglishLearning/comments/8ki46r/what_does_projects_mean_as_in_i_grew_up_in_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EnglishLearning/comments/8ki46r/what_does_projects_mean_as_in_i_grew_up_in_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>erring to government owned housing for low income residents.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
    Title: in 1961 a chicken farmer called joe simonton  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/ox5e04/in_1961_a_chicken_farmer_called_joe_simonton/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/ox5e04/in_1961_a_chicken_farmer_called_joe_simonton/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1961, a chicken farmer called Joe Simonton claimed that a...In 1961, a chicken farmer called Joe Simonton claimed that a UFO landed i...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/ox5e04/in_1961_a_chicken_farmer_called_joe_simonton/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/ox5e04/in_1961_a_chicken_farmer_called_joe_simonton/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1961, a chicken farmer called Joe Simonton claimed that a...In 1961, a chicken farmer called Joe Simonton claimed that a UFO landed i...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: the-sun.com  
    Title: us air forces secret probe alien pancakes  
-   Link: <a href="https://www.the-sun.com/news/7625220/us-air-forces-secret-probe-alien-pancakes/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/7625220/us-air-forces-secret-probe-alien-pancakes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Air Force&#x27;s top-secret probe into &#x27;humanoid alien who...19 Mar 2023 — The US Air Force launched a top-secret probe into bizarre claim...</p></details>
+   Link:<a href="https://www.the-sun.com/news/7625220/us-air-forces-secret-probe-alien-pancakes/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/7625220/us-air-forces-secret-probe-alien-pancakes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Air Force&#x27;s top-secret probe into &#x27;humanoid alien who...19 Mar 2023 — The US Air Force launched a top-secret probe into bizarre claim...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=R9Ym5sK9r_s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R9Ym5sK9r_s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explore the 1961 Eagle River encounter, detailing Joe Simonton&#x27;s testimony, the skepticism surrounding his claims, and the s...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=R9Ym5sK9r_s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R9Ym5sK9r_s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explore the 1961 Eagle River encounter, detailing Joe Simonton&#x27;s testimony, the skepticism surrounding his claims, and the s...</p></details>

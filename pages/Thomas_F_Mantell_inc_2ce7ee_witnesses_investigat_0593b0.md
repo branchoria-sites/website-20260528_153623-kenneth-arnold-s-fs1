@@ -242,14 +242,14 @@ image: /assets/images/Thomas_F_Mantell_inc_2ce7ee_witnesses_investigat_0593b0-Il
 
 ## Introduction
 
-The Thomas F. Mantell incident became one of the first major American UFO controversies not simply because a pilot died, but because so many trained military observers claimed they had seen something unusual before the crash. Personnel at Godman Army Airfield, National Guard pilots, police dispatchers, and civilians across Kentucky and neighbouring states all reported an object that did not fit neatly into a conventional explanation. Yet the more the U.S. Air Force tried to explain the event, the more contradictions appeared. Witness descriptions varied, key radio transmissions were never recorded, and official conclusions shifted from Venus to a classified balloon programme and sometimes back again. The result was a case that helped shape early public distrust of Air Force UFO investigations and became deeply tied to the origins of Project Sign, the military’s first formal UFO inquiry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mantell UFO incident</span><span class="citation-popover-snippet">Mantell UFO incident</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">A few minutes later they got word that Mantell had crashed and was dead. Several hours later, at 7:20 P.M....Read more...</span></span></span>
+The Thomas F. Mantell incident became one of the first major American UFO controversies not simply because a pilot died, but because so many trained military observers claimed they had seen something unusual before the crash. Personnel at Godman Army Airfield, National Guard pilots, police dispatchers, and civilians across Kentucky and neighbouring states all reported an object that did not fit neatly into a conventional explanation. Yet the more the U.S. Air Force tried to explain the event, the more contradictions appeared. Witness descriptions varied, key radio transmissions were never recorded, and official conclusions shifted from Venus to a classified balloon programme and sometimes back again. The result was a case that helped shape early public distrust of Air Force UFO investigations and became deeply tied to the origins of Project Sign, the military’s first formal UFO inquiry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mantell UFO incident</span><span class="citation-popover-snippet">Mantell UFO incident</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">A few minutes later they got word that Mantell had crashed and was dead. Several hours later, at 7:20 P.M....Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Thomas_F_Mantell_inc_2ce7ee_witnesses_investigat_0593b0-Illustration-1-dark.svg" | relative_url }}" alt="Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/Thomas_F_Mantell_inc_2ce7ee_witnesses_investigat_0593b0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Thomas_F_Mantell_inc_2ce7ee_witnesses_investigat_0593b0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Godman Tower and the Regional Sighting Chain
 
-The mystery surrounding the Mantell case began before Captain Thomas Mantell ever entered the air. Reports of an unusual aerial object reached Godman Army Airfield throughout the afternoon of 7 January 1948. Witnesses from Kentucky towns including Maysville, Owensboro, Irvington, and Madisonville described a large airborne object moving westward at considerable altitude. Some callers estimated it to be hundreds of feet across. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mantell UFO incident</span><span class="citation-popover-snippet">Mantell UFO incident</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">A few minutes later they got word that Mantell had crashed and was dead. Several hours later, at 7:20 P.M....Read more...</span></span></span>
+The mystery surrounding the Mantell case began before Captain Thomas Mantell ever entered the air. Reports of an unusual aerial object reached Godman Army Airfield throughout the afternoon of 7 January 1948. Witnesses from Kentucky towns including Maysville, Owensboro, Irvington, and Madisonville described a large airborne object moving westward at considerable altitude. Some callers estimated it to be hundreds of feet across.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mantell UFO incident</span><span class="citation-popover-snippet">Mantell UFO incident</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">A few minutes later they got word that Mantell had crashed and was dead. Several hours later, at 7:20 P.M....Read more...</span></span></span>
 
-What made the reports difficult to dismiss was the number of military personnel who independently viewed the object through binoculars at Godman Tower. According to later reconstructions, the assistant tower operator initially hesitated to report what he saw because he did not want to make what he considered a “flying saucer report”. After other officers observed the same object, the concern shifted from embarrassment to identification. Several senior personnel, including Colonel Guy Hix, reportedly watched the object and admitted they could not classify it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">A few minutes later they got word that Mantell had crashed and was dead. Several hours later, at 7:20 P.M....Read more...</span></span></span>
+What made the reports difficult to dismiss was the number of military personnel who independently viewed the object through binoculars at Godman Tower. According to later reconstructions, the assistant tower operator initially hesitated to report what he saw because he did not want to make what he considered a “flying saucer report”. After other officers observed the same object, the concern shifted from embarrassment to identification. Several senior personnel, including Colonel Guy Hix, reportedly watched the object and admitted they could not classify it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">A few minutes later they got word that Mantell had crashed and was dead. Several hours later, at 7:20 P.M....Read more...</span></span></span>
 
 Descriptions were inconsistent in wording but surprisingly similar in overall shape. Witnesses variously described the object as:
 
@@ -259,18 +259,18 @@ Descriptions were inconsistent in wording but surprisingly similar in overall sh
 * “Like a parachute”
 * “Like an ice cream cone tipped with red”
 * “Tear-drop shaped”
-* “Metallic” <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/what-was-pilot-thomas-mantell-chasing-when-his-plane-crashed-in-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[thedebrief.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">what was pilot thomas mantell chasing when his plane crashed in 1948</span><span class="citation-popover-snippet">What Was Pilot Thomas Mantell Chasing When His Plane...15 Feb 2022 — Mantell himself radioed the tower and said the object was “metallic...</span></span></span>
-* “White with reddish detail underneath” <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mantell UFO incident</span><span class="citation-popover-snippet">Mantell UFO incident</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">A few minutes later they got word that Mantell had crashed and was dead. Several hours later, at 7:20 P.M....Read more...</span></span></span>
+* “Metallic”<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/what-was-pilot-thomas-mantell-chasing-when-his-plane-crashed-in-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[thedebrief.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">what was pilot thomas mantell chasing when his plane crashed in 1948</span><span class="citation-popover-snippet">What Was Pilot Thomas Mantell Chasing When His Plane...15 Feb 2022 — Mantell himself radioed the tower and said the object was “metallic...</span></span></span>
+* “White with reddish detail underneath”<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mantell UFO incident</span><span class="citation-popover-snippet">Mantell UFO incident</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">A few minutes later they got word that Mantell had crashed and was dead. Several hours later, at 7:20 P.M....Read more...</span></span></span>
 
 </div>
 
 These differences became important later. Skeptics argued that inconsistent descriptions weakened the case. UFO proponents argued the opposite: that independent witnesses describing a roughly similar shape without using identical language suggested genuine observation rather than collusion.
 
-Another complication was the uncertain timeline. Contemporary military paperwork, later recollections, newspaper stories, and Project Sign summaries sometimes disagreed about exact locations and times. Researchers examining the files decades later found place names crossed out, amended, or apparently misspelled in surviving reports. Some sightings may have referred to different objects entirely, while others were probably duplicate accounts from the same event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/books/Mantell_Incident/The_Mantell_Incident.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Mantell An Anatomy</span><span class="citation-popover-snippet">Mantell An Anatomy - Complete Report11 Feb 2015 — The Mantell Incident: An Anatomy of an Investigation, is more than a diary of what...</span></span></span>
+Another complication was the uncertain timeline. Contemporary military paperwork, later recollections, newspaper stories, and Project Sign summaries sometimes disagreed about exact locations and times. Researchers examining the files decades later found place names crossed out, amended, or apparently misspelled in surviving reports. Some sightings may have referred to different objects entirely, while others were probably duplicate accounts from the same event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/books/Mantell_Incident/The_Mantell_Incident.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Mantell An Anatomy</span><span class="citation-popover-snippet">Mantell An Anatomy - Complete Report11 Feb 2015 — The Mantell Incident: An Anatomy of an Investigation, is more than a diary of what...</span></span></span>
 
 ## Why the Witnesses Seemed More Credible Than Typical UFO Reports
 
-The Mantell incident acquired unusual weight in 1948 because the witnesses did not fit the stereotype of sensational civilian observers. Mantell himself was a decorated World War II pilot with a Distinguished Flying Cross. The Godman observers included trained military personnel accustomed to identifying aircraft and atmospheric phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mantell UFO incident</span><span class="citation-popover-snippet">Mantell UFO incident</span></span></span>
+The Mantell incident acquired unusual weight in 1948 because the witnesses did not fit the stereotype of sensational civilian observers. Mantell himself was a decorated World War II pilot with a Distinguished Flying Cross. The Godman observers included trained military personnel accustomed to identifying aircraft and atmospheric phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mantell UFO incident</span><span class="citation-popover-snippet">Mantell UFO incident</span></span></span>
 
 This credibility mattered enormously in the late 1940s. The United States Air Force had only recently become an independent military branch, and officials were already struggling with a wave of “flying saucer” reports that followed Kenneth Arnold’s famous 1947 sighting. Many reports could be dismissed quickly, but the Mantell case looked different because:
 
@@ -279,7 +279,7 @@ This credibility mattered enormously in the late 1940s. The United States Air Fo
 * Multiple observers viewed the object from different locations
 * The object was reportedly visible for an extended period
 * Military personnel requested an aerial intercept
-* A pilot died during the pursuit <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mantell UFO incident</span><span class="citation-popover-snippet">Mantell UFO incident</span></span></span>
+* A pilot died during the pursuit<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mantell UFO incident</span><span class="citation-popover-snippet">Mantell UFO incident</span></span></span>
 
 </div>
 
@@ -297,7 +297,7 @@ According to popular retellings, Mantell radioed the tower saying:
 
 > “It appears to be a metallic object… and it is of tremendous size.”
 
-That line became one of the foundational quotations in early UFO literature. Yet later Air Force investigator Edward J. Ruppelt found that witnesses at Godman Tower did not consistently remember Mantell saying it. Some recalled only that he saw an object “above and ahead”. Others remembered fragments of the famous wording. Crucially, there was no recording or official transcript of the radio exchange. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">A few minutes later they got word that Mantell had crashed and was dead. Several hours later, at 7:20 P.M....Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mysteryinksite.wordpress.com/2016/08/26/the-mantell-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mysteryinksite.wordpress.com">[Mystery Ink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mysteryinksite.wordpress.com</span><span class="citation-popover-title">the mantell mystery</span><span class="citation-popover-snippet">Mantell Mystery26 Aug 2016 — For example, there was no recording or formal transcription of radio messages between Godman Tower and Mante...</span></span></span>
+That line became one of the foundational quotations in early UFO literature. Yet later Air Force investigator Edward J. Ruppelt found that witnesses at Godman Tower did not consistently remember Mantell saying it. Some recalled only that he saw an object “above and ahead”. Others remembered fragments of the famous wording. Crucially, there was no recording or official transcript of the radio exchange.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">A few minutes later they got word that Mantell had crashed and was dead. Several hours later, at 7:20 P.M....Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://mysteryinksite.wordpress.com/2016/08/26/the-mantell-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mysteryinksite.wordpress.com">[Mystery Ink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mysteryinksite.wordpress.com</span><span class="citation-popover-title">the mantell mystery</span><span class="citation-popover-snippet">Mantell Mystery26 Aug 2016 — For example, there was no recording or formal transcription of radio messages between Godman Tower and Mante...</span></span></span>
 
 The absence of a recording became central to the controversy. Later commentators argued that:
 
@@ -309,24 +309,24 @@ The absence of a recording became central to the controversy. Later commentators
 
 </div>
 
-Even among believers, the quotation became difficult to defend with certainty because surviving testimony conflicted on precise wording. What appears more secure is that Mantell did report seeing something and continued climbing toward it despite warnings about altitude and oxygen limitations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">A few minutes later they got word that Mantell had crashed and was dead. Several hours later, at 7:20 P.M....Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mysteryinksite.wordpress.com/2016/08/26/the-mantell-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mysteryinksite.wordpress.com">[Mystery Ink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mysteryinksite.wordpress.com</span><span class="citation-popover-title">the mantell mystery</span><span class="citation-popover-snippet">Mantell Mystery26 Aug 2016 — For example, there was no recording or formal transcription of radio messages between Godman Tower and Mante...</span></span></span>
+Even among believers, the quotation became difficult to defend with certainty because surviving testimony conflicted on precise wording. What appears more secure is that Mantell did report seeing something and continued climbing toward it despite warnings about altitude and oxygen limitations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">A few minutes later they got word that Mantell had crashed and was dead. Several hours later, at 7:20 P.M....Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://mysteryinksite.wordpress.com/2016/08/26/the-mantell-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mysteryinksite.wordpress.com">[Mystery Ink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mysteryinksite.wordpress.com</span><span class="citation-popover-title">the mantell mystery</span><span class="citation-popover-snippet">Mantell Mystery26 Aug 2016 — For example, there was no recording or formal transcription of radio messages between Godman Tower and Mante...</span></span></span>
 
 The disagreement over a single sentence became symbolic of the entire case: ambiguous evidence interpreted in radically different ways depending on assumptions about witness reliability and Air Force honesty.
 
 <img src="{{ "/assets/images/Thomas_F_Mantell_inc_2ce7ee_witnesses_investigat_0593b0-Illustration-2-dark.svg" | relative_url }}" alt="Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/Thomas_F_Mantell_inc_2ce7ee_witnesses_investigat_0593b0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Thomas_F_Mantell_inc_2ce7ee_witnesses_investigat_0593b0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Project Sign and the Damage Done by Conflicting Explanations
 
-The Air Force’s handling of the Mantell case did more to fuel controversy than the sighting itself. Immediately after the crash, officials needed a rapid public explanation. The first major answer was Venus. The planet had been visible in the southern sky and had already been involved in earlier mistaken UFO reports involving pilots. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mantell UFO incident</span><span class="citation-popover-snippet">Mantell UFO incident</span></span></span>
+The Air Force’s handling of the Mantell case did more to fuel controversy than the sighting itself. Immediately after the crash, officials needed a rapid public explanation. The first major answer was Venus. The planet had been visible in the southern sky and had already been involved in earlier mistaken UFO reports involving pilots.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mantell UFO incident</span><span class="citation-popover-snippet">Mantell UFO incident</span></span></span>
 
 But the Venus explanation quickly ran into problems.
 
-The descriptions from Godman personnel involved shape, apparent size, colour variation, and prolonged visibility through binoculars. Astronomer J. Allen Hynek, initially associated with the Venus hypothesis, later concluded that the planet was probably too dim to explain what witnesses described, especially given atmospheric haze that afternoon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mantell UFO incident</span><span class="citation-popover-snippet">Mantell UFO incident</span></span></span>
+The descriptions from Godman personnel involved shape, apparent size, colour variation, and prolonged visibility through binoculars. Astronomer J. Allen Hynek, initially associated with the Venus hypothesis, later concluded that the planet was probably too dim to explain what witnesses described, especially given atmospheric haze that afternoon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mantell UFO incident</span><span class="citation-popover-snippet">Mantell UFO incident</span></span></span>
 
-The Air Force then moved toward a second explanation: a Skyhook balloon. These were large high-altitude research balloons used in classified military and scientific programmes. Because Skyhook launches were not widely known, many military personnel in 1948 would not have recognised one. Witness descriptions of a pear-shaped or parachute-like object matched the appearance of some balloon assemblies more closely than they matched Venus. Astronomers and later investigators increasingly favoured this explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mantell UFO incident</span><span class="citation-popover-snippet">Mantell UFO incident</span></span></span>
+The Air Force then moved toward a second explanation: a Skyhook balloon. These were large high-altitude research balloons used in classified military and scientific programmes. Because Skyhook launches were not widely known, many military personnel in 1948 would not have recognised one. Witness descriptions of a pear-shaped or parachute-like object matched the appearance of some balloon assemblies more closely than they matched Venus. Astronomers and later investigators increasingly favoured this explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mantell UFO incident</span><span class="citation-popover-snippet">Mantell UFO incident</span></span></span>
 
 The problem was not simply that the Air Force changed its mind. It was the way the change occurred.
 
-Official statements became inconsistent and sometimes contradictory. According to Ruppelt’s later account, one Air Force representative insisted the case had definitely been Venus even while official reports admitted uncertainty and discussed balloons as alternatives. The resulting reports appeared evasive and internally inconsistent. Ruppelt later criticised the Air Force wording as effectively saying the object “might have been Venus” or “might have been a balloon” without firmly committing to either. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">A few minutes later they got word that Mantell had crashed and was dead. Several hours later, at 7:20 P.M....Read more...</span></span></span>
+Official statements became inconsistent and sometimes contradictory. According to Ruppelt’s later account, one Air Force representative insisted the case had definitely been Venus even while official reports admitted uncertainty and discussed balloons as alternatives. The resulting reports appeared evasive and internally inconsistent. Ruppelt later criticised the Air Force wording as effectively saying the object “might have been Venus” or “might have been a balloon” without firmly committing to either.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">A few minutes later they got word that Mantell had crashed and was dead. Several hours later, at 7:20 P.M....Read more...</span></span></span>
 
 This mattered because Project Sign, the Air Force’s first UFO investigation programme, had only recently been established. The Mantell case became an early public test of whether the military could investigate unusual sightings credibly. Instead, the shifting explanations created the impression that officials were improvising conclusions under pressure.
 
@@ -344,13 +344,13 @@ There was:
 * No continuous radar track associated with the object
 * No photographic evidence
 * No precise observational log from Godman Tower
-* Conflicting witness recollections collected after the fact <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">A few minutes later they got word that Mantell had crashed and was dead. Several hours later, at 7:20 P.M....Read more...</span></span></span>
+* Conflicting witness recollections collected after the fact<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">A few minutes later they got word that Mantell had crashed and was dead. Several hours later, at 7:20 P.M....Read more...</span></span></span>
 
 </div>
 
 This absence created a vacuum quickly filled by rumour.
 
-Within days, sensational stories circulated claiming Mantell’s aircraft had been shot down by a UFO, that his body was riddled with bullets, or that the wreckage was radioactive or magnetised. None of these claims appeared in the crash investigation, and later Air Force reviews rejected them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mantell UFO incident</span><span class="citation-popover-snippet">Mantell UFO incident</span></span></span>
+Within days, sensational stories circulated claiming Mantell’s aircraft had been shot down by a UFO, that his body was riddled with bullets, or that the wreckage was radioactive or magnetised. None of these claims appeared in the crash investigation, and later Air Force reviews rejected them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mantell UFO incident</span><span class="citation-popover-snippet">Mantell UFO incident</span></span></span>
 
 Yet the very existence of such rumours damaged public trust. Because the Air Force had already altered or softened its explanations, many observers suspected concealment even when later corrections were accurate.
 
@@ -359,7 +359,7 @@ This pattern would become familiar in later UFO controversies: incomplete eviden
 <img src="{{ "/assets/images/Thomas_F_Mantell_inc_2ce7ee_witnesses_investigat_0593b0-Illustration-3-dark.svg" | relative_url }}" alt="Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/Thomas_F_Mantell_inc_2ce7ee_witnesses_investigat_0593b0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Thomas_F_Mantell_inc_2ce7ee_witnesses_investigat_0593b0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Mantell Witnesses Still Matter
 
-Modern historians and UFO researchers usually agree on one point: Mantell most likely died from hypoxia after climbing too high without oxygen equipment while pursuing a misidentified object, probably a Skyhook balloon. But agreement on the probable physical explanation has never fully ended debate about the witnesses themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mantell UFO incident</span><span class="citation-popover-snippet">Mantell UFO incident</span></span></span>
+Modern historians and UFO researchers usually agree on one point: Mantell most likely died from hypoxia after climbing too high without oxygen equipment while pursuing a misidentified object, probably a Skyhook balloon. But agreement on the probable physical explanation has never fully ended debate about the witnesses themselves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mantell UFO incident</span><span class="citation-popover-snippet">Mantell UFO incident</span></span></span>
 
 The witness testimony remains historically important because it exposed several recurring problems in UFO investigations:
 
@@ -380,194 +380,194 @@ Even today, discussions of the Mantell case often return less to the object itse
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yNDGH85IEvo" title="The Report on Unidentified Flying Objects | Edward J. Ruppelt | UFO Investigations Files 👽🛸📖🎧📂✨" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yNDGH85IEvo" target="_blank" rel="noopener noreferrer">The Report on Unidentified Flying Objects | Edward J. Ruppelt | UFO Investigations Files 👽🛸📖🎧📂✨</a></p><p class="youtube-embed-meta">Channel: Golden Fiction Tales &middot; Views: 432 &middot; Uploaded: April 2026 &middot; Length: 16 hours 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yNDGH85IEvo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yNDGH85IEvo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Witnesses Did Not End the Mystery. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Witnesses Did Not End the Mystery. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides an objective case-file profile of the Mantell incident, summarizing the sightings, the military investigation, and the resulting...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides an objective case-file profile of the Mantell incident, summarizing the sightings, the military investigation, and the resulting...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Details the early context of military UFO skepticism and the complex investigative process behind famous airbase sighting cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details the early context of military UFO skepticism and the complex investigative process behind famous airbase sighting cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Provides methodologies for auditing witness testimony in cases where initial reports involve contradictory or multiple accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides methodologies for auditing witness testimony in cases where initial reports involve contradictory or multiple accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Contextualizes how sighting incidents influenced early government investigative bureaus like Project Sign.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contextualizes how sighting incidents influenced early government investigative bureaus like Project Sign.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Red Arrows Poster | Royal Air Force RAF | Wall Art | Print | Aircraft Aviation"><img src="{{ '/assets/images/marketplace-covers/6d3a97c7ac80d84f3dd4.jpg' | relative_url }}" alt="Listing image for Red Arrows Poster | Royal Air Force RAF | Wall Art | Print | Aircraft Aviation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Red Arrows Poster | Royal Air Force RAF | Wall Art | Print | Aircraft Aviation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Red Arrows Poster | Royal Air Force RAF | Wall Art | Print | Aircraft Aviation"><img src="{{ '/assets/images/marketplace-covers/6d3a97c7ac80d84f3dd4.jpg' | relative_url }}" alt="Listing image for Red Arrows Poster | Royal Air Force RAF | Wall Art | Print | Aircraft Aviation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Red Arrows Poster | Royal Air Force RAF | Wall Art | Print | Aircraft Aviation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Aviation Poster Wall Art - Retro Airplane Decor Fine Art Print"><img src="{{ '/assets/images/marketplace-covers/aa405082db2bf8cb0f3c.jpg' | relative_url }}" alt="Listing image for Vintage Aviation Poster Wall Art - Retro Airplane Decor Fine Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Aviation Poster Wall Art - Retro Airplane Decor Fine Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Aviation Poster Wall Art - Retro Airplane Decor Fine Art Print"><img src="{{ '/assets/images/marketplace-covers/aa405082db2bf8cb0f3c.jpg' | relative_url }}" alt="Listing image for Vintage Aviation Poster Wall Art - Retro Airplane Decor Fine Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Aviation Poster Wall Art - Retro Airplane Decor Fine Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="witnesses-afd8ae-why-the-witnesses-did-not-end-the-mystery-thomas-f-mantell-incident-1948-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -583,7 +583,7 @@ Even today, discussions of the Mantell case often return less to the object itse
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -603,7 +603,7 @@ Even today, discussions of the Mantell case often return less to the object itse
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -635,7 +635,7 @@ Even today, discussions of the Mantell case often return less to the object itse
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -687,7 +687,7 @@ Even today, discussions of the Mantell case often return less to the object itse
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -732,7 +732,7 @@ Even today, discussions of the Mantell case often return less to the object itse
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -773,83 +773,83 @@ Even today, discussions of the Mantell case often return less to the object itse
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Mantell UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mantell_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mantell_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nicap.org  
    Title: Mantell An Anatomy  
-   Link: <a href="https://www.nicap.org/books/Mantell_Incident/The_Mantell_Incident.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/books/Mantell_Incident/The_Mantell_Incident.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mantell An Anatomy - Complete Report11 Feb 2015 — The Mantell Incident: An Anatomy of an Investigation, is more than a diary of what...</p></details>
+   Link:<a href="https://www.nicap.org/books/Mantell_Incident/The_Mantell_Incident.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/books/Mantell_Incident/The_Mantell_Incident.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mantell An Anatomy - Complete Report11 Feb 2015 — The Mantell Incident: An Anatomy of an Investigation, is more than a diary of what...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo05.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo05.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A few minutes later they got word that Mantell had crashed and was dead. Several hours later, at 7:20 P.M....Read more...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/rufo/rufo05.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo05.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A few minutes later they got word that Mantell had crashed and was dead. Several hours later, at 7:20 P.M....Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mysteryinksite.wordpress.com  
    Title: the mantell mystery  
-   Link: <a href="https://mysteryinksite.wordpress.com/2016/08/26/the-mantell-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://mysteryinksite.wordpress.com/2016/08/26/the-mantell-mystery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mantell Mystery26 Aug 2016 — For example, there was no recording or formal transcription of radio messages between Godman Tower and Mante...</p></details>
+   Link:<a href="https://mysteryinksite.wordpress.com/2016/08/26/the-mantell-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://mysteryinksite.wordpress.com/2016/08/26/the-mantell-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mantell Mystery26 Aug 2016 — For example, there was no recording or formal transcription of radio messages between Godman Tower and Mante...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sites.rootsweb.com  
-   Link: <a href="https://sites.rootsweb.com/~kyaths/mantel.txt" target="_blank" rel="noopener noreferrer nofollow">https://sites.rootsweb.com/~kyaths/mantel.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>rootsweb.commantel.txtDuesler,Jr., another eyewitness of the object over Godman Field, Captain Mantell &quot;reported his position at 7,500 fe...</p></details>
+   Link:<a href="https://sites.rootsweb.com/~kyaths/mantel.txt" target="_blank" rel="noopener noreferrer nofollow">https://sites.rootsweb.com/~kyaths/mantel.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rootsweb.commantel.txtDuesler,Jr., another eyewitness of the object over Godman Field, Captain Mantell &quot;reported his position at 7,500 fe...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: on january 7 1948 godman army airfield at fort knox received multiple reports fr  
-   Link: <a href="https://www.facebook.com/kynaturespirit/posts/on-january-7-1948-godman-army-airfield-at-fort-knox-received-multiple-reports-fr/502319505707892/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kynaturespirit/posts/on-january-7-1948-godman-army-airfield-at-fort-knox-received-multiple-reports-fr/502319505707892/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On January 7, 1948 Godman Army Airfield at Fort Knox...Mantell however continued his pursuit of the UFO and reached nearly 25,000 ft. Ma...</p></details>
+   Link:<a href="https://www.facebook.com/kynaturespirit/posts/on-january-7-1948-godman-army-airfield-at-fort-knox-received-multiple-reports-fr/502319505707892/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kynaturespirit/posts/on-january-7-1948-godman-army-airfield-at-fort-knox-received-multiple-reports-fr/502319505707892/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On January 7, 1948 Godman Army Airfield at Fort Knox...Mantell however continued his pursuit of the UFO and reached nearly 25,000 ft. Ma...</p></details>
    Published: January 7, 1948  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thedebrief.org  
    Title: what was pilot thomas mantell chasing when his plane crashed in 1948  
-   Link: <a href="https://thedebrief.org/what-was-pilot-thomas-mantell-chasing-when-his-plane-crashed-in-1948/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/what-was-pilot-thomas-mantell-chasing-when-his-plane-crashed-in-1948/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Was Pilot Thomas Mantell Chasing When His Plane...15 Feb 2022 — Mantell himself radioed the tower and said the object was “metallic...</p></details>
+   Link:<a href="https://thedebrief.org/what-was-pilot-thomas-mantell-chasing-when-his-plane-crashed-in-1948/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/what-was-pilot-thomas-mantell-chasing-when-his-plane-crashed-in-1948/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Was Pilot Thomas Mantell Chasing When His Plane...15 Feb 2022 — Mantell himself radioed the tower and said the object was “metallic...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=yNDGH85IEvo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yNDGH85IEvo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY of UFOs and ALIENS - PART 2 - The 1940s and 50s, including the Roswell Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yNDGH85IEvo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yNDGH85IEvo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY of UFOs and ALIENS - PART 2 - The 1940s and 50s, including the Roswell Incident...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Lost Contact: UFOs After Wartime  
-   Link: <a href="https://www.youtube.com/watch?v=tD9qvHdUyMI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tD9qvHdUyMI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying Objects | Edward J. Ruppelt | UFO Investigations Files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tD9qvHdUyMI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tD9qvHdUyMI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying Objects | Edward J. Ruppelt | UFO Investigations Files...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Project Blue Book: The Government's Failed War on Flying Saucers  
-   Link: <a href="https://www.youtube.com/watch?v=oL3hwFyXm20" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oL3hwFyXm20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lost Contact: UFOs After Wartime - Official Trailer...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oL3hwFyXm20" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oL3hwFyXm20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lost Contact: UFOs After Wartime - Official Trailer...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/zth30y/on_january_7_1948_this_fighter_pilot_was_killed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zth30y/on_january_7_1948_this_fighter_pilot_was_killed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On January 7, 1948 this fighter pilot was killed...According to the transcripts from Godman Airfield, Mantell spotted the object and sai...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/zth30y/on_january_7_1948_this_fighter_pilot_was_killed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zth30y/on_january_7_1948_this_fighter_pilot_was_killed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On January 7, 1948 this fighter pilot was killed...According to the transcripts from Godman Airfield, Mantell spotted the object and sai...</p></details>
    Published: January 7, 1948  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Death By UFO: Grave of Thomas Mantell  
-   Link: <a href="https://www.youtube.com/watch?v=4JTU0Aj9Qbc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4JTU0Aj9Qbc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: The Government&#x27;s Failed War on Flying Saucers...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4JTU0Aj9Qbc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4JTU0Aj9Qbc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: The Government&#x27;s Failed War on Flying Saucers...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: HISTORY of UFOs and ALIENS  
-   Link: <a href="https://www.youtube.com/watch?v=dnNJMAHprys" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dnNJMAHprys</a>
+   Link:<a href="https://www.youtube.com/watch?v=dnNJMAHprys" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dnNJMAHprys</a>

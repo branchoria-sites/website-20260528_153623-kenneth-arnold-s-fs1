@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /gemini-4-sighting-19-9c351d-index/
 description: Focused pages that expand on Gemini 4 sighting 1965.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Gemini_4_sighting_19_9c351d
 parent_title: Gemini 4 sighting 1965
@@ -16,7 +16,7 @@ parent_permalink: /gemini-4-sighting-1965/
 
 # Explore Topics in Gemini 4 sighting 1965
 
-The following pages expand on the main **[Gemini 4 sighting 1965]({{ '/gemini-4-sighting-1965/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Gemini 4 sighting 1965]({{ '/gemini-4-sighting-1965/' | relative_url }})** page and cover its key branches in.
 
 - [Explanations]({{ '/explanations-6c6412/' | relative_url }})
 - [Photo Evidence]({{ '/photo-evidence/' | relative_url }})

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /muroc-field-sighting-a700e4-index/
 description: Focused pages that expand on Muroc Field sightings 1947.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Muroc_Field_sighting_a700e4
 parent_title: Muroc Field sightings 1947
@@ -16,7 +16,7 @@ parent_permalink: /muroc-field-sightings-1947/
 
 # Explore Topics in Muroc Field sightings 1947
 
-The following pages expand on the main **[Muroc Field sightings 1947]({{ '/muroc-field-sightings-1947/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Muroc Field sightings 1947]({{ '/muroc-field-sightings-1947/' | relative_url }})** page and cover its key branches in.
 
 - [Explanations]({{ '/explanations-9a4c42/' | relative_url }})
 - [Timeline]({{ '/timeline-3fee69/' | relative_url }})

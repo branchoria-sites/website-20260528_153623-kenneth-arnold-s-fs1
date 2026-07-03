@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alan-godfrey-encount-87fc0b-index/
 description: Focused pages that expand on Alan Godfrey encounter 1980.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Alan_Godfrey_encount_87fc0b
 parent_title: Alan Godfrey encounter 1980
@@ -16,7 +16,7 @@ parent_permalink: /alan-godfrey-encounter-1980/
 
 # Explore Topics in Alan Godfrey encounter 1980
 
-The following pages expand on the main **[Alan Godfrey encounter 1980]({{ '/alan-godfrey-encounter-1980/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Alan Godfrey encounter 1980]({{ '/alan-godfrey-encounter-1980/' | relative_url }})** page and cover its key branches in.
 
 - [Todmorden Link]({{ '/todmorden-link/' | relative_url }})
 - [Road Sighting]({{ '/road-sighting/' | relative_url }})

@@ -758,29 +758,29 @@ image: /assets/images/Walesville_Incident_cbceb2-overview-social.jpg
 
 ## What happened near Walesville?
 
-On 2 July 1954, F-94C aircraft 51-13559 took off from Griffiss Air Force Base at about 11:05 local time. The aircraft was initially on a routine training mission, but Ground Control Intercept redirected it to investigate an unidentified aircraft at about 10,000 feet. The crew identified one target as a C-47 transport by tail number, then was asked to check a second unidentified aircraft at lower altitude, apparently near the Griffiss traffic pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/walesville_condon.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+On 2 July 1954, F-94C aircraft 51-13559 took off from Griffiss Air Force Base at about 11:05 local time. The aircraft was initially on a routine training mission, but Ground Control Intercept redirected it to investigate an unidentified aircraft at about 10,000 feet. The crew identified one target as a C-47 transport by tail number, then was asked to check a second unidentified aircraft at lower altitude, apparently near the Griffiss traffic pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/walesville_condon.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
 <img src="{{ "/assets/images/Walesville_Incident_cbceb2-overview.webp" | relative_url }}" alt="Overview image for Walesville Incident 1954" loading="eager" decoding="sync" fetchpriority="high">
-During the descent, the cockpit temperature rose abruptly and the fire-warning light remained on after the throttle was placed at idle. The crew shut down the engine and ejected. Both airmen survived, but the pilotless aircraft continued for several miles before crashing at the Walesville intersection, striking a house and an automobile. The four civilians killed were Stanley Phillips, Florence Phillips, their son Gary Phillips, and Doris Monroe; a child, Betty Lou Monroe, was injured. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/540702walesville_ridge.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/Walesville_IUR_2000_v25No03.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Walesville IUR 2000 v25No03</span><span class="citation-popover-snippet">Walesville IUR 2000 v25No03</span></span></span>
+During the descent, the cockpit temperature rose abruptly and the fire-warning light remained on after the throttle was placed at idle. The crew shut down the engine and ejected. Both airmen survived, but the pilotless aircraft continued for several miles before crashing at the Walesville intersection, striking a house and an automobile. The four civilians killed were Stanley Phillips, Florence Phillips, their son Gary Phillips, and Doris Monroe; a child, Betty Lou Monroe, was injured.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/540702walesville_ridge.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/Walesville_IUR_2000_v25No03.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Walesville IUR 2000 v25No03</span><span class="citation-popover-snippet">Walesville IUR 2000 v25No03</span></span></span>
 
-The Aviation Safety Network entry for the accident records the aircraft as a Lockheed F-94C Starfire, registration 51-13559, with no fatalities among the two occupants but four fatalities on the ground. It also notes that the aircraft departed from and was bound for Griffiss AFB, and that it hit a car and a house after the crew ejected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation-safety.net/wikibase/180615" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[Aviation Safety Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Aviation Safety Network entry for the accident records the aircraft as a Lockheed F-94C Starfire, registration 51-13559, with no fatalities among the two occupants but four fatalities on the ground. It also notes that the aircraft departed from and was bound for Griffiss AFB, and that it hit a car and a house after the crew ejected.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation-safety.net/wikibase/180615" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[Aviation Safety Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Why the case became a UFO story
 
 The Walesville case entered UFO literature because the ordinary military term “unidentified aircraft” became entangled with the stronger popular meaning of “UFO”. In lay terms, the F-94C had indeed been sent to identify unknown targets. That does not by itself mean it was chasing an exotic craft; it means air-defence controllers had a target or aircraft whose identity had not yet been established.
 
-The more dramatic version was spread by Major Donald E. Keyhoe and later writers. In a reproduced Keyhoe text, the case is described as an F-94 scrambled to chase a UFO near Walesville, with “unbearable heat” filling the cockpit as the pilot tried to close in, followed by the crew bailing out and the aircraft killing civilians on the ground. Keyhoe connected this to a broader argument about UFO propulsion effects, including heat, radiation, and electrical interference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/ufoantig.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The more dramatic version was spread by Major Donald E. Keyhoe and later writers. In a reproduced Keyhoe text, the case is described as an F-94 scrambled to chase a UFO near Walesville, with “unbearable heat” filling the cockpit as the pilot tried to close in, followed by the crew bailing out and the aircraft killing civilians on the ground. Keyhoe connected this to a broader argument about UFO propulsion effects, including heat, radiation, and electrical interference.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/ufoantig.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That version is memorable, but it compresses several issues: the military identification mission, a real cockpit heat/fire-warning emergency, a tragic crash, and separate regional reports of a silvery object. Later researchers have argued that this compression made the event look more anomalous than the official sequence supports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/540702walesville_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+That version is memorable, but it compresses several issues: the military identification mission, a real cockpit heat/fire-warning emergency, a tragic crash, and separate regional reports of a silvery object. Later researchers have argued that this compression made the event look more anomalous than the official sequence supports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/540702walesville_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
 <img src="{{ "/assets/images/Walesville_Incident_cbceb2-Illustration-1-dark.svg" | relative_url }}" alt="Walesville Incident 1954 illustration 1" data-theme-src-dark="{{ "/assets/images/Walesville_Incident_cbceb2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Walesville_Incident_cbceb2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest official explanation
 
-The Condon Report’s Walesville entry, based on the Air Force accident account, concluded that the first object was probably a balloon and that there was no UFO involvement in the aircraft accident. Its summary states that the pilot identified a C-47, was then asked to check another unidentified aircraft, encountered abrupt cockpit heating and a fire-warning indication, and abandoned the aircraft according to emergency procedure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/walesville_condon.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+The Condon Report’s Walesville entry, based on the Air Force accident account, concluded that the first object was probably a balloon and that there was no UFO involvement in the aircraft accident. Its summary states that the pilot identified a C-47, was then asked to check another unidentified aircraft, encountered abrupt cockpit heating and a fire-warning indication, and abandoned the aircraft according to emergency procedure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/walesville_condon.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-Kevin Randle’s later review in the *International UFO Reporter* gives the most useful sceptical reconstruction. It states that the accident investigation found the primary cause to be a malfunction of the aircraft fire-detector circuit; the cause of that malfunction could not be determined; and the pilot’s decision to abandon the aircraft was consistent with the F-94C Flight Handbook. The same review says examination of the air-conditioning and pressurisation system found no evidence of smoke, fuel, or oil that would have been expected from an in-flight fire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/540702walesville_ridge.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+Kevin Randle’s later review in the *International UFO Reporter* gives the most useful sceptical reconstruction. It states that the accident investigation found the primary cause to be a malfunction of the aircraft fire-detector circuit; the cause of that malfunction could not be determined; and the pilot’s decision to abandon the aircraft was consistent with the F-94C Flight Handbook. The same review says examination of the air-conditioning and pressurisation system found no evidence of smoke, fuel, or oil that would have been expected from an in-flight fire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/540702walesville_ridge.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
-This does not make the accident trivial. It means the probable chain was a dangerous coincidence: cockpit heat from normal or poorly controlled aircraft systems, a false or malfunctioning fire warning, low altitude, and emergency procedures that led the crew to eject. Randle also notes that the accident report faulted Air Force inspection requirements for F-94C fire and overheat-warning circuits as inadequate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/Walesville_IUR_2000_v25No03.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Walesville IUR 2000 v25No03</span><span class="citation-popover-snippet">Walesville IUR 2000 v25No03</span></span></span>
+This does not make the accident trivial. It means the probable chain was a dangerous coincidence: cockpit heat from normal or poorly controlled aircraft systems, a false or malfunctioning fire warning, low altitude, and emergency procedures that led the crew to eject. Randle also notes that the accident report faulted Air Force inspection requirements for F-94C fire and overheat-warning circuits as inadequate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/Walesville_IUR_2000_v25No03.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Walesville IUR 2000 v25No03</span><span class="citation-popover-snippet">Walesville IUR 2000 v25No03</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2j2YPSSQLQM" title="Project Blue Book UFO Files: 15 True Declassified Cases | Fall Asleep to UFO Stories (Episode 2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2j2YPSSQLQM" target="_blank" rel="noopener noreferrer">Project Blue Book UFO Files: 15 True Declassified Cases | Fall Asleep to UFO Stories (Episode 2)</a></p><p class="youtube-embed-meta">Channel: Dreams of Disclosure &middot; Views: 41.3K &middot; Uploaded: October 2025 &middot; Length: 5 hours 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2j2YPSSQLQM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2j2YPSSQLQM">Open on YouTube</a></p></div></div></div>
 
@@ -788,20 +788,20 @@ This does not make the accident trivial. It means the probable chain was a dange
 
 The UFO interpretation rests on four main points, but each is weaker than it first appears.
 
-First, the aircraft was diverted to an active air-defence identification mission. This is real and important, but it proves only that one or more aircraft were unidentified at the time they were assigned for interception. The official account says one target was identified as a C-47, while the second was apparently near Griffiss and may have been another ordinary aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/540702walesville_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+First, the aircraft was diverted to an active air-defence identification mission. This is real and important, but it proves only that one or more aircraft were unidentified at the time they were assigned for interception. The official account says one target was identified as a C-47, while the second was apparently near Griffiss and may have been another ordinary aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/540702walesville_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-Second, a silvery balloon-like object was reported in the Utica area. Contemporary press material quoted in later reviews described many public calls about a silvery object seen in the evening, with an Air Force officer suggesting it appeared to be a partially deflated plastic balloon. This is relevant to the local UFO climate, but it may have been a separate event, not the object involved in the late-morning F-94 emergency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/540702walesville_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+Second, a silvery balloon-like object was reported in the Utica area. Contemporary press material quoted in later reviews described many public calls about a silvery object seen in the evening, with an Air Force officer suggesting it appeared to be a partially deflated plastic balloon. This is relevant to the local UFO climate, but it may have been a separate event, not the object involved in the late-morning F-94 emergency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/540702walesville_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-Third, the cockpit heat was real enough to alarm the crew. That remains the case’s most interesting technical feature. Yet the declassified accident analysis, as summarised by Randle, treated it as a combination of a fire-warning circuit malfunction and a normal temperature rise that the pilot interpreted as an overheat condition, not as proof of an external heat ray or weapon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/540702walesville_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+Third, the cockpit heat was real enough to alarm the crew. That remains the case’s most interesting technical feature. Yet the declassified accident analysis, as summarised by Randle, treated it as a combination of a fire-warning circuit malfunction and a normal temperature rise that the pilot interpreted as an overheat condition, not as proof of an external heat ray or weapon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/540702walesville_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-Fourth, later writers claimed suppressed testimony, sealed records, or muzzled pilots. Those claims explain why the case remained attractive to UFO researchers, but the available documentary record does not establish that the crew saw an extraordinary object attack the aircraft. It establishes an accident investigation, later declassification, and a mismatch between early speculative UFO narratives and the technical findings later available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/540702walesville_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+Fourth, later writers claimed suppressed testimony, sealed records, or muzzled pilots. Those claims explain why the case remained attractive to UFO researchers, but the available documentary record does not establish that the crew saw an extraordinary object attack the aircraft. It establishes an accident investigation, later declassification, and a mismatch between early speculative UFO narratives and the technical findings later available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/540702walesville_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
 <img src="{{ "/assets/images/Walesville_Incident_cbceb2-Illustration-2-dark.svg" | relative_url }}" alt="Walesville Incident 1954 illustration 2" data-theme-src-dark="{{ "/assets/images/Walesville_Incident_cbceb2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Walesville_Incident_cbceb2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the sceptical case is strongest
 
 The sceptical reading is strongest because it separates the events rather than merging them into one dramatic sequence. The local balloon-like sighting, the air-defence identification task, the fire-warning emergency, and the ground tragedy are all real or plausibly documented elements. The key question is whether they form a single extraordinary encounter. The official and technical evidence says they probably do not.
 
-The Condon summary is blunt: “There is no Blue Book file because no UFO was involved,” followed by the conclusions that the first object was probably a balloon and that there was no UFO in the aircraft accident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/540702walesville_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span> Randle’s review goes further into the accident mechanics, arguing that UFO writers relied on incomplete reports while the accident report, once available, pointed to a malfunctioning warning system rather than an external cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/540702walesville_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+The Condon summary is blunt: “There is no Blue Book file because no UFO was involved,” followed by the conclusions that the first object was probably a balloon and that there was no UFO in the aircraft accident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/540702walesville_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span> Randle’s review goes further into the accident mechanics, arguing that UFO writers relied on incomplete reports while the accident report, once available, pointed to a malfunctioning warning system rather than an external cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/540702walesville_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
 The case is therefore better understood as a tragic Cold War air-defence accident that became a UFO-effects case through incomplete early information, secrecy around military accident records, and the natural ambiguity of the word “unidentified”. The unresolved part is not whether four civilians died or whether the crew faced a cockpit emergency; both are clear. The unresolved part is whether the second unidentified target had any unusual character. The available evidence does not demonstrate that it did.
 
@@ -809,9 +809,9 @@ The case is therefore better understood as a tragic Cold War air-defence acciden
 
 ## What remains genuinely uncertain?
 
-Several details remain imperfectly documented for a public reader. The exact identity of the second target was not positively established in the pilot’s account as presented in the Condon material, and later researchers disagree about whether it was clearly resolved by tower personnel. Press accounts also created confusion about the number of interceptors, the timing of the balloon sighting, and whether the aircraft was on a “practice scramble” or a routine training mission diverted into an active air-defence task. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/540702walesville_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+Several details remain imperfectly documented for a public reader. The exact identity of the second target was not positively established in the pilot’s account as presented in the Condon material, and later researchers disagree about whether it was clearly resolved by tower personnel. Press accounts also created confusion about the number of interceptors, the timing of the balloon sighting, and whether the aircraft was on a “practice scramble” or a routine training mission diverted into an active air-defence task.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/540702walesville_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-There is also a human gap. The deaths of the Phillips family and Doris Monroe are often treated as a supporting detail in UFO retellings, when they are actually the central historical fact. Local narrative accounts preserve the domestic and village setting of the tragedy, including the Monroe and Phillips families’ proximity to the intersection and the destruction of homes and a car, though such narrative reconstructions should be read as local remembrance rather than as a substitute for the accident report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://asset.library.wisc.edu/1711.dl/QSBV3FNKTLVSI8M/R/file-39a3c.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asset.library.wisc.edu">[Library Asset Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asset.library.wisc.edu</span><span class="citation-popover-title">Library Asset Server Microsoft Word</span><span class="citation-popover-snippet">Library Asset Server Microsoft Word</span></span></span>
+There is also a human gap. The deaths of the Phillips family and Doris Monroe are often treated as a supporting detail in UFO retellings, when they are actually the central historical fact. Local narrative accounts preserve the domestic and village setting of the tragedy, including the Monroe and Phillips families’ proximity to the intersection and the destruction of homes and a car, though such narrative reconstructions should be read as local remembrance rather than as a substitute for the accident report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://asset.library.wisc.edu/1711.dl/QSBV3FNKTLVSI8M/R/file-39a3c.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asset.library.wisc.edu">[Library Asset Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asset.library.wisc.edu</span><span class="citation-popover-title">Library Asset Server Microsoft Word</span><span class="citation-popover-snippet">Library Asset Server Microsoft Word</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xWsM11p1Iq0" title="Rome UFO Stories With Griffiss Air Force Base" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xWsM11p1Iq0" target="_blank" rel="noopener noreferrer">Rome UFO Stories With Griffiss Air Force Base</a></p><p class="youtube-embed-meta">Channel: Big Frog 104 &middot; Views: 4.4K &middot; Uploaded: February 2017 &middot; Length: 1 minute 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xWsM11p1Iq0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xWsM11p1Iq0">Open on YouTube</a></p></div></div></div>
 
@@ -824,180 +824,180 @@ The most defensible conclusion is that Walesville was a tragic Air Force acciden
 <img src="{{ "/assets/images/Walesville_Incident_cbceb2-Illustration-3-dark.svg" | relative_url }}" alt="Walesville Incident 1954 illustration 3" data-theme-src-dark="{{ "/assets/images/Walesville_Incident_cbceb2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Walesville_Incident_cbceb2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did a UFO Really Down the Walesville Jet?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did a UFO Really Down the Walesville Jet?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Details how military air safety reviews and UFO reports were handled in the mid-1950s.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details how military air safety reviews and UFO reports were handled in the mid-1950s.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches forensic methodology to separate tragic military accidents from folklore-driven UFO theories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches forensic methodology to separate tragic military accidents from folklore-driven UFO theories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Documents how investigative bureaus handled reports that led to civilian casualties versus extraordinary craft claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents how investigative bureaus handled reports that led to civilian casualties versus extraordinary craft claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides an objective case-file entry documenting the Walesville Incident, summarizing the military crash, civilian casualties, and subse...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides an objective case-file entry documenting the Walesville Incident, summarizing the military crash, civilian casualties, and subse...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/reports/walesville_condon.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/walesville_condon.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/walesville_condon.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/walesville_condon.htm</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aviation-safety.net  
-   Link: <a href="https://aviation-safety.net/wikibase/180615" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/180615</a>  
+   Link:<a href="https://aviation-safety.net/wikibase/180615" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/180615</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nicap.org  
    Title: UFO Report  
-   Link: <a href="https://www.nicap.org/reports/540702walesville_ridge.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/540702walesville_ridge.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/540702walesville_ridge.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/540702walesville_ridge.htm</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nicap.org  
    Title: Walesville IUR 2000 v25No03  
-   Link: <a href="https://www.nicap.org/reports/Walesville_IUR_2000_v25No03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/Walesville_IUR_2000_v25No03.pdf</a>  
+   Link:<a href="https://www.nicap.org/reports/Walesville_IUR_2000_v25No03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/Walesville_IUR_2000_v25No03.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/540702walesville_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/540702walesville_dir.htm</a>  
+   Link:<a href="https://www.nicap.org/540702walesville_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/540702walesville_dir.htm</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aviation-safety.net  
-   Link: <a href="https://aviation-safety.net/asndb/type/f94/2" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/asndb/type/f94/2</a>  
+   Link:<a href="https://aviation-safety.net/asndb/type/f94/2" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/asndb/type/f94/2</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aviation-safety.net  
-   Link: <a href="https://aviation-safety.net/asndb/year/1954/15" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/asndb/year/1954/15</a>  
+   Link:<a href="https://aviation-safety.net/asndb/year/1954/15" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/asndb/year/1954/15</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/ufoantig.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/ufoantig.htm</a>  
+   Link:<a href="https://sacred-texts.com/ufo/ufoantig.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/ufoantig.htm</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: asset.library.wisc.edu  
    Title: Library Asset Server Microsoft Word  
-   Link: <a href="https://asset.library.wisc.edu/1711.dl/QSBV3FNKTLVSI8M/R/file-39a3c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asset.library.wisc.edu/1711.dl/QSBV3FNKTLVSI8M/R/file-39a3c.pdf</a>  
+   Link:<a href="https://asset.library.wisc.edu/1711.dl/QSBV3FNKTLVSI8M/R/file-39a3c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asset.library.wisc.edu/1711.dl/QSBV3FNKTLVSI8M/R/file-39a3c.pdf</a>  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Lockheed F-94 Starfire: America’s First Afterburning Jet Interceptor!  
-   Link: <a href="http://www.youtube.com/watch?v=wrjg4xK6EgE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=wrjg4xK6EgE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Files: 15 True Declassified Cases | Fall Asleep to UFO Stories (Episode 2)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=wrjg4xK6EgE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=wrjg4xK6EgE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Files: 15 True Declassified Cases | Fall Asleep to UFO Stories (Episode 2)...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=QWR9JYK25wQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=QWR9JYK25wQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Cases of New York Rob Kristoffersen THE BIGGEST MASS UFO SIGHTING EVER | The Proof Is Out There | #shorts | History HISTORY...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=QWR9JYK25wQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=QWR9JYK25wQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Cases of New York Rob Kristoffersen THE BIGGEST MASS UFO SIGHTING EVER | The Proof Is Out There | #shorts | History HISTORY...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=2j2YPSSQLQM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=2j2YPSSQLQM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>F-94 Starfire Crash Site // Petersham, MA (1955)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=2j2YPSSQLQM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=2j2YPSSQLQM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>F-94 Starfire Crash Site // Petersham, MA (1955)...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/content/pkg/GOVPUB-CS1-7c2b5977716715b58ab9265ff082b03a/pdf/GOVPUB-CS1-7c2b5977716715b58ab9265ff082b03a-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-CS1-7c2b5977716715b58ab9265ff082b03a/pdf/GOVPUB-CS1-7c2b5977716715b58ab9265ff082b03a-2.pdf</a>  
+   Link:<a href="https://www.govinfo.gov/content/pkg/GOVPUB-CS1-7c2b5977716715b58ab9265ff082b03a/pdf/GOVPUB-CS1-7c2b5977716715b58ab9265ff082b03a-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-CS1-7c2b5977716715b58ab9265ff082b03a/pdf/GOVPUB-CS1-7c2b5977716715b58ab9265ff082b03a-2.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: First Flight of the Lockheed F-94 Starfire  
-   Link: <a href="http://www.youtube.com/watch?v=g_MddfX1P8U" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=g_MddfX1P8U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lockheed F-94 Starfire: America’s First Afterburning Jet Interceptor...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=g_MddfX1P8U" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=g_MddfX1P8U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lockheed F-94 Starfire: America’s First Afterburning Jet Interceptor...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/whatsgoingoninwestmo/posts/4467754510113483/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/whatsgoingoninwestmo/posts/4467754510113483/</a>  
+   Link:<a href="https://www.facebook.com/groups/whatsgoingoninwestmo/posts/4467754510113483/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/whatsgoingoninwestmo/posts/4467754510113483/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: famigliafideus.com  
-   Link: <a href="https://www.famigliafideus.com/wp-content/uploads/2018/04/GLI-UFO-E-LA-CIA-Alfredo-Lissoni.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.famigliafideus.com/wp-content/uploads/2018/04/GLI-UFO-E-LA-CIA-Alfredo-Lissoni.pdf</a>  
+   Link:<a href="https://www.famigliafideus.com/wp-content/uploads/2018/04/GLI-UFO-E-LA-CIA-Alfredo-Lissoni.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.famigliafideus.com/wp-content/uploads/2018/04/GLI-UFO-E-LA-CIA-Alfredo-Lissoni.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: laundryheap.com  
-   Link: <a href="https://www.laundryheap.com/en-us/all" target="_blank" rel="noopener noreferrer nofollow">https://www.laundryheap.com/en-us/all</a>  
+   Link:<a href="https://www.laundryheap.com/en-us/all" target="_blank" rel="noopener noreferrer nofollow">https://www.laundryheap.com/en-us/all</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: kbmorgan.com  
-   Link: <a href="https://kbmorgan.com/ufos/ufofiles/db709.htm" target="_blank" rel="noopener noreferrer nofollow">https://kbmorgan.com/ufos/ufofiles/db709.htm</a>  
+   Link:<a href="https://kbmorgan.com/ufos/ufofiles/db709.htm" target="_blank" rel="noopener noreferrer nofollow">https://kbmorgan.com/ufos/ufofiles/db709.htm</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WestmorelandHistoricalSociety/posts/it-was-standing-room-only-for-the-walesville-incident-an-afternoon-of-inquiry-an/784756325064817/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WestmorelandHistoricalSociety/posts/it-was-standing-room-only-for-the-walesville-incident-an-afternoon-of-inquiry-an/784756325064817/</a>
+   Link:<a href="https://www.facebook.com/WestmorelandHistoricalSociety/posts/it-was-standing-room-only-for-the-walesville-incident-an-afternoon-of-inquiry-an/784756325064817/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WestmorelandHistoricalSociety/posts/it-was-standing-room-only-for-the-walesville-incident-an-afternoon-of-inquiry-an/784756325064817/</a>

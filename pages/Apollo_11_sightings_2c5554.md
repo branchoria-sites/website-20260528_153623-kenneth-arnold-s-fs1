@@ -758,25 +758,25 @@ image: /assets/images/Apollo_11_sightings_2c5554-overview-social.jpg
 
 ## Introduction
 
-A second, less sensational but scientifically important sighting involved flashes of light seen inside the darkened cabin, especially by Buzz Aldrin. Later work on astronaut “[light flashes]({{ 'light-flashes/' | relative_url }})” linked this kind of experience to high-energy particles interacting with the visual system, making it an Apollo 11 observation that mattered more for space medicine than for UFO lore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apollojournals.org/alsj/a11/A11TechCrewDebrfV1_ALSJ.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apollojournals.org">[apollojournals.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apollojournals.org</span><span class="citation-popover-title">A11Tech Crew Debrf V1 ALSJ</span><span class="citation-popover-snippet">A11Tech Crew Debrf V1 ALSJ</span></span></span>
+A second, less sensational but scientifically important sighting involved flashes of light seen inside the darkened cabin, especially by Buzz Aldrin. Later work on astronaut “[light flashes]({{ 'light-flashes/' | relative_url }})” linked this kind of experience to high-energy particles interacting with the visual system, making it an Apollo 11 observation that mattered more for space medicine than for UFO lore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apollojournals.org/alsj/a11/A11TechCrewDebrfV1_ALSJ.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apollojournals.org">[apollojournals.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apollojournals.org</span><span class="citation-popover-title">A11Tech Crew Debrf V1 ALSJ</span><span class="citation-popover-snippet">A11Tech Crew Debrf V1 ALSJ</span></span></span>
 
 <img src="{{ "/assets/images/Apollo_11_sightings_2c5554-overview.webp" | relative_url }}" alt="Overview image for Apollo 11 sightings 1969" loading="eager" decoding="sync" fetchpriority="high">
 ## What the crew actually reported
 
-Apollo 11 launched on 16 July 1969 with Neil Armstrong, Michael Collins and Edwin “Buzz” Aldrin, then entered translunar flight after the S-IVB third stage reignited and sent the spacecraft towards the Moon. NASA’s mission overview records that Columbia separated from the stage, the spacecraft-lunar module adapter panels were jettisoned, the command and service module docked with the lunar module Eagle, and the S-IVB later separated into a heliocentric orbit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/history/apollo-11-mission-overview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">Apollo 11 Mission Overview</span><span class="citation-popover-snippet">Apollo 11 Mission Overview</span></span></span>
+Apollo 11 launched on 16 July 1969 with Neil Armstrong, Michael Collins and Edwin “Buzz” Aldrin, then entered translunar flight after the S-IVB third stage reignited and sent the spacecraft towards the Moon. NASA’s mission overview records that Columbia separated from the stage, the spacecraft-lunar module adapter panels were jettisoned, the command and service module docked with the lunar module Eagle, and the S-IVB later separated into a heliocentric orbit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/history/apollo-11-mission-overview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">Apollo 11 Mission Overview</span><span class="citation-popover-snippet">Apollo 11 Mission Overview</span></span></span>
 
-That hardware sequence matters because it created a natural environment for confusing visual sightings. Apollo 11 was not travelling through empty space in the everyday sense: it had recently separated from a large rocket stage and associated adapter hardware, and the astronauts were also seeing small objects pass by during dumps from the spacecraft. In the 31 July 1969 technical crew debriefing, Aldrin introduced the main sighting as “the first unusual thing” seen during the coast to the Moon, describing an object large enough to justify using the monocular. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apollojournals.org/alsj//a11/a11tecdbrf.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apollojournals.org">[apollojournals.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apollojournals.org</span><span class="citation-popover-title">Apollo 11 Technical Crew Debriefing</span><span class="citation-popover-snippet">Apollo 11 Technical Crew Debriefing</span></span></span>
+That hardware sequence matters because it created a natural environment for confusing visual sightings. Apollo 11 was not travelling through empty space in the everyday sense: it had recently separated from a large rocket stage and associated adapter hardware, and the astronauts were also seeing small objects pass by during dumps from the spacecraft. In the 31 July 1969 technical crew debriefing, Aldrin introduced the main sighting as “the first unusual thing” seen during the coast to the Moon, describing an object large enough to justify using the monocular.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apollojournals.org/alsj//a11/a11tecdbrf.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apollojournals.org">[apollojournals.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apollojournals.org</span><span class="citation-popover-title">Apollo 11 Technical Crew Debriefing</span><span class="citation-popover-snippet">Apollo 11 Technical Crew Debriefing</span></span></span>
 
-The crew first considered whether the object might be the S-IVB stage. Aldrin said they asked the ground and were told that the S-IVB was 6,000 miles away; after that, the crew had to look for other possibilities. He described “one brighter object” that seemed to have “a bit of an L shape”, while Armstrong compared it to an “open suitcase”. Aldrin added that the spacecraft was in passive thermal control, a slow roll used to manage heating, so each crew member had a chance to see it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apollojournals.org/alsj/a11/A11TechCrewDebrfV1_ALSJ.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apollojournals.org">[apollojournals.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apollojournals.org</span><span class="citation-popover-title">A11Tech Crew Debrf V1 ALSJ</span><span class="citation-popover-snippet">A11Tech Crew Debrf V1 ALSJ</span></span></span>
+The crew first considered whether the object might be the S-IVB stage. Aldrin said they asked the ground and were told that the S-IVB was 6,000 miles away; after that, the crew had to look for other possibilities. He described “one brighter object” that seemed to have “a bit of an L shape”, while Armstrong compared it to an “open suitcase”. Aldrin added that the spacecraft was in passive thermal control, a slow roll used to manage heating, so each crew member had a chance to see it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apollojournals.org/alsj/a11/A11TechCrewDebrfV1_ALSJ.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apollojournals.org">[apollojournals.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apollojournals.org</span><span class="citation-popover-title">A11Tech Crew Debrf V1 ALSJ</span><span class="citation-popover-snippet">A11Tech Crew Debrf V1 ALSJ</span></span></span>
 
-The most important caution came from Armstrong. He said the object was at the limit of the eye’s resolution and that there was no way to know its size without knowing its distance, or its distance without knowing its size. That single point sharply limits what can responsibly be inferred from the sighting: an object can seem “sizeable” if it is close and small, far and large, or visually ambiguous against the blackness of space. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apollojournals.org/alsj//a11/a11tecdbrf.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apollojournals.org">[apollojournals.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apollojournals.org</span><span class="citation-popover-title">Apollo 11 Technical Crew Debriefing</span><span class="citation-popover-snippet">Apollo 11 Technical Crew Debriefing</span></span></span>
+The most important caution came from Armstrong. He said the object was at the limit of the eye’s resolution and that there was no way to know its size without knowing its distance, or its distance without knowing its size. That single point sharply limits what can responsibly be inferred from the sighting: an object can seem “sizeable” if it is close and small, far and large, or visually ambiguous against the blackness of space.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apollojournals.org/alsj//a11/a11tecdbrf.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apollojournals.org">[apollojournals.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apollojournals.org</span><span class="citation-popover-title">Apollo 11 Technical Crew Debriefing</span><span class="citation-popover-snippet">Apollo 11 Technical Crew Debriefing</span></span></span>
 
 <img src="{{ "/assets/images/Apollo_11_sightings_2c5554-Illustration-1-dark.svg" | relative_url }}" alt="Apollo 11 sightings 1969 illustration 1" data-theme-src-dark="{{ "/assets/images/Apollo_11_sightings_2c5554-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Apollo_11_sightings_2c5554-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the “UFO” label is both true and misleading
 
-In the narrowest sense, the object was unidentified during the debriefing. The crew did not give a final identification, and Collins said they had “no more conclusions” about what it might have been, how big it was, or how far away it was. They were confident it was not part of a urine dump, but they were not claiming an extraordinary craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apollojournals.org/alsj//a11/a11tecdbrf.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apollojournals.org">[apollojournals.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apollojournals.org</span><span class="citation-popover-title">Apollo 11 Technical Crew Debriefing</span><span class="citation-popover-snippet">Apollo 11 Technical Crew Debriefing</span></span></span>
+In the narrowest sense, the object was unidentified during the debriefing. The crew did not give a final identification, and Collins said they had “no more conclusions” about what it might have been, how big it was, or how far away it was. They were confident it was not part of a urine dump, but they were not claiming an extraordinary craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apollojournals.org/alsj//a11/a11tecdbrf.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apollojournals.org">[apollojournals.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apollojournals.org</span><span class="citation-popover-title">Apollo 11 Technical Crew Debriefing</span><span class="citation-popover-snippet">Apollo 11 Technical Crew Debriefing</span></span></span>
 
-The problem is that “UFO” often carries a stronger public meaning than “unidentified object”. In the Apollo 11 case, the documentary record supports an unidentified sighting by highly credible witnesses, but it does not support the leap from “unidentified” to “extraterrestrial”. The crew’s own discussion stayed inside ordinary mission possibilities: the S-IVB, a panel, loose Mylar, a high-gain antenna component, or some other piece of spacecraft-related material. Collins even ended that exchange by saying he had reason to suspect its origin was from the spacecraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apollojournals.org/alsj//a11/a11tecdbrf.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apollojournals.org">[apollojournals.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apollojournals.org</span><span class="citation-popover-title">Apollo 11 Technical Crew Debriefing</span><span class="citation-popover-snippet">Apollo 11 Technical Crew Debriefing</span></span></span>
+The problem is that “UFO” often carries a stronger public meaning than “unidentified object”. In the Apollo 11 case, the documentary record supports an unidentified sighting by highly credible witnesses, but it does not support the leap from “unidentified” to “extraterrestrial”. The crew’s own discussion stayed inside ordinary mission possibilities: the S-IVB, a panel, loose Mylar, a high-gain antenna component, or some other piece of spacecraft-related material. Collins even ended that exchange by saying he had reason to suspect its origin was from the spacecraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apollojournals.org/alsj//a11/a11tecdbrf.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apollojournals.org">[apollojournals.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apollojournals.org</span><span class="citation-popover-title">Apollo 11 Technical Crew Debriefing</span><span class="citation-popover-snippet">Apollo 11 Technical Crew Debriefing</span></span></span>
 
 That distinction explains why the case keeps reappearing in UFO discussions. The witnesses were unusually strong: three trained astronauts, in a historic spacecraft, all able to view the object. The physical evidence, however, is weak: no recovered object, no clear photograph, no instrument track establishing size or distance, and no definitive mission-control identification in the cited debriefing. Strong witnesses can make a sighting worth preserving; they cannot, by themselves, turn an unresolved visual impression into proof of alien technology.
 
@@ -784,22 +784,22 @@ That distinction explains why the case keeps reappearing in UFO discussions. The
 
 ## The likely mundane candidates
 
-The leading ordinary explanation is spacecraft-related debris, especially hardware associated with the Saturn V and lunar module adapter sequence. NASA’s mission summary confirms that after translunar injection the CSM separated, the SLA panels were jettisoned, Columbia docked with Eagle, and the S-IVB later departed. That means there were known objects in broadly related trajectories before the sighting became a later UFO talking point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2021/11/seeingcosmicraysinspace.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">Seeing&#x27; Cosmic Rays in Space</span><span class="citation-popover-snippet">Seeing&#x27; Cosmic Rays in Space</span></span></span>
+The leading ordinary explanation is spacecraft-related debris, especially hardware associated with the Saturn V and lunar module adapter sequence. NASA’s mission summary confirms that after translunar injection the CSM separated, the SLA panels were jettisoned, Columbia docked with Eagle, and the S-IVB later departed. That means there were known objects in broadly related trajectories before the sighting became a later UFO talking point.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2021/11/seeingcosmicraysinspace.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">Seeing&#x27; Cosmic Rays in Space</span><span class="citation-popover-snippet">Seeing&#x27; Cosmic Rays in Space</span></span></span>
 
-The crew did not settle neatly on “one of the four panels” in the 1969 debriefing. In fact, Aldrin said they thought it could have been a panel but that it did not appear to have that shape, and Collins suggested possible material from the lunar module or the high-gain antenna area. The careful reading is therefore not “NASA proved it was a panel in 1969”, but rather: the crew’s own reasoning points towards nearby mission hardware or debris as the most plausible class of explanation, while leaving the exact item unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apollojournals.org/alsj//a11/a11tecdbrf.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apollojournals.org">[apollojournals.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apollojournals.org</span><span class="citation-popover-title">Apollo 11 Technical Crew Debriefing</span><span class="citation-popover-snippet">Apollo 11 Technical Crew Debriefing</span></span></span>
+The crew did not settle neatly on “one of the four panels” in the 1969 debriefing. In fact, Aldrin said they thought it could have been a panel but that it did not appear to have that shape, and Collins suggested possible material from the lunar module or the high-gain antenna area. The careful reading is therefore not “NASA proved it was a panel in 1969”, but rather: the crew’s own reasoning points towards nearby mission hardware or debris as the most plausible class of explanation, while leaving the exact item unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apollojournals.org/alsj//a11/a11tecdbrf.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apollojournals.org">[apollojournals.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apollojournals.org</span><span class="citation-popover-title">Apollo 11 Technical Crew Debriefing</span><span class="citation-popover-snippet">Apollo 11 Technical Crew Debriefing</span></span></span>
 
-Later retellings often simplified this into “Buzz Aldrin saw a UFO”. Aldrin pushed back against the alien interpretation in later public explanations. In a 2014 Reddit answer, reported by Business Insider, he said the possible explanations included the rocket they had separated from or the four panels that moved away when the lunar module was extracted, and he explicitly added that it was “not an alien”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/buzz-aldrins-apollo-11-ufo-encounter-2014-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">buzz aldrins apollo 11 ufo encounter 2014 7</span><span class="citation-popover-snippet">buzz aldrins apollo 11 ufo encounter 2014 7</span></span></span>
+Later retellings often simplified this into “Buzz Aldrin saw a UFO”. Aldrin pushed back against the alien interpretation in later public explanations. In a 2014 Reddit answer, reported by Business Insider, he said the possible explanations included the rocket they had separated from or the four panels that moved away when the lunar module was extracted, and he explicitly added that it was “not an alien”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/buzz-aldrins-apollo-11-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">buzz aldrins apollo 11 ufo encounter</span><span class="citation-popover-snippet">buzz aldrins apollo 11 ufo encounter</span></span></span>
 
-NASA scientist David Morrison also treated the story as a case of misleading media framing. Writing in Skeptical Inquirer, Morrison said he contacted Aldrin, who told him the Apollo 11 crew had seen an unidentified object but concluded it was probably one of the small panels moving near the spacecraft; Morrison argued that a later television edit omitted the explanatory part and made the sighting sound more mysterious than Aldrin intended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164447/p30.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+NASA scientist David Morrison also treated the story as a case of misleading media framing. Writing in Skeptical Inquirer, Morrison said he contacted Aldrin, who told him the Apollo 11 crew had seen an unidentified object but concluded it was probably one of the small panels moving near the spacecraft; Morrison argued that a later television edit omitted the explanatory part and made the sighting sound more mysterious than Aldrin intended.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164447/p30.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Apollo_11_sightings_2c5554-Illustration-2-dark.svg" | relative_url }}" alt="Apollo 11 sightings 1969 illustration 2" data-theme-src-dark="{{ "/assets/images/Apollo_11_sightings_2c5554-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Apollo_11_sightings_2c5554-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The cabin flashes were a different kind of sighting
 
-The debriefing also records Aldrin describing small flashes seen in the darkened spacecraft. He was not describing a structured object outside the window. He reported flashes, double flashes, and occasionally a line-like effect, wondered whether something might be “zapping through the cabin”, and considered but rejected ordinary static sparks as a full explanation. Armstrong said he had seen some light and had usually attributed it to small leaks around the window covers, though he also suggested the possibility of a neutron or other atomic particle producing a visible effect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apollojournals.org/alsj//a11/a11tecdbrf.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apollojournals.org">[apollojournals.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apollojournals.org</span><span class="citation-popover-title">Apollo 11 Technical Crew Debriefing</span><span class="citation-popover-snippet">Apollo 11 Technical Crew Debriefing</span></span></span>
+The debriefing also records Aldrin describing small flashes seen in the darkened spacecraft. He was not describing a structured object outside the window. He reported flashes, double flashes, and occasionally a line-like effect, wondered whether something might be “zapping through the cabin”, and considered but rejected ordinary static sparks as a full explanation. Armstrong said he had seen some light and had usually attributed it to small leaks around the window covers, though he also suggested the possibility of a neutron or other atomic particle producing a visible effect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apollojournals.org/alsj//a11/a11tecdbrf.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apollojournals.org">[apollojournals.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apollojournals.org</span><span class="citation-popover-title">Apollo 11 Technical Crew Debriefing</span><span class="citation-popover-snippet">Apollo 11 Technical Crew Debriefing</span></span></span>
 
-This part of the Apollo 11 sightings file has aged differently from the bright-object story. A 2024 review in Neuroscience & Biobehavioral Reviews states that the first reported observation of astronaut light flashes came from Buzz Aldrin in the Apollo 11 debriefing, and that later ground and space experiments investigated mechanisms behind the phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0939388923000818" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This part of the Apollo 11 sightings file has aged differently from the bright-object story. A 2024 review in Neuroscience & Biobehavioral Reviews states that the first reported observation of astronaut light flashes came from Buzz Aldrin in the Apollo 11 debriefing, and that later ground and space experiments investigated mechanisms behind the phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0939388923000818" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-NASA educational material similarly notes that astronauts have reported flashes even with their eyes closed, and that Armstrong and Aldrin both reported such flashes during Apollo 11. The usual explanation is not an external luminous object in the cabin, but an interaction between cosmic radiation and the eye or visual pathway. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lsda.jsc.nasa.gov/Experiment/exper/380" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lsda.jsc.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lsda.jsc.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+NASA educational material similarly notes that astronauts have reported flashes even with their eyes closed, and that Armstrong and Aldrin both reported such flashes during Apollo 11. The usual explanation is not an external luminous object in the cabin, but an interaction between cosmic radiation and the eye or visual pathway.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lsda.jsc.nasa.gov/Experiment/exper/380" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lsda.jsc.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lsda.jsc.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 That makes the flashes important but not in the way UFO folklore sometimes suggests. They are part of the history of human perception beyond Earth’s protective environment. They also show why astronaut testimony is valuable: the observers were disciplined enough to report odd sensations without forcing them into a dramatic explanation.
 
@@ -807,220 +807,220 @@ That makes the flashes important but not in the way UFO folklore sometimes sugge
 
 ## Documentary strength and limits
 
-The documentary base for the Apollo 11 sightings is unusually good compared with many UFO cases. The key discussion appears in the Apollo 11 Technical Crew Debriefing dated 31 July 1969, a NASA document later made available through the Apollo Lunar Surface Journal, whose page notes scans and PDF formatting by NASA History Office staff. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apollojournals.org/alsj//a11/a11tecdbrf.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apollojournals.org">[apollojournals.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apollojournals.org</span><span class="citation-popover-title">Apollo 11 Technical Crew Debriefing</span><span class="citation-popover-snippet">Apollo 11 Technical Crew Debriefing</span></span></span>
+The documentary base for the Apollo 11 sightings is unusually good compared with many UFO cases. The key discussion appears in the Apollo 11 Technical Crew Debriefing dated 31 July 1969, a NASA document later made available through the Apollo Lunar Surface Journal, whose page notes scans and PDF formatting by NASA History Office staff.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apollojournals.org/alsj//a11/a11tecdbrf.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apollojournals.org">[apollojournals.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apollojournals.org</span><span class="citation-popover-title">Apollo 11 Technical Crew Debriefing</span><span class="citation-popover-snippet">Apollo 11 Technical Crew Debriefing</span></span></span>
 
-The air-to-ground and mission-audio record also matters because it helps distinguish what was said during flight from what was reconstructed after return. NASA’s Apollo 11 technical air-to-ground transcript is available through the Apollo Lunar Surface Journal, and Apollo in Real Time provides synchronised mission audio and related archival material for public review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/static/history//alsj/a11/a11transcript_tec.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">Apollo 11</span><span class="citation-popover-snippet">Apollo 11</span></span></span>
+The air-to-ground and mission-audio record also matters because it helps distinguish what was said during flight from what was reconstructed after return. NASA’s Apollo 11 technical air-to-ground transcript is available through the Apollo Lunar Surface Journal, and Apollo in Real Time provides synchronised mission audio and related archival material for public review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/static/history//alsj/a11/a11transcript_tec.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">Apollo 11</span><span class="citation-popover-snippet">Apollo 11</span></span></span>
 
 The limits are just as important. The debriefing gives testimony, not a solved investigation report. It does not provide a measured range, optical tracking data, a clear photograph of the object, or a recovered item. The strongest contemporary evidence therefore supports this modest conclusion: Apollo 11’s crew saw at least one unidentified bright object during translunar flight, discussed plausible spacecraft-related explanations, and did not identify it definitively in the debriefing.
 
 <img src="{{ "/assets/images/Apollo_11_sightings_2c5554-Illustration-3-dark.svg" | relative_url }}" alt="Apollo 11 sightings 1969 illustration 3" data-theme-src-dark="{{ "/assets/images/Apollo_11_sightings_2c5554-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Apollo_11_sightings_2c5554-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How later media changed the story
 
-The Apollo 11 sighting became more famous because of later media treatment than because NASA presented it as a mystery. A 2005 Science Channel documentary, First on the Moon: The Untold Story, used Aldrin’s comments in a way that critics said made the sighting appear more alien-linked than the full explanation allowed. Phil Plait’s Bad Astronomy review criticised the programme’s use of “UFO” language and argued that the documentary framing encouraged viewers to infer an alien spacecraft where the evidence did not justify it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.badastronomy.com/bad/tv/firstonthemoon.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: badastronomy.com">[badastronomy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">badastronomy.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Apollo 11 sighting became more famous because of later media treatment than because NASA presented it as a mystery. A 2005 Science Channel documentary, First on the Moon: The Untold Story, used Aldrin’s comments in a way that critics said made the sighting appear more alien-linked than the full explanation allowed. Phil Plait’s Bad Astronomy review criticised the programme’s use of “UFO” language and argued that the documentary framing encouraged viewers to infer an alien spacecraft where the evidence did not justify it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.badastronomy.com/bad/tv/firstonthemoon.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: badastronomy.com">[badastronomy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">badastronomy.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This media afterlife created a recurring pattern: a real Apollo 11 observation is quoted, stripped of the crew’s uncertainty and mundane hypotheses, then circulated as if it were a suppressed confession. Reuters later fact-checked viral posts claiming Aldrin had said he saw aliens, finding the claim partly false: he had described an unidentified object, but the episode was explained after the mission in terms of likely spacecraft-related material rather than aliens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/world/fact-check-buzz-aldrin-did-not-claim-to-have-seen-aliens-while-heading-to-the-m-idUSKBN2AA27O/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Fact check: Buzz Aldrin did not claim to have seen aliens</span><span class="citation-popover-snippet">Fact check: Buzz Aldrin did not claim to have seen aliens</span></span></span>
+This media afterlife created a recurring pattern: a real Apollo 11 observation is quoted, stripped of the crew’s uncertainty and mundane hypotheses, then circulated as if it were a suppressed confession. Reuters later fact-checked viral posts claiming Aldrin had said he saw aliens, finding the claim partly false: he had described an unidentified object, but the episode was explained after the mission in terms of likely spacecraft-related material rather than aliens.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/world/fact-check-buzz-aldrin-did-not-claim-to-have-seen-aliens-while-heading-to-the-m-idUSKBN2AA27O/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Fact check: Buzz Aldrin did not claim to have seen aliens</span><span class="citation-popover-snippet">Fact check: Buzz Aldrin did not claim to have seen aliens</span></span></span>
 
-The same distinction appears in more recent UAP discussions. The All-domain Anomaly Resolution Office says it applies a scientific and data-driven approach to UAP cases, and a 2024 Department of Defense account of AARO’s annual report stated that the office had found no verifiable evidence of extraterrestrial beings, activity or technology. That does not “solve” Apollo 11 by itself, but it places the case in the broader pattern of UAP claims where many reports remain interesting while falling far short of alien evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
+The same distinction appears in more recent UAP discussions. The All-domain Anomaly Resolution Office says it applies a scientific and data-driven approach to UAP cases, and a 2024 Department of Defense account of AARO’s annual report stated that the office had found no verifiable evidence of extraterrestrial beings, activity or technology. That does not “solve” Apollo 11 by itself, but it places the case in the broader pattern of UAP claims where many reports remain interesting while falling far short of alien evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N4FGkYN6YTs" title="Unveiling the Unknown | Secret Space UFOs: Apollo 1-11 | Full Documentary Movie | Free Movie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N4FGkYN6YTs" target="_blank" rel="noopener noreferrer">Unveiling the Unknown | Secret Space UFOs: Apollo 1-11 | Full Documentary Movie | Free Movie</a></p><p class="youtube-embed-meta">Channel: V Movies &middot; Views: 41.6K &middot; Uploaded: January 2026 &middot; Length: 1 hour 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N4FGkYN6YTs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N4FGkYN6YTs">Open on YouTube</a></p></div></div></div>
 
 ## What remains unresolved
 
-The unresolved part is narrow but real: the exact identity of the bright object seen during translunar coast is not pinned down by the debriefing. The S-IVB itself was checked and found too far away, the apparent shape shifted with viewing method and focus, and the crew did not know range or size. Those gaps prevent a confident final identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apollojournals.org/alsj//a11/a11tecdbrf.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apollojournals.org">[apollojournals.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apollojournals.org</span><span class="citation-popover-title">Apollo 11 Technical Crew Debriefing</span><span class="citation-popover-snippet">Apollo 11 Technical Crew Debriefing</span></span></span>
+The unresolved part is narrow but real: the exact identity of the bright object seen during translunar coast is not pinned down by the debriefing. The S-IVB itself was checked and found too far away, the apparent shape shifted with viewing method and focus, and the crew did not know range or size. Those gaps prevent a confident final identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apollojournals.org/alsj//a11/a11tecdbrf.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apollojournals.org">[apollojournals.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apollojournals.org</span><span class="citation-popover-title">Apollo 11 Technical Crew Debriefing</span><span class="citation-popover-snippet">Apollo 11 Technical Crew Debriefing</span></span></span>
 
 The unresolved part is not, however, evidence of an alien vehicle. The best-supported explanation remains a small object or fragment associated with Apollo hardware, seen under difficult viewing conditions during a mission phase already involving separation, jettisoning, docking and dumps. The crew’s credibility makes the observation worth taking seriously; the lack of corroborating physical or instrumental evidence keeps the interpretation conservative.
 
 For a case dossier, Apollo 11 should therefore sit in the category of “credible witness, weak physical evidence, plausible prosaic explanation”. It is not a hoax, and it is not a clean debunk in the sense of a recovered object with a serial number. It is a historically documented spaceflight sighting whose mystery has been enlarged mainly by later retellings, not by the original NASA record.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did Apollo 11 Really See?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Apollo 11 Really See?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Carrying+the+Fire+by+Michael+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Carrying the Fire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oLXIuwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Carrying the Fire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Carrying+the+Fire+by+Michael+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Carrying the Fire">Carrying the Fire</a>
-        </h4>
-        <p class="fr-book-author">By Michael Collins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Carrying+the+Fire+by+Michael+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Carrying the Fire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oLXIuwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Carrying the Fire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Carrying+the+Fire+by+Michael+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Carrying the Fire">Carrying the Fire</a>
+</h4>
+<p class="fr-book-author">By Michael Collins</p>
         
-        <p class="fr-book-desc">Provides an intimate look at the visual and psychological environment inside the Apollo 11 command module during the translunar coast.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Carrying+the+Fire+by+Michael+Collins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides an intimate look at the visual and psychological environment inside the Apollo 11 command module during the translunar coast.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Carrying+the+Fire+by+Michael+Collins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Man+on+the+Moon+by+Andrew+Chaikin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Man on the Moon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PNw6AQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Man on the Moon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Man+on+the+Moon+by+Andrew+Chaikin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Man on the Moon">A Man on the Moon</a>
-        </h4>
-        <p class="fr-book-author">By Andrew Chaikin, Time-Life Books</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Man+on+the+Moon+by+Andrew+Chaikin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Man on the Moon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PNw6AQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Man on the Moon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Man+on+the+Moon+by+Andrew+Chaikin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Man on the Moon">A Man on the Moon</a>
+</h4>
+<p class="fr-book-author">By Andrew Chaikin, Time-Life Books</p>
         
-        <p class="fr-book-desc">Covers the technical debriefings and sensory observations made by the lunar crews, providing important historical grounding for the mission.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Man+on+the+Moon+by+Andrew+Chaikin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the technical debriefings and sensory observations made by the lunar crews, providing important historical grounding for the mission.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Man+on+the+Moon+by+Andrew+Chaikin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHNAEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHNAEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
+</h4>
+<p class="fr-book-author">By Philip C. Plait</p>
         
-        <p class="fr-book-desc">Helps distinguish real space science anomalies from popular conspiratorial myths regarding astronaut sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps distinguish real space science anomalies from popular conspiratorial myths regarding astronaut sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Teaches readers how to spot cognitive bias and mechanical/technological distortions that simulate extraordinary events in space.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches readers how to spot cognitive bias and mechanical/technological distortions that simulate extraordinary events in space.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Carrying+the+Fire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Carrying the Fire</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Man+on+the+Moon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Man on the Moon</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Carrying+the+Fire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Carrying the Fire</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Man+on+the+Moon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Man on the Moon</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell Apollo 11 Saturn V Rocket Gift Set Model Kit 03704"><img src="https://i.ebayimg.com/images/g/fE4AAeSw1OBqHU1y/s-l225.jpg" alt="Listing image for Revell Apollo 11 Saturn V Rocket Gift Set Model Kit 03704" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" target="_blank" rel="sponsored noopener noreferrer">Revell Apollo 11 Saturn V Rocket Gift Set Model Kit 03704</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Apollo 11 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Apollo 11 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell Apollo 11 Saturn V Rocket Gift Set Model Kit 03704"><img src="https://i.ebayimg.com/images/g/fE4AAeSw1OBqHU1y/s-l225.jpg" alt="Listing image for Revell Apollo 11 Saturn V Rocket Gift Set Model Kit 03704" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" target="_blank" rel="sponsored noopener noreferrer">Revell Apollo 11 Saturn V Rocket Gift Set Model Kit 03704</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Apollo 11 model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Apollo 11 model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for REVELL Gift Set Apollo 11 Saturn V Rocket 1:96 Space Model Kit 03704"><img src="https://i.ebayimg.com/images/g/eIUAAeSwuu5qEJFh/s-l225.jpg" alt="Listing image for REVELL Gift Set Apollo 11 Saturn V Rocket 1:96 Space Model Kit 03704" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" target="_blank" rel="sponsored noopener noreferrer">REVELL Gift Set Apollo 11 Saturn V Rocket 1:96 Space Model Kit 03704</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Apollo 11 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Apollo 11 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for REVELL Gift Set Apollo 11 Saturn V Rocket 1:96 Space Model Kit 03704"><img src="https://i.ebayimg.com/images/g/eIUAAeSwuu5qEJFh/s-l225.jpg" alt="Listing image for REVELL Gift Set Apollo 11 Saturn V Rocket 1:96 Space Model Kit 03704" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" target="_blank" rel="sponsored noopener noreferrer">REVELL Gift Set Apollo 11 Saturn V Rocket 1:96 Space Model Kit 03704</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Apollo 11 model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Apollo 11 model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CORGI CS91307 - Apollo 11 Command Module Space Exploration - Diecast Metal Model"><img src="https://i.ebayimg.com/images/g/nNwAAeSwkOFppboC/s-l225.jpg" alt="Listing image for CORGI CS91307 - Apollo 11 Command Module Space Exploration - Diecast Metal Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" target="_blank" rel="sponsored noopener noreferrer">CORGI CS91307 - Apollo 11 Command Module Space Exploration - Diecast Metal Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Apollo 11 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Apollo 11 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CORGI CS91307 - Apollo 11 Command Module Space Exploration - Diecast Metal Model"><img src="https://i.ebayimg.com/images/g/nNwAAeSwkOFppboC/s-l225.jpg" alt="Listing image for CORGI CS91307 - Apollo 11 Command Module Space Exploration - Diecast Metal Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" target="_blank" rel="sponsored noopener noreferrer">CORGI CS91307 - Apollo 11 Command Module Space Exploration - Diecast Metal Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Apollo 11 model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Apollo 11 model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Earth Apollo 11 Astronaut 3D Metal Model Kit (PS2016)"><img src="https://i.ebayimg.com/images/g/rBMAAOSwKFll8w81/s-l225.jpg" alt="Listing image for Metal Earth Apollo 11 Astronaut 3D Metal Model Kit (PS2016)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" target="_blank" rel="sponsored noopener noreferrer">Metal Earth Apollo 11 Astronaut 3D Metal Model Kit (PS2016)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Apollo 11 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Apollo 11 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Earth Apollo 11 Astronaut 3D Metal Model Kit (PS2016)"><img src="https://i.ebayimg.com/images/g/rBMAAOSwKFll8w81/s-l225.jpg" alt="Listing image for Metal Earth Apollo 11 Astronaut 3D Metal Model Kit (PS2016)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" target="_blank" rel="sponsored noopener noreferrer">Metal Earth Apollo 11 Astronaut 3D Metal Model Kit (PS2016)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Apollo 11 model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Apollo 11 model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-apollo-11-really-see-apollo-11-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 model" data-ebay-reference="what-did-apollo-11-really-see-apollo-11-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1036,7 +1036,7 @@ For a case dossier, Apollo 11 should therefore sit in the category of “credibl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1056,7 +1056,7 @@ For a case dossier, Apollo 11 should therefore sit in the category of “credibl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1088,7 +1088,7 @@ For a case dossier, Apollo 11 should therefore sit in the category of “credibl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1140,7 +1140,7 @@ For a case dossier, Apollo 11 should therefore sit in the category of “credibl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1185,7 +1185,7 @@ For a case dossier, Apollo 11 should therefore sit in the category of “credibl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1226,203 +1226,203 @@ For a case dossier, Apollo 11 should therefore sit in the category of “credibl
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: apollojournals.org  
    Title: A11Tech Crew Debrf V1 ALSJ  
-   Link: <a href="https://apollojournals.org/alsj/a11/A11TechCrewDebrfV1_ALSJ.pdf" target="_blank" rel="noopener noreferrer nofollow">https://apollojournals.org/alsj/a11/A11TechCrewDebrfV1_ALSJ.pdf</a>  
+   Link:<a href="https://apollojournals.org/alsj/a11/A11TechCrewDebrfV1_ALSJ.pdf" target="_blank" rel="noopener noreferrer nofollow">https://apollojournals.org/alsj/a11/A11TechCrewDebrfV1_ALSJ.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0939388923000818" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0939388923000818</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0939388923000818" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0939388923000818</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nasa.gov  
    Title: Apollo 11 Mission Overview  
-   Link: <a href="https://www.nasa.gov/history/apollo-11-mission-overview/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/history/apollo-11-mission-overview/</a>  
+   Link:<a href="https://www.nasa.gov/history/apollo-11-mission-overview/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/history/apollo-11-mission-overview/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: businessinsider.com  
    Title: buzz aldrins apollo 11 ufo encounter 2014 7  
-   Link: <a href="https://www.businessinsider.com/buzz-aldrins-apollo-11-ufo-encounter-2014-7" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/buzz-aldrins-apollo-11-ufo-encounter-2014-7</a>  
+   Link:<a href="https://www.businessinsider.com/buzz-aldrins-apollo-11-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/buzz-aldrins-apollo-11-ufo-encounter</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164447/p30.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164447/p30.pdf</a>  
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164447/p30.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164447/p30.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nasa.gov  
    Title: 'Seeing' Cosmic Rays in Space  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2021/11/seeingcosmicraysinspace.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2021/11/seeingcosmicraysinspace.pdf</a>  
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2021/11/seeingcosmicraysinspace.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2021/11/seeingcosmicraysinspace.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lsda.jsc.nasa.gov  
-   Link: <a href="https://lsda.jsc.nasa.gov/Experiment/exper/380" target="_blank" rel="noopener noreferrer nofollow">https://lsda.jsc.nasa.gov/Experiment/exper/380</a>  
+   Link:<a href="https://lsda.jsc.nasa.gov/Experiment/exper/380" target="_blank" rel="noopener noreferrer nofollow">https://lsda.jsc.nasa.gov/Experiment/exper/380</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: apollojournals.org  
    Title: Apollo 11 Technical Crew Debriefing  
-   Link: <a href="https://apollojournals.org/alsj//a11/a11tecdbrf.html" target="_blank" rel="noopener noreferrer nofollow">https://apollojournals.org/alsj//a11/a11tecdbrf.html</a>  
+   Link:<a href="https://apollojournals.org/alsj//a11/a11tecdbrf.html" target="_blank" rel="noopener noreferrer nofollow">https://apollojournals.org/alsj//a11/a11tecdbrf.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nasa.gov  
    Title: Apollo 11  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/static/history//alsj/a11/a11transcript_tec.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/static/history//alsj/a11/a11transcript_tec.html</a>  
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/static/history//alsj/a11/a11transcript_tec.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/static/history//alsj/a11/a11transcript_tec.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: badastronomy.com  
-   Link: <a href="https://www.badastronomy.com/bad/tv/firstonthemoon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.badastronomy.com/bad/tv/firstonthemoon.html</a>  
+   Link:<a href="https://www.badastronomy.com/bad/tv/firstonthemoon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.badastronomy.com/bad/tv/firstonthemoon.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reuters.com  
    Title: Fact check: Buzz Aldrin did not claim to have seen aliens  
-   Link: <a href="https://www.reuters.com/article/world/fact-check-buzz-aldrin-did-not-claim-to-have-seen-aliens-while-heading-to-the-m-idUSKBN2AA27O/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/world/fact-check-buzz-aldrin-did-not-claim-to-have-seen-aliens-while-heading-to-the-m-idUSKBN2AA27O/</a>  
+   Link:<a href="https://www.reuters.com/article/world/fact-check-buzz-aldrin-did-not-claim-to-have-seen-aliens-while-heading-to-the-m-idUSKBN2AA27O/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/world/fact-check-buzz-aldrin-did-not-claim-to-have-seen-aliens-while-heading-to-the-m-idUSKBN2AA27O/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/static/apollo50th/pdf/A11_PressKit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/static/apollo50th/pdf/A11_PressKit.pdf</a>  
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/static/apollo50th/pdf/A11_PressKit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/static/apollo50th/pdf/A11_PressKit.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2025/11/a11fltpln-final-reformat.pdf?emrc=ce1e8a" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2025/11/a11fltpln-final-reformat.pdf?emrc=ce1e8a</a>  
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2025/11/a11fltpln-final-reformat.pdf?emrc=ce1e8a" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2025/11/a11fltpln-final-reformat.pdf?emrc=ce1e8a</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nasa.gov  
    Title: a11final fltpln  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/static/apollo50th/pdf/a11final-fltpln.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/static/apollo50th/pdf/a11final-fltpln.pdf</a>  
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/static/apollo50th/pdf/a11final-fltpln.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/static/apollo50th/pdf/a11final-fltpln.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nasa.gov  
    Title: A11 Mission Report  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/static/apollo50th/pdf/A11_MissionReport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/static/apollo50th/pdf/A11_MissionReport.pdf</a>  
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/static/apollo50th/pdf/A11_MissionReport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/static/apollo50th/pdf/A11_MissionReport.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Apollo 11  
-   Link: <a href="https://en.wikipedia.org/wiki/Apollo_11" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Apollo_11</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Apollo_11" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Apollo_11</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/9awnh0/nasa_released_all_of_the_audio_from_apollo_11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/9awnh0/nasa_released_all_of_the_audio_from_apollo_11/</a>  
+   Link:<a href="https://www.reddit.com/r/space/comments/9awnh0/nasa_released_all_of_the_audio_from_apollo_11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/9awnh0/nasa_released_all_of_the_audio_from_apollo_11/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/2s5h3d/neil_armstrongs_sighting_on_the_moon_theyre/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/2s5h3d/neil_armstrongs_sighting_on_the_moon_theyre/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/2s5h3d/neil_armstrongs_sighting_on_the_moon_theyre/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/2s5h3d/neil_armstrongs_sighting_on_the_moon_theyre/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/IAmA/comments/2a5vg8/i_am_buzz_aldrin_engineer_american_astronaut_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/IAmA/comments/2a5vg8/i_am_buzz_aldrin_engineer_american_astronaut_and/</a>  
+   Link:<a href="https://www.reddit.com/r/IAmA/comments/2a5vg8/i_am_buzz_aldrin_engineer_american_astronaut_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/IAmA/comments/2a5vg8/i_am_buzz_aldrin_engineer_american_astronaut_and/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1t784da/apollo_11_debrief/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1t784da/apollo_11_debrief/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1t784da/apollo_11_debrief/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1t784da/apollo_11_debrief/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
    Title: 2024 aaro report no evidence of extraterrestrial  
-   Link: <a href="https://www.reddit.com/r/UfoUapNews/comments/1sjlt53/2024_aaro_report_no_evidence_of_extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1sjlt53/2024_aaro_report_no_evidence_of_extraterrestrial/</a>  
+   Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1sjlt53/2024_aaro_report_no_evidence_of_extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1sjlt53/2024_aaro_report_no_evidence_of_extraterrestrial/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1t797wg/unknown_light_orbs_swarmed_apollo_11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1t797wg/unknown_light_orbs_swarmed_apollo_11/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1t797wg/unknown_light_orbs_swarmed_apollo_11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1t797wg/unknown_light_orbs_swarmed_apollo_11/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/48ryim/til_that_astronauts_in_the_apollo_program/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/48ryim/til_that_astronauts_in_the_apollo_program/</a>  
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/48ryim/til_that_astronauts_in_the_apollo_program/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/48ryim/til_that_astronauts_in_the_apollo_program/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Apollo 11  
-   Link: <a href="https://www.youtube.com/watch?v=mU196E6IFgA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mU196E6IFgA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=mU196E6IFgA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mU196E6IFgA</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: space.com  
    Title: these apollo ufo images have been public for decades  
-   Link: <a href="https://www.space.com/space-exploration/search-for-life/these-apollo-ufo-images-have-been-public-for-decades" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/these-apollo-ufo-images-have-been-public-for-decades</a>  
+   Link:<a href="https://www.space.com/space-exploration/search-for-life/these-apollo-ufo-images-have-been-public-for-decades" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/these-apollo-ufo-images-have-been-public-for-decades</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: space.com  
    Title: 25 space conspiracy theories debunked  
-   Link: <a href="https://www.space.com/space-exploration/search-for-life/25-space-conspiracy-theories-debunked" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/25-space-conspiracy-theories-debunked</a>  
+   Link:<a href="https://www.space.com/space-exploration/search-for-life/25-space-conspiracy-theories-debunked" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/25-space-conspiracy-theories-debunked</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: spacefacts.de  
    Title: apollo 11  
-   Link: <a href="https://www.spacefacts.de/mission/english/apollo-11.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.spacefacts.de/mission/english/apollo-11.htm</a>  
+   Link:<a href="https://www.spacefacts.de/mission/english/apollo-11.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.spacefacts.de/mission/english/apollo-11.htm</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: knowsleyarchives.wordpress.com  
-   Link: <a href="https://knowsleyarchives.wordpress.com/tag/aliens/" target="_blank" rel="noopener noreferrer nofollow">https://knowsleyarchives.wordpress.com/tag/aliens/</a>  
+   Link:<a href="https://knowsleyarchives.wordpress.com/tag/aliens/" target="_blank" rel="noopener noreferrer nofollow">https://knowsleyarchives.wordpress.com/tag/aliens/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: military-history.fandom.com  
    Title: Buzz Aldrin  
-   Link: <a href="https://military-history.fandom.com/wiki/Buzz_Aldrin" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Buzz_Aldrin</a>  
+   Link:<a href="https://military-history.fandom.com/wiki/Buzz_Aldrin" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Buzz_Aldrin</a>  
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: UFO files shed light on sightings but leave interpretation to the public  
-   Link: <a href="https://www.youtube.com/watch?v=7K6u8usgqJk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7K6u8usgqJk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UFO UNSEEN FOOTAGE: New Files Reveal &#x27;Alien&#x27; Images &amp; SHOCKING Apollo Mission Videos From 1960s?[https://www.youtube.com/watch?v=ykXaCmphNmU...&quot;](https://www.youtube.com/watch?v=ykXaCmphNmU...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7K6u8usgqJk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7K6u8usgqJk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UFO UNSEEN FOOTAGE: New Files Reveal &#x27;Alien&#x27; Images &amp; SHOCKING Apollo Mission Videos From 1960s?[https://www.youtube.com/watch?v=ykXaCmphNmU...&quot;](https://www.youtube.com/watch?v=ykXaCmphNmU...&quot;)...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: Unveiling the Unknown | Secret Space UFOs: Apollo 1-11 | Full Documentary Movie  
-   Link: <a href="https://www.youtube.com/watch?v=N4FGkYN6YTs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N4FGkYN6YTs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Buzz Aldrin being forced into silence after witnessing a UFO? | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=N4FGkYN6YTs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N4FGkYN6YTs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Buzz Aldrin being forced into silence after witnessing a UFO? | Reality Check...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: Is Buzz Aldrin being forced into silence after witnessing a UFO? | Reality Check  
-   Link: <a href="https://www.youtube.com/watch?v=qyNU8ZJbv1w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qyNU8ZJbv1w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US astronaut Buzz Aldrin passes UFO lie detector test...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qyNU8ZJbv1w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qyNU8ZJbv1w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US astronaut Buzz Aldrin passes UFO lie detector test...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/nasa-uap-d2-apollo-17-transcript-1972.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/nasa-uap-d2-apollo-17-transcript-1972.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/nasa-uap-d2-apollo-17-transcript-1972.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/nasa-uap-d2-apollo-17-transcript-1972.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: moonhoaxdebunked.blogspot.com  
-   Link: <a href="https://moonhoaxdebunked.blogspot.com/2017/07/112-did-buzz-aldrin-see-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://moonhoaxdebunked.blogspot.com/2017/07/112-did-buzz-aldrin-see-ufo.html</a>  
+   Link:<a href="https://moonhoaxdebunked.blogspot.com/2017/07/112-did-buzz-aldrin-see-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://moonhoaxdebunked.blogspot.com/2017/07/112-did-buzz-aldrin-see-ufo.html</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/372375638_Light_Flashes_and_other_sensory_illusions_perceived_in_space_travel_and_on_ground_including_proton-_and_heavy_ion-therapies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372375638_Light_Flashes_and_other_sensory_illusions_perceived_in_space_travel_and_on_ground_including_proton-_and_heavy_ion-therapies</a>  
+   Link:<a href="https://www.researchgate.net/publication/372375638_Light_Flashes_and_other_sensory_illusions_perceived_in_space_travel_and_on_ground_including_proton-_and_heavy_ion-therapies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372375638_Light_Flashes_and_other_sensory_illusions_perceived_in_space_travel_and_on_ground_including_proton-_and_heavy_ion-therapies</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spacehipsters/posts/23867424982875727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/23867424982875727/</a>  
+   Link:<a href="https://www.facebook.com/groups/spacehipsters/posts/23867424982875727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/23867424982875727/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: ibiblio.org  
-   Link: <a href="https://www.ibiblio.org/apollo/Documents/APOLLO11pt1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ibiblio.org/apollo/Documents/APOLLO11pt1.pdf</a>  
+   Link:<a href="https://www.ibiblio.org/apollo/Documents/APOLLO11pt1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ibiblio.org/apollo/Documents/APOLLO11pt1.pdf</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: ibiblio.org  
-   Link: <a href="https://www.ibiblio.org/apollo/Documents/Apollo11TechnicalCrewDebriefing-Volume1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ibiblio.org/apollo/Documents/Apollo11TechnicalCrewDebriefing-Volume1.pdf</a>
+   Link:<a href="https://www.ibiblio.org/apollo/Documents/Apollo11TechnicalCrewDebriefing-Volume1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ibiblio.org/apollo/Documents/Apollo11TechnicalCrewDebriefing-Volume1.pdf</a>

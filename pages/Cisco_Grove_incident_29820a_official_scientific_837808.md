@@ -251,20 +251,20 @@ image: /assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Ill
 The Cisco Grove incident entered UFO literature during a period when the United States Air Force was still formally investigating unidentified aerial reports through Project Blue Book. Unlike some better-known Cold War sightings involving radar returns or multiple military witnesses, the Cisco Grove case depended heavily on the testimony of one civilian witness, Donald Shrum, who claimed that humanoid figures and machine-like entities surrounded him overnight in the Sierra Nevada wilderness in September 1964. The official and scientific scrutiny applied to the incident therefore focused less on confirming extraordinary technology and more on evaluating witness reliability, evidential gaps and the broader problem of how UFO reports should be investigated at all.
 
 <img src="{{ "/assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-1-dark.svg" | relative_url }}" alt="Official Inquiry illustration 1" data-theme-src-dark="{{ "/assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes the case historically important is not that it produced a decisive official finding. It did not. Instead, Cisco Grove became part of the larger debate that eventually surrounded Project Blue Book, J. Allen Hynek’s changing views on UFO investigation and the later Condon Report’s conclusion that UFO research was unlikely to produce major scientific discoveries. The incident survives mainly through UFO research organisations, later books and archival traces rather than through any strong official evidential record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">August 1, 2004 — Josef Allen Hynek (May 1, 1910 – April 27, 1986) was an American astronomer, professor, and ufologist. He is perhaps bes...</span><span class="citation-popover-meta">Published: August 1, 2004</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Condon CommitteeThe Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United States...</span></span></span>
+What makes the case historically important is not that it produced a decisive official finding. It did not. Instead, Cisco Grove became part of the larger debate that eventually surrounded Project Blue Book, J. Allen Hynek’s changing views on UFO investigation and the later Condon Report’s conclusion that UFO research was unlikely to produce major scientific discoveries. The incident survives mainly through UFO research organisations, later books and archival traces rather than through any strong official evidential record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">August 1, 2004 — Josef Allen Hynek (May 1, 1910 – April 27, 1986) was an American astronomer, professor, and ufologist. He is perhaps bes...</span><span class="citation-popover-meta">Published: August 1, 2004</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Condon CommitteeThe Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United States...</span></span></span>
 
 ## How the case entered the UFO investigation system
 
-By 1964, Project Blue Book had already spent more than a decade collecting and categorising UFO reports for the US Air Force. Its official mandate was twofold: determine whether UFOs posed a national-security threat and assess whether any reports indicated advanced scientific phenomena. Thousands of sightings were filed during the programme’s existence, though most were eventually classified as misidentifications or insufficiently supported cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+By 1964, Project Blue Book had already spent more than a decade collecting and categorising UFO reports for the US Air Force. Its official mandate was twofold: determine whether UFOs posed a national-security threat and assess whether any reports indicated advanced scientific phenomena. Thousands of sightings were filed during the programme’s existence, though most were eventually classified as misidentifications or insufficiently supported cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
-The Cisco Grove incident emerged during this late Blue Book period, when public criticism of Air Force UFO investigations was increasing. Donald Shrum’s account circulated through civilian UFO groups including APRO, the Aerial Phenomena Research Organization, and later NICAP, the National Investigations Committee on Aerial Phenomena. Those organisations tended to regard the incident as unusually dramatic because it included close-range humanoid claims rather than distant lights alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amazon.com/Aliens-Forest-Cisco-Grove-Encounter-ebook/dp/B006KE7418" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazon.com">[Amazon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazon.com</span><span class="citation-popover-snippet">Aliens in the Forest: The Cisco Grove UFO Encounter eBookIn 1964, Donald Shrum endured a terrifying 12-hour battle against alien be...</span></span></span>
+The Cisco Grove incident emerged during this late Blue Book period, when public criticism of Air Force UFO investigations was increasing. Donald Shrum’s account circulated through civilian UFO groups including APRO, the Aerial Phenomena Research Organization, and later NICAP, the National Investigations Committee on Aerial Phenomena. Those organisations tended to regard the incident as unusually dramatic because it included close-range humanoid claims rather than distant lights alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amazon.com/Aliens-Forest-Cisco-Grove-Encounter-ebook/dp/B006KE7418" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazon.com">[Amazon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazon.com</span><span class="citation-popover-snippet">Aliens in the Forest: The Cisco Grove UFO Encounter eBookIn 1964, Donald Shrum endured a terrifying 12-hour battle against alien be...</span></span></span>
 
 There is persistent folklore around the case claiming that Air Force personnel travelled to investigate Shrum directly. Later retellings, documentaries and dramatised accounts frequently mention officers arriving from Wright-Patterson Air Force Base. However, publicly accessible archival material does not provide a widely cited, detailed Blue Book investigative file comparable to those preserved for some radar or military-aircraft incidents. This absence has shaped later interpretations in two opposite directions:
 
 * UFO advocates sometimes interpret the thin documentary trail as evidence of poor disclosure or lost records.
 * Skeptics generally interpret it as a sign that the case never achieved high evidential status inside official channels.
 
-The available record supports the second point more securely than the first. The case became culturally influential inside UFO circles, but there is little evidence that military investigators treated it as a technically significant aerospace mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_U.F.O" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project U.F.O</span><span class="citation-popover-snippet">Project U.F.O.Based very loosely on the Cisco Grove UFO Encounter as reported in 1964.... blue and white UFOs as hard evidence for Pr...</span></span></span>
+The available record supports the second point more securely than the first. The case became culturally influential inside UFO circles, but there is little evidence that military investigators treated it as a technically significant aerospace mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_U.F.O" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project U.F.O</span><span class="citation-popover-snippet">Project U.F.O.Based very loosely on the Cisco Grove UFO Encounter as reported in 1964.... blue and white UFOs as hard evidence for Pr...</span></span></span>
 
 ## Air Force attitudes and the limits of the evidence
 
@@ -272,25 +272,25 @@ The available record supports the second point more securely than the first. The
 
 The core problem for investigators was evidential isolation. The dramatic elements of the story — humanoid beings, robotic entities, paralysing vapours and attacks on the witness in a tree — depended almost entirely on Shrum’s personal testimony. There were no publicly established photographs, instrument readings, radar confirmations or medically documented injuries that could independently confirm the alleged encounter.
 
-That sharply limited what military or scientific investigators could do with the report. Even sympathetic UFO researchers acknowledged that the incident lacked durable physical evidence. The alleged encounter site was remote forest terrain, and many of the claimed effects could not be reconstructed later under controlled conditions. By the time the story became more widely known in UFO literature, the case had already passed into retrospective testimony rather than contemporaneous forensic inquiry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.donnersummithistoricalsociety.org/pages/bookreviews/AliensintheForest.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: donnersummithistoricalsociety.org">[donnersummithistoricalsociety.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">donnersummithistoricalsociety.org</span><span class="citation-popover-title">Aliensinthe Forest</span><span class="citation-popover-snippet">His experience would haunt him for the rest of his life. That September day Donald and two...Read more...</span></span></span>
+That sharply limited what military or scientific investigators could do with the report. Even sympathetic UFO researchers acknowledged that the incident lacked durable physical evidence. The alleged encounter site was remote forest terrain, and many of the claimed effects could not be reconstructed later under controlled conditions. By the time the story became more widely known in UFO literature, the case had already passed into retrospective testimony rather than contemporaneous forensic inquiry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.donnersummithistoricalsociety.org/pages/bookreviews/AliensintheForest.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: donnersummithistoricalsociety.org">[donnersummithistoricalsociety.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">donnersummithistoricalsociety.org</span><span class="citation-popover-title">Aliensinthe Forest</span><span class="citation-popover-snippet">His experience would haunt him for the rest of his life. That September day Donald and two...Read more...</span></span></span>
 
-The Air Force’s broader Blue Book methodology also mattered. Blue Book often prioritised cases involving strategic-security implications, aviation hazards or multiple independent observations. A solitary wilderness encounter involving humanoid claims was inherently difficult to classify using the programme’s analytical framework. Even when Blue Book left cases “unidentified”, that category did not necessarily imply endorsement of extraordinary explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">August 1, 2004 — Josef Allen Hynek (May 1, 1910 – April 27, 1986) was an American astronomer, professor, and ufologist. He is perhaps bes...</span><span class="citation-popover-meta">Published: August 1, 2004</span></span></span>
+The Air Force’s broader Blue Book methodology also mattered. Blue Book often prioritised cases involving strategic-security implications, aviation hazards or multiple independent observations. A solitary wilderness encounter involving humanoid claims was inherently difficult to classify using the programme’s analytical framework. Even when Blue Book left cases “unidentified”, that category did not necessarily imply endorsement of extraordinary explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">August 1, 2004 — Josef Allen Hynek (May 1, 1910 – April 27, 1986) was an American astronomer, professor, and ufologist. He is perhaps bes...</span><span class="citation-popover-meta">Published: August 1, 2004</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4yEkCSyTTxg" title="Mystery in Cisco Grove: Don Shrum’s Encounter with UFOs, Aliens and Robots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4yEkCSyTTxg" target="_blank" rel="noopener noreferrer">Mystery in Cisco Grove: Don Shrum’s Encounter with UFOs, Aliens and Robots</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 3.2M &middot; Uploaded: December 2023 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4yEkCSyTTxg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4yEkCSyTTxg">Open on YouTube</a></p></div></div></div>
 
 ### The influence of J. Allen Hynek
 
-Astronomer J. Allen Hynek became one of the most important figures associated with the wider interpretation of cases like Cisco Grove. Originally a scientific consultant to the Air Force’s UFO studies, Hynek gradually became more critical of what he saw as superficial debunking within official investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.biography.com/scientists/j-allen-hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biography.com">[biography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biography.com</span><span class="citation-popover-title">j allen hynek</span><span class="citation-popover-snippet">Allen Hynek - Project Blue Book, Quotes &amp; Facts22 Jan 2020 — American astronomer J. Allen Hynek is best known for investigations of unide...</span></span></span> Hynek later discussed the Cisco Grove story in*The Hynek UFO Report* under the title “The Hunter in the Tree”. His inclusion of the case is significant because he did not treat every sensational UFO claim as equally credible. Yet Hynek’s handling of the case also illustrates his evolving position: he regarded some close-encounter reports as psychologically and sociologically important even when hard physical evidence was weak.
+Astronomer J. Allen Hynek became one of the most important figures associated with the wider interpretation of cases like Cisco Grove. Originally a scientific consultant to the Air Force’s UFO studies, Hynek gradually became more critical of what he saw as superficial debunking within official investigations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.biography.com/scientists/j-allen-hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biography.com">[biography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biography.com</span><span class="citation-popover-title">j allen hynek</span><span class="citation-popover-snippet">Allen Hynek - Project Blue Book, Quotes &amp; Facts22 Jan 2020 — American astronomer J. Allen Hynek is best known for investigations of unide...</span></span></span> Hynek later discussed the Cisco Grove story in*The Hynek UFO Report* under the title “The Hunter in the Tree”. His inclusion of the case is significant because he did not treat every sensational UFO claim as equally credible. Yet Hynek’s handling of the case also illustrates his evolving position: he regarded some close-encounter reports as psychologically and sociologically important even when hard physical evidence was weak.
 
-Importantly, Hynek did not provide scientific proof that Shrum’s account was objectively true. Instead, he presented it as an example of a puzzling close-encounter narrative that deserved consideration rather than immediate ridicule. This distinction is often lost in later popular retellings, which sometimes portray Hynek’s interest as official validation. In reality, Hynek increasingly separated his own views from the Air Force’s institutional conclusions during the late 1960s. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2013/01/the-secret-life-of-j-allen-hynek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Secret Life of J. Allen HynekAccording to legend, the astronomer J. Allen Hynek was a skeptic before becoming an ou...</span></span></span>
+Importantly, Hynek did not provide scientific proof that Shrum’s account was objectively true. Instead, he presented it as an example of a puzzling close-encounter narrative that deserved consideration rather than immediate ridicule. This distinction is often lost in later popular retellings, which sometimes portray Hynek’s interest as official validation. In reality, Hynek increasingly separated his own views from the Air Force’s institutional conclusions during the late 1960s.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2013/01/the-secret-life-of-j-allen-hynek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Secret Life of J. Allen HynekAccording to legend, the astronomer J. Allen Hynek was a skeptic before becoming an ou...</span></span></span>
 
 ## The Condon Report and the changing scientific climate
 
 ### Why the University of Colorado study mattered
 
-The Cisco Grove incident unfolded during the final years of large-scale official American UFO study. In 1966, mounting controversy over Blue Book led the Air Force to sponsor an independent scientific review at the University of Colorado under physicist Edward Condon. This became known as the Condon Committee. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Condon CommitteeThe Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United States...</span></span></span>
+The Cisco Grove incident unfolded during the final years of large-scale official American UFO study. In 1966, mounting controversy over Blue Book led the Air Force to sponsor an independent scientific review at the University of Colorado under physicist Edward Condon. This became known as the Condon Committee.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Condon CommitteeThe Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United States...</span></span></span>
 
-The committee reviewed hundreds of UFO reports drawn from Blue Book files and civilian research organisations. Its final publication, *Scientific Study of Unidentified Flying Objects* (1968), concluded that continued UFO investigation was unlikely to produce major scientific advances. That recommendation heavily influenced the Air Force decision to close Project Blue Book in 1969. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+The committee reviewed hundreds of UFO reports drawn from Blue Book files and civilian research organisations. Its final publication, *Scientific Study of Unidentified Flying Objects* (1968), concluded that continued UFO investigation was unlikely to produce major scientific advances. That recommendation heavily influenced the Air Force decision to close Project Blue Book in 1969.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 Cisco Grove itself did not become one of the Condon Report’s defining technical case studies. That omission is revealing. The committee generally concentrated on reports where measurable evidence, radar data, trace materials or multiple corroborating witnesses potentially allowed structured scientific analysis. The Cisco Grove narrative, by contrast, remained difficult to test independently.
 
@@ -303,7 +303,7 @@ Cisco Grove became a useful example for both camps:
 * UFO proponents cited the consistency of Shrum’s long-term account and Hynek’s willingness to discuss it seriously.
 * Skeptics pointed to the absence of physical evidence, the fantastical elements of the narrative and the impossibility of controlled verification.
 
-This disagreement reflected a larger methodological dispute. Scientists trained in empirical investigation generally regarded extraordinary humanoid-contact stories as weak evidence without independent corroboration. UFO researchers often countered that close-encounter reports were being excluded precisely because they challenged conventional expectations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2013/01/the-secret-life-of-j-allen-hynek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Secret Life of J. Allen HynekAccording to legend, the astronomer J. Allen Hynek was a skeptic before becoming an ou...</span></span></span>
+This disagreement reflected a larger methodological dispute. Scientists trained in empirical investigation generally regarded extraordinary humanoid-contact stories as weak evidence without independent corroboration. UFO researchers often countered that close-encounter reports were being excluded precisely because they challenged conventional expectations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2013/01/the-secret-life-of-j-allen-hynek/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Secret Life of J. Allen HynekAccording to legend, the astronomer J. Allen Hynek was a skeptic before becoming an ou...</span></span></span>
 
 <img src="{{ "/assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-2-dark.svg" | relative_url }}" alt="Official Inquiry illustration 2" data-theme-src-dark="{{ "/assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cisco_Grove_incident_29820a_official_scientific_837808-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Skeptical interpretations and competing explanations
@@ -315,9 +315,9 @@ The most common skeptical interpretations include:
 * **Misidentification under wilderness conditions:** Isolated night-time conditions in mountainous terrain can distort perception, especially when a person is fatigued, frightened or disoriented.
 * **Psychological stress and fear amplification:** Shrum was reportedly alone overnight in difficult terrain after becoming separated from companions. Stress reactions can intensify ambiguous sensory experiences.
 * **Memory elaboration over time:** As the case circulated through UFO publications and interviews, narrative details may have become more structured and dramatic.
-* **Possible altered consciousness:** Some later commentators have speculated about exhaustion, environmental factors or hallucination-like states, though there is no verified medical evidence supporting a specific diagnosis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/TheWhyFiles/comments/18d7uif/mystery_in_cisco_grove_don_shrums_encounter_with/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Mystery in Cisco Grove: Don Shrum&#x27;s Encounter with UFOs</span><span class="citation-popover-snippet">Alien encounters in forest... After watching The Pentyrch UFO Incident and Project Ancient Arrow...</span></span></span>
+* **Possible altered consciousness:** Some later commentators have speculated about exhaustion, environmental factors or hallucination-like states, though there is no verified medical evidence supporting a specific diagnosis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/TheWhyFiles/comments/18d7uif/mystery_in_cisco_grove_don_shrums_encounter_with/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Mystery in Cisco Grove: Don Shrum&#x27;s Encounter with UFOs</span><span class="citation-popover-snippet">Alien encounters in forest... After watching The Pentyrch UFO Incident and Project Ancient Arrow...</span></span></span>
 
-Skeptics also note internal inconsistencies in retellings of the incident. Dates vary between accounts, and some versions differ on the number of objects observed, the appearance of the humanoids and the exact sequence of events. Such variations are common in oral UFO narratives and complicate attempts at strict historical reconstruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.donnersummithistoricalsociety.org/pages/bookreviews/AliensintheForest.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: donnersummithistoricalsociety.org">[donnersummithistoricalsociety.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">donnersummithistoricalsociety.org</span><span class="citation-popover-title">Aliensinthe Forest</span><span class="citation-popover-snippet">His experience would haunt him for the rest of his life. That September day Donald and two...Read more...</span></span></span>
+Skeptics also note internal inconsistencies in retellings of the incident. Dates vary between accounts, and some versions differ on the number of objects observed, the appearance of the humanoids and the exact sequence of events. Such variations are common in oral UFO narratives and complicate attempts at strict historical reconstruction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.donnersummithistoricalsociety.org/pages/bookreviews/AliensintheForest.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: donnersummithistoricalsociety.org">[donnersummithistoricalsociety.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">donnersummithistoricalsociety.org</span><span class="citation-popover-title">Aliensinthe Forest</span><span class="citation-popover-snippet">His experience would haunt him for the rest of his life. That September day Donald and two...Read more...</span></span></span>
 
 At the same time, critics of blanket dismissal argue that Shrum maintained the broad outline of his story for decades without publicly recanting it. That persistence has helped preserve the case within UFO culture even though it never achieved mainstream scientific acceptance.
 
@@ -327,7 +327,7 @@ At the same time, critics of blanket dismissal argue that Shrum maintained the b
 
 ### Blue Book and National Archives context
 
-Project Blue Book records were eventually transferred into archival custody after the programme closed. The Air Force stated that the files would remain accessible through official archives and Freedom of Information processes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_U.F.O" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project U.F.O</span><span class="citation-popover-snippet">Project U.F.O.Based very loosely on the Cisco Grove UFO Encounter as reported in 1964.... blue and white UFOs as hard evidence for Pr...</span></span></span>
+Project Blue Book records were eventually transferred into archival custody after the programme closed. The Air Force stated that the files would remain accessible through official archives and Freedom of Information processes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_U.F.O" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project U.F.O</span><span class="citation-popover-snippet">Project U.F.O.Based very loosely on the Cisco Grove UFO Encounter as reported in 1964.... blue and white UFOs as hard evidence for Pr...</span></span></span>
 
 For Cisco Grove specifically, researchers face a fragmented historical trail. Much of the surviving discussion comes not from detailed military technical files but from:
 
@@ -337,7 +337,7 @@ For Cisco Grove specifically, researchers face a fragmented historical trail. Mu
 * Civilian UFO organisation summaries.
 * Later interviews and books.
 * Regional historical commentary.
-* Documentary retellings and podcast discussions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.donnersummithistoricalsociety.org/pages/bookreviews/AliensintheForest.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: donnersummithistoricalsociety.org">[2donnersummithistoricalsociety.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">donnersummithistoricalsociety.org</span><span class="citation-popover-title">Aliensinthe Forest</span><span class="citation-popover-snippet">His experience would haunt him for the rest of his life. That September day Donald and two...Read more...</span></span></span>
+* Documentary retellings and podcast discussions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.donnersummithistoricalsociety.org/pages/bookreviews/AliensintheForest.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: donnersummithistoricalsociety.org">[2donnersummithistoricalsociety.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">donnersummithistoricalsociety.org</span><span class="citation-popover-title">Aliensinthe Forest</span><span class="citation-popover-snippet">His experience would haunt him for the rest of his life. That September day Donald and two...Read more...</span></span></span>
 
 </div>
 
@@ -352,7 +352,7 @@ Within UFO literature, the case is remembered because it combines several motifs
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* close-range humanoid encounters, <span class="citation-chip-wrap"><a class="citation-chip" href="https://dailynorthwestern.com/2023/03/06/lateststories/time-capsule-a-look-at-j-allen-hynek-the-nu-professor-whose-ufo-research-inspired-close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailynorthwestern.com">[dailynorthwestern.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailynorthwestern.com</span><span class="citation-popover-snippet">The Daily NorthwesternRemembering NU professor J. Allen Hynek&#x27;s UFO research7 Mar 2023 — An astronomy professor at NU during the Space Ag...</span></span></span>
+* close-range humanoid encounters,<span class="citation-chip-wrap"><a class="citation-chip" href="https://dailynorthwestern.com/2023/03/06/lateststories/time-capsule-a-look-at-j-allen-hynek-the-nu-professor-whose-ufo-research-inspired-close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailynorthwestern.com">[dailynorthwestern.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailynorthwestern.com</span><span class="citation-popover-snippet">The Daily NorthwesternRemembering NU professor J. Allen Hynek&#x27;s UFO research7 Mar 2023 — An astronomy professor at NU during the Space Ag...</span></span></span>
 * robotic entities,
 * prolonged interaction,
 * apparent defensive action by the witness,
@@ -360,201 +360,201 @@ Within UFO literature, the case is remembered because it combines several motifs
 
 </div>
 
-From a historical perspective, however, the most revealing aspect may be how the case illustrates the transition from official military interest to cultural and subcultural preservation. By the late 1960s, the Air Force and much of the scientific establishment were moving away from open-ended UFO investigation, while civilian researchers increasingly preserved such cases through books, lectures and independent archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_U.F.O" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project U.F.O</span><span class="citation-popover-snippet">Project U.F.O.Based very loosely on the Cisco Grove UFO Encounter as reported in 1964.... blue and white UFOs as hard evidence for Pr...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_U.F.O" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project U.F.O</span><span class="citation-popover-snippet">Project U.F.O.Based very loosely on the Cisco Grove UFO Encounter as reported in 1964.... blue and white UFOs as hard evidence for Pr...</span></span></span>
+From a historical perspective, however, the most revealing aspect may be how the case illustrates the transition from official military interest to cultural and subcultural preservation. By the late 1960s, the Air Force and much of the scientific establishment were moving away from open-ended UFO investigation, while civilian researchers increasingly preserved such cases through books, lectures and independent archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_U.F.O" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project U.F.O</span><span class="citation-popover-snippet">Project U.F.O.Based very loosely on the Cisco Grove UFO Encounter as reported in 1964.... blue and white UFOs as hard evidence for Pr...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_U.F.O" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project U.F.O</span><span class="citation-popover-snippet">Project U.F.O.Based very loosely on the Cisco Grove UFO Encounter as reported in 1964.... blue and white UFOs as hard evidence for Pr...</span></span></span>
 
 The Cisco Grove incident therefore remains less a solved mystery than a case study in how extraordinary claims are filtered through competing systems of authority: military investigation, scientific scepticism, witness testimony and enduring folklore.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F3SrSk7VNWY" title="అడవిలో ఏలియన్స్! The Night He Fought Aliens in Forest: Donald Shrum Cisco Grove UFO Encounter 1964" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F3SrSk7VNWY" target="_blank" rel="noopener noreferrer">అడవిలో ఏలియన్స్! The Night He Fought Aliens in Forest: Donald Shrum Cisco Grove UFO Encounter 1964</a></p><p class="youtube-embed-meta">Channel: ComeTube &middot; Views: 169 &middot; Uploaded: December 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F3SrSk7VNWY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F3SrSk7VNWY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Scientific and Military Handling of Cisco Grove UFO. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Scientific and Military Handling of Cisco Grove UFO. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Examines the precise operational mandate of Project Blue Book and its criteria for indexing single-witness physical threat claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the precise operational mandate of Project Blue Book and its criteria for indexing single-witness physical threat claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Details the broader debate surrounding the lack of decisive official findings within mid-century military intelligence agencies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details the broader debate surrounding the lack of decisive official findings within mid-century military intelligence agencies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches methodology for separating contemporary official verification logs from subsequent historical civilian summaries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches methodology for separating contemporary official verification logs from subsequent historical civilian summaries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Logan%27s+Run+by+William+F.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Logan&#x27;s Run on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Logan%27s+Run+by+William+F.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Logan&#x27;s Run">Logan&#x27;s Run</a>
-        </h4>
-        <p class="fr-book-author">By William F. Nolan, George Clayton Johnson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Logan%27s+Run+by+William+F.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Logan&#x27;s Run on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Logan%27s+Run+by+William+F.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Logan&#x27;s Run">Logan&#x27;s Run</a>
+</h4>
+<p class="fr-book-author">By William F. Nolan, George Clayton Johnson</p>
         
-        <p class="fr-book-desc">Contains the complete, formal National Academy and Condon evaluations regarding the systemic irrelevance of single-witness civilian lore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Logan%27s+Run+by+William+F.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains the complete, formal National Academy and Condon evaluations regarding the systemic irrelevance of single-witness civilian lore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Logan%27s+Run+by+William+F.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55"><img src="https://i.ebayimg.com/images/g/2G0AAOSwjIpgTIcl/s-l225.jpg" alt="Listing image for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID"><img src="https://i.ebayimg.com/images/g/2G0AAOSwjIpgTIcl/s-l225.jpg" alt="Listing image for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/MykAAOSwkRVk5Rd3/s-l225.jpg" alt="Listing image for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/MykAAOSwkRVk5Rd3/s-l225.jpg" alt="Listing image for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed."><img src="https://i.ebayimg.com/images/g/GWYAAeSwgidpwAEt/s-l225.jpg" alt="Listing image for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed."><img src="https://i.ebayimg.com/images/g/GWYAAeSwgidpwAEt/s-l225.jpg" alt="Listing image for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/HvAAAOSw08Vk5SIm/s-l225.jpg" alt="Listing image for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/HvAAAOSw08Vk5SIm/s-l225.jpg" alt="Listing image for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="scientific-and-military-handling-of-cisco-grove-ufo-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -570,7 +570,7 @@ The Cisco Grove incident therefore remains less a solved mystery than a case stu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -590,7 +590,7 @@ The Cisco Grove incident therefore remains less a solved mystery than a case stu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -622,7 +622,7 @@ The Cisco Grove incident therefore remains less a solved mystery than a case stu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -674,7 +674,7 @@ The Cisco Grove incident therefore remains less a solved mystery than a case stu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -719,7 +719,7 @@ The Cisco Grove incident therefore remains less a solved mystery than a case stu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -760,127 +760,127 @@ The Cisco Grove incident therefore remains less a solved mystery than a case stu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: J. Allen Hynek  
-   Link: <a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 1, 2004 — Josef Allen Hynek (May 1, 1910 – April 27, 1986) was an American astronomer, professor, and ufologist. He is perhaps bes...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 1, 2004 — Josef Allen Hynek (May 1, 1910 – April 27, 1986) was an American astronomer, professor, and ufologist. He is perhaps bes...</p></details>
    Published: August 1, 2004  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon CommitteeThe Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United States...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Condon CommitteeThe Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United States...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: biography.com  
    Title: j allen hynek  
-   Link: <a href="https://www.biography.com/scientists/j-allen-hynek" target="_blank" rel="noopener noreferrer nofollow">https://www.biography.com/scientists/j-allen-hynek</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek - Project Blue Book, Quotes &amp; Facts22 Jan 2020 — American astronomer J. Allen Hynek is best known for investigations of unide...</p></details>
+   Link:<a href="https://www.biography.com/scientists/j-allen-hynek" target="_blank" rel="noopener noreferrer nofollow">https://www.biography.com/scientists/j-allen-hynek</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek - Project Blue Book, Quotes &amp; Facts22 Jan 2020 — American astronomer J. Allen Hynek is best known for investigations of unide...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: amazon.com  
-   Link: <a href="https://www.amazon.com/Aliens-Forest-Cisco-Grove-Encounter-ebook/dp/B006KE7418" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Aliens-Forest-Cisco-Grove-Encounter-ebook/dp/B006KE7418</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens in the Forest: The Cisco Grove UFO Encounter eBookIn 1964, Donald Shrum endured a terrifying 12-hour battle against alien be...</p></details>
+   Link:<a href="https://www.amazon.com/Aliens-Forest-Cisco-Grove-Encounter-ebook/dp/B006KE7418" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Aliens-Forest-Cisco-Grove-Encounter-ebook/dp/B006KE7418</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens in the Forest: The Cisco Grove UFO Encounter eBookIn 1964, Donald Shrum endured a terrifying 12-hour battle against alien be...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: donnersummithistoricalsociety.org  
    Title: Aliensinthe Forest  
-   Link: <a href="https://www.donnersummithistoricalsociety.org/pages/bookreviews/AliensintheForest.html" target="_blank" rel="noopener noreferrer nofollow">https://www.donnersummithistoricalsociety.org/pages/bookreviews/AliensintheForest.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>His experience would haunt him for the rest of his life. That September day Donald and two...Read more...</p></details>
+   Link:<a href="https://www.donnersummithistoricalsociety.org/pages/bookreviews/AliensintheForest.html" target="_blank" rel="noopener noreferrer nofollow">https://www.donnersummithistoricalsociety.org/pages/bookreviews/AliensintheForest.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>His experience would haunt him for the rest of his life. That September day Donald and two...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: Mystery in Cisco Grove: Don Shrum's Encounter with UFOs  
-   Link: <a href="https://www.reddit.com/r/TheWhyFiles/comments/18d7uif/mystery_in_cisco_grove_don_shrums_encounter_with/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheWhyFiles/comments/18d7uif/mystery_in_cisco_grove_don_shrums_encounter_with/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien encounters in forest... After watching The Pentyrch UFO Incident and Project Ancient Arrow...</p></details>
+   Link:<a href="https://www.reddit.com/r/TheWhyFiles/comments/18d7uif/mystery_in_cisco_grove_don_shrums_encounter_with/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheWhyFiles/comments/18d7uif/mystery_in_cisco_grove_don_shrums_encounter_with/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien encounters in forest... After watching The Pentyrch UFO Incident and Project Ancient Arrow...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Project U.F.O  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_U.F.O" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_U.F.O</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project U.F.O.Based very loosely on the Cisco Grove UFO Encounter as reported in 1964.... blue and white UFOs as hard evidence for Pr...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_U.F.O" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_U.F.O</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project U.F.O.Based very loosely on the Cisco Grove UFO Encounter as reported in 1964.... blue and white UFOs as hard evidence for Pr...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skeptic/comments/1343gou/j_allen_hynek/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1343gou/j_allen_hynek/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>J Allen Hynek: r/skepticJ Allen Hynek, the astronomer who notably went from being a UFO skeptic to believing that UFOs were interdimensi...</p></details>
+   Link:<a href="https://www.reddit.com/r/skeptic/comments/1343gou/j_allen_hynek/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1343gou/j_allen_hynek/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>J Allen Hynek: r/skepticJ Allen Hynek, the astronomer who notably went from being a UFO skeptic to believing that UFOs were interdimensi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/xi1v8g/humanoid_entities_that_attacked_28yearold_donald/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/xi1v8g/humanoid_entities_that_attacked_28yearold_donald/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cisco Grove UFO/Humanoids Incident: ALIENS IN THE FOREST! 1. 0... Chilling &#x27;alien&#x27; message to humanity uncovered in latest UFO disclosur...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/xi1v8g/humanoid_entities_that_attacked_28yearold_donald/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/xi1v8g/humanoid_entities_that_attacked_28yearold_donald/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cisco Grove UFO/Humanoids Incident: ALIENS IN THE FOREST! 1. 0... Chilling &#x27;alien&#x27; message to humanity uncovered in latest UFO disclosur...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: amazon.com  
-   Link: <a href="https://www.amazon.com/stores/author/B001HOEB8A" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/stores/author/B001HOEB8A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek: books, biography, latest updateJ. Allen Hynek. Most popular. The Edge of Reality: Two Scientists Evaluate What We Know of th...</p></details>
+   Link:<a href="https://www.amazon.com/stores/author/B001HOEB8A" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/stores/author/B001HOEB8A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek: books, biography, latest updateJ. Allen Hynek. Most popular. The Edge of Reality: Two Scientists Evaluate What We Know of th...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2013/01/the-secret-life-of-j-allen-hynek/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2013/01/the-secret-life-of-j-allen-hynek/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Secret Life of J. Allen HynekAccording to legend, the astronomer J. Allen Hynek was a skeptic before becoming an ou...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2013/01/the-secret-life-of-j-allen-hynek/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2013/01/the-secret-life-of-j-allen-hynek/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Secret Life of J. Allen HynekAccording to legend, the astronomer J. Allen Hynek was a skeptic before becoming an ou...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dailynorthwestern.com  
-   Link: <a href="https://dailynorthwestern.com/2023/03/06/lateststories/time-capsule-a-look-at-j-allen-hynek-the-nu-professor-whose-ufo-research-inspired-close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://dailynorthwestern.com/2023/03/06/lateststories/time-capsule-a-look-at-j-allen-hynek-the-nu-professor-whose-ufo-research-inspired-close-encounters-of-the-third-kind/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Daily NorthwesternRemembering NU professor J. Allen Hynek&#x27;s UFO research7 Mar 2023 — An astronomy professor at NU during the Space Ag...</p></details>
+   Link:<a href="https://dailynorthwestern.com/2023/03/06/lateststories/time-capsule-a-look-at-j-allen-hynek-the-nu-professor-whose-ufo-research-inspired-close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://dailynorthwestern.com/2023/03/06/lateststories/time-capsule-a-look-at-j-allen-hynek-the-nu-professor-whose-ufo-research-inspired-close-encounters-of-the-third-kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Daily NorthwesternRemembering NU professor J. Allen Hynek&#x27;s UFO research7 Mar 2023 — An astronomy professor at NU during the Space Ag...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: richardhynek.com  
-   Link: <a href="https://richardhynek.com/" target="_blank" rel="noopener noreferrer nofollow">https://richardhynek.com/</a>  
+   Link:<a href="https://richardhynek.com/" target="_blank" rel="noopener noreferrer nofollow">https://richardhynek.com/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: The Truth About Don Shrum's UFO Night!The Cisco Grove UFO Incident,  
-   Link: <a href="https://www.facebook.com/OMGTheWhyFiles/posts/the-truth-about-don-shrums-ufo-night/1452127170256112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OMGTheWhyFiles/posts/the-truth-about-don-shrums-ufo-night/1452127170256112/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 4, 1964. Witness: Donald Shrum. &quot;It was September 4th of 1964 and 28-year-old Donald Shrum and a group...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/OMGTheWhyFiles/posts/the-truth-about-don-shrums-ufo-night/1452127170256112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OMGTheWhyFiles/posts/the-truth-about-don-shrums-ufo-night/1452127170256112/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 4, 1964. Witness: Donald Shrum. &quot;It was September 4th of 1964 and 28-year-old Donald Shrum and a group...Read more...</p></details>
    Published: September 4, 1964  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt30343028/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt30343028/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery in Cisco Grove: Don Shrum&#x27;s Encounter with UFOs...In September 1964, Captain McLeod and Sergeant Barnes were dispatched...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt30343028/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt30343028/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery in Cisco Grove: Don Shrum&#x27;s Encounter with UFOs...In September 1964, Captain McLeod and Sergeant Barnes were dispatched...</p></details>
    Published: September 1964  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: globalplayer.com  
    Title: They were sent to investigate a UFO  
-   Link: <a href="https://www.globalplayer.com/podcasts/episodes/7Drrwc7/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalplayer.com/podcasts/episodes/7Drrwc7/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Don Shrum&#x27;s Encounter with UFOs, Aliens and RobotsIn September 1964, Captain McLeod and Sergeant Barnes were dispatched from Wright-Patte...</p></details>
+   Link:<a href="https://www.globalplayer.com/podcasts/episodes/7Drrwc7/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalplayer.com/podcasts/episodes/7Drrwc7/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Don Shrum&#x27;s Encounter with UFOs, Aliens and RobotsIn September 1964, Captain McLeod and Sergeant Barnes were dispatched from Wright-Patte...</p></details>
    Published: September 1964  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/episode/0c2FdcA1VpiDUU8dg9uTFF" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/0c2FdcA1VpiDUU8dg9uTFF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in Cisco Grove: Don Shrum&#x27;s Encounter with UFOs...11 Dec 2023 — Mystery in Cisco Grove: Don Shrum&#x27;s Encounter with UFOs, Aliens and Robots...</p></details>
+   Link:<a href="https://open.spotify.com/episode/0c2FdcA1VpiDUU8dg9uTFF" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/0c2FdcA1VpiDUU8dg9uTFF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in Cisco Grove: Don Shrum&#x27;s Encounter with UFOs...11 Dec 2023 — Mystery in Cisco Grove: Don Shrum&#x27;s Encounter with UFOs, Aliens and Robots...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archive.org  
    Title: FUL L ALIEN INTERVIEW  
-   Link: <a href="https://archive.org/details/youtube-QTYsigxhjic" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/youtube-QTYsigxhjic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FULL ALIEN INTERVIEW - 09/06/1964 - EBE-3 -UFO13 Feb 2025 — Project Blue Book was the US Air Force&#x27;s official investigation into UFO sigh...</p></details>
+   Link:<a href="https://archive.org/details/youtube-QTYsigxhjic" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/youtube-QTYsigxhjic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FULL ALIEN INTERVIEW - 09/06/1964 - EBE-3 -UFO13 Feb 2025 — Project Blue Book was the US Air Force&#x27;s official investigation into UFO sigh...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=F3SrSk7VNWY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F3SrSk7VNWY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hoe National Forest near Cisco... Donald Shrum Cisco Grove...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F3SrSk7VNWY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F3SrSk7VNWY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hoe National Forest near Cisco... Donald Shrum Cisco Grove...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Mystery in Cisco Grove: Don Shrum's Encounter with UFOs, Aliens and Robots  
-   Link: <a href="https://www.youtube.com/watch?v=4yEkCSyTTxg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4yEkCSyTTxg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Disturbing Cisco Grove Incident: California&#x27;s Strangest Real Life Encounter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4yEkCSyTTxg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4yEkCSyTTxg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Disturbing Cisco Grove Incident: California&#x27;s Strangest Real Life Encounter...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Disturbing Cisco Grove Incident: California's Strangest Real Life Encounter  
-   Link: <a href="https://www.youtube.com/watch?v=QUHibt2ve9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QUHibt2ve9o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Man That Fought Aliens For 12 Hours Straight...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QUHibt2ve9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QUHibt2ve9o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Man That Fought Aliens For 12 Hours Straight...</p></details>

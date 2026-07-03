@@ -758,268 +758,268 @@ image: /assets/images/Maury_Island_inciden_ec4432-overview-social.jpg
 
 ## Introduction
 
-The incident matters less because it provides strong evidence of an unexplained craft, and more because it shows how quickly the 1947 “flying saucer” wave mixed eyewitness claims, pulp publishing, military interest, press rumour, and official secrecy. In that sense, Maury Island is a useful sibling case to Kenneth Arnold’s Mount Rainier sighting: Arnold’s report helped launch the national saucer craze, while Maury Island showed how unstable and commercially attractive the new subject became within days. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+The incident matters less because it provides strong evidence of an unexplained craft, and more because it shows how quickly the 1947 “flying saucer” wave mixed eyewitness claims, pulp publishing, military interest, press rumour, and official secrecy. In that sense, Maury Island is a useful sibling case to Kenneth Arnold’s Mount Rainier sighting: Arnold’s report helped launch the national saucer craze, while Maury Island showed how unstable and commercially attractive the new subject became within days.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
 
 <img src="{{ "/assets/images/Maury_Island_inciden_ec4432-overview.webp" | relative_url }}" alt="Overview image for Maury Island incident 1947" loading="eager" decoding="sync" fetchpriority="high">
 ## What Harold Dahl and Fred Crisman claimed
 
-The core story begins with Harold Dahl, a Tacoma man associated with timber salvage rather than any confirmed official harbour-patrol role. In later accounts, Dahl said that on 21 June 1947 he was in a boat near Maury Island with crew members, his son, and a dog when six large, doughnut-shaped craft appeared below the clouds. One object was said to be in trouble, and another allegedly came close to it before debris began falling into the water and onto the boat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+The core story begins with Harold Dahl, a Tacoma man associated with timber salvage rather than any confirmed official harbour-patrol role. In later accounts, Dahl said that on 21 June 1947 he was in a boat near Maury Island with crew members, his son, and a dog when six large, doughnut-shaped craft appeared below the clouds. One object was said to be in trouble, and another allegedly came close to it before debris began falling into the water and onto the boat.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
 
-According to the tale as later published and investigated, the falling material included light metal-like sheets and harder rock-like fragments. Dahl said the debris damaged the boat, injured his son, and killed the dog. He also claimed to have taken photographs, but the photographs were never produced; in some versions they were said to be fogged or lost. This absence became one of the simplest evidential weaknesses in the case: the story depended heavily on witness narrative and claimed debris, not on verifiable images. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+According to the tale as later published and investigated, the falling material included light metal-like sheets and harder rock-like fragments. Dahl said the debris damaged the boat, injured his son, and killed the dog. He also claimed to have taken photographs, but the photographs were never produced; in some versions they were said to be fogged or lost. This absence became one of the simplest evidential weaknesses in the case: the story depended heavily on witness narrative and claimed debris, not on verifiable images.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
 
-Fred Crisman, Dahl’s associate, entered the story as the person to whom Dahl reportedly took the material. Crisman later claimed some connection to the debris and the site, but the accounts around him varied. HistoryLink summarises the pair as Tacoma timber salvagers and says Crisman offered fragments to the publisher Ray Palmer after Arnold’s sighting had made national news. That timing is important: the alleged event was dated 21 June, but the story appears to have surfaced publicly only after the 24 June Arnold sighting had turned “flying saucers” into a national subject. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+Fred Crisman, Dahl’s associate, entered the story as the person to whom Dahl reportedly took the material. Crisman later claimed some connection to the debris and the site, but the accounts around him varied. HistoryLink summarises the pair as Tacoma timber salvagers and says Crisman offered fragments to the publisher Ray Palmer after Arnold’s sighting had made national news. That timing is important: the alleged event was dated 21 June, but the story appears to have surfaced publicly only after the 24 June Arnold sighting had turned “flying saucers” into a national subject.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
 
 ## Why Kenneth Arnold became involved
 
-Kenneth Arnold was not a minor bystander. On 24 June 1947 he reported seeing nine fast-moving objects near Mount Rainier, a report that helped popularise the phrase “flying saucer” and triggered a wave of sightings across the United States. After that publicity, pulp and science-fiction publisher Ray Palmer contacted Arnold about the Maury Island claims and paid him to investigate the story in Tacoma. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+Kenneth Arnold was not a minor bystander. On 24 June 1947 he reported seeing nine fast-moving objects near Mount Rainier, a report that helped popularise the phrase “flying saucer” and triggered a wave of sightings across the United States. After that publicity, pulp and science-fiction publisher Ray Palmer contacted Arnold about the Maury Island claims and paid him to investigate the story in Tacoma.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
 
-Arnold brought in airline pilot E. J. Smith, another aviator associated with early flying-disc reports. The pair interviewed Dahl and Crisman, inspected alleged fragments, and became uneasy enough to contact military intelligence. This is one reason the case endured: Arnold was a famous early witness, not simply a credulous outsider, and his presence gave the Maury Island story more attention than it would otherwise have received. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Arnold brought in airline pilot E. J. Smith, another aviator associated with early flying-disc reports. The pair interviewed Dahl and Crisman, inspected alleged fragments, and became uneasy enough to contact military intelligence. This is one reason the case endured: Arnold was a famous early witness, not simply a credulous outsider, and his presence gave the Maury Island story more attention than it would otherwise have received.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Even so, Arnold’s involvement does not independently validate Dahl’s story. Ruppelt’s later account says that the military investigators suspected a hoax after their interviews and that Arnold and Smith were not told the full official assessment partly because they had been “taken” by the story and officials did not want to embarrass them. That is a retrospective Air Force-linked interpretation, but it fits the broader pattern: the most credible people in the case were not original witnesses to the alleged Maury Island event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Even so, Arnold’s involvement does not independently validate Dahl’s story. Ruppelt’s later account says that the military investigators suspected a hoax after their interviews and that Arnold and Smith were not told the full official assessment partly because they had been “taken” by the story and officials did not want to embarrass them. That is a retrospective Air Force-linked interpretation, but it fits the broader pattern: the most credible people in the case were not original witnesses to the alleged Maury Island event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Maury_Island_inciden_ec4432-Illustration-1-dark.svg" | relative_url }}" alt="Maury Island incident 1947 illustration 1" data-theme-src-dark="{{ "/assets/images/Maury_Island_inciden_ec4432-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maury_Island_inciden_ec4432-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The fatal B-25 crash and how it changed the case
 
-The most tragic and consequential event came after two Army Air Forces intelligence officers, Captain William L. Davidson and First Lieutenant Frank M. Brown, travelled to Tacoma to look into the claims. They interviewed the principals, took or were offered samples, and departed from McChord Field in a B-25. On 1 August 1947, the aircraft crashed near Kelso, Washington, killing Davidson and Brown; other occupants survived by parachute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most tragic and consequential event came after two Army Air Forces intelligence officers, Captain William L. Davidson and First Lieutenant Frank M. Brown, travelled to Tacoma to look into the claims. They interviewed the principals, took or were offered samples, and departed from McChord Field in a B-25. On 1 August 1947, the aircraft crashed near Kelso, Washington, killing Davidson and Brown; other occupants survived by parachute.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This crash transformed a weak UFO report into a legend. Contemporary and later rumours suggested sabotage, secret cargo, or the destruction of physical evidence. Ruppelt’s account, however, states that the crash was caused by an engine fire and structural failure, not by sabotage, and that the classified material aboard was a file of reports rather than alien debris. HistoryLink likewise says the Army and survivors confirmed an engine-fire explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+This crash transformed a weak UFO report into a legend. Contemporary and later rumours suggested sabotage, secret cargo, or the destruction of physical evidence. Ruppelt’s account, however, states that the crash was caused by an engine fire and structural failure, not by sabotage, and that the classified material aboard was a file of reports rather than alien debris. HistoryLink likewise says the Army and survivors confirmed an engine-fire explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
 
-The crash should not be treated as evidence that the original sighting was real. It does show why the story became durable: two officers really died after investigating the claims, and official secrecy around military files created room for suspicion. In UFO folklore, that combination — a dramatic claim, recovered fragments, a fatal accident, and incomplete public explanation — is powerful even when the underlying evidence is poor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The crash should not be treated as evidence that the original sighting was real. It does show why the story became durable: two officers really died after investigating the claims, and official secrecy around military files created room for suspicion. In UFO folklore, that combination — a dramatic claim, recovered fragments, a fatal accident, and incomplete public explanation — is powerful even when the underlying evidence is poor.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## What the official and documentary record supports
 
-The strongest documentary line runs against the Maury Island claim. HistoryLink describes the case as a “clumsy hoax” and says Dahl and Crisman confessed that they had fabricated the story, with the supposed debris consisting of scrap and pumice from a Maury Island beach. Ruppelt, who later headed Project Blue Book, called it “the dirtiest hoax” in UFO history and quoted an official report saying both men admitted the rock fragments had nothing to do with flying saucers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+The strongest documentary line runs against the Maury Island claim. HistoryLink describes the case as a “clumsy hoax” and says Dahl and Crisman confessed that they had fabricated the story, with the supposed debris consisting of scrap and pumice from a Maury Island beach. Ruppelt, who later headed Project Blue Book, called it “the dirtiest hoax” in UFO history and quoted an official report saying both men admitted the rock fragments had nothing to do with flying saucers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
 
-The FBI-related material is slightly more complicated, and this complexity is often used by defenders of the case. MuckRock’s discussion of the FBI file notes that the Bureau quickly treated the matter as a hoax, but also that one memo said Dahl did not admit the story was a hoax; rather, he said he would call it one if questioned because he wanted no more trouble. A related memo, however, recorded that both Dahl and Crisman admitted there were no discs and that the material was ordinary rock from a gravel pit or similar source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.muckrock.com/news/archives/2016/dec/05/fbis-real-x-files-documents-strange-connection-bet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muckrock.com">[MuckRock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muckrock.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The FBI-related material is slightly more complicated, and this complexity is often used by defenders of the case. MuckRock’s discussion of the FBI file notes that the Bureau quickly treated the matter as a hoax, but also that one memo said Dahl did not admit the story was a hoax; rather, he said he would call it one if questioned because he wanted no more trouble. A related memo, however, recorded that both Dahl and Crisman admitted there were no discs and that the material was ordinary rock from a gravel pit or similar source.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.muckrock.com/news/archives/2016/dec/05/fbis-real-x-files-documents-strange-connection-bet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muckrock.com">[MuckRock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muckrock.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That distinction matters. It is too simple to say every document presents one clean confession in exactly the same way. But the overall documentary pattern still damages the extraordinary claim: no photographs were produced, the debris was identified as ordinary material or slag-like waste, the original witnesses’ accounts varied, and military investigators reportedly suspected a hoax before the crash. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That distinction matters. It is too simple to say every document presents one clean confession in exactly the same way. But the overall documentary pattern still damages the extraordinary claim: no photographs were produced, the debris was identified as ordinary material or slag-like waste, the original witnesses’ accounts varied, and military investigators reportedly suspected a hoax before the crash.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a5KXsiBZjOM" title="The CIA, Men in Black and the Plot to Take Out JFK | The Maury Island Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a5KXsiBZjOM" target="_blank" rel="noopener noreferrer">The CIA, Men in Black and the Plot to Take Out JFK | The Maury Island Incident</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 3.2M &middot; Uploaded: October 2025 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a5KXsiBZjOM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a5KXsiBZjOM">Open on YouTube</a></p></div></div></div>
 
 ## The debris problem: physical evidence without provenance
 
-The alleged fragments are the case’s most important physical-evidence claim, but also its weakest. In the original narrative, debris fell from an airborne object and struck Dahl’s boat. In the official and sceptical accounts, the fragments were mundane rocks, slag, scrap, pumice, or beach material. MuckRock’s summary of FBI records says investigators eventually noted that the “disc fragments” resembled smelter slag. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.muckrock.com/news/archives/2016/dec/05/fbis-real-x-files-documents-strange-connection-bet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muckrock.com">[MuckRock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muckrock.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The alleged fragments are the case’s most important physical-evidence claim, but also its weakest. In the original narrative, debris fell from an airborne object and struck Dahl’s boat. In the official and sceptical accounts, the fragments were mundane rocks, slag, scrap, pumice, or beach material. MuckRock’s summary of FBI records says investigators eventually noted that the “disc fragments” resembled smelter slag.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.muckrock.com/news/archives/2016/dec/05/fbis-real-x-files-documents-strange-connection-bet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muckrock.com">[MuckRock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muckrock.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Good physical evidence needs a reliable chain of custody: who collected it, where, when, under what conditions, and how it was protected from substitution or contamination. Maury Island lacks that. The material passed through interested parties, was entangled with publicity and publishing, and was never established as coming from the sky rather than from the ground. Ruppelt’s account says an informer had already established that the fragments were slag, and HistoryLink says later analysis of debris associated with the B-25 crash site indicated ordinary igneous rocks or possibly meteor fragments, not confirmed spacecraft material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+Good physical evidence needs a reliable chain of custody: who collected it, where, when, under what conditions, and how it was protected from substitution or contamination. Maury Island lacks that. The material passed through interested parties, was entangled with publicity and publishing, and was never established as coming from the sky rather than from the ground. Ruppelt’s account says an informer had already established that the fragments were slag, and HistoryLink says later analysis of debris associated with the B-25 crash site indicated ordinary igneous rocks or possibly meteor fragments, not confirmed spacecraft material.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
 
 The result is not merely “unproven alien debris”; it is poorer than that. The debris does not reliably connect to the alleged sighting at all. Without a secure provenance, it cannot carry the weight placed on it by later retellings.
 
 ## The “men in black” element
 
-Dahl’s claim that a man in a black suit warned him not to talk is one of the reasons Maury Island remains famous. The Washington State Senate’s 2017 commemorative resolution described Dahl as alleging such a warning on 22 June 1947 and later recognised the incident’s association with what became popularly known as “men in black”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Senate%20Resolutions/8648-Maury%20Island%20Incident.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawfilesext.leg.wa.gov">[Law Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawfilesext.leg.wa.gov</span><span class="citation-popover-snippet">Law Files</span></span></span>
+Dahl’s claim that a man in a black suit warned him not to talk is one of the reasons Maury Island remains famous. The Washington State Senate’s 2017 commemorative resolution described Dahl as alleging such a warning on 22 June 1947 and later recognised the incident’s association with what became popularly known as “men in black”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Senate%20Resolutions/8648-Maury%20Island%20Incident.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawfilesext.leg.wa.gov">[Law Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawfilesext.leg.wa.gov</span><span class="citation-popover-snippet">Law Files</span></span></span>
 
-The problem is that the “man in black” component is only as strong as Dahl’s broader account. Ruppelt’s later summary says the mysterious visitor “didn’t exist”, while HistoryLink frames the episode as part of the fabricated story that later fed rumours of sinister officials and cover-up. MuckRock, more cautiously, notes that the story helped popularise the “men in black” legend while still treating the underlying FBI file as pointing towards hoax. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The problem is that the “man in black” component is only as strong as Dahl’s broader account. Ruppelt’s later summary says the mysterious visitor “didn’t exist”, while HistoryLink frames the episode as part of the fabricated story that later fed rumours of sinister officials and cover-up. MuckRock, more cautiously, notes that the story helped popularise the “men in black” legend while still treating the underlying FBI file as pointing towards hoax.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For the history of UFO culture, however, the point is still significant. Maury Island helped supply a template: a witness sees something extraordinary, a threatening stranger appears, evidence is said to be suppressed, and official denial becomes part of the story rather than an end to it. Later UFO narratives would repeat that structure many times.
 
 <img src="{{ "/assets/images/Maury_Island_inciden_ec4432-Illustration-2-dark.svg" | relative_url }}" alt="Maury Island incident 1947 illustration 2" data-theme-src-dark="{{ "/assets/images/Maury_Island_inciden_ec4432-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maury_Island_inciden_ec4432-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why some people still dispute the hoax conclusion
 
-The best reason to keep the case open as a historical problem, rather than dismiss it in a sentence, is that the documents and later public memory do not all tell the story with the same emphasis. The 2017 Washington State Senate resolution, for example, says FBI agents concluded that Dahl did not recant his story and that his claim of hoax was itself a fabrication to avoid attention and ridicule. That resolution also honours Davidson and Brown and treats Maury Island as culturally important to the “Summer of Saucers”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Senate%20Resolutions/8648-Maury%20Island%20Incident.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawfilesext.leg.wa.gov">[Law Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawfilesext.leg.wa.gov</span><span class="citation-popover-snippet">Law Files</span></span></span>
+The best reason to keep the case open as a historical problem, rather than dismiss it in a sentence, is that the documents and later public memory do not all tell the story with the same emphasis. The 2017 Washington State Senate resolution, for example, says FBI agents concluded that Dahl did not recant his story and that his claim of hoax was itself a fabrication to avoid attention and ridicule. That resolution also honours Davidson and Brown and treats Maury Island as culturally important to the “Summer of Saucers”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Senate%20Resolutions/8648-Maury%20Island%20Incident.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawfilesext.leg.wa.gov">[Law Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawfilesext.leg.wa.gov</span><span class="citation-popover-snippet">Law Files</span></span></span>
 
-That legislative resolution is useful evidence of cultural memory, but it is not the same thing as a forensic re-investigation. It summarises and commemorates the story in a local heritage context, while older Air Force-linked and historical accounts place much more weight on hoax admissions, missing photographs, ordinary fragments, and the accidental cause of the B-25 crash. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+That legislative resolution is useful evidence of cultural memory, but it is not the same thing as a forensic re-investigation. It summarises and commemorates the story in a local heritage context, while older Air Force-linked and historical accounts place much more weight on hoax admissions, missing photographs, ordinary fragments, and the accidental cause of the B-25 crash.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
 
-The most defensible sceptical conclusion is therefore not that every sentence in every official file is perfectly clear. It is that the extraordinary claim fails on ordinary evidential grounds. The original witnesses were not well corroborated, the physical evidence lacked provenance, the story surfaced in a publicity-rich moment, the claimed photographs vanished, and the strongest official summaries treated the material as mundane. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most defensible sceptical conclusion is therefore not that every sentence in every official file is perfectly clear. It is that the extraordinary claim fails on ordinary evidential grounds. The original witnesses were not well corroborated, the physical evidence lacked provenance, the story surfaced in a publicity-rich moment, the claimed photographs vanished, and the strongest official summaries treated the material as mundane.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Maury_Island_inciden_ec4432-Illustration-3-dark.svg" | relative_url }}" alt="Maury Island incident 1947 illustration 3" data-theme-src-dark="{{ "/assets/images/Maury_Island_inciden_ec4432-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maury_Island_inciden_ec4432-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A concise chronology
 
 The timeline helps separate the alleged event from the later mythology:
 
-* **21 June 1947:** Dahl later claimed he saw six flying discs near Maury Island and that debris injured his son, killed a dog, and damaged the boat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
-* **22 June 1947:** Dahl allegedly received a warning from a man dressed in black, according to the later commemorative resolution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Senate%20Resolutions/8648-Maury%20Island%20Incident.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawfilesext.leg.wa.gov">[Law Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawfilesext.leg.wa.gov</span><span class="citation-popover-snippet">Law Files</span></span></span>
-* **24 June 1947:** Kenneth Arnold reported seeing nine unidentified objects near Mount Rainier, bringing “flying saucers” into national attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Senate%20Resolutions/8648-Maury%20Island%20Incident.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawfilesext.leg.wa.gov">[Law Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawfilesext.leg.wa.gov</span><span class="citation-popover-snippet">Law Files</span></span></span>
-* **On or after 26 June 1947:** Dahl and Crisman’s story was reported or circulated after Arnold’s sighting had become national news. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
-* **Late July 1947:** Ray Palmer funded Arnold’s trip to Tacoma to investigate the Maury Island claims; Arnold involved E. J. Smith and then military intelligence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
-* **1 August 1947:** Davidson and Brown died when their B-25 crashed near Kelso after their investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **After the crash:** FBI and military attention increased, and the case became tied to rumours of sabotage, secret debris, and official suppression, even as official and sceptical accounts concluded the story was a hoax. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
-* **1952 and after:** Arnold and Palmer’s *The Coming of the Saucers* helped keep the story alive, while later UFO literature and “men in black” mythology gave it a long cultural afterlife. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+* **21 June 1947:** Dahl later claimed he saw six flying discs near Maury Island and that debris injured his son, killed a dog, and damaged the boat.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+* **22 June 1947:** Dahl allegedly received a warning from a man dressed in black, according to the later commemorative resolution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Senate%20Resolutions/8648-Maury%20Island%20Incident.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawfilesext.leg.wa.gov">[Law Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawfilesext.leg.wa.gov</span><span class="citation-popover-snippet">Law Files</span></span></span>
+* **24 June 1947:** Kenneth Arnold reported seeing nine unidentified objects near Mount Rainier, bringing “flying saucers” into national attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Senate%20Resolutions/8648-Maury%20Island%20Incident.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawfilesext.leg.wa.gov">[Law Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawfilesext.leg.wa.gov</span><span class="citation-popover-snippet">Law Files</span></span></span>
+* **On or after 26 June 1947:** Dahl and Crisman’s story was reported or circulated after Arnold’s sighting had become national news.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+* **Late July 1947:** Ray Palmer funded Arnold’s trip to Tacoma to investigate the Maury Island claims; Arnold involved E. J. Smith and then military intelligence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+* **1 August 1947:** Davidson and Brown died when their B-25 crashed near Kelso after their investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **After the crash:** FBI and military attention increased, and the case became tied to rumours of sabotage, secret debris, and official suppression, even as official and sceptical accounts concluded the story was a hoax.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+* **1952 and after:** Arnold and Palmer’s *The Coming of the Saucers* helped keep the story alive, while later UFO literature and “men in black” mythology gave it a long cultural afterlife.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AJsok8Dqv54" title="The Report on Unidentified Flying Objects by Edward J. RUPPELT Part 1/3 | Full Audio Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AJsok8Dqv54" target="_blank" rel="noopener noreferrer">The Report on Unidentified Flying Objects by Edward J. RUPPELT Part 1/3 | Full Audio Book</a></p><p class="youtube-embed-meta">Channel: LibriVox Audiobooks &middot; Views: 316.1K &middot; Uploaded: September 2018 &middot; Length: 7 hours 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AJsok8Dqv54" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AJsok8Dqv54">Open on YouTube</a></p></div></div></div>
 
 ## How to weigh the case today
 
-The Maury Island incident is best read as a historically important weak case. Its importance is real: it sits at the dawn of the modern UFO era, involves Kenneth Arnold’s orbit, includes the deaths of two military officers, and helped seed later “men in black” and recovered-debris themes. Its evidential value is much lower: the [witness claims]({{ 'witness-claims-2d8b50/' | relative_url }}) are inconsistent and poorly corroborated, the photographs never appeared, and the supposed physical evidence was repeatedly described as ordinary material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Maury Island incident is best read as a historically important weak case. Its importance is real: it sits at the dawn of the modern UFO era, involves Kenneth Arnold’s orbit, includes the deaths of two military officers, and helped seed later “men in black” and recovered-debris themes. Its evidential value is much lower: the [witness claims]({{ 'witness-claims-2d8b50/' | relative_url }}) are inconsistent and poorly corroborated, the photographs never appeared, and the supposed physical evidence was repeatedly described as ordinary material.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A fair assessment should hold two ideas together. First, Davidson and Brown were real officers who died in a real crash after looking into a real reported claim, and that tragedy deserves not to be reduced to a punchline. Second, their deaths do not rescue the original story from its evidential problems. The available record points more strongly to hoax, rumour, and publicity than to an unexplained aerial event over Puget Sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A fair assessment should hold two ideas together. First, Davidson and Brown were real officers who died in a real crash after looking into a real reported claim, and that tragedy deserves not to be reduced to a punchline. Second, their deaths do not rescue the original story from its evidential problems. The available record points more strongly to hoax, rumour, and publicity than to an unexplained aerial event over Puget Sound.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Maury Island therefore belongs in a UFO case dossier not as a strong “unknown”, but as a cautionary origin story. It shows how quickly a dramatic claim can acquire authority through proximity to famous witnesses, official investigation, military secrecy, and tragedy — even when the underlying evidence is fragile.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/isizjCOkppo" title="The Maury Island Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=isizjCOkppo" target="_blank" rel="noopener noreferrer">The Maury Island Incident</a></p><p class="youtube-embed-meta">Channel: Pretty Gritty Tours &middot; Views: 11.3K &middot; Uploaded: April 2022 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=isizjCOkppo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=isizjCOkppo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The UFO Case That Became a Cover Up Legend. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The UFO Case That Became a Cover Up Legend. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Documents the early development of UFO-related secrecy, intelligence interest, and media amplification in the late 1940s.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents the early development of UFO-related secrecy, intelligence interest, and media amplification in the late 1940s.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Provides institutional background on how intelligence bureaus struggled to manage the chaos of early saucer-craze reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides institutional background on how intelligence bureaus struggled to manage the chaos of early saucer-craze reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Profiles the Maury Island incident objectively, detailing the original claims, the hoax theories, and its role as a founding UFO legend.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Profiles the Maury Island incident objectively, detailing the original claims, the hoax theories, and its role as a founding UFO legend.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches forensic methodologies to evaluate cases based on contradictory witness statements and publicity-driven narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches forensic methodologies to evaluate cases based on contradictory witness statements and publicity-driven narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme+-book&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme -book" data-ebay-reference="maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme+-book&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme -book" data-ebay-reference="maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme+-book&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme -book" data-ebay-reference="maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme+-book&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme -book" data-ebay-reference="maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme+-book&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme -book" data-ebay-reference="maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme+-book&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme -book" data-ebay-reference="maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme+-book&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme -book" data-ebay-reference="maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme+-book&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme -book" data-ebay-reference="maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme+-book&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme -book" data-ebay-reference="maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme+-book&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme -book" data-ebay-reference="maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme+-book&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme -book" data-ebay-reference="maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme+-book&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme -book" data-ebay-reference="maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme+-book&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme -book" data-ebay-reference="maury-island-incident-1947-the-ufo-case-that-became-a-cover-up-legend-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1035,7 +1035,7 @@ Maury Island therefore belongs in a UFO case dossier not as a strong “unknown�
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1055,7 +1055,7 @@ Maury Island therefore belongs in a UFO case dossier not as a strong “unknown�
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1087,7 +1087,7 @@ Maury Island therefore belongs in a UFO case dossier not as a strong “unknown�
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1139,7 +1139,7 @@ Maury Island therefore belongs in a UFO case dossier not as a strong “unknown�
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1184,7 +1184,7 @@ Maury Island therefore belongs in a UFO case dossier not as a strong “unknown�
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1225,89 +1225,89 @@ Maury Island therefore belongs in a UFO case dossier not as a strong “unknown�
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: historylink.org  
-   Link: <a href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/File/2068</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</p></details>
+   Link:<a href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/File/2068</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</p></details>
    Published: June 21, 1947  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
+   Link:<a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lawfilesext.leg.wa.gov  
    Title: Law Files  
-   Link: <a href="https://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Senate%20Resolutions/8648-Maury%20Island%20Incident.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Senate%20Resolutions/8648-Maury%20Island%20Incident.pdf</a>  
+   Link:<a href="https://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Senate%20Resolutions/8648-Maury%20Island%20Incident.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Senate%20Resolutions/8648-Maury%20Island%20Incident.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: muckrock.com  
-   Link: <a href="https://www.muckrock.com/news/archives/2016/dec/05/fbis-real-x-files-documents-strange-connection-bet/" target="_blank" rel="noopener noreferrer nofollow">https://www.muckrock.com/news/archives/2016/dec/05/fbis-real-x-files-documents-strange-connection-bet/</a>  
+   Link:<a href="https://www.muckrock.com/news/archives/2016/dec/05/fbis-real-x-files-documents-strange-connection-bet/" target="_blank" rel="noopener noreferrer nofollow">https://www.muckrock.com/news/archives/2016/dec/05/fbis-real-x-files-documents-strange-connection-bet/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: muckrock.com  
    Title: fred crisman 24634  
-   Link: <a href="https://www.muckrock.com/foi/united-states-of-america-10/fred-crisman-24634/" target="_blank" rel="noopener noreferrer nofollow">https://www.muckrock.com/foi/united-states-of-america-10/fred-crisman-24634/</a>  
+   Link:<a href="https://www.muckrock.com/foi/united-states-of-america-10/fred-crisman-24634/" target="_blank" rel="noopener noreferrer nofollow">https://www.muckrock.com/foi/united-states-of-america-10/fred-crisman-24634/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Maury Island incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Maury_Island_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Maury_Island_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Maury Island incidentThe FBI then began a formal investigation into Dahl and Crisman&#x27;s claims, and quickly determined that they were f...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Maury_Island_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Maury_Island_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maury Island incidentThe FBI then began a formal investigation into Dahl and Crisman&#x27;s claims, and quickly determined that they were f...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: seattlesouthside.com  
    Title: ufo history  
-   Link: <a href="https://www.seattlesouthside.com/welcome-back-aliens/ufo-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.seattlesouthside.com/welcome-back-aliens/ufo-history/</a>  
+   Link:<a href="https://www.seattlesouthside.com/welcome-back-aliens/ufo-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.seattlesouthside.com/welcome-back-aliens/ufo-history/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: twinpeaks.fandom.com  
    Title: Harold Dahl  
-   Link: <a href="https://twinpeaks.fandom.com/wiki/Harold_Dahl" target="_blank" rel="noopener noreferrer nofollow">https://twinpeaks.fandom.com/wiki/Harold_Dahl</a>  
+   Link:<a href="https://twinpeaks.fandom.com/wiki/Harold_Dahl" target="_blank" rel="noopener noreferrer nofollow">https://twinpeaks.fandom.com/wiki/Harold_Dahl</a>  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: The CIA, Men in Black and the Plot to Take Out JFK | The Maury Island Incident  
-   Link: <a href="https://www.youtube.com/watch?v=a5KXsiBZjOM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a5KXsiBZjOM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TOSC - Shadows Over Puget Sound: The Maury Island UFO Mystery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=a5KXsiBZjOM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a5KXsiBZjOM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TOSC - Shadows Over Puget Sound: The Maury Island UFO Mystery...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Before Roswell  
-   Link: <a href="https://www.youtube.com/watch?v=4ryEcZqsR4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4ryEcZqsR4M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4ryEcZqsR4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4ryEcZqsR4M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Hvz8yjZngmc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Hvz8yjZngmc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Before Roswell - The Eerie Tale of Maury Island (with Dean Bertram)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Hvz8yjZngmc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Hvz8yjZngmc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Before Roswell - The Eerie Tale of Maury Island (with Dean Bertram)...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: feralhouse.com  
-   Link: <a href="https://feralhouse.com/wp/wp-content/uploads/2013/11/JFKUFO-Excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://feralhouse.com/wp/wp-content/uploads/2013/11/JFKUFO-Excerpt.pdf</a>  
+   Link:<a href="https://feralhouse.com/wp/wp-content/uploads/2013/11/JFKUFO-Excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://feralhouse.com/wp/wp-content/uploads/2013/11/JFKUFO-Excerpt.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/429298059/JFK-UFO-Military-Industrial-Conspiracy-and-Cover-Up-From-Maury-Island-to-Dallas-Kenn-Thomas" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/429298059/JFK-UFO-Military-Industrial-Conspiracy-and-Cover-Up-From-Maury-Island-to-Dallas-Kenn-Thomas</a>  
+   Link:<a href="https://www.scribd.com/document/429298059/JFK-UFO-Military-Industrial-Conspiracy-and-Cover-Up-From-Maury-Island-to-Dallas-Kenn-Thomas" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/429298059/JFK-UFO-Military-Industrial-Conspiracy-and-Cover-Up-From-Maury-Island-to-Dallas-Kenn-Thomas</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: feralhouse.com  
-   Link: <a href="https://feralhouse.com/wp/wp-content/uploads/2011/04/JFKUFOExcerpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://feralhouse.com/wp/wp-content/uploads/2011/04/JFKUFOExcerpt.pdf</a>  
+   Link:<a href="https://feralhouse.com/wp/wp-content/uploads/2011/04/JFKUFOExcerpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://feralhouse.com/wp/wp-content/uploads/2011/04/JFKUFOExcerpt.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: crystalinks.com  
-   Link: <a href="https://www.crystalinks.com/mauryisland1947.html" target="_blank" rel="noopener noreferrer nofollow">https://www.crystalinks.com/mauryisland1947.html</a>  
+   Link:<a href="https://www.crystalinks.com/mauryisland1947.html" target="_blank" rel="noopener noreferrer nofollow">https://www.crystalinks.com/mauryisland1947.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1660866237657971/posts/2313849479026307/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1660866237657971/posts/2313849479026307/</a>  
+   Link:<a href="https://www.facebook.com/groups/1660866237657971/posts/2313849479026307/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1660866237657971/posts/2313849479026307/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: vocal.media  
-   Link: <a href="https://vocal.media/history/the-maury-island-enigma-uf-os-men-in-black-and-the-shadowy-path-to-jfk-s-fate" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/history/the-maury-island-enigma-uf-os-men-in-black-and-the-shadowy-path-to-jfk-s-fate</a>
+   Link:<a href="https://vocal.media/history/the-maury-island-enigma-uf-os-men-in-black-and-the-shadowy-path-to-jfk-s-fate" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/history/the-maury-island-enigma-uf-os-men-in-black-and-the-shadowy-path-to-jfk-s-fate</a>

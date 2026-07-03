@@ -758,31 +758,31 @@ image: /assets/images/Voronezh_Russia_land_e13f34-overview-social.jpg
 
 ## What was reported in Voronezh?
 
-The core story was said to have taken place in late September 1989 in a park in Voronezh, then in the Soviet Union. Local accounts placed the initial newspaper report in the Voronezh paper *Kommuna* on 3 October 1989 under a story usually rendered in English as “Football with Aliens”. It described schoolchildren playing football in South Park in the Mashmet district when they saw a pink glow, then a dark red ball or sphere hovering above the ground. The account then escalated into the now-famous image of a very tall figure in a silver outfit, bronze-coloured boots, a disc on its chest, and three eyes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82_%D1%81_%D0%9D%D0%9B%D0%9E_%D0%B2_%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6%D0%B5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Инцидент с НЛО в Воронеже — Википедия</span><span class="citation-popover-snippet">Инцидент с НЛО в Воронеже — Википедия</span></span></span>
+The core story was said to have taken place in late September 1989 in a park in Voronezh, then in the Soviet Union. Local accounts placed the initial newspaper report in the Voronezh paper *Kommuna* on 3 October 1989 under a story usually rendered in English as “Football with Aliens”. It described schoolchildren playing football in South Park in the Mashmet district when they saw a pink glow, then a dark red ball or sphere hovering above the ground. The account then escalated into the now-famous image of a very tall figure in a silver outfit, bronze-coloured boots, a disc on its chest, and three eyes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82_%D1%81_%D0%9D%D0%9B%D0%9E_%D0%B2_%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6%D0%B5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Инцидент с НЛО в Воронеже — Википедия</span><span class="citation-popover-snippet">Инцидент с НЛО в Воронеже — Википедия</span></span></span>
 
 <img src="{{ "/assets/images/Voronezh_Russia_land_e13f34-overview.webp" | relative_url }}" alt="Overview image for Voronezh Russia landing 1989" loading="eager" decoding="sync" fetchpriority="high">
-TASS amplified the story internationally on 9 October 1989. Western newspapers repeated the agency’s claims that “scientists” had confirmed a UFO landing in a park, identified a landing site, and found traces left by alien visitors. Associated Press coverage, carried by the *Los Angeles Times*, described the TASS version as a large shining ball or disc seen hovering over a park before landing, with up to three humanoid figures and a small robot emerging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-10-10-mn-251-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+TASS amplified the story internationally on 9 October 1989. Western newspapers repeated the agency’s claims that “scientists” had confirmed a UFO landing in a park, identified a landing site, and found traces left by alien visitors. Associated Press coverage, carried by the *Los Angeles Times*, described the TASS version as a large shining ball or disc seen hovering over a park before landing, with up to three humanoid figures and a small robot emerging.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-10-10-mn-251-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The most sensational variant came from later Soviet press retellings. According to one account quoted in the *Los Angeles Times*, youngsters playing football on 27 September saw the craft land; a boy was allegedly paralysed by the gaze of an alien, the object and figures disappeared, then reappeared, and a tube-like “pistol” was pointed at a 16-year-old boy who vanished until the craft departed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-10-10-mn-251-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most sensational variant came from later Soviet press retellings. According to one account quoted in the *Los Angeles Times*, youngsters playing football on 27 September saw the craft land; a boy was allegedly paralysed by the gaze of an alien, the object and figures disappeared, then reappeared, and a tube-like “pistol” was pointed at a 16-year-old boy who vanished until the craft departed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-10-10-mn-251-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The details vary across reports: the craft is described as a ball, disc, or banana-shaped object; the number of beings shifts; and the precise witness pool changes. Those variations are central to judging the case, because the strongest claims depend on a story that was already mutating as it moved from children, to local enthusiasts, to Soviet newspapers, to international wire services. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/archive/lifestyle/1989/10/10/back-in-the-ufo/bcac9950-8ea1-47d7-8539-e16aec4542e1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post BACK IN THE UFO</span><span class="citation-popover-snippet">The Washington Post BACK IN THE UFO</span></span></span>
+The details vary across reports: the craft is described as a ball, disc, or banana-shaped object; the number of beings shifts; and the precise witness pool changes. Those variations are central to judging the case, because the strongest claims depend on a story that was already mutating as it moved from children, to local enthusiasts, to Soviet newspapers, to international wire services.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/archive/lifestyle/1989/10/10/back-in-the-ufo/bcac9950-8ea1-47d7-8539-e16aec4542e1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post BACK IN THE UFO</span><span class="citation-popover-snippet">The Washington Post BACK IN THE UFO</span></span></span>
 
 ## How the story became international news
 
-Voronezh became famous because TASS was not a fringe newsletter. It was the official Soviet news agency, and its serious tone gave the story an authority it would not otherwise have had. The *Washington Post* reported on 9 October 1989 that TASS said “humanlike” giants and a small robot had landed in Voronezh and left in a “banana-shaped object”, while also noting the agency’s claim that scientists had identified a landing site and traces of the visitors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/archive/lifestyle/1989/10/10/back-in-the-ufo/bcac9950-8ea1-47d7-8539-e16aec4542e1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post BACK IN THE UFO</span><span class="citation-popover-snippet">The Washington Post BACK IN THE UFO</span></span></span>
+Voronezh became famous because TASS was not a fringe newsletter. It was the official Soviet news agency, and its serious tone gave the story an authority it would not otherwise have had. The *Washington Post* reported on 9 October 1989 that TASS said “humanlike” giants and a small robot had landed in Voronezh and left in a “banana-shaped object”, while also noting the agency’s claim that scientists had identified a landing site and traces of the visitors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/archive/lifestyle/1989/10/10/back-in-the-ufo/bcac9950-8ea1-47d7-8539-e16aec4542e1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post BACK IN THE UFO</span><span class="citation-popover-snippet">The Washington Post BACK IN THE UFO</span></span></span>
 
-That official-seeming posture was striking because the report arrived during glasnost, when Soviet media were testing new freedoms and publishing stories that would previously have seemed too eccentric for state-controlled outlets. The *Los Angeles Times* framed the Voronezh report as part of a wider run of “weird tales” entering Soviet media, including UFOs, mystical figures, and other paranormal subjects. TIME’s later retrospective made a similar point: the story landed in a period when Soviet publications were experimenting with openness, sensationalism, and escapist material as public confidence in older ideological certainties was fading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-10-10-mn-251-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That official-seeming posture was striking because the report arrived during glasnost, when Soviet media were testing new freedoms and publishing stories that would previously have seemed too eccentric for state-controlled outlets. The *Los Angeles Times* framed the Voronezh report as part of a wider run of “weird tales” entering Soviet media, including UFOs, mystical figures, and other paranormal subjects. TIME’s later retrospective made a similar point: the story landed in a period when Soviet publications were experimenting with openness, sensationalism, and escapist material as public confidence in older ideological certainties was fading.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-10-10-mn-251-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The story also became self-feeding. Once TASS had broadcast it, foreign journalists, Soviet television, UFO enthusiasts, and sceptics all had a reason to investigate or comment. A CIA Foreign Broadcast Information Service note from November 1989 treated the TASS Voronezh story as one item in a broader surge of Soviet UFO reporting, noting that Soviet newspapers and journals had recently begun carrying an increasing number of such reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20CIAUFO%20-%20USSR-%20MEDIA%20REPORT%20MULTITUDE%20OF%20UFO%20SIGHTINGS.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[Bluebook Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">Bluebook Files USSR: MEDIA REPORT MULTITUDE OF UFO SIGHTINGS</span><span class="citation-popover-snippet">Bluebook Files USSR: MEDIA REPORT MULTITUDE OF UFO SIGHTINGS</span></span></span>
+The story also became self-feeding. Once TASS had broadcast it, foreign journalists, Soviet television, UFO enthusiasts, and sceptics all had a reason to investigate or comment. A CIA Foreign Broadcast Information Service note from November 1989 treated the TASS Voronezh story as one item in a broader surge of Soviet UFO reporting, noting that Soviet newspapers and journals had recently begun carrying an increasing number of such reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20CIAUFO%20-%20USSR-%20MEDIA%20REPORT%20MULTITUDE%20OF%20UFO%20SIGHTINGS.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[Bluebook Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">Bluebook Files USSR: MEDIA REPORT MULTITUDE OF UFO SIGHTINGS</span><span class="citation-popover-snippet">Bluebook Files USSR: MEDIA REPORT MULTITUDE OF UFO SIGHTINGS</span></span></span>
 
 <img src="{{ "/assets/images/Voronezh_Russia_land_e13f34-Illustration-1-dark.svg" | relative_url }}" alt="Voronezh Russia landing 1989 illustration 1" data-theme-src-dark="{{ "/assets/images/Voronezh_Russia_land_e13f34-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Voronezh_Russia_land_e13f34-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Witnesses: what helps and what weakens the case
 
-The main pro-case argument is that the story was not a private, single-person claim. It involved multiple children, local press attention, later adult callers to the newspaper, and some official-sounding comments. TASS correspondent Vladimir Lebedev told UPI, in a report carried by the *Los Angeles Times*, that he had spoken to about ten youngsters aged 12 to 13 and had heard of three landings in September. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-10-10-mn-251-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The main pro-case argument is that the story was not a private, single-person claim. It involved multiple children, local press attention, later adult callers to the newspaper, and some official-sounding comments. TASS correspondent Vladimir Lebedev told UPI, in a report carried by the *Los Angeles Times*, that he had spoken to about ten youngsters aged 12 to 13 and had heard of three landings in September.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-10-10-mn-251-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That same interview, however, badly weakens the evidential value of the case. Lebedev acknowledged that he had not personally seen any landing. When asked how he confirmed the account, he said he had spoken to about ten young people and added that no more were needed. He also conceded that there might have been “fantasising” or embellishment by “mature people”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-10-10-mn-251-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That same interview, however, badly weakens the evidential value of the case. Lebedev acknowledged that he had not personally seen any landing. When asked how he confirmed the account, he said he had spoken to about ten young people and added that no more were needed. He also conceded that there might have been “fantasising” or embellishment by “mature people”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-10-10-mn-251-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Later local summaries make the witness problem even sharper. The initial *Kommuna* article reportedly mentioned named schoolchildren and “about forty” adult witnesses, but later discussion indicated that the “forty adults” element did not hold up as a direct witness claim. The only adult often singled out in later summaries was police lieutenant Sergei Matveyev, who reportedly described seeing an object in the sky but did not corroborate the full alien-and-robot landing narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82_%D1%81_%D0%9D%D0%9B%D0%9E_%D0%B2_%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6%D0%B5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Инцидент с НЛО в Воронеже — Википедия</span><span class="citation-popover-snippet">Инцидент с НЛО в Воронеже — Википедия</span></span></span>
+Later local summaries make the witness problem even sharper. The initial *Kommuna* article reportedly mentioned named schoolchildren and “about forty” adult witnesses, but later discussion indicated that the “forty adults” element did not hold up as a direct witness claim. The only adult often singled out in later summaries was police lieutenant Sergei Matveyev, who reportedly described seeing an object in the sky but did not corroborate the full alien-and-robot landing narrative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82_%D1%81_%D0%9D%D0%9B%D0%9E_%D0%B2_%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6%D0%B5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Инцидент с НЛО в Воронеже — Википедия</span><span class="citation-popover-snippet">Инцидент с НЛО в Воронеже — Википедия</span></span></span>
 
 The witness picture therefore looks uneven: there were children with a vivid story, press and UFO enthusiasts who took the story seriously, and some reports of adults seeing unusual lights or objects. What is missing is a stable set of independent adult witnesses who clearly confirm the extraordinary details: the landing, the humanoids, the robot, the paralysis, and the vanishing boy.
 
@@ -790,13 +790,13 @@ The witness picture therefore looks uneven: there were children with a vivid sto
 
 ## The “physical evidence” did not survive scrutiny
 
-The Voronezh case is often presented as stronger than a normal sighting because TASS claimed physical traces had been found. Early reports described a circular depression, four dents, and two unidentified red rocks. Genrikh Silanov, head of the Voronezh Geophysical Laboratory, was quoted as saying the site had been located by “biolocation” and that mineralogical analysis suggested the rocks could not be found on Earth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-10-10-mn-251-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Voronezh case is often presented as stronger than a normal sighting because TASS claimed physical traces had been found. Early reports described a circular depression, four dents, and two unidentified red rocks. Genrikh Silanov, head of the Voronezh Geophysical Laboratory, was quoted as saying the site had been located by “biolocation” and that mineralogical analysis suggested the rocks could not be found on Earth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-10-10-mn-251-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Those claims are the weakest part of the case rather than the strongest. “Biolocation” was essentially a dowsing-like method rather than a recognised forensic technique, and even sympathetic coverage treated it as poorly explained. More importantly, Silanov later distanced himself from the strongest TASS claims, saying that the supposedly unearthly material was a form of hematite common in the Soviet Union and warning not to believe everything attributed to TASS. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Issue 03 11</span><span class="citation-popover-snippet">Issue 03 11</span></span></span>
+Those claims are the weakest part of the case rather than the strongest. “Biolocation” was essentially a dowsing-like method rather than a recognised forensic technique, and even sympathetic coverage treated it as poorly explained. More importantly, Silanov later distanced himself from the strongest TASS claims, saying that the supposedly unearthly material was a form of hematite common in the Soviet Union and warning not to believe everything attributed to TASS.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Issue</span><span class="citation-popover-snippet">Issue</span></span></span>
 
-A later local summary reports that a special commission headed by Voronezh State University associate professor Igor Surovtsev examined the alleged site, took soil, leaf, and grass samples, and obtained radar data. After roughly two months, Surovtsev reportedly said experts had found no anomalies apart from elevated radioisotope contamination, which could be explained by the aftermath of the Chernobyl disaster. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82_%D1%81_%D0%9D%D0%9B%D0%9E_%D0%B2_%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6%D0%B5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Инцидент с НЛО в Воронеже — Википедия</span><span class="citation-popover-snippet">Инцидент с НЛО в Воронеже — Википедия</span></span></span>
+A later local summary reports that a special commission headed by Voronezh State University associate professor Igor Surovtsev examined the alleged site, took soil, leaf, and grass samples, and obtained radar data. After roughly two months, Surovtsev reportedly said experts had found no anomalies apart from elevated radioisotope contamination, which could be explained by the aftermath of the Chernobyl disaster.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82_%D1%81_%D0%9D%D0%9B%D0%9E_%D0%B2_%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6%D0%B5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Инцидент с НЛО в Воронеже — Википедия</span><span class="citation-popover-snippet">Инцидент с НЛО в Воронеже — Википедия</span></span></span>
 
-Radar evidence also failed to strengthen the case. The acting commander of the Voronezh airport aviation detachment reportedly said that from 20 to 30 September no unidentified flying objects were detected by radar within a 200 km radius, although he allowed that an object might theoretically have been invisible to radar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82_%D1%81_%D0%9D%D0%9B%D0%9E_%D0%B2_%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6%D0%B5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Инцидент с НЛО в Воронеже — Википедия</span><span class="citation-popover-snippet">Инцидент с НЛО в Воронеже — Википедия</span></span></span>
+Radar evidence also failed to strengthen the case. The acting commander of the Voronezh airport aviation detachment reportedly said that from 20 to 30 September no unidentified flying objects were detected by radar within a 200 km radius, although he allowed that an object might theoretically have been invisible to radar.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82_%D1%81_%D0%9D%D0%9B%D0%9E_%D0%B2_%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6%D0%B5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Инцидент с НЛО в Воронеже — Википедия</span><span class="citation-popover-snippet">Инцидент с НЛО в Воронеже — Википедия</span></span></span>
 
 Taken together, the physical record does not establish a landing. It shows a pattern common in contested UFO cases: early dramatic claims of trace evidence, later reinterpretation of that evidence as ordinary or inconclusive, and no preserved sample or measurement that independently supports the extraordinary story.
 
@@ -805,9 +805,9 @@ Taken together, the physical record does not establish a landing. It shows a pat
 
 A frequent myth about the Voronezh case is that “the Soviet government confirmed aliens landed”. That is too strong. TASS reported the case in a way that sounded official, and it quoted people with institutional titles. But the evidence trail shows a much more confused picture: some Soviet outlets promoted the story, some researchers and enthusiasts investigated it, and other Soviet voices expressed doubt or treated the case as media hysteria.
 
-The CIA’s 1989 media survey noted that *Komsomolskaya Pravda* had reported the opening of a Soviet UFO study centre in Moscow and that TASS reported the Voronezh landing on 9 October. The same document also recorded sceptical Soviet commentary, including *Krasnaya Zvezda* comparing the wave of UFO claims to mass hysteria and to the 1938 *War of the Worlds* panic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20CIAUFO%20-%20USSR-%20MEDIA%20REPORT%20MULTITUDE%20OF%20UFO%20SIGHTINGS.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[Bluebook Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">Bluebook Files USSR: MEDIA REPORT MULTITUDE OF UFO SIGHTINGS</span><span class="citation-popover-snippet">Bluebook Files USSR: MEDIA REPORT MULTITUDE OF UFO SIGHTINGS</span></span></span>
+The CIA’s 1989 media survey noted that *Komsomolskaya Pravda* had reported the opening of a Soviet UFO study centre in Moscow and that TASS reported the Voronezh landing on 9 October. The same document also recorded sceptical Soviet commentary, including *Krasnaya Zvezda* comparing the wave of UFO claims to mass hysteria and to the 1938 *War of the Worlds* panic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20CIAUFO%20-%20USSR-%20MEDIA%20REPORT%20MULTITUDE%20OF%20UFO%20SIGHTINGS.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[Bluebook Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">Bluebook Files USSR: MEDIA REPORT MULTITUDE OF UFO SIGHTINGS</span><span class="citation-popover-snippet">Bluebook Files USSR: MEDIA REPORT MULTITUDE OF UFO SIGHTINGS</span></span></span>
 
-Later reporting said a film crew associated with Vladimir Pozner went to Voronezh but found no proof beyond the children’s stories, ending its report on a sceptical note. Local summaries also cite cosmonaut Konstantin Feoktistov, a native of Voronezh, as treating the incident as a children’s invention rather than a credible landing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82_%D1%81_%D0%9D%D0%9B%D0%9E_%D0%B2_%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6%D0%B5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Инцидент с НЛО в Воронеже — Википедия</span><span class="citation-popover-snippet">Инцидент с НЛО в Воронеже — Википедия</span></span></span>
+Later reporting said a film crew associated with Vladimir Pozner went to Voronezh but found no proof beyond the children’s stories, ending its report on a sceptical note. Local summaries also cite cosmonaut Konstantin Feoktistov, a native of Voronezh, as treating the incident as a children’s invention rather than a credible landing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82_%D1%81_%D0%9D%D0%9B%D0%9E_%D0%B2_%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6%D0%B5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Инцидент с НЛО в Воронеже — Википедия</span><span class="citation-popover-snippet">Инцидент с НЛО в Воронеже — Википедия</span></span></span>
 
 That range of responses matters. There was no clean official finding that an extraterrestrial craft had landed. There was an official media broadcast of a sensational story, followed by disputes, retractions, sceptical commentary, and inconclusive investigations.
 
@@ -817,16 +817,16 @@ That range of responses matters. There was no clean official finding that an ext
 
 The most plausible sceptical interpretation is that Voronezh was a local children’s tale amplified by UFO enthusiasts and a newly sensational Soviet media environment. This does not require assuming deliberate fraud by the children. Children can elaborate stories collectively, especially after adult attention, newspaper coverage, and repeated questioning. Once dramatic details entered print, later retellings had a template to repeat or embroider.
 
-Several facts support this reading. First, the key alien encounter witnesses were children, while adult corroboration of the most extraordinary details is weak. Second, the TASS correspondent had not seen the event and admitted that fantasy or adult additions may have entered the story. Third, the supposed physical evidence became ordinary or inconclusive once examined more carefully. Fourth, the case arrived during a documented wave of Soviet UFO and paranormal reporting, when even Soviet sources were debating whether the press itself was fuelling mass excitement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20CIAUFO%20-%20USSR-%20MEDIA%20REPORT%20MULTITUDE%20OF%20UFO%20SIGHTINGS.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[Bluebook Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">Bluebook Files USSR: MEDIA REPORT MULTITUDE OF UFO SIGHTINGS</span><span class="citation-popover-snippet">Bluebook Files USSR: MEDIA REPORT MULTITUDE OF UFO SIGHTINGS</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-10-10-mn-251-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Issue 03 11</span><span class="citation-popover-snippet">Issue 03 11</span></span></span>
+Several facts support this reading. First, the key alien encounter witnesses were children, while adult corroboration of the most extraordinary details is weak. Second, the TASS correspondent had not seen the event and admitted that fantasy or adult additions may have entered the story. Third, the supposed physical evidence became ordinary or inconclusive once examined more carefully. Fourth, the case arrived during a documented wave of Soviet UFO and paranormal reporting, when even Soviet sources were debating whether the press itself was fuelling mass excitement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20CIAUFO%20-%20USSR-%20MEDIA%20REPORT%20MULTITUDE%20OF%20UFO%20SIGHTINGS.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[Bluebook Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">Bluebook Files USSR: MEDIA REPORT MULTITUDE OF UFO SIGHTINGS</span><span class="citation-popover-snippet">Bluebook Files USSR: MEDIA REPORT MULTITUDE OF UFO SIGHTINGS</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-10-10-mn-251-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Issue</span><span class="citation-popover-snippet">Issue</span></span></span>
 
-The media setting is not a side issue; it is part of the mechanism of the case. TIME’s retrospective placed Voronezh in a moment when Soviet outlets, newly loosened by glasnost, were discovering the appeal of incredible stories. The CIA’s media survey likewise shows that Voronezh was not isolated: Soviet press outlets were receiving and printing many UFO claims in the same period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/3475954/voronezh-ufo-report-1989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The media setting is not a side issue; it is part of the mechanism of the case. TIME’s retrospective placed Voronezh in a moment when Soviet outlets, newly loosened by glasnost, were discovering the appeal of incredible stories. The CIA’s media survey likewise shows that Voronezh was not isolated: Soviet press outlets were receiving and printing many UFO claims in the same period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/3475954/voronezh-ufo-report-1989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Voronezh_Russia_land_e13f34-Illustration-3-dark.svg" | relative_url }}" alt="Voronezh Russia landing 1989 illustration 3" data-theme-src-dark="{{ "/assets/images/Voronezh_Russia_land_e13f34-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Voronezh_Russia_land_e13f34-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case still matters
 
 Voronezh remains memorable because it sits at the crossroads of several UFO-case themes: child witnesses, alleged landing traces, official-looking media treatment, scientific-sounding but weak methods, and a political culture in transition. It is not merely a story about a red ball and three-eyed beings; it is a case study in how a claim gains authority when it passes through institutions that readers normally associate with seriousness.
 
-For UFO researchers, Voronezh is useful as a cautionary example. A case can be famous, widely reported, and surrounded by “scientists said” language without having robust evidence. For sceptics, it shows how a media environment can turn ambiguous testimony into an international mystery. For historians of late Soviet culture, it captures a moment when official media, public anxiety, and popular fascination with the paranormal briefly overlapped. Jacques Vallée’s later Soviet UFO book was itself described by *Kirkus Reviews* as emerging “on the heels” of the Voronezh sightings and glasnost, showing how the case helped open Soviet UFO material to Western attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kirkusreviews.com/book-reviews/jacques-vallee/ufo-chronicles-of-the-soviet-union/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkusreviews.com">[Kirkus Reviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkusreviews.com</span><span class="citation-popover-snippet">UFO CHRONICLES OF THE SOVIET UNION &#124; Kirkus Reviews...</span></span></span>
+For UFO researchers, Voronezh is useful as a cautionary example. A case can be famous, widely reported, and surrounded by “scientists said” language without having robust evidence. For sceptics, it shows how a media environment can turn ambiguous testimony into an international mystery. For historians of late Soviet culture, it captures a moment when official media, public anxiety, and popular fascination with the paranormal briefly overlapped. Jacques Vallée’s later Soviet UFO book was itself described by *Kirkus Reviews* as emerging “on the heels” of the Voronezh sightings and glasnost, showing how the case helped open Soviet UFO material to Western attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kirkusreviews.com/book-reviews/jacques-vallee/ufo-chronicles-of-the-soviet-union/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkusreviews.com">[Kirkus Reviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkusreviews.com</span><span class="citation-popover-snippet">UFO CHRONICLES OF THE SOVIET UNION &#124; Kirkus Reviews...</span></span></span>
 
 ## Bottom line
 
@@ -837,194 +837,194 @@ That does not make the case irrelevant. It makes it revealing. Voronezh shows ho
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VFq8nqD18mw" title="Soviet UFO Secrets | Dyatlov Pass, Voronezh &amp; Petrozavodsk | Full Documentary Movie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VFq8nqD18mw" target="_blank" rel="noopener noreferrer">Soviet UFO Secrets | Dyatlov Pass, Voronezh &amp; Petrozavodsk | Full Documentary Movie</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 7.2K &middot; Uploaded: May 2025 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VFq8nqD18mw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VFq8nqD18mw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Voronezh, Russia in 1989?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Voronezh, Russia in 1989?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Profiles the Voronezh landing objectively, summarizing the Soviet-era media reports and the subsequent scientific/skeptical critiques.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Profiles the Voronezh landing objectively, summarizing the Soviet-era media reports and the subsequent scientific/skeptical critiques.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides critical perspective on how local sightings are amplified into national myths via media structures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides critical perspective on how local sightings are amplified into national myths via media structures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches investigative standards to differentiate verified sighting reports from sensationalized media hoaxes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches investigative standards to differentiate verified sighting reports from sensationalized media hoaxes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Explains the institutional context behind how UFO stories were managed and used in late-Soviet media.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the institutional context behind how UFO stories were managed and used in late-Soviet media.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-voronezh-russia-in-1989-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1040,7 +1040,7 @@ That does not make the case irrelevant. It makes it revealing. Voronezh shows ho
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1060,7 +1060,7 @@ That does not make the case irrelevant. It makes it revealing. Voronezh shows ho
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1092,7 +1092,7 @@ That does not make the case irrelevant. It makes it revealing. Voronezh shows ho
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1144,7 +1144,7 @@ That does not make the case irrelevant. It makes it revealing. Voronezh shows ho
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1189,7 +1189,7 @@ That does not make the case irrelevant. It makes it revealing. Voronezh shows ho
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1230,148 +1230,148 @@ That does not make the case irrelevant. It makes it revealing. Voronezh shows ho
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: time.com  
-   Link: <a href="https://time.com/3475954/voronezh-ufo-report-1989/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3475954/voronezh-ufo-report-1989/</a>  
+   Link:<a href="https://time.com/3475954/voronezh-ufo-report-1989/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3475954/voronezh-ufo-report-1989/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Инцидент с НЛО в Воронеже — Википедия  
-   Link: <a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82_%D1%81_%D0%9D%D0%9B%D0%9E_%D0%B2_%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6%D0%B5" target="_blank" rel="noopener noreferrer nofollow">https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82_%D1%81_%D0%9D%D0%9B%D0%9E_%D0%B2_%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6%D0%B5</a>  
+   Link:<a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82_%D1%81_%D0%9D%D0%9B%D0%9E_%D0%B2_%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6%D0%B5" target="_blank" rel="noopener noreferrer nofollow">https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82_%D1%81_%D0%9D%D0%9B%D0%9E_%D0%B2_%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6%D0%B5</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: kirkusreviews.com  
    Title: Kirkus Reviews  
-   Link: <a href="https://www.kirkusreviews.com/book-reviews/jacques-vallee/ufo-chronicles-of-the-soviet-union/" target="_blank" rel="noopener noreferrer nofollow">https://www.kirkusreviews.com/book-reviews/jacques-vallee/ufo-chronicles-of-the-soviet-union/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO CHRONICLES OF THE SOVIET UNION | Kirkus Reviews...</p></details>
+   Link:<a href="https://www.kirkusreviews.com/book-reviews/jacques-vallee/ufo-chronicles-of-the-soviet-union/" target="_blank" rel="noopener noreferrer nofollow">https://www.kirkusreviews.com/book-reviews/jacques-vallee/ufo-chronicles-of-the-soviet-union/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO CHRONICLES OF THE SOVIET UNION | Kirkus Reviews...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Voronezh UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Voronezh_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Voronezh_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Voronezh_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Voronezh_UFO_incident</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Incidente ovni de Vorónezh  
-   Link: <a href="https://es.wikipedia.org/wiki/Incidente_ovni_de_Vor%C3%B3nezh" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Incidente_ovni_de_Vor%C3%B3nezh</a>  
+   Link:<a href="https://es.wikipedia.org/wiki/Incidente_ovni_de_Vor%C3%B3nezh" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Incidente_ovni_de_Vor%C3%B3nezh</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6" target="_blank" rel="noopener noreferrer nofollow">https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6</a>  
+   Link:<a href="https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6" target="_blank" rel="noopener noreferrer nofollow">https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Voronezh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Voronezh</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Voronezh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Voronezh</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: UFO ve Voroněži  
-   Link: <a href="https://cs.wikipedia.org/wiki/UFO_ve_Voron%C4%9B%C5%BEi" target="_blank" rel="noopener noreferrer nofollow">https://cs.wikipedia.org/wiki/UFO_ve_Voron%C4%9B%C5%BEi</a>  
+   Link:<a href="https://cs.wikipedia.org/wiki/UFO_ve_Voron%C4%9B%C5%BEi" target="_blank" rel="noopener noreferrer nofollow">https://cs.wikipedia.org/wiki/UFO_ve_Voron%C4%9B%C5%BEi</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cia.gov  
    Title: DOC 0000042346  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000042346.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000042346.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000042346.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000042346.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/0005517677" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005517677</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/0005517677" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005517677</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: upi.com  
    Title: Soviets report UFO landing  
-   Link: <a href="https://www.upi.com/Archives/1989/10/09/Soviets-report-UFO-landing/3780623908800/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1989/10/09/Soviets-report-UFO-landing/3780623908800/</a>  
+   Link:<a href="https://www.upi.com/Archives/1989/10/09/Soviets-report-UFO-landing/3780623908800/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1989/10/09/Soviets-report-UFO-landing/3780623908800/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: upi.com  
    Title: Soviet UFO experts doubt nocturnal space visit reported by Tass  
-   Link: <a href="https://www.upi.com/Archives/1989/10/11/Soviet-UFO-experts-doubt-nocturnal-space-visit-reported-by-Tass/7209624081600/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1989/10/11/Soviet-UFO-experts-doubt-nocturnal-space-visit-reported-by-Tass/7209624081600/</a>  
+   Link:<a href="https://www.upi.com/Archives/1989/10/11/Soviet-UFO-experts-doubt-nocturnal-space-visit-reported-by-Tass/7209624081600/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1989/10/11/Soviet-UFO-experts-doubt-nocturnal-space-visit-reported-by-Tass/7209624081600/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: upi.com  
    Title: Another UFO visit in Soviet Union  
-   Link: <a href="https://www.upi.com/Archives/1989/10/21/Another-UFO-visit-in-Soviet-Union/5768624945600/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1989/10/21/Another-UFO-visit-in-Soviet-Union/5768624945600/</a>  
+   Link:<a href="https://www.upi.com/Archives/1989/10/21/Another-UFO-visit-in-Soviet-Union/5768624945600/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1989/10/21/Another-UFO-visit-in-Soviet-Union/5768624945600/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: latimes.com  
-   Link: <a href="https://www.latimes.com/archives/la-xpm-1989-10-10-mn-251-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1989-10-10-mn-251-story.html</a>  
+   Link:<a href="https://www.latimes.com/archives/la-xpm-1989-10-10-mn-251-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1989-10-10-mn-251-story.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: latimes.com  
    Title: Los Angeles Times Soviet Children Told Tass About UFO  
-   Link: <a href="https://www.latimes.com/archives/la-xpm-1989-10-11-mn-198-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1989-10-11-mn-198-story.html</a>  
+   Link:<a href="https://www.latimes.com/archives/la-xpm-1989-10-11-mn-198-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1989-10-11-mn-198-story.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: washingtonpost.com  
    Title: The Washington Post BACK IN THE UFO  
-   Link: <a href="https://www.washingtonpost.com/archive/lifestyle/1989/10/10/back-in-the-ufo/bcac9950-8ea1-47d7-8539-e16aec4542e1/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/archive/lifestyle/1989/10/10/back-in-the-ufo/bcac9950-8ea1-47d7-8539-e16aec4542e1/</a>  
+   Link:<a href="https://www.washingtonpost.com/archive/lifestyle/1989/10/10/back-in-the-ufo/bcac9950-8ea1-47d7-8539-e16aec4542e1/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/archive/lifestyle/1989/10/10/back-in-the-ufo/bcac9950-8ea1-47d7-8539-e16aec4542e1/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: files.bluebookfiles.org  
    Title: Bluebook Files USSR: MEDIA REPORT MULTITUDE OF UFO SIGHTINGS  
-   Link: <a href="https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20CIAUFO%20-%20USSR-%20MEDIA%20REPORT%20MULTITUDE%20OF%20UFO%20SIGHTINGS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20CIAUFO%20-%20USSR-%20MEDIA%20REPORT%20MULTITUDE%20OF%20UFO%20SIGHTINGS.pdf</a>  
+   Link:<a href="https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20CIAUFO%20-%20USSR-%20MEDIA%20REPORT%20MULTITUDE%20OF%20UFO%20SIGHTINGS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20CIAUFO%20-%20USSR-%20MEDIA%20REPORT%20MULTITUDE%20OF%20UFO%20SIGHTINGS.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: skepticalinquirer.org  
    Title: Issue 03 11  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-11.pdf</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-11.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: familypedia.fandom.com  
-   Link: <a href="https://familypedia.fandom.com/wiki/Voronezh" target="_blank" rel="noopener noreferrer nofollow">https://familypedia.fandom.com/wiki/Voronezh</a>  
+   Link:<a href="https://familypedia.fandom.com/wiki/Voronezh" target="_blank" rel="noopener noreferrer nofollow">https://familypedia.fandom.com/wiki/Voronezh</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: experience.tripster.ru  
-   Link: <a href="https://experience.tripster.ru/articles/voronezh/" target="_blank" rel="noopener noreferrer nofollow">https://experience.tripster.ru/articles/voronezh/</a>  
+   Link:<a href="https://experience.tripster.ru/articles/voronezh/" target="_blank" rel="noopener noreferrer nofollow">https://experience.tripster.ru/articles/voronezh/</a>  
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=VFq8nqD18mw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VFq8nqD18mw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Terrifying Voronezh UFO Incident: Strange Otherworldly Beings Invaded The USSR - Lights Out #123...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VFq8nqD18mw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VFq8nqD18mw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Terrifying Voronezh UFO Incident: Strange Otherworldly Beings Invaded The USSR - Lights Out #123...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qdPS04bh0mQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qdPS04bh0mQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Voronezh Affair (1989): Aliens May Have Frightened People in the Interior of Russia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qdPS04bh0mQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qdPS04bh0mQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Voronezh Affair (1989): Aliens May Have Frightened People in the Interior of Russia...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qhrDNZRR0Z4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qhrDNZRR0Z4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files: Bob Lazar&#x27;s 1989 interview &amp; what&#x27;s happened since then | UFO Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qhrDNZRR0Z4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qhrDNZRR0Z4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files: Bob Lazar&#x27;s 1989 interview &amp; what&#x27;s happened since then | UFO Mysteries...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Voronezh UFO incident  
-   Link: <a href="https://www.youtube.com/watch?v=6CY5UNdUEVk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6CY5UNdUEVk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Soviet UFO Secrets | Dyatlov Pass, Voronezh &amp; Petrozavodsk | Full Documentary Movie...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6CY5UNdUEVk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6CY5UNdUEVk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Soviet UFO Secrets | Dyatlov Pass, Voronezh &amp; Petrozavodsk | Full Documentary Movie...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/iizplr/tass_says_ufo_landing_in_soviet_union_confirmed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/iizplr/tass_says_ufo_landing_in_soviet_union_confirmed/</a>  
+   Link:<a href="https://www.reddit.com/r/ufo/comments/iizplr/tass_says_ufo_landing_in_soviet_union_confirmed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/iizplr/tass_says_ufo_landing_in_soviet_union_confirmed/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AskARussian/comments/k0qkf6/do_russian_people_know_about_the_voronezh_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskARussian/comments/k0qkf6/do_russian_people_know_about_the_voronezh_ufo/</a>  
+   Link:<a href="https://www.reddit.com/r/AskARussian/comments/k0qkf6/do_russian_people_know_about_the_voronezh_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskARussian/comments/k0qkf6/do_russian_people_know_about_the_voronezh_ufo/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1jaahfo/fbis_the_document_on_ufo_sightings_and_soviet/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1jaahfo/fbis_the_document_on_ufo_sightings_and_soviet/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1jaahfo/fbis_the_document_on_ufo_sightings_and_soviet/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1jaahfo/fbis_the_document_on_ufo_sightings_and_soviet/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/back-in-1990-something-unusual-appeared-in-the-sky-over-tashkent-and-a-young-boy/1628157629310870/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/back-in-1990-something-unusual-appeared-in-the-sky-over-tashkent-and-a-young-boy/1628157629310870/</a>  
+   Link:<a href="https://www.facebook.com/HiddenFactsss/posts/back-in-1990-something-unusual-appeared-in-the-sky-over-tashkent-and-a-young-boy/1628157629310870/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/back-in-1990-something-unusual-appeared-in-the-sky-over-tashkent-and-a-young-boy/1628157629310870/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/how-the-dream-of-valerij-%C4%8Dernohajevs-daughter-led-to-the-opening-of-soviet-era-u/869958032077882/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/how-the-dream-of-valerij-%C4%8Dernohajevs-daughter-led-to-the-opening-of-soviet-era-u/869958032077882/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/how-the-dream-of-valerij-%C4%8Dernohajevs-daughter-led-to-the-opening-of-soviet-era-u/869958032077882/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/how-the-dream-of-valerij-%C4%8Dernohajevs-daughter-led-to-the-opening-of-soviet-era-u/869958032077882/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1572893699951268/posts/1921550021752299/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1572893699951268/posts/1921550021752299/</a>
+   Link:<a href="https://www.facebook.com/groups/1572893699951268/posts/1921550021752299/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1572893699951268/posts/1921550021752299/</a>

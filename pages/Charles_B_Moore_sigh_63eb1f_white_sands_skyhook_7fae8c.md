@@ -248,18 +248,18 @@ image: /assets/images/Charles_B_Moore_sigh_63eb1f_white_sands_skyhook_7fae8c-Ill
 
 ## Introduction
 
-The Charles B. Moore sighting did not occur in an ordinary stretch of desert sky. In April 1949, southern New Mexico was one of the busiest aerospace testing regions in the United States, with military rockets, experimental balloons, atmospheric research, and classified surveillance work all operating in overlapping airspace around White Sands Proving Ground. That setting matters because it cuts both ways. On one hand, the environment offered many potential conventional [explanations]({{ 'explanations-cfdc79/' | relative_url }}) for unusual aerial observations. On the other, the main witness, Moore himself, was deeply embedded in that world and professionally familiar with the very balloon systems later proposed as explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Skyhook_balloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Skyhook balloon</span><span class="citation-popover-snippet">Skyhook balloon</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_B._Moore" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles B. Moore</span><span class="citation-popover-snippet">Charles B. Moore</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+The Charles B. Moore sighting did not occur in an ordinary stretch of desert sky. In April 1949, southern New Mexico was one of the busiest aerospace testing regions in the United States, with military rockets, experimental balloons, atmospheric research, and classified surveillance work all operating in overlapping airspace around White Sands Proving Ground. That setting matters because it cuts both ways. On one hand, the environment offered many potential conventional [explanations]({{ 'explanations-cfdc79/' | relative_url }}) for unusual aerial observations. On the other, the main witness, Moore himself, was deeply embedded in that world and professionally familiar with the very balloon systems later proposed as explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Skyhook_balloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Skyhook balloon</span><span class="citation-popover-snippet">Skyhook balloon</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_B._Moore" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles B. Moore</span><span class="citation-popover-snippet">Charles B. Moore</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
 <img src="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f_white_sands_skyhook_7fae8c-Illustration-1-dark.svg" | relative_url }}" alt="Test Range illustration 1" data-theme-src-dark="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f_white_sands_skyhook_7fae8c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f_white_sands_skyhook_7fae8c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Understanding the White Sands context is therefore essential to evaluating the Arrey sighting. The case sits at the intersection of Cold War secrecy, early high-altitude balloon research, and the rapid expansion of American missile testing after the Second World War. The same technological frontier that produced many UFO reports also produced the strongest skeptical explanations for them.
 
 ## The White Sands aerospace setting
 
-By 1949, White Sands Proving Ground had become a central laboratory of the emerging Cold War aerospace state. Captured German V-2 rockets were being launched there, new American missile systems were under development, and military researchers were using the region’s dry weather and huge restricted ranges to conduct experiments that could not easily be performed elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thisdayinaviation.com/tag/white-sands-proving-grounds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thisdayinaviation.com">[thisdayinaviation.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thisdayinaviation.com</span><span class="citation-popover-title">white sands proving grounds</span><span class="citation-popover-snippet">Tag Archives: White Sands Proving Grounds3 May 1949: at 9:14 a.m., Mountain Daylight Saving Time (15:14 UTC), the Viking 1 rocket was lau...</span><span class="citation-popover-meta">Published: May 1949</span></span></span> StratoCat This activity created a sky environment unlike that of most civilian regions in the United States. Personnel in the area regularly encountere <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo08.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[sacred-texts.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">27, 1956 — This wasn&#x27;t the only UFO sighting made by White Sands scientists. On April 5, 1948, another team watched a UFO for several min...</span><span class="citation-popover-meta">Published: April 5, 1948</span></span></span> d:
+By 1949, White Sands Proving Ground had become a central laboratory of the emerging Cold War aerospace state. Captured German V-2 rockets were being launched there, new American missile systems were under development, and military researchers were using the region’s dry weather and huge restricted ranges to conduct experiments that could not easily be performed elsewhere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thisdayinaviation.com/tag/white-sands-proving-grounds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thisdayinaviation.com">[thisdayinaviation.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thisdayinaviation.com</span><span class="citation-popover-title">white sands proving grounds</span><span class="citation-popover-snippet">Tag Archives: White Sands Proving Grounds3 May 1949: at 9:14 a.m., Mountain Daylight Saving Time (15:14 UTC), the Viking 1 rocket was lau...</span><span class="citation-popover-meta">Published: May 1949</span></span></span> StratoCat This activity created a sky environment unlike that of most civilian regions in the United States. Personnel in the area regularly encountere<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo08.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[sacred-texts.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">27, 1956 — This wasn&#x27;t the only UFO sighting made by White Sands scientists. On April 5, 1948, another team watched a UFO for several min...</span><span class="citation-popover-meta">Published: April 5, 1948</span></span></span> d:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* High-altitude balloons <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/WeDigHeritage/posts/on-february-24-1949-a-high-altitude-test-vehicle-called-bumper-wac-launched-from/857456963164325/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">On February 24, 1949 a high altitude test vehicle called...February 24, 1949￼ rocket to reach outer space is launched at White Sands, Ne...</span><span class="citation-popover-meta">Published: February 24, 1949</span></span></span>
+* High-altitude balloons<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/WeDigHeritage/posts/on-february-24-1949-a-high-altitude-test-vehicle-called-bumper-wac-launched-from/857456963164325/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">On February 24, 1949 a high altitude test vehicle called...February 24, 1949￼ rocket to reach outer space is launched at White Sands, Ne...</span><span class="citation-popover-meta">Published: February 24, 1949</span></span></span>
 * Pilot balloons used for wind measurements
 * Experimental aircraft
 * Rocket launches and falling debris
@@ -268,21 +268,21 @@ By 1949, White Sands Proving Ground had become a central laboratory of the emerg
 
 </div>
 
-To an outside observer, almost any of these could appear strange. But the White Sands environment also meant that many observers were technically trained. Moore was not merely passing through the area; he was part of a specialised research culture built around atmospheric observation and balloon operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/arrey49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[2ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Moore - who later became famous due to his involvement the Mogul balloon project in 1947 - with...Read more...</span></span></span>
+To an outside observer, almost any of these could appear strange. But the White Sands environment also meant that many observers were technically trained. Moore was not merely passing through the area; he was part of a specialised research culture built around atmospheric observation and balloon operations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/arrey49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[2ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Moore - who later became famous due to his involvement the Mogul balloon project in 1947 - with...Read more...</span></span></span>
 
-The timing is important as well. The late 1940s were years of rapid transition in American aerospace research. Military and civilian agencies were experimenting with technologies whose appearance often differed dramatically from familiar aircraft. Thin plastic balloons, reflective payloads, clustered balloon arrays, and radar targets could all produce unusual visual impressions under certain lighting conditions. Many programmes were also classified, meaning even informed military personnel might not know exactly what another team was testing nearby. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Moore_%28geologist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Moore (geologist</span><span class="citation-popover-snippet">Charles Moore (geologist)Charles Moore (8 June 1815 – 8 December 1881) was a British geologist. Life. edit. Charles was the third chil...</span><span class="citation-popover-meta">Published: June 1815</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Skyhook_balloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Skyhook balloon</span><span class="citation-popover-snippet">Skyhook balloon</span></span></span>
+The timing is important as well. The late 1940s were years of rapid transition in American aerospace research. Military and civilian agencies were experimenting with technologies whose appearance often differed dramatically from familiar aircraft. Thin plastic balloons, reflective payloads, clustered balloon arrays, and radar targets could all produce unusual visual impressions under certain lighting conditions. Many programmes were also classified, meaning even informed military personnel might not know exactly what another team was testing nearby.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Moore_%28geologist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Moore (geologist</span><span class="citation-popover-snippet">Charles Moore (geologist)Charles Moore (8 June 1815 – 8 December 1881) was a British geologist. Life. edit. Charles was the third chil...</span><span class="citation-popover-meta">Published: June 1815</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Skyhook_balloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Skyhook balloon</span><span class="citation-popover-snippet">Skyhook balloon</span></span></span>
 
-That combination of secrecy and experimentation helps explain why the White Sands region generated a disproportionately high number of early UFO reports. Even Air Force officer Edward J. Ruppelt later remarked that White Sands scientists and technicians reported several unexplained aerial observations during this era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo08.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">27, 1956 — This wasn&#x27;t the only UFO sighting made by White Sands scientists. On April 5, 1948, another team watched a UFO for several min...</span><span class="citation-popover-meta">Published: April 5, 1948</span></span></span>
+That combination of secrecy and experimentation helps explain why the White Sands region generated a disproportionately high number of early UFO reports. Even Air Force officer Edward J. Ruppelt later remarked that White Sands scientists and technicians reported several unexplained aerial observations during this era.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo08.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">27, 1956 — This wasn&#x27;t the only UFO sighting made by White Sands scientists. On April 5, 1948, another team watched a UFO for several min...</span><span class="citation-popover-meta">Published: April 5, 1948</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QjXwsj8kHT4" title="American V-2 Rocket At White Sands (1947)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QjXwsj8kHT4" target="_blank" rel="noopener noreferrer">American V-2 Rocket At White Sands (1947)</a></p><p class="youtube-embed-meta">Channel: AIRBOYD &middot; Views: 223.9K &middot; Uploaded: April 2012 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QjXwsj8kHT4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QjXwsj8kHT4">Open on YouTube</a></p></div></div></div>
 
 ## Skyhook balloons and FFTV work
 
-The most important technical background to the Moore sighting is Project Skyhook and the related high-altitude balloon research conducted by General Mills and Navy-supported programmes in the late 1940s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_B._Moore" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles B. Moore</span><span class="citation-popover-snippet">Charles B. Moore</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+The most important technical background to the Moore sighting is Project Skyhook and the related high-altitude balloon research conducted by General Mills and Navy-supported programmes in the late 1940s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_B._Moore" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles B. Moore</span><span class="citation-popover-snippet">Charles B. Moore</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
-Skyhook balloons were radically different from ordinary weather balloons. Developed by General Mills engineers including figures connected to Moore’s research world, they used extremely thin polyethylene envelopes capable of reaching stratospheric altitudes above 100,000 feet. At launch, these balloons often appeared partially collapsed or oddly elongated because only a small portion of the envelope initially filled with lifting gas. As they ascended into thinner air, they expanded into much larger shapes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Moore_%28geologist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Moore (geologist</span><span class="citation-popover-snippet">Charles Moore (geologist)Charles Moore (8 June 1815 – 8 December 1881) was a British geologist. Life. edit. Charles was the third chil...</span><span class="citation-popover-meta">Published: June 1815</span></span></span>
+Skyhook balloons were radically different from ordinary weather balloons. Developed by General Mills engineers including figures connected to Moore’s research world, they used extremely thin polyethylene envelopes capable of reaching stratospheric altitudes above 100,000 feet. At launch, these balloons often appeared partially collapsed or oddly elongated because only a small portion of the envelope initially filled with lifting gas. As they ascended into thinner air, they expanded into much larger shapes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Moore_%28geologist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Moore (geologist</span><span class="citation-popover-snippet">Charles Moore (geologist)Charles Moore (8 June 1815 – 8 December 1881) was a British geologist. Life. edit. Charles was the third chil...</span><span class="citation-popover-meta">Published: June 1815</span></span></span>
 
-This matters because Moore’s 1949 observation occurred while his team was preparing for a high-altitude balloon operation. According to surviving summaries of the case, the crew was conducting pilot-balloon wind measurements in support of a forthcoming “FFTV Skyhook system” launch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/arrey49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Moore - who later became famous due to his involvement the Mogul balloon project in 1947 - with...Read more...</span></span></span>
+This matters because Moore’s 1949 observation occurred while his team was preparing for a high-altitude balloon operation. According to surviving summaries of the case, the crew was conducting pilot-balloon wind measurements in support of a forthcoming “FFTV Skyhook system” launch.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/arrey49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Moore - who later became famous due to his involvement the Mogul balloon project in 1947 - with...Read more...</span></span></span>
 
 The acronym FFTV is usually interpreted by researchers as referring to free-flight test vehicle operations associated with high-altitude balloon work. In practice, that meant the crew was already immersed in balloon tracking, ascent prediction, and atmospheric measurement when the sighting occurred.
 
@@ -300,22 +300,22 @@ Modern readers sometimes underestimate how unfamiliar these systems appeared in 
 
 </div>
 
-Under certain conditions, observers reported silver, white, or yellowish oval objects with sharply defined outlines. These are descriptions that overlap with some early UFO reports from the same period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Moore_%28geologist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Moore (geologist</span><span class="citation-popover-snippet">Charles Moore (geologist)Charles Moore (8 June 1815 – 8 December 1881) was a British geologist. Life. edit. Charles was the third chil...</span><span class="citation-popover-meta">Published: June 1815</span></span></span>
+Under certain conditions, observers reported silver, white, or yellowish oval objects with sharply defined outlines. These are descriptions that overlap with some early UFO reports from the same period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Moore_%28geologist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Moore (geologist</span><span class="citation-popover-snippet">Charles Moore (geologist)Charles Moore (8 June 1815 – 8 December 1881) was a British geologist. Life. edit. Charles was the third chil...</span><span class="citation-popover-meta">Published: June 1815</span></span></span>
 
-This overlap is one reason sceptical analysts have repeatedly revisited balloon explanations for the Arrey sighting. Moore himself later became strongly associated with balloon programmes including Project Mogul, the classified acoustic-detection effort later linked to the Roswell debris controversy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Moore_%28geologist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Moore (geologist</span><span class="citation-popover-snippet">Charles Moore (geologist)Charles Moore (8 June 1815 – 8 December 1881) was a British geologist. Life. edit. Charles was the third chil...</span><span class="citation-popover-meta">Published: June 1815</span></span></span>
+This overlap is one reason sceptical analysts have repeatedly revisited balloon explanations for the Arrey sighting. Moore himself later became strongly associated with balloon programmes including Project Mogul, the classified acoustic-detection effort later linked to the Roswell debris controversy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Moore_%28geologist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Moore (geologist</span><span class="citation-popover-snippet">Charles Moore (geologist)Charles Moore (8 June 1815 – 8 December 1881) was a British geologist. Life. edit. Charles was the third chil...</span><span class="citation-popover-meta">Published: June 1815</span></span></span>
 
-Yet the connection is not as simple as “balloon expert sees balloon”. Moore and his team were already tracking an actual pilot balloon during the observation. According to his report, he distinguished the unknown object from the meteorological balloon they had released and deliberately reacquired the real balloon through the theodolite. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/arrey49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Moore - who later became famous due to his involvement the Mogul balloon project in 1947 - with...Read more...</span></span></span>
+Yet the connection is not as simple as “balloon expert sees balloon”. Moore and his team were already tracking an actual pilot balloon during the observation. According to his report, he distinguished the unknown object from the meteorological balloon they had released and deliberately reacquired the real balloon through the theodolite.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/arrey49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Moore - who later became famous due to his involvement the Mogul balloon project in 1947 - with...Read more...</span></span></span>
 
 That distinction is one of the central reasons the case remained difficult to dismiss completely.
 
 <img src="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f_white_sands_skyhook_7fae8c-Illustration-2-dark.svg" | relative_url }}" alt="Test Range illustration 2" data-theme-src-dark="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f_white_sands_skyhook_7fae8c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f_white_sands_skyhook_7fae8c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why local testing both helps and complicates explanations
 
-The White Sands setting simultaneously strengthens and weakens conventional explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thisdayinaviation.com/tag/white-sands-proving-grounds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thisdayinaviation.com">[thisdayinaviation.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thisdayinaviation.com</span><span class="citation-popover-title">white sands proving grounds</span><span class="citation-popover-snippet">Tag Archives: White Sands Proving Grounds3 May 1949: at 9:14 a.m., Mountain Daylight Saving Time (15:14 UTC), the Viking 1 rocket was lau...</span><span class="citation-popover-meta">Published: May 1949</span></span></span>
+The White Sands setting simultaneously strengthens and weakens conventional explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thisdayinaviation.com/tag/white-sands-proving-grounds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thisdayinaviation.com">[thisdayinaviation.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thisdayinaviation.com</span><span class="citation-popover-title">white sands proving grounds</span><span class="citation-popover-snippet">Tag Archives: White Sands Proving Grounds3 May 1949: at 9:14 a.m., Mountain Daylight Saving Time (15:14 UTC), the Viking 1 rocket was lau...</span><span class="citation-popover-meta">Published: May 1949</span></span></span>
 
-The strongest skeptical argument is straightforward: if there was any place in America where unusual airborne devices were likely to appear, it was southern New Mexico in 1949. Balloons, rocket hardware, reflective materials, classified payloads, and optical distortions produced by high-altitude sunlight were all common features of the local environment. A witness could encounter something genuinely unfamiliar without it being extraterrestrial or technologically impossible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thisdayinaviation.com/tag/white-sands-proving-grounds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thisdayinaviation.com">[2thisdayinaviation.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thisdayinaviation.com</span><span class="citation-popover-title">white sands proving grounds</span><span class="citation-popover-snippet">Tag Archives: White Sands Proving Grounds3 May 1949: at 9:14 a.m., Mountain Daylight Saving Time (15:14 UTC), the Viking 1 rocket was lau...</span><span class="citation-popover-meta">Published: May 1949</span></span></span>
+The strongest skeptical argument is straightforward: if there was any place in America where unusual airborne devices were likely to appear, it was southern New Mexico in 1949. Balloons, rocket hardware, reflective materials, classified payloads, and optical distortions produced by high-altitude sunlight were all common features of the local environment. A witness could encounter something genuinely unfamiliar without it being extraterrestrial or technologically impossible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thisdayinaviation.com/tag/white-sands-proving-grounds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thisdayinaviation.com">[2thisdayinaviation.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thisdayinaviation.com</span><span class="citation-popover-title">white sands proving grounds</span><span class="citation-popover-snippet">Tag Archives: White Sands Proving Grounds3 May 1949: at 9:14 a.m., Mountain Daylight Saving Time (15:14 UTC), the Viking 1 rocket was lau...</span><span class="citation-popover-meta">Published: May 1949</span></span></span>
 
-At the same time, the setting complicates easy debunking because Moore was not a civilian unfamiliar with aerospace hardware. He worked professionally with balloons and atmospheric observations. The Navy forwarding memorandum reportedly highlighted this point, treating the observation as noteworthy precisely because it came from technically competent personnel conducting instrument-based tracking work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/arrey49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Moore - who later became famous due to his involvement the Mogul balloon project in 1947 - with...Read more...</span></span></span>
+At the same time, the setting complicates easy debunking because Moore was not a civilian unfamiliar with aerospace hardware. He worked professionally with balloons and atmospheric observations. The Navy forwarding memorandum reportedly highlighted this point, treating the observation as noteworthy precisely because it came from technically competent personnel conducting instrument-based tracking work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/arrey49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Moore - who later became famous due to his involvement the Mogul balloon project in 1947 - with...Read more...</span></span></span>
 
 This creates a tension that has never been fully resolved:
 
@@ -328,7 +328,7 @@ Neither conclusion entirely settles the matter.
 
 ### The problem of apparent motion
 
-One of the most debated details is the object’s reported movement. Moore described rapid eastward travel followed by a change in elevation while azimuth remained relatively stable. Later commentators interpreted this as evidence against ordinary balloon drift. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/arrey49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Moore - who later became famous due to his involvement the Mogul balloon project in 1947 - with...Read more...</span></span></span>
+One of the most debated details is the object’s reported movement. Moore described rapid eastward travel followed by a change in elevation while azimuth remained relatively stable. Later commentators interpreted this as evidence against ordinary balloon drift.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/arrey49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Moore - who later became famous due to his involvement the Mogul balloon project in 1947 - with...Read more...</span></span></span>
 
 However, high-altitude observational geometry is notoriously deceptive. Without reliable range information, small changes in perspective can create misleading impressions of speed, climb rate, or directional change. Balloon researchers themselves were familiar with such problems, particularly when observing bright objects against a nearly featureless sky.
 
@@ -340,201 +340,201 @@ This is where the White Sands environment again becomes double-edged. The region
 
 The White Sands and Skyhook background remains central because it reframes the Moore sighting away from simplistic “flying saucer” narratives and toward a more historically grounded problem: how observers interpreted genuinely novel aerospace phenomena during the first years of the Cold War.
 
-The case unfolded during a period when the United States was rapidly developing technologies that blurred the line between conventional aircraft, atmospheric science platforms, and classified military systems. Many objects seen over New Mexico in the late 1940s were real experimental devices rather than misidentified stars or hoaxes. Yet secrecy prevented straightforward identification, even among technically trained personnel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Moore_%28geologist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Moore (geologist</span><span class="citation-popover-snippet">Charles Moore (geologist)Charles Moore (8 June 1815 – 8 December 1881) was a British geologist. Life. edit. Charles was the third chil...</span><span class="citation-popover-meta">Published: June 1815</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Moore_%28geologist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Moore (geologist</span><span class="citation-popover-snippet">Charles Moore (geologist)Charles Moore (8 June 1815 – 8 December 1881) was a British geologist. Life. edit. Charles was the third chil...</span><span class="citation-popover-meta">Published: June 1815</span></span></span>
+The case unfolded during a period when the United States was rapidly developing technologies that blurred the line between conventional aircraft, atmospheric science platforms, and classified military systems. Many objects seen over New Mexico in the late 1940s were real experimental devices rather than misidentified stars or hoaxes. Yet secrecy prevented straightforward identification, even among technically trained personnel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Moore_%28geologist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Moore (geologist</span><span class="citation-popover-snippet">Charles Moore (geologist)Charles Moore (8 June 1815 – 8 December 1881) was a British geologist. Life. edit. Charles was the third chil...</span><span class="citation-popover-meta">Published: June 1815</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Moore_%28geologist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Moore (geologist</span><span class="citation-popover-snippet">Charles Moore (geologist)Charles Moore (8 June 1815 – 8 December 1881) was a British geologist. Life. edit. Charles was the third chil...</span><span class="citation-popover-meta">Published: June 1815</span></span></span>
 
 For that reason, the Arrey incident is often treated less as proof of an extraordinary craft and more as a revealing example of how Cold War aerospace experimentation shaped the early UFO era. The White Sands environment supplied plausible conventional explanations, but it also supplied highly credible [witnesses]({{ 'witnesses-e14d5f/' | relative_url }}) accustomed to observing the sky carefully. That unresolved balance is part of why the Charles B. Moore sighting still appears in serious discussions of early American UFO reports.
 
 <img src="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f_white_sands_skyhook_7fae8c-Illustration-3-dark.svg" | relative_url }}" alt="Test Range illustration 3" data-theme-src-dark="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f_white_sands_skyhook_7fae8c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f_white_sands_skyhook_7fae8c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was the Arrey UFO Part of Test Range Activity?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was the Arrey UFO Part of Test Range Activity?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Contains the original military intelligence summary maps of the White Sands corridor and Balloon program research launches.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains the original military intelligence summary maps of the White Sands corridor and Balloon program research launches.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Reviews how Air Force agencies identified high-altitude Skyhook platforms and V-2 rockets as the prime candidates for regional saucer rep...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reviews how Air Force agencies identified high-altitude Skyhook platforms and V-2 rockets as the prime candidates for regional saucer rep...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Presents a complete historical profile showing how secret Cold War testing environments are fertile territory for misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Presents a complete historical profile showing how secret Cold War testing environments are fertile territory for misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Examines why personal experience and high security clearance still leave an individual vulnerable to misidentifying their own project&#x27;s c...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines why personal experience and high security clearance still leave an individual vulnerable to misidentifying their own project&#x27;s c...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="test-range-was-the-arrey-ufo-part-of-test-range-activity-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -550,7 +550,7 @@ For that reason, the Arrey incident is often treated less as proof of an extraor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -570,7 +570,7 @@ For that reason, the Arrey incident is often treated less as proof of an extraor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -602,7 +602,7 @@ For that reason, the Arrey incident is often treated less as proof of an extraor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -654,7 +654,7 @@ For that reason, the Arrey incident is often treated less as proof of an extraor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -699,7 +699,7 @@ For that reason, the Arrey incident is often treated less as proof of an extraor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -740,108 +740,108 @@ For that reason, the Arrey incident is often treated less as proof of an extraor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Skyhook balloon  
-   Link: <a href="https://en.wikipedia.org/wiki/Skyhook_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skyhook_balloon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Skyhook_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skyhook_balloon</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Charles B. Moore  
-   Link: <a href="https://en.wikipedia.org/wiki/Charles_B._Moore" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Charles_B._Moore</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Charles_B._Moore" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Charles_B._Moore</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/arrey49.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/arrey49.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moore - who later became famous due to his involvement the Mogul balloon project in 1947 - with...Read more...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/htm/arrey49.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/arrey49.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moore - who later became famous due to his involvement the Mogul balloon project in 1947 - with...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: thisdayinaviation.com  
    Title: white sands proving grounds  
-   Link: <a href="https://www.thisdayinaviation.com/tag/white-sands-proving-grounds/" target="_blank" rel="noopener noreferrer nofollow">https://www.thisdayinaviation.com/tag/white-sands-proving-grounds/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tag Archives: White Sands Proving Grounds3 May 1949: at 9:14 a.m., Mountain Daylight Saving Time (15:14 UTC), the Viking 1 rocket was lau...</p></details>
+   Link:<a href="https://www.thisdayinaviation.com/tag/white-sands-proving-grounds/" target="_blank" rel="noopener noreferrer nofollow">https://www.thisdayinaviation.com/tag/white-sands-proving-grounds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tag Archives: White Sands Proving Grounds3 May 1949: at 9:14 a.m., Mountain Daylight Saving Time (15:14 UTC), the Viking 1 rocket was lau...</p></details>
    Published: May 1949  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Charles Moore (geologist)  
-   Link: <a href="https://en.wikipedia.org/wiki/Charles_Moore_%28geologist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Charles_Moore_%28geologist%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Charles Moore (geologist)Charles Moore (8 June 1815 – 8 December 1881) was a British geologist. Life. edit. Charles was the third chil...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Charles_Moore_%28geologist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Charles_Moore_%28geologist%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Charles Moore (geologist)Charles Moore (8 June 1815 – 8 December 1881) was a British geologist. Life. edit. Charles was the third chil...</p></details>
    Published: June 1815  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ia801305.us.archive.org  
-   Link: <a href="https://ia801305.us.archive.org/25/items/aeronauticsastro61unit/aeronauticsastro61unit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801305.us.archive.org/25/items/aeronauticsastro61unit/aeronauticsastro61unit.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and astronautics... White Sands Proving Ground. VII. Page 12. Page 13. PREFACE for centuries flight was demonstrated in nature by birds...</p></details>
+   Link:<a href="https://ia801305.us.archive.org/25/items/aeronauticsastro61unit/aeronauticsastro61unit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801305.us.archive.org/25/items/aeronauticsastro61unit/aeronauticsastro61unit.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and astronautics... White Sands Proving Ground. VII. Page 12. Page 13. PREFACE for centuries flight was demonstrated in nature by birds...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo08.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo08.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>27, 1956 — This wasn&#x27;t the only UFO sighting made by White Sands scientists. On April 5, 1948, another team watched a UFO for several min...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/rufo/rufo08.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo08.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>27, 1956 — This wasn&#x27;t the only UFO sighting made by White Sands scientists. On April 5, 1948, another team watched a UFO for several min...</p></details>
    Published: April 5, 1948  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/26965566" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26965566</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moore, the NYU Constant-. Level Balloon Project Engineer who was associated with. AFOAT-1&#x27;s Project FITZWILLIAM in Operation SAND-. STONE...</p></details>
+   Link:<a href="https://www.jstor.org/stable/26965566" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26965566</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moore, the NYU Constant-. Level Balloon Project Engineer who was associated with. AFOAT-1&#x27;s Project FITZWILLIAM in Operation SAND-. STONE...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubs.usgs.gov  
-   Link: <a href="https://pubs.usgs.gov/wdr/1999/nm-99-1/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/wdr/1999/nm-99-1/report.pdf</a>  
+   Link:<a href="https://pubs.usgs.gov/wdr/1999/nm-99-1/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/wdr/1999/nm-99-1/report.pdf</a>  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: perihelionsf.com  
-   Link: <a href="https://www.perihelionsf.com/1508/article_2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.perihelionsf.com/1508/article_2.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Rockets... General Mills skyhook research balloons. One of the members of the crew, Charles B. Moore, watched the small 350-gram...</p></details>
+   Link:<a href="https://www.perihelionsf.com/1508/article_2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.perihelionsf.com/1508/article_2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Rockets... General Mills skyhook research balloons. One of the members of the crew, Charles B. Moore, watched the small 350-gram...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: npshistory.com  
-   Link: <a href="https://npshistory.com/publications/elca/chronicles/v7n2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://npshistory.com/publications/elca/chronicles/v7n2.pdf</a>  
+   Link:<a href="https://npshistory.com/publications/elca/chronicles/v7n2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://npshistory.com/publications/elca/chronicles/v7n2.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: stratocat.com.ar  
-   Link: <a href="https://stratocat.com.ar/bases/69e.htm" target="_blank" rel="noopener noreferrer nofollow">https://stratocat.com.ar/bases/69e.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>White Sands Missile Range, New MexicoA multi-purpose test site whose main function is to provide support to missile development programs...</p></details>
+   Link:<a href="https://stratocat.com.ar/bases/69e.htm" target="_blank" rel="noopener noreferrer nofollow">https://stratocat.com.ar/bases/69e.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>White Sands Missile Range, New MexicoA multi-purpose test site whose main function is to provide support to missile development programs...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pureadmin.qub.ac.uk  
-   Link: <a href="https://pureadmin.qub.ac.uk/ws/portalfiles/portal/369536273/Investigating_the_antimicrobial_efficacy_of_mesenchymal_stromal_cells_as_a_novel_potential_therapy_for_Mycobacterium_avium_pulmonary_infection.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pureadmin.qub.ac.uk/ws/portalfiles/portal/369536273/Investigating_the_antimicrobial_efficacy_of_mesenchymal_stromal_cells_as_a_novel_potential_therapy_for_Mycobacterium_avium_pulmonary_infection.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Where possible, we endeavour to provide supplementary materials to theses. This may include video, audio and other types of files.Read more...</p></details>
+   Link:<a href="https://pureadmin.qub.ac.uk/ws/portalfiles/portal/369536273/Investigating_the_antimicrobial_efficacy_of_mesenchymal_stromal_cells_as_a_novel_potential_therapy_for_Mycobacterium_avium_pulmonary_infection.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pureadmin.qub.ac.uk/ws/portalfiles/portal/369536273/Investigating_the_antimicrobial_efficacy_of_mesenchymal_stromal_cells_as_a_novel_potential_therapy_for_Mycobacterium_avium_pulmonary_infection.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Where possible, we endeavour to provide supplementary materials to theses. This may include video, audio and other types of files.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: celestis.com  
-   Link: <a href="https://www.celestis.com/blog/a-brief-overview-of-the-new-mexico-space-trail/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestis.com/blog/a-brief-overview-of-the-new-mexico-space-trail/</a>  
+   Link:<a href="https://www.celestis.com/blog/a-brief-overview-of-the-new-mexico-space-trail/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestis.com/blog/a-brief-overview-of-the-new-mexico-space-trail/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362290477_Overview_of_Balloon_Flights_and_Their_Biomedical_Impact_on_Human_Spaceflight" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362290477_Overview_of_Balloon_Flights_and_Their_Biomedical_Impact_on_Human_Spaceflight</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>General Mills Corporation. Winzen Research Institute). Skyhook ﬂew... Ross and Charles Moore, reaching 81,000 ft. Strato-Lab IV...Read...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/362290477_Overview_of_Balloon_Flights_and_Their_Biomedical_Impact_on_Human_Spaceflight" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362290477_Overview_of_Balloon_Flights_and_Their_Biomedical_Impact_on_Human_Spaceflight</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>General Mills Corporation. Winzen Research Institute). Skyhook ﬂew... Ross and Charles Moore, reaching 81,000 ft. Strato-Lab IV...Read...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: kirkmcd.princeton.edu  
-   Link: <a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_hcsa_68.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_hcsa_68.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moore, Jr., was with four enlisted Navy personnel making a pilot balloon observation preparatory to release of...Read more...</p></details>
+   Link:<a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_hcsa_68.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_hcsa_68.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moore, Jr., was with four enlisted Navy personnel making a pilot balloon observation preparatory to release of...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: It was an adapted V-2 (No. 9), fueled with alcohol  
-   Link: <a href="https://www.facebook.com/TheWorldsofDavidDarling/posts/on-this-date-july-30-in-1946-a-rocket-reached-an-altitude-of-100-miles-167-km-fo/1221781669750719/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWorldsofDavidDarling/posts/on-this-date-july-30-in-1946-a-rocket-reached-an-altitude-of-100-miles-167-km-fo/1221781669750719/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On this date, July 30, in 1946, a rocket reached an altitude...On this date, July 30, in 1946, a rocket reached an altitude of 100 miles...</p></details>
+   Link:<a href="https://www.facebook.com/TheWorldsofDavidDarling/posts/on-this-date-july-30-in-1946-a-rocket-reached-an-altitude-of-100-miles-167-km-fo/1221781669750719/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWorldsofDavidDarling/posts/on-this-date-july-30-in-1946-a-rocket-reached-an-altitude-of-100-miles-167-km-fo/1221781669750719/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On this date, July 30, in 1946, a rocket reached an altitude...On this date, July 30, in 1946, a rocket reached an altitude of 100 miles...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheWorldsofDavidDarling/posts/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746719187550/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWorldsofDavidDarling/posts/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746719187550/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y Charles B. Moore in the late 1940s to develop balloon-borne...</p></details>
+   Link:<a href="https://www.facebook.com/TheWorldsofDavidDarling/posts/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746719187550/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWorldsofDavidDarling/posts/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746719187550/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y Charles B. Moore in the late 1940s to develop balloon-borne...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WeDigHeritage/posts/on-february-24-1949-a-high-altitude-test-vehicle-called-bumper-wac-launched-from/857456963164325/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WeDigHeritage/posts/on-february-24-1949-a-high-altitude-test-vehicle-called-bumper-wac-launched-from/857456963164325/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On February 24, 1949 a high altitude test vehicle called...February 24, 1949￼ rocket to reach outer space is launched at White Sands, Ne...</p></details>
+   Link:<a href="https://www.facebook.com/WeDigHeritage/posts/on-february-24-1949-a-high-altitude-test-vehicle-called-bumper-wac-launched-from/857456963164325/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WeDigHeritage/posts/on-february-24-1949-a-high-altitude-test-vehicle-called-bumper-wac-launched-from/857456963164325/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On February 24, 1949 a high altitude test vehicle called...February 24, 1949￼ rocket to reach outer space is launched at White Sands, Ne...</p></details>
    Published: February 24, 1949

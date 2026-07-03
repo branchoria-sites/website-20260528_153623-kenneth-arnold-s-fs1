@@ -758,70 +758,70 @@ image: /assets/images/Herbert_Schirmer_abd_b149a3-overview-social.jpg
 
 ## What Schirmer said happened on the road
 
-In the Condon Report’s anonymised “Case 42”, the witness is described as a state trooper on duty since 5 p.m., driving alone around 2:30 a.m. near a small Midwestern town. In the public UFO literature and later local reporting, that witness is identified as Herbert Schirmer, a 22-year-old Ashland police officer. The official report says he had earlier checked cattle at a sale barn and found them behaving strangely, then later noticed red lights near a highway intersection which he initially took to be a stopped truck. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case42.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 42: State Trooper Sighting...</span></span></span>
+In the Condon Report’s anonymised “Case 42”, the witness is described as a state trooper on duty since 5 p.m., driving alone around 2:30 a.m. near a small Midwestern town. In the public UFO literature and later local reporting, that witness is identified as Herbert Schirmer, a 22-year-old Ashland police officer. The official report says he had earlier checked cattle at a sale barn and found them behaving strangely, then later noticed red lights near a highway intersection which he initially took to be a stopped truck.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case42.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 42: State Trooper Sighting...</span></span></span>
 
 <img src="{{ "/assets/images/Herbert_Schirmer_abd_b149a3-overview.webp" | relative_url }}" alt="Overview image for Herbert Schirmer abduction 1967" loading="eager" decoding="sync" fetchpriority="high">
-According to the Condon account, Schirmer turned back to inspect the lights, put his headlights on bright, and saw what he described as a saucer-shaped object hovering above the road. It was reported as tilted, metallic-looking, glowing, and marked by blinking red lights or portholes. The object then rose, made a siren-like sound, emitted flame-coloured material from underneath, passed nearly overhead, and shot upward out of sight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/s3chap03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report Section III, Chapter 3: Direct Physical Evidence...</span></span></span>
+According to the Condon account, Schirmer turned back to inspect the lights, put his headlights on bright, and saw what he described as a saucer-shaped object hovering above the road. It was reported as tilted, metallic-looking, glowing, and marked by blinking red lights or portholes. The object then rose, made a siren-like sound, emitted flame-coloured material from underneath, passed nearly overhead, and shot upward out of sight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/s3chap03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report Section III, Chapter 3: Direct Physical Evidence...</span></span></span>
 
-The puzzling part was the time gap. Schirmer believed only about ten minutes had passed, but when he returned to the barracks or station it was around 3:00 a.m.; the official summary describes an unexplained period of roughly 20 minutes. He also reported feeling paralysed or strange during the event, then weak, sick and nervous afterwards. The Condon investigators recorded that the night was clear, calm and moonless, which matters because there was no obvious bad-weather confusion built into the official case description. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/appndx-w.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">appndx w</span><span class="citation-popover-snippet">appndx w</span></span></span>
+The puzzling part was the time gap. Schirmer believed only about ten minutes had passed, but when he returned to the barracks or station it was around 3:00 a.m.; the official summary describes an unexplained period of roughly 20 minutes. He also reported feeling paralysed or strange during the event, then weak, sick and nervous afterwards. The Condon investigators recorded that the night was clear, calm and moonless, which matters because there was no obvious bad-weather confusion built into the official case description.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/appndx-w.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">appndx w</span><span class="citation-popover-snippet">appndx w</span></span></span>
 
 ## Why the case looked stronger than an ordinary UFO story
 
-Schirmer’s case drew attention because it had more than a dramatic story. His superior officer reportedly considered him dependable and truthful, and believed the report was not the product of dishonesty or hallucination. The same officer checked the location the next morning and recovered a tiny metallic-looking chip from ordinary roadside debris beneath the place where Schirmer said the object had hovered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
+Schirmer’s case drew attention because it had more than a dramatic story. His superior officer reportedly considered him dependable and truthful, and believed the report was not the product of dishonesty or hallucination. The same officer checked the location the next morning and recovered a tiny metallic-looking chip from ordinary roadside debris beneath the place where Schirmer said the object had hovered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
 
-The polygraph also became part of the case’s reputation. The Condon Report says Schirmer’s superior stated that Schirmer had requested a polygraph from an experienced operator at an official agency, and that the result reportedly showed no indication that the UFO report was anything other than truthful. This is important but easy to overstate: a polygraph, even when honestly administered, is not a machine that verifies an event. At most, in this context, it supports the narrower point that Schirmer appeared to believe what he was saying and was not obviously fabricating a hoax. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case42.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 42: State Trooper Sighting...</span></span></span>
+The polygraph also became part of the case’s reputation. The Condon Report says Schirmer’s superior stated that Schirmer had requested a polygraph from an experienced operator at an official agency, and that the result reportedly showed no indication that the UFO report was anything other than truthful. This is important but easy to overstate: a polygraph, even when honestly administered, is not a machine that verifies an event. At most, in this context, it supports the narrower point that Schirmer appeared to believe what he was saying and was not obviously fabricating a hoax.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case42.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 42: State Trooper Sighting...</span></span></span>
 
-The physical evidence was weaker. The recovered chip was less than a centimetre long, paper-thin, black on one side and bright on the other. Semi-quantitative analysis found iron and silicon as major constituents. The Condon investigators treated its connection to the UFO as “tenuous” and did no further origin work because it could plausibly be ordinary corroded earthly waste. In the report’s broader chapter on physical evidence, the same sample is described as having been found among beer-can tabs and other everyday debris, with no reason to assume it was related to the reported UFO even if the sighting itself were real. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/s3chap03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report Section III, Chapter 3: Direct Physical Evidence...</span></span></span>
+The physical evidence was weaker. The recovered chip was less than a centimetre long, paper-thin, black on one side and bright on the other. Semi-quantitative analysis found iron and silicon as major constituents. The Condon investigators treated its connection to the UFO as “tenuous” and did no further origin work because it could plausibly be ordinary corroded earthly waste. In the report’s broader chapter on physical evidence, the same sample is described as having been found among beer-can tabs and other everyday debris, with no reason to assume it was related to the reported UFO even if the sighting itself were real.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/s3chap03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report Section III, Chapter 3: Direct Physical Evidence...</span></span></span>
 
-The site also failed to produce confirming evidence. Investigators checked for radioactivity and found none, and the official case report says no other evidence was found that an unusual object had landed on or hovered over the site. That absence is central to the official interpretation: the case had a seemingly sincere witness, but not a physical trace strong enough to establish an extraordinary object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/appndx-w.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">appndx w</span><span class="citation-popover-snippet">appndx w</span></span></span>
+The site also failed to produce confirming evidence. Investigators checked for radioactivity and found none, and the official case report says no other evidence was found that an unusual object had landed on or hovered over the site. That absence is central to the official interpretation: the case had a seemingly sincere witness, but not a physical trace strong enough to establish an extraordinary object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/appndx-w.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">appndx w</span><span class="citation-popover-snippet">appndx w</span></span></span>
 
 <img src="{{ "/assets/images/Herbert_Schirmer_abd_b149a3-Illustration-1-dark.svg" | relative_url }}" alt="Herbert Schirmer abduction 1967 illustration 1" data-theme-src-dark="{{ "/assets/images/Herbert_Schirmer_abd_b149a3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Herbert_Schirmer_abd_b149a3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The hypnosis sessions changed the case
 
-The original close-encounter report became a fuller abduction narrative after hypnosis. The University of Colorado project arranged psychological assessment with Schirmer’s approval, including recognised tests such as the Rorschach, Thematic Apperception Test, Wechsler Adult Intelligence Scale and Minnesota Multiphasic Personality Inventory. Dr R. Leo Sprinkle of the University of Wyoming also conducted a session using partial hypnotic techniques to see whether hypnosis might reveal otherwise inaccessible UFO information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
+The original close-encounter report became a fuller abduction narrative after hypnosis. The University of Colorado project arranged psychological assessment with Schirmer’s approval, including recognised tests such as the Rorschach, Thematic Apperception Test, Wechsler Adult Intelligence Scale and Minnesota Multiphasic Personality Inventory. Dr R. Leo Sprinkle of the University of Wyoming also conducted a session using partial hypnotic techniques to see whether hypnosis might reveal otherwise inaccessible UFO information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
 
-The Condon Report is careful about what that session proved. It says new information was added under hypnosis, but that the authenticity of the reported experience remained unestablished. Sprinkle’s opinion, as reported there, was that Schirmer believed in the reality of the events he described. That is a significant but limited conclusion: belief in a memory is not the same as independent confirmation that the remembered event occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
+The Condon Report is careful about what that session proved. It says new information was added under hypnosis, but that the authenticity of the reported experience remained unestablished. Sprinkle’s opinion, as reported there, was that Schirmer believed in the reality of the events he described. That is a significant but limited conclusion: belief in a memory is not the same as independent confirmation that the remembered event occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
 
-Later secondary accounts describe the hypnotic material as a classic abduction scenario. Nigel Watson’s history of American abduction claims summarises Schirmer’s hypnotic account as involving a compelled drive towards a football-shaped craft, a stopped car engine and radio, humanoid beings, telepathic communication, a craft interior full of controls, and beings wearing one-piece outfits marked with a winged serpent. Watson also notes the resemblance to earlier abduction motifs, especially the Betty and Barney Hill case: missing time, inability to escape, entry into a landed craft and telepathic communication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">Captured by Aliens?: A History and Analysis of American Abduction Claims</span><span class="citation-popover-snippet">1476681414, 9781476681412 - DOKUMEN.PUB...</span></span></span>
+Later secondary accounts describe the hypnotic material as a classic abduction scenario. Nigel Watson’s history of American abduction claims summarises Schirmer’s hypnotic account as involving a compelled drive towards a football-shaped craft, a stopped car engine and radio, humanoid beings, telepathic communication, a craft interior full of controls, and beings wearing one-piece outfits marked with a winged serpent. Watson also notes the resemblance to earlier abduction motifs, especially the Betty and Barney Hill case: missing time, inability to escape, entry into a landed craft and telepathic communication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">Captured by Aliens?: A History and Analysis of American Abduction Claims</span><span class="citation-popover-snippet">1476681414, 9781476681412 - DOKUMEN.PUB...</span></span></span>
 
-This is where the case divides sharply. For UFO proponents, hypnosis appeared to fill in the missing 20 minutes and turn a close sighting into an encounter with occupants. For sceptics, hypnosis is exactly where evidential caution should increase, because the most dramatic details came after a memory-recovery method now widely treated as vulnerable to suggestion, confidence inflation and confabulation. A 1997 review on hypnosis and memory argued that hypnosis is not a reliable technique for recovering accurate memories, and later psychological literature continues to warn that suggestive contexts can create or strengthen false memories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://appstate.edu/~bromanfulksj/Lynn%20et%20al%20-%20Recalling%20the%20unrecallable.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: appstate.edu">[appstate.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">appstate.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is where the case divides sharply. For UFO proponents, hypnosis appeared to fill in the missing 20 minutes and turn a close sighting into an encounter with occupants. For sceptics, hypnosis is exactly where evidential caution should increase, because the most dramatic details came after a memory-recovery method now widely treated as vulnerable to suggestion, confidence inflation and confabulation. A 1997 review on hypnosis and memory argued that hypnosis is not a reliable technique for recovering accurate memories, and later psychological literature continues to warn that suggestive contexts can create or strengthen false memories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://appstate.edu/~bromanfulksj/Lynn%20et%20al%20-%20Recalling%20the%20unrecallable.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: appstate.edu">[appstate.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">appstate.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RAiqyfQ1oeE" title="Twisted 2s #96 Herbert Schirmer &amp; Project Blue Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RAiqyfQ1oeE" target="_blank" rel="noopener noreferrer">Twisted 2s #96 Herbert Schirmer &amp; Project Blue Book</a></p><p class="youtube-embed-meta">Channel: Scary Mysteries &middot; Views: 114.9K &middot; Uploaded: January 2020 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RAiqyfQ1oeE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RAiqyfQ1oeE">Open on YouTube</a></p></div></div></div>
 
 ## What the Condon Committee concluded
 
-The official conclusion on Schirmer’s case was negative. After reviewing the psychological testing, interviews and lack of physical evidence, the project staff wrote that they had “no confidence” that the reported UFO experience was physically real. The report did not call Schirmer a liar; it rejected the leap from a sincere and unusual report to an established physical UFO event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
+The official conclusion on Schirmer’s case was negative. After reviewing the psychological testing, interviews and lack of physical evidence, the project staff wrote that they had “no confidence” that the reported UFO experience was physically real. The report did not call Schirmer a liar; it rejected the leap from a sincere and unusual report to an established physical UFO event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
 
-That distinction matters because the Condon Report had wider consequences. The University of Colorado study was commissioned by the US Air Force, and Project Blue Book records were later retired to the US National Archives. The National Archives states that Project Blue Book closed in 1969, and the Air Force’s own fact sheet says the termination followed the University of Colorado report, a National Academy of Sciences review and earlier Air Force experience with UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+That distinction matters because the Condon Report had wider consequences. The University of Colorado study was commissioned by the US Air Force, and Project Blue Book records were later retired to the US National Archives. The National Archives states that Project Blue Book closed in 1969, and the Air Force’s own fact sheet says the termination followed the University of Colorado report, a National Academy of Sciences review and earlier Air Force experience with UFO reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-The Air Force’s published conclusions were broad: no investigated UFO had shown a national-security threat, no evidence showed unidentified sightings represented technology beyond present scientific knowledge, and no evidence indicated that unidentified sightings were extraterrestrial vehicles. The Schirmer case was therefore not assessed in isolation only; it became one small part of the late-1960s institutional move away from official UFO investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+The Air Force’s published conclusions were broad: no investigated UFO had shown a national-security threat, no evidence showed unidentified sightings represented technology beyond present scientific knowledge, and no evidence indicated that unidentified sightings were extraterrestrial vehicles. The Schirmer case was therefore not assessed in isolation only; it became one small part of the late-1960s institutional move away from official UFO investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 <img src="{{ "/assets/images/Herbert_Schirmer_abd_b149a3-Illustration-2-dark.svg" | relative_url }}" alt="Herbert Schirmer abduction 1967 illustration 2" data-theme-src-dark="{{ "/assets/images/Herbert_Schirmer_abd_b149a3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Herbert_Schirmer_abd_b149a3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The best evidence, and its limits
 
 The case is strongest when treated as a report of an unusual experience by a witness who appears to have been taken seriously by people around him. The strongest points are straightforward:
 
-* **Immediate reporting:** Schirmer made a prompt police log or duty report, rather than surfacing years later with a fully developed abduction story. Later summaries quote the log as recording a UFO at the junction of Highways 6 and 63, with the famous “Believe it or not” wording. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/beyond-earth-mans-contact-with-ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">Open source on dokumen.pub.</span></span></span>
+* **Immediate reporting:** Schirmer made a prompt police log or duty report, rather than surfacing years later with a fully developed abduction story. Later summaries quote the log as recording a UFO at the junction of Highways 6 and 63, with the famous “Believe it or not” wording.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/beyond-earth-mans-contact-with-ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">Open source on dokumen.pub.</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* **Witness status:** He was a police officer on duty, and his superior reportedly regarded him as dependable and truthful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
-* **Subjective sincerity:** The reported polygraph result and the psychologist’s view both point towards Schirmer believing his account, even if they do not prove the event happened externally as described. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
-* **Official attention:** The case was not merely a tabloid anecdote; it was examined as Case 42 in the Condon Report, with psychological assessment and physical-sample analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
+* **Witness status:** He was a police officer on duty, and his superior reportedly regarded him as dependable and truthful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
+* **Subjective sincerity:** The reported polygraph result and the psychologist’s view both point towards Schirmer believing his account, even if they do not prove the event happened externally as described.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
+* **Official attention:** The case was not merely a tabloid anecdote; it was examined as Case 42 in the Condon Report, with psychological assessment and physical-sample analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
 
 </div>
 
-The limits are equally important. There were no corroborating eyewitnesses at the road, no confirmed landing trace, no radioactivity, no reliable chain of custody tying the metal chip to the alleged object, and no physical sample that required an extraordinary explanation. The most elaborate abduction details came through hypnosis, which makes them evidentially weaker than Schirmer’s initial sighting report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
+The limits are equally important. There were no corroborating eyewitnesses at the road, no confirmed landing trace, no radioactivity, no reliable chain of custody tying the metal chip to the alleged object, and no physical sample that required an extraordinary explanation. The most elaborate abduction details came through hypnosis, which makes them evidentially weaker than Schirmer’s initial sighting report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XYf-whvwWPU" title="Local UFO story revitalized after beer, comic book comes out" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XYf-whvwWPU" target="_blank" rel="noopener noreferrer">Local UFO story revitalized after beer, comic book comes out</a></p><p class="youtube-embed-meta">Channel: KMTV 3 News Now &middot; Views: 4.3K &middot; Uploaded: April 2019 &middot; Length: 2 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XYf-whvwWPU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XYf-whvwWPU">Open on YouTube</a></p></div></div></div>
 
 ## Competing interpretations
 
-The extraterrestrial interpretation treats the case as a rare, well-documented abduction involving a credible officer, missing time, physical symptoms and consistent later testimony. In that reading, the absence of strong physical evidence is not fatal because close-encounter cases often depend on witness testimony rather than recoverable debris. Local and paranormal retellings continue to emphasise Schirmer’s police status, the immediate report, the welt beneath his ear, and the later winged-serpent detail as reasons the story remains memorable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: believingthebizarre.com">[Believing the Bizarre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">believingthebizarre.com</span><span class="citation-popover-title">Believing the Bizarre The Herbert Schirmer Alien Abduction</span><span class="citation-popover-snippet">Believing the Bizarre The Herbert Schirmer Alien Abduction</span></span></span>
+The extraterrestrial interpretation treats the case as a rare, well-documented abduction involving a credible officer, missing time, physical symptoms and consistent later testimony. In that reading, the absence of strong physical evidence is not fatal because close-encounter cases often depend on witness testimony rather than recoverable debris. Local and paranormal retellings continue to emphasise Schirmer’s police status, the immediate report, the welt beneath his ear, and the later winged-serpent detail as reasons the story remains memorable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: believingthebizarre.com">[Believing the Bizarre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">believingthebizarre.com</span><span class="citation-popover-title">Believing the Bizarre The Herbert Schirmer Alien Abduction</span><span class="citation-popover-snippet">Believing the Bizarre The Herbert Schirmer Alien Abduction</span></span></span>
 
-The sceptical interpretation separates the likely sincerity of the witness from the reality of the claimed event. On this view, Schirmer may have misperceived lights, experienced stress or altered awareness during a late-night patrol, then later elaborated the missing-time story under hypnosis. The recovered metal chip is too ordinary and weakly connected to carry the case, and the official investigators’ lack of confidence remains the most conservative reading of the evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
+The sceptical interpretation separates the likely sincerity of the witness from the reality of the claimed event. On this view, Schirmer may have misperceived lights, experienced stress or altered awareness during a late-night patrol, then later elaborated the missing-time story under hypnosis. The recovered metal chip is too ordinary and weakly connected to carry the case, and the official investigators’ lack of confidence remains the most conservative reading of the evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
 
-A middle position is also possible: Schirmer may have had a real, frightening, poorly understood experience, but the later abduction narrative may not be a reliable reconstruction of what happened. This reading best fits the mixed evidence. It respects the documentary anchors — the immediate report, the superior officer’s confidence, the psychological assessment and the polygraph claim — while recognising that none of them demonstrates a landed craft, non-human beings or a physical abduction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
+A middle position is also possible: Schirmer may have had a real, frightening, poorly understood experience, but the later abduction narrative may not be a reliable reconstruction of what happened. This reading best fits the mixed evidence. It respects the documentary anchors — the immediate report, the superior officer’s confidence, the psychological assessment and the polygraph claim — while recognising that none of them demonstrates a landed craft, non-human beings or a physical abduction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
 
 <img src="{{ "/assets/images/Herbert_Schirmer_abd_b149a3-Illustration-3-dark.svg" | relative_url }}" alt="Herbert Schirmer abduction 1967 illustration 3" data-theme-src-dark="{{ "/assets/images/Herbert_Schirmer_abd_b149a3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Herbert_Schirmer_abd_b149a3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case still matters
@@ -833,178 +833,178 @@ For a case dossier, Schirmer belongs beside the broader history of official UFO 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JHeZjJgO9Ns" title="UFO Project Blue Book at National Archives Museum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer">UFO Project Blue Book at National Archives Museum</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 352.6K &middot; Uploaded: December 2019 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JHeZjJgO9Ns">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Happened on Schirmer&#x27;s Night Patrol?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Happened on Schirmer&#x27;s Night Patrol?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Profiles the Schirmer case objectively, summarizing the police officer encounter and the Condon Committee’s ‘no confidence’ conclusion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Profiles the Schirmer case objectively, summarizing the police officer encounter and the Condon Committee’s ‘no confidence’ conclusion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
-        </h4>
-        <p class="fr-book-author">By John E. Mack, Mack</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+</h4>
+<p class="fr-book-author">By John E. Mack, Mack</p>
         
-        <p class="fr-book-desc">Provides the essential comparative context for interpreting abduction claims, focusing on the common themes found in long-running police...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the essential comparative context for interpreting abduction claims, focusing on the common themes found in long-running police...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xq1vfWIiV1IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xq1vfWIiV1IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
         
-        <p class="fr-book-desc">Explains why hypnotically recovered memories—a cornerstone of the Schirmer file—are scientifically contested and prone to distortion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why hypnotically recovered memories—a cornerstone of the Schirmer file—are scientifically contested and prone to distortion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=immWvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Missing Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
-        </h4>
-        <p class="fr-book-author">By Budd Hopkins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=immWvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Missing Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
+</h4>
+<p class="fr-book-author">By Budd Hopkins</p>
         
-        <p class="fr-book-desc">Details the comparative &#x27;missing time&#x27; documentation and regression techniques common to famous cases like Schirmer&#x27;s.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details the comparative &#x27;missing time&#x27; documentation and regression techniques common to famous cases like Schirmer&#x27;s.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme+-book&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme -book" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme+-book&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme -book" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme+-book&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme -book" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme+-book&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme -book" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme+-book&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme -book" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme+-book&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme -book" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme+-book&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme -book" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme+-book&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme -book" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme+-book&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme -book" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme+-book&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme -book" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme+-book&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme -book" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme+-book&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme -book" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme+-book&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme -book" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1020,7 +1020,7 @@ For a case dossier, Schirmer belongs beside the broader history of official UFO 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1040,7 +1040,7 @@ For a case dossier, Schirmer belongs beside the broader history of official UFO 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1072,7 +1072,7 @@ For a case dossier, Schirmer belongs beside the broader history of official UFO 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1124,7 +1124,7 @@ For a case dossier, Schirmer belongs beside the broader history of official UFO 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1169,7 +1169,7 @@ For a case dossier, Schirmer belongs beside the broader history of official UFO 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1210,140 +1210,140 @@ For a case dossier, Schirmer belongs beside the broader history of official UFO 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: files.ncas.org  
-   Link: <a href="https://files.ncas.org/condon/text/case42.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case42.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Case 42: State Trooper Sighting...</p></details>
+   Link:<a href="https://files.ncas.org/condon/text/case42.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case42.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Case 42: State Trooper Sighting...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: files.ncas.org  
-   Link: <a href="https://files.ncas.org/condon/text/s3chap03.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s3chap03.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report Section III, Chapter 3: Direct Physical Evidence...</p></details>
+   Link:<a href="https://files.ncas.org/condon/text/s3chap03.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s3chap03.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report Section III, Chapter 3: Direct Physical Evidence...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: dokumen.pub  
    Title: Captured by Aliens?: A History and Analysis of American Abduction Claims  
-   Link: <a href="https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1476681414, 9781476681412 - DOKUMEN.PUB...</p></details>
+   Link:<a href="https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1476681414, 9781476681412 - DOKUMEN.PUB...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: appstate.edu  
-   Link: <a href="https://appstate.edu/~bromanfulksj/Lynn%20et%20al%20-%20Recalling%20the%20unrecallable.pdf" target="_blank" rel="noopener noreferrer nofollow">https://appstate.edu/~bromanfulksj/Lynn%20et%20al%20-%20Recalling%20the%20unrecallable.pdf</a>  
+   Link:<a href="https://appstate.edu/~bromanfulksj/Lynn%20et%20al%20-%20Recalling%20the%20unrecallable.pdf" target="_blank" rel="noopener noreferrer nofollow">https://appstate.edu/~bromanfulksj/Lynn%20et%20al%20-%20Recalling%20the%20unrecallable.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: files.ncas.org  
    Title: appndx w  
-   Link: <a href="https://files.ncas.org/condon/text/appndx-w.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/appndx-w.htm</a>  
+   Link:<a href="https://files.ncas.org/condon/text/appndx-w.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/appndx-w.htm</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: files.ncas.org  
-   Link: <a href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/sec-i.htm</a>  
+   Link:<a href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/sec-i.htm</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: colorado.edu  
    Title: cu site one last government commissioned reports ufos what does it say  
-   Link: <a href="https://www.colorado.edu/today/2021/06/09/cu-site-one-last-government-commissioned-reports-ufos-what-does-it-say" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/today/2021/06/09/cu-site-one-last-government-commissioned-reports-ufos-what-does-it-say</a>  
+   Link:<a href="https://www.colorado.edu/today/2021/06/09/cu-site-one-last-government-commissioned-reports-ufos-what-does-it-say" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/today/2021/06/09/cu-site-one-last-government-commissioned-reports-ufos-what-does-it-say</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/beyond-earth-mans-contact-with-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/beyond-earth-mans-contact-with-ufos.html</a>  
+   Link:<a href="https://dokumen.pub/beyond-earth-mans-contact-with-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/beyond-earth-mans-contact-with-ufos.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/the-china-australia-free-trade-agreement-a-21st-century-model-9781509915385-9781509915415-9781509915392.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-china-australia-free-trade-agreement-a-21st-century-model-9781509915385-9781509915415-9781509915392.html</a>  
+   Link:<a href="https://dokumen.pub/the-china-australia-free-trade-agreement-a-21st-century-model-9781509915385-9781509915415-9781509915392.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-china-australia-free-trade-agreement-a-21st-century-model-9781509915385-9781509915415-9781509915392.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: time.com  
-   Link: <a href="https://time.com/5380312/is-hypnosis-real-science/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5380312/is-hypnosis-real-science/</a>  
+   Link:<a href="https://time.com/5380312/is-hypnosis-real-science/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5380312/is-hypnosis-real-science/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1327196/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1327196/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1327196/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1327196/full</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: believingthebizarre.com  
    Title: Believing the Bizarre The Herbert Schirmer Alien Abduction  
-   Link: <a href="https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/</a>  
+   Link:<a href="https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Condon Committee  
-   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Hypnosis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hypnosis</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hypnosis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hypnosis</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: kevinrandle.blogspot.com  
    Title: schirmer abduction  
-   Link: <a href="https://kevinrandle.blogspot.com/2008/10/schirmer-abduction.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2008/10/schirmer-abduction.html</a>  
+   Link:<a href="https://kevinrandle.blogspot.com/2008/10/schirmer-abduction.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2008/10/schirmer-abduction.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: psychologytoday.com  
-   Link: <a href="https://www.psychologytoday.com/us/basics/hypnosis" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/hypnosis</a>  
+   Link:<a href="https://www.psychologytoday.com/us/basics/hypnosis" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/hypnosis</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: maryevans.com  
    Title: herbert schirmer  
-   Link: <a href="https://www.maryevans.com/explore-contributor-collections/com/herbert-schirmer-45390940.html" target="_blank" rel="noopener noreferrer nofollow">https://www.maryevans.com/explore-contributor-collections/com/herbert-schirmer-45390940.html</a>  
+   Link:<a href="https://www.maryevans.com/explore-contributor-collections/com/herbert-schirmer-45390940.html" target="_blank" rel="noopener noreferrer nofollow">https://www.maryevans.com/explore-contributor-collections/com/herbert-schirmer-45390940.html</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/hypnosis" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/hypnosis</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/hypnosis" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/hypnosis</a>  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.281.5373.21a" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.281.5373.21a</a>  
+   Link:<a href="https://www.science.org/doi/10.1126/science.281.5373.21a" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.281.5373.21a</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: supremecourt.gov  
-   Link: <a href="https://www.supremecourt.gov/DocketPDF/25/25-6774/400754/20260312150640141_25-6774%20American%20Psychological%20Assn%20Amicus%20Brief.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.supremecourt.gov/DocketPDF/25/25-6774/400754/20260312150640141_25-6774%20American%20Psychological%20Assn%20Amicus%20Brief.pdf</a>  
+   Link:<a href="https://www.supremecourt.gov/DocketPDF/25/25-6774/400754/20260312150640141_25-6774%20American%20Psychological%20Assn%20Amicus%20Brief.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.supremecourt.gov/DocketPDF/25/25-6774/400754/20260312150640141_25-6774%20American%20Psychological%20Assn%20Amicus%20Brief.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Local UFO story revitalized after beer, comic book comes out  
-   Link: <a href="https://www.youtube.com/watch?v=XYf-whvwWPU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XYf-whvwWPU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 BrainScratch: Herbert Schirmer&#x27;s Alien Story...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XYf-whvwWPU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XYf-whvwWPU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 BrainScratch: Herbert Schirmer&#x27;s Alien Story...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Twisted 2s #96 Herbert Schirmer & Project Blue Book  
-   Link: <a href="https://www.youtube.com/watch?v=RAiqyfQ1oeE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RAiqyfQ1oeE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 WARNING: The Secret Symbol Found In CIA Files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RAiqyfQ1oeE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RAiqyfQ1oeE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 WARNING: The Secret Symbol Found In CIA Files...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/B9FMEDAABUy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/B9FMEDAABUy/</a>  
+   Link:<a href="https://www.instagram.com/p/B9FMEDAABUy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/B9FMEDAABUy/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: goodpods.com  
-   Link: <a href="https://goodpods.com/podcasts/scary-mysteries-143864/4-times-aliens-appear-in-historical-works-of-art-7039207" target="_blank" rel="noopener noreferrer nofollow">https://goodpods.com/podcasts/scary-mysteries-143864/4-times-aliens-appear-in-historical-works-of-art-7039207</a>  
+   Link:<a href="https://goodpods.com/podcasts/scary-mysteries-143864/4-times-aliens-appear-in-historical-works-of-art-7039207" target="_blank" rel="noopener noreferrer nofollow">https://goodpods.com/podcasts/scary-mysteries-143864/4-times-aliens-appear-in-historical-works-of-art-7039207</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/664911255/Alien-Identities" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/664911255/Alien-Identities</a>  
+   Link:<a href="https://www.scribd.com/document/664911255/Alien-Identities" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/664911255/Alien-Identities</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ScienceNaturePage/posts/alien-abduction-claims-are-based-on-lucid-dreams-study-suggests/2482514868547423/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceNaturePage/posts/alien-abduction-claims-are-based-on-lucid-dreams-study-suggests/2482514868547423/</a>  
+   Link:<a href="https://www.facebook.com/ScienceNaturePage/posts/alien-abduction-claims-are-based-on-lucid-dreams-study-suggests/2482514868547423/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceNaturePage/posts/alien-abduction-claims-are-based-on-lucid-dreams-study-suggests/2482514868547423/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/stgnews/posts/alien-abduction-or-government-mind-control-new-book-seeks-answers-to-1959-cedar-/1635030876556130/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/stgnews/posts/alien-abduction-or-government-mind-control-new-book-seeks-answers-to-1959-cedar-/1635030876556130/</a>  
+   Link:<a href="https://www.facebook.com/stgnews/posts/alien-abduction-or-government-mind-control-new-book-seeks-answers-to-1959-cedar-/1635030876556130/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/stgnews/posts/alien-abduction-or-government-mind-control-new-book-seeks-answers-to-1959-cedar-/1635030876556130/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: storytel.com  
-   Link: <a href="https://www.storytel.com/se/authors/spectrevision-radio-1080986?page=3" target="_blank" rel="noopener noreferrer nofollow">https://www.storytel.com/se/authors/spectrevision-radio-1080986?page=3</a>
+   Link:<a href="https://www.storytel.com/se/authors/spectrevision-radio-1080986?page=3" target="_blank" rel="noopener noreferrer nofollow">https://www.storytel.com/se/authors/spectrevision-radio-1080986?page=3</a>

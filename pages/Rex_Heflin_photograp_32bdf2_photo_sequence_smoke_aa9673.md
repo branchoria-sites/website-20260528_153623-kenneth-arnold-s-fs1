@@ -242,12 +242,12 @@ image: /assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Il
 
 ## Introduction
 
-The Rex Heflin case became famous because it did not stop at three photographs of a disc-shaped object. The fourth image — a dark, ring-like cloud or vapour formation allegedly left behind after the object accelerated away — transformed the incident into a much larger argument about sequence, timing, location and physical aftermath. More than sixty years later, the “smoke-ring photo” still sits at the centre of debates over whether the Heflin photographs show an unexplained aerial object, a carefully staged hoax, or a mixture of genuine photography and later embellishment. Tustin Area Historical Society [YUMPU Unlike many classic UFO photographs](#endnote-1 "Snippet: YUMPUReanalysis of the 1965 Heflin UFO Photos - Society for...6 Apr 2014 — The presence <strong>of</strong> smoke in <strong>Heflin</str..."), the Heflin series was taken as a rapid sequence with a Polaroid camera while Heflin was performing road department work near Myford Road in Orange County, California, on 3 August 1965. The first three images appear to show the same domed object at slightly different positions and angles. The fourth image contains no visible craft at all, only a floating ring-shaped formation against a cloudy sky. That final frame is exactly what keeps the case alive: if the smoke ring genuinely followed the object, the event becomes harder to dismiss as a simple suspended model or tossed object. If the fourth image was unrelated or staged separately, the evidential value of the whole sequence changes sharply. Tustin Area Historical Society [2Three-Dollar Kit](#endnote-12 "Snippet: Three-Dollar KitAll Aboard with Rex HeflinEdit: I've written about the fourth photo (the smoke ring) here. References. ​Druffel, A., Wood...")
+The Rex Heflin case became famous because it did not stop at three photographs of a disc-shaped object. The fourth image — a dark, ring-like cloud or vapour formation allegedly left behind after the object accelerated away — transformed the incident into a much larger argument about sequence, timing, location and physical aftermath. More than sixty years later, the “smoke-ring photo” still sits at the centre of debates over whether the Heflin photographs show an unexplained aerial object, a carefully staged hoax, or a mixture of genuine photography and later embellishment. Tustin Area Historical Society [YUMPU Unlike many classic UFO photographs](#endnote-1 "Snippet: YUMPUReanalysis of the 1965 Heflin UFO Photos - Society for...6 Apr 2014 — The presence<strong>of</strong> smoke in<strong>Heflin</str..."), the Heflin series was taken as a rapid sequence with a Polaroid camera while Heflin was performing road department work near Myford Road in Orange County, California, on 3 August 1965. The first three images appear to show the same domed object at slightly different positions and angles. The fourth image contains no visible craft at all, only a floating ring-shaped formation against a cloudy sky. That final frame is exactly what keeps the case alive: if the smoke ring genuinely followed the object, the event becomes harder to dismiss as a simple suspended model or tossed object. If the fourth image was unrelated or staged separately, the evidential value of the whole sequence changes sharply. Tustin Area Historical Society [2Three-Dollar Kit](#endnote-12 "Snippet: Three-Dollar KitAll Aboard with Rex HeflinEdit: I've written about the fourth photo (the smoke ring) here. References. ​Druffel, A., Wood...")
 
 <img src="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-1-dark.svg" | relative_url }}" alt="Photo Sequence illustration 1" data-theme-src-dark="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the first three disc photos show
 
-The first three Polaroids form the core visual record of the Heflin sighting. According to Heflin’s account, he was driving slowly along Myford Road when he noticed a metallic-looking object moving from left to right. He grabbed his Polaroid camera and took successive photographs through the windscreen and side window of his county vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — Heflin drove north on Myford R...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/doc/164052774/Ufo-Photographs-Portraits-of-a-Myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Rex Heflin UFO Photo Analysis &#124; PDF &#124; Young AdultShortly after noon, August 3, 1965, Rex Heflin, a highway traffic inspector, took...</span><span class="citation-popover-meta">Published: August 3, 1965</span></span></span>
+The first three Polaroids form the core visual record of the Heflin sighting. According to Heflin’s account, he was driving slowly along Myford Road when he noticed a metallic-looking object moving from left to right. He grabbed his Polaroid camera and took successive photographs through the windscreen and side window of his county vehicle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — Heflin drove north on Myford R...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/doc/164052774/Ufo-Photographs-Portraits-of-a-Myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Rex Heflin UFO Photo Analysis &#124; PDF &#124; Young AdultShortly after noon, August 3, 1965, Rex Heflin, a highway traffic inspector, took...</span><span class="citation-popover-meta">Published: August 3, 1965</span></span></span>
 
 The images share several characteristics that made investigators take them seriously in the 1960s:
 
@@ -256,19 +256,19 @@ The images share several characteristics that made investigators take them serio
 * The object appears consistently lit across the sequence.
 * Its orientation changes slightly between frames.
 * Background perspective changes in ways broadly compatible with a moving observer.
-* The photographs were taken on instant Polaroid film rather than conventional negatives, limiting some darkroom manipulation techniques common at the time. [YUMPU](#endnote-1 "Snippet: YUMPUReanalysis of the 1965 Heflin UFO Photos - Society for...6 Apr 2014 — The presence <strong>of</strong> smoke in <strong>Heflin</str...")
+* The photographs were taken on instant Polaroid film rather than conventional negatives, limiting some darkroom manipulation techniques common at the time. [YUMPU](#endnote-1 "Snippet: YUMPUReanalysis of the 1965 Heflin UFO Photos - Society for...6 Apr 2014 — The presence<strong>of</strong> smoke in<strong>Heflin</str...")
 
 </div>
 
-Supporters of the case argued that the sequence showed a coherent flight path rather than a static object hanging from a string. Later computer-enhancement advocates claimed the images contained shading and motion details difficult to fake with simple household models available in 1965. [YUMPU](#endnote-1 "Snippet: YUMPUReanalysis of the 1965 Heflin UFO Photos - Society for...6 Apr 2014 — The presence <strong>of</strong> smoke in <strong>Heflin</str...")
+Supporters of the case argued that the sequence showed a coherent flight path rather than a static object hanging from a string. Later computer-enhancement advocates claimed the images contained shading and motion details difficult to fake with simple household models available in 1965. [YUMPU](#endnote-1 "Snippet: YUMPUReanalysis of the 1965 Heflin UFO Photos - Society for...6 Apr 2014 — The presence<strong>of</strong> smoke in<strong>Heflin</str...")
 
-Sceptics, however, focused on a different set of details. Critics pointed out that the object remains comparatively stable within the frame despite Heflin supposedly taking hurried photographs from inside a moving work vehicle. Some analysts proposed that the “craft” could have been a small suspended object photographed close to the camera. Others suggested a lightweight model tossed into the air. The dark band visible around the object became a recurring point of argument, with critics comparing it to wheels, rubber rings or model components. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/78205127/Journal-of-Scientific-Exploration-Volume-14-Number-1-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">JOURNAL of Scientific</span><span class="citation-popover-snippet">Exploration - Volume 14: Number 1-4Journal of Scientific Exploration- Volume 14: Number 1-4 - Free download as PDF File (.pdf), Text File...</span></span></span>
+Sceptics, however, focused on a different set of details. Critics pointed out that the object remains comparatively stable within the frame despite Heflin supposedly taking hurried photographs from inside a moving work vehicle. Some analysts proposed that the “craft” could have been a small suspended object photographed close to the camera. Others suggested a lightweight model tossed into the air. The dark band visible around the object became a recurring point of argument, with critics comparing it to wheels, rubber rings or model components.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/78205127/Journal-of-Scientific-Exploration-Volume-14-Number" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">JOURNAL of Scientific</span><span class="citation-popover-snippet">Exploration - Volume 14: Number 1-4Journal of Scientific Exploration- Volume 14: Number 1-4 - Free download as PDF File (.pdf), Text File...</span></span></span>
 
 The debate over the first three photographs therefore became highly technical: perspective, focal length, shutter timing, object size and camera handling all mattered. But the fourth photograph shifted the discussion from geometry into chronology and physical plausibility.
 
 ## Why the fourth image changed the case
 
-The fourth photograph differs radically from the first three. Instead of a metallic object, it shows a dark circular or doughnut-shaped formation suspended in the sky. Heflin said the UFO accelerated away and left behind a blue-black vapour ring that drifted and slowly distorted in the wind. He reportedly drove closer, exited his vehicle and photographed the formation separately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — Heflin drove north on Myford R...</span></span></span>
+The fourth photograph differs radically from the first three. Instead of a metallic object, it shows a dark circular or doughnut-shaped formation suspended in the sky. Heflin said the UFO accelerated away and left behind a blue-black vapour ring that drifted and slowly distorted in the wind. He reportedly drove closer, exited his vehicle and photographed the formation separately.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — Heflin drove north on Myford R...</span></span></span>
 
 That single image introduced three major complications.
 
@@ -276,36 +276,36 @@ That single image introduced three major complications.
 
 ### It implied a physical aftermath
 
-A suspended model or nearby hoax object might explain the disc photographs, but a lingering smoke or vapour formation created a second evidential layer. The case no longer depended solely on interpreting the shape in the sky. Investigators now had to explain why a ring-shaped formation allegedly appeared immediately after the object’s departure. [YUMPU](#endnote-1 "Snippet: YUMPUReanalysis of the 1965 Heflin UFO Photos - Society for...6 Apr 2014 — The presence <strong>of</strong> smoke in <strong>Heflin</str...")
+A suspended model or nearby hoax object might explain the disc photographs, but a lingering smoke or vapour formation created a second evidential layer. The case no longer depended solely on interpreting the shape in the sky. Investigators now had to explain why a ring-shaped formation allegedly appeared immediately after the object’s departure. [YUMPU](#endnote-1 "Snippet: YUMPUReanalysis of the 1965 Heflin UFO Photos - Society for...6 Apr 2014 — The presence<strong>of</strong> smoke in<strong>Heflin</str...")
 
-Some pro-UFO researchers compared the formation to vortex rings — circular disturbances that can persist briefly in air under certain conditions. The later Journal of Scientific Exploration reanalysis treated the ring as potentially consistent with an energetic propulsion effect rather than ordinary smoke. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — Heflin drove north on Myford R...</span></span></span>
+Some pro-UFO researchers compared the formation to vortex rings — circular disturbances that can persist briefly in air under certain conditions. The later Journal of Scientific Exploration reanalysis treated the ring as potentially consistent with an energetic propulsion effect rather than ordinary smoke.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — Heflin drove north on Myford R...</span></span></span>
 
-Sceptics countered that smoke rings are not exotic phenomena at all. Aircraft displays, explosions and industrial sources can produce circular vapour formations. Critics also argued that once the fourth photograph entered the story, Heflin’s narrative became more difficult to verify independently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/203819557634111/posts/213089686707098/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Facebook# The Rex Heflin Photos ## Case Synopsis: On August 3, 1965...&quot; And finally, the smoke ring in photo #4 was explained as follow...</span><span class="citation-popover-meta">Published: August 3, 1965</span></span></span>
+Sceptics countered that smoke rings are not exotic phenomena at all. Aircraft displays, explosions and industrial sources can produce circular vapour formations. Critics also argued that once the fourth photograph entered the story, Heflin’s narrative became more difficult to verify independently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/203819557634111/posts/213089686707098/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Facebook# The Rex Heflin Photos ## Case Synopsis: On August 3, 1965...&quot; And finally, the smoke ring in photo #4 was explained as follow...</span><span class="citation-popover-meta">Published: August 3, 1965</span></span></span>
 
 ### It complicated the timeline
 
-The smoke-ring photograph appears to have entered public circulation later than the first three images. The early newspaper attention focused mainly on the disc photographs themselves. Researchers later noted that the fourth frame was not emphasised in the earliest public presentations of the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://threedollarkit.weebly.com/blog/all-aboard-with-rex-heflin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: threedollarkit.weebly.com">[Three-Dollar Kit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">threedollarkit.weebly.com</span><span class="citation-popover-snippet">Three-Dollar KitAll Aboard with Rex HeflinEdit: I&#x27;ve written about the fourth photo (the smoke ring) here. References. ​Druffel, A., Wood...</span></span></span>
+The smoke-ring photograph appears to have entered public circulation later than the first three images. The early newspaper attention focused mainly on the disc photographs themselves. Researchers later noted that the fourth frame was not emphasised in the earliest public presentations of the case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://threedollarkit.weebly.com/blog/all-aboard-with-rex-heflin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: threedollarkit.weebly.com">[Three-Dollar Kit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">threedollarkit.weebly.com</span><span class="citation-popover-snippet">Three-Dollar KitAll Aboard with Rex HeflinEdit: I&#x27;ve written about the fourth photo (the smoke ring) here. References. ​Druffel, A., Wood...</span></span></span>
 
 That delay became important because critics wondered whether the smoke-ring image truly belonged to the same sequence. If it had been photographed separately — at another place or time — then its apparent connection to the UFO would rest entirely on Heflin’s testimony.
 
-Supporters responded that Heflin consistently described the ring as part of the event and that he had little apparent motive to fabricate an additional frame after already possessing three dramatic photographs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — Heflin drove north on Myford R...</span></span></span>
+Supporters responded that Heflin consistently described the ring as part of the event and that he had little apparent motive to fabricate an additional frame after already possessing three dramatic photographs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — Heflin drove north on Myford R...</span></span></span>
 
 ### It exposed the limits of photographic verification
 
-The smoke-ring image contains few fixed reference points. Analysts generally identify only a telephone wire, cloudy sky and partial tree branch or orange grove detail. That scarcity of landmarks made it extremely difficult to establish the exact location, altitude or dimensions of the ring independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — Heflin drove north on Myford R...</span></span></span>
+The smoke-ring image contains few fixed reference points. Analysts generally identify only a telephone wire, cloudy sky and partial tree branch or orange grove detail. That scarcity of landmarks made it extremely difficult to establish the exact location, altitude or dimensions of the ring independently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — Heflin drove north on Myford R...</span></span></span>
 
-The Colorado UFO study associated with the Condon era treated this as a crucial weakness. Investigators acknowledged that securely tying the fourth photograph to the Myford Road location would strongly support Heflin’s account. Yet they also concluded that the available visual references were insufficient for certainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — Heflin drove north on Myford R...</span></span></span>
+The Colorado UFO study associated with the Condon era treated this as a crucial weakness. Investigators acknowledged that securely tying the fourth photograph to the Myford Road location would strongly support Heflin’s account. Yet they also concluded that the available visual references were insufficient for certainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — Heflin drove north on Myford R...</span></span></span>
 
 In practical terms, the smoke-ring photograph became a paradox: it was potentially the strongest piece of evidence in the sequence, but also the hardest to verify.
 
 <img src="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-2-dark.svg" | relative_url }}" alt="Photo Sequence illustration 2" data-theme-src-dark="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_photo_sequence_smoke_aa9673-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The weather and cloud dispute
 
-One of the longest-running arguments about the fourth photograph concerns the sky itself. Critics noticed that the cloud conditions in the smoke-ring image appeared different from those in the first three photographs. This raised the possibility that the fourth frame was taken separately or at a different time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/fe1q6u/in_1965_rex_heflin_saw_this_and_took_four_photos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">in 1965 rex heflin saw this and took four photos</span><span class="citation-popover-snippet">5, 2020 — The photos were deemed a &quot;hoax&quot; by Blue Book, but the USAF investigator deemed them legitimate. A later 2000 analys...</span><span class="citation-popover-meta">Published: March 5, 2020</span></span></span>
+One of the longest-running arguments about the fourth photograph concerns the sky itself. Critics noticed that the cloud conditions in the smoke-ring image appeared different from those in the first three photographs. This raised the possibility that the fourth frame was taken separately or at a different time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/fe1q6u/in_1965_rex_heflin_saw_this_and_took_four_photos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">in 1965 rex heflin saw this and took four photos</span><span class="citation-popover-snippet">5, 2020 — The photos were deemed a &quot;hoax&quot; by Blue Book, but the USAF investigator deemed them legitimate. A later 2000 analys...</span><span class="citation-popover-meta">Published: March 5, 2020</span></span></span>
 
 The dispute became especially important because the entire sequence allegedly unfolded within seconds or minutes. If the cloud cover looked substantially different, the continuity of the event weakened.
 
-Later reanalysis attempted to answer this objection. Supporters argued that differences in exposure, camera angle and lighting could account for the changed appearance of the sky. They also noted Orange County’s marine-layer conditions, which can create uneven cloud visibility and haze. [YUMPU](#endnote-1 "Snippet: YUMPUReanalysis of the 1965 Heflin UFO Photos - Society for...6 Apr 2014 — The presence <strong>of</strong> smoke in <strong>Heflin</str...")
+Later reanalysis attempted to answer this objection. Supporters argued that differences in exposure, camera angle and lighting could account for the changed appearance of the sky. They also noted Orange County’s marine-layer conditions, which can create uneven cloud visibility and haze. [YUMPU](#endnote-1 "Snippet: YUMPUReanalysis of the 1965 Heflin UFO Photos - Society for...6 Apr 2014 — The presence<strong>of</strong> smoke in<strong>Heflin</str...")
 
 The issue was never fully resolved because the photographs themselves contain limited environmental detail. No independent weather reconstruction conclusively proved or disproved continuity between the frames. As a result, the cloud debate became symbolic of the broader Heflin problem: every detail could be interpreted in two opposing ways depending on prior assumptions about Heflin’s honesty and the likelihood of hoaxing.
 
@@ -318,7 +318,7 @@ The progression matters in several ways:
 * The first three images suggest motion and changing viewpoint.
 * The fourth frame introduces an alleged after-effect.
 * Heflin’s account links the photographs into a continuous event lasting roughly seconds.
-* The sequence forced investigators to test not just image authenticity but narrative consistency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — Heflin drove north on Myford R...</span></span></span>
+* The sequence forced investigators to test not just image authenticity but narrative consistency.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — Heflin drove north on Myford R...</span></span></span>
 
 This is why the smoke-ring photograph still attracts attention from both believers and sceptics. If the fourth image genuinely followed the object, it strengthens the argument that Heflin documented an external aerial phenomenon. If it was added later or misrepresented, it undermines confidence in the entire sequence.
 
@@ -334,11 +334,11 @@ Even supporters of the Heflin case generally acknowledge that the photographs do
 * its distance from the camera,
 * its speed,
 * whether it was self-luminous,
-* or whether the smoke ring had any genuine connection to the object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — Heflin drove north on Myford R...</span></span></span>
+* or whether the smoke ring had any genuine connection to the object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — Heflin drove north on Myford R...</span></span></span>
 
-The lack of measurable reference points remains the central technical weakness. A small nearby object can sometimes resemble a large distant one in photographs, especially when depth cues are sparse. Critics repeatedly exploited this ambiguity in proposing suspended-model explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/doc/164052774/Ufo-Photographs-Portraits-of-a-Myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Rex Heflin UFO Photo Analysis &#124; PDF &#124; Young AdultShortly after noon, August 3, 1965, Rex Heflin, a highway traffic inspector, took...</span><span class="citation-popover-meta">Published: August 3, 1965</span></span></span>
+The lack of measurable reference points remains the central technical weakness. A small nearby object can sometimes resemble a large distant one in photographs, especially when depth cues are sparse. Critics repeatedly exploited this ambiguity in proposing suspended-model explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/doc/164052774/Ufo-Photographs-Portraits-of-a-Myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Rex Heflin UFO Photo Analysis &#124; PDF &#124; Young AdultShortly after noon, August 3, 1965, Rex Heflin, a highway traffic inspector, took...</span><span class="citation-popover-meta">Published: August 3, 1965</span></span></span>
 
-The chain-of-custody issue surrounding the original Polaroids further complicated later analysis. Heflin said individuals claiming to represent NORAD took the original photographs and failed to return them for decades. When the originals resurfaced years later, proponents argued this allowed more reliable reanalysis, while sceptics questioned whether the long disappearance damaged evidential reliability permanently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/bmft9d/heflin_photos_genuine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Open source on reddit.com.</span></span></span>
+The chain-of-custody issue surrounding the original Polaroids further complicated later analysis. Heflin said individuals claiming to represent NORAD took the original photographs and failed to return them for decades. When the originals resurfaced years later, proponents argued this allowed more reliable reanalysis, while sceptics questioned whether the long disappearance damaged evidential reliability permanently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/bmft9d/heflin_photos_genuine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Open source on reddit.com.</span></span></span>
 
 What keeps the sequence historically important is therefore not definitive proof, but the unusual combination of factors:
 
@@ -348,7 +348,7 @@ What keeps the sequence historically important is therefore not definitive proof
 * a claimed physical aftermath,
 * a named witness with a public-service job,
 * official investigation,
-* and decades of unresolved technical disagreement. Tustin Area Historical Society [2YUMPU](#endnote-1 "Snippet: YUMPUReanalysis of the 1965 Heflin UFO Photos - Society for...6 Apr 2014 — The presence <strong>of</strong> smoke in <strong>Heflin</str...")
+* and decades of unresolved technical disagreement. Tustin Area Historical Society [2YUMPU](#endnote-1 "Snippet: YUMPUReanalysis of the 1965 Heflin UFO Photos - Society for...6 Apr 2014 — The presence<strong>of</strong> smoke in<strong>Heflin</str...")
 
 </div>
 
@@ -364,194 +364,194 @@ That unresolved tension explains why the Heflin sequence still appears in discus
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ceQL3QPOP08" title="Ep. 9 | The Basement Office | World War II UFOs, Antarctica and Kecksburg Crash | New York Post" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ceQL3QPOP08" target="_blank" rel="noopener noreferrer">Ep. 9 | The Basement Office | World War II UFOs, Antarctica and Kecksburg Crash | New York Post</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 916.7K &middot; Uploaded: May 2020 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ceQL3QPOP08" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ceQL3QPOP08">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Smoke Ring Photo Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Smoke Ring Photo Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Summarizes the photographic sequence and contrasts smoke-ring interpretations with witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Summarizes the photographic sequence and contrasts smoke-ring interpretations with witness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Details why high-speed maneuvers, when interpreted by observers, are prone to extreme subjective distortion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details why high-speed maneuvers, when interpreted by observers, are prone to extreme subjective distortion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches investigative methodologies for assessing how atmospheric phenomena—mirages, light reflections—mislead observers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches investigative methodologies for assessing how atmospheric phenomena—mirages, light reflections—mislead observers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Documents how investigative bureaus balanced pilot/witness testimony against corroborating photographic metadata.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents how investigative bureaus balanced pilot/witness testimony against corroborating photographic metadata.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="photo-sequence-why-the-smoke-ring-photo-still-matters-rex-heflin-photographs-1965-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ That unresolved tension explains why the Heflin sequence still appears in discus
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ That unresolved tension explains why the Heflin sequence still appears in discus
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ That unresolved tension explains why the Heflin sequence still appears in discus
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ That unresolved tension explains why the Heflin sequence still appears in discus
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ That unresolved tension explains why the Heflin sequence still appears in discus
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,132 +757,132 @@ That unresolved tension explains why the Heflin sequence still appears in discus
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: yumpu.com  
    Title: reanalysis of the 1965 heflin ufo photos society for scientific  
-   Link: <a href="https://www.yumpu.com/en/document/view/43994836/reanalysis-of-the-1965-heflin-ufo-photos-society-for-scientific-" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/43994836/reanalysis-of-the-1965-heflin-ufo-photos-society-for-scientific-</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reanalysis of the 1965 Heflin UFO Photos - Society for...6 Apr 2014 — The presence &lt;strong&gt;of&lt;/strong&gt; smoke in &lt;strong&gt;Heflin&lt;/str...</p></details>
+   Link:<a href="https://www.yumpu.com/en/document/view/43994836/reanalysis-of-the-1965-heflin-ufo-photos-society-for-scientific-" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/43994836/reanalysis-of-the-1965-heflin-ufo-photos-society-for-scientific-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reanalysis of the 1965 Heflin UFO Photos - Society for...6 Apr 2014 — The presence &lt;strong&gt;of&lt;/strong&gt; smoke in &lt;strong&gt;Heflin&lt;/str...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/doc/164052774/Ufo-Photographs-Portraits-of-a-Myth" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/164052774/Ufo-Photographs-Portraits-of-a-Myth</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rex Heflin UFO Photo Analysis | PDF | Young AdultShortly after noon, August 3, 1965, Rex Heflin, a highway traffic inspector, took...</p></details>
+   Link:<a href="https://www.scribd.com/doc/164052774/Ufo-Photographs-Portraits-of-a-Myth" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/164052774/Ufo-Photographs-Portraits-of-a-Myth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rex Heflin UFO Photo Analysis | PDF | Young AdultShortly after noon, August 3, 1965, Rex Heflin, a highway traffic inspector, took...</p></details>
    Published: August 3, 1965  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/203819557634111/posts/213089686707098/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/203819557634111/posts/213089686707098/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook# The Rex Heflin Photos ## Case Synopsis: On August 3, 1965...&quot; And finally, the smoke ring in photo #4 was explained as follow...</p></details>
+   Link:<a href="https://www.facebook.com/groups/203819557634111/posts/213089686707098/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/203819557634111/posts/213089686707098/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook# The Rex Heflin Photos ## Case Synopsis: On August 3, 1965...&quot; And finally, the smoke ring in photo #4 was explained as follow...</p></details>
    Published: August 3, 1965  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: in 1965 rex heflin saw this and took four photos  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/fe1q6u/in_1965_rex_heflin_saw_this_and_took_four_photos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/fe1q6u/in_1965_rex_heflin_saw_this_and_took_four_photos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5, 2020 — The photos were deemed a &quot;hoax&quot; by Blue Book, but the USAF investigator deemed them legitimate. A later 2000 analys...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/fe1q6u/in_1965_rex_heflin_saw_this_and_took_four_photos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/fe1q6u/in_1965_rex_heflin_saw_this_and_took_four_photos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5, 2020 — The photos were deemed a &quot;hoax&quot; by Blue Book, but the USAF investigator deemed them legitimate. A later 2000 analys...</p></details>
    Published: March 5, 2020  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/bmft9d/heflin_photos_genuine/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/bmft9d/heflin_photos_genuine/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/bmft9d/heflin_photos_genuine/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/bmft9d/heflin_photos_genuine/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ochistory/posts/7336076523088422/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ochistory/posts/7336076523088422/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot; Rex Heflin had...Rex Heflin UFO Photographs Date: August 3, 1965 Location: Santa Ana, California, United States Rex Heflin, an Orange...</p></details>
+   Link:<a href="https://www.facebook.com/groups/ochistory/posts/7336076523088422/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ochistory/posts/7336076523088422/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot; Rex Heflin had...Rex Heflin UFO Photographs Date: August 3, 1965 Location: Santa Ana, California, United States Rex Heflin, an Orange...</p></details>
    Published: August 3, 1965  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/811161717777571/posts/1083617330532007/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/811161717777571/posts/1083617330532007/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Iconic UFO image captured in Orange CountyOn August 3, 1965, around noon, Rex Heflin, a 38-year- old highway maintenance engineer, captur...</p></details>
+   Link:<a href="https://www.facebook.com/groups/811161717777571/posts/1083617330532007/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/811161717777571/posts/1083617330532007/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iconic UFO image captured in Orange CountyOn August 3, 1965, around noon, Rex Heflin, a 38-year- old highway maintenance engineer, captur...</p></details>
    Published: August 3, 1965  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1500395587519058/posts/1805343207024293/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1500395587519058/posts/1805343207024293/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Iconic UFO image captured in Orange CountyOn August 3, 1965, around noon, Rex Heflin, a 38-year- old highway maintenance engineer, captur...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1500395587519058/posts/1805343207024293/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1500395587519058/posts/1805343207024293/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iconic UFO image captured in Orange CountyOn August 3, 1965, around noon, Rex Heflin, a 38-year- old highway maintenance engineer, captur...</p></details>
    Published: August 3, 1965  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/7312677382079706/posts/26771237189130435/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/7312677382079706/posts/26771237189130435/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On August 3, 1965, around noon, Rex Heflin, a 38-year17 Feb 2026 — &quot; And finally, the smoke ring in photo #4 was explained as follows: Sm...</p></details>
+   Link:<a href="https://www.facebook.com/groups/7312677382079706/posts/26771237189130435/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/7312677382079706/posts/26771237189130435/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On August 3, 1965, around noon, Rex Heflin, a 38-year17 Feb 2026 — &quot; And finally, the smoke ring in photo #4 was explained as follows: Sm...</p></details>
    Published: August 3, 1965  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scribd.com  
    Title: JOURNAL of Scientific  
-   Link: <a href="https://www.scribd.com/document/78205127/Journal-of-Scientific-Exploration-Volume-14-Number-1-4" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/78205127/Journal-of-Scientific-Exploration-Volume-14-Number-1-4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploration - Volume 14: Number 1-4Journal of Scientific Exploration- Volume 14: Number 1-4 - Free download as PDF File (.pdf), Text File...</p></details>
+   Link:<a href="https://www.scribd.com/document/78205127/Journal-of-Scientific-Exploration-Volume-14-Number" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/78205127/Journal-of-Scientific-Exploration-Volume-14-Number</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploration - Volume 14: Number 1-4Journal of Scientific Exploration- Volume 14: Number 1-4 - Free download as PDF File (.pdf), Text File...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tustinhistory.com  
    Title: Reanalysis of the 1965 Heflin UFO Photos Society for Scientific  
-   Link: <a href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — Heflin drove north on Myford R...</p></details>
+   Link:<a href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — Heflin drove north on Myford R...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: threedollarkit.weebly.com  
-   Link: <a href="https://threedollarkit.weebly.com/blog/all-aboard-with-rex-heflin" target="_blank" rel="noopener noreferrer nofollow">https://threedollarkit.weebly.com/blog/all-aboard-with-rex-heflin</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Three-Dollar KitAll Aboard with Rex HeflinEdit: I&#x27;ve written about the fourth photo (the smoke ring) here. References. ​Druffel, A., Wood...</p></details>
+   Link:<a href="https://threedollarkit.weebly.com/blog/all-aboard-with-rex-heflin" target="_blank" rel="noopener noreferrer nofollow">https://threedollarkit.weebly.com/blog/all-aboard-with-rex-heflin</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Three-Dollar KitAll Aboard with Rex HeflinEdit: I&#x27;ve written about the fourth photo (the smoke ring) here. References. ​Druffel, A., Wood...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dictionary.com  
-   Link: <a href="https://www.dictionary.com/browse/condon" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/condon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; MeaningCONDON definition: Edward Uhler 1902–74, U.S. physicist. See examples of Condon used in a sentence...</p></details>
+   Link:<a href="https://www.dictionary.com/browse/condon" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/condon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; MeaningCONDON definition: Edward Uhler 1902–74, U.S. physicist. See examples of Condon used in a sentence...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: familysearch.org  
-   Link: <a href="https://www.familysearch.org/en/surname?surname=CONDON" target="_blank" rel="noopener noreferrer nofollow">https://www.familysearch.org/en/surname?surname=CONDON</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Family HistoryCondon Name Meaning. Irish (Cork, Limerick, and Tipperary, of Anglo-Norman origin): Anglicized form of Gaelic Condún...</p></details>
+   Link:<a href="https://www.familysearch.org/en/surname?surname=CONDON" target="_blank" rel="noopener noreferrer nofollow">https://www.familysearch.org/en/surname?surname=CONDON</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Family HistoryCondon Name Meaning. Irish (Cork, Limerick, and Tipperary, of Anglo-Norman origin): Anglicized form of Gaelic Condún...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: mauritius-images.com  
-   Link: <a href="https://www.mauritius-images.com/en/asset/ME-PI-6259498_mauritius_images_image_number_11922130_on-3rd-august-1965-rex-heflin-took-three-photographs-of-a-ufo-using-a-polaroid-camera-through-the-windscreen-of-his-truck-he-was-a-highway-traffic-inspector-near-santa-ana-california-usa-a-fourth-photograph-shows-a-smoke-ring-which-the-ufo-allegedly-left-when-it-departed-investigators-claim-that-this-case-is-a-hoax-the-ufo-being-a-model-on-a-string" target="_blank" rel="noopener noreferrer nofollow">https://www.mauritius-images.com/en/asset/ME-PI-6259498_mauritius_images_image_number_11922130_on-3rd-august-1965-rex-heflin-took-three-photographs-of-a-ufo-using-a-polaroid-camera-through-the-windscreen-of-his-truck-he-was-a-highway-traffic-inspector-near-santa-ana-california-usa-a-fourth-photograph-shows-a-smoke-ring-which-the-ufo-allegedly-left-when-it-departed-investigators-claim-that-this-case-is-a-hoax-the-ufo-being-a-model-on-a-string</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On 3Rd August 1965,Rex Heflin Took Three Photographs...On 3Rd August 1965,Rex Heflin Took Three Photographs Of A Ufo,Using A Polaroid Ca...</p></details>
+   Link:<a href="https://www.mauritius-images.com/en/asset/ME-PI-6259498_mauritius_images_image_number_11922130_on-3rd-august-1965-rex-heflin-took-three-photographs-of-a-ufo-using-a-polaroid-camera-through-the-windscreen-of-his-truck-he-was-a-highway-traffic-inspector-near-santa-ana-california-usa-a-fourth-photograph-shows-a-smoke-ring-which-the-ufo-allegedly-left-when-it-departed-investigators-claim-that-this-case-is-a-hoax-the-ufo-being-a-model-on-a-string" target="_blank" rel="noopener noreferrer nofollow">https://www.mauritius-images.com/en/asset/ME-PI-6259498_mauritius_images_image_number_11922130_on-3rd-august-1965-rex-heflin-took-three-photographs-of-a-ufo-using-a-polaroid-camera-through-the-windscreen-of-his-truck-he-was-a-highway-traffic-inspector-near-santa-ana-california-usa-a-fourth-photograph-shows-a-smoke-ring-which-the-ufo-allegedly-left-when-it-departed-investigators-claim-that-this-case-is-a-hoax-the-ufo-being-a-model-on-a-string</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On 3Rd August 1965,Rex Heflin Took Three Photographs...On 3Rd August 1965,Rex Heflin Took Three Photographs Of A Ufo,Using A Polaroid Ca...</p></details>
    Published: august 1965  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: condonengineering.ie  
-   Link: <a href="https://condonengineering.ie/" target="_blank" rel="noopener noreferrer nofollow">https://condonengineering.ie/</a>  
+   Link:<a href="https://condonengineering.ie/" target="_blank" rel="noopener noreferrer nofollow">https://condonengineering.ie/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/reports/Goodbye_Rex_Heflin.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/Goodbye_Rex_Heflin.pdf</a>  
+   Link:<a href="https://www.nicap.org/reports/Goodbye_Rex_Heflin.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/Goodbye_Rex_Heflin.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: mauritius-images.com  
-   Link: <a href="https://www.mauritius-images.com/en/asset/ME-PI-6259503_mauritius_images_image_number_11922092_on-3rd-august-1965-rex-heflin-took-three-photographs-of-a-ufo-using-a-polaroid-camera-through-the-windscreen-of-his-truck-he-was-a-highway-traffic-inspector-near-santa-ana-california-usa-a-fourth-photograph-shows-a-smoke-ring-which-the-ufo-allegedly-left-when-it-departed-investigators-claim-that-this-case-is-a-hoax-the-ufo-being-a-model-on-a-string-c-topfoto-fortean" target="_blank" rel="noopener noreferrer nofollow">https://www.mauritius-images.com/en/asset/ME-PI-6259503_mauritius_images_image_number_11922092_on-3rd-august-1965-rex-heflin-took-three-photographs-of-a-ufo-using-a-polaroid-camera-through-the-windscreen-of-his-truck-he-was-a-highway-traffic-inspector-near-santa-ana-california-usa-a-fourth-photograph-shows-a-smoke-ring-which-the-ufo-allegedly-left-when-it-departed-investigators-claim-that-this-case-is-a-hoax-the-ufo-being-a-model-on-a-string-c-topfoto-fortean</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On 3rd August 1965, Rex Heflin took three photographs of...A fourth photograph shows a smoke ring which the UFO allegedly left when it d...</p></details>
+   Link:<a href="https://www.mauritius-images.com/en/asset/ME-PI-6259503_mauritius_images_image_number_11922092_on-3rd-august-1965-rex-heflin-took-three-photographs-of-a-ufo-using-a-polaroid-camera-through-the-windscreen-of-his-truck-he-was-a-highway-traffic-inspector-near-santa-ana-california-usa-a-fourth-photograph-shows-a-smoke-ring-which-the-ufo-allegedly-left-when-it-departed-investigators-claim-that-this-case-is-a-hoax-the-ufo-being-a-model-on-a-string-c-topfoto-fortean" target="_blank" rel="noopener noreferrer nofollow">https://www.mauritius-images.com/en/asset/ME-PI-6259503_mauritius_images_image_number_11922092_on-3rd-august-1965-rex-heflin-took-three-photographs-of-a-ufo-using-a-polaroid-camera-through-the-windscreen-of-his-truck-he-was-a-highway-traffic-inspector-near-santa-ana-california-usa-a-fourth-photograph-shows-a-smoke-ring-which-the-ufo-allegedly-left-when-it-departed-investigators-claim-that-this-case-is-a-hoax-the-ufo-being-a-model-on-a-string-c-topfoto-fortean</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On 3rd August 1965, Rex Heflin took three photographs of...A fourth photograph shows a smoke ring which the UFO allegedly left when it d...</p></details>
    Published: August 1965  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: mauritius-images.com  
-   Link: <a href="https://www.mauritius-images.com/en/asset/ME-PI-6259539_mauritius_images_image_number_11922048_on-3rd-august-1965-rex-heflin-took-three-photographs-of-a-ufo-using-a-polaroid-camera-through-the-windscreen-of-his-truck-he-was-a-highway-traffic-inspector-near-santa-ana-california-usa-a-fourth-photograph-shows-a-smoke-ring-which-the-ufo-allegedly-left-when-it-departed-investigators-claim-that-this-case-is-a-hoax-the-ufo-being-a-model-on-a-string-c-topfoto-fortean" target="_blank" rel="noopener noreferrer nofollow">https://www.mauritius-images.com/en/asset/ME-PI-6259539_mauritius_images_image_number_11922048_on-3rd-august-1965-rex-heflin-took-three-photographs-of-a-ufo-using-a-polaroid-camera-through-the-windscreen-of-his-truck-he-was-a-highway-traffic-inspector-near-santa-ana-california-usa-a-fourth-photograph-shows-a-smoke-ring-which-the-ufo-allegedly-left-when-it-departed-investigators-claim-that-this-case-is-a-hoax-the-ufo-being-a-model-on-a-string-c-topfoto-fortean</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On 3rd August 1965, Rex Heflin took three photographs...A fourth photograph shows a smoke ring which the UFO allegedly left when it depa...</p></details>
+   Link:<a href="https://www.mauritius-images.com/en/asset/ME-PI-6259539_mauritius_images_image_number_11922048_on-3rd-august-1965-rex-heflin-took-three-photographs-of-a-ufo-using-a-polaroid-camera-through-the-windscreen-of-his-truck-he-was-a-highway-traffic-inspector-near-santa-ana-california-usa-a-fourth-photograph-shows-a-smoke-ring-which-the-ufo-allegedly-left-when-it-departed-investigators-claim-that-this-case-is-a-hoax-the-ufo-being-a-model-on-a-string-c-topfoto-fortean" target="_blank" rel="noopener noreferrer nofollow">https://www.mauritius-images.com/en/asset/ME-PI-6259539_mauritius_images_image_number_11922048_on-3rd-august-1965-rex-heflin-took-three-photographs-of-a-ufo-using-a-polaroid-camera-through-the-windscreen-of-his-truck-he-was-a-highway-traffic-inspector-near-santa-ana-california-usa-a-fourth-photograph-shows-a-smoke-ring-which-the-ufo-allegedly-left-when-it-departed-investigators-claim-that-this-case-is-a-hoax-the-ufo-being-a-model-on-a-string-c-topfoto-fortean</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On 3rd August 1965, Rex Heflin took three photographs...A fourth photograph shows a smoke ring which the UFO allegedly left when it depa...</p></details>
    Published: August 1965  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: collinsdictionary.com  
    Title: CONDO N (EDWARD U(HLER)) definition and meaning1  
-   Link: <a href="https://www.collinsdictionary.com/dictionary/english/condon" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/condon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(of an offence) capable of being overlooked or forgiven 2. law (esp of the offence of a spouse, usually adultery) capable of being pardon...</p></details>
+   Link:<a href="https://www.collinsdictionary.com/dictionary/english/condon" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/condon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(of an offence) capable of being overlooked or forgiven 2. law (esp of the offence of a spouse, usually adultery) capable of being pardon...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: find-and-update.company-information.service.gov.uk  
    Title: company-information.service.gov.uk CONDO N SERVICES LIMITED overview  
-   Link: <a href="https://find-and-update.company-information.service.gov.uk/company/06605496" target="_blank" rel="noopener noreferrer nofollow">https://find-and-update.company-information.service.gov.uk/company/06605496</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>S LIMITED overview - Companies HouseCONDON SERVICES LIMITED - Free company information from Companies House including registered o...</p></details>
+   Link:<a href="https://find-and-update.company-information.service.gov.uk/company/06605496" target="_blank" rel="noopener noreferrer nofollow">https://find-and-update.company-information.service.gov.uk/company/06605496</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>S LIMITED overview - Companies HouseCONDON SERVICES LIMITED - Free company information from Companies House including registered o...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=z25NfZ0Ea9c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z25NfZ0Ea9c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. 1 | USS Nimitz, Tic Tac UFO, AATIP, FAA, the Navy and Pentagon | The Basement Office...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=z25NfZ0Ea9c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z25NfZ0Ea9c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. 1 | USS Nimitz, Tic Tac UFO, AATIP, FAA, the Navy and Pentagon | The Basement Office...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/237243956_Reanalysis_of_the_1965_Heflin_UFO_Photos" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237243956_Reanalysis_of_the_1965_Heflin_UFO_Photos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reanalysis of the 1965 Heflin UFO PhotosThe Heflin photos, taken in Santa Ana, California, in 1965 were regarded as most prob...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/237243956_Reanalysis_of_the_1965_Heflin_UFO_Photos" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237243956_Reanalysis_of_the_1965_Heflin_UFO_Photos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reanalysis of the 1965 Heflin UFO PhotosThe Heflin photos, taken in Santa Ana, California, in 1965 were regarded as most prob...</p></details>

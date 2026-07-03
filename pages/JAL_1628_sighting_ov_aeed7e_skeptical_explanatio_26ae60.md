@@ -248,7 +248,7 @@ image: /assets/images/JAL_1628_sighting_ov_aeed7e_skeptical_explanatio_26ae60-Il
 
 ## Introduction
 
-The sceptical case against the JAL 1628 sighting does not rest on a claim that the crew invented the event. Even critics generally accept that Captain Kenju Terauchi and the other crew members sincerely reported unusual lights over Alaska in November 1986. The dispute centres instead on interpretation: whether the encounter involved a structured unknown craft, or a combination of astronomical objects, atmospheric effects, radar ambiguity and expectation-driven misidentification. The most important challenge to the dramatic “mothership” narrative is that independent confirmation remained weak. Nearby aircraft failed to visually confirm the object, later FAA radar reviews concluded that recorded data did not verify unknown traffic, and investigators such as Philip J. Klass argued that Jupiter and other celestial lights offered a more ordinary explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p19.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Terauchi&#x27;s Marvelous &#x27;Spaceship&#x27;Philip J. Klass investigated, and soon CSICOP issued a press release, written by Klass (p. 7):. At the ti...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Japan Air Lines Cargo Flight 1628</span><span class="citation-popover-snippet">Japan Air Lines Cargo Flight 1628</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault DocumentsUntitledJapan Airlines Flight 1628 on November 18, 1986. Radar data recorded by Anchorage Center does not confir...</span><span class="citation-popover-meta">Published: November 18, 1986</span></span></span>
+The sceptical case against the JAL 1628 sighting does not rest on a claim that the crew invented the event. Even critics generally accept that Captain Kenju Terauchi and the other crew members sincerely reported unusual lights over Alaska in November 1986. The dispute centres instead on interpretation: whether the encounter involved a structured unknown craft, or a combination of astronomical objects, atmospheric effects, radar ambiguity and expectation-driven misidentification. The most important challenge to the dramatic “mothership” narrative is that independent confirmation remained weak. Nearby aircraft failed to visually confirm the object, later FAA radar reviews concluded that recorded data did not verify unknown traffic, and investigators such as Philip J. Klass argued that Jupiter and other celestial lights offered a more ordinary explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p19.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Terauchi&#x27;s Marvelous &#x27;Spaceship&#x27;Philip J. Klass investigated, and soon CSICOP issued a press release, written by Klass (p. 7):. At the ti...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Japan Air Lines Cargo Flight 1628</span><span class="citation-popover-snippet">Japan Air Lines Cargo Flight 1628</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault DocumentsUntitledJapan Airlines Flight 1628 on November 18, 1986. Radar data recorded by Anchorage Center does not confir...</span><span class="citation-popover-meta">Published: November 18, 1986</span></span></span>
 
 <img src="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e_skeptical_explanatio_26ae60-Illustration-1-dark.svg" | relative_url }}" alt="Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e_skeptical_explanatio_26ae60-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e_skeptical_explanatio_26ae60-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 At the same time, the case remains controversial because the sceptical explanations are themselves incomplete. They can account for parts of the sighting more easily than others, but they do not entirely remove the difficulty posed by multiple witnesses, onboard radar reports and the real-time concern shown by air-traffic controllers during the event. That unresolved tension is one reason the incident still occupies a central place in debates over aviation UFO reports.
@@ -257,11 +257,11 @@ At the same time, the case remains controversial because the sceptical explanati
 
 One of the strongest sceptical points is simple: other aircraft in the area did not see what JAL 1628 claimed to be following it.
 
-During the encounter, Anchorage controllers asked another aircraft, identified in records as a United Airlines flight, to look for the reported object. A nearby US Air Force C-130 was also queried. Neither crew reported seeing unusual traffic either visually or on radar. FAA radar personnel in Fairbanks likewise stated that they observed only the JAL aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Japan Air Lines Cargo Flight 1628</span><span class="citation-popover-snippet">Japan Air Lines Cargo Flight 1628</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/jal1628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFAA Japan Air Lines Flight 1628 Records30 Apr 2023 — Anchorage Air Traffic Control obliged and requested an oncoming Unit...</span></span></span>
+During the encounter, Anchorage controllers asked another aircraft, identified in records as a United Airlines flight, to look for the reported object. A nearby US Air Force C-130 was also queried. Neither crew reported seeing unusual traffic either visually or on radar. FAA radar personnel in Fairbanks likewise stated that they observed only the JAL aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Japan Air Lines Cargo Flight 1628</span><span class="citation-popover-snippet">Japan Air Lines Cargo Flight 1628</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/jal1628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFAA Japan Air Lines Flight 1628 Records30 Apr 2023 — Anchorage Air Traffic Control obliged and requested an oncoming Unit...</span></span></span>
 
 That absence of corroboration matters because Terauchi’s later descriptions became extremely dramatic. He described a huge craft, at times claiming it was larger than an aircraft carrier. Critics argue that an object of that apparent scale, remaining near a Boeing 747 for an extended period, should have been visible to at least some other observers under clear enough conditions for the JAL crew to track lights and apparent structure.
 
-Sceptics also note that the strongest and most elaborate descriptions came primarily from Terauchi himself. The other two crew members gave more restrained accounts. According to later reviews of the FAA interview transcripts, First Officer Takanori Tamefuji described seeing lights but struggled to distinguish them clearly from stars when viewed head-on. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/what-really-happened-to-japan-airlines-flight-1628-in-1986/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">what really happened to japan airlines flight 1628 in 1986</span><span class="citation-popover-snippet">The DebriefWhat Really Happened to Japan Airlines Flight 1628 in...7 Jun 2021 — On November 17th, 1986, Japan Airlines flight 1628 becam...</span></span></span>
+Sceptics also note that the strongest and most elaborate descriptions came primarily from Terauchi himself. The other two crew members gave more restrained accounts. According to later reviews of the FAA interview transcripts, First Officer Takanori Tamefuji described seeing lights but struggled to distinguish them clearly from stars when viewed head-on.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/what-really-happened-to-japan-airlines-flight-1628-in-1986/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">what really happened to japan airlines flight 1628 in 1986</span><span class="citation-popover-snippet">The DebriefWhat Really Happened to Japan Airlines Flight 1628 in...7 Jun 2021 — On November 17th, 1986, Japan Airlines flight 1628 becam...</span></span></span>
 
 This does not mean the other crew members saw nothing. It does, however, weaken the claim that all three independently observed a clearly structured craft. Critics argue that the incident evolved from a shared report of unusual lights into a far more elaborate “mothership” narrative largely driven by the captain’s interpretation.
 
@@ -271,11 +271,11 @@ This does not mean the other crew members saw nothing. It does, however, weaken 
 
 The best-known sceptical explanation came from aviation writer and UFO critic Philip J. Klass. His argument focused on the night sky conditions over Alaska during the encounter.
 
-Klass noted that Jupiter was exceptionally bright and positioned low on the horizon in the same general direction as the reported lights. Mars was also visible nearby. He argued that under twilight conditions, especially from a high-altitude cockpit with cloud layers and ice haze below, bright planets could appear unusually large, luminous or apparently level with the aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Japan Air Lines Cargo Flight 1628</span><span class="citation-popover-snippet">Japan Air Lines Cargo Flight 1628</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p19.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Terauchi&#x27;s Marvelous &#x27;Spaceship&#x27;Philip J. Klass investigated, and soon CSICOP issued a press release, written by Klass (p. 7):. At the ti...</span></span></span>
+Klass noted that Jupiter was exceptionally bright and positioned low on the horizon in the same general direction as the reported lights. Mars was also visible nearby. He argued that under twilight conditions, especially from a high-altitude cockpit with cloud layers and ice haze below, bright planets could appear unusually large, luminous or apparently level with the aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Japan Air Lines Cargo Flight 1628</span><span class="citation-popover-snippet">Japan Air Lines Cargo Flight 1628</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p19.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Terauchi&#x27;s Marvelous &#x27;Spaceship&#x27;Philip J. Klass investigated, and soon CSICOP issued a press release, written by Klass (p. 7):. At the ti...</span></span></span>
 
 A key part of the argument involved relative motion illusion. A bright celestial object viewed from a moving aircraft can appear to “pace” the plane because the object remains fixed relative to distant space while nearer terrain and clouds move beneath it. Pilots are trained to avoid this kind of misinterpretation, but it is not unheard of, particularly at night and over featureless terrain.
 
-Klass also stressed that Jupiter’s low elevation could create a false sense that the object occupied the same altitude as the aircraft. He argued that atmospheric scintillation — the same effect that makes stars appear to flicker — combined with thin cloud and ice-crystal layers could produce changing colours and apparent motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p19.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Terauchi&#x27;s Marvelous &#x27;Spaceship&#x27;Philip J. Klass investigated, and soon CSICOP issued a press release, written by Klass (p. 7):. At the ti...</span></span></span>
+Klass also stressed that Jupiter’s low elevation could create a false sense that the object occupied the same altitude as the aircraft. He argued that atmospheric scintillation — the same effect that makes stars appear to flicker — combined with thin cloud and ice-crystal layers could produce changing colours and apparent motion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p19.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Terauchi&#x27;s Marvelous &#x27;Spaceship&#x27;Philip J. Klass investigated, and soon CSICOP issued a press release, written by Klass (p. 7):. At the ti...</span></span></span>
 
 The sceptical argument became stronger because some parts of the [crew testimony]({{ 'crew-accounts/' | relative_url }}) fit astronomical misidentification better than a structured craft. Descriptions of lights changing intensity, disappearing and reappearing, or seeming stationary at times are easier to reconcile with celestial bodies viewed through atmospheric distortion than with a massive nearby vehicle.
 
@@ -289,9 +289,9 @@ Atmospheric conditions over Alaska form another major part of the sceptical inte
 
 Investigators pointed to thin cloud layers, reflections and ice-crystal effects as possible contributors to the sighting. High-altitude ice crystals can scatter and refract bright light sources, producing halos, elongated glows, apparent movement and sudden brightness changes. In aviation environments, these effects can become particularly confusing because cockpit windows themselves introduce reflections and layered visual cues.
 
-FAA-linked sceptical commentary later cited another UFO report made by Terauchi in early 1987 that was eventually attributed to village lights diffused through ice-crystal cloud layers. Critics used that later event to argue that the captain may have been unusually susceptible to interpreting ambiguous night lights as structured aerial objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Japan Air Lines Cargo Flight 1628</span><span class="citation-popover-snippet">Japan Air Lines Cargo Flight 1628</span></span></span>
+FAA-linked sceptical commentary later cited another UFO report made by Terauchi in early 1987 that was eventually attributed to village lights diffused through ice-crystal cloud layers. Critics used that later event to argue that the captain may have been unusually susceptible to interpreting ambiguous night lights as structured aerial objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Japan Air Lines Cargo Flight 1628</span><span class="citation-popover-snippet">Japan Air Lines Cargo Flight 1628</span></span></span>
 
-This became controversial because FAA documents reportedly described Terauchi as a “UFO repeater”, noting earlier and later reports from the same pilot. Supporters of the sighting view this label as dismissive and unfair. Sceptics, by contrast, argue that repeated unusual sightings by the same observer can indicate a tendency toward interpretive bias. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Japan Air Lines Cargo Flight 1628</span><span class="citation-popover-snippet">Japan Air Lines Cargo Flight 1628</span></span></span>
+This became controversial because FAA documents reportedly described Terauchi as a “UFO repeater”, noting earlier and later reports from the same pilot. Supporters of the sighting view this label as dismissive and unfair. Sceptics, by contrast, argue that repeated unusual sightings by the same observer can indicate a tendency toward interpretive bias.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Japan Air Lines Cargo Flight 1628</span><span class="citation-popover-snippet">Japan Air Lines Cargo Flight 1628</span></span></span>
 
 The broader sceptical position is not necessarily that the crew hallucinated or fabricated anything. Instead, it proposes a layered perceptual chain:
 
@@ -312,15 +312,15 @@ Within that framework, a sincere but mistaken report becomes possible without re
 
 Radar evidence is often presented as the strongest support for the JAL 1628 case, but it is also one of the most disputed aspects.
 
-During the incident, controllers and military personnel discussed intermittent radar returns near the aircraft. At the time, some controllers believed they might be seeing additional traffic associated with the crew’s report. This real-time uncertainty helped make the case famous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Radar review fails to confirm UFO</span><span class="citation-popover-snippet">Radar review fails to confirm UFO - UPI Archives8 Jan 1987 — Federal investigators said a review of radar tapes failed to show a UFO s...</span></span></span>
+During the incident, controllers and military personnel discussed intermittent radar returns near the aircraft. At the time, some controllers believed they might be seeing additional traffic associated with the crew’s report. This real-time uncertainty helped make the case famous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Radar review fails to confirm UFO</span><span class="citation-popover-snippet">Radar review fails to confirm UFO - UPI Archives8 Jan 1987 — Federal investigators said a review of radar tapes failed to show a UFO s...</span></span></span>
 
-Later analysis, however, became far more cautious. FAA review memoranda concluded that Anchorage Center radar data did “not confirm the presence” of the reported traffic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault DocumentsUntitledJapan Airlines Flight 1628 on November 18, 1986. Radar data recorded by Anchorage Center does not confir...</span><span class="citation-popover-meta">Published: November 18, 1986</span></span></span>
+Later analysis, however, became far more cautious. FAA review memoranda concluded that Anchorage Center radar data did “not confirm the presence” of the reported traffic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault DocumentsUntitledJapan Airlines Flight 1628 on November 18, 1986. Radar data recorded by Anchorage Center does not confir...</span><span class="citation-popover-meta">Published: November 18, 1986</span></span></span>
 
-Subsequent explanations proposed that the apparent secondary radar target may have resulted from radar processing artefacts or “split images” associated with the 747 itself. According to FAA statements reported after the investigation, what initially appeared to be a second object was eventually interpreted as a duplicated or erroneous return rather than an independently tracked craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Controller confirms UFO sighting</span><span class="citation-popover-snippet">Controller confirms UFO sighting - UPI Archives30 Dec 1986 — An air controller said radar showed a mysterious object following a Japan...</span></span></span>
+Subsequent explanations proposed that the apparent secondary radar target may have resulted from radar processing artefacts or “split images” associated with the 747 itself. According to FAA statements reported after the investigation, what initially appeared to be a second object was eventually interpreted as a duplicated or erroneous return rather than an independently tracked craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Controller confirms UFO sighting</span><span class="citation-popover-snippet">Controller confirms UFO sighting - UPI Archives30 Dec 1986 — An air controller said radar showed a mysterious object following a Japan...</span></span></span>
 
 This distinction is crucial. The existence of ambiguous radar blips is not the same as confirmed tracking of a solid object. Radar systems, especially in difficult coverage regions and under unusual atmospheric conditions, can produce clutter, anomalous returns and temporary false targets.
 
-Sceptics therefore argue that the radar story changed over time in public retellings. Early media reports often framed the event as “radar-confirmed”. The later FAA interpretation was narrower: controllers saw unusual returns temporarily, but investigators concluded that the data did not reliably establish unknown traffic shadowing the aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Radar review fails to confirm UFO</span><span class="citation-popover-snippet">Radar review fails to confirm UFO - UPI Archives8 Jan 1987 — Federal investigators said a review of radar tapes failed to show a UFO s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Controller confirms UFO sighting</span><span class="citation-popover-snippet">Controller confirms UFO sighting - UPI Archives30 Dec 1986 — An air controller said radar showed a mysterious object following a Japan...</span></span></span>
+Sceptics therefore argue that the radar story changed over time in public retellings. Early media reports often framed the event as “radar-confirmed”. The later FAA interpretation was narrower: controllers saw unusual returns temporarily, but investigators concluded that the data did not reliably establish unknown traffic shadowing the aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Radar review fails to confirm UFO</span><span class="citation-popover-snippet">Radar review fails to confirm UFO - UPI Archives8 Jan 1987 — Federal investigators said a review of radar tapes failed to show a UFO s...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Controller confirms UFO sighting</span><span class="citation-popover-snippet">Controller confirms UFO sighting - UPI Archives30 Dec 1986 — An air controller said radar showed a mysterious object following a Japan...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DXNfyOVoi7g" title="Japan Airlines Flight 1628 - UFO Incident Animation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DXNfyOVoi7g" target="_blank" rel="noopener noreferrer">Japan Airlines Flight 1628 - UFO Incident Animation</a></p><p class="youtube-embed-meta">Channel: Aviation Land &middot; Views: 286.2K &middot; Uploaded: January 2018 &middot; Length: 1 minute 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DXNfyOVoi7g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DXNfyOVoi7g">Open on YouTube</a></p></div></div></div>
 
@@ -328,7 +328,7 @@ Sceptics therefore argue that the radar story changed over time in public retell
 
 Another sceptical line of criticism focuses on inconsistencies between early transcripts and later retellings.
 
-Researchers reviewing the FAA files noted discrepancies regarding whether the object remained visible during the aircraft’s 360-degree turn. Some later versions of the story implied the unknown object stayed with the aircraft throughout the manoeuvre. Yet sceptics pointed to radio transcripts suggesting Terauchi at one stage told controllers he had lost sight of it after the turn. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Japan Air Lines Cargo Flight 1628</span><span class="citation-popover-snippet">Japan Air Lines Cargo Flight 1628</span></span></span>
+Researchers reviewing the FAA files noted discrepancies regarding whether the object remained visible during the aircraft’s 360-degree turn. Some later versions of the story implied the unknown object stayed with the aircraft throughout the manoeuvre. Yet sceptics pointed to radio transcripts suggesting Terauchi at one stage told controllers he had lost sight of it after the turn.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Japan Air Lines Cargo Flight 1628</span><span class="citation-popover-snippet">Japan Air Lines Cargo Flight 1628</span></span></span>
 
 Differences also appeared in later interviews conducted separately with crew members. Critics argue that memory drift and repeated retelling gradually increased the dramatic elements of the account.
 
@@ -354,215 +354,215 @@ Several aspects still resist easy dismissal:
 
 These points prevent the case from fitting neatly into a simple “planet mistaken for UFO” narrative.
 
-At the same time, the strongest evidence for an extraordinary craft remains weaker than popular retellings often suggest. Independent visual confirmation failed. Recorded radar data did not conclusively support unknown traffic. Witness descriptions evolved over time. And several key features of the sighting are compatible with known perceptual and atmospheric effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault DocumentsUntitledJapan Airlines Flight 1628 on November 18, 1986. Radar data recorded by Anchorage Center does not confir...</span><span class="citation-popover-meta">Published: November 18, 1986</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Controller confirms UFO sighting</span><span class="citation-popover-snippet">Controller confirms UFO sighting - UPI Archives30 Dec 1986 — An air controller said radar showed a mysterious object following a Japan...</span></span></span>
+At the same time, the strongest evidence for an extraordinary craft remains weaker than popular retellings often suggest. Independent visual confirmation failed. Recorded radar data did not conclusively support unknown traffic. Witness descriptions evolved over time. And several key features of the sighting are compatible with known perceptual and atmospheric effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault DocumentsUntitledJapan Airlines Flight 1628 on November 18, 1986. Radar data recorded by Anchorage Center does not confir...</span><span class="citation-popover-meta">Published: November 18, 1986</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Controller confirms UFO sighting</span><span class="citation-popover-snippet">Controller confirms UFO sighting - UPI Archives30 Dec 1986 — An air controller said radar showed a mysterious object following a Japan...</span></span></span>
 
 That combination — sincere witnesses, ambiguous instrumentation and incomplete corroboration — explains why JAL 1628 continues to divide opinion. For believers, it remains one of aviation’s most compelling UFO encounters. For sceptics, it is a classic example of how extraordinary interpretations can emerge from ordinary lights, imperfect radar and human perception under difficult viewing conditions.
 
 <img src="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e_skeptical_explanatio_26ae60-Illustration-3-dark.svg" | relative_url }}" alt="Explanations illustration 3" data-theme-src-dark="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e_skeptical_explanatio_26ae60-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e_skeptical_explanatio_26ae60-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could Jupiter and Radar Artefacts Explain It?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could Jupiter and Radar Artefacts Explain It?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
-        </h4>
-        <p class="fr-book-author">By Philip J. Klass</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
+</h4>
+<p class="fr-book-author">By Philip J. Klass</p>
         
-        <p class="fr-book-desc">Contains Klass&#x27;s exhaustive analysis detailing how the planet Jupiter and local ice crystal clouds triggered the flight crew&#x27;s visual err...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains Klass&#x27;s exhaustive analysis detailing how the planet Jupiter and local ice crystal clouds triggered the flight crew&#x27;s visual err...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
-        </h4>
-        <p class="fr-book-author">By Guy Lawson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+</h4>
+<p class="fr-book-author">By Guy Lawson</p>
         
-        <p class="fr-book-desc">Presents the case data tracking why air traffic controllers experienced serious real-time anxiety during the Alaska cargo flight.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Presents the case data tracking why air traffic controllers experienced serious real-time anxiety during the Alaska cargo flight.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Deconstructs the psychology of expectation-driven misidentifications during challenging night flight conditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Deconstructs the psychology of expectation-driven misidentifications during challenging night flight conditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Details how FAA and defense agency technical panels cross-check radar tapes to close out public controversy cycles.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details how FAA and defense agency technical panels cross-check radar tapes to close out public controversy cycles.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Japan Air Lines Cargo Flight 1628  
-   Link: <a href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: upi.com  
    Title: Radar review fails to confirm UFO  
-   Link: <a href="https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Radar review fails to confirm UFO - UPI Archives8 Jan 1987 — Federal investigators said a review of radar tapes failed to show a UFO s...</p></details>
+   Link:<a href="https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radar review fails to confirm UFO - UPI Archives8 Jan 1987 — Federal investigators said a review of radar tapes failed to show a UFO s...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/details/jal1628" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/jal1628</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFAA Japan Air Lines Flight 1628 Records30 Apr 2023 — Anchorage Air Traffic Control obliged and requested an oncoming Unit...</p></details>
+   Link:<a href="https://archive.org/details/jal1628" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/jal1628</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFAA Japan Air Lines Flight 1628 Records30 Apr 2023 — Anchorage Air Traffic Control obliged and requested an oncoming Unit...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: upi.com  
    Title: Controller confirms UFO sighting  
-   Link: <a href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Controller confirms UFO sighting - UPI Archives30 Dec 1986 — An air controller said radar showed a mysterious object following a Japan...</p></details>
+   Link:<a href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Controller confirms UFO sighting - UPI Archives30 Dec 1986 — An air controller said radar showed a mysterious object following a Japan...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ekykrn0h7ZE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ekykrn0h7ZE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Japan Airlines Flight 1628 - UFO Incident Animation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ekykrn0h7ZE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ekykrn0h7ZE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Japan Airlines Flight 1628 - UFO Incident Animation...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DXNfyOVoi7g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DXNfyOVoi7g</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting at 35,000 Feet | JAL Cargo Flight 1628...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DXNfyOVoi7g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DXNfyOVoi7g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting at 35,000 Feet | JAL Cargo Flight 1628...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault DocumentsUntitledJapan Airlines Flight 1628 on November 18, 1986. Radar data recorded by Anchorage Center does not confir...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault DocumentsUntitledJapan Airlines Flight 1628 on November 18, 1986. Radar data recorded by Anchorage Center does not confir...</p></details>
    Published: November 18, 1986  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p19.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p19.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Terauchi&#x27;s Marvelous &#x27;Spaceship&#x27;Philip J. Klass investigated, and soon CSICOP issued a press release, written by Klass (p. 7):. At the ti...</p></details>
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p19.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p19.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Terauchi&#x27;s Marvelous &#x27;Spaceship&#x27;Philip J. Klass investigated, and soon CSICOP issued a press release, written by Klass (p. 7):. At the ti...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: thedebrief.org  
    Title: what really happened to japan airlines flight 1628 in 1986  
-   Link: <a href="https://thedebrief.org/what-really-happened-to-japan-airlines-flight-1628-in-1986/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/what-really-happened-to-japan-airlines-flight-1628-in-1986/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefWhat Really Happened to Japan Airlines Flight 1628 in...7 Jun 2021 — On November 17th, 1986, Japan Airlines flight 1628 becam...</p></details>
+   Link:<a href="https://thedebrief.org/what-really-happened-to-japan-airlines-flight-1628-in-1986/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/what-really-happened-to-japan-airlines-flight-1628-in-1986/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefWhat Really Happened to Japan Airlines Flight 1628 in...7 Jun 2021 — On November 17th, 1986, Japan Airlines flight 1628 becam...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-003.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-003.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eek10 Jun 1987 — The FAA has completed its investigation of JAL flight 1628, and does not intend to pursue it any further.&quot; II. Page 25...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-003.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-003.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eek10 Jun 1987 — The FAA has completed its investigation of JAL flight 1628, and does not intend to pursue it any further.&quot; II. Page 25...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-015.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comMemorandumINFORMATION: Transcription concerning the incident involving Japan Airlines Flight 1628 on November 18, 1986 a...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-015.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comMemorandumINFORMATION: Transcription concerning the incident involving Japan Airlines Flight 1628 on November 18, 1986 a...</p></details>
    Published: November 18, 1986  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: over alaska pilots have reported something they cant explainstrange lights pacin  
-   Link: <a href="https://www.facebook.com/ChillsDylan/posts/over-alaska-pilots-have-reported-something-they-cant-explainstrange-lights-pacin/869797606149939/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ChillsDylan/posts/over-alaska-pilots-have-reported-something-they-cant-explainstrange-lights-pacin/869797606149939/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Over Alaska, pilots have reported something they can&#x27;...Japan Airlines Flight 1628 is one of the most well- documented aviation UFO inci...</p></details>
+   Link:<a href="https://www.facebook.com/ChillsDylan/posts/over-alaska-pilots-have-reported-something-they-cant-explainstrange-lights-pacin/869797606149939/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ChillsDylan/posts/over-alaska-pilots-have-reported-something-they-cant-explainstrange-lights-pacin/869797606149939/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Over Alaska, pilots have reported something they can&#x27;...Japan Airlines Flight 1628 is one of the most well- documented aviation UFO inci...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: americanghostwalks.com  
    Title: haunted alaskan skies 1986 s japan airlines flight 1628 ufo encounter  
-   Link: <a href="https://www.americanghostwalks.com/haunted-alaskan-skies-1986-s-japan-airlines-flight-1628-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.americanghostwalks.com/haunted-alaskan-skies-1986-s-japan-airlines-flight-1628-ufo-encounter</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Haunted Alaskan Skies: 1986&#x27;s JAL1628 UFO Encounter25 May 2025 — There have been many allegations that the testimony of the crew of 1628...</p></details>
+   Link:<a href="https://www.americanghostwalks.com/haunted-alaskan-skies-1986-s-japan-airlines-flight-1628-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.americanghostwalks.com/haunted-alaskan-skies-1986-s-japan-airlines-flight-1628-ufo-encounter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Haunted Alaskan Skies: 1986&#x27;s JAL1628 UFO Encounter25 May 2025 — There have been many allegations that the testimony of the crew of 1628...</p></details>
    Published: May 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: black vault uncovers archives missing faa records  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1d2rmv7/black_vault_uncovers_archives_missing_faa_records/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1d2rmv7/black_vault_uncovers_archives_missing_faa_records/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Black Vault uncovers, archives missing FAA records...TIL Japan Airlines Flight 1628 over Alaska had a 42 minute long UFO encounter Suppo...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1d2rmv7/black_vault_uncovers_archives_missing_faa_records/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1d2rmv7/black_vault_uncovers_archives_missing_faa_records/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Black Vault uncovers, archives missing FAA records...TIL Japan Airlines Flight 1628 over Alaska had a 42 minute long UFO encounter Suppo...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/h8o5id/til_japan_airlines_flight_1628_over_alaska_had_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/h8o5id/til_japan_airlines_flight_1628_over_alaska_had_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>42 minute...TIL Japan Airlines Flight 1628 over Alaska had a 42 minute long UFO encounter Supported by Radar Data and Air Traffic Contro...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/h8o5id/til_japan_airlines_flight_1628_over_alaska_had_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/h8o5id/til_japan_airlines_flight_1628_over_alaska_had_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>42 minute...TIL Japan Airlines Flight 1628 over Alaska had a 42 minute long UFO encounter Supported by Radar Data and Air Traffic Contro...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: flightsafetydetectives.com  
    Title: a model for investigating uap events episode 182  
-   Link: <a href="https://flightsafetydetectives.com/a-model-for-investigating-uap-events-episode-182/" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/a-model-for-investigating-uap-events-episode-182/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Model for Investigating UAP Events – Episode 182JAL Flight 1628 UAP event was investigated in detail by the FAA could serve as a model...</p></details>
+   Link:<a href="https://flightsafetydetectives.com/a-model-for-investigating-uap-events-episode-182/" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/a-model-for-investigating-uap-events-episode-182/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Model for Investigating UAP Events – Episode 182JAL Flight 1628 UAP event was investigated in detail by the FAA could serve as a model...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/336062892_Estimating_Flight_Characteristics_of_Anomalous_Unidentified_Aerial_Vehicles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/336062892_Estimating_Flight_Characteristics_of_Anomalous_Unidentified_Aerial_Vehicles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UAV and the airplane are approximately to scale, while the distance...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/336062892_Estimating_Flight_Characteristics_of_Anomalous_Unidentified_Aerial_Vehicles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/336062892_Estimating_Flight_Characteristics_of_Anomalous_Unidentified_Aerial_Vehicles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UAV and the airplane are approximately to scale, while the distance...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1kgy7o7/the_ufo_encounter_so_disturbing_the_cia_buried_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kgy7o7/the_ufo_encounter_so_disturbing_the_cia_buried_it/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>raffic reported by Flight 1628. No further information has been...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1kgy7o7/the_ufo_encounter_so_disturbing_the_cia_buried_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kgy7o7/the_ufo_encounter_so_disturbing_the_cia_buried_it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>raffic reported by Flight 1628. No further information has been...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: magazin.aktualne.cz  
-   Link: <a href="https://magazin.aktualne.cz/jal-1628-boeing-sledovany-ufo-40-minut-nad-aljaskou-nevyrese/r~ff1309b24c4d11f0b589ac1f6b220ee8/v~sl%3A03907859d450270f093a02adf096fd63/" target="_blank" rel="noopener noreferrer nofollow">https://magazin.aktualne.cz/jal-1628-boeing-sledovany-ufo-40-minut-nad-aljaskou-nevyrese/r~ff1309b24c4d11f0b589ac1f6b220ee8/v~sl%3A03907859d450270f093a02adf096fd63/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1628: Boeing sledovaný UFO 40 minut nad Aljaškou23 Jun 2025 — Nákladní letadlo sledoval gigantický objekt nad Aljaškou celých 40 minut. P...</p></details>
+   Link:<a href="https://magazin.aktualne.cz/jal-1628-boeing-sledovany-ufo-40-minut-nad-aljaskou-nevyrese/r~ff1309b24c4d11f0b589ac1f6b220ee8/v~sl%3A03907859d450270f093a02adf096fd63/" target="_blank" rel="noopener noreferrer nofollow">https://magazin.aktualne.cz/jal-1628-boeing-sledovany-ufo-40-minut-nad-aljaskou-nevyrese/r~ff1309b24c4d11f0b589ac1f6b220ee8/v~sl%3A03907859d450270f093a02adf096fd63/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1628: Boeing sledovaný UFO 40 minut nad Aljaškou23 Jun 2025 — Nákladní letadlo sledoval gigantický objekt nad Aljaškou celých 40 minut. P...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: jeromeprophet.blogspot.com  
    Title: 1986 jal flight 1628 ufo encounter  
-   Link: <a href="https://jeromeprophet.blogspot.com/2007/02/1986-jal-flight-1628-ufo-encounter.html" target="_blank" rel="noopener noreferrer nofollow">https://jeromeprophet.blogspot.com/2007/02/1986-jal-flight-1628-ufo-encounter.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jerome ProphetThe 1986 JAL Flight 1628 UFO Encounter!12 Feb 2007 — Radar data recorded by Anchorage Center does not confirm the presence...</p></details>
+   Link:<a href="https://jeromeprophet.blogspot.com/2007/02/1986-jal-flight-1628-ufo-encounter.html" target="_blank" rel="noopener noreferrer nofollow">https://jeromeprophet.blogspot.com/2007/02/1986-jal-flight-1628-ufo-encounter.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jerome ProphetThe 1986 JAL Flight 1628 UFO Encounter!12 Feb 2007 — Radar data recorded by Anchorage Center does not confirm the presence...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: latimes.com  
    Title: la xpm 1987 01 01 mn 1922 story  
-   Link: <a href="https://www.latimes.com/archives/la-xpm-1987-01-01-mn-1922-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1987-01-01-mn-1922-story.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Plane Maneuvered to Avoid Object: Pilot Recounts...1 Jan 1987 — ANCHORAGE — A veteran pilot whose UFO sighting was confirmed on radar s...</p></details>
+   Link:<a href="https://www.latimes.com/archives/la-xpm-1987-01-01-mn-1922-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1987-01-01-mn-1922-story.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Plane Maneuvered to Avoid Object: Pilot Recounts...1 Jan 1987 — ANCHORAGE — A veteran pilot whose UFO sighting was confirmed on radar s...</p></details>

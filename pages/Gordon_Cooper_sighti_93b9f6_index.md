@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /gordon-cooper-sighti-93b9f6-index/
 description: Focused pages that expand on Gordon Cooper sightings 1963.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Gordon_Cooper_sighti_93b9f6
 parent_title: Gordon Cooper sightings 1963
@@ -16,7 +16,7 @@ parent_permalink: /gordon-cooper-sightings-1963/
 
 # Explore Topics in Gordon Cooper sightings 1963
 
-The following pages expand on the main **[Gordon Cooper sightings 1963]({{ '/gordon-cooper-sightings-1963/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Gordon Cooper sightings 1963]({{ '/gordon-cooper-sightings-1963/' | relative_url }})** page and cover its key branches in.
 
 - [Later Claims]({{ '/later-claims/' | relative_url }})
 - [Fireflies]({{ '/fireflies/' | relative_url }})

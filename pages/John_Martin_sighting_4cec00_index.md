@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /john-martin-sighting-4cec00-index/
 description: Focused pages that expand on John Martin sighting 1878.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: John_Martin_sighting_4cec00
 parent_title: John Martin sighting 1878
@@ -16,7 +16,7 @@ parent_permalink: /john-martin-sighting-1878/
 
 # Explore Topics in John Martin sighting 1878
 
-The following pages expand on the main **[John Martin sighting 1878]({{ '/john-martin-sighting-1878/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[John Martin sighting 1878]({{ '/john-martin-sighting-1878/' | relative_url }})** page and cover its key branches in.
 
 - [Balloon or Saucer]({{ '/balloon-or-saucer/' | relative_url }})
 - [The Witness]({{ '/the-witness-19eed3/' | relative_url }})

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /doctor-x-ufo-encount-5e669c-index/
 description: Focused pages that expand on Doctor X UFO encounter 1968.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Doctor_X_UFO_encount_5e669c
 parent_title: Doctor X UFO encounter 1968
@@ -16,7 +16,7 @@ parent_permalink: /doctor-x-ufo-encounter-1968/
 
 # Explore Topics in Doctor X UFO encounter 1968
 
-The following pages expand on the main **[Doctor X UFO encounter 1968]({{ '/doctor-x-ufo-encounter-1968/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Doctor X UFO encounter 1968]({{ '/doctor-x-ufo-encounter-1968/' | relative_url }})** page and cover its key branches in.
 
 - [Body Claims]({{ '/body-claims/' | relative_url }})
 - [Records]({{ '/records-a251d4/' | relative_url }})

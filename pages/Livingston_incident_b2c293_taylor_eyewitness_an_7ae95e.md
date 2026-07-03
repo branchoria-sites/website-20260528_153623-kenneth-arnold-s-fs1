@@ -242,21 +242,21 @@ image: /assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Ill
 
 ## Introduction
 
-The **Livingston incident of 1979**, also called the **Dechmont Woods encounter** or the **Robert Taylor incident**, remains one of the most scrutinised and controversial close‑encounter reports in British UFO lore. What makes the case distinct is not merely the claim of an unidentified craft but the depth and specificity of **forestry worker Robert “Bob” Taylor’s eyewitness testimony**, coupled with **physical after‑effects and police documentation**. This page offers a detailed analysis of Taylor’s firsthand account — his narrative, how he described the objects and their effects, and the immediate aftermath as recorded by authorities — without rehashing broader case history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Robert_Taylor_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert Taylor incident</span><span class="citation-popover-snippet">Robert Taylor incident</span></span></span>
+The **Livingston incident of 1979**, also called the **Dechmont Woods encounter** or the **Robert Taylor incident**, remains one of the most scrutinised and controversial close‑encounter reports in British UFO lore. What makes the case distinct is not merely the claim of an unidentified craft but the depth and specificity of **forestry worker Robert “Bob” Taylor’s eyewitness testimony**, coupled with **physical after‑effects and police documentation**. This page offers a detailed analysis of Taylor’s firsthand account — his narrative, how he described the objects and their effects, and the immediate aftermath as recorded by authorities — without rehashing broader case history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Robert_Taylor_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert Taylor incident</span><span class="citation-popover-snippet">Robert Taylor incident</span></span></span>
 
 <img src="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-1-dark.svg" | relative_url }}" alt="Eyewitness Account illustration 1" data-theme-src-dark="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Taylor’s Arrival at Dechmont Woods and Initial Sighting
 
-On the **morning of 9 November 1979**, 61‑year‑old forestry worker Robert Taylor set out on a routine inspection of woodland near Dechmont Law, West Lothian, accompanied by his red setter dog, approximately between 10:00 and 10:30 AM. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
+On the **morning of 9 November 1979**, 61‑year‑old forestry worker Robert Taylor set out on a routine inspection of woodland near Dechmont Law, West Lothian, accompanied by his red setter dog, approximately between 10:00 and 10:30 AM.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
 
 Taylor parked his pickup truck off a forest track and walked along a path that led through a plantation clearing. As he **rounded a bend into a small clearing**, he reported seeing an object unlike anything from ordinary forestry or aviation. What he described was:
 
-* A **large, circular, almost spherical object**, roughly **20 ft (about 6 metres) across and about 12 ft high**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
-* It appeared **dark grey and metallic**, with a texture Taylor likened to rough or sand‑like material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
-* Taylor recalled a **narrow flange or rim circling the craft** and that some parts seemed to blur or grow slightly transparent, as if attempting to “cloak” themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
-* The object was **silent and motionless**, hovering just above ground level. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
+* A **large, circular, almost spherical object**, roughly **20 ft (about 6 metres) across and about 12 ft high**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
+* It appeared **dark grey and metallic**, with a texture Taylor likened to rough or sand‑like material.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
+* Taylor recalled a **narrow flange or rim circling the craft** and that some parts seemed to blur or grow slightly transparent, as if attempting to “cloak” themselves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
+* The object was **silent and motionless**, hovering just above ground level.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
 
-These descriptive elements are consistent across multiple accounts of Taylor’s testimony and form the cornerstone of the encounter narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/casework/2015index/791109livingston_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+These descriptive elements are consistent across multiple accounts of Taylor’s testimony and form the cornerstone of the encounter narrative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/casework/2015index/791109livingston_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lxgPUYv9Mys" title="Man Knocked Unconscious By Huge UFO | Close Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lxgPUYv9Mys" target="_blank" rel="noopener noreferrer">Man Knocked Unconscious By Huge UFO | Close Encounters</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 977.6K &middot; Uploaded: September 2019 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lxgPUYv9Mys" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lxgPUYv9Mys">Open on YouTube</a></p></div></div></div>
 
@@ -266,36 +266,36 @@ According to Taylor’s testimony, after observing the primary object, **two sma
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* About **3 ft (around 1 metre) in diameter**, roughly the size of sea mines, with protruding spikes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
-* Similar in colour and surface texture to the larger craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
-* They made **distinct noises** as they bounced or rolled across the wet forest floor toward him — described variously as plopping or sucking sounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
+* About **3 ft (around 1 metre) in diameter**, roughly the size of sea mines, with protruding spikes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
+* Similar in colour and surface texture to the larger craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
+* They made **distinct noises** as they bounced or rolled across the wet forest floor toward him — described variously as plopping or sucking sounds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
 
 </div>
 
-Taylor reported that **these smaller spheres came directly at him**, despite his dog’s barking and agitation. As they reached him, their spikes appeared to **attach themselves to his trousers and legs**, ripping through the fabric down to near his skin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
+Taylor reported that **these smaller spheres came directly at him**, despite his dog’s barking and agitation. As they reached him, their spikes appeared to **attach themselves to his trousers and legs**, ripping through the fabric down to near his skin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
 
 Taylor also recalled:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* An **acrid, choking smell** and a hissing sound at close proximity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
-* Feeling himself being **pulled or tugged forward** by the objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
-* A subsequent **loss of consciousness**, during which time he could not recall events in detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
+* An **acrid, choking smell** and a hissing sound at close proximity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
+* Feeling himself being **pulled or tugged forward** by the objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
+* A subsequent **loss of consciousness**, during which time he could not recall events in detail.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
 
 </div>
 
-This combination of sensory experiences — visual, auditory, olfactory, and tactile — forms the most vivid part of Taylor’s account and is cited in nearly every narrative retelling of the incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/taylor1979.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1979-Dechmont Woods Abduction of Robert Taylor-UFO Casebook Files...</span></span></span>
+This combination of sensory experiences — visual, auditory, olfactory, and tactile — forms the most vivid part of Taylor’s account and is cited in nearly every narrative retelling of the incident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/taylor1979.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1979-Dechmont Woods Abduction of Robert Taylor-UFO Casebook Files...</span></span></span>
 
 <img src="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-2-dark.svg" | relative_url }}" alt="Eyewitness Account illustration 2" data-theme-src-dark="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Immediate Aftermath: Waking, Injuries, and Return Home
 
 When Taylor **regained consciousness**, the primary object and the smaller spheres were no longer present. He described physical and neurological after‑effects including:
 
-* A **headache** and aching legs. ufologie.patrickgross.org <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span> * A **sore throat** and a lingering bitter taste in his mouth. ufologie.patrickgross.org <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span> * Difficulty walking and speaking. ufologie.patrickgross.org <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
+* A **headache** and aching legs. ufologie.patrickgross.org<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span> * A **sore throat** and a lingering bitter taste in his mouth. ufologie.patrickgross.org<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span> * Difficulty walking and speaking. ufologie.patrickgross.org<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
 
-Unable to start his truck, he eventually **crawled and then staggered** his way back toward his vehicle. At one stage he even became stuck in mud, further delaying his return. He then **walked roughly a mile back to his home in Livingston**, arriving around 11:45 AM. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/taylor1979.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1979-Dechmont Woods Abduction of Robert Taylor-UFO Casebook Files...</span></span></span>
+Unable to start his truck, he eventually **crawled and then staggered** his way back toward his vehicle. At one stage he even became stuck in mud, further delaying his return. He then **walked roughly a mile back to his home in Livingston**, arriving around 11:45 AM.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/taylor1979.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1979-Dechmont Woods Abduction of Robert Taylor-UFO Casebook Files...</span></span></span>
 
-On reaching home, Taylor was visibly shaken, his **clothes torn and his demeanour dishevelled**. His wife, alarmed by his condition, called both a doctor and the police. The doctor noted **grazes on his chin and thighs**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Robert_Taylor_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert Taylor incident</span><span class="citation-popover-snippet">Robert Taylor incident</span></span></span>
+On reaching home, Taylor was visibly shaken, his **clothes torn and his demeanour dishevelled**. His wife, alarmed by his condition, called both a doctor and the police. The doctor noted **grazes on his chin and thighs**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Robert_Taylor_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert Taylor incident</span><span class="citation-popover-snippet">Robert Taylor incident</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Paa9hq3M2YI" title="Dechmont Woods Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Paa9hq3M2YI" target="_blank" rel="noopener noreferrer">Dechmont Woods Incident</a></p><p class="youtube-embed-meta">Channel: uchubi &middot; Views: 11.6K &middot; Uploaded: February 2020 &middot; Length: 4 minutes 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Paa9hq3M2YI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Paa9hq3M2YI">Open on YouTube</a></p></div></div></div>
 
@@ -303,216 +303,216 @@ On reaching home, Taylor was visibly shaken, his **clothes torn and his demeanou
 
 What sets Taylor’s account apart from many UFO reports is its **immediate intersection with law enforcement**. Police officers accompanied Taylor back to the clearing where the event reportedly took place. According to available accounts:
 
-* They found **parallel ladder‑like tracks** in the turf where the large object was said to have been. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/taylor1979.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1979-Dechmont Woods Abduction of Robert Taylor-UFO Casebook Files...</span></span></span>
-* There were also **multiple shallow circular holes** in the ground consistent with the trajectory described for the smaller spheres. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/taylor1979.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1979-Dechmont Woods Abduction of Robert Taylor-UFO Casebook Files...</span></span></span>
-* Taylor’s torn trousers were **examined forensically**; police reported that the **tear patterns were consistent with considerable force applied upward**, though this did not necessarily prove the narrative of what produced them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
+* They found **parallel ladder‑like tracks** in the turf where the large object was said to have been.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/taylor1979.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1979-Dechmont Woods Abduction of Robert Taylor-UFO Casebook Files...</span></span></span>
+* There were also **multiple shallow circular holes** in the ground consistent with the trajectory described for the smaller spheres.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/taylor1979.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1979-Dechmont Woods Abduction of Robert Taylor-UFO Casebook Files...</span></span></span>
+* Taylor’s torn trousers were **examined forensically**; police reported that the **tear patterns were consistent with considerable force applied upward**, though this did not necessarily prove the narrative of what produced them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
 
-Detective Sergeant Ian Wark, a leading investigating officer at the scene, stated that he found Taylor’s account credible in the sense that Taylor **genuinely reported what he believed he had seen**, even as conventional explanations for the marks eluded the inquiry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
+Detective Sergeant Ian Wark, a leading investigating officer at the scene, stated that he found Taylor’s account credible in the sense that Taylor **genuinely reported what he believed he had seen**, even as conventional explanations for the marks eluded the inquiry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
 
 <img src="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-3-dark.svg" | relative_url }}" alt="Eyewitness Account illustration 3" data-theme-src-dark="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Livingston_incident_b2c293_taylor_eyewitness_an_7ae95e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Consistency of Taylor’s Narrative Over Time
 
-Throughout subsequent decades, Taylor maintained **no substantive change to his central account**. He was described by local acquaintances as a **reliable, stable individual with no apparent motive for fabrication** and no unusual psychological history that would clearly account for hallucination or confusion at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
+Throughout subsequent decades, Taylor maintained **no substantive change to his central account**. He was described by local acquaintances as a **reliable, stable individual with no apparent motive for fabrication** and no unusual psychological history that would clearly account for hallucination or confusion at the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
 
-Even after extensive public interest and sceptical reinterpretations, Taylor **stood by his testimony until his death in 2007**, insisting that what he saw and experienced on that day was real as he described it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.odla.fr/2019/12/13/livingston-un-%C3%A9trange-accident-au-coeur-de-l-%C3%A9cosse-d%C3%A9cembre-2019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odla.fr">[Ôdla]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odla.fr</span><span class="citation-popover-title">Ôdla Livingston: un étrange accident au coeur de l&#x27;Écosse</span><span class="citation-popover-snippet">ÔdlaLivingston: un étrange accident au coeur de l&#x27;Écosse - Décembre 2019 - Ôdla: actualité Ufologique et phénomènes inexpliquésDecember...</span></span></span>
+Even after extensive public interest and sceptical reinterpretations, Taylor **stood by his testimony until his death in 2007**, insisting that what he saw and experienced on that day was real as he described it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.odla.fr/2019/12/13/livingston-un-%C3%A9trange-accident-au-coeur-de-l-%C3%A9cosse-d%C3%A9cembre-2019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odla.fr">[Ôdla]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odla.fr</span><span class="citation-popover-title">Ôdla Livingston: un étrange accident au coeur de l&#x27;Écosse</span><span class="citation-popover-snippet">ÔdlaLivingston: un étrange accident au coeur de l&#x27;Écosse - Décembre 2019 - Ôdla: actualité Ufologique et phénomènes inexpliquésDecember...</span></span></span>
 
 ## Summary: What Taylor’s Testimony Adds to the Case
 
-Taylor’s eyewitness account is anchored in **specific sensory description**, **reported physical affects**, and **a sequence of events that led to medical and law‑enforcement involvement**. His narrative is not simply a sighting but a detailed, multi‑sensed event with claimed physical consequences — torn clothing, bodily discomfort, unconsciousness — and an extended narrative consistency that has become central to how the Livingston incident is understood and debated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Robert_Taylor_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert Taylor incident</span><span class="citation-popover-snippet">Robert Taylor incident</span></span></span>
+Taylor’s eyewitness account is anchored in **specific sensory description**, **reported physical affects**, and **a sequence of events that led to medical and law‑enforcement involvement**. His narrative is not simply a sighting but a detailed, multi‑sensed event with claimed physical consequences — torn clothing, bodily discomfort, unconsciousness — and an extended narrative consistency that has become central to how the Livingston incident is understood and debated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Robert_Taylor_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert Taylor incident</span><span class="citation-popover-snippet">Robert Taylor incident</span></span></span>
 
-While interpretations of what Taylor saw vary widely — from extraterrestrial visitation to mundane or neurological explanations — the core of the case remains his detailed and persistent testimony, which continues to attract both sceptical scrutiny and UFO‑research interest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
+While interpretations of what Taylor saw vary widely — from extraterrestrial visitation to mundane or neurological explanations — the core of the case remains his detailed and persistent testimony, which continues to attract both sceptical scrutiny and UFO‑research interest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</span><span class="citation-popover-meta">Published: November 9, 1979</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/x4hFL5KyUSE" title="Exploring Livingston&#x27;s UFO Trail | Scotland" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x4hFL5KyUSE" target="_blank" rel="noopener noreferrer">Exploring Livingston&#x27;s UFO Trail | Scotland</a></p><p class="youtube-embed-meta">Channel: Martin&#x27;s Odyssey - The Exploring Artist &middot; Views: 12.3K &middot; Uploaded: February 2024 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x4hFL5KyUSE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x4hFL5KyUSE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Robert Taylor&#x27;s Firsthand Account of the 1979 Encounter. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Robert Taylor&#x27;s Firsthand Account of the 1979 Encounter. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Profiles the Livingston case details, including physical after-effects, police logs, and the initial report.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Profiles the Livingston case details, including physical after-effects, police logs, and the initial report.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches investigative methodology to differentiate subjective experience from anomalous physical markers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches investigative methodology to differentiate subjective experience from anomalous physical markers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
-        </h4>
-        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+</h4>
+<p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
         
-        <p class="fr-book-desc">Addresses why limited eyewitness accounts require independent verification to survive the forensic scrutiny process.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses why limited eyewitness accounts require independent verification to survive the forensic scrutiny process.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Provides institutional background on how police-documented incident reports were handled in the late 1970s.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides institutional background on how police-documented incident reports were handled in the late 1970s.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sister States, Enemy States</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sister States, Enemy States</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="robert-taylor-s-firsthand-account-of-the-1979-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -528,7 +528,7 @@ While interpretations of what Taylor saw vary widely — from extraterrestrial v
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -548,7 +548,7 @@ While interpretations of what Taylor saw vary widely — from extraterrestrial v
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -580,7 +580,7 @@ While interpretations of what Taylor saw vary widely — from extraterrestrial v
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -632,7 +632,7 @@ While interpretations of what Taylor saw vary widely — from extraterrestrial v
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -677,7 +677,7 @@ While interpretations of what Taylor saw vary widely — from extraterrestrial v
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -718,96 +718,96 @@ While interpretations of what Taylor saw vary widely — from extraterrestrial v
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Robert Taylor incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Robert_Taylor_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert_Taylor_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Robert_Taylor_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert_Taylor_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/dechmontwoods79.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/htm/dechmontwoods79.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/dechmontwoods79.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ufo - UFOs at close sight: Dechmont Woods, Scotland, November 9, 1979...</p></details>
    Published: November 9, 1979  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nicap.org  
    Title: UF O Report  
-   Link: <a href="https://www.nicap.org/casework/2015index/791109livingston_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/casework/2015index/791109livingston_dir.htm</a>  
+   Link:<a href="https://www.nicap.org/casework/2015index/791109livingston_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/casework/2015index/791109livingston_dir.htm</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ufocasebook.com  
-   Link: <a href="https://www.ufocasebook.com/taylor1979.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/taylor1979.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Casebook1979-Dechmont Woods Abduction of Robert Taylor-UFO Casebook Files...</p></details>
+   Link:<a href="https://www.ufocasebook.com/taylor1979.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/taylor1979.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Casebook1979-Dechmont Woods Abduction of Robert Taylor-UFO Casebook Files...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dechmontcommunitycouncil.com  
-   Link: <a href="https://www.dechmontcommunitycouncil.com/history" target="_blank" rel="noopener noreferrer nofollow">https://www.dechmontcommunitycouncil.com/history</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY | dechmontccwlHISTORY Dechmont is a village located near Uphall, West Lothian in Scotland, with a population of around 1,000...</p></details>
+   Link:<a href="https://www.dechmontcommunitycouncil.com/history" target="_blank" rel="noopener noreferrer nofollow">https://www.dechmontcommunitycouncil.com/history</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY | dechmontccwlHISTORY Dechmont is a village located near Uphall, West Lothian in Scotland, with a population of around 1,000...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufomagazines.com  
-   Link: <a href="https://www.ufomagazines.com/bufora-1979-1989-journal-of-transient-aerial-phenomena-jtap-vol-1-no-2-mar-1980/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/bufora-1979-1989-journal-of-transient-aerial-phenomena-jtap-vol-1-no-2-mar-1980/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 1, 1980 — RECURRING THEMES AND EDITORIAL STANCE The recurring themes in this issue are the scientific investigation of UFO phenomen...</p></details>
+   Link:<a href="https://www.ufomagazines.com/bufora-1979-1989-journal-of-transient-aerial-phenomena-jtap-vol-1-no-2-mar-1980/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/bufora-1979-1989-journal-of-transient-aerial-phenomena-jtap-vol-1-no-2-mar-1980/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 1, 1980 — RECURRING THEMES AND EDITORIAL STANCE The recurring themes in this issue are the scientific investigation of UFO phenomen...</p></details>
    Published: March 1, 1980  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: undiscoveredscotland.co.uk  
-   Link: <a href="https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Livingston Incident Feature Page on Undiscovered ScotlandTHE LIVINGSTON INCIDENT Image: Stone and Plaque Marking Site of Incident Sto...</p></details>
+   Link:<a href="https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Livingston Incident Feature Page on Undiscovered ScotlandTHE LIVINGSTON INCIDENT Image: Stone and Plaque Marking Site of Incident Sto...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufoinsight.com  
    Title: The Livingston Dechmont Woods Incident – A "Criminal Investigation" Of A UFO!  
-   Link: <a href="https://www.ufoinsight.com/ufos/close-encounters/livingston-dechmont-woods-criminal-investigation-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/close-encounters/livingston-dechmont-woods-criminal-investigation-ufo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightMarch 28, 2017 — THE LIVINGSTON DECHMONT WOODS INCIDENT – A “CRIMINAL INVESTIGATION” OF A UFO! By Marcus Lowth Image: Publishe...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/close-encounters/livingston-dechmont-woods-criminal-investigation-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/close-encounters/livingston-dechmont-woods-criminal-investigation-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightMarch 28, 2017 — THE LIVINGSTON DECHMONT WOODS INCIDENT – A “CRIMINAL INVESTIGATION” OF A UFO! By Marcus Lowth Image: Publishe...</p></details>
    Published: March 28, 2017  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arquivoufo.eurisko.com.br  
    Title: eurisko.com.br Incidente OVNI de Dechmont Woods foi investigado pela polícia  
-   Link: <a href="https://arquivoufo.eurisko.com.br/2022/12/17/incidente-ovni-de-dechmont-woods-foi-investigado-pela-policia/" target="_blank" rel="noopener noreferrer nofollow">https://arquivoufo.eurisko.com.br/2022/12/17/incidente-ovni-de-dechmont-woods-foi-investigado-pela-policia/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OVNI de Dechmont Woods foi investigado pela políciaDecember 17, 2022 — INCIDENTE OVNI DE DECHMONT WOODS FOI INVESTIGADO PELA POLÍCIA Últi...</p></details>
+   Link:<a href="https://arquivoufo.eurisko.com.br/2022/12/17/incidente-ovni-de-dechmont-woods-foi-investigado-pela-policia/" target="_blank" rel="noopener noreferrer nofollow">https://arquivoufo.eurisko.com.br/2022/12/17/incidente-ovni-de-dechmont-woods-foi-investigado-pela-policia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OVNI de Dechmont Woods foi investigado pela políciaDecember 17, 2022 — INCIDENTE OVNI DE DECHMONT WOODS FOI INVESTIGADO PELA POLÍCIA Últi...</p></details>
    Published: December 17, 2022  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufo-explorer.com  
    Title: and 10:30 a.m. Taylor, who was at the time working for the Livingston Devel  
-   Link: <a href="https://ufo-explorer.com/sightings/bobtaylor/" target="_blank" rel="noopener noreferrer nofollow">https://ufo-explorer.com/sightings/bobtaylor/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Kidnapping In The Woods – UFO-ExplorerA KIDNAPPING IN THE WOODS Image Image LIVINGSTON, SCOTLAND | 1979 On November 9, 1979, approximat...</p></details>
+   Link:<a href="https://ufo-explorer.com/sightings/bobtaylor/" target="_blank" rel="noopener noreferrer nofollow">https://ufo-explorer.com/sightings/bobtaylor/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Kidnapping In The Woods – UFO-ExplorerA KIDNAPPING IN THE WOODS Image Image LIVINGSTON, SCOTLAND | 1979 On November 9, 1979, approximat...</p></details>
    Published: November 9, 1979  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: latest-ufo-sightings.net  
    Title: The Close Encounter Investigated by the Police • Latest UFO Sightings  
-   Link: <a href="https://www.latest-ufo-sightings.net/2019/12/the-close-encounter-investigated-by-the-police.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2019/12/the-close-encounter-investigated-by-the-police.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 4, 2019 — THE CLOSE ENCOUNTER INVESTIGATED BY THE POLICE December 4, 2019 LUFOS Europe, Latest posts 1 Image UFO sighting in woo...</p></details>
+   Link:<a href="https://www.latest-ufo-sightings.net/2019/12/the-close-encounter-investigated-by-the-police.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2019/12/the-close-encounter-investigated-by-the-police.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 4, 2019 — THE CLOSE ENCOUNTER INVESTIGATED BY THE POLICE December 4, 2019 LUFOS Europe, Latest posts 1 Image UFO sighting in woo...</p></details>
    Published: December 4, 2019  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: exonews.org  
    Title: West Lothian Council Create ‘UFO Trail’ at Site of Famous Close  
-   Link: <a href="https://exonews.org/west-lothian-council-create-ufo-trail-at-site-of-famous-close-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://exonews.org/west-lothian-council-create-ufo-trail-at-site-of-famous-close-encounter/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 15, 2018 — WEST LOTHIAN COUNCIL CREATE ‘UFO TRAIL’ AT SITE OF FAMOUS CLOSE ENCOUNTER * October 15, 2018 * ExoNews Editor * UFOs...</p></details>
+   Link:<a href="https://exonews.org/west-lothian-council-create-ufo-trail-at-site-of-famous-close-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://exonews.org/west-lothian-council-create-ufo-trail-at-site-of-famous-close-encounter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 15, 2018 — WEST LOTHIAN COUNCIL CREATE ‘UFO TRAIL’ AT SITE OF FAMOUS CLOSE ENCOUNTER * October 15, 2018 * ExoNews Editor * UFOs...</p></details>
    Published: October 15, 2018  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: odla.fr  
    Title: Ôdla Livingston: un étrange accident au coeur de l'Écosse  
-   Link: <a href="https://www.odla.fr/2019/12/13/livingston-un-%C3%A9trange-accident-au-coeur-de-l-%C3%A9cosse-d%C3%A9cembre-2019/" target="_blank" rel="noopener noreferrer nofollow">https://www.odla.fr/2019/12/13/livingston-un-%C3%A9trange-accident-au-coeur-de-l-%C3%A9cosse-d%C3%A9cembre-2019/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ÔdlaLivingston: un étrange accident au coeur de l&#x27;Écosse - Décembre 2019 - Ôdla: actualité Ufologique et phénomènes inexpliquésDecember...</p></details>
+   Link:<a href="https://www.odla.fr/2019/12/13/livingston-un-%C3%A9trange-accident-au-coeur-de-l-%C3%A9cosse-d%C3%A9cembre-2019/" target="_blank" rel="noopener noreferrer nofollow">https://www.odla.fr/2019/12/13/livingston-un-%C3%A9trange-accident-au-coeur-de-l-%C3%A9cosse-d%C3%A9cembre-2019/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ÔdlaLivingston: un étrange accident au coeur de l&#x27;Écosse - Décembre 2019 - Ôdla: actualité Ufologique et phénomènes inexpliquésDecember...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mysteriousbritain.co.uk  
    Title: Dechmont Woods Encounter – Mysterious Britain & Ireland  
-   Link: <a href="https://www.mysteriousbritain.co.uk/ufos/dechmont-woods-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.mysteriousbritain.co.uk/ufos/dechmont-woods-encounter/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 12, 2008 — * UFO Sightings / UFOs DECHMONT WOODS ENCOUNTER by Ian · Published September 12, 2008 · Updated December 17, 2018 Bo...</p></details>
+   Link:<a href="https://www.mysteriousbritain.co.uk/ufos/dechmont-woods-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.mysteriousbritain.co.uk/ufos/dechmont-woods-encounter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 12, 2008 — * UFO Sightings / UFOs DECHMONT WOODS ENCOUNTER by Ian · Published September 12, 2008 · Updated December 17, 2018 Bo...</p></details>
    Published: September 12, 2008  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ghosttheory.com  
    Title: The Dechmont Woods Encounter – Ghost Theory  
-   Link: <a href="https://www.ghosttheory.com/2015/09/14/the-dechmont-woods-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.ghosttheory.com/2015/09/14/the-dechmont-woods-encounter</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 14, 2015 — THE DECHMONT WOODS ENCOUNTER * In Aliens, Headline, UFOs * September 14, 2015 * Xavier * 5725 Views * 2 comments In...</p></details>
+   Link:<a href="https://www.ghosttheory.com/2015/09/14/the-dechmont-woods-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.ghosttheory.com/2015/09/14/the-dechmont-woods-encounter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 14, 2015 — THE DECHMONT WOODS ENCOUNTER * In Aliens, Headline, UFOs * September 14, 2015 * Xavier * 5725 Views * 2 comments In...</p></details>
    Published: September 14, 2015

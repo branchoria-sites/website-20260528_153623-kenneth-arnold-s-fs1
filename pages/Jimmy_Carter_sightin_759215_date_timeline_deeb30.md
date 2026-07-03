@@ -248,33 +248,33 @@ image: /assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustrat
 
 ## Introduction
 
-The most important factual correction in the Jimmy Carter UFO case is probably not about what was seen, but when it was seen. Carter’s 1973 UFO report placed the event in October 1969. Later investigators, however, found strong evidence that the sighting almost certainly occurred on 6 January 1969 instead. That shift matters because astronomical positions, weather conditions, and military launch activity can only be checked accurately against a specific date and time. Once the timeline moved from a vague autumn evening to a likely January night in southwest Georgia, the case became far easier to test against real-world [explanations]({{ 'explanations-4b988c/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
+The most important factual correction in the Jimmy Carter UFO case is probably not about what was seen, but when it was seen. Carter’s 1973 UFO report placed the event in October 1969. Later investigators, however, found strong evidence that the sighting almost certainly occurred on 6 January 1969 instead. That shift matters because astronomical positions, weather conditions, and military launch activity can only be checked accurately against a specific date and time. Once the timeline moved from a vague autumn evening to a likely January night in southwest Georgia, the case became far easier to test against real-world [explanations]({{ 'explanations-4b988c/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
 
 <img src="{{ "/assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustration-1-dark.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jimmy_Carter_sightin_759215_date_timeline_deeb30-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The date correction also changes how the reliability of the testimony is interpreted. Carter’s account remains notable because he was a future US president, a trained naval officer, and a witness who openly acknowledged uncertainty rather than insisting on extraterrestrial conclusions. But the chronology problem demonstrates how retrospective memory can drift over several years, even when the witness is sincere. In this case, a mistaken month may have unintentionally transformed an explainable sky event into a more mysterious one.
 
 ## The October Date in Carter’s Report
 
-Carter filed his best-known UFO report in 1973 with the International UFO Bureau, several years after the sighting itself. On the form, he stated that the event happened in October 1969 at about 7:15 p.m. near Leary, Georgia. He described a bright object in the western sky that appeared luminous rather than solid, shifted colours from blue to red to white, and remained visible for roughly 10 to 12 minutes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://badufos.blogspot.com/2017/01/jimmy-carters-ufo-sighting-was-it-venus.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: badufos.blogspot.com">[NICAP For years]</a><span class="citation-popover" role="note"><span class="citation-popover-source">badufos.blogspot.com</span><span class="citation-popover-title">Jimmy Carter&#x27;s UFO Sighting</span><span class="citation-popover-snippet">Carter reports that his &quot;UFO&quot; was in the western sky, at about 30 degrees elevation. This almost perfectly matches the known position of...</span></span></span>, researchers treated the October date as accurate because it came directly from Carter’s signed statement. That date entered newspaper accounts, UFO literature, television documentaries, and later internet retellings. The problem was that the chronology never fit perfectly with other known details of Carter’s activities.
+Carter filed his best-known UFO report in 1973 with the International UFO Bureau, several years after the sighting itself. On the form, he stated that the event happened in October 1969 at about 7:15 p.m. near Leary, Georgia. He described a bright object in the western sky that appeared luminous rather than solid, shifted colours from blue to red to white, and remained visible for roughly 10 to 12 minutes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://badufos.blogspot.com/2017/01/jimmy-carters-ufo-sighting-was-it-venus.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: badufos.blogspot.com">[NICAP For years]</a><span class="citation-popover" role="note"><span class="citation-popover-source">badufos.blogspot.com</span><span class="citation-popover-title">Jimmy Carter&#x27;s UFO Sighting</span><span class="citation-popover-snippet">Carter reports that his &quot;UFO&quot; was in the western sky, at about 30 degrees elevation. This almost perfectly matches the known position of...</span></span></span>, researchers treated the October date as accurate because it came directly from Carter’s signed statement. That date entered newspaper accounts, UFO literature, television documentaries, and later internet retellings. The problem was that the chronology never fit perfectly with other known details of Carter’s activities.
 
 Several inconsistencies eventually stood out:
 
 * Carter said he was attending a Lions Club function in Leary.
 * He attended as a district governor for the organisation.
 * His term as district governor ended before October 1969.
-* The local Leary Lions Club reportedly dissolved before that October period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/16780.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[2files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-snippet">Carter sighting 3 - Project Blue Book Archivedate as sometime in October 1969, However, official records from the Lion&#x27;s Club International...</span><span class="citation-popover-meta">Published: October 1969</span></span></span>
+* The local Leary Lions Club reportedly dissolved before that October period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/16780.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[2files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-snippet">Carter sighting 3 - Project Blue Book Archivedate as sometime in October 1969, However, official records from the Lion&#x27;s Club International...</span><span class="citation-popover-meta">Published: October 1969</span></span></span>
 
 Those discrepancies pushed later investigators to look for documentary records rather than relying only on memory recorded four years after the event.
 
 ## The Lions Club Record Trail
 
-The strongest evidence for the January correction comes from Lions Club paperwork connected to Carter’s speaking schedule. Investigators found reports indicating that Carter visited the Leary Lions Club on 6 January 1969 while serving as district governor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
+The strongest evidence for the January correction comes from Lions Club paperwork connected to Carter’s speaking schedule. Investigators found reports indicating that Carter visited the Leary Lions Club on 6 January 1969 while serving as district governor.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
 
 That January meeting matched the broader setting Carter later described publicly. He consistently associated the sighting with a Lions Club appearance in Leary shortly before giving a speech. Once researchers matched that memory to an actual documented visit, the October date became difficult to defend.
 
 The correction is important partly because it comes from independent administrative records rather than later recollections. Carter’s own UFO account was retrospective; the Lions Club documents were contemporary organisational records. In historical investigations, those records usually carry greater evidential weight for establishing timelines.
 
-The revised chronology also explains why some later witness-checking efforts struggled. By the time investigators revisited the case in the mid-1970s, several years had already passed. Witnesses were being asked to remember an unusual light from a specific social event that itself had been misdated in the public record. According to later investigations, many attendees either did not remember the incident clearly or did not consider it especially significant at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
+The revised chronology also explains why some later witness-checking efforts struggled. By the time investigators revisited the case in the mid-1970s, several years had already passed. Witnesses were being asked to remember an unusual light from a specific social event that itself had been misdated in the public record. According to later investigations, many attendees either did not remember the incident clearly or did not consider it especially significant at the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
 
 That does not prove the sighting was mundane. It does, however, weaken the idea that the event created a dramatic or unforgettable impression on all witnesses present.
 
@@ -286,7 +286,7 @@ Small chronology errors matter enormously in UFO investigations because many exp
 
 ### Venus and the western sky
 
-Sceptical investigators noted that Venus was extremely bright in the western sky on the evening of 6 January 1969 and appeared close to the direction and elevation described by Carter. Robert Sheaffer and later Allan Hendry both argued that the object’s apparent hovering behaviour, brightness changes, and colour shifts were consistent with a bright planet viewed under changing atmospheric conditions near the horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://badufos.blogspot.com/2017/01/jimmy-carters-ufo-sighting-was-it-venus.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: badufos.blogspot.com">[2badufos.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">badufos.blogspot.com</span><span class="citation-popover-title">Jimmy Carter&#x27;s UFO Sighting</span><span class="citation-popover-snippet">Carter reports that his &quot;UFO&quot; was in the western sky, at about 30 degrees elevation. This almost perfectly matches the known position of...</span></span></span>
+Sceptical investigators noted that Venus was extremely bright in the western sky on the evening of 6 January 1969 and appeared close to the direction and elevation described by Carter. Robert Sheaffer and later Allan Hendry both argued that the object’s apparent hovering behaviour, brightness changes, and colour shifts were consistent with a bright planet viewed under changing atmospheric conditions near the horizon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://badufos.blogspot.com/2017/01/jimmy-carters-ufo-sighting-was-it-venus.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: badufos.blogspot.com">[2badufos.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">badufos.blogspot.com</span><span class="citation-popover-title">Jimmy Carter&#x27;s UFO Sighting</span><span class="citation-popover-snippet">Carter reports that his &quot;UFO&quot; was in the western sky, at about 30 degrees elevation. This almost perfectly matches the known position of...</span></span></span>
 
 The corrected January timeline matters here because planetary positions are precise. A claim about “October 1969” produces a different sky entirely from “6 January 1969”. Once the January date was accepted, the Venus alignment became substantially more convincing.
 
@@ -298,7 +298,7 @@ Supporters of the Venus explanation point to several features in Carter’s own 
 * It appeared in the west.
 * It changed apparent colour.
 * It emitted no sound.
-* Carter described it as luminous and not solid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
+* Carter described it as luminous and not solid.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
 
 </div>
 
@@ -309,7 +309,7 @@ Critics of the Venus theory counter that Carter reported apparent approach-and-r
 
 The January correction also opened the door to a more specialised explanation involving atmospheric experiments launched from Eglin Air Force Base in Florida.
 
-Later researchers discovered records of a barium cloud release on 6 January 1969 associated with a high-altitude rocket experiment. The release reportedly occurred at approximately 7:35 p.m. Eastern time, close to the timeframe associated with Carter’s sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
+Later researchers discovered records of a barium cloud release on 6 January 1969 associated with a high-altitude rocket experiment. The release reportedly occurred at approximately 7:35 p.m. Eastern time, close to the timeframe associated with Carter’s sighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
 
 Barium cloud experiments were real Cold War-era atmospheric studies. Rockets released glowing chemical clouds at very high altitude so scientists could study upper-atmosphere winds and magnetic effects. Under suitable twilight conditions, the clouds could appear luminous and colour-changing over very long distances.
 
@@ -320,7 +320,7 @@ Researchers supporting this explanation noted several apparent matches:
 * The cloud would have appeared in roughly the west-southwest direction from Leary.
 * The estimated elevation closely matched Carter’s “about 30 degrees” statement.
 * The phenomenon could produce diffuse glowing colours rather than a solid-looking object.
-* Visibility depended on clear evening skies, which also fit the report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
+* Visibility depended on clear evening skies, which also fit the report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
 
 </div>
 
@@ -332,7 +332,7 @@ Some researchers now treat the two explanations as complementary rather than mut
 
 ## The Timeline Problem and Witness Memory
 
-The January correction changes the broader interpretation of the case because it highlights the instability of retrospective recollection. Carter filed his report about four years after the event. During that interval, the month appears to have shifted from January to October, even though the surrounding context — a Lions Club meeting in Leary — remained broadly accurate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
+The January correction changes the broader interpretation of the case because it highlights the instability of retrospective recollection. Carter filed his report about four years after the event. During that interval, the month appears to have shifted from January to October, even though the surrounding context — a Lions Club meeting in Leary — remained broadly accurate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
 
 That combination is historically revealing. People often remember the central emotional or visual experience of an event while misplacing its exact date, sequence, or duration. UFO cases are especially vulnerable to this problem because later retellings can unintentionally reshape memory around dramatic details.
 
@@ -344,7 +344,7 @@ The Carter case therefore occupies an unusual middle ground:
 * The core witness was credible and publicly consistent.
 * The chronology contains demonstrable errors.
 * The corrected timeline makes ordinary explanations substantially stronger.
-* The object nevertheless remained unidentified to Carter himself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
+* The object nevertheless remained unidentified to Carter himself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
 
 </div>
 
@@ -359,7 +359,7 @@ That shift had three major consequences.
 
 First, it weakened the evidential value of the original UFO report itself. If the date was wrong by nine months, investigators became more cautious about treating every descriptive detail as precise.
 
-Second, it strengthened conventional explanations. Both Venus and the Eglin barium release align more closely with the January conditions than with the originally reported October timeline. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
+Second, it strengthened conventional explanations. Both Venus and the Eglin barium release align more closely with the January conditions than with the originally reported October timeline.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jimmy Carter UFO incident</span><span class="citation-popover-snippet">Jimmy Carter UFO incident</span></span></span>
 
 Third, it transformed the case into a useful example of how UFO investigations often evolve. The most important discoveries sometimes come not from dramatic new witness testimony, but from mundane archival work: meeting schedules, administrative records, astronomical reconstruction, and aerospace logs.
 
@@ -368,194 +368,194 @@ The Jimmy Carter sighting remains famous because of who reported it. The January
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QoXoYetbsds" title="Jimmy Carter May Have Seen A UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QoXoYetbsds" target="_blank" rel="noopener noreferrer">Jimmy Carter May Have Seen A UFO</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 65.6K &middot; Uploaded: October 2016 &middot; Length: 4 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QoXoYetbsds" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QoXoYetbsds">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Date Changes the Case. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Date Changes the Case. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Details the Lions Club record trail that shifted the likely date of Carter&#x27;s sighting from October 1969 to 6 January 1969.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details the Lions Club record trail that shifted the likely date of Carter&#x27;s sighting from October 1969 to 6 January 1969.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Addresses why a sincere witness openly acknowledging uncertainty can still have their recollection drifting over several years.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses why a sincere witness openly acknowledging uncertainty can still have their recollection drifting over several years.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Explains why finding the exact date is vital to check an alert against real-world weather logs and military launch activity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why finding the exact date is vital to check an alert against real-world weather logs and military launch activity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Illustrates the procedural pitfalls that happen when a witness files an international bureau report four years after the fact.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates the procedural pitfalls that happen when a witness files an international bureau report four years after the fact.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e2452-why-the-date-changes-the-case-jimmy-carter-sighting-1969-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ The Jimmy Carter sighting remains famous because of who reported it. The January
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ The Jimmy Carter sighting remains famous because of who reported it. The January
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ The Jimmy Carter sighting remains famous because of who reported it. The January
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ The Jimmy Carter sighting remains famous because of who reported it. The January
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ The Jimmy Carter sighting remains famous because of who reported it. The January
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,99 +761,99 @@ The Jimmy Carter sighting remains famous because of who reported it. The January
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Jimmy Carter UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/waves/CarterSightingRptOct1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/waves/CarterSightingRptOct1969.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>International UFO Bureau20 Sept 1973 — Dear Governor Carter: For the past 17 years the International UFO Bureau. Inc. has researched the...</p></details>
+   Link:<a href="https://www.nicap.org/waves/CarterSightingRptOct1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/waves/CarterSightingRptOct1969.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International UFO Bureau20 Sept 1973 — Dear Governor Carter: For the past 17 years the International UFO Bureau. Inc. has researched the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: files.bluebookfiles.org  
-   Link: <a href="https://files.bluebookfiles.org/pdfs/16780.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/16780.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Carter sighting 3 - Project Blue Book Archivedate as sometime in October 1969, However, official records from the Lion&#x27;s Club International...</p></details>
+   Link:<a href="https://files.bluebookfiles.org/pdfs/16780.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/16780.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Carter sighting 3 - Project Blue Book Archivedate as sometime in October 1969, However, official records from the Lion&#x27;s Club International...</p></details>
    Published: October 1969  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: badufos.blogspot.com  
    Title: Jimmy Carter's UFO Sighting  
-   Link: <a href="https://badufos.blogspot.com/2017/01/jimmy-carters-ufo-sighting-was-it-venus.html" target="_blank" rel="noopener noreferrer nofollow">https://badufos.blogspot.com/2017/01/jimmy-carters-ufo-sighting-was-it-venus.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Carter reports that his &quot;UFO&quot; was in the western sky, at about 30 degrees elevation. This almost perfectly matches the known position of...</p></details>
+   Link:<a href="https://badufos.blogspot.com/2017/01/jimmy-carters-ufo-sighting-was-it-venus.html" target="_blank" rel="noopener noreferrer nofollow">https://badufos.blogspot.com/2017/01/jimmy-carters-ufo-sighting-was-it-venus.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Carter reports that his &quot;UFO&quot; was in the western sky, at about 30 degrees elevation. This almost perfectly matches the known position of...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: historyfacts.com  
    Title: jimmy carter ufo  
-   Link: <a href="https://historyfacts.com/famous-figures/fact/jimmy-carter-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://historyfacts.com/famous-figures/fact/jimmy-carter-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The actual sighting took place in 1969, while Carter was visiting the Lions Club in Leary...Read more...</p></details>
+   Link:<a href="https://historyfacts.com/famous-figures/fact/jimmy-carter-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://historyfacts.com/famous-figures/fact/jimmy-carter-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The actual sighting took place in 1969, while Carter was visiting the Lions Club in Leary...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: historicmysteries.com  
    Title: jimmy carter ufo  
-   Link: <a href="https://www.historicmysteries.com/unexplained-mysteries/jimmy-carter-ufo/36868/" target="_blank" rel="noopener noreferrer nofollow">https://www.historicmysteries.com/unexplained-mysteries/jimmy-carter-ufo/36868/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Carter, and his Encounter with a UFOOct 5, 2023 — One possible explanation for the UFO sighting has been that what Carter saw was V...</p></details>
+   Link:<a href="https://www.historicmysteries.com/unexplained-mysteries/jimmy-carter-ufo/36868/" target="_blank" rel="noopener noreferrer nofollow">https://www.historicmysteries.com/unexplained-mysteries/jimmy-carter-ufo/36868/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Carter, and his Encounter with a UFOOct 5, 2023 — One possible explanation for the UFO sighting has been that what Carter saw was V...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: documents.theblackvault.com  
    Title: Carter UFO  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comCarterUFO.pdf10 Jun 2005 — 1) On March 31, 1976, Presidential Candidate Jimmy Carter... International UFO Bureau, Inc...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comCarterUFO.pdf10 Jun 2005 — 1) On March 31, 1976, Presidential Candidate Jimmy Carter... International UFO Bureau, Inc...</p></details>
    Published: March 31, 1976  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/carter.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/carter.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Carter&#x27;s UFO ReportLook at Carter&#x27;s answers to the questions and see if you think he and 10 other people were looking at Venus as R...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/carter.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/carter.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Carter&#x27;s UFO ReportLook at Carter&#x27;s answers to the questions and see if you think he and 10 other people were looking at Venus as R...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/pz9844/til_jimmy_carter_reported_seeing_an_unidentified/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/pz9844/til_jimmy_carter_reported_seeing_an_unidentified/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TIL Jimmy Carter reported seeing an unidentified flying...The general consensus is that Carter misidentified Venus or a barium tracer cl...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/pz9844/til_jimmy_carter_reported_seeing_an_unidentified/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/pz9844/til_jimmy_carter_reported_seeing_an_unidentified/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TIL Jimmy Carter reported seeing an unidentified flying...The general consensus is that Carter misidentified Venus or a barium tracer cl...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: gtalumni.org  
-   Link: <a href="https://www.gtalumni.org/news/2024/the-t-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gtalumni.org/news/2024/the-t-files.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The T-FilesJustus dug up some records and discovered a rocket had in fact been launched from Eglin on January 6, around the time of Carte...</p></details>
+   Link:<a href="https://www.gtalumni.org/news/2024/the-t-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gtalumni.org/news/2024/the-t-files.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The T-FilesJustus dug up some records and discovered a rocket had in fact been launched from Eglin on January 6, around the time of Carte...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FILESIn America more than 500 sightings were reported to the United. States Air Force in July alone, leading future CIA director Majo...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FILESIn America more than 500 sightings were reported to the United. States Air Force in July alone, leading future CIA director Majo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/doc/32990455/Jimmy-Carter-UFO-sighting-report-and-misc-letters" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/32990455/Jimmy-Carter-UFO-sighting-report-and-misc-letters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Free download as PDF... Official Federal involvement in UFO identification and recordkeeping ended in...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/doc/32990455/Jimmy-Carter-UFO-sighting-report-and-misc-letters" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/32990455/Jimmy-Carter-UFO-sighting-report-and-misc-letters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Free download as PDF... Official Federal involvement in UFO identification and recordkeeping ended in...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: kotaku.com  
    Title: president jimmy carter really did see a ufo technical 1551285337  
-   Link: <a href="https://kotaku.com/president-jimmy-carter-really-did-see-a-ufo-technical-1551285337" target="_blank" rel="noopener noreferrer nofollow">https://kotaku.com/president-jimmy-carter-really-did-see-a-ufo-technical-1551285337</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>​President Jimmy Carter Really Did See A UFO, TechnicallyPresident Jimmy Carter has talked about his 1969 encounter with an unidentified...</p></details>
+   Link:<a href="https://kotaku.com/president-jimmy-carter-really-did-see-a-ufo-technical-1551285337" target="_blank" rel="noopener noreferrer nofollow">https://kotaku.com/president-jimmy-carter-really-did-see-a-ufo-technical-1551285337</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>​President Jimmy Carter Really Did See A UFO, TechnicallyPresident Jimmy Carter has talked about his 1969 encounter with an unidentified...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theverifiedreport.com  
-   Link: <a href="https://theverifiedreport.com/jimmy-carter-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://theverifiedreport.com/jimmy-carter-ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Carter&#x27;s UFO Legacy - The Verified ReportDec 29, 2024 — In January 1969, Carter saw a UFO in Leary, Georgia, the National Archives...</p></details>
+   Link:<a href="https://theverifiedreport.com/jimmy-carter-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://theverifiedreport.com/jimmy-carter-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Carter&#x27;s UFO Legacy - The Verified ReportDec 29, 2024 — In January 1969, Carter saw a UFO in Leary, Georgia, the National Archives...</p></details>
    Published: January 1969  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: debunker.com  
-   Link: <a href="https://www.debunker.com/texts/carter_ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.debunker.com/texts/carter_ufo.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>But it now turns out that there was something else visible at that place and time.Read more...</p></details>
+   Link:<a href="https://www.debunker.com/texts/carter_ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.debunker.com/texts/carter_ufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>But it now turns out that there was something else visible at that place and time.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: rollcall.com  
    Title: intelligence agencies ufos are real but origins a mystery  
-   Link: <a href="https://rollcall.com/2021/06/25/intelligence-agencies-ufos-are-real-but-origins-a-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://rollcall.com/2021/06/25/intelligence-agencies-ufos-are-real-but-origins-a-mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence agencies: UFOs are real but origins a mysteryJun 25, 2021 — A US intelligence assessment released to Congress on Friday conf...</p></details>
+   Link:<a href="https://rollcall.com/2021/06/25/intelligence-agencies-ufos-are-real-but-origins-a-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://rollcall.com/2021/06/25/intelligence-agencies-ufos-are-real-but-origins-a-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence agencies: UFOs are real but origins a mysteryJun 25, 2021 — A US intelligence assessment released to Congress on Friday conf...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: lprnoticias.com  
    Title: day history sep 18 1973 carter files report ufo sighting  
-   Link: <a href="https://lprnoticias.com/day-history-sep-18-1973-carter-files-report-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://lprnoticias.com/day-history-sep-18-1973-carter-files-report-ufo-sighting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This Day in History: Sep 18, 1973 – Carter files report on UFO...On this day in 1973, future President Jimmy Carter files a report with...</p></details>
+   Link:<a href="https://lprnoticias.com/day-history-sep-18-1973-carter-files-report-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://lprnoticias.com/day-history-sep-18-1973-carter-files-report-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Day in History: Sep 18, 1973 – Carter files report on UFO...On this day in 1973, future President Jimmy Carter files a report with...</p></details>

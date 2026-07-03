@@ -763,36 +763,36 @@ A fair reading is therefore cautious. Something may have been reported in the Fo
 <img src="{{ "/assets/images/Fort_Itaipu_Brazil_s_89a0ba-overview.webp" | relative_url }}" alt="Overview image for Fort Itaipu Brazil sighting 1957" loading="eager" decoding="sync" fetchpriority="high">
 ## What was supposed to have happened at Fort Itaipu?
 
-The standard story places the incident in the early hours of 4 November 1957 at the Itaipu Fortress, a Brazilian Army coastal installation at Praia Grande, near Santos and São Vicente. The site itself was not a random backdrop: the fortress was built as part of the defence of the Santos coastal approaches, and municipal and historical accounts describe it as a major military complex overlooking the São Paulo coast. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.praiagrande.sp.gov.br/noticia/id/49371" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.praiagrande.sp.gov.br">[www2.praiagrande.sp.gov.br]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.praiagrande.sp.gov.br</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The standard story places the incident in the early hours of 4 November 1957 at the Itaipu Fortress, a Brazilian Army coastal installation at Praia Grande, near Santos and São Vicente. The site itself was not a random backdrop: the fortress was built as part of the defence of the Santos coastal approaches, and municipal and historical accounts describe it as a major military complex overlooking the São Paulo coast.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.praiagrande.sp.gov.br/noticia/id/49371" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.praiagrande.sp.gov.br">[www2.praiagrande.sp.gov.br]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.praiagrande.sp.gov.br</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-In Fontes’s APRO Bulletin account, two sentries were on duty when a bright object appeared over the Atlantic horizon. It was first taken for a star or aircraft, then described as a rapidly approaching luminous object. The report says it stopped above the fortress, descended to roughly 120 to 180 feet above the highest cannon turret, appeared disc-like, gave off an orange glow, and produced a humming sound. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/articles/19571104_Fort_Itaipu_APRO_BULLETIN_Sept_1959.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Index of /Downloads/Magazines/United States/APRO Bulletin</span><span class="citation-popover-snippet">Index of /Downloads/Magazines/United States/APRO Bulletin</span></span></span>
+In Fontes’s APRO Bulletin account, two sentries were on duty when a bright object appeared over the Atlantic horizon. It was first taken for a star or aircraft, then described as a rapidly approaching luminous object. The report says it stopped above the fortress, descended to roughly 120 to 180 feet above the highest cannon turret, appeared disc-like, gave off an orange glow, and produced a humming sound.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/articles/19571104_Fort_Itaipu_APRO_BULLETIN_Sept_1959.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Index of /Downloads/Magazines/United States/APRO Bulletin</span><span class="citation-popover-snippet">Index of /Downloads/Magazines/United States/APRO Bulletin</span></span></span>
 
-The central claim is that after about a minute of hovering, the object emitted or coincided with an intolerable heat effect. One sentry reportedly collapsed; the other allegedly ran for cover, screaming loudly enough to wake the garrison. The account then says the fortress lights, turret mechanisms, intercommunications system, generators, and emergency circuits failed, while electric clocks supposedly rang at 2:03 a.m. despite being set for 5:00 a.m. Fontes’s narrative says the lights later returned and some personnel saw an orange glow depart at speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ufoe/section_8.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">section 8</span><span class="citation-popover-snippet">section 8</span></span></span>
+The central claim is that after about a minute of hovering, the object emitted or coincided with an intolerable heat effect. One sentry reportedly collapsed; the other allegedly ran for cover, screaming loudly enough to wake the garrison. The account then says the fortress lights, turret mechanisms, intercommunications system, generators, and emergency circuits failed, while electric clocks supposedly rang at 2:03 a.m. despite being set for 5:00 a.m. Fontes’s narrative says the lights later returned and some personnel saw an orange glow depart at speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ufoe/section_8.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">section 8</span><span class="citation-popover-snippet">section 8</span></span></span>
 
-The alleged injuries are what made the case famous. Fontes reported first- and deep second-degree burns over more than 10 per cent of each soldier’s body, especially under clothing, and described one man as unconscious with signs of heat syncope while the other was in deep shock. He then claimed the men were taken to Rio de Janeiro’s Army Central Hospital and isolated under security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports2/571103itaipu-air-attache.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">571103itaipu air attache.jpg</span><span class="citation-popover-snippet">571103itaipu air attache.jpg</span></span></span>
+The alleged injuries are what made the case famous. Fontes reported first- and deep second-degree burns over more than 10 per cent of each soldier’s body, especially under clothing, and described one man as unconscious with signs of heat syncope while the other was in deep shock. He then claimed the men were taken to Rio de Janeiro’s Army Central Hospital and isolated under security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports2/571103itaipu-air-attache.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">571103itaipu air attache.jpg</span><span class="citation-popover-snippet">571103itaipu air attache.jpg</span></span></span>
 
 <img src="{{ "/assets/images/Fort_Itaipu_Brazil_s_89a0ba-Illustration-1-dark.svg" | relative_url }}" alt="Fort Itaipu Brazil sighting 1957 illustration 1" data-theme-src-dark="{{ "/assets/images/Fort_Itaipu_Brazil_s_89a0ba-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fort_Itaipu_Brazil_s_89a0ba-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the original source is both valuable and troubling
 
-The most detailed early source is not an official Brazilian report but Fontes’s article, published in the September 1959 issue of the APRO Bulletin, the magazine of the Aerial Phenomena Research Organization. That matters because APRO was a civilian UFO organisation, not a neutral military archive, and the article is written in a dramatic, interpretive style. Fontes framed the Fort Itaipu story as one of three alleged hostile incidents in 1957 and argued that UFOs might have used technical “weapons” against aircraft, fortifications, and soldiers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/571103itaipu_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+The most detailed early source is not an official Brazilian report but Fontes’s article, published in the September 1959 issue of the APRO Bulletin, the magazine of the Aerial Phenomena Research Organization. That matters because APRO was a civilian UFO organisation, not a neutral military archive, and the article is written in a dramatic, interpretive style. Fontes framed the Fort Itaipu story as one of three alleged hostile incidents in 1957 and argued that UFOs might have used technical “weapons” against aircraft, fortifications, and soldiers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/571103itaipu_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
-Fontes did claim a source chain. He said an Army officer who had been at the fortress contacted him three weeks after the incident, and that three further Army officers later confirmed the story. He also said he tried, as a physician, to reach the injured soldiers at the Army hospital but failed; the only thing he claimed to establish independently was that two soldiers from Fort Itaipu were under treatment for burns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/books/coufo/appendixe.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Challenge of UFOs</span><span class="citation-popover-snippet">Challenge of UFOs</span></span></span>
+Fontes did claim a source chain. He said an Army officer who had been at the fortress contacted him three weeks after the incident, and that three further Army officers later confirmed the story. He also said he tried, as a physician, to reach the injured soldiers at the Army hospital but failed; the only thing he claimed to establish independently was that two soldiers from Fort Itaipu were under treatment for burns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/books/coufo/appendixe.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Challenge of UFOs</span><span class="citation-popover-snippet">Challenge of UFOs</span></span></span>
 
 The problem is that these claims stop short of verifiable documentation. The named sentries are not provided. The alleged officers are not named. The medical records are not reproduced. The supposed secret report is not available. The result is a case with a vivid primary ufological account but without the basic identifiers that normally allow independent historical checking.
 
-The story also grew into later catalogues and summaries. NICAP, another major civilian UFO organisation, listed the event as a November 1957 case in which Itaipu Fort’s electrical system failed and sentries received burns as a UFO approached and hovered. A CIA Reading Room search result for a NICAP-related document similarly indexes the Fort Itaipu entry, but that reflects the circulation of NICAP material rather than a confirmed CIA investigation finding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1957fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+The story also grew into later catalogues and summaries. NICAP, another major civilian UFO organisation, listed the event as a November 1957 case in which Itaipu Fort’s electrical system failed and sentries received burns as a UFO approached and hovered. A CIA Reading Room search result for a NICAP-related document similarly indexes the Fort Itaipu entry, but that reflects the circulation of NICAP material rather than a confirmed CIA investigation finding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1957fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xluya-2ov40" title="The Most Witnessed UFO Incident in History | Operation Prato" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xluya-2ov40" target="_blank" rel="noopener noreferrer">The Most Witnessed UFO Incident in History | Operation Prato</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 2.8M &middot; Uploaded: March 2025 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xluya-2ov40" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xluya-2ov40">Open on YouTube</a></p></div></div></div>
 
 ## What later investigators found when they looked for corroboration
 
-The strongest challenge to the classic account comes from later Brazilian research associated with Édison Boaventura Júnior and discussed in detail by UFO writer Kevin Randle. Randle’s review is useful because it separates three layers of the case: a possible UFO sighting in the area, rumours among people connected with the fort, and the much more dramatic claim that soldiers were burned and official evidence was suppressed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kevinrandle.blogspot.com/2016/06/fort-itaipu-and-olavo-fontes-revisited.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">A Different Perspective: Fort Itaipu and Olavo Fontes Revisited</span><span class="citation-popover-snippet">A Different Perspective: Fort Itaipu and Olavo Fontes Revisited</span></span></span>
+The strongest challenge to the classic account comes from later Brazilian research associated with Édison Boaventura Júnior and discussed in detail by UFO writer Kevin Randle. Randle’s review is useful because it separates three layers of the case: a possible UFO sighting in the area, rumours among people connected with the fort, and the much more dramatic claim that soldiers were burned and official evidence was suppressed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kevinrandle.blogspot.com/2016/06/fort-itaipu-and-olavo-fontes-revisited.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">A Different Perspective: Fort Itaipu and Olavo Fontes Revisited</span><span class="citation-popover-snippet">A Different Perspective: Fort Itaipu and Olavo Fontes Revisited</span></span></span>
 
-According to Randle’s summary, Boaventura obtained names of hundreds of soldiers associated with the fort and contacted many former personnel. Some people had heard rumours; some recalled or accepted that there had been sightings in the region; but Boaventura did not find a first-hand witness who could verify the full burn-and-blackout story. One former soldier reportedly said that the tale had been treated as a rumour at the time rather than as a known event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kevinrandle.blogspot.com/2016/06/fort-itaipu-and-olavo-fontes-revisited.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">A Different Perspective: Fort Itaipu and Olavo Fontes Revisited</span><span class="citation-popover-snippet">A Different Perspective: Fort Itaipu and Olavo Fontes Revisited</span></span></span>
+According to Randle’s summary, Boaventura obtained names of hundreds of soldiers associated with the fort and contacted many former personnel. Some people had heard rumours; some recalled or accepted that there had been sightings in the region; but Boaventura did not find a first-hand witness who could verify the full burn-and-blackout story. One former soldier reportedly said that the tale had been treated as a rumour at the time rather than as a known event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kevinrandle.blogspot.com/2016/06/fort-itaipu-and-olavo-fontes-revisited.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">A Different Perspective: Fort Itaipu and Olavo Fontes Revisited</span><span class="citation-popover-snippet">A Different Perspective: Fort Itaipu and Olavo Fontes Revisited</span></span></span>
 
-The alleged physical evidence also weakens under scrutiny. Later versions of the story mention a rifle barrel twisted by heat, but Boaventura’s attempt to locate such a weapon at the Army Historical Museum in Rio did not find it. Randle concludes that the evidence for the twisted rifle is late, second-hand, and unsupported by museum records available to the researcher. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kevinrandle.blogspot.com/2016/06/fort-itaipu-and-olavo-fontes-revisited.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">A Different Perspective: Fort Itaipu and Olavo Fontes Revisited</span><span class="citation-popover-snippet">A Different Perspective: Fort Itaipu and Olavo Fontes Revisited</span></span></span>
+The alleged physical evidence also weakens under scrutiny. Later versions of the story mention a rifle barrel twisted by heat, but Boaventura’s attempt to locate such a weapon at the Army Historical Museum in Rio did not find it. Randle concludes that the evidence for the twisted rifle is late, second-hand, and unsupported by museum records available to the researcher.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kevinrandle.blogspot.com/2016/06/fort-itaipu-and-olavo-fontes-revisited.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">A Different Perspective: Fort Itaipu and Olavo Fontes Revisited</span><span class="citation-popover-snippet">A Different Perspective: Fort Itaipu and Olavo Fontes Revisited</span></span></span>
 
-One particularly important distinction is that a commander’s son reportedly confirmed hearing his father speak of a UFO sighting near the beginning of November 1957, but said he had never heard his father mention burned soldiers. That is exactly the kind of detail that changes the evidential weight of the case: it may support a sighting tradition around Fort Itaipu, while cutting against the more sensational injury narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kevinrandle.blogspot.com/2016/06/fort-itaipu-and-olavo-fontes-revisited.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">A Different Perspective: Fort Itaipu and Olavo Fontes Revisited</span><span class="citation-popover-snippet">A Different Perspective: Fort Itaipu and Olavo Fontes Revisited</span></span></span>
+One particularly important distinction is that a commander’s son reportedly confirmed hearing his father speak of a UFO sighting near the beginning of November 1957, but said he had never heard his father mention burned soldiers. That is exactly the kind of detail that changes the evidential weight of the case: it may support a sighting tradition around Fort Itaipu, while cutting against the more sensational injury narrative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kevinrandle.blogspot.com/2016/06/fort-itaipu-and-olavo-fontes-revisited.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">A Different Perspective: Fort Itaipu and Olavo Fontes Revisited</span><span class="citation-popover-snippet">A Different Perspective: Fort Itaipu and Olavo Fontes Revisited</span></span></span>
 
 <img src="{{ "/assets/images/Fort_Itaipu_Brazil_s_89a0ba-Illustration-2-dark.svg" | relative_url }}" alt="Fort Itaipu Brazil sighting 1957 illustration 2" data-theme-src-dark="{{ "/assets/images/Fort_Itaipu_Brazil_s_89a0ba-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fort_Itaipu_Brazil_s_89a0ba-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The sceptical reading: a sighting may have become a legend
@@ -809,7 +809,7 @@ The sceptical case does not need to prove that every person involved lied. It on
 
 </div>
 
-Donald Menzel and Lyle Boyd’s sceptical book *The World of Flying Saucers* treated the Fort Itaipu report as part of a broader late-1957 wave of alleged electromagnetic UFO effects. Their criticism was blunt: they noted the lack of witness names and missing basic observational details, and argued that dimming lights or generator failures do not require a UFO explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The World of Flying Saucers, by Donald H. Menzel and Lyle G. Boyd—A Project Gutenberg eBook...</span></span></span>
+Donald Menzel and Lyle Boyd’s sceptical book *The World of Flying Saucers* treated the Fort Itaipu report as part of a broader late-1957 wave of alleged electromagnetic UFO effects. Their criticism was blunt: they noted the lack of witness names and missing basic observational details, and argued that dimming lights or generator failures do not require a UFO explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The World of Flying Saucers, by Donald H. Menzel and Lyle G. Boyd—A Project Gutenberg eBook...</span></span></span>
 
 That sceptical framing is not a full solution either. It does not identify a specific mundane cause for the original report. It does, however, correctly highlights a methodological point: extraordinary claims about burns, electrical paralysis, and military secrecy need more than anonymous testimony repeated through UFO publications.
 
@@ -817,220 +817,220 @@ That sceptical framing is not a full solution either. It does not identify a spe
 
 ## The pro-UFO reading: why the case still attracts attention
 
-The case persists because, if Fontes’s version were accurate, Fort Itaipu would be unusually strong by UFO-case standards. It would combine military witnesses, a close-range object, physiological effects, electrical interference, multiple alleged observers inside a military installation, and claimed official restriction of information. That combination explains why the incident became a staple in UFO literature and why it appears in catalogues of cases involving physical effects on humans or electrical systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/books/coufo/coufo_complete.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Challenge of UFOs</span><span class="citation-popover-snippet">Challenge of UFOs</span></span></span>
+The case persists because, if Fontes’s version were accurate, Fort Itaipu would be unusually strong by UFO-case standards. It would combine military witnesses, a close-range object, physiological effects, electrical interference, multiple alleged observers inside a military installation, and claimed official restriction of information. That combination explains why the incident became a staple in UFO literature and why it appears in catalogues of cases involving physical effects on humans or electrical systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/books/coufo/coufo_complete.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Challenge of UFOs</span><span class="citation-popover-snippet">Challenge of UFOs</span></span></span>
 
-The story also appeared in educational or quasi-official contexts. A version of the case was included in material associated with the US Air Force Academy’s *Introductory Space Science* chapter on UFOs, where it was presented as an example of a global UFO report involving burned sentries at Fort Itaipu. Later discussion of that textbook notes that the Forte Itaipu item was dropped in a revised 1972 version, alongside a more explicitly sceptical warning about misinformation in UFO lore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unknowncountry.com/insight/us-air-force-textbook-on-ufos-from-1968-introductory-space-science-vol-ii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unknowncountry.com">[WHITLEY STRIEBER&#x27;S UNKNOWN COUNTRY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unknowncountry.com</span><span class="citation-popover-title">us air force textbook on ufos from 1968 introductory space science vol ii</span><span class="citation-popover-snippet">us air force textbook on ufos from 1968 introductory space science vol ii</span></span></span>
+The story also appeared in educational or quasi-official contexts. A version of the case was included in material associated with the US Air Force Academy’s *Introductory Space Science* chapter on UFOs, where it was presented as an example of a global UFO report involving burned sentries at Fort Itaipu. Later discussion of that textbook notes that the Forte Itaipu item was dropped in a revised 1972 version, alongside a more explicitly sceptical warning about misinformation in UFO lore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://unknowncountry.com/insight/us-air-force-textbook-on-ufos-from-1968-introductory-space-science-vol-ii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unknowncountry.com">[WHITLEY STRIEBER&#x27;S UNKNOWN COUNTRY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unknowncountry.com</span><span class="citation-popover-title">us air force textbook on ufos from 1968 introductory space science vol ii</span><span class="citation-popover-snippet">us air force textbook on ufos from 1968 introductory space science vol ii</span></span></span>
 
-For believers, Fontes’s position as a physician and his claimed military contacts have been treated as credibility markers. The APRO editor even argued that it was unlikely a nationally known medical scientist would risk his career on a fabricated report. Yet that argument is about reputation, not documentation; it cannot substitute for named witnesses, medical files, or official records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/articles/19571104_Fort_Itaipu_APRO_BULLETIN_Sept_1959.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Index of /Downloads/Magazines/United States/APRO Bulletin</span><span class="citation-popover-snippet">Index of /Downloads/Magazines/United States/APRO Bulletin</span></span></span>
+For believers, Fontes’s position as a physician and his claimed military contacts have been treated as credibility markers. The APRO editor even argued that it was unlikely a nationally known medical scientist would risk his career on a fabricated report. Yet that argument is about reputation, not documentation; it cannot substitute for named witnesses, medical files, or official records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/articles/19571104_Fort_Itaipu_APRO_BULLETIN_Sept_1959.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Index of /Downloads/Magazines/United States/APRO Bulletin</span><span class="citation-popover-snippet">Index of /Downloads/Magazines/United States/APRO Bulletin</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N4kWyDGjHyA" title="Explosão de OVNI em Ubatuba em 1957" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N4kWyDGjHyA" target="_blank" rel="noopener noreferrer">Explosão de OVNI em Ubatuba em 1957</a></p><p class="youtube-embed-meta">Channel: Curiosidades de Ubatuba &middot; Views: 11.4K &middot; Uploaded: September 2016 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N4kWyDGjHyA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N4kWyDGjHyA">Open on YouTube</a></p></div></div></div>
 
 ## Where the case fits in the 1957 Brazilian UFO wave
 
-Fort Itaipu should not be read in isolation from 1957. Brazil saw several famous UFO narratives that year, including the Ubatuba fragments story and the Antonio Villas Boas abduction claim. The Fort Itaipu incident is often grouped with those cases as part of a year in which Brazilian UFO lore became internationally influential. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pt.wikipedia.org/wiki/Fortaleza_de_Itaipu" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fortaleza de Itaipu</span><span class="citation-popover-snippet">Fortaleza de Itaipu</span></span></span>
+Fort Itaipu should not be read in isolation from 1957. Brazil saw several famous UFO narratives that year, including the Ubatuba fragments story and the Antonio Villas Boas abduction claim. The Fort Itaipu incident is often grouped with those cases as part of a year in which Brazilian UFO lore became internationally influential.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pt.wikipedia.org/wiki/Fortaleza_de_Itaipu" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fortaleza de Itaipu</span><span class="citation-popover-snippet">Fortaleza de Itaipu</span></span></span>
 
-That wider context cuts both ways. On one hand, clustered reports can make a case feel less isolated. On the other, waves of sightings often create conditions in which rumours, press summaries, and speculative interpretations reinforce each other. Menzel and Boyd explicitly connected Fort Itaipu to the broader late-1957 surge of reports involving alleged electromagnetic effects, especially after Sputnik sharpened public attention on the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The World of Flying Saucers, by Donald H. Menzel and Lyle G. Boyd—A Project Gutenberg eBook...</span></span></span>
+That wider context cuts both ways. On one hand, clustered reports can make a case feel less isolated. On the other, waves of sightings often create conditions in which rumours, press summaries, and speculative interpretations reinforce each other. Menzel and Boyd explicitly connected Fort Itaipu to the broader late-1957 surge of reports involving alleged electromagnetic effects, especially after Sputnik sharpened public attention on the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The World of Flying Saucers, by Donald H. Menzel and Lyle G. Boyd—A Project Gutenberg eBook...</span></span></span>
 
 The most careful position is therefore not simply “real” or “debunked”. It is more precise to say that a UFO sighting tradition near Fort Itaipu appears to have existed, but the celebrated account of burned sentries and comprehensive electrical failure is not securely established. The case’s historical importance lies less in proving an anomalous event than in showing how a dramatic UFO narrative can travel from local rumour or restricted testimony into international UFO literature.
 
 <img src="{{ "/assets/images/Fort_Itaipu_Brazil_s_89a0ba-Illustration-3-dark.svg" | relative_url }}" alt="Fort Itaipu Brazil sighting 1957 illustration 3" data-theme-src-dark="{{ "/assets/images/Fort_Itaipu_Brazil_s_89a0ba-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fort_Itaipu_Brazil_s_89a0ba-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Best current assessment
 
-The Fort Itaipu case remains interesting, but its evidential status is weak. The core narrative comes from Fontes’s 1959 APRO article, which is detailed but anonymous, dramatic, and strongly interpretive. Later catalogues repeated the case, and a Brazilian air attaché-style summary and NICAP listings helped preserve it, but these do not provide the missing first-hand names, medical documentation, or official Brazilian findings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ufoe/section_8.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">section 8</span><span class="citation-popover-snippet">section 8</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports2/571103itaipu-air-attache.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">571103itaipu air attache.jpg</span><span class="citation-popover-snippet">571103itaipu air attache.jpg</span></span></span>
+The Fort Itaipu case remains interesting, but its evidential status is weak. The core narrative comes from Fontes’s 1959 APRO article, which is detailed but anonymous, dramatic, and strongly interpretive. Later catalogues repeated the case, and a Brazilian air attaché-style summary and NICAP listings helped preserve it, but these do not provide the missing first-hand names, medical documentation, or official Brazilian findings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ufoe/section_8.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">section 8</span><span class="citation-popover-snippet">section 8</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports2/571103itaipu-air-attache.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">571103itaipu air attache.jpg</span><span class="citation-popover-snippet">571103itaipu air attache.jpg</span></span></span>
 
-The most defensible conclusion is that the case should be filed as an unresolved and poorly documented historical UFO claim, not as a verified attack on Brazilian soldiers. The possibility of an actual sighting around the fortress is more plausible than the full injury-and-blackout story, because later testimony appears to support rumours or recollections of a sighting while failing to corroborate the burns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kevinrandle.blogspot.com/2016/06/fort-itaipu-and-olavo-fontes-revisited.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">A Different Perspective: Fort Itaipu and Olavo Fontes Revisited</span><span class="citation-popover-snippet">A Different Perspective: Fort Itaipu and Olavo Fontes Revisited</span></span></span>
+The most defensible conclusion is that the case should be filed as an unresolved and poorly documented historical UFO claim, not as a verified attack on Brazilian soldiers. The possibility of an actual sighting around the fortress is more plausible than the full injury-and-blackout story, because later testimony appears to support rumours or recollections of a sighting while failing to corroborate the burns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kevinrandle.blogspot.com/2016/06/fort-itaipu-and-olavo-fontes-revisited.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">A Different Perspective: Fort Itaipu and Olavo Fontes Revisited</span><span class="citation-popover-snippet">A Different Perspective: Fort Itaipu and Olavo Fontes Revisited</span></span></span>
 
 For readers comparing this page with sibling branches in a wider Brazilian UFO dossier, Fort Itaipu is a useful contrast case. Unlike incidents built around named civilian witnesses, photographs, or released official files, this one depends on a dramatic but hard-to-audit source chain. Its lesson is not that nothing happened; it is that the most memorable version of a UFO case is not always the best-supported version.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Fort Itaipu Become a UFO Legend?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Fort Itaipu Become a UFO Legend?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Contextualizes Brazil&#x27;s massive 1957 waves, examining how intelligence channels processed high-profile coastal fortress alerts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contextualizes Brazil&#x27;s massive 1957 waves, examining how intelligence channels processed high-profile coastal fortress alerts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides an objective profile of the Fort Itaipu legend, outlining the reported orange object, heat wave, and subsequent electrical power...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides an objective profile of the Fort Itaipu legend, outlining the reported orange object, heat wave, and subsequent electrical power...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Provides analytical tools to examine how uncorroborated rumors at coastal installations grow into global black-budget conspiracy lore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides analytical tools to examine how uncorroborated rumors at coastal installations grow into global black-budget conspiracy lore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Teaches how to spot the underlying frailty of historical anecdotes when independent public records fail to establish basic validation met...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches how to spot the underlying frailty of historical anecdotes when independent public records fail to establish basic validation met...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-fort-itaipu-become-a-ufo-legend-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1046,7 +1046,7 @@ For readers comparing this page with sibling branches in a wider Brazilian UFO d
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1066,7 +1066,7 @@ For readers comparing this page with sibling branches in a wider Brazilian UFO d
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1098,7 +1098,7 @@ For readers comparing this page with sibling branches in a wider Brazilian UFO d
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1150,7 +1150,7 @@ For readers comparing this page with sibling branches in a wider Brazilian UFO d
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1195,7 +1195,7 @@ For readers comparing this page with sibling branches in a wider Brazilian UFO d
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1236,154 +1236,154 @@ For readers comparing this page with sibling branches in a wider Brazilian UFO d
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nicap.org  
    Title: Index of /Downloads/Magazines/United States/APRO Bulletin  
-   Link: <a href="https://www.nicap.org/articles/19571104_Fort_Itaipu_APRO_BULLETIN_Sept_1959.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/articles/19571104_Fort_Itaipu_APRO_BULLETIN_Sept_1959.pdf</a>  
+   Link:<a href="https://www.nicap.org/articles/19571104_Fort_Itaipu_APRO_BULLETIN_Sept_1959.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/articles/19571104_Fort_Itaipu_APRO_BULLETIN_Sept_1959.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: kevinrandle.blogspot.com  
    Title: A Different Perspective: Fort Itaipu and Olavo Fontes Revisited  
-   Link: <a href="https://kevinrandle.blogspot.com/2016/06/fort-itaipu-and-olavo-fontes-revisited.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2016/06/fort-itaipu-and-olavo-fontes-revisited.html</a>  
+   Link:<a href="https://kevinrandle.blogspot.com/2016/06/fort-itaipu-and-olavo-fontes-revisited.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2016/06/fort-itaipu-and-olavo-fontes-revisited.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: www2.praiagrande.sp.gov.br  
-   Link: <a href="https://www2.praiagrande.sp.gov.br/noticia/id/49371" target="_blank" rel="noopener noreferrer nofollow">https://www2.praiagrande.sp.gov.br/noticia/id/49371</a>  
+   Link:<a href="https://www2.praiagrande.sp.gov.br/noticia/id/49371" target="_blank" rel="noopener noreferrer nofollow">https://www2.praiagrande.sp.gov.br/noticia/id/49371</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Fortaleza de Itaipu  
-   Link: <a href="https://pt.wikipedia.org/wiki/Fortaleza_de_Itaipu" target="_blank" rel="noopener noreferrer nofollow">https://pt.wikipedia.org/wiki/Fortaleza_de_Itaipu</a>  
+   Link:<a href="https://pt.wikipedia.org/wiki/Fortaleza_de_Itaipu" target="_blank" rel="noopener noreferrer nofollow">https://pt.wikipedia.org/wiki/Fortaleza_de_Itaipu</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nicap.org  
    Title: section 8  
-   Link: <a href="https://www.nicap.org/ufoe/section_8.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufoe/section_8.htm</a>  
+   Link:<a href="https://www.nicap.org/ufoe/section_8.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufoe/section_8.htm</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cia.gov  
    Title: cia rdp81r00560r000100010001 0  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: gutenberg.org  
    Title: Project Gutenberg  
-   Link: <a href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/66639/66639-h/66639-h.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The World of Flying Saucers, by Donald H. Menzel and Lyle G. Boyd—A Project Gutenberg eBook...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/66639/66639-h/66639-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The World of Flying Saucers, by Donald H. Menzel and Lyle G. Boyd—A Project Gutenberg eBook...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thesaucersthattimeforgot.blogspot.com  
    Title: ufos aliens us air force academy  
-   Link: <a href="https://thesaucersthattimeforgot.blogspot.com/2022/02/ufos-aliens-us-air-force-academy.html" target="_blank" rel="noopener noreferrer nofollow">https://thesaucersthattimeforgot.blogspot.com/2022/02/ufos-aliens-us-air-force-academy.html</a>  
+   Link:<a href="https://thesaucersthattimeforgot.blogspot.com/2022/02/ufos-aliens-us-air-force-academy.html" target="_blank" rel="noopener noreferrer nofollow">https://thesaucersthattimeforgot.blogspot.com/2022/02/ufos-aliens-us-air-force-academy.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: UFO sightings in Brazil  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nicap.org  
    Title: 571103itaipu air attache.jpg  
-   Link: <a href="https://www.nicap.org/reports2/571103itaipu-air-attache.jpg" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports2/571103itaipu-air-attache.jpg</a>  
+   Link:<a href="https://www.nicap.org/reports2/571103itaipu-air-attache.jpg" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports2/571103itaipu-air-attache.jpg</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nicap.org  
    Title: UFO Report  
-   Link: <a href="https://www.nicap.org/571103itaipu_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/571103itaipu_dir.htm</a>  
+   Link:<a href="https://www.nicap.org/571103itaipu_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/571103itaipu_dir.htm</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Caso do Forte de Itaipu  
-   Link: <a href="https://pt.wikipedia.org/wiki/Caso_do_Forte_de_Itaipu" target="_blank" rel="noopener noreferrer nofollow">https://pt.wikipedia.org/wiki/Caso_do_Forte_de_Itaipu</a>  
+   Link:<a href="https://pt.wikipedia.org/wiki/Caso_do_Forte_de_Itaipu" target="_blank" rel="noopener noreferrer nofollow">https://pt.wikipedia.org/wiki/Caso_do_Forte_de_Itaipu</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: 1957 in Brazil  
-   Link: <a href="https://en.wikipedia.org/wiki/1957_in_Brazil" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1957_in_Brazil</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1957_in_Brazil" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1957_in_Brazil</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Brazilian Army  
-   Link: <a href="https://en.wikipedia.org/wiki/Brazilian_Army" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brazilian_Army</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Brazilian_Army" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brazilian_Army</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nicap.org  
    Title: Challenge of UFOs  
-   Link: <a href="https://www.nicap.org/books/coufo/appendixe.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/books/coufo/appendixe.htm</a>  
+   Link:<a href="https://www.nicap.org/books/coufo/appendixe.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/books/coufo/appendixe.htm</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/chronos/1957fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1957fullrep.htm</a>  
+   Link:<a href="https://www.nicap.org/chronos/1957fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1957fullrep.htm</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nicap.org  
    Title: Challenge of UFOs  
-   Link: <a href="https://www.nicap.org/books/coufo/coufo_complete.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/books/coufo/coufo_complete.htm</a>  
+   Link:<a href="https://www.nicap.org/books/coufo/coufo_complete.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/books/coufo/coufo_complete.htm</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/the-national-archives-ufo-file-release-february-2010/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/the-national-archives-ufo-file-release-february-2010/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/the-national-archives-ufo-file-release-february-2010/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/the-national-archives-ufo-file-release-february-2010/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: apmg.pr.gov.br  
    Title: REVISTA CIENCIAS POLICIAIS V4 N4 2022 INTELIGÊNCIA DE SEGURANÇA PÚBLICA  
-   Link: <a href="https://www.apmg.pr.gov.br/sites/apmg/arquivos_restritos/files/documento/2022-11/REVISTA_CIENCIAS_POLICIAIS_V4_N4_2022_INTELIG%C3%8ANCIA%20DE%20SEGURAN%C3%87A%20P%C3%9ABLICA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apmg.pr.gov.br/sites/apmg/arquivos_restritos/files/documento/2022-11/REVISTA_CIENCIAS_POLICIAIS_V4_N4_2022_INTELIG%C3%8ANCIA%20DE%20SEGURAN%C3%87A%20P%C3%9ABLICA.pdf</a>  
+   Link:<a href="https://www.apmg.pr.gov.br/sites/apmg/arquivos_restritos/files/documento/2022-11/REVISTA_CIENCIAS_POLICIAIS_V4_N4_2022_INTELIG%C3%8ANCIA%20DE%20SEGURAN%C3%87A%20P%C3%9ABLICA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apmg.pr.gov.br/sites/apmg/arquivos_restritos/files/documento/2022-11/REVISTA_CIENCIAS_POLICIAIS_V4_N4_2022_INTELIG%C3%8ANCIA%20DE%20SEGURAN%C3%87A%20P%C3%9ABLICA.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf</a>  
+   Link:<a href="https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=N4kWyDGjHyA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N4kWyDGjHyA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=N4kWyDGjHyA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N4kWyDGjHyA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: unknowncountry.com  
    Title: us air force textbook on ufos from 1968 introductory space science vol ii  
-   Link: <a href="https://unknowncountry.com/insight/us-air-force-textbook-on-ufos-from-1968-introductory-space-science-vol-ii/" target="_blank" rel="noopener noreferrer nofollow">https://unknowncountry.com/insight/us-air-force-textbook-on-ufos-from-1968-introductory-space-science-vol-ii/</a>  
+   Link:<a href="https://unknowncountry.com/insight/us-air-force-textbook-on-ufos-from-1968-introductory-space-science-vol-ii/" target="_blank" rel="noopener noreferrer nofollow">https://unknowncountry.com/insight/us-air-force-textbook-on-ufos-from-1968-introductory-space-science-vol-ii/</a>  
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=EF-NzbS-Mhs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EF-NzbS-Mhs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Filmmaker James Fox On NEW Varginha UFO Revelations | Unveiled Ep. 42...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EF-NzbS-Mhs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EF-NzbS-Mhs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Filmmaker James Fox On NEW Varginha UFO Revelations | Unveiled Ep. 42...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: The Most Witnessed UFO Incident in History | Operation Prato  
-   Link: <a href="https://www.youtube.com/watch?v=xluya-2ov40" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xluya-2ov40</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Night of the UFOs: When the Brazilian Air Force chased unidentified flying objects in Brazil...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xluya-2ov40" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xluya-2ov40</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Night of the UFOs: When the Brazilian Air Force chased unidentified flying objects in Brazil...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/104742302/60_YEARS_OF_NEGLECTED_EVIDENCE_ANALYSIA_OF_GLOBAL_HUMANOID_ENCOUNTER_REPORTS_1946_2006" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/104742302/60_YEARS_OF_NEGLECTED_EVIDENCE_ANALYSIA_OF_GLOBAL_HUMANOID_ENCOUNTER_REPORTS_1946_2006</a>  
+   Link:<a href="https://www.academia.edu/104742302/60_YEARS_OF_NEGLECTED_EVIDENCE_ANALYSIA_OF_GLOBAL_HUMANOID_ENCOUNTER_REPORTS" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/104742302/60_YEARS_OF_NEGLECTED_EVIDENCE_ANALYSIA_OF_GLOBAL_HUMANOID_ENCOUNTER_REPORTS</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/Cu_SLzfJNwJ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/Cu_SLzfJNwJ/</a>  
+   Link:<a href="https://www.instagram.com/reel/Cu_SLzfJNwJ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/Cu_SLzfJNwJ/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LovinMalta/posts/a-video-which-excited-ufo-enthusiasts-worldwide-for-its-potential-historical-imp/900735478761638/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LovinMalta/posts/a-video-which-excited-ufo-enthusiasts-worldwide-for-its-potential-historical-imp/900735478761638/</a>  
+   Link:<a href="https://www.facebook.com/LovinMalta/posts/a-video-which-excited-ufo-enthusiasts-worldwide-for-its-potential-historical-imp/900735478761638/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LovinMalta/posts/a-video-which-excited-ufo-enthusiasts-worldwide-for-its-potential-historical-imp/900735478761638/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DKvAwKBReWS/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DKvAwKBReWS/?hl=en-gb</a>  
+   Link:<a href="https://www.instagram.com/reel/DKvAwKBReWS/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DKvAwKBReWS/?hl=en-gb</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/QuantumPhysicsToday/posts/brazilian-air-force-releases-40-years-of-ufo-files-after-garry-nolan-campaign-ga/1275507888112617/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/QuantumPhysicsToday/posts/brazilian-air-force-releases-40-years-of-ufo-files-after-garry-nolan-campaign-ga/1275507888112617/</a>  
+   Link:<a href="https://www.facebook.com/QuantumPhysicsToday/posts/brazilian-air-force-releases-40-years-of-ufo-files-after-garry-nolan-campaign-ga/1275507888112617/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/QuantumPhysicsToday/posts/brazilian-air-force-releases-40-years-of-ufo-files-after-garry-nolan-campaign-ga/1275507888112617/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: vigilia.com.br  
-   Link: <a href="https://vigilia.com.br/casos/page/4/?srsltid=AfmBOophkTuQQCJxixX1kc73bHfm2DcNY4amnb2tkKmkXC3uCnwA0Qoz" target="_blank" rel="noopener noreferrer nofollow">https://vigilia.com.br/casos/page/4/?srsltid=AfmBOophkTuQQCJxixX1kc73bHfm2DcNY4amnb2tkKmkXC3uCnwA0Qoz</a>  
+   Link:<a href="https://vigilia.com.br/casos/page/4/?srsltid=AfmBOophkTuQQCJxixX1kc73bHfm2DcNY4amnb2tkKmkXC3uCnwA0Qoz" target="_blank" rel="noopener noreferrer nofollow">https://vigilia.com.br/casos/page/4/?srsltid=AfmBOophkTuQQCJxixX1kc73bHfm2DcNY4amnb2tkKmkXC3uCnwA0Qoz</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: vigilia.com.br  
-   Link: <a href="https://vigilia.com.br/conheca-toda-a-verdade-sobre-o-caso-do-forte-itaipu/?srsltid=AfmBOoo4qh_CqX1lWVg6InyluKfedj7KMXGqviH5qdYLtOi-qPHpSLCx" target="_blank" rel="noopener noreferrer nofollow">https://vigilia.com.br/conheca-toda-a-verdade-sobre-o-caso-do-forte-itaipu/?srsltid=AfmBOoo4qh_CqX1lWVg6InyluKfedj7KMXGqviH5qdYLtOi-qPHpSLCx</a>  
+   Link:<a href="https://vigilia.com.br/conheca-toda-a-verdade-sobre-o-caso-do-forte-itaipu/?srsltid=AfmBOoo4qh_CqX1lWVg6InyluKfedj7KMXGqviH5qdYLtOi-qPHpSLCx" target="_blank" rel="noopener noreferrer nofollow">https://vigilia.com.br/conheca-toda-a-verdade-sobre-o-caso-do-forte-itaipu/?srsltid=AfmBOoo4qh_CqX1lWVg6InyluKfedj7KMXGqviH5qdYLtOi-qPHpSLCx</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: vigilia.com.br  
-   Link: <a href="https://vigilia.com.br/conheca-toda-a-verdade-sobre-o-caso-do-forte-itaipu/?srsltid=AfmBOoo9xCNNQo3hHirnAmiV-UCt5Fqlwf-FbW0bXFTXwRjm9W1PQxN_" target="_blank" rel="noopener noreferrer nofollow">https://vigilia.com.br/conheca-toda-a-verdade-sobre-o-caso-do-forte-itaipu/?srsltid=AfmBOoo9xCNNQo3hHirnAmiV-UCt5Fqlwf-FbW0bXFTXwRjm9W1PQxN_</a>
+   Link:<a href="https://vigilia.com.br/conheca-toda-a-verdade-sobre-o-caso-do-forte-itaipu/?srsltid=AfmBOoo9xCNNQo3hHirnAmiV-UCt5Fqlwf-FbW0bXFTXwRjm9W1PQxN_" target="_blank" rel="noopener noreferrer nofollow">https://vigilia.com.br/conheca-toda-a-verdade-sobre-o-caso-do-forte-itaipu/?srsltid=AfmBOoo9xCNNQo3hHirnAmiV-UCt5Fqlwf-FbW0bXFTXwRjm9W1PQxN_</a>

@@ -248,14 +248,14 @@ image: /assets/images/Orfeo_Angelucci_enco_bef29a_may_1952_first_conta_2f2627-Il
 
 ## Introduction
 
-Orfeo Angelucci’s claimed first UFO contact in May 1952 became the foundation of his later fame as one of the best-known American “contactees” of the 1950s. According to his own account, the experience happened during a late-night drive home from aircraft work near Los Angeles, when glowing objects appeared around his car and disembodied voices began speaking to him telepathically. What makes this episode historically important is not the strength of its evidence, which remained almost entirely personal testimony, but the way the story evolved into a widely circulated spiritual UFO narrative after publication in *The Secret of the Saucers* in 1955. The source trail surrounding the May 1952 event reveals a mixture of autobiographical recollection, editorial shaping by Ray Palmer, Cold War-era flying saucer culture, and later retellings that often simplified or embellished the original chronology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/sos03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-title">Internet Sacred Text Archive The Secret of the Saucers: Chapter I</span><span class="citation-popover-snippet">The Disk From Anoth...The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full text etext at sacred... &quot;We&#x27;ll contact you again, O...</span></span></span>
+Orfeo Angelucci’s claimed first UFO contact in May 1952 became the foundation of his later fame as one of the best-known American “contactees” of the 1950s. According to his own account, the experience happened during a late-night drive home from aircraft work near Los Angeles, when glowing objects appeared around his car and disembodied voices began speaking to him telepathically. What makes this episode historically important is not the strength of its evidence, which remained almost entirely personal testimony, but the way the story evolved into a widely circulated spiritual UFO narrative after publication in *The Secret of the Saucers* in 1955. The source trail surrounding the May 1952 event reveals a mixture of autobiographical recollection, editorial shaping by Ray Palmer, Cold War-era flying saucer culture, and later retellings that often simplified or embellished the original chronology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/sos03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-title">Internet Sacred Text Archive The Secret of the Saucers: Chapter I</span><span class="citation-popover-snippet">The Disk From Anoth...The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full text etext at sacred... &quot;We&#x27;ll contact you again, O...</span></span></span>
 
 <img src="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_may_1952_first_conta_2f2627-Illustration-1-dark.svg" | relative_url }}" alt="First Contact illustration 1" data-theme-src-dark="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_may_1952_first_conta_2f2627-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_may_1952_first_conta_2f2627-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Did Angelucci Say Happened First?
 
-The earliest core claim centres on Friday night, 23 May 1952. Angelucci said he was driving home shortly after midnight after work at an aircraft plant in the Los Angeles area when he noticed a strange blue light following his car. In later retellings the workplace is sometimes identified as Lockheed in Burbank and sometimes Boeing-related employment, illustrating one of the recurring problems in reconstructing the precise source history of the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Orfeo_Angelucci" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Orfeo Angelucci</span><span class="citation-popover-snippet">Orfeo Angelucci</span></span></span>
+The earliest core claim centres on Friday night, 23 May 1952. Angelucci said he was driving home shortly after midnight after work at an aircraft plant in the Los Angeles area when he noticed a strange blue light following his car. In later retellings the workplace is sometimes identified as Lockheed in Burbank and sometimes Boeing-related employment, illustrating one of the recurring problems in reconstructing the precise source history of the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Orfeo_Angelucci" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Orfeo Angelucci</span><span class="citation-popover-snippet">Orfeo Angelucci</span></span></span>
 
-In Angelucci’s version, the glowing object moved ahead of the vehicle and released two smaller green lights. These lights allegedly approached him and transformed into semi-transparent human-like faces, one male and one female. He described hearing calm, reassuring voices directly inside his mind rather than through ordinary speech. The entities reportedly told him he had been observed for years and had been selected to help spread a message to humanity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Raymond_A._Palmer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Raymond A. Palmer</span><span class="citation-popover-snippet">March 15, 2026 — Palmer later edited Angelucci&#x27;s stories into a book, The Secret of the Saucers, published in 1955. Hannes Bok, a noted s...</span><span class="citation-popover-meta">Published: March 15, 2026</span></span></span>
+In Angelucci’s version, the glowing object moved ahead of the vehicle and released two smaller green lights. These lights allegedly approached him and transformed into semi-transparent human-like faces, one male and one female. He described hearing calm, reassuring voices directly inside his mind rather than through ordinary speech. The entities reportedly told him he had been observed for years and had been selected to help spread a message to humanity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Raymond_A._Palmer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Raymond A. Palmer</span><span class="citation-popover-snippet">March 15, 2026 — Palmer later edited Angelucci&#x27;s stories into a book, The Secret of the Saucers, published in 1955. Hannes Bok, a noted s...</span><span class="citation-popover-meta">Published: March 15, 2026</span></span></span>
 
 The encounter already contained many elements that later became standard in the contactee movement:
 
@@ -273,13 +273,13 @@ This matters because the May 1952 episode was not simply a “light in the sky�
 
 ## The Late-Night Drive Home
 
-Angelucci framed the event as happening during physical exhaustion and emotional distress. He frequently described himself as nervous, chronically ill and spiritually sensitive. Later commentators, including Carl Jung, considered those psychological details important because the encounter resembled a visionary or mystical episode as much as a conventional UFO sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Orfeo_Angelucci" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Orfeo Angelucci</span><span class="citation-popover-snippet">Orfeo Angelucci</span></span></span>
+Angelucci framed the event as happening during physical exhaustion and emotional distress. He frequently described himself as nervous, chronically ill and spiritually sensitive. Later commentators, including Carl Jung, considered those psychological details important because the encounter resembled a visionary or mystical episode as much as a conventional UFO sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Orfeo_Angelucci" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Orfeo Angelucci</span><span class="citation-popover-snippet">Orfeo Angelucci</span></span></span>
 
-In *The Secret of the Saucers*, the scene is described with unusual emotional emphasis. Angelucci recalled fear giving way to warmth, peace and overwhelming affection as the voices communicated with him. The entities did not threaten him or deliver military secrets. Instead, they supposedly reassured him that humanity was not abandoned and that cosmic intelligences were monitoring Earth’s development. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/sos03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-title">Internet Sacred Text Archive The Secret of the Saucers: Chapter I</span><span class="citation-popover-snippet">The Disk From Anoth...The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full text etext at sacred... &quot;We&#x27;ll contact you again, O...</span></span></span>
+In *The Secret of the Saucers*, the scene is described with unusual emotional emphasis. Angelucci recalled fear giving way to warmth, peace and overwhelming affection as the voices communicated with him. The entities did not threaten him or deliver military secrets. Instead, they supposedly reassured him that humanity was not abandoned and that cosmic intelligences were monitoring Earth’s development.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/sos03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-title">Internet Sacred Text Archive The Secret of the Saucers: Chapter I</span><span class="citation-popover-snippet">The Disk From Anoth...The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full text etext at sacred... &quot;We&#x27;ll contact you again, O...</span></span></span>
 
 That emotional tone separated Angelucci from more hardware-focused UFO witnesses of the same era. Reports from pilots, radar operators or military observers usually concentrated on object performance. Angelucci’s account instead blended religion, psychology and space-age imagery into one narrative. His first contact claim therefore became influential not because investigators verified it, but because it helped define the emotional vocabulary of the [contactee era]({{ 'contactee-era/' | relative_url }}).
 
-The setting also mattered symbolically. Post-war southern California was deeply tied to aerospace work, Cold War anxiety and expanding UFO fascination. Aircraft factories, desert testing culture and science-fiction publishing all overlapped geographically. Angelucci’s story emerged directly from that environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Raymond_A._Palmer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Raymond A. Palmer</span><span class="citation-popover-snippet">March 15, 2026 — Palmer later edited Angelucci&#x27;s stories into a book, The Secret of the Saucers, published in 1955. Hannes Bok, a noted s...</span><span class="citation-popover-meta">Published: March 15, 2026</span></span></span>
+The setting also mattered symbolically. Post-war southern California was deeply tied to aerospace work, Cold War anxiety and expanding UFO fascination. Aircraft factories, desert testing culture and science-fiction publishing all overlapped geographically. Angelucci’s story emerged directly from that environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Raymond_A._Palmer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Raymond A. Palmer</span><span class="citation-popover-snippet">March 15, 2026 — Palmer later edited Angelucci&#x27;s stories into a book, The Secret of the Saucers, published in 1955. Hannes Bok, a noted s...</span><span class="citation-popover-meta">Published: March 15, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R-zvdf_LZRA" title="Episode 73 Orfeo Angelucci - The Secret of the Saucers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R-zvdf_LZRA" target="_blank" rel="noopener noreferrer">Episode 73 Orfeo Angelucci - The Secret of the Saucers</a></p><p class="youtube-embed-meta">Channel: Astonishing Legends &middot; Views: 1.2K &middot; Uploaded: January 2022 &middot; Length: 2 hours 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R-zvdf_LZRA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R-zvdf_LZRA">Open on YouTube</a></p></div></div></div>
 
@@ -287,7 +287,7 @@ The setting also mattered symbolically. Post-war southern California was deeply 
 
 One of the most distinctive aspects of the May 1952 claim is the language supposedly used by the entities. Angelucci did not initially present the experience as a technical briefing about spacecraft. Instead, the beings allegedly spoke in moral and spiritual terms.
 
-According to the account preserved in *The Secret of the Saucers*, the voices addressed him personally, referred to him by name, and described humanity as passing through a dangerous developmental stage. They portrayed themselves as older, wiser guardians who could guide humanity but were limited in how openly they could intervene. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/sos03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-title">Internet Sacred Text Archive The Secret of the Saucers: Chapter I</span><span class="citation-popover-snippet">The Disk From Anoth...The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full text etext at sacred... &quot;We&#x27;ll contact you again, O...</span></span></span>
+According to the account preserved in *The Secret of the Saucers*, the voices addressed him personally, referred to him by name, and described humanity as passing through a dangerous developmental stage. They portrayed themselves as older, wiser guardians who could guide humanity but were limited in how openly they could intervene.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/sos03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-title">Internet Sacred Text Archive The Secret of the Saucers: Chapter I</span><span class="citation-popover-snippet">The Disk From Anoth...The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full text etext at sacred... &quot;We&#x27;ll contact you again, O...</span></span></span>
 
 Several themes stand out:
 
@@ -300,16 +300,16 @@ Several themes stand out:
 
 </div>
 
-Those elements later became common throughout contactee literature of the 1950s. George Adamski, Daniel Fry and other contactees also described attractive human-like beings who warned humanity against violence and nuclear destruction. Angelucci’s version differed mainly in its unusually emotional and mystical tone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://astonishinglegends.com/al-podcasts/2017/6/3/ep-73-orfeo-angelucci-secret-of-the-saucers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astonishinglegends.com">[Astonishing Legends]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astonishinglegends.com</span><span class="citation-popover-title">One day you get contacted by a race of advanced,</span><span class="citation-popover-snippet">Astonishing LegendsEp 73: Orfeo Angelucci - Secret of the SaucersJune 10, 2017 — 9 Jun 2017 — Orfeo Angelucci – aerospace worker, family...</span><span class="citation-popover-meta">Published: June 10, 2017</span></span></span>
+Those elements later became common throughout contactee literature of the 1950s. George Adamski, Daniel Fry and other contactees also described attractive human-like beings who warned humanity against violence and nuclear destruction. Angelucci’s version differed mainly in its unusually emotional and mystical tone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://astonishinglegends.com/al-podcasts/2017/6/3/ep-73-orfeo-angelucci-secret-of-the-saucers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astonishinglegends.com">[Astonishing Legends]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astonishinglegends.com</span><span class="citation-popover-title">One day you get contacted by a race of advanced,</span><span class="citation-popover-snippet">Astonishing LegendsEp 73: Orfeo Angelucci - Secret of the SaucersJune 10, 2017 — 9 Jun 2017 — Orfeo Angelucci – aerospace worker, family...</span><span class="citation-popover-meta">Published: June 10, 2017</span></span></span>
 
 Sceptics have long argued that this language resembles mid-century spiritualist and occult traditions more than independent evidence of extraterrestrial contact. The “space brother” message often mirrored contemporary fears about atomic war and moral decline, raising the possibility that these stories reflected cultural anxieties rather than external encounters.
 
 <img src="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_may_1952_first_conta_2f2627-Illustration-2-dark.svg" | relative_url }}" alt="First Contact illustration 2" data-theme-src-dark="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_may_1952_first_conta_2f2627-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_may_1952_first_conta_2f2627-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Story Reached the Public
 
-The source trail for the May 1952 claim is unusually important because the event did not become widely known immediately after it supposedly occurred. The best-known version appeared three years later in *The Secret of the Saucers*, published in 1955 and edited by Ray Palmer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/sos03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-title">Internet Sacred Text Archive The Secret of the Saucers: Chapter I</span><span class="citation-popover-snippet">The Disk From Anoth...The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full text etext at sacred... &quot;We&#x27;ll contact you again, O...</span></span></span>
+The source trail for the May 1952 claim is unusually important because the event did not become widely known immediately after it supposedly occurred. The best-known version appeared three years later in *The Secret of the Saucers*, published in 1955 and edited by Ray Palmer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/sos03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-title">Internet Sacred Text Archive The Secret of the Saucers: Chapter I</span><span class="citation-popover-snippet">The Disk From Anoth...The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full text etext at sacred... &quot;We&#x27;ll contact you again, O...</span></span></span>
 
-Palmer was already a controversial figure in science-fiction and flying saucer publishing. He had promoted the “Shaver Mystery” stories before becoming heavily involved in early UFO culture. His editorial influence raises continuing questions about how much of Angelucci’s narrative was polished, expanded or shaped for publication. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/sos03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-title">Internet Sacred Text Archive The Secret of the Saucers: Chapter I</span><span class="citation-popover-snippet">The Disk From Anoth...The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full text etext at sacred... &quot;We&#x27;ll contact you again, O...</span></span></span>
+Palmer was already a controversial figure in science-fiction and flying saucer publishing. He had promoted the “Shaver Mystery” stories before becoming heavily involved in early UFO culture. His editorial influence raises continuing questions about how much of Angelucci’s narrative was polished, expanded or shaped for publication.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/sos03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-title">Internet Sacred Text Archive The Secret of the Saucers: Chapter I</span><span class="citation-popover-snippet">The Disk From Anoth...The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full text etext at sacred... &quot;We&#x27;ll contact you again, O...</span></span></span>
 
 Several important points complicate the source chain:
 
@@ -325,7 +325,7 @@ Before the 1955 book, Angelucci’s experiences circulated mainly through small 
 
 ### Later summaries compress details
 
-Many modern retellings reduce the event to a simple “first saucer sighting”, omitting the strong mystical framing present in the original text. Others merge separate episodes from May, July and August 1952 into a single continuous narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Raymond_A._Palmer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Raymond A. Palmer</span><span class="citation-popover-snippet">March 15, 2026 — Palmer later edited Angelucci&#x27;s stories into a book, The Secret of the Saucers, published in 1955. Hannes Bok, a noted s...</span><span class="citation-popover-meta">Published: March 15, 2026</span></span></span>
+Many modern retellings reduce the event to a simple “first saucer sighting”, omitting the strong mystical framing present in the original text. Others merge separate episodes from May, July and August 1952 into a single continuous narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Raymond_A._Palmer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Raymond A. Palmer</span><span class="citation-popover-snippet">March 15, 2026 — Palmer later edited Angelucci&#x27;s stories into a book, The Secret of the Saucers, published in 1955. Hannes Bok, a noted s...</span><span class="citation-popover-meta">Published: March 15, 2026</span></span></span>
 
 ### The publication context mattered
 
@@ -342,7 +342,7 @@ The book can demonstrate several things with reasonable confidence:
 * Angelucci consistently claimed the experience began in May 1952.
 * His narrative structure already contained contactee themes before the movement fully matured.
 * Ray Palmer helped transform the story into a mass-market UFO text.
-* The account strongly influenced later UFO spirituality and contactee mythology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/sos03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-title">Internet Sacred Text Archive The Secret of the Saucers: Chapter I</span><span class="citation-popover-snippet">The Disk From Anoth...The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full text etext at sacred... &quot;We&#x27;ll contact you again, O...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/sos03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-title">Internet Sacred Text Archive The Secret of the Saucers: Chapter I</span><span class="citation-popover-snippet">The Disk From Anoth...The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full text etext at sacred... &quot;We&#x27;ll contact you again, O...</span></span></span>
+* The account strongly influenced later UFO spirituality and contactee mythology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/sos03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-title">Internet Sacred Text Archive The Secret of the Saucers: Chapter I</span><span class="citation-popover-snippet">The Disk From Anoth...The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full text etext at sacred... &quot;We&#x27;ll contact you again, O...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/sos03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-title">Internet Sacred Text Archive The Secret of the Saucers: Chapter I</span><span class="citation-popover-snippet">The Disk From Anoth...The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full text etext at sacred... &quot;We&#x27;ll contact you again, O...</span></span></span>
 
 However, the book cannot establish that the encounter objectively occurred. Nearly all evidential weaknesses associated with contactee cases are present here:
 
@@ -356,206 +356,206 @@ However, the book cannot establish that the encounter objectively occurred. Near
 
 </div>
 
-Critics have also noted that Angelucci’s descriptions often moved fluidly between literal spacecraft claims and symbolic spiritual experiences, making the account difficult to evaluate by ordinary investigative standards. Jung considered the story psychologically important regardless of whether it represented external reality. In that interpretation, the value of the account lies less in proving extraterrestrials and more in revealing how modern technological myths merged with religious longing during the early Cold War period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Raymond_A._Palmer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Raymond A. Palmer</span><span class="citation-popover-snippet">March 15, 2026 — Palmer later edited Angelucci&#x27;s stories into a book, The Secret of the Saucers, published in 1955. Hannes Bok, a noted s...</span><span class="citation-popover-meta">Published: March 15, 2026</span></span></span>
+Critics have also noted that Angelucci’s descriptions often moved fluidly between literal spacecraft claims and symbolic spiritual experiences, making the account difficult to evaluate by ordinary investigative standards. Jung considered the story psychologically important regardless of whether it represented external reality. In that interpretation, the value of the account lies less in proving extraterrestrials and more in revealing how modern technological myths merged with religious longing during the early Cold War period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Raymond_A._Palmer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Raymond A. Palmer</span><span class="citation-popover-snippet">March 15, 2026 — Palmer later edited Angelucci&#x27;s stories into a book, The Secret of the Saucers, published in 1955. Hannes Bok, a noted s...</span><span class="citation-popover-meta">Published: March 15, 2026</span></span></span>
 
 <img src="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_may_1952_first_conta_2f2627-Illustration-3-dark.svg" | relative_url }}" alt="First Contact illustration 3" data-theme-src-dark="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_may_1952_first_conta_2f2627-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_may_1952_first_conta_2f2627-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the May 1952 Claim Still Matters
 
 The first-contact story remains central to understanding the entire Angelucci case because later episodes built directly on its themes. The July 1952 “[space journey]({{ 'space-journey/' | relative_url }})”, the meetings with the being called Neptune, and Angelucci’s later lectures all depended on the credibility and emotional power of the original May encounter.
 
-The event also illustrates a broader transition in UFO history. Earlier flying saucer reports from the late 1940s often focused on unexplained aerial objects. By the early 1950s, some narratives had evolved into full spiritual dramas involving chosen messengers, cosmic morality and advanced beings guiding humanity. Angelucci’s May 1952 account sits near the centre of that transformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/sos03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-title">Internet Sacred Text Archive The Secret of the Saucers: Chapter I</span><span class="citation-popover-snippet">The Disk From Anoth...The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full text etext at sacred... &quot;We&#x27;ll contact you again, O...</span></span></span>
+The event also illustrates a broader transition in UFO history. Earlier flying saucer reports from the late 1940s often focused on unexplained aerial objects. By the early 1950s, some narratives had evolved into full spiritual dramas involving chosen messengers, cosmic morality and advanced beings guiding humanity. Angelucci’s May 1952 account sits near the centre of that transformation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/sos03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-title">Internet Sacred Text Archive The Secret of the Saucers: Chapter I</span><span class="citation-popover-snippet">The Disk From Anoth...The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full text etext at sacred... &quot;We&#x27;ll contact you again, O...</span></span></span>
 
 For researchers, the source trail is ultimately more revealing than the encounter itself. It shows how a private late-night experience, filtered through pulp publishing networks and Cold War cultural anxieties, became one of the defining narratives of the contactee era.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did Angelucci Say Happened First?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Angelucci Say Happened First?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Secret+of+the+Saucers+by+Orfeo+Angelucci&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret of the Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LUk4zgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Secret of the Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Secret+of+the+Saucers+by+Orfeo+Angelucci&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret of the Saucers">The Secret of the Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Orfeo Angelucci</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Secret+of+the+Saucers+by+Orfeo+Angelucci&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret of the Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LUk4zgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Secret of the Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Secret+of+the+Saucers+by+Orfeo+Angelucci&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret of the Saucers">The Secret of the Saucers</a>
+</h4>
+<p class="fr-book-author">By Orfeo Angelucci</p>
         
-        <p class="fr-book-desc">Contains the original, unedited account of his 23 May 1952 pre-dawn drive home from the aircraft plant and the blue light encounter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Secret+of+the+Saucers+by+Orfeo+Angelucci&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains the original, unedited account of his 23 May 1952 pre-dawn drive home from the aircraft plant and the blue light encounter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Secret+of+the+Saucers+by+Orfeo+Angelucci&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Analyzes how late-night highway driving fatigue and environmental lights are transformed into spiritual encounters with transparent entit...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Analyzes how late-night highway driving fatigue and environmental lights are transformed into spiritual encounters with transparent entit...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars+by+Sean+Casteel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nikola Tesla Journey to Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hd0LAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Nikola Tesla Journey to Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars+by+Sean+Casteel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nikola Tesla Journey to Mars">Nikola Tesla Journey to Mars</a>
-        </h4>
-        <p class="fr-book-author">By Sean Casteel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars+by+Sean+Casteel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nikola Tesla Journey to Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hd0LAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Nikola Tesla Journey to Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars+by+Sean+Casteel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nikola Tesla Journey to Mars">Nikola Tesla Journey to Mars</a>
+</h4>
+<p class="fr-book-author">By Sean Casteel</p>
         
-        <p class="fr-book-desc">Illustrates the exact narrative styling of human-like extraterrestrial faces communicating telepathic cosmic messages.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars+by+Sean+Casteel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates the exact narrative styling of human-like extraterrestrial faces communicating telepathic cosmic messages.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars+by+Sean+Casteel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches methods to evaluate how editorial intervention by pulp publishers systematically shapes a witness&#x27;s original timeline.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches methods to evaluate how editorial intervention by pulp publishers systematically shapes a witness&#x27;s original timeline.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Secret+of+the+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Secret of the Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nikola Tesla Journey to Mars</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Secret+of+the+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Secret of the Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nikola Tesla Journey to Mars</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small"><img src="https://i.ebayimg.com/images/g/iQIAAOSwqSZm7mOi/s-l225.jpg" alt="Listing image for Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small"><img src="https://i.ebayimg.com/images/g/iQIAAOSwqSZm7mOi/s-l225.jpg" alt="Listing image for Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Light Up Desktop Model !"><img src="https://i.ebayimg.com/images/g/5lUAAeSwXgpo~0lB/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Light Up Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Light Up Desktop Model !</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Light Up Desktop Model !"><img src="https://i.ebayimg.com/images/g/5lUAAeSwXgpo~0lB/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Light Up Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Light Up Desktop Model !</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift"><img src="https://i.ebayimg.com/images/g/zEoAAeSwzHBo29i9/s-l225.jpg" alt="Listing image for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift"><img src="https://i.ebayimg.com/images/g/zEoAAeSwzHBo29i9/s-l225.jpg" alt="Listing image for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage radio control flying saucer - brand new in box"><img src="https://i.ebayimg.com/images/g/h3MAAeSwgG1o7PvS/s-l225.jpg" alt="Listing image for Vintage radio control flying saucer - brand new in box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Vintage radio control flying saucer - brand new in box</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage radio control flying saucer - brand new in box"><img src="https://i.ebayimg.com/images/g/h3MAAeSwgG1o7PvS/s-l225.jpg" alt="Listing image for Vintage radio control flying saucer - brand new in box" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Vintage radio control flying saucer - brand new in box</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-angelucci-say-happened-first-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-angelucci-say-happened-first-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ For researchers, the source trail is ultimately more revealing than the encounte
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ For researchers, the source trail is ultimately more revealing than the encounte
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ For researchers, the source trail is ultimately more revealing than the encounte
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ For researchers, the source trail is ultimately more revealing than the encounte
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ For researchers, the source trail is ultimately more revealing than the encounte
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,123 +761,123 @@ For researchers, the source trail is ultimately more revealing than the encounte
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Orfeo Angelucci  
-   Link: <a href="https://en.wikipedia.org/wiki/Orfeo_Angelucci" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Orfeo_Angelucci</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Orfeo_Angelucci" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Orfeo_Angelucci</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Raymond A. Palmer  
-   Link: <a href="https://en.wikipedia.org/wiki/Raymond_A._Palmer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Raymond_A._Palmer</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 15, 2026 — Palmer later edited Angelucci&#x27;s stories into a book, The Secret of the Saucers, published in 1955. Hannes Bok, a noted s...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Raymond_A._Palmer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Raymond_A._Palmer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 15, 2026 — Palmer later edited Angelucci&#x27;s stories into a book, The Secret of the Saucers, published in 1955. Hannes Bok, a noted s...</p></details>
    Published: March 15, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/details/MysticMagazineV01n01195311slpn" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/MysticMagazineV01n01195311slpn</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystic Magazine #01 [1953-11] (Palmer) {slpn}8 Apr 2019 — Mystic Magazine was primarily an occult non-fiction magazine which, in its earl...</p></details>
+   Link:<a href="https://archive.org/details/MysticMagazineV01n01195311slpn" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/MysticMagazineV01n01195311slpn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystic Magazine #01 [1953-11] (Palmer) {slpn}8 Apr 2019 — Mystic Magazine was primarily an occult non-fiction magazine which, in its earl...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sacred-texts.com  
    Title: Internet Sacred Text Archive The Secret of the Saucers: Chapter I  
-   Link: <a href="https://sacred-texts.com/ufo/sos/sos03.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/sos/sos03.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Disk From Anoth...The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full text etext at sacred... &quot;We&#x27;ll contact you again, O...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/sos/sos03.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/sos/sos03.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Disk From Anoth...The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full text etext at sacred... &quot;We&#x27;ll contact you again, O...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/sos/index.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Sacred Text ArchiveThe Secret of the Saucers Index20 Dec 2007 — The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full t...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/sos/index.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Sacred Text ArchiveThe Secret of the Saucers Index20 Dec 2007 — The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full t...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: astonishinglegends.com  
    Title: One day you get contacted by a race of advanced,  
-   Link: <a href="https://astonishinglegends.com/al-podcasts/2017/6/3/ep-73-orfeo-angelucci-secret-of-the-saucers" target="_blank" rel="noopener noreferrer nofollow">https://astonishinglegends.com/al-podcasts/2017/6/3/ep-73-orfeo-angelucci-secret-of-the-saucers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Astonishing LegendsEp 73: Orfeo Angelucci - Secret of the SaucersJune 10, 2017 — 9 Jun 2017 — Orfeo Angelucci – aerospace worker, family...</p></details>
+   Link:<a href="https://astonishinglegends.com/al-podcasts/2017/6/3/ep-73-orfeo-angelucci-secret-of-the-saucers" target="_blank" rel="noopener noreferrer nofollow">https://astonishinglegends.com/al-podcasts/2017/6/3/ep-73-orfeo-angelucci-secret-of-the-saucers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astonishing LegendsEp 73: Orfeo Angelucci - Secret of the SaucersJune 10, 2017 — 9 Jun 2017 — Orfeo Angelucci – aerospace worker, family...</p></details>
    Published: June 10, 2017  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: amazon.co.uk  
    Title: The Secret Of The Saucers  
-   Link: <a href="https://www.amazon.co.uk/Secret-Saucers-Orfeo-M-Angelucci/dp/125877190X" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Secret-Saucers-Orfeo-M-Angelucci/dp/125877190X</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon UK...</p></details>
+   Link:<a href="https://www.amazon.co.uk/Secret-Saucers-Orfeo-M-Angelucci/dp/125877190X" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Secret-Saucers-Orfeo-M-Angelucci/dp/125877190X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon UK...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: abebooks.co.uk  
    Title: The Secret of the Saucers  
-   Link: <a href="https://www.abebooks.co.uk/9789357408431/Secret-Saucers-Orfeo-Angelucci-9357408436/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9789357408431/Secret-Saucers-Orfeo-Angelucci-9357408436/plp</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Angelucci, an Italian-American contactee who claimed to have had numerous encounters with...</p></details>
+   Link:<a href="https://www.abebooks.co.uk/9789357408431/Secret-Saucers-Orfeo-Angelucci-9357408436/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9789357408431/Secret-Saucers-Orfeo-Angelucci-9357408436/plp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Angelucci, an Italian-American contactee who claimed to have had numerous encounters with...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/photo.php?fbid=1737003029649389&amp;id=100063552371542&amp;set=a.551939816934426" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/photo.php?fbid=1737003029649389&amp;id=100063552371542&amp;set=a.551939816934426</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This is a picture of Orfeo Angelucci. While...This is a picture of Orfeo Angelucci. While working for Lockheed in Burbank in the 1950s...</p></details>
+   Link:<a href="https://www.facebook.com/photo.php?fbid=1737003029649389&amp;id=100063552371542&amp;set=a.551939816934426" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/photo.php?fbid=1737003029649389&amp;id=100063552371542&amp;set=a.551939816934426</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is a picture of Orfeo Angelucci. While...This is a picture of Orfeo Angelucci. While working for Lockheed in Burbank in the 1950s...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scribd.com  
    Title: orfeo angelucci  
-   Link: <a href="https://www.scribd.com/document/800711656/orfeo-angelucci" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/800711656/orfeo-angelucci</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PDF | Ufo Related Phenomena | UfologyBeginning in summer 1952, according to Angelucci in his book The Secret of...</p></details>
+   Link:<a href="https://www.scribd.com/document/800711656/orfeo-angelucci" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/800711656/orfeo-angelucci</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PDF | Ufo Related Phenomena | UfologyBeginning in summer 1952, according to Angelucci in his book The Secret of...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: books.google.com  
    Title: The Secret of the Saucers  
-   Link: <a href="https://books.google.com/books/about/The_Secret_of_the_Saucers.html?id=bC_w0AEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Secret_of_the_Saucers.html?id=bC_w0AEACAAJ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret of the Saucers: How UFOs Work15 Oct 2024 — In The Secret of the Saucers, Orfeo M. Angelucci shares his extraordinary experiences a...</p></details>
+   Link:<a href="https://books.google.com/books/about/The_Secret_of_the_Saucers.html?id=bC_w0AEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Secret_of_the_Saucers.html?id=bC_w0AEACAAJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secret of the Saucers: How UFOs Work15 Oct 2024 — In The Secret of the Saucers, Orfeo M. Angelucci shares his extraordinary experiences a...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: maryevans.com  
-   Link: <a href="https://www.maryevans.com/contributors/com/orfeo-angelucci-45394982.html" target="_blank" rel="noopener noreferrer nofollow">https://www.maryevans.com/contributors/com/orfeo-angelucci-45394982.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American UFO Contactee Orfeo Angelucci from Mary EvansAmerican contactee Orfeo Angelucci claims to have had multiple UFO encounters, shar...</p></details>
+   Link:<a href="https://www.maryevans.com/contributors/com/orfeo-angelucci-45394982.html" target="_blank" rel="noopener noreferrer nofollow">https://www.maryevans.com/contributors/com/orfeo-angelucci-45394982.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American UFO Contactee Orfeo Angelucci from Mary EvansAmerican contactee Orfeo Angelucci claims to have had multiple UFO encounters, shar...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: amazon.ae  
-   Link: <a href="https://www.amazon.ae/-/ar/Orfeo-M-Angelucci/dp/125877190X" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.ae/-/ar/Orfeo-M-Angelucci/dp/125877190X</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Angelucci that explores the author&#x27;s personal experiences with extraterrestrial beings and their...Read more...</p></details>
+   Link:<a href="https://www.amazon.ae/-/ar/Orfeo-M-Angelucci/dp/125877190X" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.ae/-/ar/Orfeo-M-Angelucci/dp/125877190X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Angelucci that explores the author&#x27;s personal experiences with extraterrestrial beings and their...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: amazon.com  
-   Link: <a href="https://www.amazon.com/Secret-Saucers-Orfeo-M-Angelucci/dp/125877190X" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Secret-Saucers-Orfeo-M-Angelucci/dp/125877190X</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Angelucci that explores the author&#x27;s personal experiences with extraterrestrial beings and their...Read more...</p></details>
+   Link:<a href="https://www.amazon.com/Secret-Saucers-Orfeo-M-Angelucci/dp/125877190X" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Secret-Saucers-Orfeo-M-Angelucci/dp/125877190X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Angelucci that explores the author&#x27;s personal experiences with extraterrestrial beings and their...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: etsy.com  
-   Link: <a href="https://www.etsy.com/uk/listing/4351972523/the-secret-of-the-saucers-by-orfeo" target="_blank" rel="noopener noreferrer nofollow">https://www.etsy.com/uk/listing/4351972523/the-secret-of-the-saucers-by-orfeo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SouthamptonSagBooks. 5 out of 5 stars. Arrives soon!Read more...</p></details>
+   Link:<a href="https://www.etsy.com/uk/listing/4351972523/the-secret-of-the-saucers-by-orfeo" target="_blank" rel="noopener noreferrer nofollow">https://www.etsy.com/uk/listing/4351972523/the-secret-of-the-saucers-by-orfeo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SouthamptonSagBooks. 5 out of 5 stars. Arrives soon!Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: everand.com  
    Title: The Secret of the Saucers How UFOs Work  
-   Link: <a href="https://www.everand.com/book/777822000/The-Secret-of-the-Saucers-How-UFOs-Work" target="_blank" rel="noopener noreferrer nofollow">https://www.everand.com/book/777822000/The-Secret-of-the-Saucers-How-UFOs-Work</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of the Saucers: How UFOs Work11 Oct 2024 — In The Secret of the Saucers, Orfeo M. Angelucci shares his extraordinary experienc...</p></details>
+   Link:<a href="https://www.everand.com/book/777822000/The-Secret-of-the-Saucers-How-UFOs-Work" target="_blank" rel="noopener noreferrer nofollow">https://www.everand.com/book/777822000/The-Secret-of-the-Saucers-How-UFOs-Work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of the Saucers: How UFOs Work11 Oct 2024 — In The Secret of the Saucers, Orfeo M. Angelucci shares his extraordinary experienc...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: abebooks.com  
-   Link: <a href="https://www.abebooks.com/9781605065496/Secret-Saucers-UFOs-Work-Forgotten-1605065498/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.com/9781605065496/Secret-Saucers-UFOs-Work-Forgotten-1605065498/plp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of the Saucers: How UFOs Work (Forgotten...Angelucci&#x27;s Secret of the Saucers is a memoir of a more innocent time, and a tale...</p></details>
+   Link:<a href="https://www.abebooks.com/9781605065496/Secret-Saucers-UFOs-Work-Forgotten-1605065498/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.com/9781605065496/Secret-Saucers-UFOs-Work-Forgotten-1605065498/plp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of the Saucers: How UFOs Work (Forgotten...Angelucci&#x27;s Secret of the Saucers is a memoir of a more innocent time, and a tale...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: abebooks.co.uk  
    Title: The Secret of the Saucers (Hardcover)  
-   Link: <a href="https://www.abebooks.co.uk/Secret-Saucers-Orfeo-Angelucci-Zinc-Read/32423156297/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/Secret-Saucers-Orfeo-Angelucci-Zinc-Read/32423156297/bd</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Orfeo Angelucci&quot;The Secret of the Saucers&quot; is a book written by Orfeo M. Angelucci, an Italian-American contactee who claimed to have had...</p></details>
+   Link:<a href="https://www.abebooks.co.uk/Secret-Saucers-Orfeo-Angelucci-Zinc-Read/32423156297/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/Secret-Saucers-Orfeo-Angelucci-Zinc-Read/32423156297/bd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Orfeo Angelucci&quot;The Secret of the Saucers&quot; is a book written by Orfeo M. Angelucci, an Italian-American contactee who claimed to have had...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: abebooks.co.uk  
    Title: The Secret of the Saucers (Hardcover)  
-   Link: <a href="https://www.abebooks.co.uk/first-edition/Secret-Saucers-Angelucci-Orfeo-Amherst-Press/32207641882/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/first-edition/Secret-Saucers-Angelucci-Orfeo-Amherst-Press/32207641882/bd</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Angelucci, OrfeoTitle: The Secret of the Saucers; Publisher: Amherst Press; Publication Date: 1955; Language: English; Binding: Hardc...</p></details>
+   Link:<a href="https://www.abebooks.co.uk/first-edition/Secret-Saucers-Angelucci-Orfeo-Amherst-Press/32207641882/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/first-edition/Secret-Saucers-Angelucci-Orfeo-Amherst-Press/32207641882/bd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Angelucci, OrfeoTitle: The Secret of the Saucers; Publisher: Amherst Press; Publication Date: 1955; Language: English; Binding: Hardc...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: globalgreyebooks.com  
    Title: The Secret of the Saucers by Ofreo M  
-   Link: <a href="https://www.globalgreyebooks.com/secret-of-the-saucers-ebook.html" target="_blank" rel="noopener noreferrer nofollow">https://www.globalgreyebooks.com/secret-of-the-saucers-ebook.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Angelucci, free ebookThe Secret of the Saucers is a book by Orfeo M. Angelucci, first published in 1955. This autobiographical account de...</p></details>
+   Link:<a href="https://www.globalgreyebooks.com/secret-of-the-saucers-ebook.html" target="_blank" rel="noopener noreferrer nofollow">https://www.globalgreyebooks.com/secret-of-the-saucers-ebook.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Angelucci, free ebookThe Secret of the Saucers is a book by Orfeo M. Angelucci, first published in 1955. This autobiographical account de...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: goodreads.com  
    Title: The Secret of the Saucers by Orfeo M  
-   Link: <a href="https://www.goodreads.com/book/show/27404911" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/27404911</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AngelucciThe Secret of the Saucers; Orfeo Matthew Angelucci was one of the most unusual of the mid-1950s contactees who claimed to be in...</p></details>
+   Link:<a href="https://www.goodreads.com/book/show/27404911" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/27404911</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AngelucciThe Secret of the Saucers; Orfeo Matthew Angelucci was one of the most unusual of the mid-1950s contactees who claimed to be in...</p></details>

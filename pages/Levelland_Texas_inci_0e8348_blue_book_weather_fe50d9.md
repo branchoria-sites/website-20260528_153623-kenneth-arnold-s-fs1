@@ -242,14 +242,14 @@ image: /assets/images/Levelland_Texas_inci_0e8348_blue_book_weather_fe50d9-Illus
 
 ## Introduction
 
-Project Blue Book’s explanation for the 1957 Levelland sightings has remained controversial not because the Air Force lacked a possible natural explanation, but because [critics]({{ 'critics/' | relative_url }}) argued the explanation did not fully match the pattern of reports. After a brief investigation, Blue Book concluded that storm-related electrical phenomena — particularly ball lightning or St Elmo’s fire — probably caused both the strange lights and at least some of the reported vehicle failures. The case was therefore classified as explained rather than unknown. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Levelland_UFO_case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Levelland UFO case</span><span class="citation-popover-snippet">Levelland UFO case</span></span></span>
+Project Blue Book’s explanation for the 1957 Levelland sightings has remained controversial not because the Air Force lacked a possible natural explanation, but because [critics]({{ 'critics/' | relative_url }}) argued the explanation did not fully match the pattern of reports. After a brief investigation, Blue Book concluded that storm-related electrical phenomena — particularly ball lightning or St Elmo’s fire — probably caused both the strange lights and at least some of the reported vehicle failures. The case was therefore classified as explained rather than unknown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Levelland_UFO_case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Levelland UFO case</span><span class="citation-popover-snippet">Levelland UFO case</span></span></span>
 
 <img src="{{ "/assets/images/Levelland_Texas_inci_0e8348_blue_book_weather_fe50d9-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Levelland_Texas_inci_0e8348_blue_book_weather_fe50d9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Levelland_Texas_inci_0e8348_blue_book_weather_fe50d9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The dispute centred on whether that conclusion genuinely accounted for what witnesses described. Supporters of the Air Force view argued that thunderstorms, darkness, fear, rumour and ordinary vehicle trouble could produce a chain reaction of mistaken interpretations. Critics countered that the reports were too numerous, too similar in key details, and too specific about engine interference to be dismissed as weather alone. The debate became one of the best-known examples of a larger criticism directed at Project Blue Book during the late 1950s and 1960s: that the programme often moved quickly toward conventional explanations even when evidence remained incomplete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+The dispute centred on whether that conclusion genuinely accounted for what witnesses described. Supporters of the Air Force view argued that thunderstorms, darkness, fear, rumour and ordinary vehicle trouble could produce a chain reaction of mistaken interpretations. Critics countered that the reports were too numerous, too similar in key details, and too specific about engine interference to be dismissed as weather alone. The debate became one of the best-known examples of a larger criticism directed at Project Blue Book during the late 1950s and 1960s: that the programme often moved quickly toward conventional explanations even when evidence remained incomplete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 ## What the Air Force concluded
 
-Project Blue Book investigated the Levelland incident shortly after the reports reached national attention. According to later summaries of the case, the Air Force investigator spent only several hours in Levelland and interviewed a limited number of witnesses before concluding that severe electrical weather conditions were probably responsible. The official explanation focused on ball lightning and St Elmo’s fire, both associated with atmospheric electricity during storm conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
+Project Blue Book investigated the Levelland incident shortly after the reports reached national attention. According to later summaries of the case, the Air Force investigator spent only several hours in Levelland and interviewed a limited number of witnesses before concluding that severe electrical weather conditions were probably responsible. The official explanation focused on ball lightning and St Elmo’s fire, both associated with atmospheric electricity during storm conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
 
 The Air Force reasoning depended on several points:
 
@@ -259,11 +259,11 @@ The Air Force reasoning depended on several points:
 * Witness descriptions varied considerably rather than describing one identical craft.
 * Many observations occurred at night under stressful conditions.
 * Some reports came after rumours had already spread through the community.
-* Temporary engine failure was considered potentially consistent with electrical disturbance or unrelated mechanical problems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ball_lightning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ball lightning</span><span class="citation-popover-snippet">Ball lightning</span></span></span>
+* Temporary engine failure was considered potentially consistent with electrical disturbance or unrelated mechanical problems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ball_lightning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ball lightning</span><span class="citation-popover-snippet">Ball lightning</span></span></span>
 
 </div>
 
-Blue Book also appears to have treated witness reliability unevenly. Later accounts of the investigation note that some witnesses were discounted because investigators considered them confused, inconsistent or poorly educated. Critics later argued that this reflected a dismissive institutional attitude rather than careful evidential analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</span></span></span>
+Blue Book also appears to have treated witness reliability unevenly. Later accounts of the investigation note that some witnesses were discounted because investigators considered them confused, inconsistent or poorly educated. Critics later argued that this reflected a dismissive institutional attitude rather than careful evidential analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</span></span></span>
 
 Importantly, the Air Force did not claim to have reproduced the reported vehicle effects experimentally. The conclusion was inferential: storms were present, unusual electrical phenomena are real, therefore the sightings probably belonged to that category. For Blue Book, probability and administrative closure were sufficient to classify the case as explained.
 
@@ -275,15 +275,15 @@ The Levelland explanation depended heavily on two unusual but genuine atmospheri
 
 ### Why ball lightning seemed plausible
 
-Ball lightning refers to rare luminous objects reportedly associated with thunderstorms. Descriptions in scientific and eyewitness literature vary widely: glowing spheres, drifting lights, coloured plasma-like objects and erratic motion have all been reported. Some accounts describe silent floating lights; others involve popping sounds, sudden disappearance or electrical effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Levelland_UFO_case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Levelland UFO case</span><span class="citation-popover-snippet">Levelland UFO case</span></span></span>
+Ball lightning refers to rare luminous objects reportedly associated with thunderstorms. Descriptions in scientific and eyewitness literature vary widely: glowing spheres, drifting lights, coloured plasma-like objects and erratic motion have all been reported. Some accounts describe silent floating lights; others involve popping sounds, sudden disappearance or electrical effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Levelland_UFO_case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Levelland UFO case</span><span class="citation-popover-snippet">Levelland UFO case</span></span></span>
 
-That flexibility made ball lightning attractive to investigators because witness descriptions in Levelland also varied. Some motorists described blue or green flashes, while others reported egg-shaped or glowing objects. Since the phenomenon itself lacks a single universally observed appearance, Blue Book could treat the inconsistency as support rather than contradiction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+That flexibility made ball lightning attractive to investigators because witness descriptions in Levelland also varied. Some motorists described blue or green flashes, while others reported egg-shaped or glowing objects. Since the phenomenon itself lacks a single universally observed appearance, Blue Book could treat the inconsistency as support rather than contradiction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 St Elmo’s fire, meanwhile, is a known electrical discharge effect that can produce glowing light around conductive objects during highly charged atmospheric conditions. Historically it has been observed on ship masts, aircraft surfaces and pointed structures during storms. Investigators suggested that frightened motorists encountering electrical effects at night could have interpreted them as structured aerial objects.
 
 ### The attraction of a weather-based answer
 
-For Blue Book, the weather explanation had institutional advantages beyond scientific plausibility. It avoided concluding that multiple unknown craft had approached roads around Levelland while apparently interfering with vehicles. A weather explanation also fit a broader pattern within Blue Book investigations, where ambiguous sightings were frequently grouped under known natural or psychological categories whenever possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
+For Blue Book, the weather explanation had institutional advantages beyond scientific plausibility. It avoided concluding that multiple unknown craft had approached roads around Levelland while apparently interfering with vehicles. A weather explanation also fit a broader pattern within Blue Book investigations, where ambiguous sightings were frequently grouped under known natural or psychological categories whenever possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
 
 From a sceptical standpoint, the explanation did not need to account perfectly for every witness detail. If even some of the reports involved lightning effects, excitement or ordinary breakdowns, then the wider episode could be interpreted as a socially amplified weather scare rather than a single coherent event.
 
@@ -294,15 +294,15 @@ The criticism of Blue Book’s conclusion was not simply that ball lightning was
 <img src="{{ "/assets/images/Levelland_Texas_inci_0e8348_blue_book_weather_fe50d9-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Levelland_Texas_inci_0e8348_blue_book_weather_fe50d9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Levelland_Texas_inci_0e8348_blue_book_weather_fe50d9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The repeated vehicle-failure pattern
 
-The strongest criticism focused on the recurring reports of stalled engines and dimmed headlights. Witnesses across different roads described a similar sequence: a bright object appears nearby, the vehicle fails or loses power, then normal function returns after the object departs. Critics argued that this repeated pattern deserved deeper technical investigation rather than broad dismissal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/cases/1957_11_2-3_US_TX_Levelland_NICAP_MultWit_CEII_PartII.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">egg-shaped ufo stalls cars on highway&quot;EVALUATION: Weather phenomenon of electrical nature, generally classified as. &#x27;Ball Lightning&#x27; or &#x27;...</span></span></span>
+The strongest criticism focused on the recurring reports of stalled engines and dimmed headlights. Witnesses across different roads described a similar sequence: a bright object appears nearby, the vehicle fails or loses power, then normal function returns after the object departs. Critics argued that this repeated pattern deserved deeper technical investigation rather than broad dismissal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/cases/1957_11_2-3_US_TX_Levelland_NICAP_MultWit_CEII_PartII.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">egg-shaped ufo stalls cars on highway&quot;EVALUATION: Weather phenomenon of electrical nature, generally classified as. &#x27;Ball Lightning&#x27; or &#x27;...</span></span></span>
 
-Newell Wright’s account became especially important because he described instrument behaviour in addition to engine failure, including dimming headlights and abnormal meter readings. To sceptics of the Air Force explanation, this sounded less like panic and more like a temporary electromagnetic effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/the-vault-files-the-levelland-ufo-incident-1957/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black VaultThe Vault Files: The Levelland UFO Incident (1957)30 Sept 2025 — Project Blue Book investigated; public explanation cited...</span></span></span>
+Newell Wright’s account became especially important because he described instrument behaviour in addition to engine failure, including dimming headlights and abnormal meter readings. To sceptics of the Air Force explanation, this sounded less like panic and more like a temporary electromagnetic effect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/the-vault-files-the-levelland-ufo-incident-1957/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black VaultThe Vault Files: The Levelland UFO Incident (1957)30 Sept 2025 — Project Blue Book investigated; public explanation cited...</span></span></span>
 
-The problem for Blue Book was not merely the existence of strange lights. It was the combination of lights with apparently coordinated electrical interference. Ball lightning reports in the scientific literature are inconsistent and poorly understood, but critics argued that Blue Book effectively used that uncertainty as a catch-all explanation without demonstrating how the phenomenon would repeatedly stall multiple vehicles over a wide area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ball_lightning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ball lightning</span><span class="citation-popover-snippet">Ball lightning</span></span></span>
+The problem for Blue Book was not merely the existence of strange lights. It was the combination of lights with apparently coordinated electrical interference. Ball lightning reports in the scientific literature are inconsistent and poorly understood, but critics argued that Blue Book effectively used that uncertainty as a catch-all explanation without demonstrating how the phenomenon would repeatedly stall multiple vehicles over a wide area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ball_lightning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ball lightning</span><span class="citation-popover-snippet">Ball lightning</span></span></span>
 
 ### The timing problem
 
-Another criticism concerned chronology. Levelland’s reports clustered into a relatively short period, involving numerous motorists who were geographically separated. Supporters of the official explanation argued that rumours spread quickly through the police switchboard and local community, influencing later reports. Critics replied that some sightings appeared to occur before widespread publicity could shape witness expectations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</span></span></span>
+Another criticism concerned chronology. Levelland’s reports clustered into a relatively short period, involving numerous motorists who were geographically separated. Supporters of the official explanation argued that rumours spread quickly through the police switchboard and local community, influencing later reports. Critics replied that some sightings appeared to occur before widespread publicity could shape witness expectations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</span></span></span>
 
 This disagreement became central to later UFO debates. Was Levelland an example of contagious excitement during stormy weather, or a genuinely unusual sequence of correlated observations? The answer depended partly on how much weight investigators gave to witness independence.
 
@@ -310,13 +310,13 @@ This disagreement became central to later UFO debates. Was Levelland an example 
 
 ### J. Allen Hynek’s growing dissatisfaction
 
-Astronomer J. Allen Hynek later became one of the best-known critics of Blue Book’s investigative culture. Although Hynek initially served as a scientific consultant who often supported conventional explanations, he grew increasingly frustrated with what he saw as the programme’s tendency to assume that every case must have an ordinary answer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</span></span></span>
+Astronomer J. Allen Hynek later became one of the best-known critics of Blue Book’s investigative culture. Although Hynek initially served as a scientific consultant who often supported conventional explanations, he grew increasingly frustrated with what he saw as the programme’s tendency to assume that every case must have an ordinary answer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</span></span></span>
 
 Levelland contributed to that broader shift in attitude. Even when Hynek did not publicly endorse extraterrestrial interpretations, he argued that some cases deserved more rigorous treatment than they received. The issue was methodological as much as interpretive: critics believed Blue Book often treated unexplained reports as public-relations problems rather than scientific puzzles.
 
 ### James E. McDonald and the weather objection
 
-Atmospheric physicist James E. McDonald became another important critic of simplistic weather explanations. McDonald’s background made his criticism notable because he specialised in atmospheric science rather than popular UFO culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.azarchivesonline.org/xtf/view?docId=ead%2Fuoa%2FUAMS412.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: azarchivesonline.org">[azarchivesonline.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">azarchivesonline.org</span><span class="citation-popover-title">James E</span><span class="citation-popover-snippet">McDonald papers, (1904-1997)His areas of research included cloud physics, weather modification, and micrometeorology. Internationally kno...</span></span></span>
+Atmospheric physicist James E. McDonald became another important critic of simplistic weather explanations. McDonald’s background made his criticism notable because he specialised in atmospheric science rather than popular UFO culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.azarchivesonline.org/xtf/view?docId=ead%2Fuoa%2FUAMS412.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: azarchivesonline.org">[azarchivesonline.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">azarchivesonline.org</span><span class="citation-popover-title">James E</span><span class="citation-popover-snippet">McDonald papers, (1904-1997)His areas of research included cloud physics, weather modification, and micrometeorology. Internationally kno...</span></span></span>
 
 McDonald argued in several UFO-related debates that investigators too quickly invoked poorly understood atmospheric effects without demonstrating that those effects matched witness testimony. In cases like Levelland, critics said the Air Force effectively relied on the mystery of ball lightning itself: because scientists did not fully understand it, almost any unusual luminous event could be folded into the category.
 
@@ -332,7 +332,7 @@ But critics also did not need to prove extraterrestrial involvement to challenge
 * Why did so many witnesses report vehicle interference?
 * Why did engines reportedly restart immediately after the lights vanished?
 * Why were some accounts remarkably similar despite geographic separation?
-* Why was a rare and poorly understood phenomenon treated as sufficient explanation without deeper technical analysis? <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/cases/1957_11_2-3_US_TX_Levelland_NICAP_MultWit_CEII_PartII.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">egg-shaped ufo stalls cars on highway&quot;EVALUATION: Weather phenomenon of electrical nature, generally classified as. &#x27;Ball Lightning&#x27; or &#x27;...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoevidence.org/cases/case228.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.org">[UFO Evidence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.org</span><span class="citation-popover-snippet">The Levelland Sightings (Texas)The following document is the most comprehensive study of the famous Levelland vehicle interference case e...</span></span></span>
+* Why was a rare and poorly understood phenomenon treated as sufficient explanation without deeper technical analysis?<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/cases/1957_11_2-3_US_TX_Levelland_NICAP_MultWit_CEII_PartII.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">egg-shaped ufo stalls cars on highway&quot;EVALUATION: Weather phenomenon of electrical nature, generally classified as. &#x27;Ball Lightning&#x27; or &#x27;...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoevidence.org/cases/case228.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.org">[UFO Evidence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.org</span><span class="citation-popover-snippet">The Levelland Sightings (Texas)The following document is the most comprehensive study of the famous Levelland vehicle interference case e...</span></span></span>
 
 Even some sceptically inclined historians later acknowledged that the official explanation was more plausible as a partial explanation than as a complete reconstruction of every report. Thunderstorms may indeed have contributed to unusual visual conditions, anxiety and misinterpretation. Yet critics maintained that the Levelland case still contained residual elements that Blue Book never convincingly addressed.
 
@@ -347,194 +347,194 @@ Levelland therefore survives less as a definitive UFO mystery than as a case stu
 That unresolved tension is why the Levelland incident continues to appear in discussions of witness reliability, atmospheric phenomena, vehicle interference claims and the historical limits of Project Blue Book itself.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was It Weather, Panic, or Something Else?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was It Weather, Panic, or Something Else?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Details the Air Force investigator&#x27;s brief multi-hour inquiry, logging the official attribution to ball lightning and St Elmo&#x27;s fire.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details the Air Force investigator&#x27;s brief multi-hour inquiry, logging the official attribution to ball lightning and St Elmo&#x27;s fire.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Reviews the systemic evidence standards used by late-1950s military offices to close out public alarm files with hurried explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reviews the systemic evidence standards used by late-1950s military offices to close out public alarm files with hurried explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Deconstructs the chain reaction where ordinary vehicle trouble is retroactively linked to nearby environmental flashes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Deconstructs the chain reaction where ordinary vehicle trouble is retroactively linked to nearby environmental flashes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Documents why critics found the Blue Book weather summaries completely incomplete when compared against original ground logs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents why critics found the Blue Book weather summaries completely incomplete when compared against original ground logs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible"><img src="{{ '/assets/images/marketplace-covers/311e792dddced7598d86.jpg' | relative_url }}" alt="Listing image for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" target="_blank" rel="sponsored noopener noreferrer">Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible"><img src="{{ '/assets/images/marketplace-covers/311e792dddced7598d86.jpg' | relative_url }}" alt="Listing image for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" target="_blank" rel="sponsored noopener noreferrer">Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model / UAP Model With Stand – George Adamski – Alien Saucer Collectible"><img src="{{ '/assets/images/marketplace-covers/48ed2132f252162f12c9.jpg' | relative_url }}" alt="Listing image for UFO Model / UAP Model With Stand – George Adamski – Alien Saucer Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" target="_blank" rel="sponsored noopener noreferrer">UFO Model / UAP Model With Stand – George Adamski – Alien Saucer Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model / UAP Model With Stand – George Adamski – Alien Saucer Collectible"><img src="{{ '/assets/images/marketplace-covers/48ed2132f252162f12c9.jpg' | relative_url }}" alt="Listing image for UFO Model / UAP Model With Stand – George Adamski – Alien Saucer Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" target="_blank" rel="sponsored noopener noreferrer">UFO Model / UAP Model With Stand – George Adamski – Alien Saucer Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="blue-book-d78e3f-was-it-weather-panic-or-something-else-levelland-texas-incident-1957-ufo-collectible-book-books-gerry-a" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -550,7 +550,7 @@ That unresolved tension is why the Levelland incident continues to appear in dis
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -570,7 +570,7 @@ That unresolved tension is why the Levelland incident continues to appear in dis
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -602,7 +602,7 @@ That unresolved tension is why the Levelland incident continues to appear in dis
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -654,7 +654,7 @@ That unresolved tension is why the Levelland incident continues to appear in dis
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -699,7 +699,7 @@ That unresolved tension is why the Levelland incident continues to appear in dis
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -740,117 +740,117 @@ That unresolved tension is why the Levelland incident continues to appear in dis
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Levelland UFO case  
-   Link: <a href="https://en.wikipedia.org/wiki/Levelland_UFO_case" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Levelland_UFO_case</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Levelland_UFO_case" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Levelland_UFO_case</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: J. Allen Hynek  
-   Link: <a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Ball lightning  
-   Link: <a href="https://en.wikipedia.org/wiki/Ball_lightning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ball_lightning</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ball_lightning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ball_lightning</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: azarchivesonline.org  
    Title: James E  
-   Link: <a href="https://www.azarchivesonline.org/xtf/view?docId=ead%2Fuoa%2FUAMS412.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.azarchivesonline.org/xtf/view?docId=ead%2Fuoa%2FUAMS412.xml</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>McDonald papers, (1904-1997)His areas of research included cloud physics, weather modification, and micrometeorology. Internationally kno...</p></details>
+   Link:<a href="https://www.azarchivesonline.org/xtf/view?docId=ead%2Fuoa%2FUAMS412.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.azarchivesonline.org/xtf/view?docId=ead%2Fuoa%2FUAMS412.xml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McDonald papers, (1904-1997)His areas of research included cloud physics, weather modification, and micrometeorology. Internationally kno...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: uk.indeed.com  
    Title: project definition  
-   Link: <a href="https://uk.indeed.com/career-advice/career-development/project-definition" target="_blank" rel="noopener noreferrer nofollow">https://uk.indeed.com/career-advice/career-development/project-definition</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>is the definition of a project (with planning steps)?25 Nov 2025 — A project is a temporary endeavour undertaken to achieve specific desi...</p></details>
+   Link:<a href="https://uk.indeed.com/career-advice/career-development/project-definition" target="_blank" rel="noopener noreferrer nofollow">https://uk.indeed.com/career-advice/career-development/project-definition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is the definition of a project (with planning steps)?25 Nov 2025 — A project is a temporary endeavour undertaken to achieve specific desi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/cases/1957_11_2-3_US_TX_Levelland_NICAP_MultWit_CEII_PartII.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOI_and_Selected_Documents/cases/1957_11_2-3_US_TX_Levelland_NICAP_MultWit_CEII_PartII.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>egg-shaped ufo stalls cars on highway&quot;EVALUATION: Weather phenomenon of electrical nature, generally classified as. &#x27;Ball Lightning&#x27; or &#x27;...</p></details>
+   Link:<a href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/cases/1957_11_2-3_US_TX_Levelland_NICAP_MultWit_CEII_PartII.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOI_and_Selected_Documents/cases/1957_11_2-3_US_TX_Levelland_NICAP_MultWit_CEII_PartII.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>egg-shaped ufo stalls cars on highway&quot;EVALUATION: Weather phenomenon of electrical nature, generally classified as. &#x27;Ball Lightning&#x27; or &#x27;...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/PDFs/pdfs/rullan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/rullan.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesThe Southwestern UFO Wave of 1957Twenty-three of these vehicle interference cases were reported in the Southwest ov...</p></details>
+   Link:<a href="https://cufos.org/PDFs/pdfs/rullan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/rullan.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesThe Southwestern UFO Wave of 1957Twenty-three of these vehicle interference cases were reported in the Southwest ov...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufoevidence.org  
-   Link: <a href="https://www.ufoevidence.org/cases/case228.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case228.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Levelland Sightings (Texas)The following document is the most comprehensive study of the famous Levelland vehicle interference case e...</p></details>
+   Link:<a href="https://www.ufoevidence.org/cases/case228.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case228.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Levelland Sightings (Texas)The following document is the most comprehensive study of the famous Levelland vehicle interference case e...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theblackvault.com  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-vault-files-the-levelland-ufo-incident-1957/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-vault-files-the-levelland-ufo-incident-1957/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultThe Vault Files: The Levelland UFO Incident (1957)30 Sept 2025 — Project Blue Book investigated; public explanation cited...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/the-vault-files-the-levelland-ufo-incident-1957/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-vault-files-the-levelland-ufo-incident-1957/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultThe Vault Files: The Levelland UFO Incident (1957)30 Sept 2025 — Project Blue Book investigated; public explanation cited...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya piece of planned work or an activity which is done over a period of time and intended to achiev...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya piece of planned work or an activity which is done over a period of time and intended to achiev...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1q0n2wn/finally_got_it_ive_heard_great_things_im_very/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1q0n2wn/finally_got_it_ive_heard_great_things_im_very/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FINALLY got it! I&#x27;ve heard great things! I...The Hynek UFO Report by J. Allen Hynek Abduction by John Mack... Allen Hynek • ⁠UFO Report...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1q0n2wn/finally_got_it_ive_heard_great_things_im_very/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1q0n2wn/finally_got_it_ive_heard_great_things_im_very/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FINALLY got it! I&#x27;ve heard great things! I...The Hynek UFO Report by J. Allen Hynek Abduction by John Mack... Allen Hynek • ⁠UFO Report...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-haven/are-you-ready-for-the-truth-about-ufo-10-project-blue-book-that-will-blow-your-mind-cd24cfec1433" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-haven/are-you-ready-for-the-truth-about-ufo-10-project-blue-book-that-will-blow-your-mind-cd24cfec1433</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book That Will Blow Your Mind | The HavenThe Air Force blamed the sightings on ball lightning, even though there was no thun...</p></details>
+   Link:<a href="https://medium.com/the-haven/are-you-ready-for-the-truth-about-ufo-10-project-blue-book-that-will-blow-your-mind-cd24cfec1433" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-haven/are-you-ready-for-the-truth-about-ufo-10-project-blue-book-that-will-blow-your-mind-cd24cfec1433</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book That Will Blow Your Mind | The HavenThe Air Force blamed the sightings on ball lightning, even though there was no thun...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Report on Unidentified Flying ObjectsThe following chapters present the true and complete UFO story, based on what I...</p></details>
+   Link:<a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Report on Unidentified Flying ObjectsThe following chapters present the true and complete UFO story, based on what I...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aawe.org  
-   Link: <a href="https://aawe.org/wp-content/uploads/2016/05/aawenews-Sept-04.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aawe.org/wp-content/uploads/2016/05/aawenews-Sept-04.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE WIND ENGINEERJim McDonald Retires from Texas Tech. After a long and illustrious career, Dr. James R. McDonald retired recently from T...</p></details>
+   Link:<a href="https://aawe.org/wp-content/uploads/2016/05/aawenews-Sept-04.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aawe.org/wp-content/uploads/2016/05/aawenews-Sept-04.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE WIND ENGINEERJim McDonald Retires from Texas Tech. After a long and illustrious career, Dr. James R. McDonald retired recently from T...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmi.org  
-   Link: <a href="https://www.pmi.org/about/what-is-a-project" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/about/what-is-a-project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Project, Examples and the Project LifecycleA project is a series of structured tasks, activities, and deliverables that are car...</p></details>
+   Link:<a href="https://www.pmi.org/about/what-is-a-project" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/about/what-is-a-project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Project, Examples and the Project LifecycleA project is a series of structured tasks, activities, and deliverables that are car...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/ufos-over-texasthe-levelland-ufo-casethe-levelland-ufo-case-is-a-prominent-and-p/1323982156050821/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/ufos-over-texasthe-levelland-ufo-casethe-levelland-ufo-case-is-a-prominent-and-p/1323982156050821/</a>  
+   Link:<a href="https://www.facebook.com/txchronicles/posts/ufos-over-texasthe-levelland-ufo-casethe-levelland-ufo-case-is-a-prominent-and-p/1323982156050821/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/ufos-over-texasthe-levelland-ufo-casethe-levelland-ufo-case-is-a-prominent-and-p/1323982156050821/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: in 1951 a ufo flew over texas and an entire city lost power the government blame  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/in-1951-a-ufo-flew-over-texas-and-an-entire-city-lost-power-the-government-blame/10155711775626184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/in-1951-a-ufo-flew-over-texas-and-an-entire-city-lost-power-the-government-blame/10155711775626184/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek, who had served as an adviser to Project Blue Book, created the Center for UFO Studies (CUFOS). This...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/posts/in-1951-a-ufo-flew-over-texas-and-an-entire-city-lost-power-the-government-blame/10155711775626184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/in-1951-a-ufo-flew-over-texas-and-an-entire-city-lost-power-the-government-blame/10155711775626184/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek, who had served as an adviser to Project Blue Book, created the Center for UFO Studies (CUFOS). This...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: kirkmcd.princeton.edu  
-   Link: <a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_hcsa_68.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_hcsa_68.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McDonald, Senior Physicist, Institute of Atmospheric Physics, and professor, Department of Meteorology, The University of Arizona, Tucson...</p></details>
+   Link:<a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_hcsa_68.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_hcsa_68.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McDonald, Senior Physicist, Institute of Atmospheric Physics, and professor, Department of Meteorology, The University of Arizona, Tucson...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: medium.com  
    Title: multiple vehicles stall during ufo sightings why a3f37e10be35  
-   Link: <a href="https://medium.com/%40Cristina_Gomez/multiple-vehicles-stall-during-ufo-sightings-why-a3f37e10be35" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Cristina_Gomez/multiple-vehicles-stall-during-ufo-sightings-why-a3f37e10be35</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple Vehicles Stall During UFO Sightings: Why?The 1957 Levelland, Texas incident stands as one of the earliest well-documented cases...</p></details>
+   Link:<a href="https://medium.com/%40Cristina_Gomez/multiple-vehicles-stall-during-ufo-sightings-why-a3f37e10be35" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Cristina_Gomez/multiple-vehicles-stall-during-ufo-sightings-why-a3f37e10be35</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple Vehicles Stall During UFO Sightings: Why?The 1957 Levelland, Texas incident stands as one of the earliest well-documented cases...</p></details>

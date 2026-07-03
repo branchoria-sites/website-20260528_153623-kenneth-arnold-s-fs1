@@ -758,46 +758,46 @@ image: /assets/images/Gorman_dogfight_near_aac8f7-overview-social.jpg
 
 ## What happened over Fargo that night?
 
-Gorman was returning from a cross-country flight with other National Guard pilots when the group reached Hector Airport in Fargo. The other pilots landed, but Gorman stayed up to log additional night-flying time. Local retellings and later summaries place the key moments shortly after 9 pm: Gorman saw a Piper Cub below him, then noticed a separate flashing light and asked the tower whether any other aircraft were in the area. The tower indicated that no other traffic was known apart from Gorman and the Cub, and Gorman decided to investigate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/main-street/2018-12-10/gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">Prairie Public Gorman Dogfight &#124; Prairie Public</span><span class="citation-popover-snippet">Prairie Public Gorman Dogfight &#124; Prairie Public</span></span></span>
+Gorman was returning from a cross-country flight with other National Guard pilots when the group reached Hector Airport in Fargo. The other pilots landed, but Gorman stayed up to log additional night-flying time. Local retellings and later summaries place the key moments shortly after 9 pm: Gorman saw a Piper Cub below him, then noticed a separate flashing light and asked the tower whether any other aircraft were in the area. The tower indicated that no other traffic was known apart from Gorman and the Cub, and Gorman decided to investigate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/main-street/2018-12-10/gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">Prairie Public Gorman Dogfight &#124; Prairie Public</span><span class="citation-popover-snippet">Prairie Public Gorman Dogfight &#124; Prairie Public</span></span></span>
 
 <img src="{{ "/assets/images/Gorman_dogfight_near_aac8f7-overview.webp" | relative_url }}" alt="Overview image for Gorman dogfight near Fargo 1948" loading="eager" decoding="sync" fetchpriority="high">
-The object was described not as a structured machine but as a light. In the commonly repeated account, Gorman closed in and later described it as a small, clear white, round light that blinked before becoming steady as he approached. He reported repeated attempts to intercept it, including near head-on passes and climbs that appeared to outmatch his aircraft. Prairie Public’s summary quotes Gorman describing a light that passed over his canopy after he dived away from an apparent collision course, and says the encounter lasted 27 minutes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/main-street/2018-12-10/gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">Prairie Public Gorman Dogfight &#124; Prairie Public</span><span class="citation-popover-snippet">Prairie Public Gorman Dogfight &#124; Prairie Public</span></span></span>
+The object was described not as a structured machine but as a light. In the commonly repeated account, Gorman closed in and later described it as a small, clear white, round light that blinked before becoming steady as he approached. He reported repeated attempts to intercept it, including near head-on passes and climbs that appeared to outmatch his aircraft. Prairie Public’s summary quotes Gorman describing a light that passed over his canopy after he dived away from an apparent collision course, and says the encounter lasted 27 minutes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/main-street/2018-12-10/gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">Prairie Public Gorman Dogfight &#124; Prairie Public</span><span class="citation-popover-snippet">Prairie Public Gorman Dogfight &#124; Prairie Public</span></span></span>
 
-The “dogfight” label is therefore a little misleading. No physical craft was identified, no wreckage or photograph was produced, and the object’s main observable feature was brightness. The dramatic part of the case lies in Gorman’s interpretation of the light’s motion: he believed it behaved as though intelligently controlled, while later investigators and sceptical analysts argued that a pilot manoeuvring at night around a distant or poorly localised light could easily generate false impressions of speed, altitude, and pursuit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3</span></span></span>
+The “dogfight” label is therefore a little misleading. No physical craft was identified, no wreckage or photograph was produced, and the object’s main observable feature was brightness. The dramatic part of the case lies in Gorman’s interpretation of the light’s motion: he believed it behaved as though intelligently controlled, while later investigators and sceptical analysts argued that a pilot manoeuvring at night around a distant or poorly localised light could easily generate false impressions of speed, altitude, and pursuit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3</span></span></span>
 
 ## Why the case looked strong at first
 
-The Gorman case did not begin as a simple lone-witness anecdote. It had several features that made it attractive to UFO investigators and the press: Gorman was a military pilot and Second World War veteran, the incident occurred around an airport, other observers saw a light, and Air Force investigators arrived quickly. The National Archives describes Project Blue Book’s later files as part of a wider Air Force UFO record series, with individual sighting case files arranged chronologically and preserved on microfilm; the Gorman case belongs to that early official-investigation environment, beginning with Project Sign before the better-known Blue Book era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+The Gorman case did not begin as a simple lone-witness anecdote. It had several features that made it attractive to UFO investigators and the press: Gorman was a military pilot and Second World War veteran, the incident occurred around an airport, other observers saw a light, and Air Force investigators arrived quickly. The National Archives describes Project Blue Book’s later files as part of a wider Air Force UFO record series, with individual sighting case files arranged chronologically and preserved on microfilm; the Gorman case belongs to that early official-investigation environment, beginning with Project Sign before the better-known Blue Book era.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-The corroboration, however, is narrower than it can sound in compressed UFO retellings. The ground and tower witnesses helped establish that a light was seen in the area, but they did not necessarily confirm the full aerial combat sequence as Gorman perceived it. Later sceptical analysis stressed that the ground observers saw a small bright light moving in a comparatively steady way and losing visibility earlier than Gorman’s reported pursuit ended. That distinction matters: corroborating “there was a light” is not the same as corroborating “there was a manoeuvring craft matching or outclassing a fighter.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenbergwww.gutenberg.org</span><span class="citation-popover-snippet">Project Gutenbergwww.gutenberg.org</span></span></span>
+The corroboration, however, is narrower than it can sound in compressed UFO retellings. The ground and tower witnesses helped establish that a light was seen in the area, but they did not necessarily confirm the full aerial combat sequence as Gorman perceived it. Later sceptical analysis stressed that the ground observers saw a small bright light moving in a comparatively steady way and losing visibility earlier than Gorman’s reported pursuit ended. That distinction matters: corroborating “there was a light” is not the same as corroborating “there was a manoeuvring craft matching or outclassing a fighter.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenbergwww.gutenberg.org</span><span class="citation-popover-snippet">Project Gutenbergwww.gutenberg.org</span></span></span>
 
-A second early point of interest was radiation. Ruppelt’s later account says Gorman’s aircraft was initially treated as more radioactive than aircraft that had not recently flown, feeding a short-lived idea that he had approached something exotic. That claim did not survive scrutiny: according to Ruppelt, a Wright Field laboratory memorandum explained that aircraft recently flown at altitude could show greater radioactivity because of cosmic-ray exposure compared with aircraft shielded closer to the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3</span></span></span>
+A second early point of interest was radiation. Ruppelt’s later account says Gorman’s aircraft was initially treated as more radioactive than aircraft that had not recently flown, feeding a short-lived idea that he had approached something exotic. That claim did not survive scrutiny: according to Ruppelt, a Wright Field laboratory memorandum explained that aircraft recently flown at altitude could show greater radioactivity because of cosmic-ray exposure compared with aircraft shielded closer to the ground.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3</span></span></span>
 
 <img src="{{ "/assets/images/Gorman_dogfight_near_aac8f7-Illustration-1-dark.svg" | relative_url }}" alt="Gorman dogfight near Fargo 1948 illustration 1" data-theme-src-dark="{{ "/assets/images/Gorman_dogfight_near_aac8f7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gorman_dogfight_near_aac8f7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The official answer: a lighted weather balloon
 
-The central official explanation was a lighted weather balloon released from Fargo at about 8:50 pm, roughly ten minutes before the sighting developed. Ruppelt wrote that an Air Weather Service analysis sent to Air Technical Intelligence Center on 24 January 1949 “proved” Gorman had fought a lighted balloon; he also used the case to illustrate how night vision, vertigo, and lack of reference points could mislead experienced pilots. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3</span></span></span>
+The central official explanation was a lighted weather balloon released from Fargo at about 8:50 pm, roughly ten minutes before the sighting developed. Ruppelt wrote that an Air Weather Service analysis sent to Air Technical Intelligence Center on 24 January 1949 “proved” Gorman had fought a lighted balloon; he also used the case to illustrate how night vision, vertigo, and lack of reference points could mislead experienced pilots.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3</span></span></span>
 
-That explanation fits several early features of the case. A small white light, no visible structure, no sound, and uncertain altitude are all compatible with a lighted balloon seen at night. The Project Gutenberg text of Donald Menzel and Lyle Boyd’s sceptical treatment argues that the balloon carried a small white light, moved west and then northwest, was low and climbing, and would have been near the airport at around the time witnesses first saw the unknown light. It also notes that the witnesses’ distance and altitude estimates varied substantially, which is unsurprising for a small light of unknown size in a dark, moonless sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenbergwww.gutenberg.org</span><span class="citation-popover-snippet">Project Gutenbergwww.gutenberg.org</span></span></span>
+That explanation fits several early features of the case. A small white light, no visible structure, no sound, and uncertain altitude are all compatible with a lighted balloon seen at night. The Project Gutenberg text of Donald Menzel and Lyle Boyd’s sceptical treatment argues that the balloon carried a small white light, moved west and then northwest, was low and climbing, and would have been near the airport at around the time witnesses first saw the unknown light. It also notes that the witnesses’ distance and altitude estimates varied substantially, which is unsurprising for a small light of unknown size in a dark, moonless sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenbergwww.gutenberg.org</span><span class="citation-popover-snippet">Project Gutenbergwww.gutenberg.org</span></span></span>
 
-The weakness is that a balloon alone is less satisfying for the later, more aggressive manoeuvres Gorman reported. A balloon cannot deliberately attack, reverse, or climb away from a fighter in the way the pilot perceived. That is why the more careful sceptical version is not simply “it was a balloon”; it is closer to “the first target was probably a balloon, and the later dogfight-like behaviour was probably perceptual or astronomical.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenbergwww.gutenberg.org</span><span class="citation-popover-snippet">Project Gutenbergwww.gutenberg.org</span></span></span>
+The weakness is that a balloon alone is less satisfying for the later, more aggressive manoeuvres Gorman reported. A balloon cannot deliberately attack, reverse, or climb away from a fighter in the way the pilot perceived. That is why the more careful sceptical version is not simply “it was a balloon”; it is closer to “the first target was probably a balloon, and the later dogfight-like behaviour was probably perceptual or astronomical.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenbergwww.gutenberg.org</span><span class="citation-popover-snippet">Project Gutenbergwww.gutenberg.org</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MqMfNUFvO4E" title="The Gorman UFO Incident of 1948 - Forgotten History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MqMfNUFvO4E" target="_blank" rel="noopener noreferrer">The Gorman UFO Incident of 1948 - Forgotten History</a></p><p class="youtube-embed-meta">Channel: FORGOTTEN HISTORY &middot; Views: 82.8K &middot; Uploaded: June 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MqMfNUFvO4E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MqMfNUFvO4E">Open on YouTube</a></p></div></div></div>
 
 ## The two-stage sceptical reconstruction
 
-The most useful sceptical reconstruction treats the sighting as a sequence, not a single object behaving consistently for 27 minutes. In that version, the first light seen by Gorman and the other witnesses was the lighted weather balloon. After Gorman’s high-speed manoeuvres and temporary loss of the target, he may have reacquired a different light and interpreted it as the same object. Menzel and Boyd argued that the second “opponent” was probably not a physical object at all but an optical effect involving Jupiter low in the south-western sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenbergwww.gutenberg.org</span><span class="citation-popover-snippet">Project Gutenbergwww.gutenberg.org</span></span></span>
+The most useful sceptical reconstruction treats the sighting as a sequence, not a single object behaving consistently for 27 minutes. In that version, the first light seen by Gorman and the other witnesses was the lighted weather balloon. After Gorman’s high-speed manoeuvres and temporary loss of the target, he may have reacquired a different light and interpreted it as the same object. Menzel and Boyd argued that the second “opponent” was probably not a physical object at all but an optical effect involving Jupiter low in the south-western sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenbergwww.gutenberg.org</span><span class="citation-popover-snippet">Project Gutenbergwww.gutenberg.org</span></span></span>
 
-This reconstruction directly addresses one of the case’s biggest puzzles: why the ground witnesses did not report the same violent aerial combat that Gorman described. According to Menzel and Boyd, the ground witnesses saw the light travel steadily and disappear before the full airborne “dogfight” was over. They proposed that the balloon explains the shared early observation, while a bright planet affected by atmospheric distortion and seen from a manoeuvring aircraft could explain the later apparent attacks, retreats, and climbs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenbergwww.gutenberg.org</span><span class="citation-popover-snippet">Project Gutenbergwww.gutenberg.org</span></span></span>
+This reconstruction directly addresses one of the case’s biggest puzzles: why the ground witnesses did not report the same violent aerial combat that Gorman described. According to Menzel and Boyd, the ground witnesses saw the light travel steadily and disappear before the full airborne “dogfight” was over. They proposed that the balloon explains the shared early observation, while a bright planet affected by atmospheric distortion and seen from a manoeuvring aircraft could explain the later apparent attacks, retreats, and climbs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenbergwww.gutenberg.org</span><span class="citation-popover-snippet">Project Gutenbergwww.gutenberg.org</span></span></span>
 
-The Jupiter element is not universally accepted in UFO literature, and some later pro-UFO summaries criticise it, especially where they argue that the planet’s position does not match the chase. Still, the sceptical mechanism is important because it does not require Gorman to be dishonest or incompetent. It only requires a pilot under stress, at night, with few reference points, trying to judge the range and motion of a bright light whose true size and distance were unknown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenbergwww.gutenberg.org</span><span class="citation-popover-snippet">Project Gutenbergwww.gutenberg.org</span></span></span>
+The Jupiter element is not universally accepted in UFO literature, and some later pro-UFO summaries criticise it, especially where they argue that the planet’s position does not match the chase. Still, the sceptical mechanism is important because it does not require Gorman to be dishonest or incompetent. It only requires a pilot under stress, at night, with few reference points, trying to judge the range and motion of a bright light whose true size and distance were unknown.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenbergwww.gutenberg.org</span><span class="citation-popover-snippet">Project Gutenbergwww.gutenberg.org</span></span></span>
 
 <img src="{{ "/assets/images/Gorman_dogfight_near_aac8f7-Illustration-2-dark.svg" | relative_url }}" alt="Gorman dogfight near Fargo 1948 illustration 2" data-theme-src-dark="{{ "/assets/images/Gorman_dogfight_near_aac8f7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gorman_dogfight_near_aac8f7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the case does and does not prove
 
-The Gorman incident proves that several people saw an unusual light near Fargo and that Gorman, in good faith, experienced a frightening and memorable pursuit. It also shows that official investigators initially took such reports seriously; Ruppelt placed the episode in the same early atmosphere as the Mantell and Chiles-Whitted cases, when some Air Force intelligence personnel were considering extraordinary possibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3</span></span></span>
+The Gorman incident proves that several people saw an unusual light near Fargo and that Gorman, in good faith, experienced a frightening and memorable pursuit. It also shows that official investigators initially took such reports seriously; Ruppelt placed the episode in the same early atmosphere as the Mantell and Chiles-Whitted cases, when some Air Force intelligence personnel were considering extraordinary possibilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3</span></span></span>
 
-It does not prove that a structured craft was present. The strongest physical-sounding claim, the radiation reading, was explained by ordinary post-flight exposure. The other evidence is visual testimony under conditions known to be hazardous for judging distance and speed: night flight, a small light, uncertain range, possible vertigo, and no stable background reference. The National Archives’ summary of the later Air Force position on Project Blue Book states that the Air Force found no UFO evidence indicating a national-security threat, unknown technological principles, or extraterrestrial vehicles; that broad conclusion does not settle each early case by itself, but it frames how the service ultimately treated its UFO archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+It does not prove that a structured craft was present. The strongest physical-sounding claim, the radiation reading, was explained by ordinary post-flight exposure. The other evidence is visual testimony under conditions known to be hazardous for judging distance and speed: night flight, a small light, uncertain range, possible vertigo, and no stable background reference. The National Archives’ summary of the later Air Force position on Project Blue Book states that the Air Force found no UFO evidence indicating a national-security threat, unknown technological principles, or extraterrestrial vehicles; that broad conclusion does not settle each early case by itself, but it frames how the service ultimately treated its UFO archive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 The case is therefore best read as a high-quality example of a low-certainty UFO report: better witnessed than many stories, but still limited by the physics of night perception and the lack of durable evidence. Its value is not that it gives a clean answer, but that it exposes the gap between pilot confidence and evidential proof.
 
@@ -805,262 +805,262 @@ The case is therefore best read as a high-quality example of a low-certainty UFO
 
 ## Why it stayed famous
 
-The Gorman dogfight stayed famous because it had a vivid narrative shape: a young military pilot in a Mustang, a mysterious light over Fargo, control-tower involvement, and a chase that sounded like aerial combat. Local public-media accounts still treat it as one of North Dakota’s notable UFO stories, and later television coverage, including History Channel material connected to Project Blue Book, helped keep the incident in popular memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/main-street/2018-12-10/gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">Prairie Public Gorman Dogfight &#124; Prairie Public</span><span class="citation-popover-snippet">Prairie Public Gorman Dogfight &#124; Prairie Public</span></span></span>
+The Gorman dogfight stayed famous because it had a vivid narrative shape: a young military pilot in a Mustang, a mysterious light over Fargo, control-tower involvement, and a chase that sounded like aerial combat. Local public-media accounts still treat it as one of North Dakota’s notable UFO stories, and later television coverage, including History Channel material connected to Project Blue Book, helped keep the incident in popular memory.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/main-street/2018-12-10/gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">Prairie Public Gorman Dogfight &#124; Prairie Public</span><span class="citation-popover-snippet">Prairie Public Gorman Dogfight &#124; Prairie Public</span></span></span>
 
-Its fame also comes from timing. The incident occurred in 1948, when the modern flying-saucer era was still new and official agencies were trying to decide whether UFO reports were misidentifications, psychological effects, secret aircraft, foreign technology, or something more exotic. Ruppelt’s account says that while Project Sign personnel were still thinking through Gorman’s case, a “Top Secret Estimate of the Situation” favouring an interplanetary interpretation was moving through Air Force channels before being rejected for lack of proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3</span></span></span>
+Its fame also comes from timing. The incident occurred in 1948, when the modern flying-saucer era was still new and official agencies were trying to decide whether UFO reports were misidentifications, psychological effects, secret aircraft, foreign technology, or something more exotic. Ruppelt’s account says that while Project Sign personnel were still thinking through Gorman’s case, a “Top Secret Estimate of the Situation” favouring an interplanetary interpretation was moving through Air Force channels before being rejected for lack of proof.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3</span></span></span>
 
 That historical setting explains why the case can feel larger than the evidence now supports. At the time, it fed a live institutional debate about what UFO reports meant. With hindsight, the case looks less like a decisive encounter with an unknown craft and more like an instructive collision between sincere testimony, early Cold War anxiety, and the difficulty of interpreting lights in the night sky.
 
 <img src="{{ "/assets/images/Gorman_dogfight_near_aac8f7-Illustration-3-dark.svg" | relative_url }}" alt="Gorman dogfight near Fargo 1948 illustration 3" data-theme-src-dark="{{ "/assets/images/Gorman_dogfight_near_aac8f7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gorman_dogfight_near_aac8f7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Best assessment
 
-The most balanced assessment is that Gorman probably chased a misidentified light rather than an intelligently controlled vehicle. The first phase is well explained by the lighted weather balloon released shortly before the sighting. The later, more spectacular manoeuvres are harder to reconstruct, but the combination of target loss, night-flight perception, possible vertigo, and a bright low astronomical object offers a plausible non-extraordinary explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenbergwww.gutenberg.org</span><span class="citation-popover-snippet">Project Gutenbergwww.gutenberg.org</span></span></span>
+The most balanced assessment is that Gorman probably chased a misidentified light rather than an intelligently controlled vehicle. The first phase is well explained by the lighted weather balloon released shortly before the sighting. The later, more spectacular manoeuvres are harder to reconstruct, but the combination of target loss, night-flight perception, possible vertigo, and a bright low astronomical object offers a plausible non-extraordinary explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenbergwww.gutenberg.org</span><span class="citation-popover-snippet">Project Gutenbergwww.gutenberg.org</span></span></span>
 
 The unresolved residue is not strong physical evidence; it is the mismatch between what Gorman felt he experienced and what the later explanation can make emotionally intuitive. That mismatch is common in classic UFO cases. A witness can be credible, frightened, trained, and sincere while still misjudging a stimulus under poor perceptual conditions. For the Gorman dogfight, the surviving record supports a real incident, a real investigation, and a real historical impact — but not a demonstrated unknown craft over Fargo.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_ZPbk394_iU" title="Project Blue Book: Declassified - The Gorman Dogfight | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_ZPbk394_iU" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified - The Gorman Dogfight | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 28.1K &middot; Uploaded: February 2019 &middot; Length: 2 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_ZPbk394_iU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_ZPbk394_iU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Fargo&#x27;s UFO Dogfight Really Happen?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Fargo&#x27;s UFO Dogfight Really Happen?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Details the initial Air Force investigation into the Gorman case and how it became one of the first official &#x27;dogfight&#x27; reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details the initial Air Force investigation into the Gorman case and how it became one of the first official &#x27;dogfight&#x27; reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Provides institutional context on how 1940s air intelligence processed and eventually classified &#x27;dogfight&#x27; sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides institutional context on how 1940s air intelligence processed and eventually classified &#x27;dogfight&#x27; sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides an objective, detailed profile of the Gorman dogfight, summarizing the F-51 pilot account, tower corroboration, and later analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides an objective, detailed profile of the Gorman dogfight, summarizing the F-51 pilot account, tower corroboration, and later analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches investigative methodology to separate dramatic pilot recollections from aerial physics and instrument limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches investigative methodology to separate dramatic pilot recollections from aerial physics and instrument limitations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: en.wikisource.org  
    Title: The Report on Unidentified Flying Objects/Chapter 3  
-   Link: <a href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3</a>  
+   Link:<a href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gutenberg.org  
    Title: Project Gutenbergwww.gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/66639.txt.utf-8</a>  
+   Link:<a href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/66639.txt.utf-8</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: history.com  
    Title: Project Blue Book: Declassified  
-   Link: <a href="https://www.history.com/videos/project-blue-book-declassified-the-gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/project-blue-book-declassified-the-gorman-dogfight</a>  
+   Link:<a href="https://www.history.com/videos/project-blue-book-declassified-the-gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/project-blue-book-declassified-the-gorman-dogfight</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ia800501.us.archive.org  
    Title: Edward J Ruppelt The Report on Unidentified Flying Objects  
-   Link: <a href="https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf</a>  
+   Link:<a href="https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ia600600.us.archive.org  
    Title: UFOs The Definitive Casebook LQ2  
-   Link: <a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
+   Link:<a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf</a>  
+   Link:<a href="https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archive.org  
    Title: Australian Flying Saucer Review 1966 11 no 9 UFOIC djvu.txt  
-   Link: <a href="https://archive.org/stream/Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC/Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC/Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC/Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC/Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC_djvu.txt</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ia803102.us.archive.org  
    Title: Official UFO Feb1977 text  
-   Link: <a href="https://ia803102.us.archive.org/11/items/OfficialUFOFeb1977/Official_UFO-Feb1977_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia803102.us.archive.org/11/items/OfficialUFOFeb1977/Official_UFO-Feb1977_text.pdf</a>  
+   Link:<a href="https://ia803102.us.archive.org/11/items/OfficialUFOFeb1977/Official_UFO-Feb1977_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia803102.us.archive.org/11/items/OfficialUFOFeb1977/Official_UFO-Feb1977_text.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/FS195812/FS_1958_12_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/FS195812/FS_1958_12_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/FS195812/FS_1958_12_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/FS195812/FS_1958_12_djvu.txt</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/FalconCombatHistoryOfThe79thFighterGroupUnitedStatesArmyAirForces19421945/FalconCombatHistoryOfThe79thFighterGroupUnitedStatesArmyAirForces19421945_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/FalconCombatHistoryOfThe79thFighterGroupUnitedStatesArmyAirForces19421945/FalconCombatHistoryOfThe79thFighterGroupUnitedStatesArmyAirForces19421945_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/FalconCombatHistoryOfThe79thFighterGroupUnitedStatesArmyAirForces19421945/FalconCombatHistoryOfThe79thFighterGroupUnitedStatesArmyAirForces19421945_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/FalconCombatHistoryOfThe79thFighterGroupUnitedStatesArmyAirForces19421945/FalconCombatHistoryOfThe79thFighterGroupUnitedStatesArmyAirForces19421945_djvu.txt</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: history.com  
    Title: ufo dogfight gorman us plane fargo  
-   Link: <a href="https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo</a>  
+   Link:<a href="https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=b3LDvHPOU2M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b3LDvHPOU2M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gorman Dogfight...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=b3LDvHPOU2M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b3LDvHPOU2M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Gorman Dogfight...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: The Gorman Dogfight  
-   Link: <a href="https://www.youtube.com/watch?v=z-_X-uPqqxY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z-_X-uPqqxY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gorman dogfight 1948 Fargo The Gorman UFO Incident of 1948 - Forgotten History FORGOTTEN HISTORY...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=z-_X-uPqqxY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z-_X-uPqqxY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gorman dogfight 1948 Fargo The Gorman UFO Incident of 1948 - Forgotten History FORGOTTEN HISTORY...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: news.prairiepublic.org  
    Title: Prairie Public Gorman Dogfight | Prairie Public  
-   Link: <a href="https://news.prairiepublic.org/main-street/2018-12-10/gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow">https://news.prairiepublic.org/main-street/2018-12-10/gorman-dogfight</a>  
+   Link:<a href="https://news.prairiepublic.org/main-street/2018-12-10/gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow">https://news.prairiepublic.org/main-street/2018-12-10/gorman-dogfight</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Gorman dogfight  
-   Link: <a href="https://en.wikipedia.org/wiki/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gorman_dogfight</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gorman_dogfight</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: kids.kiddle.co  
    Title: Gorman dogfight  
-   Link: <a href="https://kids.kiddle.co/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Gorman_dogfight</a>  
+   Link:<a href="https://kids.kiddle.co/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Gorman_dogfight</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: slideshare.net  
-   Link: <a href="https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203</a>  
+   Link:<a href="https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: news.prairiepublic.org  
    Title: gorman dogfight  
-   Link: <a href="https://news.prairiepublic.org/show/dakota-datebook-archive/2022-04-25/gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow">https://news.prairiepublic.org/show/dakota-datebook-archive/2022-04-25/gorman-dogfight</a>  
+   Link:<a href="https://news.prairiepublic.org/show/dakota-datebook-archive/2022-04-25/gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow">https://news.prairiepublic.org/show/dakota-datebook-archive/2022-04-25/gorman-dogfight</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: hpr1.com  
    Title: the gorman dogfight  
-   Link: <a href="https://hpr1.com/index.php/feature/culture/the-gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow">https://hpr1.com/index.php/feature/culture/the-gorman-dogfight</a>  
+   Link:<a href="https://hpr1.com/index.php/feature/culture/the-gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow">https://hpr1.com/index.php/feature/culture/the-gorman-dogfight</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GmL3EPgig7E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GmL3EPgig7E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FIGHTER PILOT VS UFO: George Gorman’s Terrifying Dogfight Against An Alien Spacecraft...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GmL3EPgig7E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GmL3EPgig7E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FIGHTER PILOT VS UFO: George Gorman’s Terrifying Dogfight Against An Alien Spacecraft...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Richard Dolan Explains Blue Book. Ep. 1: The Gorman Dogfight  
-   Link: <a href="https://www.youtube.com/watch?v=ve8OJ9Ycukg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ve8OJ9Ycukg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1948 🇺🇸 #UFOB [CASE] The Gorman Dogfight, Fargo, North Dakota...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ve8OJ9Ycukg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ve8OJ9Ycukg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1948 🇺🇸 #UFOB [CASE] The Gorman Dogfight, Fargo, North Dakota...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MqMfNUFvO4E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MqMfNUFvO4E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Dolan Explains Blue Book. Ep. 1: The Gorman Dogfight...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MqMfNUFvO4E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MqMfNUFvO4E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Dolan Explains Blue Book. Ep. 1: The Gorman Dogfight...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100095324142521/posts/flying-his-p-51-mustang-on-a-clear-october-evening-gorman-spotted-something-stra/1007643215756474/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100095324142521/posts/flying-his-p-51-mustang-on-a-clear-october-evening-gorman-spotted-something-stra/1007643215756474/</a>  
+   Link:<a href="https://www.facebook.com/100095324142521/posts/flying-his-p-51-mustang-on-a-clear-october-evening-gorman-spotted-something-stra/1007643215756474/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100095324142521/posts/flying-his-p-51-mustang-on-a-clear-october-evening-gorman-spotted-something-stra/1007643215756474/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SBSAustralia/posts/new-sci-fi-drama-project-blue-book-tells-the-true-story-behind-ufo-sightings-bas/10157156027723686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SBSAustralia/posts/new-sci-fi-drama-project-blue-book-tells-the-true-story-behind-ufo-sightings-bas/10157156027723686/</a>  
+   Link:<a href="https://www.facebook.com/SBSAustralia/posts/new-sci-fi-drama-project-blue-book-tells-the-true-story-behind-ufo-sightings-bas/10157156027723686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SBSAustralia/posts/new-sci-fi-drama-project-blue-book-tells-the-true-story-behind-ufo-sightings-bas/10157156027723686/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart</a>  
+   Link:<a href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: weirddarkness.com  
-   Link: <a href="https://weirddarkness.com/gorman-dogfight-ufo-1948-fargo/" target="_blank" rel="noopener noreferrer nofollow">https://weirddarkness.com/gorman-dogfight-ufo-1948-fargo/</a>  
+   Link:<a href="https://weirddarkness.com/gorman-dogfight-ufo-1948-fargo/" target="_blank" rel="noopener noreferrer nofollow">https://weirddarkness.com/gorman-dogfight-ufo-1948-fargo/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ECFanAddict/posts/2027228630660308/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ECFanAddict/posts/2027228630660308/</a>  
+   Link:<a href="https://www.facebook.com/groups/ECFanAddict/posts/2027228630660308/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ECFanAddict/posts/2027228630660308/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
    Title: in 1948 george f gorman a 25 year old wwii veteran and north dakota national gua  
-   Link: <a href="https://www.facebook.com/worldwarwings/posts/in-1948-george-f-gorman-a-25-year-old-wwii-veteran-and-north-dakota-national-gua/1157356346432782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/worldwarwings/posts/in-1948-george-f-gorman-a-25-year-old-wwii-veteran-and-north-dakota-national-gua/1157356346432782/</a>
+   Link:<a href="https://www.facebook.com/worldwarwings/posts/in-1948-george-f-gorman-a-25-year-old-wwii-veteran-and-north-dakota-national-gua/1157356346432782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/worldwarwings/posts/in-1948-george-f-gorman-a-25-year-old-wwii-veteran-and-north-dakota-national-gua/1157356346432782/</a>

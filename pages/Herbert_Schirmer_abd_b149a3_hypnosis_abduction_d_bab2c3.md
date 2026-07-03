@@ -248,14 +248,14 @@ image: /assets/images/Herbert_Schirmer_abd_b149a3_hypnosis_abduction_d_bab2c3-Il
 
 ## Introduction
 
-The Herbert Schirmer case became far more controversial once hypnosis entered the story. Before hypnotic regression, Schirmer’s account was already unusual: a Nebraska police officer reported a hovering craft, missing time, physical after-effects and intense fear during a late-night patrol in December 1967. Under hypnosis, however, the narrative expanded into one of the early modern alien abduction stories, complete with humanoid beings, paralysis, transport aboard a craft and symbolic imagery that later became famous in UFO culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fatemag.com/post/the-schirmer-abduction-40-years-later" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fatemag.com">[FATE Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fatemag.com</span><span class="citation-popover-title">FATE Magazine The Schirmer Abduction 40 Years Later</span><span class="citation-popover-snippet">Their skin was a gray... Smith assigns this information to Schirmer and reports it in quotes.Read more...</span></span></span> Wikipedia That shift is exactly why the case remains important in debates about memory and belief. Supporters argue hypnosis helped recover traumatic m <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien abduction</span><span class="citation-popover-snippet">Alien abduction</span></span></span> emories hidden by shock or fear. Critics argue the process may have transformed a strange but limited UFO sighting into a detailed abduction narrative through suggestion, expectation and confabulation — the mind’s tendency to fill gaps with constructed material that feels real. Schirmer’s experience sits near the centre of a larger dispute that still surrounds UFO abduction claims today: did hypnosis uncover buried memories, or did it help create them?
+The Herbert Schirmer case became far more controversial once hypnosis entered the story. Before hypnotic regression, Schirmer’s account was already unusual: a Nebraska police officer reported a hovering craft, missing time, physical after-effects and intense fear during a late-night patrol in December 1967. Under hypnosis, however, the narrative expanded into one of the early modern alien abduction stories, complete with humanoid beings, paralysis, transport aboard a craft and symbolic imagery that later became famous in UFO culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fatemag.com/post/the-schirmer-abduction-40-years-later" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fatemag.com">[FATE Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fatemag.com</span><span class="citation-popover-title">FATE Magazine The Schirmer Abduction 40 Years Later</span><span class="citation-popover-snippet">Their skin was a gray... Smith assigns this information to Schirmer and reports it in quotes.Read more...</span></span></span> Wikipedia That shift is exactly why the case remains important in debates about memory and belief. Supporters argue hypnosis helped recover traumatic m<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien abduction</span><span class="citation-popover-snippet">Alien abduction</span></span></span> emories hidden by shock or fear. Critics argue the process may have transformed a strange but limited UFO sighting into a detailed abduction narrative through suggestion, expectation and confabulation — the mind’s tendency to fill gaps with constructed material that feels real. Schirmer’s experience sits near the centre of a larger dispute that still surrounds UFO abduction claims today: did hypnosis uncover buried memories, or did it help create them?
 
 <img src="{{ "/assets/images/Herbert_Schirmer_abd_b149a3_hypnosis_abduction_d_bab2c3-Illustration-1-dark.svg" | relative_url }}" alt="Hypnosis illustration 1" data-theme-src-dark="{{ "/assets/images/Herbert_Schirmer_abd_b149a3_hypnosis_abduction_d_bab2c3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Herbert_Schirmer_abd_b149a3_hypnosis_abduction_d_bab2c3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Hypnosis Added to the Story
 
-The most dramatic parts of the Schirmer case did not emerge in the initial police report. Early accounts focused on the object itself: glowing lights, a hovering craft, a missing period of time and Schirmer’s distressed physical condition afterwards. The abduction narrative largely appeared later during hypnotic regression sessions connected to investigators interested in unexplained “missing time” cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unariunwisdom.com/the-contact-case-of-herbert-schirmer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unariunwisdom.com">[unariunwisdom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unariunwisdom.com</span><span class="citation-popover-title">The Contact Case Of Herbert Schirmer</span><span class="citation-popover-snippet">August 29, 2025 — 29 Aug 2025 — But until the Condon Committee discovered twenty missing minutes in his police report and put him through...</span><span class="citation-popover-meta">Published: August 29, 2025</span></span></span>
+The most dramatic parts of the Schirmer case did not emerge in the initial police report. Early accounts focused on the object itself: glowing lights, a hovering craft, a missing period of time and Schirmer’s distressed physical condition afterwards. The abduction narrative largely appeared later during hypnotic regression sessions connected to investigators interested in unexplained “missing time” cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unariunwisdom.com/the-contact-case-of-herbert-schirmer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unariunwisdom.com">[unariunwisdom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unariunwisdom.com</span><span class="citation-popover-title">The Contact Case Of Herbert Schirmer</span><span class="citation-popover-snippet">August 29, 2025 — 29 Aug 2025 — But until the Condon Committee discovered twenty missing minutes in his police report and put him through...</span><span class="citation-popover-meta">Published: August 29, 2025</span></span></span>
 
-Under hypnosis, Schirmer described being immobilised by a beam or flash from the object and then escorted aboard the craft by humanoid figures. He claimed the beings wore tight-fitting uniforms, had pale greyish skin, slanted eyes and an emblem resembling a winged serpent on their chests. He also described technical details of the craft interior and said he received telepathic warnings about humanity’s future. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fatemag.com/post/the-schirmer-abduction-40-years-later" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fatemag.com">[FATE Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fatemag.com</span><span class="citation-popover-title">FATE Magazine The Schirmer Abduction 40 Years Later</span><span class="citation-popover-snippet">Their skin was a gray... Smith assigns this information to Schirmer and reports it in quotes.Read more...</span></span></span> Reddit These details mattered because they helped shape the emerging alien abduction template of the late 1960s and 1970s. The case appeared only a <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/16bvz9p/police_officer_herbert_schirmer_talks_about_being/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Police officer Herbert Schirmer talks about being taken...Police officer Herbert Schirmer describes the inside of a UFO after his...</span></span></span> few years after the Betty and Barney Hill story popularised hypnosis-assisted UFO memory recovery. Schirmer’s account reinforced several motifs that later became common in abduction literature:
+Under hypnosis, Schirmer described being immobilised by a beam or flash from the object and then escorted aboard the craft by humanoid figures. He claimed the beings wore tight-fitting uniforms, had pale greyish skin, slanted eyes and an emblem resembling a winged serpent on their chests. He also described technical details of the craft interior and said he received telepathic warnings about humanity’s future.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fatemag.com/post/the-schirmer-abduction-40-years-later" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fatemag.com">[FATE Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fatemag.com</span><span class="citation-popover-title">FATE Magazine The Schirmer Abduction 40 Years Later</span><span class="citation-popover-snippet">Their skin was a gray... Smith assigns this information to Schirmer and reports it in quotes.Read more...</span></span></span> Reddit These details mattered because they helped shape the emerging alien abduction template of the late 1960s and 1970s. The case appeared only a<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/16bvz9p/police_officer_herbert_schirmer_talks_about_being/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Police officer Herbert Schirmer talks about being taken...Police officer Herbert Schirmer describes the inside of a UFO after his...</span></span></span> few years after the Betty and Barney Hill story popularised hypnosis-assisted UFO memory recovery. Schirmer’s account reinforced several motifs that later became common in abduction literature:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -263,7 +263,7 @@ Under hypnosis, Schirmer described being immobilised by a beam or flash from the
 * Temporary paralysis during the encounter.
 * Non-human humanoid entities.
 * Telepathic communication.
-* Detailed craft interiors recalled under hypnosis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://connectparanormal.net/2024/06/25/herb-schirmer-ufo-encounter-a-detailed-account/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connectparanormal.net">[connectparanormal.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connectparanormal.net</span><span class="citation-popover-title">Under hypnosis, he recalled encounters with aliens and their spaceship.Read more</span><span class="citation-popover-snippet">Connect Paranormal BlogHerb Schirmer UFO Encounter: A Detailed Account25 Jun 2024 — In 1967, police officer Herb Schirmer experienced a l...</span></span></span>
+* Detailed craft interiors recalled under hypnosis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://connectparanormal.net/2024/06/25/herb-schirmer-ufo-encounter-a-detailed-account/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connectparanormal.net">[connectparanormal.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connectparanormal.net</span><span class="citation-popover-title">Under hypnosis, he recalled encounters with aliens and their spaceship.Read more</span><span class="citation-popover-snippet">Connect Paranormal BlogHerb Schirmer UFO Encounter: A Detailed Account25 Jun 2024 — In 1967, police officer Herb Schirmer experienced a l...</span></span></span>
 * Lingering psychological stress after the event.
 
 </div>
@@ -274,9 +274,9 @@ The case therefore became more than a Nebraska UFO report. It became an early te
 
 ## The Winged-Serpent Symbol and the Growth of Mythology
 
-One reason the Schirmer case remained culturally influential was the strange “winged serpent” emblem reportedly seen on the beings’ uniforms. The image was memorable, visually distinctive and easy for later UFO writers to repeat. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fatemag.com/post/the-schirmer-abduction-40-years-later" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fatemag.com">[FATE Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fatemag.com</span><span class="citation-popover-title">FATE Magazine The Schirmer Abduction 40 Years Later</span><span class="citation-popover-snippet">Their skin was a gray... Smith assigns this information to Schirmer and reports it in quotes.Read more...</span></span></span>
+One reason the Schirmer case remained culturally influential was the strange “winged serpent” emblem reportedly seen on the beings’ uniforms. The image was memorable, visually distinctive and easy for later UFO writers to repeat. Reddit<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fatemag.com/post/the-schirmer-abduction-40-years-later" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fatemag.com">[FATE Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fatemag.com</span><span class="citation-popover-title">FATE Magazine The Schirmer Abduction 40 Years Later</span><span class="citation-popover-snippet">Their skin was a gray... Smith assigns this information to Schirmer and reports it in quotes.Read more...</span></span></span>
 
-Over time, the symbol gained a near-mythic role in UFO folklore. Some later writers and enthusiasts pointed to alleged similarities in unrelated encounter reports, arguing that recurring serpent imagery implied consistency across independent cases. Others connected the imagery to later “reptilian” alien ideas, although those interpretations largely developed decades afterwards and went well beyond Schirmer’s original descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/16bvz9p/police_officer_herbert_schirmer_talks_about_being/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Police officer Herbert Schirmer talks about being taken...Police officer Herbert Schirmer describes the inside of a UFO after his...</span></span></span>
+Over time, the symbol gained a near-mythic role in UFO folklore. Some later writers and enthusiasts pointed to alleged similarities in unrelated encounter reports, arguing that recurring serpent imagery implied consistency across independent cases. Others connected the imagery to later “reptilian” alien ideas, although those interpretations largely developed decades afterwards and went well beyond Schirmer’s original descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/16bvz9p/police_officer_herbert_schirmer_talks_about_being/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Police officer Herbert Schirmer talks about being taken...Police officer Herbert Schirmer describes the inside of a UFO after his...</span></span></span>
 
 Sceptics see the symbol differently. To them, the emblem demonstrates how hypnosis can produce vivid, emotionally powerful imagery that becomes culturally contagious once published. In this interpretation, the winged serpent’s importance says less about extraterrestrials than about storytelling, memory reinforcement and the circulation of striking motifs through UFO culture.
 
@@ -285,7 +285,7 @@ The emblem also illustrates a broader problem in abduction research: once a case
 <img src="{{ "/assets/images/Herbert_Schirmer_abd_b149a3_hypnosis_abduction_d_bab2c3-Illustration-2-dark.svg" | relative_url }}" alt="Hypnosis illustration 2" data-theme-src-dark="{{ "/assets/images/Herbert_Schirmer_abd_b149a3_hypnosis_abduction_d_bab2c3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Herbert_Schirmer_abd_b149a3_hypnosis_abduction_d_bab2c3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Memory Recovery Through Hypnosis Is Disputed
 
-The Schirmer case cannot be separated from the larger scientific controversy over hypnosis itself. Hypnosis is a real psychological phenomenon, but mainstream memory researchers generally reject the idea that it functions like a perfect recording retrieval system. Instead, many studies show hypnosis can increase confidence in memories without reliably increasing accuracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien abduction</span><span class="citation-popover-snippet">Alien abduction</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Perspectives_on_the_alien_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Perspectives on the alien abduction phenomenon</span><span class="citation-popover-snippet">Perspectives on the alien abduction phenomenon</span></span></span>
+The Schirmer case cannot be separated from the larger scientific controversy over hypnosis itself. Hypnosis is a real psychological phenomenon, but mainstream memory researchers generally reject the idea that it functions like a perfect recording retrieval system. Instead, many studies show hypnosis can increase confidence in memories without reliably increasing accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien abduction</span><span class="citation-popover-snippet">Alien abduction</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Perspectives_on_the_alien_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Perspectives on the alien abduction phenomenon</span><span class="citation-popover-snippet">Perspectives on the alien abduction phenomenon</span></span></span>
 
 This distinction is central to the debate. A hypnotised subject may sincerely believe recovered memories are authentic even if portions are distorted, rearranged or unconsciously invented. Researchers critical of UFO regression hypnosis argue several mechanisms can shape narratives during sessions:
 
@@ -300,11 +300,11 @@ This distinction is central to the debate. A hypnotised subject may sincerely be
 
 </div>
 
-Critics such as Robert Sheaffer and Philip Klass argued that UFO investigators themselves sometimes unintentionally shaped the resulting narratives. According to sceptical analyses, different hypnotists often produced different styles of abduction accounts, suggesting the interviewer’s assumptions influenced what emerged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Reptilian_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Reptilian conspiracy theorySkeptics consider his claims to be a hoax. David Icke. According to... ↑ &quot;Police Officer Herbert Schirmer...</span></span></span>
+Critics such as Robert Sheaffer and Philip Klass argued that UFO investigators themselves sometimes unintentionally shaped the resulting narratives. According to sceptical analyses, different hypnotists often produced different styles of abduction accounts, suggesting the interviewer’s assumptions influenced what emerged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Reptilian_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Reptilian conspiracy theorySkeptics consider his claims to be a hoax. David Icke. According to... ↑ &quot;Police Officer Herbert Schirmer...</span></span></span>
 
 The Schirmer case became especially vulnerable to this criticism because the hypnotically recovered material was substantially more elaborate than the original account. The shift from “unusual aerial object” to “structured alien encounter” is precisely the kind of narrative expansion critics associate with hypnotic suggestion.
 
-Supporters of regression hypnosis counter that traumatic experiences are often fragmented in memory and that altered states may help people access emotionally suppressed recollections. Psychiatrist John Mack, one of the best-known academic defenders of abductee testimony decades later, argued that many experiencers displayed genuine emotional trauma and sincerity even when the objective reality of their accounts remained unproven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Herbert_Spiegel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Herbert Spiegel</span><span class="citation-popover-snippet">Herbert Spiegel</span></span></span>
+Supporters of regression hypnosis counter that traumatic experiences are often fragmented in memory and that altered states may help people access emotionally suppressed recollections. Psychiatrist John Mack, one of the best-known academic defenders of abductee testimony decades later, argued that many experiencers displayed genuine emotional trauma and sincerity even when the objective reality of their accounts remained unproven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Herbert_Spiegel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Herbert Spiegel</span><span class="citation-popover-snippet">Herbert Spiegel</span></span></span>
 
 But sincerity is not the same as factual accuracy. That distinction became the defining tension in Schirmer’s case.
 
@@ -326,7 +326,7 @@ That divide explains why the Schirmer case survived long after many 1960s UFO re
 <img src="{{ "/assets/images/Herbert_Schirmer_abd_b149a3_hypnosis_abduction_d_bab2c3-Illustration-3-dark.svg" | relative_url }}" alt="Hypnosis illustration 3" data-theme-src-dark="{{ "/assets/images/Herbert_Schirmer_abd_b149a3_hypnosis_abduction_d_bab2c3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Herbert_Schirmer_abd_b149a3_hypnosis_abduction_d_bab2c3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Lasting Debate Around the Schirmer Case
 
-Today, the hypnosis element is arguably more historically important than the reported UFO itself. The Schirmer case helped establish a pattern that later dominated alien abduction narratives: missing time followed by hypnotic recovery sessions that revealed hidden encounters with non-human beings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Narrative of the abduction phenomenon</span><span class="citation-popover-snippet">Narrative of the abduction phenomenon</span></span></span>
+Today, the hypnosis element is arguably more historically important than the reported UFO itself. The Schirmer case helped establish a pattern that later dominated alien abduction narratives: missing time followed by hypnotic recovery sessions that revealed hidden encounters with non-human beings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Narrative of the abduction phenomenon</span><span class="citation-popover-snippet">Narrative of the abduction phenomenon</span></span></span>
 
 For believers, the consistency of certain details across cases suggests something deeper than fantasy. For sceptics, those same repeating patterns are evidence of cultural scripting and memory contamination. Schirmer occupies an unusual place because his story began with a documented law-enforcement report rather than a retrospective claim years later. That initial credibility gave later hypnotic revelations more public impact than they might otherwise have received.
 
@@ -335,178 +335,178 @@ Yet the central problem remains unresolved. Hypnosis can produce vivid narrative
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8SvW4GDkbf0" title="The Herbert Schirmer Abduction: Revisiting Nebraska’s Most Documented UFO Encounter (1967–2025)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8SvW4GDkbf0" target="_blank" rel="noopener noreferrer">The Herbert Schirmer Abduction: Revisiting Nebraska’s Most Documented UFO Encounter (1967–2025)</a></p><p class="youtube-embed-meta">Channel: X-File Findings &middot; Views: 261 &middot; Uploaded: September 2025 &middot; Length: 1 hour 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8SvW4GDkbf0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8SvW4GDkbf0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Hypnosis Clarify or Complicate the Story?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Hypnosis Clarify or Complicate the Story?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xq1vfWIiV1IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xq1vfWIiV1IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
         
-        <p class="fr-book-desc">Provides the essential critical analysis explaining how hypnotic regression sessions can unintentionally construct compelling but false m...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the essential critical analysis explaining how hypnotic regression sessions can unintentionally construct compelling but false m...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
-        </h4>
-        <p class="fr-book-author">By John E. Mack, Mack</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+</h4>
+<p class="fr-book-author">By John E. Mack, Mack</p>
         
-        <p class="fr-book-desc">Reviews the clinical methodology used in the 1960s to bridge the gap between initial night-sighting confusion and later abduction memories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reviews the clinical methodology used in the 1960s to bridge the gap between initial night-sighting confusion and later abduction memories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Summarizes the case history and explains the scholarly view of how hypnotic regression fits into the broader UFO reporting wave.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Summarizes the case history and explains the scholarly view of how hypnotic regression fits into the broader UFO reporting wave.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=immWvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Missing Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
-        </h4>
-        <p class="fr-book-author">By Budd Hopkins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=immWvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Missing Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
+</h4>
+<p class="fr-book-author">By Budd Hopkins</p>
         
-        <p class="fr-book-desc">Analyzes the role of hypnosis in shaping the abduction narrative, allowing readers to audit the case against general abduction frameworks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Analyzes the role of hypnosis in shaping the abduction narrative, allowing readers to audit the case against general abduction frameworks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="hypnosis-c702a7-did-hypnosis-clarify-or-complicate-the-story-herbert-schirmer-abduction-1967-ufo-art-print-book-books-ge" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -522,7 +522,7 @@ Yet the central problem remains unresolved. Hypnosis can produce vivid narrative
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -542,7 +542,7 @@ Yet the central problem remains unresolved. Hypnosis can produce vivid narrative
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -574,7 +574,7 @@ Yet the central problem remains unresolved. Hypnosis can produce vivid narrative
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -626,7 +626,7 @@ Yet the central problem remains unresolved. Hypnosis can produce vivid narrative
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -671,7 +671,7 @@ Yet the central problem remains unresolved. Hypnosis can produce vivid narrative
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -712,114 +712,114 @@ Yet the central problem remains unresolved. Hypnosis can produce vivid narrative
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Alien abduction  
-   Link: <a href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_abduction</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_abduction</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Perspectives on the alien abduction phenomenon  
-   Link: <a href="https://en.wikipedia.org/wiki/Perspectives_on_the_alien_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Perspectives_on_the_alien_abduction_phenomenon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Perspectives_on_the_alien_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Perspectives_on_the_alien_abduction_phenomenon</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: unariunwisdom.com  
    Title: The Contact Case Of Herbert Schirmer  
-   Link: <a href="https://www.unariunwisdom.com/the-contact-case-of-herbert-schirmer/" target="_blank" rel="noopener noreferrer nofollow">https://www.unariunwisdom.com/the-contact-case-of-herbert-schirmer/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 29, 2025 — 29 Aug 2025 — But until the Condon Committee discovered twenty missing minutes in his police report and put him through...</p></details>
+   Link:<a href="https://www.unariunwisdom.com/the-contact-case-of-herbert-schirmer/" target="_blank" rel="noopener noreferrer nofollow">https://www.unariunwisdom.com/the-contact-case-of-herbert-schirmer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 29, 2025 — 29 Aug 2025 — But until the Condon Committee discovered twenty missing minutes in his police report and put him through...</p></details>
    Published: August 29, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16bvz9p/police_officer_herbert_schirmer_talks_about_being/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16bvz9p/police_officer_herbert_schirmer_talks_about_being/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Police officer Herbert Schirmer talks about being taken...Police officer Herbert Schirmer describes the inside of a UFO after his...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16bvz9p/police_officer_herbert_schirmer_talks_about_being/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16bvz9p/police_officer_herbert_schirmer_talks_about_being/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Police officer Herbert Schirmer talks about being taken...Police officer Herbert Schirmer describes the inside of a UFO after his...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/17mvvab/the_earliest_modern_day_reported_sighting_of_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/17mvvab/the_earliest_modern_day_reported_sighting_of_a/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The earliest modern day reported sighting of a reptilian-like...November 3, 2023 — r/UFOs - Police officer Herbert Schirmer descri...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/17mvvab/the_earliest_modern_day_reported_sighting_of_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/17mvvab/the_earliest_modern_day_reported_sighting_of_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The earliest modern day reported sighting of a reptilian-like...November 3, 2023 — r/UFOs - Police officer Herbert Schirmer descri...</p></details>
    Published: November 3, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Reptilian_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reptilian_conspiracy_theory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reptilian conspiracy theorySkeptics consider his claims to be a hoax. David Icke. According to... ↑ &quot;Police Officer Herbert Schirmer...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Reptilian_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reptilian_conspiracy_theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reptilian conspiracy theorySkeptics consider his claims to be a hoax. David Icke. According to... ↑ &quot;Police Officer Herbert Schirmer...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Herbert Spiegel  
-   Link: <a href="https://en.wikipedia.org/wiki/Herbert_Spiegel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Herbert_Spiegel</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Herbert_Spiegel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Herbert_Spiegel</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Narrative of the abduction phenomenon  
-   Link: <a href="https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/18tvd21/police_officer_herbert_schirmer_describes_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18tvd21/police_officer_herbert_schirmer_describes_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do most UFO/alien incidents seem to come from the. 0. 27...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/18tvd21/police_officer_herbert_schirmer_describes_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18tvd21/police_officer_herbert_schirmer_describes_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why do most UFO/alien incidents seem to come from the. 0. 27...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: fatemag.com  
    Title: FATE Magazine The Schirmer Abduction 40 Years Later  
-   Link: <a href="https://www.fatemag.com/post/the-schirmer-abduction-40-years-later" target="_blank" rel="noopener noreferrer nofollow">https://www.fatemag.com/post/the-schirmer-abduction-40-years-later</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Their skin was a gray... Smith assigns this information to Schirmer and reports it in quotes.Read more...</p></details>
+   Link:<a href="https://www.fatemag.com/post/the-schirmer-abduction-40-years-later" target="_blank" rel="noopener noreferrer nofollow">https://www.fatemag.com/post/the-schirmer-abduction-40-years-later</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Their skin was a gray... Smith assigns this information to Schirmer and reports it in quotes.Read more...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: believingthebizarre.com  
-   Link: <a href="https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Herbert Schirmer Alien AbductionPolice officer Herbert Schirmer reported a UFO encounter near Ashland, Nebraska, on December 3, 1967...</p></details>
+   Link:<a href="https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Herbert Schirmer Alien AbductionPolice officer Herbert Schirmer reported a UFO encounter near Ashland, Nebraska, on December 3, 1967...</p></details>
    Published: December 3, 1967  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: i got abducted by aliens a year and a half ago in canary wharf hes my type we ju  
-   Link: <a href="https://www.facebook.com/GBNewsOnline/posts/i-got-abducted-by-aliens-a-year-and-a-half-ago-in-canary-wharf-hes-my-type-we-ju/454357020030799/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GBNewsOnline/posts/i-got-abducted-by-aliens-a-year-and-a-half-ago-in-canary-wharf-hes-my-type-we-ju/454357020030799/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;I got abducted by aliens a year and a half ago in Canary...The UFO contactees of the 1950s claimed to have contacted aliens, but the su...</p></details>
+   Link:<a href="https://www.facebook.com/GBNewsOnline/posts/i-got-abducted-by-aliens-a-year-and-a-half-ago-in-canary-wharf-hes-my-type-we-ju/454357020030799/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GBNewsOnline/posts/i-got-abducted-by-aliens-a-year-and-a-half-ago-in-canary-wharf-hes-my-type-we-ju/454357020030799/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;I got abducted by aliens a year and a half ago in Canary...The UFO contactees of the 1950s claimed to have contacted aliens, but the su...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=z_GdL-Pp4g0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z_GdL-Pp4g0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BrainScratch: Herbert Schirmer&#x27;s Alien StoryBrainScratch: Herbert Schirmer&#x27;s Alien Story. 25K views · 8 years ago...more. LordanARTS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=z_GdL-Pp4g0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z_GdL-Pp4g0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BrainScratch: Herbert Schirmer&#x27;s Alien StoryBrainScratch: Herbert Schirmer&#x27;s Alien Story. 25K views · 8 years ago...more. LordanARTS...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SYFY/posts/we-finally-know-the-truth-about-the-first-verified-case-of-alien-abduction-nbc-s/971928968132731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SYFY/posts/we-finally-know-the-truth-about-the-first-verified-case-of-alien-abduction-nbc-s/971928968132731/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cases as well as false memory syndrome, sleep paralysis and alien abduction insurance. Walk Into My Parlour - Early UFO Abductions. Kurt...</p></details>
+   Link:<a href="https://www.facebook.com/SYFY/posts/we-finally-know-the-truth-about-the-first-verified-case-of-alien-abduction-nbc-s/971928968132731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SYFY/posts/we-finally-know-the-truth-about-the-first-verified-case-of-alien-abduction-nbc-s/971928968132731/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cases as well as false memory syndrome, sleep paralysis and alien abduction insurance. Walk Into My Parlour - Early UFO Abductions. Kurt...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: connectparanormal.net  
    Title: Under hypnosis, he recalled encounters with aliens and their spaceship.Read more  
-   Link: <a href="https://connectparanormal.net/2024/06/25/herb-schirmer-ufo-encounter-a-detailed-account/" target="_blank" rel="noopener noreferrer nofollow">https://connectparanormal.net/2024/06/25/herb-schirmer-ufo-encounter-a-detailed-account/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Connect Paranormal BlogHerb Schirmer UFO Encounter: A Detailed Account25 Jun 2024 — In 1967, police officer Herb Schirmer experienced a l...</p></details>
+   Link:<a href="https://connectparanormal.net/2024/06/25/herb-schirmer-ufo-encounter-a-detailed-account/" target="_blank" rel="noopener noreferrer nofollow">https://connectparanormal.net/2024/06/25/herb-schirmer-ufo-encounter-a-detailed-account/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Connect Paranormal BlogHerb Schirmer UFO Encounter: A Detailed Account25 Jun 2024 — In 1967, police officer Herb Schirmer experienced a l...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ibtimes.co.uk  
    Title: International Business Times UKDid Aliens Brand Him?  
-   Link: <a href="https://www.ibtimes.co.uk/did-aliens-brand-him-nebraska-officer-claims-abduction-after-seeing-winged-serpent-logo-1773764" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/did-aliens-brand-him-nebraska-officer-claims-abduction-after-seeing-winged-serpent-logo-1773764</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nebraska Officer Claims Abduction...26 Jan 2026 — Did Aliens Brand Him? Nebraska Officer Claims Abduction After Seeing Winged Serpent Lo...</p></details>
+   Link:<a href="https://www.ibtimes.co.uk/did-aliens-brand-him-nebraska-officer-claims-abduction-after-seeing-winged-serpent-logo-1773764" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/did-aliens-brand-him-nebraska-officer-claims-abduction-after-seeing-winged-serpent-logo-1773764</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nebraska Officer Claims Abduction...26 Jan 2026 — Did Aliens Brand Him? Nebraska Officer Claims Abduction After Seeing Winged Serpent Lo...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DSVIsn0DZkz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSVIsn0DZkz/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tion cases from the 1960s—the extraordinary encounter of Herb...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DSVIsn0DZkz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSVIsn0DZkz/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tion cases from the 1960s—the extraordinary encounter of Herb...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: kevinrandle.blogspot.com  
-   Link: <a href="https://kevinrandle.blogspot.com/2008/10/schirmer-abduction.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2008/10/schirmer-abduction.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective: The Schirmer Abduction13 Oct 2008 — In the summary of the report, the Condon Committee investigator wrote, &quot;Mr...</p></details>
+   Link:<a href="https://kevinrandle.blogspot.com/2008/10/schirmer-abduction.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2008/10/schirmer-abduction.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective: The Schirmer Abduction13 Oct 2008 — In the summary of the report, the Condon Committee investigator wrote, &quot;Mr...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: mediamonarchy.com  
    Title: officer herbert schirmers 1967 abduction  
-   Link: <a href="https://mediamonarchy.com/officer-herbert-schirmers-1967-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://mediamonarchy.com/officer-herbert-schirmers-1967-abduction/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Herbert Schirmer, a 22 year old Ashland, NE policeman, reports a UFO sighting in the wee hours of December 3, 1967. Schirmer notices 25 m...</p></details>
+   Link:<a href="https://mediamonarchy.com/officer-herbert-schirmers-1967-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://mediamonarchy.com/officer-herbert-schirmers-1967-abduction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Herbert Schirmer, a 22 year old Ashland, NE policeman, reports a UFO sighting in the wee hours of December 3, 1967. Schirmer notices 25 m...</p></details>
    Published: December 3, 1967  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/549979989109169/posts/1724256868348136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/549979989109169/posts/1724256868348136/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal &amp; Conspiracies, Ancient History...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/549979989109169/posts/1724256868348136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/549979989109169/posts/1724256868348136/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal &amp; Conspiracies, Ancient History...Read more...</p></details>

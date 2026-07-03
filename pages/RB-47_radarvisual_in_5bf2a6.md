@@ -758,279 +758,279 @@ image: /assets/images/RB-47_radarvisual_in_5bf2a6-overview-social.jpg
 
 ## Introduction
 
-Its importance lies in the tension between two facts. On one side, the crew were trained military personnel flying an aircraft designed to detect and analyse radar emissions. On the other, much of the case now depends on recollections, summaries, and later argument rather than preserved raw radar film, instrument recordings, or a complete contemporaneous investigation file. The result is not a simple “proved” or “debunked” case, but a useful test of how much weight a radar/visual UFO report can carry when its best evidence is partly missing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
+Its importance lies in the tension between two facts. On one side, the crew were trained military personnel flying an aircraft designed to detect and analyse radar emissions. On the other, much of the case now depends on recollections, summaries, and later argument rather than preserved raw radar film, instrument recordings, or a complete contemporaneous investigation file. The result is not a simple “proved” or “debunked” case, but a useful test of how much weight a radar/visual UFO report can carry when its best evidence is partly missing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
 
 <img src="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6-overview.webp" | relative_url }}" alt="Overview image for RB 47 radarvisual incident 1957" loading="eager" decoding="sync" fetchpriority="high">
 ## What reportedly happened on the RB-47 flight
 
-The aircraft was an RB-47H, a reconnaissance version of the B-47, flying from Forbes Air Force Base near Topeka, Kansas, on a mission that included navigation, gunnery, and electronic countermeasures training. Later accounts identify the crew as pilot Lewis D. Chase, co-pilot James H. McCoid, navigator Thomas H. Hanley, and electronic-warfare officers John J. Provenzano, Frank B. McClure, and Walter A. Tuchscherer. Three of the crew were operating electronic monitoring equipment in the rear of the aircraft, a detail that is central to why the case became more than a normal pilot sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The RB-47 Radar–Electronic Intelligence (ECM) UFO</span><span class="citation-popover-snippet">The RB-47 Radar–Electronic Intelligence (ECM) UFO</span></span></span>
+The aircraft was an RB-47H, a reconnaissance version of the B-47, flying from Forbes Air Force Base near Topeka, Kansas, on a mission that included navigation, gunnery, and electronic countermeasures training. Later accounts identify the crew as pilot Lewis D. Chase, co-pilot James H. McCoid, navigator Thomas H. Hanley, and electronic-warfare officers John J. Provenzano, Frank B. McClure, and Walter A. Tuchscherer. Three of the crew were operating electronic monitoring equipment in the rear of the aircraft, a detail that is central to why the case became more than a normal pilot sighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The RB-47 Radar–Electronic Intelligence (ECM) UFO</span><span class="citation-popover-snippet">The RB-47 Radar–Electronic Intelligence (ECM) UFO</span></span></span>
 
-The broad chronology usually begins with an electronic signal detected by McClure’s monitoring equipment as the aircraft was near the Gulf Coast region. The signal was later described as a radar-like emission in the S-band range, roughly around 2,800 to 3,000 megahertz depending on the account. The unusual feature, according to the case narrative, was not merely that a signal was detected, but that it appeared to move in a way the operator did not expect from an ordinary fixed ground radar source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
+The broad chronology usually begins with an electronic signal detected by McClure’s monitoring equipment as the aircraft was near the Gulf Coast region. The signal was later described as a radar-like emission in the S-band range, roughly around 2,800 to 3,000 megahertz depending on the account. The unusual feature, according to the case narrative, was not merely that a signal was detected, but that it appeared to move in a way the operator did not expect from an ordinary fixed ground radar source.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
 
-The cockpit crew then reported seeing a bright light. In the Condon Report’s summary of witness recollections, the pilot saw a white light ahead that crossed in front of the aircraft at very high apparent speed; later, a red glow was reported as holding a position relative to the aircraft. The account also says that ground-control radar was contacted and reported a second target near the RB-47, at a position broadly matching the crew’s observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
+The cockpit crew then reported seeing a bright light. In the Condon Report’s summary of witness recollections, the pilot saw a white light ahead that crossed in front of the aircraft at very high apparent speed; later, a red glow was reported as holding a position relative to the aircraft. The account also says that ground-control radar was contacted and reported a second target near the RB-47, at a position broadly matching the crew’s observations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
 
-The most striking part of the story is the alleged coordination between channels: visual sighting, electronic-monitor bearing, and ground radar. The case narrative describes the target appearing, disappearing, and reappearing in ways that seemed to coincide across these channels. This is why the RB-47 episode is usually grouped with classic radar/visual cases rather than with ordinary nocturnal-light reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
+The most striking part of the story is the alleged coordination between channels: visual sighting, electronic-monitor bearing, and ground radar. The case narrative describes the target appearing, disappearing, and reappearing in ways that seemed to coincide across these channels. This is why the RB-47 episode is usually grouped with classic radar/visual cases rather than with ordinary nocturnal-light reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
 
 <img src="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6-Illustration-1-dark.svg" | relative_url }}" alt="RB 47 radarvisual incident 1957 illustration 1" data-theme-src-dark="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the witnesses mattered
 
-The crew’s credibility is a major reason the case retained its reputation. They were not casual observers looking at the sky from the ground; they were military officers on a specialised aircraft, some of whom were trained to interpret electronic signals. The Condon investigators noted that the available crew members remained strongly impressed by the experience when interviewed years later, and their descriptions were generally consistent in the broad outline, though not identical in every detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
+The crew’s credibility is a major reason the case retained its reputation. They were not casual observers looking at the sky from the ground; they were military officers on a specialised aircraft, some of whom were trained to interpret electronic signals. The Condon investigators noted that the available crew members remained strongly impressed by the experience when interviewed years later, and their descriptions were generally consistent in the broad outline, though not identical in every detail.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
 
-That credibility has limits. Human testimony is strongest when it is prompt, detailed, and supported by preserved instrument records. In this case, the University of Colorado team, better known as the Condon Committee, investigated the case roughly a decade later and found no original Blue Book record during its search. It therefore had to rely heavily on interviews and memory, which made exact reconstruction difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
+That credibility has limits. Human testimony is strongest when it is prompt, detailed, and supported by preserved instrument records. In this case, the University of Colorado team, better known as the Condon Committee, investigated the case roughly a decade later and found no original Blue Book record during its search. It therefore had to rely heavily on interviews and memory, which made exact reconstruction difficult.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
 
-Later work complicated the picture. James E. McDonald, a physicist and atmospheric scientist who became one of the Condon Report’s most prominent critics, located case-file material that the Colorado investigators had missed and argued that the correct incident date was 17 July 1957, not the later date used in parts of the Condon analysis. His AIAA-published account also argued that the original files and crew interviews made the case stronger than the Condon treatment suggested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_aa_9_7_66_71.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-snippet">Open source on princeton.edu.</span></span></span>
+Later work complicated the picture. James E. McDonald, a physicist and atmospheric scientist who became one of the Condon Report’s most prominent critics, located case-file material that the Colorado investigators had missed and argued that the correct incident date was 17 July 1957, not the later date used in parts of the Condon analysis. His AIAA-published account also argued that the original files and crew interviews made the case stronger than the Condon treatment suggested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_aa_9_7_66_71.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-snippet">Open source on princeton.edu.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bJdhQaqmFaY" title="UFO Chased a US Military Plane (What We Know And Don&#x27;t Know)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bJdhQaqmFaY" target="_blank" rel="noopener noreferrer">UFO Chased a US Military Plane (What We Know And Don&#x27;t Know)</a></p><p class="youtube-embed-meta">Channel: The Infographics Show &middot; Views: 363.4K &middot; Uploaded: January 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bJdhQaqmFaY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bJdhQaqmFaY">Open on YouTube</a></p></div></div></div>
 
 ## The documentary trail is both valuable and frustrating
 
-Project Blue Book provides the wider institutional setting. The United States Air Force investigated UFO reports from 1947 to 1969, and the National Archives now holds declassified Blue Book records, including chronological case files and project records. The Air Force later stated that 12,618 sightings had been reported to Blue Book, of which 701 remained unidentified, while also saying that none showed evidence of a national-security threat, unknown scientific principles, or extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+Project Blue Book provides the wider institutional setting. The United States Air Force investigated UFO reports from 1947 to 1969, and the National Archives now holds declassified Blue Book records, including chronological case files and project records. The Air Force later stated that 12,618 sightings had been reported to Blue Book, of which 701 remained unidentified, while also saying that none showed evidence of a national-security threat, unknown scientific principles, or extraterrestrial vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-For the RB-47 case specifically, the documentary trail is patchy. The Condon Report said Project Blue Book had no record of the case when it looked, and that attempts to locate records failed. It also noted disagreement among crew recollections about whether data had been recorded during the flight: the pilot remembered film or wire-recorded data being removed by intelligence personnel, while the co-pilot and monitoring officer recalled that no such recording media were aboard. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
+For the RB-47 case specifically, the documentary trail is patchy. The Condon Report said Project Blue Book had no record of the case when it looked, and that attempts to locate records failed. It also noted disagreement among crew recollections about whether data had been recorded during the flight: the pilot remembered film or wire-recorded data being removed by intelligence personnel, while the co-pilot and monitoring officer recalled that no such recording media were aboard.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
 
-The later case file material matters because it reduces, but does not eliminate, the evidential gap. The Black Vault’s Blue Book compilation and the CUFOS-hosted case packet preserve later-public materials, including official-case material, McDonald’s analysis, and sceptical responses such as Philip J. Klass’s alternative explanation. These are valuable for comparing claims, but they still do not provide a clean set of raw radar recordings or photographs that would settle the event independently of interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The later case file material matters because it reduces, but does not eliminate, the evidential gap. The Black Vault’s Blue Book compilation and the CUFOS-hosted case packet preserve later-public materials, including official-case material, McDonald’s analysis, and sceptical responses such as Philip J. Klass’s alternative explanation. These are valuable for comparing claims, but they still do not provide a clean set of raw radar recordings or photographs that would settle the event independently of interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Why the Condon Report did not settle it
 
-The Condon Report’s treatment is often quoted because it reached an unusually cautious result. Its abstract said the crew described an encounter with a large ball of light that was also displayed for a sustained time on airborne radar-monitoring receivers and ground radar, but that the event had occurred ten years before the study and the phenomenon remained unidentified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
+The Condon Report’s treatment is often quoted because it reached an unusually cautious result. Its abstract said the crew described an encounter with a large ball of light that was also displayed for a sustained time on airborne radar-monitoring receivers and ground radar, but that the event had occurred ten years before the study and the phenomenon remained unidentified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
 
-The report also made clear why it would not go further. It concluded that if a crew or intelligence report had been submitted in 1957, it was apparently no longer in existence; it added that moving pictures and other recorded radar-scope data apparently never existed. Its final judgement was that the case rested on recollection and that the descriptions were not adequate to identify the phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
+The report also made clear why it would not go further. It concluded that if a crew or intelligence report had been submitted in 1957, it was apparently no longer in existence; it added that moving pictures and other recorded radar-scope data apparently never existed. Its final judgement was that the case rested on recollection and that the descriptions were not adequate to identify the phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
 
-This leaves the Condon handling in an awkward position. On the page, the case was not explained away; it was left unidentified because the evidence was insufficient. Yet the broader Condon Report helped justify closing Project Blue Book, and the Air Force subsequently ended official UFO investigation in December 1969. That wider policy conclusion can easily obscure the fact that individual cases inside the report, including this one, were not always reduced to simple identifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+This leaves the Condon handling in an awkward position. On the page, the case was not explained away; it was left unidentified because the evidence was insufficient. Yet the broader Condon Report helped justify closing Project Blue Book, and the Air Force subsequently ended official UFO investigation in December 1969. That wider policy conclusion can easily obscure the fact that individual cases inside the report, including this one, were not always reduced to simple identifications.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 <img src="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6-Illustration-2-dark.svg" | relative_url }}" alt="RB 47 radarvisual incident 1957 illustration 2" data-theme-src-dark="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The pro-UFO argument: multiple channels, trained crew, hard-to-fit behaviour
 
-The strongest argument for treating the RB-47 incident as genuinely anomalous is the reported overlap of independent observation channels. A cockpit visual sighting alone could be a meteor, aircraft light, astronomical object, or optical illusion. An electronic signal alone could be a ground radar, equipment problem, or propagation effect. A ground-radar report alone could be a false target. The case becomes more interesting because the main narrative says these channels sometimes lined up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
+The strongest argument for treating the RB-47 incident as genuinely anomalous is the reported overlap of independent observation channels. A cockpit visual sighting alone could be a meteor, aircraft light, astronomical object, or optical illusion. An electronic signal alone could be a ground radar, equipment problem, or propagation effect. A ground-radar report alone could be a false target. The case becomes more interesting because the main narrative says these channels sometimes lined up.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
 
-McDonald’s later account emphasised this point. He argued that simultaneous appearances and disappearances across visual, ground-radar, and electronic-monitor channels were hard to explain as coincidence. He also stressed that the crew included specialists using equipment designed for electronic intelligence work, not ordinary passengers guessing at lights in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The RB-47 Radar–Electronic Intelligence (ECM) UFO</span><span class="citation-popover-snippet">The RB-47 Radar–Electronic Intelligence (ECM) UFO</span></span></span>
+McDonald’s later account emphasised this point. He argued that simultaneous appearances and disappearances across visual, ground-radar, and electronic-monitor channels were hard to explain as coincidence. He also stressed that the crew included specialists using equipment designed for electronic intelligence work, not ordinary passengers guessing at lights in the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The RB-47 Radar–Electronic Intelligence (ECM) UFO</span><span class="citation-popover-snippet">The RB-47 Radar–Electronic Intelligence (ECM) UFO</span></span></span>
 
-The case also gained strength from what the Condon Report itself rejected. Its discussion said meteors did not fit the reported persistence, conventional aircraft did not fit the described speed, hovering, or apparent instant repositioning, and a plasma explanation was not regarded as tenable by scientists consulted at a plasma conference. That does not prove an extraordinary craft, but it shows why the case resisted a single easy answer in the official scientific study. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
+The case also gained strength from what the Condon Report itself rejected. Its discussion said meteors did not fit the reported persistence, conventional aircraft did not fit the described speed, hovering, or apparent instant repositioning, and a plasma explanation was not regarded as tenable by scientists consulted at a plasma conference. That does not prove an extraordinary craft, but it shows why the case resisted a single easy answer in the official scientific study.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gJVzp-21yuw" title="Two of the Strangest Physical UFO Events Ever Recorded | Close Encounters 111" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gJVzp-21yuw" target="_blank" rel="noopener noreferrer">Two of the Strangest Physical UFO Events Ever Recorded | Close Encounters 111</a></p><p class="youtube-embed-meta">Channel: SpaceRip &middot; Views: 318.2K &middot; Uploaded: December 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gJVzp-21yuw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gJVzp-21yuw">Open on YouTube</a></p></div></div></div>
 
 ## The sceptical argument: one dramatic story may be several ordinary events
 
-The best sceptical interpretations do not usually claim that the crew invented the incident. Instead, they argue that several separate events became fused into a single coherent “UFO” pursuit: a bright meteor or fireball, ordinary aircraft or ground lights, radar or electronic signals from known ground installations, and post-event memory effects. Philip J. Klass proposed a combination of equipment malfunction, a bright fireball, an airliner, and ground-radar reception as the source of the mystery; later sceptical writers, including Tim Printy and Robert Sheaffer, argued that the S-band signal looked very much like terrestrial radar rather than an unknown emitter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://badufos.blogspot.com/2012/01/rb-47-encounter-of-1957-ufologys-best.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: badufos.blogspot.com">[badufos.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">badufos.blogspot.com</span><span class="citation-popover-title">rb 47 encounter of 1957 ufologys best</span><span class="citation-popover-snippet">rb 47 encounter of 1957 ufologys best</span></span></span>
+The best sceptical interpretations do not usually claim that the crew invented the incident. Instead, they argue that several separate events became fused into a single coherent “UFO” pursuit: a bright meteor or fireball, ordinary aircraft or ground lights, radar or electronic signals from known ground installations, and post-event memory effects. Philip J. Klass proposed a combination of equipment malfunction, a bright fireball, an airliner, and ground-radar reception as the source of the mystery; later sceptical writers, including Tim Printy and Robert Sheaffer, argued that the S-band signal looked very much like terrestrial radar rather than an unknown emitter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://badufos.blogspot.com/2012/01/rb-47-encounter-of-1957-ufologys-best.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: badufos.blogspot.com">[badufos.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">badufos.blogspot.com</span><span class="citation-popover-title">rb 47 encounter of 1957 ufologys best</span><span class="citation-popover-snippet">rb 47 encounter of 1957 ufologys best</span></span></span>
 
-One key issue is the S-band signal. Sceptical analyses point out that the recorded characteristics of the signal were close to those of known American radar equipment, including CPS-6B or FPS-10-type radars. In the CUFOS-hosted sceptical material, Klass’s analysis notes that McClure’s reported signal characteristics closely matched a vertical-centre beam from a CPS-6B-type radar, with only a small pulse-duration discrepancy that a specialist suggested could be explained by reception effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/cases/1957_07_17_US_MI-LA-TX-OK_AirCraft-RB-47_NICAP_Chase-McCoid-Hanley-Provensano-McClure-Tuchscherer.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+One key issue is the S-band signal. Sceptical analyses point out that the recorded characteristics of the signal were close to those of known American radar equipment, including CPS-6B or FPS-10-type radars. In the CUFOS-hosted sceptical material, Klass’s analysis notes that McClure’s reported signal characteristics closely matched a vertical-centre beam from a CPS-6B-type radar, with only a small pulse-duration discrepancy that a specialist suggested could be explained by reception effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/cases/1957_07_17_US_MI-LA-TX-OK_AirCraft-RB-47_NICAP_Chase-McCoid-Hanley-Provensano-McClure-Tuchscherer.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
-Another issue is timing. The sceptical reconstruction highlights that the later S-band detection came about twenty minutes after the initial visual sighting, weakening the assumption that the light and the signal were necessarily the same object. The same analysis argues that if the signal came from a UFO, the UFO would have had to change course into a position not matched by a visual target at that moment; if it came from a ground radar such as Duncanville, the delay and bearing behaviour become less mysterious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/cases/1957_07_17_US_MI-LA-TX-OK_AirCraft-RB-47_NICAP_Chase-McCoid-Hanley-Provensano-McClure-Tuchscherer.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+Another issue is timing. The sceptical reconstruction highlights that the later S-band detection came about twenty minutes after the initial visual sighting, weakening the assumption that the light and the signal were necessarily the same object. The same analysis argues that if the signal came from a UFO, the UFO would have had to change course into a position not matched by a visual target at that moment; if it came from a ground radar such as Duncanville, the delay and bearing behaviour become less mysterious.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/cases/1957_07_17_US_MI-LA-TX-OK_AirCraft-RB-47_NICAP_Chase-McCoid-Hanley-Provensano-McClure-Tuchscherer.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
-The sceptical case also benefits from a simple evidential rule: when a dramatic interpretation depends on joining several ambiguous observations, each join has to be justified. A meteor can explain a sudden bright light but not a long chase; a ground radar can explain an electronic signal but not a cockpit light; an airliner can explain some lights but not instant manoeuvres. The sceptical strategy is to separate the chain, not to find one object that explains every reported detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://badufos.blogspot.com/2012/01/rb-47-encounter-of-1957-ufologys-best.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: badufos.blogspot.com">[badufos.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">badufos.blogspot.com</span><span class="citation-popover-title">rb 47 encounter of 1957 ufologys best</span><span class="citation-popover-snippet">rb 47 encounter of 1957 ufologys best</span></span></span>
+The sceptical case also benefits from a simple evidential rule: when a dramatic interpretation depends on joining several ambiguous observations, each join has to be justified. A meteor can explain a sudden bright light but not a long chase; a ground radar can explain an electronic signal but not a cockpit light; an airliner can explain some lights but not instant manoeuvres. The sceptical strategy is to separate the chain, not to find one object that explains every reported detail.<span class="citation-chip-wrap"><a class="citation-chip" href="https://badufos.blogspot.com/2012/01/rb-47-encounter-of-1957-ufologys-best.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: badufos.blogspot.com">[badufos.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">badufos.blogspot.com</span><span class="citation-popover-title">rb 47 encounter of 1957 ufologys best</span><span class="citation-popover-snippet">rb 47 encounter of 1957 ufologys best</span></span></span>
 
 <img src="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6-Illustration-3-dark.svg" | relative_url }}" alt="RB 47 radarvisual incident 1957 illustration 3" data-theme-src-dark="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the case does and does not prove
 
-The RB-47 case does support the narrower claim that some Cold War UFO reports involved competent military witnesses and more than one kind of observation. It is not a case that can be dismissed as a lone civilian misidentification without engaging the details. The Condon Report itself treated it as unidentified on the evidence then available, and McDonald’s later work strengthened the argument that the case deserved closer treatment than it initially received. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
+The RB-47 case does support the narrower claim that some Cold War UFO reports involved competent military witnesses and more than one kind of observation. It is not a case that can be dismissed as a lone civilian misidentification without engaging the details. The Condon Report itself treated it as unidentified on the evidence then available, and McDonald’s later work strengthened the argument that the case deserved closer treatment than it initially received.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
 
-It does not prove that the object was extraterrestrial, non-human technology, or a secret aircraft. The surviving record does not contain raw radar film, full electronic recordings, photographs, or an unbroken contemporaneous investigation file. The Air Force’s broader Blue Book conclusions explicitly stated that unidentified cases did not establish evidence of extraterrestrial vehicles or technological principles beyond known science, even though Blue Book left some reports unexplained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+It does not prove that the object was extraterrestrial, non-human technology, or a secret aircraft. The surviving record does not contain raw radar film, full electronic recordings, photographs, or an unbroken contemporaneous investigation file. The Air Force’s broader Blue Book conclusions explicitly stated that unidentified cases did not establish evidence of extraterrestrial vehicles or technological principles beyond known science, even though Blue Book left some reports unexplained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-The case also illustrates a recurring problem in UFO evidence: high-quality witnesses can still leave low-quality data. The crew may have been honest, skilled, and genuinely puzzled, while the available evidence remains insufficient to reconstruct every bearing, signal source, radar return, and visual observation with confidence. That distinction is essential; witness credibility and physical proof are related, but they are not the same thing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
+The case also illustrates a recurring problem in UFO evidence: high-quality witnesses can still leave low-quality data. The crew may have been honest, skilled, and genuinely puzzled, while the available evidence remains insufficient to reconstruct every bearing, signal source, radar return, and visual observation with confidence. That distinction is essential; witness credibility and physical proof are related, but they are not the same thing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0FqCRPpg57c" title="Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0FqCRPpg57c" target="_blank" rel="noopener noreferrer">Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 65.9K &middot; Uploaded: May 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0FqCRPpg57c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0FqCRPpg57c">Open on YouTube</a></p></div></div></div>
 
 ## Best assessment
 
-The fairest assessment is that the RB-47 incident remains an unusually strong historical UFO case in witness quality and narrative complexity, but a weaker case in preserved physical documentation. Its enduring force comes from the reported combination of visual sighting, airborne electronic detection, and ground-radar correlation. Its main weakness is that the decisive raw evidence either was not recorded, was not preserved, or cannot now be verified in the form needed to distinguish cleanly between one extraordinary object and several overlapping conventional events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
+The fairest assessment is that the RB-47 incident remains an unusually strong historical UFO case in witness quality and narrative complexity, but a weaker case in preserved physical documentation. Its enduring force comes from the reported combination of visual sighting, airborne electronic detection, and ground-radar correlation. Its main weakness is that the decisive raw evidence either was not recorded, was not preserved, or cannot now be verified in the form needed to distinguish cleanly between one extraordinary object and several overlapping conventional events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</span></span></span>
 
 For readers comparing major UFO cases, the RB-47 episode belongs with radar/visual cases that are genuinely worth studying rather than casually citing. It is stronger than a simple light-in-the-sky anecdote, weaker than a case with preserved calibrated sensor data, and more instructive than either believers or debunkers sometimes admit. Its real value is not that it delivers a final answer, but that it shows exactly where the hardest UFO cases stand or fall: chronology, instrument provenance, independent correlation, and the gap between “unidentified” and “explained by something extraordinary”.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened to the RB 47?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened to the RB 47?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Profiles the RB-47 incident objectively, summarizing the multi-sensor corroboration and the long-term historical debate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Profiles the RB-47 incident objectively, summarizing the multi-sensor corroboration and the long-term historical debate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Documents how early military investigations treated complex radar/visual incidents during the Cold War.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents how early military investigations treated complex radar/visual incidents during the Cold War.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches the forensic methodologies needed to evaluate cases relying on multiple sensor sources versus memory-based testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches the forensic methodologies needed to evaluate cases relying on multiple sensor sources versus memory-based testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Provides institutional background on how intelligence bureaus logged and analyzed airborne intercept reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides institutional background on how intelligence bureaus logged and analyzed airborne intercept reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: kirkmcd.princeton.edu  
-   Link: <a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_aa_9_7_66_71.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_aa_9_7_66_71.pdf</a>  
+   Link:<a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_aa_9_7_66_71.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_aa_9_7_66_71.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: files.ncas.org  
-   Link: <a href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case05.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</p></details>
+   Link:<a href="https://files.ncas.org/condon/text/case05.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case05.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Case 5: B-47 Crew, Radar/Visual Sighting...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cufos.org  
    Title: Center for UFO Studies  
-   Link: <a href="https://cufos.org/PDFs/cases/1957_07_17_US_MI-LA-TX-OK_AirCraft-RB-47_NICAP_Chase-McCoid-Hanley-Provensano-McClure-Tuchscherer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/cases/1957_07_17_US_MI-LA-TX-OK_AirCraft-RB-47_NICAP_Chase-McCoid-Hanley-Provensano-McClure-Tuchscherer.pdf</a>  
+   Link:<a href="https://cufos.org/PDFs/cases/1957_07_17_US_MI-LA-TX-OK_AirCraft-RB-47_NICAP_Chase-McCoid-Hanley-Provensano-McClure-Tuchscherer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/cases/1957_07_17_US_MI-LA-TX-OK_AirCraft-RB-47_NICAP_Chase-McCoid-Hanley-Provensano-McClure-Tuchscherer.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: academia.edu  
    Title: The RB-47 Radar–Electronic Intelligence (ECM) UFO  
-   Link: <a href="https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald</a>  
+   Link:<a href="https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: documents2.theblackvault.com  
-   Link: <a href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf</a>  
+   Link:<a href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: badufos.blogspot.com  
    Title: rb 47 encounter of 1957 ufologys best  
-   Link: <a href="https://badufos.blogspot.com/2012/01/rb-47-encounter-of-1957-ufologys-best.html" target="_blank" rel="noopener noreferrer nofollow">https://badufos.blogspot.com/2012/01/rb-47-encounter-of-1957-ufologys-best.html</a>  
+   Link:<a href="https://badufos.blogspot.com/2012/01/rb-47-encounter-of-1957-ufologys-best.html" target="_blank" rel="noopener noreferrer nofollow">https://badufos.blogspot.com/2012/01/rb-47-encounter-of-1957-ufologys-best.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: kirkmcd.princeton.edu  
    Title: mcdonald fsr 16 3 2 70  
-   Link: <a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf</a>  
+   Link:<a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: kevinrandle.blogspot.com  
-   Link: <a href="https://kevinrandle.blogspot.com/2014/02/" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2014/02/</a>  
+   Link:<a href="https://kevinrandle.blogspot.com/2014/02/" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2014/02/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Condon Committee  
-   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dn721804.ca.archive.org  
    Title: Bad UFOs critical thinking about UFO claims  
-   Link: <a href="https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf</a>  
+   Link:<a href="https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf</a>  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Two of the Strangest Physical UFO Events Ever Recorded | Close Encounters 111  
-   Link: <a href="https://www.youtube.com/watch?v=gJVzp-21yuw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gJVzp-21yuw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gJVzp-21yuw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gJVzp-21yuw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: UFO Chased a US Military Plane (What We Know And Don't Know)  
-   Link: <a href="https://www.youtube.com/watch?v=bJdhQaqmFaY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bJdhQaqmFaY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO Chasing a Military Aircraft? | Colm Kelleher and JMG...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bJdhQaqmFaY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bJdhQaqmFaY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO Chasing a Military Aircraft? | Colm Kelleher and JMG...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Crop Circles: The Buga Sphere Connection  
-   Link: <a href="https://www.youtube.com/watch?v=7r0Qg2N3oCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7r0Qg2N3oCM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Two of the Strangest Physical UFO Events Ever Recorded | Close Encounters 111...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7r0Qg2N3oCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7r0Qg2N3oCM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Two of the Strangest Physical UFO Events Ever Recorded | Close Encounters 111...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: A UFO Chasing a Military Aircraft? | Colm Kelleher and JMG  
-   Link: <a href="https://www.youtube.com/watch?v=infRUoeCldc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=infRUoeCldc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Crop Circles: The Buga Sphere Connection...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=infRUoeCldc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=infRUoeCldc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crop Circles: The Buga Sphere Connection...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2011/03/p57.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2011/03/p57.pdf</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2011/03/p57.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2011/03/p57.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/78133062/The-RB47-case-Ufology-s-best-evidence-Copyright-2012-Tim-Pritny" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/78133062/The-RB47-case-Ufology-s-best-evidence-Copyright-2012-Tim-Pritny</a>  
+   Link:<a href="https://www.scribd.com/document/78133062/The-RB47-case-Ufology-s-best-evidence-Copyright-2012-Tim-Pritny" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/78133062/The-RB47-case-Ufology-s-best-evidence-Copyright-2012-Tim-Pritny</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Scientific-Study-Unidentified-Flying-Objects/dp/B000J2VA3K" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Scientific-Study-Unidentified-Flying-Objects/dp/B000J2VA3K</a>
+   Link:<a href="https://www.amazon.co.uk/Scientific-Study-Unidentified-Flying-Objects/dp/B000J2VA3K" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Scientific-Study-Unidentified-Flying-Objects/dp/B000J2VA3K</a>

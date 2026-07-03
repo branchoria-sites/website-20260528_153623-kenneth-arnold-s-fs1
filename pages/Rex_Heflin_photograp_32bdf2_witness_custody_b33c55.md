@@ -242,16 +242,16 @@ image: /assets/images/Rex_Heflin_photograp_32bdf2_witness_custody_b33c55-Illustr
 
 ## Introduction
 
-The endurance of the Rex Heflin photographs has depended less on the images alone than on the credibility of the man who took them and the strange history of the missing original Polaroids. Many UFO photographs fade because the witness changes their story, seeks publicity, or cannot account for the evidence trail. Heflin’s case developed differently. He maintained a consistent account over decades, had a documented public-sector job tied directly to the camera he used, and was regarded by several investigators as a stable and cooperative witness. At the same time, the disappearance of the original photographs created a major evidential break that sceptics considered fatal. Supporters saw the same episode as suspicious interference rather than proof of fraud. Tustin Area Historical Society <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/shg/condon/case52.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[2project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Condon Report, Case 52: Traffic Investigator PhotographsThe earliest document mentioning this photograph is a report by the witness and a...</span></span></span>
+The endurance of the Rex Heflin photographs has depended less on the images alone than on the credibility of the man who took them and the strange history of the missing original Polaroids. Many UFO photographs fade because the witness changes their story, seeks publicity, or cannot account for the evidence trail. Heflin’s case developed differently. He maintained a consistent account over decades, had a documented public-sector job tied directly to the camera he used, and was regarded by several investigators as a stable and cooperative witness. At the same time, the disappearance of the original photographs created a major evidential break that sceptics considered fatal. Supporters saw the same episode as suspicious interference rather than proof of fraud. Tustin Area Historical Society<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/shg/condon/case52.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[2project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Condon Report, Case 52: Traffic Investigator PhotographsThe earliest document mentioning this photograph is a report by the witness and a...</span></span></span>
 
 <img src="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_witness_custody_b33c55-Illustration-1-dark.svg" | relative_url }}" alt="Witness Trail illustration 1" data-theme-src-dark="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_witness_custody_b33c55-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_witness_custody_b33c55-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The resulting dispute is not simply about whether the photographs show an unidentified object. It is about whether the witness record can compensate for broken custody of the evidence. The Heflin case therefore became a classic example of how UFO investigations often turn on trust, provenance and institutional ambiguity as much as on the photographs themselves.
 
 ## Heflin’s Work Role and Why Investigators Took Him Seriously
 
-Rex Heflin was not presented publicly as a professional photographer, scientist or UFO enthusiast. In 1965 he worked for the Orange County road department as a highway maintenance investigator, using a Polaroid camera as part of routine field documentation. According to the Condon Report reconstruction, the camera was standard county equipment rather than a specialised device brought for hobby photography. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/shg/condon/case52.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Condon Report, Case 52: Traffic Investigator PhotographsThe earliest document mentioning this photograph is a report by the witness and a...</span></span></span>
+Rex Heflin was not presented publicly as a professional photographer, scientist or UFO enthusiast. In 1965 he worked for the Orange County road department as a highway maintenance investigator, using a Polaroid camera as part of routine field documentation. According to the Condon Report reconstruction, the camera was standard county equipment rather than a specialised device brought for hobby photography.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/shg/condon/case52.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Condon Report, Case 52: Traffic Investigator PhotographsThe earliest document mentioning this photograph is a report by the witness and a...</span></span></span>
 
-That detail mattered because it weakened one common criticism aimed at UFO witnesses: that they had prepared equipment in advance or staged a publicity event. Heflin’s explanation for carrying the camera fit his daily work. His account also remained relatively stable over time. He consistently described stopping near Myford Road to document an obstructed sign, noticing radio trouble, then seeing a metallic object moving across his field of view before taking three rapid photographs and later a fourth image of the reported vapour ring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/shg/condon/case52.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Condon Report, Case 52: Traffic Investigator PhotographsThe earliest document mentioning this photograph is a report by the witness and a...</span></span></span>
+That detail mattered because it weakened one common criticism aimed at UFO witnesses: that they had prepared equipment in advance or staged a publicity event. Heflin’s explanation for carrying the camera fit his daily work. His account also remained relatively stable over time. He consistently described stopping near Myford Road to document an obstructed sign, noticing radio trouble, then seeing a metallic object moving across his field of view before taking three rapid photographs and later a fourth image of the reported vapour ring.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/shg/condon/case52.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Condon Report, Case 52: Traffic Investigator PhotographsThe earliest document mentioning this photograph is a report by the witness and a...</span></span></span>
 
 Investigators who defended the case repeatedly emphasised Heflin’s personal behaviour after the event:
 
@@ -260,7 +260,7 @@ Investigators who defended the case repeatedly emphasised Heflin’s personal be
 * He did not attempt to commercialise the photographs aggressively.
 * He cooperated with both civilian UFO researchers and sceptical inquiry.
 * He continued defending the authenticity of the photographs decades later without substantially expanding the story into more dramatic claims.
-* There was no evidence that he had a prior reputation for hoaxes or fabricated sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">The disappearance of the original Polaroid photos thwarted attempts to.Read more...</span></span></span>
+* There was no evidence that he had a prior reputation for hoaxes or fabricated sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">The disappearance of the original Polaroid photos thwarted attempts to.Read more...</span></span></span>
 
 </div>
 
@@ -268,11 +268,11 @@ Even some sceptical discussions acknowledged that Heflin himself did not fit the
 
 ## The Radio Failure and the Problem of Limited Corroboration
 
-One reason the Heflin account attracted continued attention was the reported radio malfunction immediately before the sighting. Heflin said he attempted to contact his office by radio and experienced unexpected interference or failure. UFO researchers later treated this as a potentially important physical-effect claim because radio disruption appears in other UFO reports from the period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">The disappearance of the original Polaroid photos thwarted attempts to.Read more...</span></span></span>
+One reason the Heflin account attracted continued attention was the reported radio malfunction immediately before the sighting. Heflin said he attempted to contact his office by radio and experienced unexpected interference or failure. UFO researchers later treated this as a potentially important physical-effect claim because radio disruption appears in other UFO reports from the period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">The disappearance of the original Polaroid photos thwarted attempts to.Read more...</span></span></span>
 
 Yet the evidential value of the radio problem remains limited. No surviving technical log establishes exactly what failed, how long the disruption lasted, or whether the malfunction was unusual for county equipment at the time. The claim survives mainly through Heflin’s own testimony and later retellings.
 
-The same pattern appears with broader corroboration. The photographs were taken near heavily travelled infrastructure and close to Marine Corps Air Station El Toro, which naturally raised the question of why more witnesses did not emerge publicly. Sceptics argued that a large low-flying object near military and civilian traffic should have produced multiple independent reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">bad ufos critical thinking about ufo claims 1519260849 9781519260840</span><span class="citation-popover-snippet">In Santa Ana, California on August 3, 1965, highway worker Rex Heflin (died 2005) got three photos of a...Read more...</span><span class="citation-popover-meta">Published: August 3, 1965</span></span></span>
+The same pattern appears with broader corroboration. The photographs were taken near heavily travelled infrastructure and close to Marine Corps Air Station El Toro, which naturally raised the question of why more witnesses did not emerge publicly. Sceptics argued that a large low-flying object near military and civilian traffic should have produced multiple independent reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">bad ufos critical thinking about ufo claims 1519260849 9781519260840</span><span class="citation-popover-snippet">In Santa Ana, California on August 3, 1965, highway worker Rex Heflin (died 2005) got three photos of a...Read more...</span><span class="citation-popover-meta">Published: August 3, 1965</span></span></span>
 
 Supporters responded that the encounter was brief, that attention during daytime driving is often fragmented, and that military activity near El Toro may have caused some observers to dismiss unusual aerial objects as ordinary aircraft. Still, the absence of strong independent witness testimony remained one of the case’s structural weaknesses. Heflin’s reliability therefore carried unusual weight because the broader corroboration never became robust.
 
@@ -282,7 +282,7 @@ This imbalance shaped the entire later debate. If Heflin was trustworthy, the ph
 
 ## Why the Missing Originals Became Central
 
-The decisive controversy began after publication of the photographs in September 1965. Heflin later stated that a man identifying himself as connected to NORAD — the North American Aerospace Defense Command — contacted him requesting the original Polaroids for analysis. According to Heflin, two men in civilian clothes carrying identification later collected the photographs and promised they would be returned. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">The disappearance of the original Polaroid photos thwarted attempts to.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/fe1q6u/in_1965_rex_heflin_saw_this_and_took_four_photos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">in 1965 rex heflin saw this and took four photos</span><span class="citation-popover-snippet">In 1965, Rex Heflin saw this and took four photos. He...The photos were deemed a &quot;hoax&quot; by Blue Book, but the USAF investigator de...</span></span></span>
+The decisive controversy began after publication of the photographs in September 1965. Heflin later stated that a man identifying himself as connected to NORAD — the North American Aerospace Defense Command — contacted him requesting the original Polaroids for analysis. According to Heflin, two men in civilian clothes carrying identification later collected the photographs and promised they would be returned.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">The disappearance of the original Polaroid photos thwarted attempts to.Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/fe1q6u/in_1965_rex_heflin_saw_this_and_took_four_photos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">in 1965 rex heflin saw this and took four photos</span><span class="citation-popover-snippet">In 1965, Rex Heflin saw this and took four photos. He...The photos were deemed a &quot;hoax&quot; by Blue Book, but the USAF investigator de...</span></span></span>
 
 The originals then disappeared for decades.
 
@@ -295,26 +295,26 @@ Several consequences followed:
 * Analysts could no longer inspect the original emulsion and development artefacts.
 * Questions about strings, suspension methods or small-scale models became harder to resolve conclusively.
 * Image-generation defects that might indicate manipulation could not be tested directly.
-* Geometric and density analysis became dependent on secondary-generation materials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">The disappearance of the original Polaroid photos thwarted attempts to.Read more...</span></span></span>
+* Geometric and density analysis became dependent on secondary-generation materials.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">The disappearance of the original Polaroid photos thwarted attempts to.Read more...</span></span></span>
 
 </div>
 
 For sceptics, this was devastating. The broken custody chain meant the strongest possible evidence was unavailable precisely when independent examination became most important. From a conventional evidential perspective, that alone reduced the case’s reliability substantially.
 
-For UFO proponents, however, the disappearance itself became suspicious. The story fed directly into long-running “Men in Black” narratives involving alleged unofficial confiscation of UFO evidence. Project Blue Book later reportedly denied knowledge of NORAD personnel retrieving the images, which only deepened speculation among believers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/mtfddp/rex_heflin_ufo_photos_1965_original_polaroids/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">rex heflin ufo photos 1965 original polaroids</span><span class="citation-popover-snippet">Rex Heflin UFO photos, 1965. Original polaroids went...Rex Heflin UFO photos, 1965. Original polaroids went missing for 28 years...</span></span></span>
+For UFO proponents, however, the disappearance itself became suspicious. The story fed directly into long-running “Men in Black” narratives involving alleged unofficial confiscation of UFO evidence. Project Blue Book later reportedly denied knowledge of NORAD personnel retrieving the images, which only deepened speculation among believers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/mtfddp/rex_heflin_ufo_photos_1965_original_polaroids/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">rex heflin ufo photos 1965 original polaroids</span><span class="citation-popover-snippet">Rex Heflin UFO photos, 1965. Original polaroids went...Rex Heflin UFO photos, 1965. Original polaroids went missing for 28 years...</span></span></span>
 
 The problem is that the available evidence does not conclusively support either interpretation. There is no independently verified documentation proving government seizure of the photographs. Equally, there is no confirmed explanation showing Heflin invented the retrieval story.
 
 <img src="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_witness_custody_b33c55-Illustration-2-dark.svg" | relative_url }}" alt="Witness Trail illustration 2" data-theme-src-dark="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_witness_custody_b33c55-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_witness_custody_b33c55-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Return of the Photographs and the New Dispute
 
-The mystery intensified in 1993 when Heflin reportedly received the original Polaroids back anonymously after nearly three decades. Accounts published later by Ann Druffel and others describe anonymous telephone calls directing Heflin to check his mailbox, where the photographs allegedly appeared in an envelope. The returned images reportedly carried markings including the word “ORIGINAL” and the number “13”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">The disappearance of the original Polaroid photos thwarted attempts to.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/fe1q6u/in_1965_rex_heflin_saw_this_and_took_four_photos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">in 1965 rex heflin saw this and took four photos</span><span class="citation-popover-snippet">In 1965, Rex Heflin saw this and took four photos. He...The photos were deemed a &quot;hoax&quot; by Blue Book, but the USAF investigator de...</span></span></span>
+The mystery intensified in 1993 when Heflin reportedly received the original Polaroids back anonymously after nearly three decades. Accounts published later by Ann Druffel and others describe anonymous telephone calls directing Heflin to check his mailbox, where the photographs allegedly appeared in an envelope. The returned images reportedly carried markings including the word “ORIGINAL” and the number “13”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">The disappearance of the original Polaroid photos thwarted attempts to.Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/fe1q6u/in_1965_rex_heflin_saw_this_and_took_four_photos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">in 1965 rex heflin saw this and took four photos</span><span class="citation-popover-snippet">In 1965, Rex Heflin saw this and took four photos. He...The photos were deemed a &quot;hoax&quot; by Blue Book, but the USAF investigator de...</span></span></span>
 
 Instead of resolving the controversy, the return created new questions:
 
 ### Were the returned photographs genuine originals?
 
-Researchers favourable to the case argued that the resurfaced prints matched expected characteristics of the missing Polaroids and allowed renewed technical analysis. The 2000 Journal of Scientific Exploration paper claimed computer enhancement answered earlier objections and supported Heflin’s account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">The disappearance of the original Polaroid photos thwarted attempts to.Read more...</span></span></span>
+Researchers favourable to the case argued that the resurfaced prints matched expected characteristics of the missing Polaroids and allowed renewed technical analysis. The 2000 Journal of Scientific Exploration paper claimed computer enhancement answered earlier objections and supported Heflin’s account.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">The disappearance of the original Polaroid photos thwarted attempts to.Read more...</span></span></span>
 
 Sceptics countered that the mysterious return story lacked independent verification and introduced another unverifiable narrative layer into an already controversial case.
 
@@ -341,7 +341,7 @@ Several features continue to support Heflin’s credibility:
 * His occupational context plausibly explains the camera and location.
 * His account remained comparatively stable over decades.
 * He did not become a major celebrity figure or profit heavily from the incident.
-* Some investigators who met him personally described him as straightforward and credible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">The disappearance of the original Polaroid photos thwarted attempts to.Read more...</span></span></span>
+* Some investigators who met him personally described him as straightforward and credible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">The disappearance of the original Polaroid photos thwarted attempts to.Read more...</span></span></span>
 
 </div>
 
@@ -350,7 +350,7 @@ But major limitations remain unresolved:
 * The chain of custody for the original photographs broke almost immediately.
 * Independent corroboration was weak.
 * The alleged NORAD retrieval story was never firmly documented.
-* The photographs themselves remain open to competing interpretations, including suspended-model explanations explored by sceptical analysts associated with the Condon study. <span class="citation-chip-wrap"><a class="citation-chip" href="https://badufos.blogspot.com/2012/01/rex-heflin-1965-classic-ufo-photo-now.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: badufos.blogspot.com">[badufos.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">badufos.blogspot.com</span><span class="citation-popover-title">rex heflin 1965 classic ufo photo now</span><span class="citation-popover-snippet">Dr. William K. Hartmann replicated Heflin&#x27;s photos for the Condon report (case 52), using a suspended lens cap.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/shg/condon/case52.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[2project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Condon Report, Case 52: Traffic Investigator PhotographsThe earliest document mentioning this photograph is a report by the witness and a...</span></span></span>
+* The photographs themselves remain open to competing interpretations, including suspended-model explanations explored by sceptical analysts associated with the Condon study.<span class="citation-chip-wrap"><a class="citation-chip" href="https://badufos.blogspot.com/2012/01/rex-heflin-1965-classic-ufo-photo-now.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: badufos.blogspot.com">[badufos.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">badufos.blogspot.com</span><span class="citation-popover-title">rex heflin 1965 classic ufo photo now</span><span class="citation-popover-snippet">Dr. William K. Hartmann replicated Heflin&#x27;s photos for the Condon report (case 52), using a suspended lens cap.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/shg/condon/case52.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[2project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Condon Report, Case 52: Traffic Investigator PhotographsThe earliest document mentioning this photograph is a report by the witness and a...</span></span></span>
 
 That combination explains why the Heflin case survives in a strange middle category. It is neither a clearly exposed fraud nor a conclusively authenticated UFO event. Instead, it became a long-running argument about evidential standards. Supporters treat Heflin’s personal reliability and the later return of the originals as reasons not to dismiss the case. Sceptics argue that precisely because the originals vanished during the critical period, the testimony can never fully overcome the damaged evidence trail.
 
@@ -359,194 +359,194 @@ In practical terms, the “missing originals” problem transformed the case fro
 <img src="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_witness_custody_b33c55-Illustration-3-dark.svg" | relative_url }}" alt="Witness Trail illustration 3" data-theme-src-dark="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_witness_custody_b33c55-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rex_Heflin_photograp_32bdf2_witness_custody_b33c55-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can the Witness Record Carry the Case?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can the Witness Record Carry the Case?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Maps out the chronology of the Heflin sighting, from initial maintenance duty to photographic evidence chain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Maps out the chronology of the Heflin sighting, from initial maintenance duty to photographic evidence chain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches skills for auditing how witness testimony evolves between initial communication and formal questioning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches skills for auditing how witness testimony evolves between initial communication and formal questioning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
-        </h4>
-        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+</h4>
+<p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
         
-        <p class="fr-book-desc">Discusses methodology for identifying the provenance of photographic evidence and witness trustworthiness.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses methodology for identifying the provenance of photographic evidence and witness trustworthiness.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Documents how investigative bureaus processed reports for chronological accuracy during sighting wave audits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents how investigative bureaus processed reports for chronological accuracy during sighting wave audits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sister States, Enemy States</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sister States, Enemy States</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Vehicle Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/515424d9b9f1d48ff309.jpg' | relative_url }}" alt="Listing image for UFO (TV) Vehicle Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Vehicle Scene 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Vehicle Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/515424d9b9f1d48ff309.jpg' | relative_url }}" alt="Listing image for UFO (TV) Vehicle Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Vehicle Scene 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/12f46aa57a03b419cd19.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/12f46aa57a03b419cd19.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Harry Baird, Gabrielle Drake 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/4c3880f38b00ff87477b.jpg' | relative_url }}" alt="Listing image for UFO (TV) Harry Baird, Gabrielle Drake 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Harry Baird, Gabrielle Drake 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Harry Baird, Gabrielle Drake 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/4c3880f38b00ff87477b.jpg' | relative_url }}" alt="Listing image for UFO (TV) Harry Baird, Gabrielle Drake 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Harry Baird, Gabrielle Drake 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/a5f58c820be9e212e78d.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/a5f58c820be9e212e78d.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-trail-d77493-can-the-witness-record-carry-the-case-rex-heflin-photographs-1965-ufo-photo-print-book-books-series" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ In practical terms, the “missing originals” problem transformed the case fro
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ In practical terms, the “missing originals” problem transformed the case fro
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ In practical terms, the “missing originals” problem transformed the case fro
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ In practical terms, the “missing originals” problem transformed the case fro
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ In practical terms, the “missing originals” problem transformed the case fro
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,122 +752,122 @@ In practical terms, the “missing originals” problem transformed the case fro
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/shg/condon/case52.html" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/shg/condon/case52.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Case 52: Traffic Investigator PhotographsThe earliest document mentioning this photograph is a report by the witness and a...</p></details>
+   Link:<a href="https://www.project1947.com/shg/condon/case52.html" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/shg/condon/case52.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Case 52: Traffic Investigator PhotographsThe earliest document mentioning this photograph is a report by the witness and a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
    Title: in 1965 rex heflin saw this and took four photos  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/fe1q6u/in_1965_rex_heflin_saw_this_and_took_four_photos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/fe1q6u/in_1965_rex_heflin_saw_this_and_took_four_photos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1965, Rex Heflin saw this and took four photos. He...The photos were deemed a &quot;hoax&quot; by Blue Book, but the USAF investigator de...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/fe1q6u/in_1965_rex_heflin_saw_this_and_took_four_photos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/fe1q6u/in_1965_rex_heflin_saw_this_and_took_four_photos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1965, Rex Heflin saw this and took four photos. He...The photos were deemed a &quot;hoax&quot; by Blue Book, but the USAF investigator de...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dokumen.pub  
    Title: bad ufos critical thinking about ufo claims 1519260849 9781519260840  
-   Link: <a href="https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In Santa Ana, California on August 3, 1965, highway worker Rex Heflin (died 2005) got three photos of a...Read more...</p></details>
+   Link:<a href="https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Santa Ana, California on August 3, 1965, highway worker Rex Heflin (died 2005) got three photos of a...Read more...</p></details>
    Published: August 3, 1965  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: rex heflin ufo photos 1965 original polaroids  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/mtfddp/rex_heflin_ufo_photos_1965_original_polaroids/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/mtfddp/rex_heflin_ufo_photos_1965_original_polaroids/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rex Heflin UFO photos, 1965. Original polaroids went...Rex Heflin UFO photos, 1965. Original polaroids went missing for 28 years...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/mtfddp/rex_heflin_ufo_photos_1965_original_polaroids/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/mtfddp/rex_heflin_ufo_photos_1965_original_polaroids/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rex Heflin UFO photos, 1965. Original polaroids went...Rex Heflin UFO photos, 1965. Original polaroids went missing for 28 years...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: badufos.blogspot.com  
    Title: rex heflin 1965 classic ufo photo now  
-   Link: <a href="https://badufos.blogspot.com/2012/01/rex-heflin-1965-classic-ufo-photo-now.html" target="_blank" rel="noopener noreferrer nofollow">https://badufos.blogspot.com/2012/01/rex-heflin-1965-classic-ufo-photo-now.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. William K. Hartmann replicated Heflin&#x27;s photos for the Condon report (case 52), using a suspended lens cap.Read more...</p></details>
+   Link:<a href="https://badufos.blogspot.com/2012/01/rex-heflin-1965-classic-ufo-photo-now.html" target="_blank" rel="noopener noreferrer nofollow">https://badufos.blogspot.com/2012/01/rex-heflin-1965-classic-ufo-photo-now.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. William K. Hartmann replicated Heflin&#x27;s photos for the Condon report (case 52), using a suspended lens cap.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tustinhistory.com  
    Title: Reanalysis of the 1965 Heflin UFO Photos Society for Scientific  
-   Link: <a href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The disappearance of the original Polaroid photos thwarted attempts to.Read more...</p></details>
+   Link:<a href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The disappearance of the original Polaroid photos thwarted attempts to.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: files.ncas.org  
-   Link: <a href="https://files.ncas.org/condon/text/case52.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case52.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report, Case 52: Traffic Investigator PhotographsThe earliest document mentioning this photograph is a report by the witness and a NICAP...</p></details>
+   Link:<a href="https://files.ncas.org/condon/text/case52.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case52.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report, Case 52: Traffic Investigator PhotographsThe earliest document mentioning this photograph is a report by the witness and a NICAP...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: UFO photographs  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_photographs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO photographsHeflin (1965). edit. On August 3, 1965, at about 12:30 p.m, Rex Heflin, an Orange County highway maintenance employee...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_photographs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO photographsHeflin (1965). edit. On August 3, 1965, at about 12:30 p.m, Rex Heflin, an Orange County highway maintenance employee...</p></details>
    Published: August 3, 1965  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: scribd.com  
    Title: Journal of Scientific Exploration  
-   Link: <a href="https://www.scribd.com/document/78205127/Journal-of-Scientific-Exploration-Volume-14-Number-1-4" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/78205127/Journal-of-Scientific-Exploration-Volume-14-Number-1-4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reanalysis of the 1965 Heflin UFO Photos. R. Jahn, J. Mischo, D. Vaitl, et... 139,2000. 0892-3310100 0 2000 Society for Scientific Explo...</p></details>
+   Link:<a href="https://www.scribd.com/document/78205127/Journal-of-Scientific-Exploration-Volume-14-Number" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/78205127/Journal-of-Scientific-Exploration-Volume-14-Number</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reanalysis of the 1965 Heflin UFO Photos. R. Jahn, J. Mischo, D. Vaitl, et... 139,2000. 0892-3310100 0 2000 Society for Scientific Explo...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dictionary.com  
-   Link: <a href="https://www.dictionary.com/browse/condon" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/condon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; MeaningCONDON definition: Edward Uhler 1902–74, U.S. physicist. See examples of Condon used in a sentence...</p></details>
+   Link:<a href="https://www.dictionary.com/browse/condon" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/condon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; MeaningCONDON definition: Edward Uhler 1902–74, U.S. physicist. See examples of Condon used in a sentence...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/condon/s?k=condon" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/condon/s?k=condon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ndonDurex Thin Feel, 30 Condoms, With Silicone Lube, Easy On Shape, Regular Fit, Natural Latex, Thin for More Sensitivity, Same Durex S...</p></details>
+   Link:<a href="https://www.amazon.co.uk/condon/s?k=condon" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/condon/s?k=condon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ndonDurex Thin Feel, 30 Condoms, With Silicone Lube, Easy On Shape, Regular Fit, Natural Latex, Thin for More Sensitivity, Same Durex S...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: familysearch.org  
-   Link: <a href="https://www.familysearch.org/en/surname?surname=CONDON" target="_blank" rel="noopener noreferrer nofollow">https://www.familysearch.org/en/surname?surname=CONDON</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Family HistoryCondon Name Meaning. Irish (Cork, Limerick, and Tipperary, of Anglo-Norman origin): Anglicized form of Gaelic Condún...</p></details>
+   Link:<a href="https://www.familysearch.org/en/surname?surname=CONDON" target="_blank" rel="noopener noreferrer nofollow">https://www.familysearch.org/en/surname?surname=CONDON</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Family HistoryCondon Name Meaning. Irish (Cork, Limerick, and Tipperary, of Anglo-Norman origin): Anglicized form of Gaelic Condún...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: condonengineering.ie  
-   Link: <a href="https://condonengineering.ie/" target="_blank" rel="noopener noreferrer nofollow">https://condonengineering.ie/</a>  
+   Link:<a href="https://condonengineering.ie/" target="_blank" rel="noopener noreferrer nofollow">https://condonengineering.ie/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: in 1967 a curious case began circulating among ufo researchers after a young boy  
-   Link: <a href="https://www.facebook.com/whatthefacttttt/posts/in-1967-a-curious-case-began-circulating-among-ufo-researchers-after-a-young-boy/925302576916237/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/whatthefacttttt/posts/in-1967-a-curious-case-began-circulating-among-ufo-researchers-after-a-young-boy/925302576916237/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1967, a curious case began circulating among UFO...Rex Heflin UFO Photographs Date: August 3, 1965 Location: Santa Ana... The origin...</p></details>
+   Link:<a href="https://www.facebook.com/whatthefacttttt/posts/in-1967-a-curious-case-began-circulating-among-ufo-researchers-after-a-young-boy/925302576916237/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/whatthefacttttt/posts/in-1967-a-curious-case-began-circulating-among-ufo-researchers-after-a-young-boy/925302576916237/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1967, a curious case began circulating among UFO...Rex Heflin UFO Photographs Date: August 3, 1965 Location: Santa Ana... The origin...</p></details>
    Published: August 3, 1965  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: in 1977 larry sultan and mike mandel published a book evidence in which they col  
-   Link: <a href="https://www.facebook.com/61564576803416/posts/in-1977-larry-sultan-and-mike-mandel-published-a-book-evidence-in-which-they-col/122168022380485893/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61564576803416/posts/in-1977-larry-sultan-and-mike-mandel-published-a-book-evidence-in-which-they-col/122168022380485893/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1977, Larry Sultan and Mike Mandel published a book...Rex Heflin UFO Photographs Date: August 3, 1965 Location: Santa Ana, California...</p></details>
+   Link:<a href="https://www.facebook.com/61564576803416/posts/in-1977-larry-sultan-and-mike-mandel-published-a-book-evidence-in-which-they-col/122168022380485893/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61564576803416/posts/in-1977-larry-sultan-and-mike-mandel-published-a-book-evidence-in-which-they-col/122168022380485893/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1977, Larry Sultan and Mike Mandel published a book...Rex Heflin UFO Photographs Date: August 3, 1965 Location: Santa Ana, California...</p></details>
    Published: August 3, 1965  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: it was august 3rd 1965 when california highway inspector rex heflin took several  
-   Link: <a href="https://www.facebook.com/TheSkeletonKeyChronicles/posts/it-was-august-3rd-1965-when-california-highway-inspector-rex-heflin-took-several/1021465942984336/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheSkeletonKeyChronicles/posts/it-was-august-3rd-1965-when-california-highway-inspector-rex-heflin-took-several/1021465942984336/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It was August 3rd, 1965 when California Highway inspector Rex...&quot;Our reanalysis of the August 3, 1965, Heflin photos confirms that Hefli...</p></details>
+   Link:<a href="https://www.facebook.com/TheSkeletonKeyChronicles/posts/it-was-august-3rd-1965-when-california-highway-inspector-rex-heflin-took-several/1021465942984336/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheSkeletonKeyChronicles/posts/it-was-august-3rd-1965-when-california-highway-inspector-rex-heflin-took-several/1021465942984336/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It was August 3rd, 1965 when California Highway inspector Rex...&quot;Our reanalysis of the August 3, 1965, Heflin photos confirms that Hefli...</p></details>
    Published: August 3, 1965  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/694295543/Goodbye-Rex-Heflin" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/694295543/Goodbye-Rex-Heflin</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goodbye Rex Heflin | PDF | Young AdultGoodbye, Rex Heflin. by Ann Druffel On October 19, 2005 I received the sad news that Rex Heflin, of...</p></details>
+   Link:<a href="https://www.scribd.com/document/694295543/Goodbye-Rex-Heflin" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/694295543/Goodbye-Rex-Heflin</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goodbye Rex Heflin | PDF | Young AdultGoodbye, Rex Heflin. by Ann Druffel On October 19, 2005 I received the sad news that Rex Heflin, of...</p></details>
    Published: October 19, 2005  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
    Title: 237243956 Reanalysis of the 1965 Heflin UFO Photos  
-   Link: <a href="https://www.researchgate.net/publication/237243956_Reanalysis_of_the_1965_Heflin_UFO_Photos" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237243956_Reanalysis_of_the_1965_Heflin_UFO_Photos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reanalysis of the 1965 Heflin UFO PhotosPhotography is one of the few sources available that can demon- strate the scientific validity of...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/237243956_Reanalysis_of_the_1965_Heflin_UFO_Photos" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237243956_Reanalysis_of_the_1965_Heflin_UFO_Photos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reanalysis of the 1965 Heflin UFO PhotosPhotography is one of the few sources available that can demon- strate the scientific validity of...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: UFO Archives: Project Blue Book  
-   Link: <a href="https://www.youtube.com/watch?v=RVO7bSyEo5k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RVO7bSyEo5k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Rex Heflin photographs 1965](&amp;#123;&amp;#123; &#x27;rex-heflin-photographs-1965/&#x27; | relative_url &amp;#125;&amp;#125;) testimony missing originals “The Most Extraordinary Footage of all” - UNKNOWN UFO IN CALIFORNIA | Ancient Ali...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RVO7bSyEo5k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RVO7bSyEo5k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Rex Heflin photographs 1965](&amp;#123;&amp;#123; &#x27;rex-heflin-photographs-1965/&#x27; | relative_url &amp;#125;&amp;#125;) testimony missing originals “The Most Extraordinary Footage of all” - UNKNOWN UFO IN CALIFORNIA | Ancient Ali...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: oversight.house.gov  
    Title: Written Testimony Shellenberger  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>house.govWritten-Testimony-Shellenberger.pdf13 Nov 2023 — One U.S. citizen, Rex Heflin, claimed a man with a badge from NORAD confiscated...</p></details>
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>house.govWritten-Testimony-Shellenberger.pdf13 Nov 2023 — One U.S. citizen, Rex Heflin, claimed a man with a badge from NORAD confiscated...</p></details>

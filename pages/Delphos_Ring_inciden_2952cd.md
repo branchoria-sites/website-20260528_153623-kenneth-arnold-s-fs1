@@ -758,77 +758,77 @@ image: /assets/images/Delphos_Ring_inciden_2952cd-overview-social.jpg
 
 ## What reportedly happened on the Johnson farm
 
-The standard chronology begins at about 7 p.m. on 2 November 1971, when Ronald Johnson was doing chores near a sheep shed on his family’s farm. Later summaries drawing on Ted Phillips’s case work describe him hearing a rumbling or vibrating noise, then seeing a brightly illuminated, mushroom-shaped object roughly 25 yards away, hovering a few feet above the ground. The object was described as small rather than gigantic: about nine feet in diameter in one account, with multicoloured light across its surface and a sound compared to an unbalanced washing machine. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Analysis of Soil Samples Related to the Delphos, Kansas</span><span class="citation-popover-snippet">Analysis of Soil Samples Related to the Delphos, Kansas</span></span></span>
+The standard chronology begins at about 7 p.m. on 2 November 1971, when Ronald Johnson was doing chores near a sheep shed on his family’s farm. Later summaries drawing on Ted Phillips’s case work describe him hearing a rumbling or vibrating noise, then seeing a brightly illuminated, mushroom-shaped object roughly 25 yards away, hovering a few feet above the ground. The object was described as small rather than gigantic: about nine feet in diameter in one account, with multicoloured light across its surface and a sound compared to an unbalanced washing machine.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Analysis of Soil Samples Related to the Delphos, Kansas</span><span class="citation-popover-snippet">Analysis of Soil Samples Related to the Delphos, Kansas</span></span></span>
 
 <img src="{{ "/assets/images/Delphos_Ring_inciden_2952cd-overview.webp" | relative_url }}" alt="Overview image for Delphos Ring incident 1971" loading="eager" decoding="sync" fetchpriority="high">
-Johnson’s account says the object rose, moved over the shed and departed with a brighter, more intense light. He reportedly experienced temporary visual impairment, sore eyes and headaches afterwards. When he ran to get his parents, they did not see the object at close range, but they reportedly saw a bright object receding in the sky. A later UAP review notes that reserve police officer Lester Ernsbarger in Minneapolis, Kansas, about ten miles south of Delphos, was said to have independently reported a bright light in the northern sky around 7:30 p.m.; this is a potentially important corroborating detail, though it is not the same as seeing the alleged hovering object at the farm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span><span class="citation-popover-snippet">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span></span></span>
+Johnson’s account says the object rose, moved over the shed and departed with a brighter, more intense light. He reportedly experienced temporary visual impairment, sore eyes and headaches afterwards. When he ran to get his parents, they did not see the object at close range, but they reportedly saw a bright object receding in the sky. A later UAP review notes that reserve police officer Lester Ernsbarger in Minneapolis, Kansas, about ten miles south of Delphos, was said to have independently reported a bright light in the northern sky around 7:30 p.m.; this is a potentially important corroborating detail, though it is not the same as seeing the alleged hovering object at the farm.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span><span class="citation-popover-snippet">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span></span></span>
 
-The family then inspected the place where the object had reportedly hovered. They described a glowing ring on the ground and luminescent material on nearby trees. The ring was said to be bright enough to photograph without flash, and Mrs Johnson reportedly used a Polaroid camera soon after the event. Later summaries state that the glow persisted into the following night, although the exact intensity and duration are difficult to verify independently from surviving secondary accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span><span class="citation-popover-snippet">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span></span></span>
+The family then inspected the place where the object had reportedly hovered. They described a glowing ring on the ground and luminescent material on nearby trees. The ring was said to be bright enough to photograph without flash, and Mrs Johnson reportedly used a Polaroid camera soon after the event. Later summaries state that the glow persisted into the following night, although the exact intensity and duration are difficult to verify independently from surviving secondary accounts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span><span class="citation-popover-snippet">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span></span></span>
 
-The most memorable physical detail was the soil itself. Witnesses and investigators described a pale or white ring, a slick crust-like texture, an unusual smell, and a numbing or irritating effect after contact. Some accounts say the soil appeared dry below the surface and resisted water for months. These features are what moved the Delphos case from a sighting report into the category of a “close encounter of the second kind”, meaning a UFO report associated with alleged physical effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Analysis of Soil Samples Related to the Delphos, Kansas</span><span class="citation-popover-snippet">Analysis of Soil Samples Related to the Delphos, Kansas</span></span></span>
+The most memorable physical detail was the soil itself. Witnesses and investigators described a pale or white ring, a slick crust-like texture, an unusual smell, and a numbing or irritating effect after contact. Some accounts say the soil appeared dry below the surface and resisted water for months. These features are what moved the Delphos case from a sighting report into the category of a “close encounter of the second kind”, meaning a UFO report associated with alleged physical effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Analysis of Soil Samples Related to the Delphos, Kansas</span><span class="citation-popover-snippet">Analysis of Soil Samples Related to the Delphos, Kansas</span></span></span>
 
 ## Why the ring became the centre of the case
 
-The ring became important because it was, at least in principle, testable. Local reporting, later library summaries and UFO research files all point to early newspaper interest, photographs and soil sampling. Salina Public Library’s retrospective notes that contemporary Salina Journal headlines included “The ‘Thing’ Left a Ring, Photograph Shows” and “Delphos youth ‘surprises’ UFO”, and that soil samples were taken and tested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://salinapubliclibrary.org/2023/02/off-the-shelf/ufos-and-kansas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salinapubliclibrary.org">[Salina Public Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salinapubliclibrary.org</span><span class="citation-popover-title">Salina Public Library UFOs and Kansas &#124; Salina Public Library</span><span class="citation-popover-snippet">Salina Public Library UFOs and Kansas &#124; Salina Public Library</span></span></span>
+The ring became important because it was, at least in principle, testable. Local reporting, later library summaries and UFO research files all point to early newspaper interest, photographs and soil sampling. Salina Public Library’s retrospective notes that contemporary Salina Journal headlines included “The ‘Thing’ Left a Ring, Photograph Shows” and “Delphos youth ‘surprises’ UFO”, and that soil samples were taken and tested.<span class="citation-chip-wrap"><a class="citation-chip" href="https://salinapubliclibrary.org/2023/02/off-the-shelf/ufos-and-kansas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salinapubliclibrary.org">[Salina Public Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salinapubliclibrary.org</span><span class="citation-popover-title">Salina Public Library UFOs and Kansas &#124; Salina Public Library</span><span class="citation-popover-snippet">Salina Public Library UFOs and Kansas &#124; Salina Public Library</span></span></span>
 
-Law-enforcement involvement also strengthened the case’s afterlife. A modern retelling of the case cites Sheriff Harlan Enlow describing the ring as a white, dry “donut” in a muddy field, and saying that statements, photographs and soil samples were taken. That later television-linked retelling is not as strong as a primary police report would be, but it is significant because it preserves the claim that the scene was not only handled by private UFO investigators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unilad.com/community/ufo-scorch-marks-evidence-ground-farm-kansas-glowing-958087-20231010" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unilad.com">[UNILAD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unilad.com</span><span class="citation-popover-title">‘Eye-opening’ scorch marks on ground show where family watched ‘UFO’ land</span><span class="citation-popover-snippet">‘Eye-opening’ scorch marks on ground show where family watched ‘UFO’ land</span></span></span>
+Law-enforcement involvement also strengthened the case’s afterlife. A modern retelling of the case cites Sheriff Harlan Enlow describing the ring as a white, dry “donut” in a muddy field, and saying that statements, photographs and soil samples were taken. That later television-linked retelling is not as strong as a primary police report would be, but it is significant because it preserves the claim that the scene was not only handled by private UFO investigators.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unilad.com/community/ufo-scorch-marks-evidence-ground-farm-kansas-glowing-958087-20231010" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unilad.com">[UNILAD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unilad.com</span><span class="citation-popover-title">‘Eye-opening’ scorch marks on ground show where family watched ‘UFO’ land</span><span class="citation-popover-snippet">‘Eye-opening’ scorch marks on ground show where family watched ‘UFO’ land</span></span></span>
 
-The case then entered specialist UFO catalogues. NICAP’s physical-trace listing includes “711102 Delphos KS” as a Category 6 physical-evidence trace case and notes “confirming witnesses”, placing it among a broader catalogue of alleged UFO landing or trace reports rather than treating it as an isolated folklore item. That catalogue entry is brief and does not settle the case, but it helps show why Delphos remained visible within UFO research circles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/NSID_DBListingbyCat6.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">NSID DBListingby Cat6</span><span class="citation-popover-snippet">NSID DBListingby Cat6</span></span></span>
+The case then entered specialist UFO catalogues. NICAP’s physical-trace listing includes “711102 Delphos KS” as a Category 6 physical-evidence trace case and notes “confirming witnesses”, placing it among a broader catalogue of alleged UFO landing or trace reports rather than treating it as an isolated folklore item. That catalogue entry is brief and does not settle the case, but it helps show why Delphos remained visible within UFO research circles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/NSID_DBListingbyCat6.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">NSID DBListingby Cat6</span><span class="citation-popover-snippet">NSID DBListingby Cat6</span></span></span>
 
-The most important limitation is chain of custody. The ring was sampled, but not under the kind of controlled forensic protocol that would be expected in a modern environmental investigation. Later analysis had to work with samples collected after the event, preserved for years, and interpreted through documentation that researchers judged meaningful but which cannot remove every contamination, storage or selection concern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Analysis of Soil Samples Related to the Delphos, Kansas</span><span class="citation-popover-snippet">Analysis of Soil Samples Related to the Delphos, Kansas</span></span></span>
+The most important limitation is chain of custody. The ring was sampled, but not under the kind of controlled forensic protocol that would be expected in a modern environmental investigation. Later analysis had to work with samples collected after the event, preserved for years, and interpreted through documentation that researchers judged meaningful but which cannot remove every contamination, storage or selection concern.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Analysis of Soil Samples Related to the Delphos, Kansas</span><span class="citation-popover-snippet">Analysis of Soil Samples Related to the Delphos, Kansas</span></span></span>
 
 <img src="{{ "/assets/images/Delphos_Ring_inciden_2952cd-Illustration-1-dark.svg" | relative_url }}" alt="Delphos Ring incident 1971 illustration 1" data-theme-src-dark="{{ "/assets/images/Delphos_Ring_inciden_2952cd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delphos_Ring_inciden_2952cd-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the laboratory analyses found
 
-The better-known later technical work comes from chemist Phyllis Budinger’s analysis, archived by The Black Vault from the Phyllis Budinger Collection. Budinger’s report states that both ring and control soil samples were located in 1998, said to have preserved documentation and original sealed film containers, and were analysed decades after the 1971 event. The report explicitly warns that the samples had been taken two months after the event and analysed 27 years later, so any conclusion has to be read with that delay in mind. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Analysis of Soil Samples Related to the Delphos, Kansas</span><span class="citation-popover-snippet">Analysis of Soil Samples Related to the Delphos, Kansas</span></span></span>
+The better-known later technical work comes from chemist Phyllis Budinger’s analysis, archived by The Black Vault from the Phyllis Budinger Collection. Budinger’s report states that both ring and control soil samples were located in 1998, said to have preserved documentation and original sealed film containers, and were analysed decades after the 1971 event. The report explicitly warns that the samples had been taken two months after the event and analysed 27 years later, so any conclusion has to be read with that delay in mind.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Analysis of Soil Samples Related to the Delphos, Kansas</span><span class="citation-popover-snippet">Analysis of Soil Samples Related to the Delphos, Kansas</span></span></span>
 
-Budinger’s conclusions are careful in one crucial respect: the analysis “neither proves nor rules out a UFO source”. It reports a coating or deposited material on the soil surface, still associated with a hydrophobic effect, and estimates the non-volatile material at about 2–3 per cent of the ring soil. The listed composition is dominated by a humic substance, probably fulvic acid, with calcium oxalate, calcium carbonate and smaller quantities of phosphate, sulphate and sulphide or mercaptan. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Analysis of Soil Samples Related to the Delphos, Kansas</span><span class="citation-popover-snippet">Analysis of Soil Samples Related to the Delphos, Kansas</span></span></span>
+Budinger’s conclusions are careful in one crucial respect: the analysis “neither proves nor rules out a UFO source”. It reports a coating or deposited material on the soil surface, still associated with a hydrophobic effect, and estimates the non-volatile material at about 2–3 per cent of the ring soil. The listed composition is dominated by a humic substance, probably fulvic acid, with calcium oxalate, calcium carbonate and smaller quantities of phosphate, sulphate and sulphide or mercaptan.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Analysis of Soil Samples Related to the Delphos, Kansas</span><span class="citation-popover-snippet">Analysis of Soil Samples Related to the Delphos, Kansas</span></span></span>
 
-Those findings matter because they connect several witness claims to plausible chemistry without confirming the claimed cause. Calcium oxalate and oxalic acid can irritate skin and eyes, which could fit reports of numbing or burning sensations. Humic substances with oxalate derivatives and a suitable catalyst were suggested as a possible route to chemiluminescence, meaning light produced by a chemical reaction. Sulphide or mercaptan could also fit reports of an unpleasant smell. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Analysis of Soil Samples Related to the Delphos, Kansas</span><span class="citation-popover-snippet">Analysis of Soil Samples Related to the Delphos, Kansas</span></span></span>
+Those findings matter because they connect several witness claims to plausible chemistry without confirming the claimed cause. Calcium oxalate and oxalic acid can irritate skin and eyes, which could fit reports of numbing or burning sensations. Humic substances with oxalate derivatives and a suitable catalyst were suggested as a possible route to chemiluminescence, meaning light produced by a chemical reaction. Sulphide or mercaptan could also fit reports of an unpleasant smell.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Analysis of Soil Samples Related to the Delphos, Kansas</span><span class="citation-popover-snippet">Analysis of Soil Samples Related to the Delphos, Kansas</span></span></span>
 
-Equally important is what the analysis did not find. Budinger concluded that the ring soil had not been exposed to a high-temperature physical effect, which weakens simple “scorch mark” language often used in popular accounts. The report also addressed the barnyard-soil explanation by arguing that typical animal-waste markers such as high nitrogen, phosphorus, potassium, urea, uric acid or ammonium components were not detected in the expected way. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Analysis of Soil Samples Related to the Delphos, Kansas</span><span class="citation-popover-snippet">Analysis of Soil Samples Related to the Delphos, Kansas</span></span></span>
+Equally important is what the analysis did not find. Budinger concluded that the ring soil had not been exposed to a high-temperature physical effect, which weakens simple “scorch mark” language often used in popular accounts. The report also addressed the barnyard-soil explanation by arguing that typical animal-waste markers such as high nitrogen, phosphorus, potassium, urea, uric acid or ammonium components were not detected in the expected way.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Analysis of Soil Samples Related to the Delphos, Kansas</span><span class="citation-popover-snippet">Analysis of Soil Samples Related to the Delphos, Kansas</span></span></span>
 
-Erol Faruk later argued more strongly for the significance of the Delphos material, publishing a book-length treatment and a technical discussion of unusual organic compounds. A critical review by science writer Brian Clegg acknowledges that Faruk’s chemical discussion is detailed and interesting, especially regarding water-repellent and fluorescent properties, but criticises the leap from unusual chemistry to a UFO source. That distinction is central to a fair reading: the soil chemistry is the case’s strongest surviving feature, but unusual chemistry is not the same thing as proof of a hovering craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://popsciencebooks.blogspot.com/2016/04/the-compelling-scientific-evidence-for.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsciencebooks.blogspot.com">[popsciencebooks.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsciencebooks.blogspot.com</span><span class="citation-popover-title">The Compelling Scientific Evidence for UFOs</span><span class="citation-popover-snippet">The Compelling Scientific Evidence for UFOs</span></span></span>
+Erol Faruk later argued more strongly for the significance of the Delphos material, publishing a book-length treatment and a technical discussion of unusual organic compounds. A critical review by science writer Brian Clegg acknowledges that Faruk’s chemical discussion is detailed and interesting, especially regarding water-repellent and fluorescent properties, but criticises the leap from unusual chemistry to a UFO source. That distinction is central to a fair reading: the soil chemistry is the case’s strongest surviving feature, but unusual chemistry is not the same thing as proof of a hovering craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://popsciencebooks.blogspot.com/2016/04/the-compelling-scientific-evidence-for.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsciencebooks.blogspot.com">[popsciencebooks.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsciencebooks.blogspot.com</span><span class="citation-popover-title">The Compelling Scientific Evidence for UFOs</span><span class="citation-popover-snippet">The Compelling Scientific Evidence for UFOs</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uFEgZJr_Jkw" title="Science-Based Evidence May Indicate That UFO Landed In US Farm | Alien Contact" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uFEgZJr_Jkw" target="_blank" rel="noopener noreferrer">Science-Based Evidence May Indicate That UFO Landed In US Farm | Alien Contact</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 311.6K &middot; Uploaded: October 2020 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uFEgZJr_Jkw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uFEgZJr_Jkw">Open on YouTube</a></p></div></div></div>
 
 ## The strongest points for taking the case seriously
 
-The Delphos case is stronger than many famous UFO stories because it has several independent-looking layers rather than a single dramatic anecdote. The core claim began with one close witness, but it quickly involved family witnesses, a reported distant corroborating light, photographs, sheriff’s samples, newspaper coverage and later chemical analysis. That does not make every claim true, but it gives the case more evidential texture than a story reconstructed years later from memory alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span><span class="citation-popover-snippet">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://salinapubliclibrary.org/2023/02/off-the-shelf/ufos-and-kansas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salinapubliclibrary.org">[Salina Public Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salinapubliclibrary.org</span><span class="citation-popover-title">Salina Public Library UFOs and Kansas &#124; Salina Public Library</span><span class="citation-popover-snippet">Salina Public Library UFOs and Kansas &#124; Salina Public Library</span></span></span>
+The Delphos case is stronger than many famous UFO stories because it has several independent-looking layers rather than a single dramatic anecdote. The core claim began with one close witness, but it quickly involved family witnesses, a reported distant corroborating light, photographs, sheriff’s samples, newspaper coverage and later chemical analysis. That does not make every claim true, but it gives the case more evidential texture than a story reconstructed years later from memory alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span><span class="citation-popover-snippet">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://salinapubliclibrary.org/2023/02/off-the-shelf/ufos-and-kansas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salinapubliclibrary.org">[Salina Public Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salinapubliclibrary.org</span><span class="citation-popover-title">Salina Public Library UFOs and Kansas &#124; Salina Public Library</span><span class="citation-popover-snippet">Salina Public Library UFOs and Kansas &#124; Salina Public Library</span></span></span>
 
 Three points carry most of the evidential weight:
 
-* **The physical trace was reportedly observed quickly.** The family’s account, the Polaroid claim and sheriff involvement all place the ring close in time to the alleged sighting, rather than as a vague anomaly discovered long afterwards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span><span class="citation-popover-snippet">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span></span></span>
-* **The soil behaviour was specific.** The reported hydrophobic effect, pale crust, irritation and possible luminescence are more concrete than a generic “burned patch”. Later analysis found compounds that could plausibly relate to some of those effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Analysis of Soil Samples Related to the Delphos, Kansas</span><span class="citation-popover-snippet">Analysis of Soil Samples Related to the Delphos, Kansas</span></span></span>
-* **The case did not disappear after one news cycle.** Ted Phillips’s investigation, CUFOS-linked preservation, NICAP catalogue inclusion and later laboratory work kept the case available for scrutiny and reinterpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span><span class="citation-popover-snippet">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span></span></span>
+* **The physical trace was reportedly observed quickly.** The family’s account, the Polaroid claim and sheriff involvement all place the ring close in time to the alleged sighting, rather than as a vague anomaly discovered long afterwards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span><span class="citation-popover-snippet">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span></span></span>
+* **The soil behaviour was specific.** The reported hydrophobic effect, pale crust, irritation and possible luminescence are more concrete than a generic “burned patch”. Later analysis found compounds that could plausibly relate to some of those effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Analysis of Soil Samples Related to the Delphos, Kansas</span><span class="citation-popover-snippet">Analysis of Soil Samples Related to the Delphos, Kansas</span></span></span>
+* **The case did not disappear after one news cycle.** Ted Phillips’s investigation, CUFOS-linked preservation, NICAP catalogue inclusion and later laboratory work kept the case available for scrutiny and reinterpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span><span class="citation-popover-snippet">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span></span></span>
 
 The witness story is also relatively modest in some ways. The object was not described as a city-sized spacecraft or a complex abduction scenario; it was a small, luminous object at close range, followed by a visible ground trace. For supporters, that modesty can make the case feel less like a grand invention. For sceptics, however, the same modesty leaves open many ordinary [explanations]({{ 'explanations-e65ad1/' | relative_url }}) for a local ground anomaly plus a misperceived light.
 
 <img src="{{ "/assets/images/Delphos_Ring_inciden_2952cd-Illustration-2-dark.svg" | relative_url }}" alt="Delphos Ring incident 1971 illustration 2" data-theme-src-dark="{{ "/assets/images/Delphos_Ring_inciden_2952cd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delphos_Ring_inciden_2952cd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The main sceptical explanations and their limits
 
-The strongest sceptical position is not that “nothing happened”, but that the physical and testimonial evidence does not justify the extraordinary conclusion that a non-human craft produced the ring. A natural or mundane source could explain some of the soil properties, especially if the ring site already had organic, agricultural, fungal or chemical history. Popular sceptical discussion has included the possibility of accumulated chicken droppings around a feeder, although Budinger’s analysis argues that expected animal-waste markers were not found in the analysed samples. <span class="citation-chip-wrap"><a class="citation-chip" href="https://popsciencebooks.blogspot.com/2016/04/the-compelling-scientific-evidence-for.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsciencebooks.blogspot.com">[popsciencebooks.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsciencebooks.blogspot.com</span><span class="citation-popover-title">The Compelling Scientific Evidence for UFOs</span><span class="citation-popover-snippet">The Compelling Scientific Evidence for UFOs</span></span></span>
+The strongest sceptical position is not that “nothing happened”, but that the physical and testimonial evidence does not justify the extraordinary conclusion that a non-human craft produced the ring. A natural or mundane source could explain some of the soil properties, especially if the ring site already had organic, agricultural, fungal or chemical history. Popular sceptical discussion has included the possibility of accumulated chicken droppings around a feeder, although Budinger’s analysis argues that expected animal-waste markers were not found in the analysed samples.<span class="citation-chip-wrap"><a class="citation-chip" href="https://popsciencebooks.blogspot.com/2016/04/the-compelling-scientific-evidence-for.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsciencebooks.blogspot.com">[popsciencebooks.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsciencebooks.blogspot.com</span><span class="citation-popover-title">The Compelling Scientific Evidence for UFOs</span><span class="citation-popover-snippet">The Compelling Scientific Evidence for UFOs</span></span></span>
 
-Another alternative is biological or groundwater chemistry. A later television-linked article cites NASA geologist Bob Anderson suggesting that the area could be conducive to natural ground-water and biological interactions, and that an acid or man-made chemical in the ground might explain irritation and unusual soil behaviour. That explanation is plausible in broad outline, but it remains a hypothesis unless tied to a specific tested source at the Johnson site. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unilad.com/community/ufo-scorch-marks-evidence-ground-farm-kansas-glowing-958087-20231010" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unilad.com">[UNILAD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unilad.com</span><span class="citation-popover-title">‘Eye-opening’ scorch marks on ground show where family watched ‘UFO’ land</span><span class="citation-popover-snippet">‘Eye-opening’ scorch marks on ground show where family watched ‘UFO’ land</span></span></span>
+Another alternative is biological or groundwater chemistry. A later television-linked article cites NASA geologist Bob Anderson suggesting that the area could be conducive to natural ground-water and biological interactions, and that an acid or man-made chemical in the ground might explain irritation and unusual soil behaviour. That explanation is plausible in broad outline, but it remains a hypothesis unless tied to a specific tested source at the Johnson site.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unilad.com/community/ufo-scorch-marks-evidence-ground-farm-kansas-glowing-958087-20231010" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unilad.com">[UNILAD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unilad.com</span><span class="citation-popover-title">‘Eye-opening’ scorch marks on ground show where family watched ‘UFO’ land</span><span class="citation-popover-snippet">‘Eye-opening’ scorch marks on ground show where family watched ‘UFO’ land</span></span></span>
 
-A hoax explanation also has to be considered. The National Enquirer awarded the family $5,000 in 1972 for what it called valuable scientific evidence of alien visitation, and prize money can complicate perceptions of motive. But the award came after the event was already public, and by itself it does not explain the reported early observations, photographs, sheriff sampling or later chemical anomalies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kansasreflector.com/2023/10/29/at-the-ufo-capital-of-kansas-a-celebration-of-the-weird-and-wonderful/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kansasreflector.com">[kansasreflector.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kansasreflector.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A hoax explanation also has to be considered. The National Enquirer awarded the family $5,000 in 1972 for what it called valuable scientific evidence of alien visitation, and prize money can complicate perceptions of motive. But the award came after the event was already public, and by itself it does not explain the reported early observations, photographs, sheriff sampling or later chemical anomalies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kansasreflector.com/2023/10/29/at-the-ufo-capital-of-kansas-a-celebration-of-the-weird-and-wonderful/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kansasreflector.com">[kansasreflector.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kansasreflector.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The biggest sceptical weakness in the Delphos case is the same one that limits the pro-UFO argument: there is no complete, modern forensic chain. Samples were not collected under a controlled blind protocol immediately after the event, independent controls were limited, and later analyses necessarily depended on preserved material and historical documentation. That makes the ring interesting but not conclusive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Analysis of Soil Samples Related to the Delphos, Kansas</span><span class="citation-popover-snippet">Analysis of Soil Samples Related to the Delphos, Kansas</span></span></span>
+The biggest sceptical weakness in the Delphos case is the same one that limits the pro-UFO argument: there is no complete, modern forensic chain. Samples were not collected under a controlled blind protocol immediately after the event, independent controls were limited, and later analyses necessarily depended on preserved material and historical documentation. That makes the ring interesting but not conclusive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Analysis of Soil Samples Related to the Delphos, Kansas</span><span class="citation-popover-snippet">Analysis of Soil Samples Related to the Delphos, Kansas</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PqwX42FjxOQ" title="UFOs Over USA Groundbreaking Video Footage | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PqwX42FjxOQ" target="_blank" rel="noopener noreferrer">UFOs Over USA Groundbreaking Video Footage | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 393.8K &middot; Uploaded: July 2025 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PqwX42FjxOQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PqwX42FjxOQ">Open on YouTube</a></p></div></div></div>
 
 ## Official investigation and the post-Blue Book gap
 
-There was no active US Air Force Project Blue Book investigation available for Delphos in 1971 because Project Blue Book had already been terminated. The National Archives states that the Secretary of the Air Force announced the programme’s termination on 17 December 1969; the Air Force fact sheet similarly says Blue Book ran from 1947 to 1969, collected 12,618 sightings and left 701 classified as “unidentified”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+There was no active US Air Force Project Blue Book investigation available for Delphos in 1971 because Project Blue Book had already been terminated. The National Archives states that the Secretary of the Air Force announced the programme’s termination on 17 December 1969; the Air Force fact sheet similarly says Blue Book ran from 1947 to 1969, collected 12,618 sightings and left 701 classified as “unidentified”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This timing matters. Delphos fell into a post-Blue Book environment in which civilian investigators, local police, newspapers and specialist UFO organisations filled the gap left by formal federal UFO investigation. That helps explain why the case’s documentation is a patchwork: local law-enforcement and press attention on one side, UFO-research publications and later private laboratory work on the other. <span class="citation-chip-wrap"><a class="citation-chip" href="https://salinapubliclibrary.org/2023/02/off-the-shelf/ufos-and-kansas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salinapubliclibrary.org">[Salina Public Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salinapubliclibrary.org</span><span class="citation-popover-title">Salina Public Library UFOs and Kansas &#124; Salina Public Library</span><span class="citation-popover-snippet">Salina Public Library UFOs and Kansas &#124; Salina Public Library</span></span></span>
+This timing matters. Delphos fell into a post-Blue Book environment in which civilian investigators, local police, newspapers and specialist UFO organisations filled the gap left by formal federal UFO investigation. That helps explain why the case’s documentation is a patchwork: local law-enforcement and press attention on one side, UFO-research publications and later private laboratory work on the other.<span class="citation-chip-wrap"><a class="citation-chip" href="https://salinapubliclibrary.org/2023/02/off-the-shelf/ufos-and-kansas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salinapubliclibrary.org">[Salina Public Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salinapubliclibrary.org</span><span class="citation-popover-title">Salina Public Library UFOs and Kansas &#124; Salina Public Library</span><span class="citation-popover-snippet">Salina Public Library UFOs and Kansas &#124; Salina Public Library</span></span></span>
 
 For readers comparing Delphos with other physical-trace cases, this post-Blue Book status is important. It means the case cannot be assessed by looking for a tidy official Air Force conclusion. Instead, it sits in a civilian evidence tradition: witness interviews, field notes, photographs, archived samples and later reinterpretations.
 
 <img src="{{ "/assets/images/Delphos_Ring_inciden_2952cd-Illustration-3-dark.svg" | relative_url }}" alt="Delphos Ring incident 1971 illustration 3" data-theme-src-dark="{{ "/assets/images/Delphos_Ring_inciden_2952cd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delphos_Ring_inciden_2952cd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What remains unresolved
 
-The Delphos Ring incident remains unresolved in a narrow but meaningful sense. There is credible evidence that a ring-like soil anomaly existed and that it was documented soon after the reported sighting. Later laboratory work found unusual features consistent with some witness descriptions, including hydrophobic behaviour and compounds that could relate to irritation, odour and possible luminescence. Yet none of that establishes that a craft produced the ring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Analysis of Soil Samples Related to the Delphos, Kansas</span><span class="citation-popover-snippet">Analysis of Soil Samples Related to the Delphos, Kansas</span></span></span>
+The Delphos Ring incident remains unresolved in a narrow but meaningful sense. There is credible evidence that a ring-like soil anomaly existed and that it was documented soon after the reported sighting. Later laboratory work found unusual features consistent with some witness descriptions, including hydrophobic behaviour and compounds that could relate to irritation, odour and possible luminescence. Yet none of that establishes that a craft produced the ring.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Analysis of Soil Samples Related to the Delphos, Kansas</span><span class="citation-popover-snippet">Analysis of Soil Samples Related to the Delphos, Kansas</span></span></span>
 
 The most defensible conclusion is therefore cautious: Delphos is a notable physical-trace UFO case, not a solved alien landing. Its value lies in the tension between two facts that are often blurred in popular retellings. First, the physical evidence is more substantial than in many UFO reports. Second, the evidential bridge from “unusual soil residue” to “unknown aerial vehicle deposited it” is incomplete.
 
@@ -837,194 +837,194 @@ The case is best read as a problem in provenance. The witness testimony, ring ph
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mD_oVY8XA0M" title="Family Has Permanent Physical Health Problems After UFO Encounter | Close Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mD_oVY8XA0M" target="_blank" rel="noopener noreferrer">Family Has Permanent Physical Health Problems After UFO Encounter | Close Encounters</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 493.4K &middot; Uploaded: March 2020 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mD_oVY8XA0M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mD_oVY8XA0M">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened at the Delphos Ring?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened at the Delphos Ring?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Presents a comprehensive file on the 1971 Delphos Ring incident, summarizing the soil analysis results and witness account.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Presents a comprehensive file on the 1971 Delphos Ring incident, summarizing the soil analysis results and witness account.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Details why extraordinary ground-trace claims require rigorous, independent verification against prosaic farm reality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details why extraordinary ground-trace claims require rigorous, independent verification against prosaic farm reality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches the investigative rigour needed to separate unusual ground traces from common agricultural or fungal contamination.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches the investigative rigour needed to separate unusual ground traces from common agricultural or fungal contamination.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
-        </h4>
-        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+</h4>
+<p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
         
-        <p class="fr-book-desc">Discusses the importance of chain-of-custody in soil analysis and provides frameworks for interpreting luminosity reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses the importance of chain-of-custody in soil analysis and provides frameworks for interpreting luminosity reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="delphos-ring-incident-1971-what-really-happened-at-the-delphos-ring-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1040,7 +1040,7 @@ The case is best read as a problem in provenance. The witness testimony, ring ph
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1060,7 +1060,7 @@ The case is best read as a problem in provenance. The witness testimony, ring ph
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1092,7 +1092,7 @@ The case is best read as a problem in provenance. The witness testimony, ring ph
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1144,7 +1144,7 @@ The case is best read as a problem in provenance. The witness testimony, ring ph
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1189,7 +1189,7 @@ The case is best read as a problem in provenance. The witness testimony, ring ph
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1230,148 +1230,148 @@ The case is best read as a problem in provenance. The witness testimony, ring ph
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)  
-   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: theblackvault.com  
    Title: Analysis of Soil Samples Related to the Delphos, Kansas  
-   Link: <a href="https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/</a>  
+   Link:<a href="https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: unilad.com  
    Title: ‘Eye-opening’ scorch marks on ground show where family watched ‘UFO’ land  
-   Link: <a href="https://www.unilad.com/community/ufo-scorch-marks-evidence-ground-farm-kansas-glowing-958087-20231010" target="_blank" rel="noopener noreferrer nofollow">https://www.unilad.com/community/ufo-scorch-marks-evidence-ground-farm-kansas-glowing-958087-20231010</a>  
+   Link:<a href="https://www.unilad.com/community/ufo-scorch-marks-evidence-ground-farm-kansas-glowing-958087-20231010" target="_blank" rel="noopener noreferrer nofollow">https://www.unilad.com/community/ufo-scorch-marks-evidence-ground-farm-kansas-glowing-958087-20231010</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nicap.org  
    Title: NSID DBListingby Cat6  
-   Link: <a href="https://www.nicap.org/NSID_DBListingbyCat6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID_DBListingbyCat6.pdf</a>  
+   Link:<a href="https://www.nicap.org/NSID_DBListingbyCat6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID_DBListingbyCat6.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: popsciencebooks.blogspot.com  
    Title: The Compelling Scientific Evidence for UFOs  
-   Link: <a href="https://popsciencebooks.blogspot.com/2016/04/the-compelling-scientific-evidence-for.html" target="_blank" rel="noopener noreferrer nofollow">https://popsciencebooks.blogspot.com/2016/04/the-compelling-scientific-evidence-for.html</a>  
+   Link:<a href="https://popsciencebooks.blogspot.com/2016/04/the-compelling-scientific-evidence-for.html" target="_blank" rel="noopener noreferrer nofollow">https://popsciencebooks.blogspot.com/2016/04/the-compelling-scientific-evidence-for.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: kansasreflector.com  
-   Link: <a href="https://kansasreflector.com/2023/10/29/at-the-ufo-capital-of-kansas-a-celebration-of-the-weird-and-wonderful/" target="_blank" rel="noopener noreferrer nofollow">https://kansasreflector.com/2023/10/29/at-the-ufo-capital-of-kansas-a-celebration-of-the-weird-and-wonderful/</a>  
+   Link:<a href="https://kansasreflector.com/2023/10/29/at-the-ufo-capital-of-kansas-a-celebration-of-the-weird-and-wonderful/" target="_blank" rel="noopener noreferrer nofollow">https://kansasreflector.com/2023/10/29/at-the-ufo-capital-of-kansas-a-celebration-of-the-weird-and-wonderful/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nicap.org  
    Title: CRS-The UFOEnigma.pdf  
-   Link: <a href="https://www.nicap.org/match/government/CRS-TheUFOEnigma.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/match/government/CRS-TheUFOEnigma.pdf</a>  
+   Link:<a href="https://www.nicap.org/match/government/CRS-TheUFOEnigma.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/match/government/CRS-TheUFOEnigma.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/transup.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/transup.htm</a>  
+   Link:<a href="https://www.nicap.org/transup.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/transup.htm</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nicap.org  
    Title: Proceedings of SHG UFO History Workshop  
-   Link: <a href="https://www.nicap.org/reports2/Proceedings-of-SHG-UFO-History-Workshop.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports2/Proceedings-of-SHG-UFO-History-Workshop.pdf</a>  
+   Link:<a href="https://www.nicap.org/reports2/Proceedings-of-SHG-UFO-History-Workshop.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports2/Proceedings-of-SHG-UFO-History-Workshop.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nicap.org  
    Title: NSID DBListingby State Country  
-   Link: <a href="https://www.nicap.org/NSID/NSID_DBListingbyStateCountry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID/NSID_DBListingbyStateCountry.pdf</a>  
+   Link:<a href="https://www.nicap.org/NSID/NSID_DBListingbyStateCountry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID/NSID_DBListingbyStateCountry.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nicap.org  
    Title: NSID DBListingby City  
-   Link: <a href="https://www.nicap.org/NSID/NSID_DBListingbyCity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID/NSID_DBListingbyCity.pdf</a>  
+   Link:<a href="https://www.nicap.org/NSID/NSID_DBListingbyCity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID/NSID_DBListingbyCity.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/PDFs/JUFOS/1991_NS_vol3_JUFOS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/JUFOS/1991_NS_vol3_JUFOS.pdf</a>  
+   Link:<a href="https://cufos.org/PDFs/JUFOS/1991_NS_vol3_JUFOS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/JUFOS/1991_NS_vol3_JUFOS.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: salinapubliclibrary.org  
    Title: Salina Public Library UFOs and Kansas | Salina Public Library  
-   Link: <a href="https://salinapubliclibrary.org/2023/02/off-the-shelf/ufos-and-kansas/" target="_blank" rel="noopener noreferrer nofollow">https://salinapubliclibrary.org/2023/02/off-the-shelf/ufos-and-kansas/</a>  
+   Link:<a href="https://salinapubliclibrary.org/2023/02/off-the-shelf/ufos-and-kansas/" target="_blank" rel="noopener noreferrer nofollow">https://salinapubliclibrary.org/2023/02/off-the-shelf/ufos-and-kansas/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thedeadhistory.com  
    Title: the delphos ring  
-   Link: <a href="https://thedeadhistory.com/the-delphos-ring/" target="_blank" rel="noopener noreferrer nofollow">https://thedeadhistory.com/the-delphos-ring/</a>  
+   Link:<a href="https://thedeadhistory.com/the-delphos-ring/" target="_blank" rel="noopener noreferrer nofollow">https://thedeadhistory.com/the-delphos-ring/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: alienconspiracy.podbean.com  
    Title: the delphos ring  
-   Link: <a href="https://alienconspiracy.podbean.com/e/the-delphos-ring/" target="_blank" rel="noopener noreferrer nofollow">https://alienconspiracy.podbean.com/e/the-delphos-ring/</a>  
+   Link:<a href="https://alienconspiracy.podbean.com/e/the-delphos-ring/" target="_blank" rel="noopener noreferrer nofollow">https://alienconspiracy.podbean.com/e/the-delphos-ring/</a>  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Science-Based Evidence May Indicate That UFO Landed In US Farm | Alien Contact  
-   Link: <a href="https://www.youtube.com/watch?v=uFEgZJr_Jkw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uFEgZJr_Jkw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Over USA Groundbreaking Video Footage | The Proof Is Out There | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uFEgZJr_Jkw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uFEgZJr_Jkw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Over USA Groundbreaking Video Footage | The Proof Is Out There | History...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: UFOs Over USA Groundbreaking Video Footage | The Proof Is Out There | History  
-   Link: <a href="https://www.youtube.com/watch?v=PqwX42FjxOQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PqwX42FjxOQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Paralyzes Kansas Boy: Exclusive Interview with Ronnie Johnson...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PqwX42FjxOQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PqwX42FjxOQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Paralyzes Kansas Boy: Exclusive Interview with Ronnie Johnson...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Family Has Permanent Physical Health Problems After UFO Encounter  
-   Link: <a href="https://www.youtube.com/watch?v=mD_oVY8XA0M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mD_oVY8XA0M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science-Based Evidence May Indicate That UFO Landed In US Farm | Alien Contact...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mD_oVY8XA0M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mD_oVY8XA0M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science-Based Evidence May Indicate That UFO Landed In US Farm | Alien Contact...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: UFO Paralyzes Kansas Boy: Exclusive Interview with Ronnie Johnson  
-   Link: <a href="https://www.youtube.com/watch?v=cqYrl-s-TrI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cqYrl-s-TrI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Encounter That Left Witnesses Paralyzed with Fear...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cqYrl-s-TrI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cqYrl-s-TrI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Encounter That Left Witnesses Paralyzed with Fear...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/313205355_Psychosocial_characteristics_of_abductees_Results_from_the_CUFOS_abduction_project" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313205355_Psychosocial_characteristics_of_abductees_Results_from_the_CUFOS_abduction_project</a>  
+   Link:<a href="https://www.researchgate.net/publication/313205355_Psychosocial_characteristics_of_abductees_Results_from_the_CUFOS_abduction_project" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313205355_Psychosocial_characteristics_of_abductees_Results_from_the_CUFOS_abduction_project</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: betterworldbooks.com  
-   Link: <a href="https://www.betterworldbooks.com/product/detail/the-compelling-scientific-evidence-for-ufos-the-analysis-of-the-delphos-kansas-ufo-landing-report-9781502715524?srsltid=AfmBOoqv0GKTNfbIfNkXGFv-LUaMpMzi0pPr9kwMSwkKoNrb3HWJa5k8" target="_blank" rel="noopener noreferrer nofollow">https://www.betterworldbooks.com/product/detail/the-compelling-scientific-evidence-for-ufos-the-analysis-of-the-delphos-kansas-ufo-landing-report-9781502715524?srsltid=AfmBOoqv0GKTNfbIfNkXGFv-LUaMpMzi0pPr9kwMSwkKoNrb3HWJa5k8</a>  
+   Link:<a href="https://www.betterworldbooks.com/product/detail/the-compelling-scientific-evidence-for-ufos-the-analysis-of-the-delphos-kansas-ufo-landing-report-9781502715524?srsltid=AfmBOoqv0GKTNfbIfNkXGFv-LUaMpMzi0pPr9kwMSwkKoNrb3HWJa5k8" target="_blank" rel="noopener noreferrer nofollow">https://www.betterworldbooks.com/product/detail/the-compelling-scientific-evidence-for-ufos-the-analysis-of-the-delphos-kansas-ufo-landing-report-9781502715524?srsltid=AfmBOoqv0GKTNfbIfNkXGFv-LUaMpMzi0pPr9kwMSwkKoNrb3HWJa5k8</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/174n0tl/eerie_photos_show_glowing_ring_in_most_credible/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/174n0tl/eerie_photos_show_glowing_ring_in_most_credible/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/174n0tl/eerie_photos_show_glowing_ring_in_most_credible/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/174n0tl/eerie_photos_show_glowing_ring_in_most_credible/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/57ccwr/extensive_scientific_analysis_of_the_delphos_ring/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/57ccwr/extensive_scientific_analysis_of_the_delphos_ring/</a>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/57ccwr/extensive_scientific_analysis_of_the_delphos_ring/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/57ccwr/extensive_scientific_analysis_of_the_delphos_ring/</a>

@@ -248,27 +248,27 @@ image: /assets/images/Coyne_helicopter_sig_5ce811_meteor_explanation_4588d9-Illu
 
 ## Introduction
 
-The strongest sceptical explanation for the 1973 Coyne helicopter sighting is that the crew encountered a bright meteor from the annual Orionid meteor shower and, under stress at night, misinterpreted its movement, distance and behaviour. That interpretation was most closely associated with aviation journalist and UFO sceptic Philip J. Klass, who argued that the incident combined a real astronomical event with pilot disorientation and retrospective embellishment. Yet the Coyne case remains controversial because some reported details do not fit neatly into a simple meteor account, especially the claimed helicopter climb during a descent setting, the alleged radio interruption, and later reports of instrument anomalies. The unresolved status of the case comes less from the initial light in the sky than from disagreement over whether the flight anomalies were independently documented or were reconstructed after the fact. Richland Source <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gralienreport.com/ufos/the-coyne-ufo-incident-of-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gralienreport.com">[Gralien Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gralienreport.com</span><span class="citation-popover-title">the coyne ufo incident of 1973</span><span class="citation-popover-snippet">Gralien ReportThe Coyne UFO Incident of 197328 Dec 2020 — Klass had been confident that the crew had merely been startled by an Orionid m...</span></span></span>
+The strongest sceptical explanation for the 1973 Coyne helicopter sighting is that the crew encountered a bright meteor from the annual Orionid meteor shower and, under stress at night, misinterpreted its movement, distance and behaviour. That interpretation was most closely associated with aviation journalist and UFO sceptic Philip J. Klass, who argued that the incident combined a real astronomical event with pilot disorientation and retrospective embellishment. Yet the Coyne case remains controversial because some reported details do not fit neatly into a simple meteor account, especially the claimed helicopter climb during a descent setting, the alleged radio interruption, and later reports of instrument anomalies. The unresolved status of the case comes less from the initial light in the sky than from disagreement over whether the flight anomalies were independently documented or were reconstructed after the fact. Richland Source<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gralienreport.com/ufos/the-coyne-ufo-incident-of-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gralienreport.com">[Gralien Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gralienreport.com</span><span class="citation-popover-title">the coyne ufo incident of 1973</span><span class="citation-popover-snippet">Gralien ReportThe Coyne UFO Incident of 197328 Dec 2020 — Klass had been confident that the crew had merely been startled by an Orionid m...</span></span></span>
 
 <img src="{{ "/assets/images/Coyne_helicopter_sig_5ce811_meteor_explanation_4588d9-Illustration-1-dark.svg" | relative_url }}" alt="Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/Coyne_helicopter_sig_5ce811_meteor_explanation_4588d9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Coyne_helicopter_sig_5ce811_meteor_explanation_4588d9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Philip Klass’s Fireball Hypothesis
 
-Philip Klass argued that the crew most likely saw a brilliant Orionid meteor, sometimes called a fireball, during the peak period of the Orionid shower in October 1973. In his reconstruction, the meteor appeared suddenly bright and fast-moving against a dark sky, giving the impression that it was approaching the helicopter head-on. Under conditions of surprise and divided cockpit attention, the crew could then have interpreted normal perspective changes as manoeuvres by a structured craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Philip_J._Klass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Philip J. Klass</span><span class="citation-popover-snippet">Philip J. KlassPhilip Julian Klass (November 8, 1919 – August 9, 2005) was an American aviation and aerospace journalist and UFO resea...</span><span class="citation-popover-meta">Published: November 8, 1919</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/docs/SUN/SUN53.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for InquirySKEPTICS UFO NEWSLETTER2 Sept 1998 — By Philip J. Klass. 404 &#x27;N&quot; St. SW Wash;nglon DC... My investigation suggested th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theufochronicles.com/2012/04/by-rich-reynolds-ufo-iconoclasts-4-19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[The UFO Chronicles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">by rich reynolds ufo iconoclasts 4 19</span><span class="citation-popover-snippet">The UFO Chronicles[UFO] Skeptics or Debunkers?19 Apr 2012 — Klass writes that they misperceived an Orionids fireball (or meteor) and misc...</span></span></span>
+Philip Klass argued that the crew most likely saw a brilliant Orionid meteor, sometimes called a fireball, during the peak period of the Orionid shower in October 1973. In his reconstruction, the meteor appeared suddenly bright and fast-moving against a dark sky, giving the impression that it was approaching the helicopter head-on. Under conditions of surprise and divided cockpit attention, the crew could then have interpreted normal perspective changes as manoeuvres by a structured craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Philip_J._Klass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Philip J. Klass</span><span class="citation-popover-snippet">Philip J. KlassPhilip Julian Klass (November 8, 1919 – August 9, 2005) was an American aviation and aerospace journalist and UFO resea...</span><span class="citation-popover-meta">Published: November 8, 1919</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/docs/SUN/SUN53.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for InquirySKEPTICS UFO NEWSLETTER2 Sept 1998 — By Philip J. Klass. 404 &#x27;N&quot; St. SW Wash;nglon DC... My investigation suggested th...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theufochronicles.com/2012/04/by-rich-reynolds-ufo-iconoclasts-4-19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[The UFO Chronicles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">by rich reynolds ufo iconoclasts</span><span class="citation-popover-snippet">The UFO Chronicles[UFO] Skeptics or Debunkers?19 Apr 2012 — Klass writes that they misperceived an Orionids fireball (or meteor) and misc...</span></span></span>
 
-The Orionids are associated with debris from Halley’s Comet and are capable of producing exceptionally bright meteors. Modern astronomical work confirms that Orionid fireballs can vary in brightness, fragment visually and produce dramatic apparent motion depending on the observer’s angle and atmospheric conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.12776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">First holistic modelling of meteoroid ablation and fragmentation: A case study of the Orionids recorded by the Canadian Automated Me...</span></span></span>
+The Orionids are associated with debris from Halley’s Comet and are capable of producing exceptionally bright meteors. Modern astronomical work confirms that Orionid fireballs can vary in brightness, fragment visually and produce dramatic apparent motion depending on the observer’s angle and atmospheric conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.12776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">First holistic modelling of meteoroid ablation and fragmentation: A case study of the Orionids recorded by the Canadian Automated Me...</span></span></span>
 
 Klass’s interpretation depended on several linked assumptions:
 
 * The “object” was initially a natural luminous event rather than a solid craft.
 * The helicopter crew, already alarmed by a possible collision course, overestimated the duration and complexity of the encounter.
 * The reported climb resulted from pilot input during an evasive manoeuvre rather than from any external force.
-* Instrument and compass irregularities either developed through memory contamination or were normal cockpit fluctuations later interpreted as anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theufochronicles.com/2012/04/by-rich-reynolds-ufo-iconoclasts-4-19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[The UFO Chronicles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">by rich reynolds ufo iconoclasts 4 19</span><span class="citation-popover-snippet">The UFO Chronicles[UFO] Skeptics or Debunkers?19 Apr 2012 — Klass writes that they misperceived an Orionids fireball (or meteor) and misc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gralienreport.com/ufos/the-coyne-ufo-incident-of-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gralienreport.com">[Gralien Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gralienreport.com</span><span class="citation-popover-title">the coyne ufo incident of 1973</span><span class="citation-popover-snippet">Gralien ReportThe Coyne UFO Incident of 197328 Dec 2020 — Klass had been confident that the crew had merely been startled by an Orionid m...</span></span></span>
+* Instrument and compass irregularities either developed through memory contamination or were normal cockpit fluctuations later interpreted as anomalous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theufochronicles.com/2012/04/by-rich-reynolds-ufo-iconoclasts-4-19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[The UFO Chronicles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">by rich reynolds ufo iconoclasts</span><span class="citation-popover-snippet">The UFO Chronicles[UFO] Skeptics or Debunkers?19 Apr 2012 — Klass writes that they misperceived an Orionids fireball (or meteor) and misc...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gralienreport.com/ufos/the-coyne-ufo-incident-of-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gralienreport.com">[Gralien Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gralienreport.com</span><span class="citation-popover-title">the coyne ufo incident of 1973</span><span class="citation-popover-snippet">Gralien ReportThe Coyne UFO Incident of 197328 Dec 2020 — Klass had been confident that the crew had merely been startled by an Orionid m...</span></span></span>
 
-This explanation appealed to many sceptics because meteors are a known source of UFO reports. The Center for UFO Studies itself acknowledged in broader statistical work that meteors are among the most common causes of aerial misidentifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) UFOs and the extraterrestrial contact movement</span><span class="citation-popover-snippet">Identified Flying Objects and... According to the study of 1300 UFO reports conducted by the Center for UFO Studies...</span></span></span>
+This explanation appealed to many sceptics because meteors are a known source of UFO reports. The Center for UFO Studies itself acknowledged in broader statistical work that meteors are among the most common causes of aerial misidentifications.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) UFOs and the extraterrestrial contact movement</span><span class="citation-popover-snippet">Identified Flying Objects and... According to the study of 1300 UFO reports conducted by the Center for UFO Studies...</span></span></span>
 
-However, the meteor explanation has always faced resistance from investigators who considered the Coyne crew unusually reliable observers. Critics of Klass noted that the crew described not just a streak of light but a structured object with coloured lights, apparent manoeuvres and a prolonged interaction. UFO researchers also argued that the encounter lasted too long for a normal meteor observation. Cleveland Ufology Project <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) UFOs and the extraterrestrial contact movement</span><span class="citation-popover-snippet">Identified Flying Objects and... According to the study of 1300 UFO reports conducted by the Center for UFO Studies...</span></span></span>
+However, the meteor explanation has always faced resistance from investigators who considered the Coyne crew unusually reliable observers. Critics of Klass noted that the crew described not just a streak of light but a structured object with coloured lights, apparent manoeuvres and a prolonged interaction. UFO researchers also argued that the encounter lasted too long for a normal meteor observation. Cleveland Ufology Project<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) UFOs and the extraterrestrial contact movement</span><span class="citation-popover-snippet">Identified Flying Objects and... According to the study of 1300 UFO reports conducted by the Center for UFO Studies...</span></span></span>
 
-One major dispute concerned timing. Klass believed the event itself was probably much shorter than later retellings suggested. According to this view, stress and memory compression expanded a brief aerial scare into a more elaborate narrative over time. His critics responded that all four crew members consistently described an extended sequence rather than a fleeting flash. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theufochronicles.com/2012/04/by-rich-reynolds-ufo-iconoclasts-4-19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[The UFO Chronicles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">by rich reynolds ufo iconoclasts 4 19</span><span class="citation-popover-snippet">The UFO Chronicles[UFO] Skeptics or Debunkers?19 Apr 2012 — Klass writes that they misperceived an Orionids fireball (or meteor) and misc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) UFOs and the extraterrestrial contact movement</span><span class="citation-popover-snippet">Identified Flying Objects and... According to the study of 1300 UFO reports conducted by the Center for UFO Studies...</span></span></span>
+One major dispute concerned timing. Klass believed the event itself was probably much shorter than later retellings suggested. According to this view, stress and memory compression expanded a brief aerial scare into a more elaborate narrative over time. His critics responded that all four crew members consistently described an extended sequence rather than a fleeting flash.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theufochronicles.com/2012/04/by-rich-reynolds-ufo-iconoclasts-4-19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[The UFO Chronicles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">by rich reynolds ufo iconoclasts</span><span class="citation-popover-snippet">The UFO Chronicles[UFO] Skeptics or Debunkers?19 Apr 2012 — Klass writes that they misperceived an Orionids fireball (or meteor) and misc...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) UFOs and the extraterrestrial contact movement</span><span class="citation-popover-snippet">Identified Flying Objects and... According to the study of 1300 UFO reports conducted by the Center for UFO Studies...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nea6XuD1Vfc" title="Helicopter UFO Encounter - The Coyne Incident or The Mansfield Encounter 1973" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nea6XuD1Vfc" target="_blank" rel="noopener noreferrer">Helicopter UFO Encounter - The Coyne Incident or The Mansfield Encounter 1973</a></p><p class="youtube-embed-meta">Channel: Close Encounters UFO &middot; Views: 1.3K &middot; Uploaded: March 2017 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nea6XuD1Vfc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nea6XuD1Vfc">Open on YouTube</a></p></div></div></div>
 
@@ -276,11 +276,11 @@ One major dispute concerned timing. Klass believed the event itself was probably
 
 The visual details of the Coyne case sit at the centre of the debate because some aspects resemble known meteor phenomena while others do not.
 
-A bright meteor can certainly create the illusion of rapid approach, especially at night with few visual reference points. Pilots are known to misjudge the range and trajectory of lights in dark-sky conditions. A fireball can also appear to change colour as it fragments or interacts with different atmospheric layers. Green light, in particular, is not uncommon in large meteors because of ionised atmospheric oxygen and metallic content in the meteoroid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.12776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">First holistic modelling of meteoroid ablation and fragmentation: A case study of the Orionids recorded by the Canadian Automated Me...</span></span></span>
+A bright meteor can certainly create the illusion of rapid approach, especially at night with few visual reference points. Pilots are known to misjudge the range and trajectory of lights in dark-sky conditions. A fireball can also appear to change colour as it fragments or interacts with different atmospheric layers. Green light, in particular, is not uncommon in large meteors because of ionised atmospheric oxygen and metallic content in the meteoroid.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.12776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">First holistic modelling of meteoroid ablation and fragmentation: A case study of the Orionids recorded by the Canadian Automated Me...</span></span></span>
 
-That point mattered because the Coyne crew reported a vivid green illumination flooding the cockpit shortly before the object passed overhead. Sceptics argued that a brilliant meteor could plausibly generate an intense coloured glow under the right conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gralienreport.com/ufos/the-coyne-ufo-incident-of-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gralienreport.com">[Gralien Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gralienreport.com</span><span class="citation-popover-title">the coyne ufo incident of 1973</span><span class="citation-popover-snippet">Gralien ReportThe Coyne UFO Incident of 197328 Dec 2020 — Klass had been confident that the crew had merely been startled by an Orionid m...</span></span></span>
+That point mattered because the Coyne crew reported a vivid green illumination flooding the cockpit shortly before the object passed overhead. Sceptics argued that a brilliant meteor could plausibly generate an intense coloured glow under the right conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gralienreport.com/ufos/the-coyne-ufo-incident-of-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gralienreport.com">[Gralien Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gralienreport.com</span><span class="citation-popover-title">the coyne ufo incident of 1973</span><span class="citation-popover-snippet">Gralien ReportThe Coyne UFO Incident of 197328 Dec 2020 — Klass had been confident that the crew had merely been startled by an Orionid m...</span></span></span>
 
-The harder issue is the reported behaviour of the object after the initial sighting. The crew described apparent deceleration, hovering or pacing behaviour, and a directional change before departure. Those features are difficult to reconcile with a conventional meteor trajectory, since meteors do not stop, reverse direction or maintain controlled station relative to an aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://clevelandufo.com/?page_id=18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clevelandufo.com">[Cleveland Ufology Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clevelandufo.com</span><span class="citation-popover-snippet">Cleveland Ufology ProjectCoyne Helicopter Incident – 197318 Oct 1973 — Any theory of the object&#x27;s being a meteor (UFO skeptic Philip Klas...</span></span></span>
+The harder issue is the reported behaviour of the object after the initial sighting. The crew described apparent deceleration, hovering or pacing behaviour, and a directional change before departure. Those features are difficult to reconcile with a conventional meteor trajectory, since meteors do not stop, reverse direction or maintain controlled station relative to an aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://clevelandufo.com/?page_id=18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clevelandufo.com">[Cleveland Ufology Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clevelandufo.com</span><span class="citation-popover-snippet">Cleveland Ufology ProjectCoyne Helicopter Incident – 197318 Oct 1973 — Any theory of the object&#x27;s being a meteor (UFO skeptic Philip Klas...</span></span></span>
 
 Sceptics countered that human perception under stress can generate an illusion of controlled movement from a fixed or receding light source. In aviation psychology, “autokinesis” and motion misperception are recognised effects in dark environments, particularly when observers lack a stable horizon. A rapidly moving meteor seen during a helicopter descent could therefore appear to track the aircraft or alter course even if it followed a normal path.
 
@@ -291,19 +291,19 @@ The dispute ultimately comes down to whether the crew’s interpretation of moti
 
 The most persistent obstacle to a simple meteor explanation is not the light in the sky but the helicopter behaviour allegedly observed during the encounter.
 
-Captain Coyne later stated that he initiated a descent to avoid collision, reducing power and lowering the aircraft. According to his account, the helicopter then began climbing despite continued descent settings. He claimed the altimeter and vertical speed indicator showed an ascent of roughly 1,000 feet per minute until the aircraft reached about 3,500 feet. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) UFOs and the extraterrestrial contact movement</span><span class="citation-popover-snippet">Identified Flying Objects and... According to the study of 1300 UFO reports conducted by the Center for UFO Studies...</span></span></span>
+Captain Coyne later stated that he initiated a descent to avoid collision, reducing power and lowering the aircraft. According to his account, the helicopter then began climbing despite continued descent settings. He claimed the altimeter and vertical speed indicator showed an ascent of roughly 1,000 feet per minute until the aircraft reached about 3,500 feet.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) UFOs and the extraterrestrial contact movement</span><span class="citation-popover-snippet">Identified Flying Objects and... According to the study of 1300 UFO reports conducted by the Center for UFO Studies...</span></span></span>
 
 If accurate, that would represent something more complicated than visual misidentification. It would imply either a major pilot-control misunderstanding, an unusual aerodynamic situation, faulty instrumentation, or some unexplained external influence.
 
-Klass argued that the climb could be explained by pilot input during the emergency manoeuvre itself. In a high-stress situation at night, especially in a helicopter, disorientation can occur quickly. The crew may have believed the aircraft remained in descent configuration while unconscious or compensatory control movements actually produced a climb. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theufochronicles.com/2012/04/by-rich-reynolds-ufo-iconoclasts-4-19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[The UFO Chronicles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">by rich reynolds ufo iconoclasts 4 19</span><span class="citation-popover-snippet">The UFO Chronicles[UFO] Skeptics or Debunkers?19 Apr 2012 — Klass writes that they misperceived an Orionids fireball (or meteor) and misc...</span></span></span>
+Klass argued that the climb could be explained by pilot input during the emergency manoeuvre itself. In a high-stress situation at night, especially in a helicopter, disorientation can occur quickly. The crew may have believed the aircraft remained in descent configuration while unconscious or compensatory control movements actually produced a climb.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theufochronicles.com/2012/04/by-rich-reynolds-ufo-iconoclasts-4-19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[The UFO Chronicles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">by rich reynolds ufo iconoclasts</span><span class="citation-popover-snippet">The UFO Chronicles[UFO] Skeptics or Debunkers?19 Apr 2012 — Klass writes that they misperceived an Orionids fireball (or meteor) and misc...</span></span></span>
 
 This argument has some grounding in aviation reality. Spatial disorientation is a known hazard in night flying, and helicopters can produce misleading sensations of pitch and altitude change without strong visual references. A startled pilot reacting instinctively to an apparent collision threat might later misremember the exact sequence of control inputs.
 
-Yet critics of the sceptical reading note that Coyne was an experienced military pilot and maintained his account for years afterward. Supporters also point out that multiple crew members reportedly noticed the altitude increase. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) UFOs and the extraterrestrial contact movement</span><span class="citation-popover-snippet">Identified Flying Objects and... According to the study of 1300 UFO reports conducted by the Center for UFO Studies...</span></span></span>
+Yet critics of the sceptical reading note that Coyne was an experienced military pilot and maintained his account for years afterward. Supporters also point out that multiple crew members reportedly noticed the altitude increase.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) UFOs and the extraterrestrial contact movement</span><span class="citation-popover-snippet">Identified Flying Objects and... According to the study of 1300 UFO reports conducted by the Center for UFO Studies...</span></span></span>
 
-The radio and compass issues are even murkier. Coyne reported difficulty contacting Mansfield Approach Control during the sighting, and later retellings added claims of compass irregularities and temporary communication failure. Some later technical discussions treated these as possible electromagnetic effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthworm-owl-l76t.squarespace.com/s/narcap_TR-3_2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthworm-owl-l76t.squarespace.com">[earthworm-owl-l76t.squarespace.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthworm-owl-l76t.squarespace.com</span><span class="citation-popover-title">Te aircraft radio system failed during the sighting</span><span class="citation-popover-snippet">NARCAP Technical Report 03, 2001 Haines and Weinstein5 Apr 2001 — to be studied in greater depth to help us understand if the magnetic co...</span></span></span>
+The radio and compass issues are even murkier. Coyne reported difficulty contacting Mansfield Approach Control during the sighting, and later retellings added claims of compass irregularities and temporary communication failure. Some later technical discussions treated these as possible electromagnetic effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://earthworm-owl-l76t.squarespace.com/s/narcap_TR-3_2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthworm-owl-l76t.squarespace.com">[earthworm-owl-l76t.squarespace.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthworm-owl-l76t.squarespace.com</span><span class="citation-popover-title">Te aircraft radio system failed during the sighting</span><span class="citation-popover-snippet">NARCAP Technical Report 03, 2001 Haines and Weinstein5 Apr 2001 — to be studied in greater depth to help us understand if the magnetic co...</span></span></span>
 
-However, sceptics questioned whether these anomalies were documented immediately or emerged gradually in later interviews. Klass in particular argued that some instrument details appeared only after the case became widely discussed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theufochronicles.com/2012/04/by-rich-reynolds-ufo-iconoclasts-4-19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[The UFO Chronicles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">by rich reynolds ufo iconoclasts 4 19</span><span class="citation-popover-snippet">The UFO Chronicles[UFO] Skeptics or Debunkers?19 Apr 2012 — Klass writes that they misperceived an Orionids fireball (or meteor) and misc...</span></span></span>
+However, sceptics questioned whether these anomalies were documented immediately or emerged gradually in later interviews. Klass in particular argued that some instrument details appeared only after the case became widely discussed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theufochronicles.com/2012/04/by-rich-reynolds-ufo-iconoclasts-4-19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[The UFO Chronicles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">by rich reynolds ufo iconoclasts</span><span class="citation-popover-snippet">The UFO Chronicles[UFO] Skeptics or Debunkers?19 Apr 2012 — Klass writes that they misperceived an Orionids fireball (or meteor) and misc...</span></span></span>
 
 This matters because the evidential strength of the case changes sharply depending on chronology:
 
@@ -322,15 +322,15 @@ The Coyne incident remains unresolved largely because neither side can completel
 
 The sceptical interpretation explains several important features reasonably well:
 
-* The timing matched active Orionid meteor activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2006.08576" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Activity of the Eta-Aquariid and Orionid meteor showers</span><span class="citation-popover-snippet">arXiv Activity of the Eta-Aquariid and Orionid meteor showers</span></span></span>
+* The timing matched active Orionid meteor activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2006.08576" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Activity of the Eta-Aquariid and Orionid meteor showers</span><span class="citation-popover-snippet">arXiv Activity of the Eta-Aquariid and Orionid meteor showers</span></span></span>
 * A bright meteor could account for the sudden appearance of an intense light.
 * Night-flight perception errors are well documented in aviation.
-* Stress and retrospective reconstruction can alter witness memory over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gralienreport.com/ufos/the-coyne-ufo-incident-of-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gralienreport.com">[Gralien Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gralienreport.com</span><span class="citation-popover-title">the coyne ufo incident of 1973</span><span class="citation-popover-snippet">Gralien ReportThe Coyne UFO Incident of 197328 Dec 2020 — Klass had been confident that the crew had merely been startled by an Orionid m...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Philip_J._Klass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Philip J. Klass</span><span class="citation-popover-snippet">Philip J. KlassPhilip Julian Klass (November 8, 1919 – August 9, 2005) was an American aviation and aerospace journalist and UFO resea...</span><span class="citation-popover-meta">Published: November 8, 1919</span></span></span>, the anomalous interpretation retains force because some claims resist easy reduction:
+* Stress and retrospective reconstruction can alter witness memory over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gralienreport.com/ufos/the-coyne-ufo-incident-of-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gralienreport.com">[Gralien Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gralienreport.com</span><span class="citation-popover-title">the coyne ufo incident of 1973</span><span class="citation-popover-snippet">Gralien ReportThe Coyne UFO Incident of 197328 Dec 2020 — Klass had been confident that the crew had merely been startled by an Orionid m...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Philip_J._Klass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Philip J. Klass</span><span class="citation-popover-snippet">Philip J. KlassPhilip Julian Klass (November 8, 1919 – August 9, 2005) was an American aviation and aerospace journalist and UFO resea...</span><span class="citation-popover-meta">Published: November 8, 1919</span></span></span>, the anomalous interpretation retains force because some claims resist easy reduction:
 
 * Four military witnesses consistently maintained that they saw a structured object rather than a fleeting streak.
 * The reported climb remains psychologically and mechanically unusual if the controls truly remained set for descent.
 * The alleged radio interruption and cockpit illumination added operational details beyond a simple sky sighting.
-* [Ground witnesses]({{ 'ground-witnesses/' | relative_url }}) in the broader Mansfield area reported unusual lights the same night, though not necessarily the same object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) UFOs and the extraterrestrial contact movement</span><span class="citation-popover-snippet">Identified Flying Objects and... According to the study of 1300 UFO reports conducted by the Center for UFO Studies...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.richlandsource.com/2022/04/29/gallery-coyne-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: richlandsource.com">[Richland Source]</a><span class="citation-popover" role="note"><span class="citation-popover-source">richlandsource.com</span><span class="citation-popover-title">gallery coyne incident</span><span class="citation-popover-snippet">Richland SourceGALLERY: Coyne Incident29 Apr 2022 — And not long afterwards Aviation Week &amp; Space Technology editor Philip Klass... Orio...</span></span></span>
+* [Ground witnesses]({{ 'ground-witnesses/' | relative_url }}) in the broader Mansfield area reported unusual lights the same night, though not necessarily the same object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) UFOs and the extraterrestrial contact movement</span><span class="citation-popover-snippet">Identified Flying Objects and... According to the study of 1300 UFO reports conducted by the Center for UFO Studies...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.richlandsource.com/2022/04/29/gallery-coyne-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: richlandsource.com">[Richland Source]</a><span class="citation-popover" role="note"><span class="citation-popover-source">richlandsource.com</span><span class="citation-popover-title">gallery coyne incident</span><span class="citation-popover-snippet">Richland SourceGALLERY: Coyne Incident29 Apr 2022 — And not long afterwards Aviation Week &amp; Space Technology editor Philip Klass... Orio...</span></span></span>
 
 Another reason the case persists is that it sits in an evidential middle ground. Unlike many UFO reports, it involved trained aviation personnel and a specific flight path. But unlike a fully documented aviation incident, it lacks hard telemetry, recordings or preserved instrument data. That leaves historians and investigators weighing credibility against the limits of human perception.
 
@@ -341,220 +341,220 @@ The unresolved nature of the case therefore reflects a broader problem in UFO hi
 <img src="{{ "/assets/images/Coyne_helicopter_sig_5ce811_meteor_explanation_4588d9-Illustration-3-dark.svg" | relative_url }}" alt="Explanations illustration 3" data-theme-src-dark="{{ "/assets/images/Coyne_helicopter_sig_5ce811_meteor_explanation_4588d9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Coyne_helicopter_sig_5ce811_meteor_explanation_4588d9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could a Meteor Explain the Coyne Case?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could a Meteor Explain the Coyne Case?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
-        </h4>
-        <p class="fr-book-author">By Philip J. Klass</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
+</h4>
+<p class="fr-book-author">By Philip J. Klass</p>
         
-        <p class="fr-book-desc">Contains Klass&#x27;s detailed head-on perspective calculations and notes on pilot disorientation during the 1973 incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains Klass&#x27;s detailed head-on perspective calculations and notes on pilot disorientation during the 1973 incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Color+and+Light+in+Nature+by+David+K.+Lynch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Color and Light in Nature on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4Abp5FdhskAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Color and Light in Nature" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Color+and+Light+in+Nature+by+David+K.+Lynch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Color and Light in Nature">Color and Light in Nature</a>
-        </h4>
-        <p class="fr-book-author">By David K. Lynch, William Charles Livingston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Color+and+Light+in+Nature+by+David+K.+Lynch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Color and Light in Nature on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4Abp5FdhskAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Color and Light in Nature" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Color+and+Light+in+Nature+by+David+K.+Lynch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Color and Light in Nature">Color and Light in Nature</a>
+</h4>
+<p class="fr-book-author">By David K. Lynch, William Charles Livingston</p>
         
-        <p class="fr-book-desc">Explores the physical characteristics, colors, and trajectories of extreme bolides, including bright green lines common in comet debris w...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Color+and+Light+in+Nature+by+David+K.+Lynch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the physical characteristics, colors, and trajectories of extreme bolides, including bright green lines common in comet debris w...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Color+and+Light+in+Nature+by+David+K.+Lynch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Provides tools to assess why technical details like radio static and compass lags often become exaggerated long after a flight alert.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools to assess why technical details like radio static and compass lags often become exaggerated long after a flight alert.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Tracks the official processing of the Coyne encounter by research bodies trying to verify the mechanical climb data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Tracks the official processing of the Coyne encounter by research bodies trying to verify the mechanical climb data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Color+and+Light+in+Nature&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Color and Light in Nature</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Color+and+Light+in+Nature&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Color and Light in Nature</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Philip J. Klass  
-   Link: <a href="https://en.wikipedia.org/wiki/Philip_J._Klass" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Philip_J._Klass</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Philip J. KlassPhilip Julian Klass (November 8, 1919 – August 9, 2005) was an American aviation and aerospace journalist and UFO resea...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Philip_J._Klass" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Philip_J._Klass</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Philip J. KlassPhilip Julian Klass (November 8, 1919 – August 9, 2005) was an American aviation and aerospace journalist and UFO resea...</p></details>
    Published: November 8, 1919  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2310.12776" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2310.12776</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>First holistic modelling of meteoroid ablation and fragmentation: A case study of the Orionids recorded by the Canadian Automated Me...</p></details>
+   Link:<a href="https://arxiv.org/abs/2310.12776" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2310.12776</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First holistic modelling of meteoroid ablation and fragmentation: A case study of the Orionids recorded by the Canadian Automated Me...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Activity of the Eta-Aquariid and Orionid meteor showers  
-   Link: <a href="https://arxiv.org/abs/2006.08576" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.08576</a>  
+   Link:<a href="https://arxiv.org/abs/2006.08576" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.08576</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: academia.edu  
    Title: (PDF) UFOs and the extraterrestrial contact movement  
-   Link: <a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Identified Flying Objects and... According to the study of 1300 UFO reports conducted by the Center for UFO Studies...</p></details>
+   Link:<a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identified Flying Objects and... According to the study of 1300 UFO reports conducted by the Center for UFO Studies...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: earthworm-owl-l76t.squarespace.com  
    Title: Te aircraft radio system failed during the sighting  
-   Link: <a href="https://earthworm-owl-l76t.squarespace.com/s/narcap_TR-3_2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://earthworm-owl-l76t.squarespace.com/s/narcap_TR-3_2001.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NARCAP Technical Report 03, 2001 Haines and Weinstein5 Apr 2001 — to be studied in greater depth to help us understand if the magnetic co...</p></details>
+   Link:<a href="https://earthworm-owl-l76t.squarespace.com/s/narcap_TR-3_2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://earthworm-owl-l76t.squarespace.com/s/narcap_TR-3_2001.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NARCAP Technical Report 03, 2001 Haines and Weinstein5 Apr 2001 — to be studied in greater depth to help us understand if the magnetic co...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: richlandsource.com  
    Title: gallery coyne incident  
-   Link: <a href="https://www.richlandsource.com/2022/04/29/gallery-coyne-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.richlandsource.com/2022/04/29/gallery-coyne-incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Richland SourceGALLERY: Coyne Incident29 Apr 2022 — And not long afterwards Aviation Week &amp; Space Technology editor Philip Klass... Orio...</p></details>
+   Link:<a href="https://www.richlandsource.com/2022/04/29/gallery-coyne-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.richlandsource.com/2022/04/29/gallery-coyne-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richland SourceGALLERY: Coyne Incident29 Apr 2022 — And not long afterwards Aviation Week &amp; Space Technology editor Philip Klass... Orio...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: gralienreport.com  
    Title: the coyne ufo incident of 1973  
-   Link: <a href="https://www.gralienreport.com/ufos/the-coyne-ufo-incident-of-1973/" target="_blank" rel="noopener noreferrer nofollow">https://www.gralienreport.com/ufos/the-coyne-ufo-incident-of-1973/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gralien ReportThe Coyne UFO Incident of 197328 Dec 2020 — Klass had been confident that the crew had merely been startled by an Orionid m...</p></details>
+   Link:<a href="https://www.gralienreport.com/ufos/the-coyne-ufo-incident-of-1973/" target="_blank" rel="noopener noreferrer nofollow">https://www.gralienreport.com/ufos/the-coyne-ufo-incident-of-1973/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gralien ReportThe Coyne UFO Incident of 197328 Dec 2020 — Klass had been confident that the crew had merely been startled by an Orionid m...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/docs/SUN/SUN53.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/docs/SUN/SUN53.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for InquirySKEPTICS UFO NEWSLETTER2 Sept 1998 — By Philip J. Klass. 404 &#x27;N&quot; St. SW Wash;nglon DC... My investigation suggested th...</p></details>
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/docs/SUN/SUN53.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/docs/SUN/SUN53.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for InquirySKEPTICS UFO NEWSLETTER2 Sept 1998 — By Philip J. Klass. 404 &#x27;N&quot; St. SW Wash;nglon DC... My investigation suggested th...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theufochronicles.com  
    Title: by rich reynolds ufo iconoclasts 4 19  
-   Link: <a href="https://www.theufochronicles.com/2012/04/by-rich-reynolds-ufo-iconoclasts-4-19.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2012/04/by-rich-reynolds-ufo-iconoclasts-4-19.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Chronicles[UFO] Skeptics or Debunkers?19 Apr 2012 — Klass writes that they misperceived an Orionids fireball (or meteor) and misc...</p></details>
+   Link:<a href="https://www.theufochronicles.com/2012/04/by-rich-reynolds-ufo-iconoclasts-4-19.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2012/04/by-rich-reynolds-ufo-iconoclasts-4-19.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Chronicles[UFO] Skeptics or Debunkers?19 Apr 2012 — Klass writes that they misperceived an Orionids fireball (or meteor) and misc...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: clevelandufo.com  
-   Link: <a href="https://clevelandufo.com/?page_id=18" target="_blank" rel="noopener noreferrer nofollow">https://clevelandufo.com/?page_id=18</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cleveland Ufology ProjectCoyne Helicopter Incident – 197318 Oct 1973 — Any theory of the object&#x27;s being a meteor (UFO skeptic Philip Klas...</p></details>
+   Link:<a href="https://clevelandufo.com/?page_id=18" target="_blank" rel="noopener noreferrer nofollow">https://clevelandufo.com/?page_id=18</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cleveland Ufology ProjectCoyne Helicopter Incident – 197318 Oct 1973 — Any theory of the object&#x27;s being a meteor (UFO skeptic Philip Klas...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/PDFs/books/A%20Helicopter-UFO%20Encounter%20Over%20Ohio.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/books/A%20Helicopter-UFO%20Encounter%20Over%20Ohio.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesA Helicopter-UFO Encounter over Ohioby J Zeidman · Cited by 4 — My conclusions of what I saw is that there was an o...</p></details>
+   Link:<a href="https://cufos.org/PDFs/books/A%20Helicopter-UFO%20Encounter%20Over%20Ohio.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/books/A%20Helicopter-UFO%20Encounter%20Over%20Ohio.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesA Helicopter-UFO Encounter over Ohioby J Zeidman · Cited by 4 — My conclusions of what I saw is that there was an o...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/PDFs/CUFOS_Associate_Newsletter/AN5_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/CUFOS_Associate_Newsletter/AN5_3.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesASSOCIATEThe presentation of her documents is scrupulous; her analysis is meticulous and logical. All of Klass&#x27;s wr...</p></details>
+   Link:<a href="https://cufos.org/PDFs/CUFOS_Associate_Newsletter/AN5_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/CUFOS_Associate_Newsletter/AN5_3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesASSOCIATEThe presentation of her documents is scrupulous; her analysis is meticulous and logical. All of Klass&#x27;s wr...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: richlandsource.com  
    Title: coyne incident over charles mill lake was most credible ufo sighting of 1973  
-   Link: <a href="https://www.richlandsource.com/2020/10/04/coyne-incident-over-charles-mill-lake-was-most-credible-ufo-sighting-of-1973/" target="_blank" rel="noopener noreferrer nofollow">https://www.richlandsource.com/2020/10/04/coyne-incident-over-charles-mill-lake-was-most-credible-ufo-sighting-of-1973/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coyne Incident over Charles Mill Lake was most credible...4 Oct 2020 — According to the Center for UFO Studies, the Coyne Incident is no...</p></details>
+   Link:<a href="https://www.richlandsource.com/2020/10/04/coyne-incident-over-charles-mill-lake-was-most-credible-ufo-sighting-of-1973/" target="_blank" rel="noopener noreferrer nofollow">https://www.richlandsource.com/2020/10/04/coyne-incident-over-charles-mill-lake-was-most-credible-ufo-sighting-of-1973/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coyne Incident over Charles Mill Lake was most credible...4 Oct 2020 — According to the Center for UFO Studies, the Coyne Incident is no...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mcmmadnessnews.blogspot.com  
-   Link: <a href="https://mcmmadnessnews.blogspot.com/2014/06/full-superspectrum-dominance.html" target="_blank" rel="noopener noreferrer nofollow">https://mcmmadnessnews.blogspot.com/2014/06/full-superspectrum-dominance.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FULL SUPERSPECTRUM DOMINANCEAny theory of the object&#x27;s being a meteor (UFO skeptic Philip Klass maintains that the object was a &quot;fireball...</p></details>
+   Link:<a href="https://mcmmadnessnews.blogspot.com/2014/06/full-superspectrum-dominance.html" target="_blank" rel="noopener noreferrer nofollow">https://mcmmadnessnews.blogspot.com/2014/06/full-superspectrum-dominance.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FULL SUPERSPECTRUM DOMINANCEAny theory of the object&#x27;s being a meteor (UFO skeptic Philip Klass maintains that the object was a &quot;fireball...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ohiomagazine.com  
-   Link: <a href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Case of Ohio&#x27;s Best Documented UFOShowcasing problem-solving and ingenuity, America 250-Ohio&#x27;s Innovation Trail celebrates our state&#x27;...</p></details>
+   Link:<a href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Case of Ohio&#x27;s Best Documented UFOShowcasing problem-solving and ingenuity, America 250-Ohio&#x27;s Innovation Trail celebrates our state&#x27;...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ryan-sprague51.medium.com  
-   Link: <a href="https://ryan-sprague51.medium.com/the-coyne-helicopter-ufo-incident-922d80c6a8b8" target="_blank" rel="noopener noreferrer nofollow">https://ryan-sprague51.medium.com/the-coyne-helicopter-ufo-incident-922d80c6a8b8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coyne Helicopter UFO Incident | by Ryan Sprague | MediumKlass, a noted UFO skeptic, proposed that the crew had actually misidentified a m...</p></details>
+   Link:<a href="https://ryan-sprague51.medium.com/the-coyne-helicopter-ufo-incident-922d80c6a8b8" target="_blank" rel="noopener noreferrer nofollow">https://ryan-sprague51.medium.com/the-coyne-helicopter-ufo-incident-922d80c6a8b8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coyne Helicopter UFO Incident | by Ryan Sprague | MediumKlass, a noted UFO skeptic, proposed that the crew had actually misidentified a m...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: handprint.com  
-   Link: <a href="https://www.handprint.com/UFO/UFO.html" target="_blank" rel="noopener noreferrer nofollow">https://www.handprint.com/UFO/UFO.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO as wildlifeWe see control in a robotic vacuum cleaner; intelligence is something closer to problem solving. But the problems we see U...</p></details>
+   Link:<a href="https://www.handprint.com/UFO/UFO.html" target="_blank" rel="noopener noreferrer nofollow">https://www.handprint.com/UFO/UFO.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO as wildlifeWe see control in a robotic vacuum cleaner; intelligence is something closer to problem solving. But the problems we see U...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tvi.show  
    Title: the coyne helicopter incident military meets the unknown in a 1973 ufo encounter  
-   Link: <a href="https://www.tvi.show/close-encounters/the-coyne-helicopter-incident-military-meets-the-unknown-in-a-1973-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/close-encounters/the-coyne-helicopter-incident-military-meets-the-unknown-in-a-1973-ufo-encounter</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>radio briefly failed at the height of the encounter.... However, instrument anomalies, particularly the magnetic compass malfunction, st...</p></details>
+   Link:<a href="https://www.tvi.show/close-encounters/the-coyne-helicopter-incident-military-meets-the-unknown-in-a-1973-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/close-encounters/the-coyne-helicopter-incident-military-meets-the-unknown-in-a-1973-ufo-encounter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>radio briefly failed at the height of the encounter.... However, instrument anomalies, particularly the magnetic compass malfunction, st...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: lanl.gov  
    Title: 1124 foia requests at the national security research center  
-   Link: <a href="https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOIA requests at the National Security Research Center18 Nov 2024 — After further discussion, the notion that the green fireballs were a...</p></details>
+   Link:<a href="https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOIA requests at the National Security Research Center18 Nov 2024 — After further discussion, the notion that the green fireballs were a...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO book: encyclopedia of the extraterrestrialClark, Jerome. The UFO book: encyclopedia of the extraterrestrial / Jerome Clark, p. cm...</p></details>
+   Link:<a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO book: encyclopedia of the extraterrestrialClark, Jerome. The UFO book: encyclopedia of the extraterrestrial / Jerome Clark, p. cm...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: What happened in the skies over Charles Mill Lake on Oct  
-   Link: <a href="https://www.facebook.com/ohiomagazine/posts/what-happened-in-the-skies-over-charles-mill-lake-on-oct-18-1973-still-sparks-cu/1392032946260763/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ohiomagazine/posts/what-happened-in-the-skies-over-charles-mill-lake-on-oct-18-1973-still-sparks-cu/1392032946260763/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The helicopter&#x27;s crew, piloted by Captain Lawrence Coyne (for whom the sighting... failure, weather anomalies, or known aircraft. Radar...</p></details>
+   Link:<a href="https://www.facebook.com/ohiomagazine/posts/what-happened-in-the-skies-over-charles-mill-lake-on-oct-18-1973-still-sparks-cu/1392032946260763/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ohiomagazine/posts/what-happened-in-the-skies-over-charles-mill-lake-on-oct-18-1973-still-sparks-cu/1392032946260763/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The helicopter&#x27;s crew, piloted by Captain Lawrence Coyne (for whom the sighting... failure, weather anomalies, or known aircraft. Radar...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: skepticalinquirer.org  
    Title: UF O Identification Process Why Humanoid Aliens?  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-18.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-18.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Times checked in with pro-UFO groups and cautious government sources, while largely ignoring science-based UFO investigators...</p></details>
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-18.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-18.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Times checked in with pro-UFO groups and cautious government sources, while largely ignoring science-based UFO investigators...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
    Title: the 1973 coynemansfield helicopter ufo incident  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/8gf3nj/the_1973_coynemansfield_helicopter_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/8gf3nj/the_1973_coynemansfield_helicopter_ufo_incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1973 Coyne/Mansfield helicopter UFO incident finally...Sorry but like many so called rational debunking attempts around, this one st...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/8gf3nj/the_1973_coynemansfield_helicopter_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/8gf3nj/the_1973_coynemansfield_helicopter_ufo_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1973 Coyne/Mansfield helicopter UFO incident finally...Sorry but like many so called rational debunking attempts around, this one st...</p></details>

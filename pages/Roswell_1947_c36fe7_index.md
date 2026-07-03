@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /roswell-1947-c36fe7-index/
 description: Focused pages that expand on Roswell 1947.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Roswell_1947_c36fe7
 parent_title: Roswell 1947
@@ -16,7 +16,7 @@ parent_permalink: /roswell-1947/
 
 # Explore Topics in Roswell 1947
 
-The following pages expand on the main **[Roswell 1947]({{ '/roswell-1947/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Roswell 1947]({{ '/roswell-1947/' | relative_url }})** page and cover its key branches in.
 
 - [1947 Timeline]({{ '/1947-timeline/' | relative_url }})
 - [Project Mogul]({{ '/project-mogul/' | relative_url }})

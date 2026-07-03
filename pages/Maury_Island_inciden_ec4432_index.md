@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /maury-island-inciden-ec4432-index/
 description: Focused pages that expand on Maury Island incident 1947.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Maury_Island_inciden_ec4432
 parent_title: Maury Island incident 1947
@@ -16,7 +16,7 @@ parent_permalink: /maury-island-incident-1947/
 
 # Explore Topics in Maury Island incident 1947
 
-The following pages expand on the main **[Maury Island incident 1947]({{ '/maury-island-incident-1947/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Maury Island incident 1947]({{ '/maury-island-incident-1947/' | relative_url }})** page and cover its key branches in.
 
 - [B 25 Crash]({{ '/b-25-crash/' | relative_url }})
 - [Witness Claims]({{ '/witness-claims-2d8b50/' | relative_url }})

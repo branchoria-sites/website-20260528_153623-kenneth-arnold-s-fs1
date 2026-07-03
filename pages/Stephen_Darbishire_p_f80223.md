@@ -758,31 +758,31 @@ image: /assets/images/Stephen_Darbishire_p_f80223-overview-social.jpg
 
 ## What happened near Coniston on 15 February 1954?
 
-Stephen Darbishire was 13 when he and his eight-year-old cousin Adrian Meyer went onto the slopes below the Old Man of Coniston, carrying a Kodak box camera bought by Stephen’s father, Dr S. B. Darbishire. Later accounts place the episode near Little Arrow Farm at Torver, in the fell country south-west of Coniston. According to the story as reconstructed by David Clarke and Andy Roberts in *Magonia*, Adrian first drew Stephen’s attention to something odd in the sky towards Dow Crag; Stephen then took two photographs before the object disappeared from view. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Stephen Darbishire was 13 when he and his eight-year-old cousin Adrian Meyer went onto the slopes below the Old Man of Coniston, carrying a Kodak box camera bought by Stephen’s father, Dr S. B. Darbishire. Later accounts place the episode near Little Arrow Farm at Torver, in the fell country south-west of Coniston. According to the story as reconstructed by David Clarke and Andy Roberts in *Magonia*, Adrian first drew Stephen’s attention to something odd in the sky towards Dow Crag; Stephen then took two photographs before the object disappeared from view.<span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Stephen_Darbishire_p_f80223-overview.webp" | relative_url }}" alt="Overview image for Stephen Darbishire photograph 1954" loading="eager" decoding="sync" fetchpriority="high">
-The first published press account, cited by Clarke and Roberts as the *Lancashire Evening Post* of 18 February 1954, described the object as having a silvery, glassy appearance and shining “like aluminium in the sunlight”. The report said it glided from the direction of Coniston, descended, vanished briefly behind high ground, and then came back into view. The basic story quickly became attractive to newspapers because it had all the ingredients of a post-war UFO feature: children as witnesses, an apparently rural and innocent setting, a photograph rather than testimony alone, and a shape that looked familiar to readers already exposed to “flying saucer” images. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The first published press account, cited by Clarke and Roberts as the *Lancashire Evening Post* of 18 February 1954, described the object as having a silvery, glassy appearance and shining “like aluminium in the sunlight”. The report said it glided from the direction of Coniston, descended, vanished briefly behind high ground, and then came back into view. The basic story quickly became attractive to newspapers because it had all the ingredients of a post-war UFO feature: children as witnesses, an apparently rural and innocent setting, a photograph rather than testimony alone, and a shape that looked familiar to readers already exposed to “flying saucer” images.<span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A useful chronology is simple but revealing. The alleged sighting took place on 15 February 1954; local press coverage followed within days; UFO writer Desmond Leslie soon visited the family; national attention built through March; and later retellings tied the Coniston photographs to George Adamski’s famous “Venusian scout ship” image. By 1955, the boys and the photographs were still being discussed in illustrated magazine coverage, while later UFO literature treated the case as one of Britain’s early photographic landmarks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A useful chronology is simple but revealing. The alleged sighting took place on 15 February 1954; local press coverage followed within days; UFO writer Desmond Leslie soon visited the family; national attention built through March; and later retellings tied the Coniston photographs to George Adamski’s famous “Venusian scout ship” image. By 1955, the boys and the photographs were still being discussed in illustrated magazine coverage, while later UFO literature treated the case as one of Britain’s early photographic landmarks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/62tr8fZ-02Q" title="UFO file release May 2008 Part 1 (audio with slides)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=62tr8fZ-02Q" target="_blank" rel="noopener noreferrer">UFO file release May 2008 Part 1 (audio with slides)</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 11.2K &middot; Uploaded: June 2008 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=62tr8fZ-02Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=62tr8fZ-02Q">Open on YouTube</a></p></div></div></div>
 
 ## Why the photograph became famous so quickly
 
-The Darbishire case did not land in an empty cultural field. British readers had been primed for flying-saucer stories since the early 1950s, when popular newspapers and magazines carried American UFO claims, serialised saucer books, and gave prominent space to George Adamski’s contactee narratives. Clarke and Roberts argue that the Sunday press helped create a receptive British market for saucer stories before Darbishire’s photographs appeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Darbishire case did not land in an empty cultural field. British readers had been primed for flying-saucer stories since the early 1950s, when popular newspapers and magazines carried American UFO claims, serialised saucer books, and gave prominent space to George Adamski’s contactee narratives. Clarke and Roberts argue that the Sunday press helped create a receptive British market for saucer stories before Darbishire’s photographs appeared.<span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That context matters because Darbishire’s alleged object resembled the Adamski “scout ship” style: a domed, saucer-like craft with distinctive features that believers interpreted as portholes, turret and landing spheres. Adamski’s own photographs were already controversial; later sceptical accounts have variously identified the famous “scout ship” as a small model, a chicken brooder or streetlight-like object, and in later research a pressure-lantern component. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/george-adamski-ufo-alien-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">george adamski ufo alien photos</span><span class="citation-popover-snippet">george adamski ufo alien photos</span></span></span> The resemblance made the Coniston photographs more exciting to believers and more suspicious to sceptics. Desmond Leslie, co-author with Adamski of *Flying Saucers Have Landed*, treated the similarity as corroboration rather than contamination. In later retellings, aeronautical engineer Leonard Cramp used “orthographic projection” to argue that the Adamski and Darbishire objects were proportionally similar. For sceptics, the same resemblance points in the opposite direction: a 13-year-old could have been influenced, consciously or not, by a widely reproduced image already circulating in British popular culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That context matters because Darbishire’s alleged object resembled the Adamski “scout ship” style: a domed, saucer-like craft with distinctive features that believers interpreted as portholes, turret and landing spheres. Adamski’s own photographs were already controversial; later sceptical accounts have variously identified the famous “scout ship” as a small model, a chicken brooder or streetlight-like object, and in later research a pressure-lantern component.<span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/george-adamski-ufo-alien-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">george adamski ufo alien photos</span><span class="citation-popover-snippet">george adamski ufo alien photos</span></span></span> The resemblance made the Coniston photographs more exciting to believers and more suspicious to sceptics. Desmond Leslie, co-author with Adamski of *Flying Saucers Have Landed*, treated the similarity as corroboration rather than contamination. In later retellings, aeronautical engineer Leonard Cramp used “orthographic projection” to argue that the Adamski and Darbishire objects were proportionally similar. For sceptics, the same resemblance points in the opposite direction: a 13-year-old could have been influenced, consciously or not, by a widely reproduced image already circulating in British popular culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Stephen_Darbishire_p_f80223-Illustration-1-dark.svg" | relative_url }}" alt="Stephen Darbishire photograph 1954 illustration 1" data-theme-src-dark="{{ "/assets/images/Stephen_Darbishire_p_f80223-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Stephen_Darbishire_p_f80223-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The evidence: what supports the case, and what weakens it
 
-The case has some features that explain why it lasted. It was not just a verbal story; there were photographs. It involved named witnesses, a named family, a specific place, and early press coverage. Stephen’s father, Dr Darbishire, appears in accounts not as an obvious publicity-seeker but as an educated, questioning adult drawn into the aftermath. Sir Peter Horsley, then connected to Prince Philip’s circle, later recalled being impressed by Stephen and his father after a Buckingham Palace-related meeting arranged through UFO contacts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The case has some features that explain why it lasted. It was not just a verbal story; there were photographs. It involved named witnesses, a named family, a specific place, and early press coverage. Stephen’s father, Dr Darbishire, appears in accounts not as an obvious publicity-seeker but as an educated, questioning adult drawn into the aftermath. Sir Peter Horsley, then connected to Prince Philip’s circle, later recalled being impressed by Stephen and his father after a Buckingham Palace-related meeting arranged through UFO contacts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-But the weaknesses are substantial. The most important is evidential: according to Darbishire, the negatives and surviving prints were later stolen, borrowed or otherwise never returned. That means the central artefact cannot now be tested with modern methods for scale, focus, grain, suspension marks, double exposure, montage, or camera/film consistency. The case is therefore forced to lean on reproductions, secondary descriptions, and witness memory rather than a verifiable photographic chain of custody. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+But the weaknesses are substantial. The most important is evidential: according to Darbishire, the negatives and surviving prints were later stolen, borrowed or otherwise never returned. That means the central artefact cannot now be tested with modern methods for scale, focus, grain, suspension marks, double exposure, montage, or camera/film consistency. The case is therefore forced to lean on reproductions, secondary descriptions, and witness memory rather than a verifiable photographic chain of custody.<span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The focus problem also matters. Clarke and Roberts note that the photographed object appeared out of focus, despite Stephen’s later insistence that he had focused the camera at infinity. A contemporary explanation suggested that the camera bellows had not been fully extended, but Desmond Leslie reportedly tested the camera and setting without reproducing that explanation satisfactorily. That leaves several possibilities open: a technical mishap, a nearby object photographed as if distant, or a staged object whose distance and size were misread. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The focus problem also matters. Clarke and Roberts note that the photographed object appeared out of focus, despite Stephen’s later insistence that he had focused the camera at infinity. A contemporary explanation suggested that the camera bellows had not been fully extended, but Desmond Leslie reportedly tested the camera and setting without reproducing that explanation satisfactorily. That leaves several possibilities open: a technical mishap, a nearby object photographed as if distant, or a staged object whose distance and size were misread.<span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The witness picture is mixed rather than simple. Stephen later told interviewers that he had felt swept into a world of “modern magic” and became tired of being used as a prop in other people’s UFO beliefs. He also said that he once claimed the photographs were fake partly to escape the attention, only to find that believers then interpreted the “confession” as pressure from darker or official forces. Adrian Meyer, the younger cousin who supposedly saw the object first, became peripheral and, according to Stephen’s later account, did not retain a clear confirming memory of the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The witness picture is mixed rather than simple. Stephen later told interviewers that he had felt swept into a world of “modern magic” and became tired of being used as a prop in other people’s UFO beliefs. He also said that he once claimed the photographs were fake partly to escape the attention, only to find that believers then interpreted the “confession” as pressure from darker or official forces. Adrian Meyer, the younger cousin who supposedly saw the object first, became peripheral and, according to Stephen’s later account, did not retain a clear confirming memory of the event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mLqXp90GTX8" title="Legendary British Alien Sighting | History&#x27;s Greatest Mysteries (S6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mLqXp90GTX8" target="_blank" rel="noopener noreferrer">Legendary British Alien Sighting | History&#x27;s Greatest Mysteries (S6)</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 40.2K &middot; Uploaded: March 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mLqXp90GTX8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mLqXp90GTX8">Open on YouTube</a></p></div></div></div>
 
@@ -790,222 +790,222 @@ The witness picture is mixed rather than simple. Stephen later told interviewers
 
 The Darbishire photograph is often discussed in the grey zone between proven hoax and unresolved anomaly. There is no surviving original negative that proves a fake, and there is no reliable physical evidence that proves an extraordinary craft. The most evidence-based conclusion is that the case remains historically interesting but photographically weak.
 
-A deliberate hoax is plausible. The object’s similarity to the Adamski image, the out-of-focus appearance, the missing originals, and the ease with which small objects can look large in sky photographs all support a sceptical reading. The 1950s also produced many UFO photographs in which ordinary props, models or ambiguous shapes became persuasive when isolated against sky, landscape or low-resolution reproduction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A deliberate hoax is plausible. The object’s similarity to the Adamski image, the out-of-focus appearance, the missing originals, and the ease with which small objects can look large in sky photographs all support a sceptical reading. The 1950s also produced many UFO photographs in which ordinary props, models or ambiguous shapes became persuasive when isolated against sky, landscape or low-resolution reproduction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A misidentification is also possible, especially if Stephen’s later “funny shaped cloud” description reflects his more mature memory of the event. However, the camera evidence as described does not strongly support a natural atmospheric explanation either, because the object’s resemblance to a structured “scout ship” is exactly what made the photographs famous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A misidentification is also possible, especially if Stephen’s later “funny shaped cloud” description reflects his more mature memory of the event. However, the camera evidence as described does not strongly support a natural atmospheric explanation either, because the object’s resemblance to a structured “scout ship” is exactly what made the photographs famous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The extraterrestrial or advanced-craft interpretation is the weakest evidentially. Its main support came from believers who treated resemblance to Adamski’s craft as confirmation. But Adamski’s own claims have been heavily criticised, and modern understanding of UFO photography makes such resemblance more likely to indicate cultural borrowing than independent corroboration. The case therefore illustrates a recurring problem in UFO evidence: the very detail that excites believers can become a source of contamination when the same imagery was already widely available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/george-adamski-ufo-alien-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">george adamski ufo alien photos</span><span class="citation-popover-snippet">george adamski ufo alien photos</span></span></span>
+The extraterrestrial or advanced-craft interpretation is the weakest evidentially. Its main support came from believers who treated resemblance to Adamski’s craft as confirmation. But Adamski’s own claims have been heavily criticised, and modern understanding of UFO photography makes such resemblance more likely to indicate cultural borrowing than independent corroboration. The case therefore illustrates a recurring problem in UFO evidence: the very detail that excites believers can become a source of contamination when the same imagery was already widely available.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/george-adamski-ufo-alien-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">george adamski ufo alien photos</span><span class="citation-popover-snippet">george adamski ufo alien photos</span></span></span>
 
 <img src="{{ "/assets/images/Stephen_Darbishire_p_f80223-Illustration-2-dark.svg" | relative_url }}" alt="Stephen Darbishire photograph 1954 illustration 2" data-theme-src-dark="{{ "/assets/images/Stephen_Darbishire_p_f80223-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Stephen_Darbishire_p_f80223-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official interest and the wider British UFO-file context
 
-The Coniston photographs attracted elite curiosity more than a decisive official investigation. The best-known official-adjacent episode is Stephen and his father’s reported visit to Buckingham Palace, where Sir Peter Horsley, then a senior RAF officer and later an author, met them after Prince Philip had shown interest in the case. Horsley reportedly asked photographic firm Wallace Heaton to examine the negatives; the conclusion, as summarised in later accounts, was not that the pictures were proven genuine, but that if faked they were not obviously crude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Coniston photographs attracted elite curiosity more than a decisive official investigation. The best-known official-adjacent episode is Stephen and his father’s reported visit to Buckingham Palace, where Sir Peter Horsley, then a senior RAF officer and later an author, met them after Prince Philip had shown interest in the case. Horsley reportedly asked photographic firm Wallace Heaton to examine the negatives; the conclusion, as summarised in later accounts, was not that the pictures were proven genuine, but that if faked they were not obviously crude.<span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This should not be confused with a later-style Ministry of Defence case file verdict. The UK’s official UFO record-keeping became much more visible through later releases at The National Archives, whose UFO research guide covers Ministry of Defence and Air Ministry records across DEFE, AIR, FCO and BJ series. The National Archives notes that surviving UFO-related files include policy correspondence, parliamentary business, reports from RAF stations, and later Defence Intelligence Staff material, but the Darbishire case is primarily known through press, UFO literature, private recollections and later historical/sceptical reconstruction rather than a clean official investigative file with preserved negatives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This should not be confused with a later-style Ministry of Defence case file verdict. The UK’s official UFO record-keeping became much more visible through later releases at The National Archives, whose UFO research guide covers Ministry of Defence and Air Ministry records across DEFE, AIR, FCO and BJ series. The National Archives notes that surviving UFO-related files include policy correspondence, parliamentary business, reports from RAF stations, and later Defence Intelligence Staff material, but the Darbishire case is primarily known through press, UFO literature, private recollections and later historical/sceptical reconstruction rather than a clean official investigative file with preserved negatives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The broader official context is still useful. When the final tranche of MoD UFO files was released in 2013, The National Archives described the closure of the UFO desk in 2009 after officials concluded that continued sighting collection served no defence purpose. That later policy does not resolve the 1954 Coniston photographs, but it does frame the difference between public fascination and official evidential thresholds: a strange or famous report was not automatically evidence of a defence threat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The broader official context is still useful. When the final tranche of MoD UFO files was released in 2013, The National Archives described the closure of the UFO desk in 2009 after officials concluded that continued sighting collection served no defence purpose. That later policy does not resolve the 1954 Coniston photographs, but it does frame the difference between public fascination and official evidential thresholds: a strange or famous report was not automatically evidence of a defence threat.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y3gMmthwX2E" title="Weird Norfolk: Norfolk&#x27;s 1954 UFO sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y3gMmthwX2E" target="_blank" rel="noopener noreferrer">Weird Norfolk: Norfolk&#x27;s 1954 UFO sightings</a></p><p class="youtube-embed-meta">Channel: Norfolk Now &middot; Views: 2.5K &middot; Uploaded: May 2018 &middot; Length: 1 minute 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y3gMmthwX2E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y3gMmthwX2E">Open on YouTube</a></p></div></div></div>
 
 ## Why this case still matters in UFO history
 
-The Stephen Darbishire photograph matters because it shows how a UFO case can become important even when the evidence is fragile. The story is memorable because it sits at the intersection of a real landscape, a named child witness, a dramatic media moment, a famous UFO archetype, and the later human cost of being absorbed into a belief movement. Stephen went on to become a recognised Lake District artist, with biographical accounts emphasising his Cumbrian upbringing, artistic training and rural subject matter rather than the UFO episode that followed him from childhood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.therba.org/artist/senior-member/stephen-darbishire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: therba.org">[Royal Society of British Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">therba.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lakeartists.org.uk/stephendarbishire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lakeartists.org.uk">[The Lake Artists Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lakeartists.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Stephen Darbishire photograph matters because it shows how a UFO case can become important even when the evidence is fragile. The story is memorable because it sits at the intersection of a real landscape, a named child witness, a dramatic media moment, a famous UFO archetype, and the later human cost of being absorbed into a belief movement. Stephen went on to become a recognised Lake District artist, with biographical accounts emphasising his Cumbrian upbringing, artistic training and rural subject matter rather than the UFO episode that followed him from childhood.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.therba.org/artist/senior-member/stephen-darbishire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: therba.org">[Royal Society of British Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">therba.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lakeartists.org.uk/stephendarbishire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lakeartists.org.uk">[The Lake Artists Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lakeartists.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-For a case dossier, the key distinction is between cultural significance and evidential strength. Culturally, the Darbishire photographs helped establish a British template for “classic” saucer imagery: rural setting, youthful witness, blurred disc, quick press amplification, and later expert disagreement. Evidentially, the case is far less secure: the original materials are missing, the object is not independently measurable, the imagery strongly resembles a prior UFO photograph, and the supporting witness memory became less rather than more definite over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For a case dossier, the key distinction is between cultural significance and evidential strength. Culturally, the Darbishire photographs helped establish a British template for “classic” saucer imagery: rural setting, youthful witness, blurred disc, quick press amplification, and later expert disagreement. Evidentially, the case is far less secure: the original materials are missing, the object is not independently measurable, the imagery strongly resembles a prior UFO photograph, and the supporting witness memory became less rather than more definite over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The fairest bottom line is therefore neither ridicule nor endorsement. The Coniston photograph is a valuable historical UFO case, not a strong proof case. It belongs with sibling British photographic cases as an example of how images can create belief, controversy and identity long after their technical evidential value has faded.
 
 <img src="{{ "/assets/images/Stephen_Darbishire_p_f80223-Illustration-3-dark.svg" | relative_url }}" alt="Stephen Darbishire photograph 1954 illustration 3" data-theme-src-dark="{{ "/assets/images/Stephen_Darbishire_p_f80223-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Stephen_Darbishire_p_f80223-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened With the 1954 Coniston UFO Photos?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened With the 1954 Coniston UFO Photos?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Provides institutional context on why local sighting reports were treated differently than major national incidents in the 1950s.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides institutional context on why local sighting reports were treated differently than major national incidents in the 1950s.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides an objective case-file entry documenting the Coniston photos, the Adamski cultural influence, and the investigative vacuum.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides an objective case-file entry documenting the Coniston photos, the Adamski cultural influence, and the investigative vacuum.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches forensic methodology to analyze how early blurred photographs were evaluated and misattributed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches forensic methodology to analyze how early blurred photographs were evaluated and misattributed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Addresses why classic photographic evidence, while iconic, requires rigorous modern analysis to exclude hoax explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses why classic photographic evidence, while iconic, requires rigorous modern analysis to exclude hoax explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/bd6934eaba82fb5a9f41.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/bd6934eaba82fb5a9f41.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/12f46aa57a03b419cd19.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/12f46aa57a03b419cd19.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Vehicle Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/515424d9b9f1d48ff309.jpg' | relative_url }}" alt="Listing image for UFO (TV) Vehicle Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Vehicle Scene 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Vehicle Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/515424d9b9f1d48ff309.jpg' | relative_url }}" alt="Listing image for UFO (TV) Vehicle Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Vehicle Scene 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/a5f58c820be9e212e78d.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/a5f58c820be9e212e78d.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="stephen-darbishire-photograph-1954-what-really-happened-with-the-1954-coniston-ufo-photos-ufo-photo-print-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1021,7 +1021,7 @@ The fairest bottom line is therefore neither ridicule nor endorsement. The Conis
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1041,7 +1041,7 @@ The fairest bottom line is therefore neither ridicule nor endorsement. The Conis
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1073,7 +1073,7 @@ The fairest bottom line is therefore neither ridicule nor endorsement. The Conis
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1125,7 +1125,7 @@ The fairest bottom line is therefore neither ridicule nor endorsement. The Conis
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1170,7 +1170,7 @@ The fairest bottom line is therefore neither ridicule nor endorsement. The Conis
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1211,171 +1211,171 @@ The fairest bottom line is therefore neither ridicule nor endorsement. The Conis
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: history.com  
    Title: george adamski ufo alien photos  
-   Link: <a href="https://www.history.com/articles/george-adamski-ufo-alien-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/george-adamski-ufo-alien-photos</a>  
+   Link:<a href="https://www.history.com/articles/george-adamski-ufo-alien-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/george-adamski-ufo-alien-photos</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: stephen-darbishire.com  
-   Link: <a href="https://www.stephen-darbishire.com/index.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.stephen-darbishire.com/index.asp</a>  
+   Link:<a href="https://www.stephen-darbishire.com/index.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.stephen-darbishire.com/index.asp</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: magoniamagazine.blogspot.com  
-   Link: <a href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow">https://magoniamagazine.blogspot.com/2013/12/darbishire.html</a>  
+   Link:<a href="https://magoniamagazine.blogspot.com/2013/12/darbishire.html" target="_blank" rel="noopener noreferrer nofollow">https://magoniamagazine.blogspot.com/2013/12/darbishire.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2009 research guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: therba.org  
-   Link: <a href="https://www.therba.org/artist/senior-member/stephen-darbishire" target="_blank" rel="noopener noreferrer nofollow">https://www.therba.org/artist/senior-member/stephen-darbishire</a>  
+   Link:<a href="https://www.therba.org/artist/senior-member/stephen-darbishire" target="_blank" rel="noopener noreferrer nofollow">https://www.therba.org/artist/senior-member/stephen-darbishire</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: lakeartists.org.uk  
-   Link: <a href="https://www.lakeartists.org.uk/stephendarbishire" target="_blank" rel="noopener noreferrer nofollow">https://www.lakeartists.org.uk/stephendarbishire</a>  
+   Link:<a href="https://www.lakeartists.org.uk/stephendarbishire" target="_blank" rel="noopener noreferrer nofollow">https://www.lakeartists.org.uk/stephendarbishire</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Stephen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stephen</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Stephen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stephen</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: George Adamski  
-   Link: <a href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Adamski</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Adamski</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: UFO photographs  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_photographs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_photographs</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cwherald.com  
    Title: Stephen Darbishire  
-   Link: <a href="https://cwherald.com/obituaries/stephen-darbishire-artist-and-loving-family-man/" target="_blank" rel="noopener noreferrer nofollow">https://cwherald.com/obituaries/stephen-darbishire-artist-and-loving-family-man/</a>  
+   Link:<a href="https://cwherald.com/obituaries/stephen-darbishire-artist-and-loving-family-man/" target="_blank" rel="noopener noreferrer nofollow">https://cwherald.com/obituaries/stephen-darbishire-artist-and-loving-family-man/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: Stephen Darbishire  
-   Link: <a href="https://www.facebook.com/cwherald/posts/stephen-darbishire-artist-and-loving-family-man/1497313102400041/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cwherald/posts/stephen-darbishire-artist-and-loving-family-man/1497313102400041/</a>  
+   Link:<a href="https://www.facebook.com/cwherald/posts/stephen-darbishire-artist-and-loving-family-man/1497313102400041/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cwherald/posts/stephen-darbishire-artist-and-loving-family-man/1497313102400041/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: history.denverlibrary.org  
    Title: man who boarded flying saucer allegedly  
-   Link: <a href="https://history.denverlibrary.org/news/western-history/man-who-boarded-flying-saucer-allegedly" target="_blank" rel="noopener noreferrer nofollow">https://history.denverlibrary.org/news/western-history/man-who-boarded-flying-saucer-allegedly</a>  
+   Link:<a href="https://history.denverlibrary.org/news/western-history/man-who-boarded-flying-saucer-allegedly" target="_blank" rel="noopener noreferrer nofollow">https://history.denverlibrary.org/news/western-history/man-who-boarded-flying-saucer-allegedly</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: history.co.uk  
    Title: 2013 ufo files britain  
-   Link: <a href="https://www.history.co.uk/articles/2013-ufo-files-britain" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/2013-ufo-files-britain</a>  
+   Link:<a href="https://www.history.co.uk/articles/2013-ufo-files-britain" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/2013-ufo-files-britain</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: kids.kiddle.co  
    Title: George Adamski  
-   Link: <a href="https://kids.kiddle.co/George_Adamski" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/George_Adamski</a>  
+   Link:<a href="https://kids.kiddle.co/George_Adamski" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/George_Adamski</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: comparativemedia.columbia.edu  
    Title: UFO Photography  
-   Link: <a href="https://comparativemedia.columbia.edu/sites/default/files/pdfs/UFO_Photography.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comparativemedia.columbia.edu/sites/default/files/pdfs/UFO_Photography.pdf</a>  
+   Link:<a href="https://comparativemedia.columbia.edu/sites/default/files/pdfs/UFO_Photography.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comparativemedia.columbia.edu/sites/default/files/pdfs/UFO_Photography.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: science.howstuffworks.com  
    Title: george adamski  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm</a>  
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: artsy.net  
    Title: Stephen Darbishire  
-   Link: <a href="https://www.artsy.net/artist/stephen-darbishire" target="_blank" rel="noopener noreferrer nofollow">https://www.artsy.net/artist/stephen-darbishire</a>  
+   Link:<a href="https://www.artsy.net/artist/stephen-darbishire" target="_blank" rel="noopener noreferrer nofollow">https://www.artsy.net/artist/stephen-darbishire</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: sarahsamuels.co.uk  
    Title: stephen darbishire  
-   Link: <a href="https://sarahsamuels.co.uk/gallery-artists/stephen-darbishire/" target="_blank" rel="noopener noreferrer nofollow">https://sarahsamuels.co.uk/gallery-artists/stephen-darbishire/</a>  
+   Link:<a href="https://sarahsamuels.co.uk/gallery-artists/stephen-darbishire/" target="_blank" rel="noopener noreferrer nofollow">https://sarahsamuels.co.uk/gallery-artists/stephen-darbishire/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: itv.com  
-   Link: <a href="https://www.itv.com/watch/stephen/10a0537" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/watch/stephen/10a0537</a>  
+   Link:<a href="https://www.itv.com/watch/stephen/10a0537" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/watch/stephen/10a0537</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: The Lossiemouth Incident Part 2: The Author (Paranormal & Mystery)  
-   Link: <a href="https://www.youtube.com/watch?v=_ycVLUrymwg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_ycVLUrymwg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Man From Venus and the Alien Contactee George Adamski...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_ycVLUrymwg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_ycVLUrymwg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Man From Venus and the Alien Contactee George Adamski...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: The Man From Venus and the Alien Contactee George Adamski  
-   Link: <a href="https://www.youtube.com/watch?v=yuRmpG-pJ3s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yuRmpG-pJ3s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate 1950s Flying Saucer, UFO, and Alien Encounter Movies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yuRmpG-pJ3s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yuRmpG-pJ3s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate 1950s Flying Saucer, UFO, and Alien Encounter Movies...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Legendary British Alien Sighting | History's Greatest Mysteries (S6)  
-   Link: <a href="https://www.youtube.com/watch?v=mLqXp90GTX8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mLqXp90GTX8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weird Norfolk: Norfolk&#x27;s 1954 UFO sightings...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mLqXp90GTX8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mLqXp90GTX8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weird Norfolk: Norfolk&#x27;s 1954 UFO sightings...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=y3gMmthwX2E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=y3gMmthwX2E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lossiemouth Incident Part 2: The Author (Paranormal &amp; Mystery)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=y3gMmthwX2E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=y3gMmthwX2E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Lossiemouth Incident Part 2: The Author (Paranormal &amp; Mystery)...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/stock-photo/adamski-ufo.html?blackwhite=1" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/adamski-ufo.html?blackwhite=1</a>  
+   Link:<a href="https://www.alamy.com/stock-photo/adamski-ufo.html?blackwhite=1" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/adamski-ufo.html?blackwhite=1</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: eldritchoculum.com  
-   Link: <a href="https://www.eldritchoculum.com/archive/p/collection-of-10-original-ufo-photographs-4-by-george-adamski" target="_blank" rel="noopener noreferrer nofollow">https://www.eldritchoculum.com/archive/p/collection-of-10-original-ufo-photographs-4-by-george-adamski</a>  
+   Link:<a href="https://www.eldritchoculum.com/archive/p/collection-of-10-original-ufo-photographs-4-by-george-adamski" target="_blank" rel="noopener noreferrer nofollow">https://www.eldritchoculum.com/archive/p/collection-of-10-original-ufo-photographs-4-by-george-adamski</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/ACriticalAppraisalOfGeorgeAdamskiTheManWhoSpokeToTheSpaceBrothers/A%2BCritical%2BAppraisal%2Bof%2BGeorge%2BAdamski%2B-%2BThe%2BMan%2BWho%2BSpoke%2Bto%2Bthe%2BSpace%2BBrothers_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ACriticalAppraisalOfGeorgeAdamskiTheManWhoSpokeToTheSpaceBrothers/A%2BCritical%2BAppraisal%2Bof%2BGeorge%2BAdamski%2B-%2BThe%2BMan%2BWho%2BSpoke%2Bto%2Bthe%2BSpace%2BBrothers_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/ACriticalAppraisalOfGeorgeAdamskiTheManWhoSpokeToTheSpaceBrothers/A%2BCritical%2BAppraisal%2Bof%2BGeorge%2BAdamski%2B-%2BThe%2BMan%2BWho%2BSpoke%2Bto%2Bthe%2BSpace%2BBrothers_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ACriticalAppraisalOfGeorgeAdamskiTheManWhoSpokeToTheSpaceBrothers/A%2BCritical%2BAppraisal%2Bof%2BGeorge%2BAdamski%2B-%2BThe%2BMan%2BWho%2BSpoke%2Bto%2Bthe%2BSpace%2BBrothers_djvu.txt</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: librarything.com  
-   Link: <a href="https://www.librarything.com/character/Lou%2BZinsstag" target="_blank" rel="noopener noreferrer nofollow">https://www.librarything.com/character/Lou%2BZinsstag</a>  
+   Link:<a href="https://www.librarything.com/character/Lou%2BZinsstag" target="_blank" rel="noopener noreferrer nofollow">https://www.librarything.com/character/Lou%2BZinsstag</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DT0N332DNau/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DT0N332DNau/</a>  
+   Link:<a href="https://www.instagram.com/p/DT0N332DNau/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DT0N332DNau/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: stephenking.com  
-   Link: <a href="https://stephenking.com/index.html" target="_blank" rel="noopener noreferrer nofollow">https://stephenking.com/index.html</a>
+   Link:<a href="https://stephenking.com/index.html" target="_blank" rel="noopener noreferrer nofollow">https://stephenking.com/index.html</a>

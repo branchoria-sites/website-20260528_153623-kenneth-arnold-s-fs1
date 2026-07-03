@@ -758,42 +758,42 @@ image: /assets/images/Trans-en-Provence_en_439c97-overview-social.jpg
 
 ## Introduction
 
-The strongest cautious summary is this: something left unusual marks and measurable plant/soil differences at the reported location, but the link between those traces and a landed aerial object rests mainly on one witness’s account. GEPAN treated the case as physically significant, while later sceptical analyses argue that the marks could have been vehicle tyre traces and that GEPAN did not test mundane explanations hard enough. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1981-01-00849" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+The strongest cautious summary is this: something left unusual marks and measurable plant/soil differences at the reported location, but the link between those traces and a landed aerial object rests mainly on one witness’s account. GEPAN treated the case as physically significant, while later sceptical analyses argue that the marks could have been vehicle tyre traces and that GEPAN did not test mundane explanations hard enough.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1981-01-00849" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 <img src="{{ "/assets/images/Trans-en-Provence_en_439c97-overview.webp" | relative_url }}" alt="Overview image for Trans en Provence encounter 1981" loading="eager" decoding="sync" fetchpriority="high">
 ## What Renato Nicolaï said happened
 
-[The witness]({{ 'the-witness-bb3f71/' | relative_url }}), usually named as Renato Nicolaï, reported that at about 5 p.m. he was working outside near his house when a faint whistling sound drew his attention to a grey, disc-like object descending towards a terraced area of his property. The gendarmerie statement preserved in GEPAN’s technical file says he saw no flame or smoke, approached while the object descended, then saw it resting on the ground before it rose, passed over trees and left towards the north-east. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN</span></span></span>
+[The witness]({{ 'the-witness-bb3f71/' | relative_url }}), usually named as Renato Nicolaï, reported that at about 5 p.m. he was working outside near his house when a faint whistling sound drew his attention to a grey, disc-like object descending towards a terraced area of his property. The gendarmerie statement preserved in GEPAN’s technical file says he saw no flame or smoke, approached while the object descended, then saw it resting on the ground before it rose, passed over trees and left towards the north-east.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN</span></span></span>
 
-His description was concrete but not mechanically precise. He compared the object to two inverted plates joined rim to rim, roughly lead-coloured, with a ridge around its circumference and circular structures beneath it that he interpreted as possible “feet” or openings. He later found a roughly circular mark of about two metres in diameter, with areas he described as scraping or skidding marks on the curve. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/Note%20techn16-R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Note techn16 R</span><span class="citation-popover-snippet">Note techn16 R</span></span></span>
+His description was concrete but not mechanically precise. He compared the object to two inverted plates joined rim to rim, roughly lead-coloured, with a ridge around its circumference and circular structures beneath it that he interpreted as possible “feet” or openings. He later found a roughly circular mark of about two metres in diameter, with areas he described as scraping or skidding marks on the curve.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/Note%20techn16-R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Note techn16 R</span><span class="citation-popover-snippet">Note techn16 R</span></span></span>
 
-This is one of the case’s first interpretive problems. The event was reported in daylight and at fairly close range, yet the visual account still depends on a single observer’s memory during a brief, surprising episode. GEPAN itself noted that it found no clear sign of invention, exaggeration or distortion in the witness’s behaviour or successive statements, but also warned that this was not enough to certify the truth of the testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/journees_etudes.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">journees etudes</span><span class="citation-popover-snippet">journees etudes</span></span></span>
+This is one of the case’s first interpretive problems. The event was reported in daylight and at fairly close range, yet the visual account still depends on a single observer’s memory during a brief, surprising episode. GEPAN itself noted that it found no clear sign of invention, exaggeration or distortion in the witness’s behaviour or successive statements, but also warned that this was not enough to certify the truth of the testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/journees_etudes.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">journees etudes</span><span class="citation-popover-snippet">journees etudes</span></span></span>
 
 <img src="{{ "/assets/images/Trans-en-Provence_en_439c97-Illustration-1-dark.svg" | relative_url }}" alt="Trans en Provence encounter 1981 illustration 1" data-theme-src-dark="{{ "/assets/images/Trans-en-Provence_en_439c97-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trans-en-Provence_en_439c97-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the investigation became unusually important
 
-The case did not remain a local anecdote because the authorities responded quickly. GEPAN’s technical note records that the gendarmerie was alerted on 9 January, arrived at about 11:30 a.m., interviewed the witness, took photographs and collected soil samples using the official gendarmerie procedure. GEPAN learned of the case on 12 January and noted that rain had fallen over the weekend, but also that the first samples had already been taken the day after the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/PV%20n%C2%B0351%20%281994310452%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+The case did not remain a local anecdote because the authorities responded quickly. GEPAN’s technical note records that the gendarmerie was alerted on 9 January, arrived at about 11:30 a.m., interviewed the witness, took photographs and collected soil samples using the official gendarmerie procedure. GEPAN learned of the case on 12 January and noted that rain had fallen over the weekend, but also that the first samples had already been taken the day after the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/PV%20n%C2%B0351%20%281994310452%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-That speed gave the file a better evidential starting point than most UFO reports. Instead of relying only on a witness interview, investigators had a claimed physical trace, soil samples, plant samples, photographs, weather checks, and aeronautical enquiries. GEIPAN’s public case page still summarises the event as the observation of an object landing and departing after leaving ground traces, and it links the original technical note, meteorological material, laboratory analyses, photographs and the gendarmerie report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/memoire_JJV_1983.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">memoire JJV 1983</span><span class="citation-popover-snippet">memoire JJV 1983</span></span></span>
+That speed gave the file a better evidential starting point than most UFO reports. Instead of relying only on a witness interview, investigators had a claimed physical trace, soil samples, plant samples, photographs, weather checks, and aeronautical enquiries. GEIPAN’s public case page still summarises the event as the observation of an object landing and departing after leaving ground traces, and it links the original technical note, meteorological material, laboratory analyses, photographs and the gendarmerie report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/memoire_JJV_1983.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">memoire JJV 1983</span><span class="citation-popover-snippet">memoire JJV 1983</span></span></span>
 
-The institutional setting also matters. GEIPAN describes itself as a technical department of CNES that collects, analyses, investigates, publishes and archives unidentified aerospace phenomenon reports; it also states that it does not claim proof of extraterrestrial life and works without speculation or unverified hypotheses. That makes Trans-en-Provence more serious than a tabloid account, but it does not make the official file infallible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20210219111412.csv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">export cas pub 20210219111412.csv</span><span class="citation-popover-snippet">export cas pub 20210219111412.csv</span></span></span>
+The institutional setting also matters. GEIPAN describes itself as a technical department of CNES that collects, analyses, investigates, publishes and archives unidentified aerospace phenomenon reports; it also states that it does not claim proof of extraterrestrial life and works without speculation or unverified hypotheses. That makes Trans-en-Provence more serious than a tabloid account, but it does not make the official file infallible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20210219111412.csv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">export cas pub 20210219111412.csv</span><span class="citation-popover-snippet">export cas pub 20210219111412.csv</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q9sQ2HCiSBE" title="[Today in History] 8 January 1981 – UFO Sighting in Trans-en-Provence, France" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q9sQ2HCiSBE" target="_blank" rel="noopener noreferrer">[Today in History] 8 January 1981 – UFO Sighting in Trans-en-Provence, France</a></p><p class="youtube-embed-meta">Channel: Qrio &middot; Views: 119 &middot; Uploaded: January 2025 &middot; Length: 2 minutes 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q9sQ2HCiSBE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q9sQ2HCiSBE">Open on YouTube</a></p></div></div></div>
 
 ## What the physical traces actually showed
 
-The ground evidence was the centre of the case. GEPAN’s soil-analysis synthesis reported signs of mechanical action: curved striations, compacted earth, a flint apparently cut and polished at the surface, and a contrast between hard crusted material in the marked area and more friable control soil. The same section reported thermal effects, concluding that heating had occurred but had not exceeded 600°C, and it listed possible trace deposits including small quantities of iron or iron oxide, phosphate and zinc. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20251127093552.csv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">export cas pub 20251127093552.csv</span><span class="citation-popover-snippet">export cas pub 20251127093552.csv</span></span></span>
+The ground evidence was the centre of the case. GEPAN’s soil-analysis synthesis reported signs of mechanical action: curved striations, compacted earth, a flint apparently cut and polished at the surface, and a contrast between hard crusted material in the marked area and more friable control soil. The same section reported thermal effects, concluding that heating had occurred but had not exceeded 600°C, and it listed possible trace deposits including small quantities of iron or iron oxide, phosphate and zinc.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20251127093552.csv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">export cas pub 20251127093552.csv</span><span class="citation-popover-snippet">export cas pub 20251127093552.csv</span></span></span>
 
-The plant evidence gave the case much of its later reputation. GEPAN’s conclusion says biochemical analyses covered photosynthesis-related factors, lipids, sugars and amino acids, and found multiple differences between samples near the trace and control samples farther away. The report interpreted these differences as related to distance, but it also stressed that knowledge of plant trauma was too incomplete to give a single precise explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/symposium_san_marino.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+The plant evidence gave the case much of its later reputation. GEPAN’s conclusion says biochemical analyses covered photosynthesis-related factors, lipids, sugars and amino acids, and found multiple differences between samples near the trace and control samples farther away. The report interpreted these differences as related to distance, but it also stressed that knowledge of plant trauma was too incomplete to give a single precise explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/symposium_san_marino.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-This distinction is crucial. The file supports the more modest claim that unusual physical and biochemical differences were recorded in the area. It does not, by itself, prove that a craft landed there. GEPAN’s own final synthesis described a “large-scale event” at the site, but said the possible interpretations of the soil evidence, including shock and friction, were too varied and vague to provide definitive confirmation of the witness’s narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1981-01-00849" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+This distinction is crucial. The file supports the more modest claim that unusual physical and biochemical differences were recorded in the area. It does not, by itself, prove that a craft landed there. GEPAN’s own final synthesis described a “large-scale event” at the site, but said the possible interpretations of the soil evidence, including shock and friction, were too varied and vague to provide definitive confirmation of the witness’s narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1981-01-00849" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 <img src="{{ "/assets/images/Trans-en-Provence_en_439c97-Illustration-2-dark.svg" | relative_url }}" alt="Trans en Provence encounter 1981 illustration 2" data-theme-src-dark="{{ "/assets/images/Trans-en-Provence_en_439c97-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trans-en-Provence_en_439c97-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The official reading: unexplained, not automatically extraterrestrial
 
-GEIPAN’s present public classification lists Trans-en-Provence as category D, with the phenomenon type described as strange to very strange and of medium to strong consistency. In ordinary language, that means the case remained unexplained in the official French archive, not that the archive proved a spacecraft, an alien origin or a specific propulsion system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN</span></span></span>
+GEIPAN’s present public classification lists Trans-en-Provence as category D, with the phenomenon type described as strange to very strange and of medium to strong consistency. In ordinary language, that means the case remained unexplained in the official French archive, not that the archive proved a spacecraft, an alien origin or a specific propulsion system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN</span></span></span>
 
-Some later accounts have treated the case more boldly. A Smithsonian Air & Space Magazine article described it as France’s most famous UFO case and reported that GEIPAN’s investigation concluded a “large-size event had indeed occurred”, with surrounding alfalfa showing abnormally low chlorophyll levels. Britannica similarly presents the case as a durable mystery, noting the two concentric circles, black residue, affected vegetation and the lack of a settled scientific explanation after investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">Smithsonian Magazine Department of Flying Saucers</span><span class="citation-popover-snippet">Smithsonian Magazine Department of Flying Saucers</span></span></span>
+Some later accounts have treated the case more boldly. A Smithsonian Air & Space Magazine article described it as France’s most famous UFO case and reported that GEIPAN’s investigation concluded a “large-size event had indeed occurred”, with surrounding alfalfa showing abnormally low chlorophyll levels. Britannica similarly presents the case as a durable mystery, noting the two concentric circles, black residue, affected vegetation and the lack of a settled scientific explanation after investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">Smithsonian Magazine Department of Flying Saucers</span><span class="citation-popover-snippet">Smithsonian Magazine Department of Flying Saucers</span></span></span>
 
 The careful position sits between dismissal and overclaim. The official record gives the case weight because it preserves early sampling, laboratory work and a named institutional trail. It does not remove the core uncertainty: whether the physical trace was caused by the object described by Nicolaï, by an ordinary ground event later misinterpreted, or by some mixture of real trace evidence and mistaken attribution.
 
@@ -801,18 +801,18 @@ The careful position sits between dismissal and overclaim. The official record g
 
 ## The sceptical challenge: were the marks just vehicle traces?
 
-The most important sceptical argument is not that “nothing happened”. It is that the trace may have had an ordinary cause unrelated to a landed aerial object. David Rossoni, Éric Maillot and Éric Déguillaume argued in Skeptical Inquirer that the gendarmes who examined the site considered the marks consistent with car tyres “peeling out” on part of the property where vehicles had recently operated, and that GEPAN did not adequately pursue this lead. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most important sceptical argument is not that “nothing happened”. It is that the trace may have had an ordinary cause unrelated to a landed aerial object. David Rossoni, Éric Maillot and Éric Déguillaume argued in Skeptical Inquirer that the gendarmes who examined the site considered the marks consistent with car tyres “peeling out” on part of the property where vehicles had recently operated, and that GEPAN did not adequately pursue this lead.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A longer French sceptical chapter on the case presses related points: the ground marks allegedly do not match the object as described, especially the reported underside “feet”; there were variations in the witness’s successive descriptions; visibility and scale estimates were not fully reconstructed; and a nearby military helicopter passage was not, in the sceptics’ view, sufficiently followed up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.zetetique.fr/wp-content/uploads/2019/03/OvniDuCnes_chapitre13.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zetetique.fr">[Observatoire zététique]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zetetique.fr</span><span class="citation-popover-title">Observatoire zététique Microsoft Word</span><span class="citation-popover-snippet">Observatoire zététique Microsoft Word</span></span></span>
+A longer French sceptical chapter on the case presses related points: the ground marks allegedly do not match the object as described, especially the reported underside “feet”; there were variations in the witness’s successive descriptions; visibility and scale estimates were not fully reconstructed; and a nearby military helicopter passage was not, in the sceptics’ view, sufficiently followed up.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.zetetique.fr/wp-content/uploads/2019/03/OvniDuCnes_chapitre13.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zetetique.fr">[Observatoire zététique]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zetetique.fr</span><span class="citation-popover-title">Observatoire zététique Microsoft Word</span><span class="citation-popover-snippet">Observatoire zététique Microsoft Word</span></span></span>
 
 These criticisms do not automatically solve the case. Tyres, tools, barrels, soil disturbance, rain, later contamination and ordinary plant stress would each need to fit the exact timing, sampling pattern and laboratory observations. But the sceptical reading does show why “physical trace” is not the same as “physical proof of a UFO landing”. The decisive missing step is a secure causal chain from trace to observed object.
 
 <img src="{{ "/assets/images/Trans-en-Provence_en_439c97-Illustration-3-dark.svg" | relative_url }}" alt="Trans en Provence encounter 1981 illustration 3" data-theme-src-dark="{{ "/assets/images/Trans-en-Provence_en_439c97-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trans-en-Provence_en_439c97-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How strong is the witness evidence?
 
-Nicolaï’s testimony has several features that make it difficult to dismiss casually. It was reported quickly, given to gendarmes, attached to a visible trace, and did not obviously grow into an elaborate story about occupants, messages or a wider conspiracy. GEPAN’s final assessment found no behavioural or narrative indicators strong enough to make it doubt the witness on grounds of fabrication alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/Note%20techn16-R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Note techn16 R</span><span class="citation-popover-snippet">Note techn16 R</span></span></span>
+Nicolaï’s testimony has several features that make it difficult to dismiss casually. It was reported quickly, given to gendarmes, attached to a visible trace, and did not obviously grow into an elaborate story about occupants, messages or a wider conspiracy. GEPAN’s final assessment found no behavioural or narrative indicators strong enough to make it doubt the witness on grounds of fabrication alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/Note%20techn16-R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Note techn16 R</span><span class="citation-popover-snippet">Note techn16 R</span></span></span>
 
-At the same time, the case had no second direct witness to the object itself. Nicolaï’s wife and neighbours entered the story after the event, when they were shown the trace and advised that the gendarmerie be contacted. That gives corroboration for the existence of a mark, not for the descent, landing, take-off or object shape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/journees_etudes.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">journees etudes</span><span class="citation-popover-snippet">journees etudes</span></span></span>
+At the same time, the case had no second direct witness to the object itself. Nicolaï’s wife and neighbours entered the story after the event, when they were shown the trace and advised that the gendarmerie be contacted. That gives corroboration for the existence of a mark, not for the descent, landing, take-off or object shape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/journees_etudes.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">journees etudes</span><span class="citation-popover-snippet">journees etudes</span></span></span>
 
 The most balanced credibility judgement is therefore mixed: the witness seems neither obviously hoaxing nor independently confirmed. His account is central to the file, but it cannot carry the physical interpretation on its own. The case is compelling precisely because the testimony and trace evidence appear to intersect, and contested because that intersection is not locked down beyond reasonable alternative explanation.
 
@@ -820,201 +820,201 @@ The most balanced credibility judgement is therefore mixed: the witness seems ne
 
 ## What remains genuinely unresolved
 
-Trans-en-Provence endures because both the pro-anomaly and sceptical readings have real material to work with. On the pro-anomaly side, the case has early official involvement, laboratory-tested samples, documented soil changes, plant biochemical anomalies and an official unexplained classification. On the sceptical side, it has a single direct witness, disputed trace morphology, possible vehicle activity, later inconsistencies in descriptive detail, and an official investigation that even its defenders must treat as limited by the methods and assumptions of the early 1980s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/PV%20n%C2%B0351%20%281994310452%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/memoire_JJV_1983.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">memoire JJV 1983</span><span class="citation-popover-snippet">memoire JJV 1983</span></span></span>
+Trans-en-Provence endures because both the pro-anomaly and sceptical readings have real material to work with. On the pro-anomaly side, the case has early official involvement, laboratory-tested samples, documented soil changes, plant biochemical anomalies and an official unexplained classification. On the sceptical side, it has a single direct witness, disputed trace morphology, possible vehicle activity, later inconsistencies in descriptive detail, and an official investigation that even its defenders must treat as limited by the methods and assumptions of the early 1980s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/PV%20n%C2%B0351%20%281994310452%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/memoire_JJV_1983.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">memoire JJV 1983</span><span class="citation-popover-snippet">memoire JJV 1983</span></span></span>
 
 The case should not be reduced to a slogan. “French agency proves UFO landing” is too strong. “It was obviously nothing” is also too strong unless one accepts the tyre-track explanation without resolving the laboratory and chronology questions. The durable lesson is narrower and more useful: Trans-en-Provence is one of the rare UFO cases where the evidential debate turns on physical sampling and investigative procedure rather than only on a witness’s memory.
 
 For readers following the wider case dossier, the natural sibling topics are the GEPAN technical note, the gendarmerie report, the soil and plant analyses, later sceptical re-examinations, and the comparison with other French trace cases such as the Amaranth case. The Trans-en-Provence page itself, however, stands on the central unresolved issue: whether a real but ordinary ground trace was mistakenly linked to a brief aerial sighting, or whether the witness and the physical anomalies recorded the same unexplained event.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened at Trans en Provence?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened at Trans en Provence?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Presents a comprehensive file on the 1981 Trans-en-Provence encounter, summarizing the police report and physical trace evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Presents a comprehensive file on the 1981 Trans-en-Provence encounter, summarizing the police report and physical trace evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Details why extraordinary trace claims require rigorous, independent verification against prosaic rural reality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details why extraordinary trace claims require rigorous, independent verification against prosaic rural reality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches the investigative rigour needed to separate ground traces from common industrial/environmental processes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches the investigative rigour needed to separate ground traces from common industrial/environmental processes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
-        </h4>
-        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+</h4>
+<p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
         
-        <p class="fr-book-desc">Discusses the importance of chain-of-custody in trace analysis and provides frameworks for interpreting reports of physical markers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses the importance of chain-of-custody in trace analysis and provides frameworks for interpreting reports of physical markers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Crash Landing Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8554f33035241ff529d.jpg' | relative_url }}" alt="Listing image for UFO Crash Landing Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">UFO Crash Landing Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo landing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo landing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Crash Landing Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8554f33035241ff529d.jpg' | relative_url }}" alt="Listing image for UFO Crash Landing Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">UFO Crash Landing Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo landing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo landing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Midnight Visitors Poster – UFO Landing Farm Documentary Print"><img src="{{ '/assets/images/marketplace-covers/97c9bd63f39f44eeb336.jpg' | relative_url }}" alt="Listing image for Midnight Visitors Poster – UFO Landing Farm Documentary Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">Midnight Visitors Poster – UFO Landing Farm Documentary Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo landing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo landing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Midnight Visitors Poster – UFO Landing Farm Documentary Print"><img src="{{ '/assets/images/marketplace-covers/97c9bd63f39f44eeb336.jpg' | relative_url }}" alt="Listing image for Midnight Visitors Poster – UFO Landing Farm Documentary Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">Midnight Visitors Poster – UFO Landing Farm Documentary Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo landing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo landing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Landing in Desert Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/11bf148b0e2740369f0b.jpg' | relative_url }}" alt="Listing image for UFO Landing in Desert Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">UFO Landing in Desert Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo landing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo landing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Landing in Desert Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/11bf148b0e2740369f0b.jpg' | relative_url }}" alt="Listing image for UFO Landing in Desert Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">UFO Landing in Desert Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo landing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo landing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military UFO Landing Poster – Desert Base Encounter, Vintage Alien Art"><img src="{{ '/assets/images/marketplace-covers/2a9f29c0e44972812a8f.jpg' | relative_url }}" alt="Listing image for Military UFO Landing Poster – Desert Base Encounter, Vintage Alien Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">Military UFO Landing Poster – Desert Base Encounter, Vintage Alien Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo landing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo landing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military UFO Landing Poster – Desert Base Encounter, Vintage Alien Art"><img src="{{ '/assets/images/marketplace-covers/2a9f29c0e44972812a8f.jpg' | relative_url }}" alt="Listing image for Military UFO Landing Poster – Desert Base Encounter, Vintage Alien Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">Military UFO Landing Poster – Desert Base Encounter, Vintage Alien Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo landing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo landing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="trans-en-provence-encounter-1981-what-really-happened-at-trans-en-provence-ufo-landing-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1030,7 +1030,7 @@ For readers following the wider case dossier, the natural sibling topics are the
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1050,7 +1050,7 @@ For readers following the wider case dossier, the natural sibling topics are the
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1082,7 +1082,7 @@ For readers following the wider case dossier, the natural sibling topics are the
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1134,7 +1134,7 @@ For readers following the wider case dossier, the natural sibling topics are the
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1179,7 +1179,7 @@ For readers following the wider case dossier, the natural sibling topics are the
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1220,125 +1220,125 @@ For readers following the wider case dossier, the natural sibling topics are the
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/fr/cas/1981-01-00849" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1981-01-00849</a>  
+   Link:<a href="https://www.cnes-geipan.fr/fr/cas/1981-01-00849" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1981-01-00849</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cnes-geipan.fr  
    Title: Mission & Geipan | GEIPAN  
-   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cnes-geipan.fr  
    Title: Note techn16 R  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/Note%20techn16-R.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Note%20techn16-R.pdf</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/Note%20techn16-R.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Note%20techn16-R.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/today-in-history/January-8-UFO-Sighting-at-Trans-en-Provence-France" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/today-in-history/January-8-UFO-Sighting-at-Trans-en-Provence-France</a>  
+   Link:<a href="https://www.britannica.com/today-in-history/January-8-UFO-Sighting-at-Trans-en-Provence-France" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/today-in-history/January-8-UFO-Sighting-at-Trans-en-Provence-France</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cnes-geipan.fr  
    Title: journees etudes  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/journees_etudes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/journees_etudes.pdf</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/journees_etudes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/journees_etudes.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/PV%20n%C2%B0351%20%281994310452%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/PV%20n%C2%B0351%20%281994310452%29.pdf</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/PV%20n%C2%B0351%20%281994310452%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/PV%20n%C2%B0351%20%281994310452%29.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cnes-geipan.fr  
    Title: memoire JJV 1983  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/memoire_JJV_1983.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/memoire_JJV_1983.pdf</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/memoire_JJV_1983.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/memoire_JJV_1983.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cnes-geipan.fr  
    Title: export cas pub 20210219111412.csv  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20210219111412.csv" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20210219111412.csv</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20210219111412.csv" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20210219111412.csv</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cnes-geipan.fr  
    Title: export cas pub 20251127093552.csv  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20251127093552.csv" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20251127093552.csv</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20251127093552.csv" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20251127093552.csv</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/symposium_san_marino.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/symposium_san_marino.pdf</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/symposium_san_marino.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/symposium_san_marino.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cnes.fr  
-   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
+   Link:<a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: smithsonianmag.com  
    Title: Smithsonian Magazine Department of Flying Saucers  
-   Link: <a href="https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/</a>  
+   Link:<a href="https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: zetetique.fr  
    Title: Observatoire zététique Microsoft Word  
-   Link: <a href="https://www.zetetique.fr/wp-content/uploads/2019/03/OvniDuCnes_chapitre13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.zetetique.fr/wp-content/uploads/2019/03/OvniDuCnes_chapitre13.pdf</a>  
+   Link:<a href="https://www.zetetique.fr/wp-content/uploads/2019/03/OvniDuCnes_chapitre13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.zetetique.fr/wp-content/uploads/2019/03/OvniDuCnes_chapitre13.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/PDFs/pdfs/gepan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/gepan.pdf</a>  
+   Link:<a href="https://cufos.org/PDFs/pdfs/gepan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/gepan.pdf</a>  
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Mystères: OVNI à Trans-en-Provence! Avec Rudy & @mikealdebaran  
-   Link: <a href="https://www.youtube.com/watch?v=JKSrYT9vNv4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JKSrYT9vNv4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>REACT MYSTÈRES #1 - Ovni, Dame blanche et Brocéliande! (Best-of Twitch)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JKSrYT9vNv4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JKSrYT9vNv4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>REACT MYSTÈRES #1 - Ovni, Dame blanche et Brocéliande! (Best-of Twitch)...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=q9sQ2HCiSBE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q9sQ2HCiSBE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MYSTÈRES - ÉMISSION 02 - 12 octobre 1992...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=q9sQ2HCiSBE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q9sQ2HCiSBE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MYSTÈRES - ÉMISSION 02 - 12 octobre 1992...</p></details>
    Published: January 1981  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QiJKIOCZDPg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QiJKIOCZDPg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OVNI à Trans-en-Provence! Avec Rudy &amp; @mikealdebaran...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QiJKIOCZDPg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QiJKIOCZDPg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OVNI à Trans-en-Provence! Avec Rudy &amp; @mikealdebaran...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/398792495_Are_Humans_Alone_in_the_Cosmos" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398792495_Are_Humans_Alone_in_the_Cosmos</a>  
+   Link:<a href="https://www.researchgate.net/publication/398792495_Are_Humans_Alone_in_the_Cosmos" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398792495_Are_Humans_Alone_in_the_Cosmos</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/224791605_Physical_Evidence_Related_to_UFO_Reports_The_Proceedings_of_a_Workshop_Held_at_the_Pocantico_Conference_Center_Tarrytown_New_York_September_29_-_October_4_1997" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/224791605_Physical_Evidence_Related_to_UFO_Reports_The_Proceedings_of_a_Workshop_Held_at_the_Pocantico_Conference_Center_Tarrytown_New_York_September_29_-_October_4_1997</a>  
+   Link:<a href="https://www.researchgate.net/publication/224791605_Physical_Evidence_Related_to_UFO_Reports_The_Proceedings_of_a_Workshop_Held_at_the_Pocantico_Conference_Center_Tarrytown_New_York_September_29_-_October" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/224791605_Physical_Evidence_Related_to_UFO_Reports_The_Proceedings_of_a_Workshop_Held_at_the_Pocantico_Conference_Center_Tarrytown_New_York_September_29_-_October</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/viewFile/838/563" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/viewFile/838/563</a>  
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/viewFile/838/563" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/viewFile/838/563</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Physical-Evidence-Related-to-UFO-Reports%3A-The-of-a-Sturrock-Eshleman/2ce5c32c3f5ab0967f8bd49669625277568d8792" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Physical-Evidence-Related-to-UFO-Reports%3A-The-of-a-Sturrock-Eshleman/2ce5c32c3f5ab0967f8bd49669625277568d8792</a>  
+   Link:<a href="https://www.semanticscholar.org/paper/Physical-Evidence-Related-to-UFO-Reports%3A-The-of-a-Sturrock-Eshleman/2ce5c32c3f5ab0967f8bd49669625277568d8792" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Physical-Evidence-Related-to-UFO-Reports%3A-The-of-a-Sturrock-Eshleman/2ce5c32c3f5ab0967f8bd49669625277568d8792</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html</a>  
+   Link:<a href="https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/tvmoviesseries.ntgroup/posts/3218853144962650/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/tvmoviesseries.ntgroup/posts/3218853144962650/</a>
+   Link:<a href="https://www.facebook.com/groups/tvmoviesseries.ntgroup/posts/3218853144962650/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/tvmoviesseries.ntgroup/posts/3218853144962650/</a>

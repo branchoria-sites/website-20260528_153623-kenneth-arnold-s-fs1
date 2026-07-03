@@ -758,275 +758,275 @@ image: /assets/images/Lakenheath_episode_1_bf5257-overview-social.jpg
 
 ## Introduction
 
-The most cautious reading is this: the Lakenheath episode remains a serious radar-visual case, but not proof of extraterrestrial craft. The strongest historical assessments found it difficult to explain the central Lakenheath radar chase as meteors, ordinary aircraft, or simple radar malfunction; later research, however, weakened the classic version by locating aircrew whose memories did not match the dramatic “tail chase” account. The result is a case best understood as unresolved rather than decisively debunked or confirmed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/laken.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Lakenheath Case</span><span class="citation-popover-snippet">The Lakenheath Case</span></span></span>
+The most cautious reading is this: the Lakenheath episode remains a serious radar-visual case, but not proof of extraterrestrial craft. The strongest historical assessments found it difficult to explain the central Lakenheath radar chase as meteors, ordinary aircraft, or simple radar malfunction; later research, however, weakened the classic version by locating aircrew whose memories did not match the dramatic “tail chase” account. The result is a case best understood as unresolved rather than decisively debunked or confirmed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/laken.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Lakenheath Case</span><span class="citation-popover-snippet">The Lakenheath Case</span></span></span>
 
 <img src="{{ "/assets/images/Lakenheath_episode_1_bf5257-overview.webp" | relative_url }}" alt="Overview image for Lakenheath episode 1956" loading="eager" decoding="sync" fetchpriority="high">
 ## What happened over East Anglia that night?
 
-The case began at RAF Bentwaters, a Royal Air Force base then used by the United States Air Force, on the evening of 13 August 1956. In the Project Blue Book and later Condon Report material, the early phase involved several unusual radar returns observed by the Bentwaters Ground Controlled Approach unit before Lakenheath became the focus. Gordon D. Thayer, who later analysed the case, described the Blue Book file as “very large” and “confusing”, but identified at least three separate Bentwaters radar episodes before the call to Lakenheath. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/560813bentwaters_report.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+The case began at RAF Bentwaters, a Royal Air Force base then used by the United States Air Force, on the evening of 13 August 1956. In the Project Blue Book and later Condon Report material, the early phase involved several unusual radar returns observed by the Bentwaters Ground Controlled Approach unit before Lakenheath became the focus. Gordon D. Thayer, who later analysed the case, described the Blue Book file as “very large” and “confusing”, but identified at least three separate Bentwaters radar episodes before the call to Lakenheath.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/560813bentwaters_report.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
-The first reported Bentwaters return was timed at about 21:30 GMT. It was described as an aircraft-like radar target crossing the scope at extremely high apparent speed. A few minutes later, operators reportedly saw a group of 12 to 15 returns moving north-east, merging into a much stronger echo, pausing, moving again, and finally leaving radar range. A third return around 22:00 was also reported at very high speed. The figures in the surviving reports vary and include speeds far beyond known aircraft capability, which is one reason analysts have treated the radar interpretation with caution rather than simply accepting the numbers at face value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+The first reported Bentwaters return was timed at about 21:30 GMT. It was described as an aircraft-like radar target crossing the scope at extremely high apparent speed. A few minutes later, operators reportedly saw a group of 12 to 15 returns moving north-east, merging into a much stronger echo, pausing, moving again, and finally leaving radar range. A third return around 22:00 was also reported at very high speed. The figures in the surviving reports vary and include speeds far beyond known aircraft capability, which is one reason analysts have treated the radar interpretation with caution rather than simply accepting the numbers at face value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
-The more famous part of the episode began after Bentwaters alerted Lakenheath, about 40 miles to the north-west. According to the standard account, Bentwaters radar detected a fast east-to-west target at about 22:55 GMT; at roughly the same time, a bright light was reportedly seen from the Bentwaters control tower, and a C-47 pilot over the base reported a bright light passing beneath his aircraft. Lakenheath personnel were then asked to watch for unusual targets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/laken.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Lakenheath Case</span><span class="citation-popover-snippet">The Lakenheath Case</span></span></span>
+The more famous part of the episode began after Bentwaters alerted Lakenheath, about 40 miles to the north-west. According to the standard account, Bentwaters radar detected a fast east-to-west target at about 22:55 GMT; at roughly the same time, a bright light was reportedly seen from the Bentwaters control tower, and a C-47 pilot over the base reported a bright light passing beneath his aircraft. Lakenheath personnel were then asked to watch for unusual targets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/laken.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Lakenheath Case</span><span class="citation-popover-snippet">The Lakenheath Case</span></span></span>
 
-At Lakenheath, radar operators reportedly detected a stationary return 20 to 25 miles south-west of the base. The return was said to have been confirmed by another Lakenheath radar, then to have moved abruptly north-north-east at several hundred miles per hour, stopped, changed direction, and repeated a pattern of straight-line movements and stationary pauses. This “stop-and-go” behaviour became the central puzzle in later analysis because it was harder to fit to a single meteor, an ordinary aircraft, or a simple moving false return. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/560813bentwaters_report.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+At Lakenheath, radar operators reportedly detected a stationary return 20 to 25 miles south-west of the base. The return was said to have been confirmed by another Lakenheath radar, then to have moved abruptly north-north-east at several hundred miles per hour, stopped, changed direction, and repeated a pattern of straight-line movements and stationary pauses. This “stop-and-go” behaviour became the central puzzle in later analysis because it was harder to fit to a single meteor, an ordinary aircraft, or a simple moving false return.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/560813bentwaters_report.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
 ## Why the Venom interception became the core of the case
 
-The episode’s reputation rests mainly on the alleged interception by RAF Venom night-fighters. In the classic account, a Venom was vectored towards a stationary radar target near Lakenheath. The pilot reportedly acquired a radar lock, then the target was said to have moved behind the aircraft. Ground radar allegedly showed the unknown return following the fighter while the pilot tried to shake it off. After about ten minutes, the pilot returned to base, reportedly low on fuel and shaken by the encounter. A second Venom was also sent, but had to turn back because of engine trouble. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+The episode’s reputation rests mainly on the alleged interception by RAF Venom night-fighters. In the classic account, a Venom was vectored towards a stationary radar target near Lakenheath. The pilot reportedly acquired a radar lock, then the target was said to have moved behind the aircraft. Ground radar allegedly showed the unknown return following the fighter while the pilot tried to shake it off. After about ten minutes, the pilot returned to base, reportedly low on fuel and shaken by the encounter. A second Venom was also sent, but had to turn back because of engine trouble.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
-The most quoted dramatic exchange comes from the later account of Technical Sergeant Forrest Perkins, the Lakenheath radar watch supervisor, who wrote to the University of Colorado UFO study in 1968. Thayer considered Perkins’s account unusually coherent and noted that, apart from some discrepancies, it matched important parts of the Blue Book material. Perkins’s version included the claim that the Venom pilot had locked on to a solid radar target and later said the object had got behind him despite his manoeuvres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+The most quoted dramatic exchange comes from the later account of Technical Sergeant Forrest Perkins, the Lakenheath radar watch supervisor, who wrote to the University of Colorado UFO study in 1968. Thayer considered Perkins’s account unusually coherent and noted that, apart from some discrepancies, it matched important parts of the Blue Book material. Perkins’s version included the claim that the Venom pilot had locked on to a solid radar target and later said the object had got behind him despite his manoeuvres.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
-This is also where the case becomes fragile. The strongest claim depends not only on radar returns but on reconstructing hurried radio communications, radar displays, aircrew actions, and timing across several bases. The surviving American records, the Perkins letter, later witness accounts, and later British interviews do not line up perfectly. The case is therefore not a simple “many witnesses all saw the same craft” story; it is a layered record in which the most compelling part is also the part most vulnerable to confusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+This is also where the case becomes fragile. The strongest claim depends not only on radar returns but on reconstructing hurried radio communications, radar displays, aircrew actions, and timing across several bases. The surviving American records, the Perkins letter, later witness accounts, and later British interviews do not line up perfectly. The case is therefore not a simple “many witnesses all saw the same craft” story; it is a layered record in which the most compelling part is also the part most vulnerable to confusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
 <img src="{{ "/assets/images/Lakenheath_episode_1_bf5257-Illustration-1-dark.svg" | relative_url }}" alt="Lakenheath episode 1956 illustration 1" data-theme-src-dark="{{ "/assets/images/Lakenheath_episode_1_bf5257-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lakenheath_episode_1_bf5257-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the official records can and cannot prove
 
-Project Blue Book was the United States Air Force’s long-running UFO investigation programme. Its records were later retired to the US National Archives, where Blue Book case files are described as declassified and available for research. The National Archives summary says Blue Book received 12,618 reports between 1947 and 1969, of which 701 remained “Unidentified”; it also records the Air Force’s official conclusion that no investigated UFO report showed a national-security threat, evidence of technology beyond known science, or evidence of extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Project Blue Book was the United States Air Force’s long-running UFO investigation programme. Its records were later retired to the US National Archives, where Blue Book case files are described as declassified and available for research. The National Archives summary says Blue Book received 12,618 reports between 1947 and 1969, of which 701 remained “Unidentified”; it also records the Air Force’s official conclusion that no investigated UFO report showed a national-security threat, evidence of technology beyond known science, or evidence of extraterrestrial vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That broader Blue Book conclusion is important, but it does not make the Lakenheath episode vanish. Lakenheath was not one of the easiest cases to explain, and later analysts repeatedly treated it as unusually difficult. NICAP’s case directory, drawing on Project Blue Book documents, lists 44 related documents for the Bentwaters/Lakenheath case and calls it one of the most important events in the Blue Book files, while noting that it was not listed among the official “unknowns”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+That broader Blue Book conclusion is important, but it does not make the Lakenheath episode vanish. Lakenheath was not one of the easiest cases to explain, and later analysts repeatedly treated it as unusually difficult. NICAP’s case directory, drawing on Project Blue Book documents, lists 44 related documents for the Bentwaters/Lakenheath case and calls it one of the most important events in the Blue Book files, while noting that it was not listed among the official “unknowns”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
-The problem is that the British side of the documentary record appears much thinner. Later case summaries and research accounts indicate that British Air Ministry or RAF records were not preserved in a complete form, leaving researchers heavily dependent on American files, Condon-era material, press-driven witness recovery, and retrospective interviews. That uneven survival of records is one reason the case still produces competing reconstructions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/90805219/RAF_Bentwaters_Lakenheath_Air_visual_Radar_UFO_Observation_13_14_August_1956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) RAF Bentwaters/Lakenheath, Air-visual/Radar UFO</span><span class="citation-popover-snippet">PDF) RAF Bentwaters/Lakenheath, Air-visual/Radar UFO</span></span></span>
+The problem is that the British side of the documentary record appears much thinner. Later case summaries and research accounts indicate that British Air Ministry or RAF records were not preserved in a complete form, leaving researchers heavily dependent on American files, Condon-era material, press-driven witness recovery, and retrospective interviews. That uneven survival of records is one reason the case still produces competing reconstructions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/90805219/RAF_Bentwaters_Lakenheath_Air_visual_Radar_UFO_Observation_13_14_August_1956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) RAF Bentwaters/Lakenheath, Air-visual/Radar UFO</span><span class="citation-popover-snippet">PDF) RAF Bentwaters/Lakenheath, Air-visual/Radar UFO</span></span></span>
 
 ## Why the Condon Report treated Lakenheath as exceptional
 
-The University of Colorado UFO study, commonly called the Condon Report after physicist Edward Condon, was commissioned by the US Air Force in the 1960s. Its overall conclusion was sceptical: CU Boulder’s own retrospective summary states that the report officially concluded UFOs did not warrant further investigation. Yet Lakenheath stood out inside that larger sceptical framework. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colorado.edu">[University of Colorado Boulder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colorado.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The University of Colorado UFO study, commonly called the Condon Report after physicist Edward Condon, was commissioned by the US Air Force in the 1960s. Its overall conclusion was sceptical: CU Boulder’s own retrospective summary states that the report officially concluded UFOs did not warrant further investigation. Yet Lakenheath stood out inside that larger sceptical framework.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colorado.edu">[University of Colorado Boulder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colorado.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Thayer’s published analysis called the Lakenheath case one of the most puzzling radar-visual cases in the files. He argued that meteors were unlikely to explain the main events, that visual mirage was ruled out by the reported geometry and movement, and that anomalous propagation — unusual bending or reflection of radar waves in the atmosphere — might explain some Bentwaters returns but was hard to apply to the Lakenheath stop-start movements seen on more than one radar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+Thayer’s published analysis called the Lakenheath case one of the most puzzling radar-visual cases in the files. He argued that meteors were unlikely to explain the main events, that visual mirage was ruled out by the reported geometry and movement, and that anomalous propagation — unusual bending or reflection of radar waves in the atmosphere — might explain some Bentwaters returns but was hard to apply to the Lakenheath stop-start movements seen on more than one radar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
-The Condon-linked judgement often quoted in UFO literature is striking but easily overread. Thayer wrote that conventional or natural explanations could not be ruled out, but seemed to have low probability in this case, and that “at least one genuine UFO” appeared fairly likely. He later clarified that “genuine UFO” meant an unidentified flying object in the literal sense: a material object moving through the air that had not been identified, not necessarily an extraterrestrial spacecraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+The Condon-linked judgement often quoted in UFO literature is striking but easily overread. Thayer wrote that conventional or natural explanations could not be ruled out, but seemed to have low probability in this case, and that “at least one genuine UFO” appeared fairly likely. He later clarified that “genuine UFO” meant an unidentified flying object in the literal sense: a material object moving through the air that had not been identified, not necessarily an extraterrestrial spacecraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
-That distinction matters. The strongest official-era pro-UFO reading did not prove alien origin; it argued that the best available conventional explanations did not satisfactorily account for the most coherent version of the radar-visual evidence. In other words, the Condon-era Lakenheath finding was an anomaly claim, not an alien-contact claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+That distinction matters. The strongest official-era pro-UFO reading did not prove alien origin; it argued that the best available conventional explanations did not satisfactorily account for the most coherent version of the radar-visual evidence. In other words, the Condon-era Lakenheath finding was an anomaly claim, not an alien-contact claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1NYCy6YFLp8" title="Top 10 Concerning UFO Evidence The Pentagon Is Hiding From Us - Part 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1NYCy6YFLp8" target="_blank" rel="noopener noreferrer">Top 10 Concerning UFO Evidence The Pentagon Is Hiding From Us - Part 3</a></p><p class="youtube-embed-meta">Channel: MostAmazingTop10 &middot; Views: 44.3K &middot; Uploaded: January 2023 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1NYCy6YFLp8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1NYCy6YFLp8">Open on YouTube</a></p></div></div></div>
 
 ## The main sceptical explanations
 
-The Lakenheath episode has attracted several sceptical explanations, none of which is trivial. The first is anomalous propagation, often shortened to AP. Radar can sometimes show false targets when atmospheric layers bend or reflect radar signals. Thayer himself accepted that one Bentwaters episode had features suggestive of AP, especially the disappearance and reappearance of a return near the radar station. But he argued that the reported movement against prevailing winds, the visual confirmations, and the Lakenheath multi-radar behaviour made AP an inadequate overall explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+The Lakenheath episode has attracted several sceptical explanations, none of which is trivial. The first is anomalous propagation, often shortened to AP. Radar can sometimes show false targets when atmospheric layers bend or reflect radar signals. Thayer himself accepted that one Bentwaters episode had features suggestive of AP, especially the disappearance and reappearance of a return near the radar station. But he argued that the reported movement against prevailing winds, the visual confirmations, and the Lakenheath multi-radar behaviour made AP an inadequate overall explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
-A second explanation is radar malfunction, particularly a possible fault in Lakenheath’s Moving Target Indicator system. Philip J. Klass, a prominent sceptical UFO analyst, argued that if the radar evidence could be explained by equipment malfunction, the remaining reports could be attributed to confusion or conventional causes. Thayer acknowledged that a faulty system could theoretically create some false behaviour, but argued that confirmation by another ground radar and later airborne radar made simple malfunction difficult to sustain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+A second explanation is radar malfunction, particularly a possible fault in Lakenheath’s Moving Target Indicator system. Philip J. Klass, a prominent sceptical UFO analyst, argued that if the radar evidence could be explained by equipment malfunction, the remaining reports could be attributed to confusion or conventional causes. Thayer acknowledged that a faulty system could theoretically create some false behaviour, but argued that confirmation by another ground radar and later airborne radar made simple malfunction difficult to sustain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
-A third explanation is meteors, especially because the episode occurred during the Perseid meteor period. That explanation may fit some visual reports of fast lights, but it struggles with reports of stationary radar returns, repeated course changes, and an alleged aircraft-tail chase. J. Allen Hynek, then the Air Force’s astronomy consultant on UFO cases, was quoted by Thayer as finding the meteor explanation highly unlikely if the reported manoeuvres were given credence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+A third explanation is meteors, especially because the episode occurred during the Perseid meteor period. That explanation may fit some visual reports of fast lights, but it struggles with reports of stationary radar returns, repeated course changes, and an alleged aircraft-tail chase. J. Allen Hynek, then the Air Force’s astronomy consultant on UFO cases, was quoted by Thayer as finding the meteor explanation highly unlikely if the reported manoeuvres were given credence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
-A fourth, more modern possibility is radar deception or spoofing. Later summaries of research by David Clarke and colleagues suggest that, if the recovered aircrew accounts are accepted and visual contact is removed from the strongest phase, deliberate radar spoofing or electronic-warfare testing becomes a plausible possibility. That idea fits the Cold War military setting better than the older “flying saucer” framing, but public evidence for a specific spoofing test at Lakenheath remains incomplete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lakenheath-Bentwaters incident</span><span class="citation-popover-snippet">Lakenheath-Bentwaters incident</span></span></span>
+A fourth, more modern possibility is radar deception or spoofing. Later summaries of research by David Clarke and colleagues suggest that, if the recovered aircrew accounts are accepted and visual contact is removed from the strongest phase, deliberate radar spoofing or electronic-warfare testing becomes a plausible possibility. That idea fits the Cold War military setting better than the older “flying saucer” framing, but public evidence for a specific spoofing test at Lakenheath remains incomplete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lakenheath-Bentwaters incident</span><span class="citation-popover-snippet">Lakenheath-Bentwaters incident</span></span></span>
 
 ## Later witness research complicated the classic story
 
-For many years, the case depended heavily on Blue Book files, the Perkins account, and the Condon analysis. Later British researchers — including David Clarke, Andy Roberts, Jenny Randles and Martin Shough — revisited the case and located people connected to the RAF side. Their work made the case more historically interesting but less tidy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/Incidente_di_Lakenheath-Bentwaters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente di Lakenheath-Bentwaters</span><span class="citation-popover-snippet">Incidente di Lakenheath-Bentwaters</span></span></span>
+For many years, the case depended heavily on Blue Book files, the Perkins account, and the Condon analysis. Later British researchers — including David Clarke, Andy Roberts, Jenny Randles and Martin Shough — revisited the case and located people connected to the RAF side. Their work made the case more historically interesting but less tidy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/Incidente_di_Lakenheath-Bentwaters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente di Lakenheath-Bentwaters</span><span class="citation-popover-snippet">Incidente di Lakenheath-Bentwaters</span></span></span>
 
-The biggest complication is that aircrew later identified as involved in the interceptions did not clearly confirm the dramatic version. Searchable summaries of the later research state that Flying Officers David Chambers and John Brady, and Ian Fraser-Ker and Ivan Logan, were traced and interviewed; their recollections placed the scrambles later than the classic Perkins/Wimbledon timing and described the radar contacts as unimpressive, with no clear visual contact and no confirmed tail chase. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">RAF Bentwaters</span><span class="citation-popover-snippet">RAF Bentwaters</span></span></span>
+The biggest complication is that aircrew later identified as involved in the interceptions did not clearly confirm the dramatic version. Searchable summaries of the later research state that Flying Officers David Chambers and John Brady, and Ian Fraser-Ker and Ivan Logan, were traced and interviewed; their recollections placed the scrambles later than the classic Perkins/Wimbledon timing and described the radar contacts as unimpressive, with no clear visual contact and no confirmed tail chase.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">RAF Bentwaters</span><span class="citation-popover-snippet">RAF Bentwaters</span></span></span>
 
-That does not automatically debunk Perkins. Memory after decades can fail, and different aircraft may have been involved in different phases. The later research also introduced additional complexity, including Grahame Scofield’s recollection of overheard radio traffic and the possibility that Wing Commander A. N. Davis was involved in an interception closer to the time described by Perkins and Wimbledon. But it does mean the cleanest popular version — one Venom, one locked-on object, one ten-minute chase, all neatly confirmed — is too simple. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
+That does not automatically debunk Perkins. Memory after decades can fail, and different aircraft may have been involved in different phases. The later research also introduced additional complexity, including Grahame Scofield’s recollection of overheard radio traffic and the possibility that Wing Commander A. N. Davis was involved in an interception closer to the time described by Perkins and Wimbledon. But it does mean the cleanest popular version — one Venom, one locked-on object, one ten-minute chase, all neatly confirmed — is too simple.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
 
-This is the key historical tension. The documentary trail and Condon-era analysis make Lakenheath harder to dismiss than many UFO stories. The later witness recovery makes it harder to present as a single coherent encounter. The case is strongest when described as a messy cluster of radar and visual reports, not as a cinematic dogfight with a confirmed unknown craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+This is the key historical tension. The documentary trail and Condon-era analysis make Lakenheath harder to dismiss than many UFO stories. The later witness recovery makes it harder to present as a single coherent encounter. The case is strongest when described as a messy cluster of radar and visual reports, not as a cinematic dogfight with a confirmed unknown craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mLqXp90GTX8" title="Legendary British Alien Sighting | History&#x27;s Greatest Mysteries (S6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mLqXp90GTX8" target="_blank" rel="noopener noreferrer">Legendary British Alien Sighting | History&#x27;s Greatest Mysteries (S6)</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 40.2K &middot; Uploaded: March 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mLqXp90GTX8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mLqXp90GTX8">Open on YouTube</a></p></div></div></div>
 
 ## How credible is the evidence?
 
-The best evidence for the Lakenheath episode is not one spectacular claim but the overlap of several imperfect strands. There were official US Air Force files; there was a later Condon investigation; there were radar operators at more than one site; there were reports of visual lights; there were interceptor scrambles; and the case drew serious attention from analysts who were not generally inclined to accept every UFO report uncritically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> NICAP The weaknesses are just as important. Radar returns are not objects by themselves <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/laken.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Lakenheath Case</span><span class="citation-popover-snippet">The Lakenheath Case</span></span></span>; they are instrument indications that can be affected by propagation, interference, equipment faults, operator interpretation and display limitations. The most dramatic air-intercept testimony was not preserved as an immediate, signed, first-person pilot statement in the way a modern investigator would want. Later aircrew recollections diverged from the classic account, and the British documentary record is incomplete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+The best evidence for the Lakenheath episode is not one spectacular claim but the overlap of several imperfect strands. There were official US Air Force files; there was a later Condon investigation; there were radar operators at more than one site; there were reports of visual lights; there were interceptor scrambles; and the case drew serious attention from analysts who were not generally inclined to accept every UFO report uncritically.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> NICAP The weaknesses are just as important. Radar returns are not objects by themselves<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/laken.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Lakenheath Case</span><span class="citation-popover-snippet">The Lakenheath Case</span></span></span>; they are instrument indications that can be affected by propagation, interference, equipment faults, operator interpretation and display limitations. The most dramatic air-intercept testimony was not preserved as an immediate, signed, first-person pilot statement in the way a modern investigator would want. Later aircrew recollections diverged from the classic account, and the British documentary record is incomplete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
-The strongest narrow claim is that something unusual was reported and investigated across RAF Bentwaters and RAF Lakenheath on 13–14 August 1956, and that the surviving evidence was strong enough for a Condon Report specialist to treat the Lakenheath portion as unusually resistant to ordinary explanations. The weakest popular claim is that the episode proves an extraterrestrial vehicle was tracked and chased by RAF fighters. The sources do not support that level of certainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+The strongest narrow claim is that something unusual was reported and investigated across RAF Bentwaters and RAF Lakenheath on 13–14 August 1956, and that the surviving evidence was strong enough for a Condon Report specialist to treat the Lakenheath portion as unusually resistant to ordinary explanations. The weakest popular claim is that the episode proves an extraterrestrial vehicle was tracked and chased by RAF fighters. The sources do not support that level of certainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
 ## What remains unresolved
 
-The Lakenheath episode remains unresolved because each explanatory path leaves residue. Meteors may explain some lights but not the full radar narrative. Anomalous propagation may explain some radar returns but struggles with the alleged multi-radar stop-and-go Lakenheath behaviour as described by Perkins and Thayer. Radar malfunction may explain a subset of odd returns but becomes harder if independent radar confirmations are accepted. Radar spoofing fits the Cold War setting and later sceptical reconstruction, but lacks a publicly documented test programme tied specifically to the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+The Lakenheath episode remains unresolved because each explanatory path leaves residue. Meteors may explain some lights but not the full radar narrative. Anomalous propagation may explain some radar returns but struggles with the alleged multi-radar stop-and-go Lakenheath behaviour as described by Perkins and Thayer. Radar malfunction may explain a subset of odd returns but becomes harder if independent radar confirmations are accepted. Radar spoofing fits the Cold War setting and later sceptical reconstruction, but lacks a publicly documented test programme tied specifically to the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
-The case also shows why the phrase “radar-visual UFO” can be misleading. A radar return and a visual light may occur in the same broad episode without proving they are the same object. A fighter may be scrambled towards a radar target without the crew seeing anything extraordinary. A later witness may honestly remember a dramatic radio exchange while the matching operational record remains ambiguous. The Lakenheath episode sits precisely in those gaps. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+The case also shows why the phrase “radar-visual UFO” can be misleading. A radar return and a visual light may occur in the same broad episode without proving they are the same object. A fighter may be scrambled towards a radar target without the crew seeing anything extraordinary. A later witness may honestly remember a dramatic radio exchange while the matching operational record remains ambiguous. The Lakenheath episode sits precisely in those gaps.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
 For a case dossier, the most defensible classification is: historically significant, officially documented, technically interesting, and unresolved in its strongest phase. It is not a clean debunking success, but neither is it a clean demonstration of non-human technology. Its enduring value is that it forces both sides of the UFO debate to deal with awkward evidence: sceptics must explain why several trained military sources and official analysts treated it seriously, while proponents must confront the contradictions, missing files and later aircrew testimony that weaken the most dramatic version.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kWxvCEyIjro" title="Lakenheath/ Bentwaters UFO Incident 1956 - Dr. David Clarke" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kWxvCEyIjro" target="_blank" rel="noopener noreferrer">Lakenheath/ Bentwaters UFO Incident 1956 - Dr. David Clarke</a></p><p class="youtube-embed-meta">Channel: Disclosure Team with Vinnie Adams &middot; Views: 7.8K &middot; Uploaded: November 2024 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kWxvCEyIjro" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kWxvCEyIjro">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened at Lakenheath?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened at Lakenheath?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides an objective case-file entry documenting the 1956 Lakenheath radar-visual sighting and its investigative history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides an objective case-file entry documenting the 1956 Lakenheath radar-visual sighting and its investigative history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Archives how military and government files are documented, establishing the standards that distinguish fact from legend.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Archives how military and government files are documented, establishing the standards that distinguish fact from legend.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Details the investigative steps required to evaluate cases involving radar-visual corroboration during the 1950s.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details the investigative steps required to evaluate cases involving radar-visual corroboration during the 1950s.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Provides institutional background on how investigative bureaus indexed and eventually closed sighting cases with conflicting witness and...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides institutional background on how investigative bureaus indexed and eventually closed sighting cases with conflicting witness and...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Lakenheath 492nd 134 Tail Patch"><img src="{{ '/assets/images/marketplace-covers/41108d76dfcb643d4bbc.jpg' | relative_url }}" alt="Listing image for RAF Lakenheath 492nd 134 Tail Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" target="_blank" rel="sponsored noopener noreferrer">RAF Lakenheath 492nd 134 Tail Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAF Lakenheath patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAF Lakenheath patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Lakenheath 492nd 134 Tail Patch"><img src="{{ '/assets/images/marketplace-covers/41108d76dfcb643d4bbc.jpg' | relative_url }}" alt="Listing image for RAF Lakenheath 492nd 134 Tail Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" target="_blank" rel="sponsored noopener noreferrer">RAF Lakenheath 492nd 134 Tail Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAF Lakenheath patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAF Lakenheath patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF squadron and historic reproduction patches"><img src="{{ '/assets/images/marketplace-covers/d80c297cb07719b2b6b2.jpg' | relative_url }}" alt="Listing image for USAF squadron and historic reproduction patches" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" target="_blank" rel="sponsored noopener noreferrer">USAF squadron and historic reproduction patches</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAF Lakenheath patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAF Lakenheath patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF squadron and historic reproduction patches"><img src="{{ '/assets/images/marketplace-covers/d80c297cb07719b2b6b2.jpg' | relative_url }}" alt="Listing image for USAF squadron and historic reproduction patches" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" target="_blank" rel="sponsored noopener noreferrer">USAF squadron and historic reproduction patches</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAF Lakenheath patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAF Lakenheath patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 48 MXO Embroidered Patch 48th FW RAF Lakenheath F-35 F35 Maintenance Squadron UK"><img src="{{ '/assets/images/marketplace-covers/743edac0bd2b404bd352.jpg' | relative_url }}" alt="Listing image for 48 MXO Embroidered Patch 48th FW RAF Lakenheath F-35 F35 Maintenance Squadron UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" target="_blank" rel="sponsored noopener noreferrer">48 MXO Embroidered Patch 48th FW RAF Lakenheath F-35 F35 Maintenance Squadron UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAF Lakenheath patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAF Lakenheath patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 48 MXO Embroidered Patch 48th FW RAF Lakenheath F-35 F35 Maintenance Squadron UK"><img src="{{ '/assets/images/marketplace-covers/743edac0bd2b404bd352.jpg' | relative_url }}" alt="Listing image for 48 MXO Embroidered Patch 48th FW RAF Lakenheath F-35 F35 Maintenance Squadron UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" target="_blank" rel="sponsored noopener noreferrer">48 MXO Embroidered Patch 48th FW RAF Lakenheath F-35 F35 Maintenance Squadron UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAF Lakenheath patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAF Lakenheath patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Lakenheath 492nd Tail Patch 312"><img src="{{ '/assets/images/marketplace-covers/18455ae2868db5a6b50a.jpg' | relative_url }}" alt="Listing image for RAF Lakenheath 492nd Tail Patch 312" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" target="_blank" rel="sponsored noopener noreferrer">RAF Lakenheath 492nd Tail Patch 312</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAF Lakenheath patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: RAF Lakenheath patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Lakenheath 492nd Tail Patch 312"><img src="{{ '/assets/images/marketplace-covers/18455ae2868db5a6b50a.jpg' | relative_url }}" alt="Listing image for RAF Lakenheath 492nd Tail Patch 312" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" target="_blank" rel="sponsored noopener noreferrer">RAF Lakenheath 492nd Tail Patch 312</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for RAF Lakenheath patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: RAF Lakenheath patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=RAF+Lakenheath+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="RAF Lakenheath patch" data-ebay-reference="lakenheath-episode-1956-what-really-happened-at-lakenheath-raf-lakenheath-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1042,7 +1042,7 @@ For a case dossier, the most defensible classification is: historically signific
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1062,7 +1062,7 @@ For a case dossier, the most defensible classification is: historically signific
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1094,7 +1094,7 @@ For a case dossier, the most defensible classification is: historically signific
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1146,7 +1146,7 @@ For a case dossier, the most defensible classification is: historically signific
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1191,7 +1191,7 @@ For a case dossier, the most defensible classification is: historically signific
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1232,130 +1232,130 @@ For a case dossier, the most defensible classification is: historically signific
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nicap.org  
    Title: The Lakenheath Case  
-   Link: <a href="https://www.nicap.org/reports/laken.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/laken.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/laken.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/laken.htm</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Lakenheath-Bentwaters incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nicap.org  
    Title: UFO Report  
-   Link: <a href="https://www.nicap.org/reports/560813bentwaters_report.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/560813bentwaters_report.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/560813bentwaters_report.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/560813bentwaters_report.htm</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nicap.org  
    Title: UFO Report  
-   Link: <a href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/560813bentwaters_dir.htm</a>  
+   Link:<a href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/560813bentwaters_dir.htm</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: academia.edu  
    Title: (PDF) RAF Bentwaters/Lakenheath, Air-visual/Radar UFO  
-   Link: <a href="https://www.academia.edu/90805219/RAF_Bentwaters_Lakenheath_Air_visual_Radar_UFO_Observation_13_14_August_1956" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/90805219/RAF_Bentwaters_Lakenheath_Air_visual_Radar_UFO_Observation_13_14_August_1956</a>  
+   Link:<a href="https://www.academia.edu/90805219/RAF_Bentwaters_Lakenheath_Air_visual_Radar_UFO_Observation_13_14_August_1956" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/90805219/RAF_Bentwaters_Lakenheath_Air_visual_Radar_UFO_Observation_13_14_August_1956</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Incidente di Lakenheath-Bentwaters  
-   Link: <a href="https://it.wikipedia.org/wiki/Incidente_di_Lakenheath-Bentwaters" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Lakenheath-Bentwaters</a>  
+   Link:<a href="https://it.wikipedia.org/wiki/Incidente_di_Lakenheath-Bentwaters" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Lakenheath-Bentwaters</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: colorado.edu  
-   Link: <a href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study</a>  
+   Link:<a href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: RAF Bentwaters  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Bentwaters</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Bentwaters</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Condon Committee  
-   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: academia.edu  
    Title: The Lakenheath England Radar Visual UFO Case August 13 14 1956 by G David Thayer  
-   Link: <a href="https://www.academia.edu/124559762/The_Lakenheath_England_Radar_Visual_UFO_Case_August_13_14_1956_by_G_David_Thayer" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/124559762/The_Lakenheath_England_Radar_Visual_UFO_Case_August_13_14_1956_by_G_David_Thayer</a>  
+   Link:<a href="https://www.academia.edu/124559762/The_Lakenheath_England_Radar_Visual_UFO_Case_August_13_14_1956_by_G_David_Thayer" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/124559762/The_Lakenheath_England_Radar_Visual_UFO_Case_August_13_14_1956_by_G_David_Thayer</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
+   Link:<a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=kWxvCEyIjro" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kWxvCEyIjro</a>  
+   Link:<a href="https://www.youtube.com/watch?v=kWxvCEyIjro" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kWxvCEyIjro</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: britannica.com  
    Title: Condon Report  
-   Link: <a href="https://www.britannica.com/topic/Condon-Report" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Condon-Report</a>  
+   Link:<a href="https://www.britannica.com/topic/Condon-Report" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Condon-Report</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Legendary British Alien Sighting | History's Greatest Mysteries (S6)  
-   Link: <a href="https://www.youtube.com/watch?v=mLqXp90GTX8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mLqXp90GTX8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Concerning UFO Evidence The Pentagon Is Hiding From Us - Part 3...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mLqXp90GTX8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mLqXp90GTX8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Concerning UFO Evidence The Pentagon Is Hiding From Us - Part 3...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zT0EP4mP1lI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zT0EP4mP1lI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Legendary British Alien Sighting | History&#x27;s Greatest Mysteries (S6)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zT0EP4mP1lI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zT0EP4mP1lI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Legendary British Alien Sighting | History&#x27;s Greatest Mysteries (S6)...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Top 10 Concerning UFO Evidence The Pentagon Is Hiding From Us  
-   Link: <a href="https://www.youtube.com/watch?v=1NYCy6YFLp8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1NYCy6YFLp8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What happens at RAF Bentwaters &amp; Cold War Museum?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1NYCy6YFLp8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1NYCy6YFLp8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What happens at RAF Bentwaters &amp; Cold War Museum?...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: What happens at RAF Bentwaters & Cold War Museum?  
-   Link: <a href="https://www.youtube.com/watch?v=viEi0F5GyVQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=viEi0F5GyVQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Trail - Britain&#x27;s Roswell / Bentwaters Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=viEi0F5GyVQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=viEi0F5GyVQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Trail - Britain&#x27;s Roswell / Bentwaters Incident...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1h6kv9t/a_collection_of_how_we_know_they_arent_drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1h6kv9t/a_collection_of_how_we_know_they_arent_drones/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1h6kv9t/a_collection_of_how_we_know_they_arent_drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1h6kv9t/a_collection_of_how_we_know_they_arent_drones/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cwealthforces/posts/are-aliens-still-lurking-near-the-former-raf-bentwaters-and-raf-woodbridge-usaf-/980100621208435/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cwealthforces/posts/are-aliens-still-lurking-near-the-former-raf-bentwaters-and-raf-woodbridge-usaf-/980100621208435/</a>  
+   Link:<a href="https://www.facebook.com/cwealthforces/posts/are-aliens-still-lurking-near-the-former-raf-bentwaters-and-raf-woodbridge-usaf-/980100621208435/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cwealthforces/posts/are-aliens-still-lurking-near-the-former-raf-bentwaters-and-raf-woodbridge-usaf-/980100621208435/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: martinshough.com  
-   Link: <a href="https://martinshough.com/aerialphenomena/Lakenheath/brady.htm" target="_blank" rel="noopener noreferrer nofollow">https://martinshough.com/aerialphenomena/Lakenheath/brady.htm</a>  
+   Link:<a href="https://martinshough.com/aerialphenomena/Lakenheath/brady.htm" target="_blank" rel="noopener noreferrer nofollow">https://martinshough.com/aerialphenomena/Lakenheath/brady.htm</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/slappedhamofficial/posts/770515015265465/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/slappedhamofficial/posts/770515015265465/</a>  
+   Link:<a href="https://www.facebook.com/groups/slappedhamofficial/posts/770515015265465/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/slappedhamofficial/posts/770515015265465/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>
+   Link:<a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>

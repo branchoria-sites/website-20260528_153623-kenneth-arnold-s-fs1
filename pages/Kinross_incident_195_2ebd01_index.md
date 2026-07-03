@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kinross-incident-195-2ebd01-index/
 description: Focused pages that expand on Kinross incident 1953.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Kinross_incident_195_2ebd01
 parent_title: Kinross incident 1953
@@ -16,7 +16,7 @@ parent_permalink: /kinross-incident-1953/
 
 # Explore Topics in Kinross incident 1953
 
-The following pages expand on the main **[Kinross incident 1953]({{ '/kinross-incident-1953/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Kinross incident 1953]({{ '/kinross-incident-1953/' | relative_url }})** page and cover its key branches in.
 
 - [C 47 Dispute]({{ '/c-47-dispute/' | relative_url }})
 - [Final Flight]({{ '/final-flight-dad3aa/' | relative_url }})

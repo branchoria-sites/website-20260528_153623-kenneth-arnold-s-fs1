@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /gemini-7-sighting-19-7caf7b-index/
 description: Focused pages that expand on Gemini 7 sighting 1965.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Gemini_7_sighting_19_7caf7b
 parent_title: Gemini 7 sighting 1965
@@ -16,7 +16,7 @@ parent_permalink: /gemini-7-sighting-1965/
 
 # Explore Topics in Gemini 7 sighting 1965
 
-The following pages expand on the main **[Gemini 7 sighting 1965]({{ '/gemini-7-sighting-1965/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Gemini 7 sighting 1965]({{ '/gemini-7-sighting-1965/' | relative_url }})** page and cover its key branches in.
 
 - [Skeptical Analysis]({{ '/skeptical-analysis/' | relative_url }})
 - [Mission Records]({{ '/mission-records/' | relative_url }})

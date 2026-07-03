@@ -753,29 +753,29 @@ image: /assets/images/Ummo_photographs_196_ed7563-overview-social.jpg
 
 ## Why the Valderas photographs became the centrepiece
 
-Before the Valderas images, Ummo was mainly a correspondence phenomenon. Alleged beings from Ummo were said to be sending typewritten documents and making telephone contacts with selected people in Spain, including members of Fernando Sesma’s Madrid circle. In that setting, the claim that a craft would appear near Madrid gave believers a concrete test: not just a doctrine or private message, but a predicted event in the sky. Encyclopedia.com summarises the sequence as a contact story that began in 1965 through Sesma, followed by a 1966 Aluche sighting associated with José Luis Jordán Peña, and then a second sighting on 1 June 1967 when photographs were taken and the same distinctive symbol appeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ummo-hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Ummo Hoax &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Ummo Hoax &#124; Encyclopedia.com</span></span></span>
+Before the Valderas images, Ummo was mainly a correspondence phenomenon. Alleged beings from Ummo were said to be sending typewritten documents and making telephone contacts with selected people in Spain, including members of Fernando Sesma’s Madrid circle. In that setting, the claim that a craft would appear near Madrid gave believers a concrete test: not just a doctrine or private message, but a predicted event in the sky. Encyclopedia.com summarises the sequence as a contact story that began in 1965 through Sesma, followed by a 1966 Aluche sighting associated with José Luis Jordán Peña, and then a second sighting on 1 June 1967 when photographs were taken and the same distinctive symbol appeared.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ummo-hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Ummo Hoax &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Ummo Hoax &#124; Encyclopedia.com</span></span></span>
 
 <img src="{{ "/assets/images/Ummo_photographs_196_ed7563-overview.webp" | relative_url }}" alt="Overview image for Were the 1967 Ummo Photographs Real or a..." loading="eager" decoding="sync" fetchpriority="high">
-The location helped the story endure. San José de Valderas, in Alcorcón, had recognisable castle-like buildings that provided a memorable backdrop. Atlas Obscura’s account of the Valderas castles notes that on 1 June 1967 they became the frame for an alleged flying saucer sighting with the Ummo symbol, and that believers treated the incident as confirmation of the wider Ummo communications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlasobscura.com/places/castles-of-valderas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura Castles of Valderas in Alcorcón</span><span class="citation-popover-snippet">Atlas Obscura Castles of Valderas in Alcorcón</span></span></span>
+The location helped the story endure. San José de Valderas, in Alcorcón, had recognisable castle-like buildings that provided a memorable backdrop. Atlas Obscura’s account of the Valderas castles notes that on 1 June 1967 they became the frame for an alleged flying saucer sighting with the Ummo symbol, and that believers treated the incident as confirmation of the wider Ummo communications.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlasobscura.com/places/castles-of-valderas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura Castles of Valderas in Alcorcón</span><span class="citation-popover-snippet">Atlas Obscura Castles of Valderas in Alcorcón</span></span></span>
 
-The photographs also had the right ingredients for press impact: a clear saucer form, a visible emblem, an apparently ordinary suburban setting, and anonymity. Wikimedia Commons preserves one of the commonly reproduced images as “one of the five photographs” of a supposed Ummo ship at San José de Valderas on 1 June 1967, with the author listed as unknown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3ASan_Jos%C3%A9_de_Valderas_5.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:San José de Valderas 5.jpg</span><span class="citation-popover-snippet">Commons File:San José de Valderas 5.jpg</span></span></span> Accounts differ over whether the case should be described as five negatives, several photographs, or seven images from more than one reported source; that inconsistency itself is part of the evidential problem, because the provenance is not as clean as the pictures’ visual clarity might suggest.
+The photographs also had the right ingredients for press impact: a clear saucer form, a visible emblem, an apparently ordinary suburban setting, and anonymity. Wikimedia Commons preserves one of the commonly reproduced images as “one of the five photographs” of a supposed Ummo ship at San José de Valderas on 1 June 1967, with the author listed as unknown.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3ASan_Jos%C3%A9_de_Valderas_5.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:San José de Valderas 5.jpg</span><span class="citation-popover-snippet">Commons File:San José de Valderas 5.jpg</span></span></span> Accounts differ over whether the case should be described as five negatives, several photographs, or seven images from more than one reported source; that inconsistency itself is part of the evidential problem, because the provenance is not as clean as the pictures’ visual clarity might suggest.
 
 ## What was said to have happened on 1 June 1967
 
-The public story is usually reconstructed as follows. Around the evening of 1 June 1967, an object was allegedly seen near San José de Valderas. Photographs reached the Madrid newspaper *Informaciones*, reportedly after an anonymous contact directed a journalist to collect an envelope containing negatives. *El País* recounts that the journalist went to collect the negatives and the paper published the photographs under a headline asking whether flying saucers had been seen over Madrid by hundreds of people. <span class="citation-chip-wrap"><a class="citation-chip" href="https://elpais.com/elpais/2019/08/29/icon/1567087063_903049.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elpais.com">[El País]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elpais.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The public story is usually reconstructed as follows. Around the evening of 1 June 1967, an object was allegedly seen near San José de Valderas. Photographs reached the Madrid newspaper *Informaciones*, reportedly after an anonymous contact directed a journalist to collect an envelope containing negatives. *El País* recounts that the journalist went to collect the negatives and the paper published the photographs under a headline asking whether flying saucers had been seen over Madrid by hundreds of people.<span class="citation-chip-wrap"><a class="citation-chip" href="https://elpais.com/elpais/2019/08/29/icon/1567087063_903049.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elpais.com">[El País]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elpais.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The alleged craft was a white or light-toned disc with the Ummo mark, often described as a barred H-like symbol. A modern local retrospective in *La Razón* describes the public claim as photographs supposedly taken by a couple walking in San José de Valderas, showing a white disc with the Ummo symbol; it also places the images within the wider sequence of Ummo messages and predicted landings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.larazon.es/madrid/ummo-ovni-alcorcon-que-nunca-estuvo-alli_20230305640387621e80a400014eb9b5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: larazon.es">[La Razón]</a><span class="citation-popover" role="note"><span class="citation-popover-source">larazon.es</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The alleged craft was a white or light-toned disc with the Ummo mark, often described as a barred H-like symbol. A modern local retrospective in *La Razón* describes the public claim as photographs supposedly taken by a couple walking in San José de Valderas, showing a white disc with the Ummo symbol; it also places the images within the wider sequence of Ummo messages and predicted landings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.larazon.es/madrid/ummo-ovni-alcorcon-que-nunca-estuvo-alli_20230305640387621e80a400014eb9b5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: larazon.es">[La Razón]</a><span class="citation-popover" role="note"><span class="citation-popover-source">larazon.es</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A major weakness appears immediately: the key photographers and several important witnesses were anonymous or difficult to verify. That does not automatically prove fraud, but it reduces the independent evidential value of the case. A photograph without a secure chain of custody can show that an image exists, but it cannot by itself establish who took it, exactly when it was taken, what was in front of the lens, or whether the scene was staged.
 
 <img src="{{ "/assets/images/Ummo_photographs_196_ed7563-Illustration-1-dark.svg" | relative_url }}" alt="Were the 1967 Ummo Photographs Real or a... illustration 1" data-theme-src-dark="{{ "/assets/images/Ummo_photographs_196_ed7563-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ummo_photographs_196_ed7563-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest reasons to doubt the photographs
 
-The first serious doubts did not depend on modern digital scepticism. Spanish ufologist Óscar Rey Brea questioned the images early, including the cut negative strips and the lack of consecutive numbering, according to *El País*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://elpais.com/elpais/2019/08/29/icon/1567087063_903049.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elpais.com">[El País]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elpais.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> *La Razón* adds that Rey Brea also challenged the claimed timing because cloud positions changed too sharply for the stated interval, and he inferred from the camera angle that the shots looked staged rather than spontaneous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.larazon.es/madrid/ummo-ovni-alcorcon-que-nunca-estuvo-alli_20230305640387621e80a400014eb9b5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: larazon.es">[La Razón]</a><span class="citation-popover" role="note"><span class="citation-popover-source">larazon.es</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The first serious doubts did not depend on modern digital scepticism. Spanish ufologist Óscar Rey Brea questioned the images early, including the cut negative strips and the lack of consecutive numbering, according to *El País*.<span class="citation-chip-wrap"><a class="citation-chip" href="https://elpais.com/elpais/2019/08/29/icon/1567087063_903049.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elpais.com">[El País]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elpais.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> *La Razón* adds that Rey Brea also challenged the claimed timing because cloud positions changed too sharply for the stated interval, and he inferred from the camera angle that the shots looked staged rather than spontaneous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.larazon.es/madrid/ummo-ovni-alcorcon-que-nunca-estuvo-alli_20230305640387621e80a400014eb9b5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: larazon.es">[La Razón]</a><span class="citation-popover" role="note"><span class="citation-popover-source">larazon.es</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Later technical critiques reinforced the model hypothesis. A CNES-hosted 1977 note by Claude Poher refers to his analysis of the San José de Valderas photographs and states that considerable work was needed to show that the images could have been made with a small translucent model, such as opal plastic. The same passage explains that the apparent excessive brightness initially made distance seem plausible, but inconsistencies in diffusion coefficients between photographs undermined that interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/sites/default/files/note_43_poher_77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">note 43 poher 77</span><span class="citation-popover-snippet">note 43 poher 77</span></span></span>
+Later technical critiques reinforced the model hypothesis. A CNES-hosted 1977 note by Claude Poher refers to his analysis of the San José de Valderas photographs and states that considerable work was needed to show that the images could have been made with a small translucent model, such as opal plastic. The same passage explains that the apparent excessive brightness initially made distance seem plausible, but inconsistencies in diffusion coefficients between photographs undermined that interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/sites/default/files/note_43_poher_77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">note 43 poher 77</span><span class="citation-popover-snippet">note 43 poher 77</span></span></span>
 
-A French case index also summarises the 1977 Poher analysis as finding evidence compatible with a suspension line, and separately notes William H. Spaulding’s Ground Saucer Watch analysis, which likewise interpreted the images as showing a suspended model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/Ummo/SanJoseDeValderas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[rr0.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Les photos de San José de Valderas</span><span class="citation-popover-snippet">Les photos de San José de Valderas</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ummo-hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Ummo Hoax &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Ummo Hoax &#124; Encyclopedia.com</span></span></span> gives the sceptical conclusion in plainer terms: Ground Saucer Watch judged the Ummo-symbol photographs to be of a small object close to the camera, “an eight-inch plate” with the symbol painted on it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ummo-hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Ummo Hoax &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Ummo Hoax &#124; Encyclopedia.com</span></span></span>
+A French case index also summarises the 1977 Poher analysis as finding evidence compatible with a suspension line, and separately notes William H. Spaulding’s Ground Saucer Watch analysis, which likewise interpreted the images as showing a suspended model.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/Ummo/SanJoseDeValderas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[rr0.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Les photos de San José de Valderas</span><span class="citation-popover-snippet">Les photos de San José de Valderas</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ummo-hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Ummo Hoax &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Ummo Hoax &#124; Encyclopedia.com</span></span></span> gives the sceptical conclusion in plainer terms: Ground Saucer Watch judged the Ummo-symbol photographs to be of a small object close to the camera, “an eight-inch plate” with the symbol painted on it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ummo-hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Ummo Hoax &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Ummo Hoax &#124; Encyclopedia.com</span></span></span>
 
 Those conclusions matter because they address the specific claim that the photographs show a large aerial object. A small model placed close to the camera can mimic a distant craft if the scene lacks reliable scale references, if the object is photographed against sky, and if the witness story supplies the missing distance and size. In this case, the photographs’ dramatic clarity is not a strength by itself; it is exactly what a carefully staged model shot might produce.
 
@@ -783,11 +783,11 @@ Those conclusions matter because they address the specific claim that the photog
 
 ## Why the Guardia Civil report did not settle the case
 
-The most important complication is the later Guardia Civil photographic examination cited by defenders of the photographs. In 1996, J. J. Benítez says five original Valderas negatives were submitted to the Guardia Civil’s photographic/criminalistics specialists for study. The published report, reproduced on Ignacio Darnaude’s archive site, says the examiners were asked to verify whether the negatives had been manipulated and whether the images represented real objects or intentional montages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ignaciodarnaude.es/ficha/analisis-tecnico-de-las-fotografias-de-san-jose-de-valderas-1-junio-1967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-title">analisis tecnico de las fotografias de san jose de valderas 1 junio 1967</span><span class="citation-popover-snippet">analisis tecnico de las fotografias de san jose de valderas 1 junio 1967</span></span></span>
+The most important complication is the later Guardia Civil photographic examination cited by defenders of the photographs. In 1996, J. J. Benítez says five original Valderas negatives were submitted to the Guardia Civil’s photographic/criminalistics specialists for study. The published report, reproduced on Ignacio Darnaude’s archive site, says the examiners were asked to verify whether the negatives had been manipulated and whether the images represented real objects or intentional montages.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ignaciodarnaude.es/ficha/analisis-tecnico-de-las-fotografias-de-san-jose-de-valderas-1-junio-1967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-title">analisis tecnico de las fotografias de san jose de valderas 1 junio 1967</span><span class="citation-popover-snippet">analisis tecnico de las fotografias de san jose de valderas 1 junio 1967</span></span></span>
 
-The conclusions are often quoted selectively. The report did find that the examined negatives did not show indications of having been manipulated, and it stated that the negatives were original in the sense that they came from the same camera. But it also said the camera was of poor quality or in poor condition, noted possible accidental fogging, and did not rule out fraud because of inconsistent luminosity, apparent artificial lighting in one negative, and anomalous highlights and shadows in another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ignaciodarnaude.es/ficha/analisis-tecnico-de-las-fotografias-de-san-jose-de-valderas-1-junio-1967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-title">analisis tecnico de las fotografias de san jose de valderas 1 junio 1967</span><span class="citation-popover-snippet">analisis tecnico de las fotografias de san jose de valderas 1 junio 1967</span></span></span>
+The conclusions are often quoted selectively. The report did find that the examined negatives did not show indications of having been manipulated, and it stated that the negatives were original in the sense that they came from the same camera. But it also said the camera was of poor quality or in poor condition, noted possible accidental fogging, and did not rule out fraud because of inconsistent luminosity, apparent artificial lighting in one negative, and anomalous highlights and shadows in another.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ignaciodarnaude.es/ficha/analisis-tecnico-de-las-fotografias-de-san-jose-de-valderas-1-junio-1967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-title">analisis tecnico de las fotografias de san jose de valderas 1 junio 1967</span><span class="citation-popover-snippet">analisis tecnico de las fotografias de san jose de valderas 1 junio 1967</span></span></span>
 
-The same examination rejected one particular interpretation of a line in negative 24. What some analysts had treated as a suspension line was, according to the Guardia Civil report, a scratch or lesion on the negative, not a photographed supporting element. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ignaciodarnaude.es/ficha/analisis-tecnico-de-las-fotografias-de-san-jose-de-valderas-1-junio-1967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-title">analisis tecnico de las fotografias de san jose de valderas 1 junio 1967</span><span class="citation-popover-snippet">analisis tecnico de las fotografias de san jose de valderas 1 junio 1967</span></span></span> That is significant, but narrow. It weakens a specific “visible wire” argument; it does not prove that the photographed object was a real craft. The report itself preserved doubt about fraudulent production, especially because a staged model, projection, or other set-up need not require later retouching of the negative.
+The same examination rejected one particular interpretation of a line in negative 24. What some analysts had treated as a suspension line was, according to the Guardia Civil report, a scratch or lesion on the negative, not a photographed supporting element.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ignaciodarnaude.es/ficha/analisis-tecnico-de-las-fotografias-de-san-jose-de-valderas-1-junio-1967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-title">analisis tecnico de las fotografias de san jose de valderas 1 junio 1967</span><span class="citation-popover-snippet">analisis tecnico de las fotografias de san jose de valderas 1 junio 1967</span></span></span> That is significant, but narrow. It weakens a specific “visible wire” argument; it does not prove that the photographed object was a real craft. The report itself preserved doubt about fraudulent production, especially because a staged model, projection, or other set-up need not require later retouching of the negative.
 
 A fair assessment therefore has to hold two points together:
 
@@ -797,11 +797,11 @@ A fair assessment therefore has to hold two points together:
 <img src="{{ "/assets/images/Ummo_photographs_196_ed7563-Illustration-2-dark.svg" | relative_url }}" alt="Were the 1967 Ummo Photographs Real or a... illustration 2" data-theme-src-dark="{{ "/assets/images/Ummo_photographs_196_ed7563-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ummo_photographs_196_ed7563-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Jordán Peña confession and why it changed the balance
 
-The wider Ummo affair shifted dramatically in the 1990s when José Luis Jordán Peña publicly claimed responsibility for creating much of the Ummo myth. *La Razón* reports that he was widely attributed the fraud, including the Valderas photographs, and that he later said the case had been a sociological experiment into human credulity, although no documentary proof has confirmed his claim of institutional sponsorship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.larazon.es/madrid/ummo-ovni-alcorcon-que-nunca-estuvo-alli_20230305640387621e80a400014eb9b5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: larazon.es">[La Razón]</a><span class="citation-popover" role="note"><span class="citation-popover-source">larazon.es</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The wider Ummo affair shifted dramatically in the 1990s when José Luis Jordán Peña publicly claimed responsibility for creating much of the Ummo myth. *La Razón* reports that he was widely attributed the fraud, including the Valderas photographs, and that he later said the case had been a sociological experiment into human credulity, although no documentary proof has confirmed his claim of institutional sponsorship.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.larazon.es/madrid/ummo-ovni-alcorcon-que-nunca-estuvo-alli_20230305640387621e80a400014eb9b5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: larazon.es">[La Razón]</a><span class="citation-popover" role="note"><span class="citation-popover-source">larazon.es</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That confession does not automatically answer every historical question. Confessions can be self-serving, incomplete, exaggerated, or designed to redirect attention. Even sympathetic or pro-mystery writers have argued that Valderas is not fully explained by Peña’s later statements. J. J. Benítez, for example, continued to defend the broader Ummo case, and his account includes later witness material and objections to treating the confession as a complete solution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.calameo.com/books/002165158dbe28031a869" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Open source on calameo.com.</span></span></span>
+That confession does not automatically answer every historical question. Confessions can be self-serving, incomplete, exaggerated, or designed to redirect attention. Even sympathetic or pro-mystery writers have argued that Valderas is not fully explained by Peña’s later statements. J. J. Benítez, for example, continued to defend the broader Ummo case, and his account includes later witness material and objections to treating the confession as a complete solution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.calameo.com/books/002165158dbe28031a869" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Open source on calameo.com.</span></span></span>
 
-Still, the confession fits the pattern already visible in the photographs: anonymous sources, a symbol previously introduced in the Aluche story, weakly verifiable witnesses, technical doubts, and a model-like object. *La Razón* reports Manuel Carballal’s account that Jordán Peña admitted using a model, tripod, rod, and thread with Vicente Ortuño, and that defective negatives were allegedly cut before contact was made with *Informaciones*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.larazon.es/madrid/ummo-ovni-alcorcon-que-nunca-estuvo-alli_20230305640387621e80a400014eb9b5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: larazon.es">[La Razón]</a><span class="citation-popover" role="note"><span class="citation-popover-source">larazon.es</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Even if one treats that reconstruction cautiously, it aligns closely with the main sceptical explanation already proposed from the image evidence.
+Still, the confession fits the pattern already visible in the photographs: anonymous sources, a symbol previously introduced in the Aluche story, weakly verifiable witnesses, technical doubts, and a model-like object. *La Razón* reports Manuel Carballal’s account that Jordán Peña admitted using a model, tripod, rod, and thread with Vicente Ortuño, and that defective negatives were allegedly cut before contact was made with *Informaciones*.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.larazon.es/madrid/ummo-ovni-alcorcon-que-nunca-estuvo-alli_20230305640387621e80a400014eb9b5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: larazon.es">[La Razón]</a><span class="citation-popover" role="note"><span class="citation-popover-source">larazon.es</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Even if one treats that reconstruction cautiously, it aligns closely with the main sceptical explanation already proposed from the image evidence.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0ekO6_rK0_Y" title="UMMO: Desmontando a Jordán Peña | #0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0ekO6_rK0_Y" target="_blank" rel="noopener noreferrer">UMMO: Desmontando a Jordán Peña | #0</a></p><p class="youtube-embed-meta">Channel: Qué Ver en Movistar Plus &middot; Views: 7.6K &middot; Uploaded: November 2022 &middot; Length: 4 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0ekO6_rK0_Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0ekO6_rK0_Y">Open on YouTube</a></p></div></div></div>
 
@@ -809,16 +809,16 @@ Still, the confession fits the pattern already visible in the photographs: anony
 
 The Valderas case is not worthless simply because the extraterrestrial interpretation is weak. It contains several kinds of evidence, but they do not all carry the same weight.
 
-The photographs are historically important, but their evidential value is limited by uncertain custody and staging possibilities. The newspaper publication proves that images were circulated in June 1967, not that the object in them was airborne, large, or anomalous. The surviving image files and reproductions are useful for studying how the case was presented, but not enough to establish the physical event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3ASan_Jos%C3%A9_de_Valderas_5.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:San José de Valderas 5.jpg</span><span class="citation-popover-snippet">Commons File:San José de Valderas 5.jpg</span></span></span>
+The photographs are historically important, but their evidential value is limited by uncertain custody and staging possibilities. The newspaper publication proves that images were circulated in June 1967, not that the object in them was airborne, large, or anomalous. The surviving image files and reproductions are useful for studying how the case was presented, but not enough to establish the physical event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3ASan_Jos%C3%A9_de_Valderas_5.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:San José de Valderas 5.jpg</span><span class="citation-popover-snippet">Commons File:San José de Valderas 5.jpg</span></span></span>
 
-The witness material is mixed. Some accounts speak of numerous observers, while more critical reconstructions emphasise that important witnesses were anonymous, hard to locate, or collected through people already embedded in the Ummo network. Encyclopedia.com notes that the Ummo contacts were troubling because they lacked independent verification and that those claiming contact did not permit direct access. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ummo-hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Ummo Hoax &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Ummo Hoax &#124; Encyclopedia.com</span></span></span> Magonia’s sceptical history makes the same structural point more sharply: the photographers, copyists, and many alleged recipients remained anonymous, and the San José de Valderas photographer’s anonymity became part of the problem rather than a protection of evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/11/ummo-planet-of-anonymous-correspondents.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The witness material is mixed. Some accounts speak of numerous observers, while more critical reconstructions emphasise that important witnesses were anonymous, hard to locate, or collected through people already embedded in the Ummo network. Encyclopedia.com notes that the Ummo contacts were troubling because they lacked independent verification and that those claiming contact did not permit direct access.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ummo-hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Ummo Hoax &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Ummo Hoax &#124; Encyclopedia.com</span></span></span> Magonia’s sceptical history makes the same structural point more sharply: the photographers, copyists, and many alleged recipients remained anonymous, and the San José de Valderas photographer’s anonymity became part of the problem rather than a protection of evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/11/ummo-planet-of-anonymous-correspondents.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The technical analyses are more probative, but not perfectly aligned. Poher and Ground Saucer Watch support a hoax/model interpretation; the Guardia Civil report disputes the “wire” reading while still leaving fraud unresolved. This is why the safest conclusion is not “the wire is visible, therefore hoax”, but rather: “the photographs do not meet the evidential burden for a real anomalous craft, and the best overall explanation remains a staged model or photographic construction.”
 
 <img src="{{ "/assets/images/Ummo_photographs_196_ed7563-Illustration-3-dark.svg" | relative_url }}" alt="Were the 1967 Ummo Photographs Real or a... illustration 3" data-theme-src-dark="{{ "/assets/images/Ummo_photographs_196_ed7563-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ummo_photographs_196_ed7563-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Valderas photographs link to the wider Ummo dossier
 
-The photographs cannot be separated from the Ummo letters, because their main dramatic force came from the idea that the symbol and appearance had been predicted or prefigured. The Aluche incident of 1966 introduced a symbol-bearing craft in which Jordán Peña himself was involved as a witness; the 1967 Valderas images then appeared to show the same visual language. Encyclopedia.com explicitly links the 1966 Aluche sketch and the 1967 photographs through the repeated symbol. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ummo-hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Ummo Hoax &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Ummo Hoax &#124; Encyclopedia.com</span></span></span>
+The photographs cannot be separated from the Ummo letters, because their main dramatic force came from the idea that the symbol and appearance had been predicted or prefigured. The Aluche incident of 1966 introduced a symbol-bearing craft in which Jordán Peña himself was involved as a witness; the 1967 Valderas images then appeared to show the same visual language. Encyclopedia.com explicitly links the 1966 Aluche sketch and the 1967 photographs through the repeated symbol.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ummo-hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Ummo Hoax &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Ummo Hoax &#124; Encyclopedia.com</span></span></span>
 
 That makes Valderas a natural sibling page to the Ummo letters, the Aluche sighting, the alleged metal/plastic capsule, and the later Jordán [Peña confession]({{ 'peña-confession/' | relative_url }}). Each branch changes the meaning of the others. If the letters were a hoax, the photographs look like an attempt to supply physical confirmation. If the photographs were staged, the letters look less like independent communications and more like a narrative frame prepared to make the images meaningful. If the confession is accepted, both become parts of a coordinated social deception. If the confession is doubted, the evidential burden still remains: anonymous, internally reinforcing claims are not the same as independent corroboration.
 
@@ -831,214 +831,214 @@ The later Guardia Civil examination deserves careful treatment because it correc
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jTQOpt1QRhQ" title="La noticia más extraña de la Historia | #MilenioLive​​ | Programa T3x35 (12/06/2021)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jTQOpt1QRhQ" target="_blank" rel="noopener noreferrer">La noticia más extraña de la Historia | #MilenioLive​​ | Programa T3x35 (12/06/2021)</a></p><p class="youtube-embed-meta">Channel: Canal Iker Jiménez &middot; Views: 321.1K &middot; Uploaded: June 2021 &middot; Length: 2 hours 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jTQOpt1QRhQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jTQOpt1QRhQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were the 1967 Ummo Photographs Real or a Hoax?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were the 1967 Ummo Photographs Real or a Hoax?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Profiles the Spanish contactee scene, evaluating how the distinct Ummo emblem and typewritten correspondence lines structured public inte...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Profiles the Spanish contactee scene, evaluating how the distinct Ummo emblem and typewritten correspondence lines structured public inte...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Analyzes the 1 June 1967 San José de Valderas images, tracking the technical criteria used by investigators to identify fraud.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Analyzes the 1 June 1967 San José de Valderas images, tracking the technical criteria used by investigators to identify fraud.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Teaches critical reasoning metrics to separate predicted public sky events from coordinated psychological hoax networks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches critical reasoning metrics to separate predicted public sky events from coordinated psychological hoax networks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
-        </h4>
-        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+</h4>
+<p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
         
-        <p class="fr-book-desc">Deconstructs the 1966 Aluche sighting and the 1967 Valderas sequence, detailing how prior expectations make fake imagery highly effective.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Deconstructs the 1966 Aluche sighting and the 1967 Valderas sequence, detailing how prior expectations make fake imagery highly effective.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: encyclopedia.com  
    Title: Ummo Hoax | Encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ummo-hoax" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ummo-hoax</a>  
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ummo-hoax" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ummo-hoax</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:San José de Valderas 5.jpg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ASan_Jos%C3%A9_de_Valderas_5.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ASan_Jos%C3%A9_de_Valderas_5.jpg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ASan_Jos%C3%A9_de_Valderas_5.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ASan_Jos%C3%A9_de_Valderas_5.jpg</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cnes-geipan.fr  
    Title: note 43 poher 77  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/note_43_poher_77.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/note_43_poher_77.pdf</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/note_43_poher_77.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/note_43_poher_77.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: rr0.org  
    Title: Les photos de San José de Valderas  
-   Link: <a href="https://rr0.org/science/crypto/ufo/enquete/dossier/Ummo/SanJoseDeValderas/" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/science/crypto/ufo/enquete/dossier/Ummo/SanJoseDeValderas/</a>  
+   Link:<a href="https://rr0.org/science/crypto/ufo/enquete/dossier/Ummo/SanJoseDeValderas/" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/science/crypto/ufo/enquete/dossier/Ummo/SanJoseDeValderas/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: calameo.com  
-   Link: <a href="https://www.calameo.com/books/002165158dbe28031a869" target="_blank" rel="noopener noreferrer nofollow">https://www.calameo.com/books/002165158dbe28031a869</a>  
+   Link:<a href="https://www.calameo.com/books/002165158dbe28031a869" target="_blank" rel="noopener noreferrer nofollow">https://www.calameo.com/books/002165158dbe28031a869</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archive.org  
    Title: 354868604 ufo contact from planet ummo pdf djvu.txt  
-   Link: <a href="https://archive.org/stream/354868604-ufo-contact-from-planet-ummo-pdf/354868604-ufo-contact-from-planet-ummo-pdf_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/354868604-ufo-contact-from-planet-ummo-pdf/354868604-ufo-contact-from-planet-ummo-pdf_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/354868604-ufo-contact-from-planet-ummo-pdf/354868604-ufo-contact-from-planet-ummo-pdf_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/354868604-ufo-contact-from-planet-ummo-pdf/354868604-ufo-contact-from-planet-ummo-pdf_djvu.txt</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archive.org  
    Title: Full text of "Maji  
-   Link: <a href="https://archive.org/stream/majiall337/ExtraordinaryEncounters_AnEncyclopediaOfExtraterrestrialsAndOtherworldlyBeings_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/majiall337/ExtraordinaryEncounters_AnEncyclopediaOfExtraterrestrialsAndOtherworldlyBeings_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/majiall337/ExtraordinaryEncounters_AnEncyclopediaOfExtraterrestrialsAndOtherworldlyBeings_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/majiall337/ExtraordinaryEncounters_AnEncyclopediaOfExtraterrestrialsAndOtherworldlyBeings_djvu.txt</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: calameo.com  
    Title: John Spencer  
-   Link: <a href="https://www.calameo.com/books/0005840377ff7fede4ff2" target="_blank" rel="noopener noreferrer nofollow">https://www.calameo.com/books/0005840377ff7fede4ff2</a>  
+   Link:<a href="https://www.calameo.com/books/0005840377ff7fede4ff2" target="_blank" rel="noopener noreferrer nofollow">https://www.calameo.com/books/0005840377ff7fede4ff2</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: atlasobscura.com  
    Title: Atlas Obscura Castles of Valderas in Alcorcón  
-   Link: <a href="https://www.atlasobscura.com/places/castles-of-valderas" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/castles-of-valderas</a>  
+   Link:<a href="https://www.atlasobscura.com/places/castles-of-valderas" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/castles-of-valderas</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: elpais.com  
-   Link: <a href="https://elpais.com/elpais/2019/08/29/icon/1567087063_903049.html" target="_blank" rel="noopener noreferrer nofollow">https://elpais.com/elpais/2019/08/29/icon/1567087063_903049.html</a>  
+   Link:<a href="https://elpais.com/elpais/2019/08/29/icon/1567087063_903049.html" target="_blank" rel="noopener noreferrer nofollow">https://elpais.com/elpais/2019/08/29/icon/1567087063_903049.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: larazon.es  
-   Link: <a href="https://www.larazon.es/madrid/ummo-ovni-alcorcon-que-nunca-estuvo-alli_20230305640387621e80a400014eb9b5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.larazon.es/madrid/ummo-ovni-alcorcon-que-nunca-estuvo-alli_20230305640387621e80a400014eb9b5.html</a>  
+   Link:<a href="https://www.larazon.es/madrid/ummo-ovni-alcorcon-que-nunca-estuvo-alli_20230305640387621e80a400014eb9b5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.larazon.es/madrid/ummo-ovni-alcorcon-que-nunca-estuvo-alli_20230305640387621e80a400014eb9b5.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ignaciodarnaude.es  
    Title: analisis tecnico de las fotografias de san jose de valderas 1 junio 1967  
-   Link: <a href="https://ignaciodarnaude.es/ficha/analisis-tecnico-de-las-fotografias-de-san-jose-de-valderas-1-junio-1967/" target="_blank" rel="noopener noreferrer nofollow">https://ignaciodarnaude.es/ficha/analisis-tecnico-de-las-fotografias-de-san-jose-de-valderas-1-junio-1967/</a>  
+   Link:<a href="https://ignaciodarnaude.es/ficha/analisis-tecnico-de-las-fotografias-de-san-jose-de-valderas-1-junio-1967/" target="_blank" rel="noopener noreferrer nofollow">https://ignaciodarnaude.es/ficha/analisis-tecnico-de-las-fotografias-de-san-jose-de-valderas-1-junio-1967/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: magoniamagazine.blogspot.com  
-   Link: <a href="https://magoniamagazine.blogspot.com/2013/11/ummo-planet-of-anonymous-correspondents.html" target="_blank" rel="noopener noreferrer nofollow">https://magoniamagazine.blogspot.com/2013/11/ummo-planet-of-anonymous-correspondents.html</a>  
+   Link:<a href="https://magoniamagazine.blogspot.com/2013/11/ummo-planet-of-anonymous-correspondents.html" target="_blank" rel="noopener noreferrer nofollow">https://magoniamagazine.blogspot.com/2013/11/ummo-planet-of-anonymous-correspondents.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: José Luis Jordán Peña  
-   Link: <a href="https://fr.wikipedia.org/wiki/Jos%C3%A9_Luis_Jord%C3%A1n_Pe%C3%B1a" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Jos%C3%A9_Luis_Jord%C3%A1n_Pe%C3%B1a</a>  
+   Link:<a href="https://fr.wikipedia.org/wiki/Jos%C3%A9_Luis_Jord%C3%A1n_Pe%C3%B1a" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Jos%C3%A9_Luis_Jord%C3%A1n_Pe%C3%B1a</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ignaciodarnaude.es  
    Title: comienzos de ummo 1966 1969  
-   Link: <a href="https://ignaciodarnaude.es/ficha/comienzos-de-ummo-1966-1969/" target="_blank" rel="noopener noreferrer nofollow">https://ignaciodarnaude.es/ficha/comienzos-de-ummo-1966-1969/</a>  
+   Link:<a href="https://ignaciodarnaude.es/ficha/comienzos-de-ummo-1966-1969/" target="_blank" rel="noopener noreferrer nofollow">https://ignaciodarnaude.es/ficha/comienzos-de-ummo-1966-1969/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/photo.php?fbid=1506003296237794&amp;id=100044232619406&amp;set=a.197877775029975" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/photo.php?fbid=1506003296237794&amp;id=100044232619406&amp;set=a.197877775029975</a>  
+   Link:<a href="https://www.facebook.com/photo.php?fbid=1506003296237794&amp;id=100044232619406&amp;set=a.197877775029975" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/photo.php?fbid=1506003296237794&amp;id=100044232619406&amp;set=a.197877775029975</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=CvC5WEggxqk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CvC5WEggxqk</a>  
+   Link:<a href="https://www.youtube.com/watch?v=CvC5WEggxqk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CvC5WEggxqk</a>  
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=jTQOpt1QRhQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jTQOpt1QRhQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Los visitantes del Planeta Ummo con Carles Tamayo y José Luis Jordán | Disidencia controlada | 2x3...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jTQOpt1QRhQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jTQOpt1QRhQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los visitantes del Planeta Ummo con Carles Tamayo y José Luis Jordán | Disidencia controlada | 2x3...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=wdgg9TJJbCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wdgg9TJJbCM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO LIVE: Secret Alien Files Finally Opened During Explosive Hearing | US NEWS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wdgg9TJJbCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wdgg9TJJbCM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO LIVE: Secret Alien Files Finally Opened During Explosive Hearing | US NEWS...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: UMMO: Desmontando a Jordán Peña | #0  
-   Link: <a href="https://www.youtube.com/watch?v=0ekO6_rK0_Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0ekO6_rK0_Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>La noticia más extraña de la Historia | #MilenioLive​​ | Programa T3x35 (12/06/2021)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0ekO6_rK0_Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0ekO6_rK0_Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>La noticia más extraña de la Historia | #MilenioLive​​ | Programa T3x35 (12/06/2021)...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/25788925/CASO_UMMO" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/25788925/CASO_UMMO</a>  
+   Link:<a href="https://www.academia.edu/25788925/CASO_UMMO" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/25788925/CASO_UMMO</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: zencastr.com  
-   Link: <a href="https://zencastr.com/z/3XmpCTMD" target="_blank" rel="noopener noreferrer nofollow">https://zencastr.com/z/3XmpCTMD</a>  
+   Link:<a href="https://zencastr.com/z/3XmpCTMD" target="_blank" rel="noopener noreferrer nofollow">https://zencastr.com/z/3XmpCTMD</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1nh1g5w/i_put_together_a_blog_of_the_best_ufo_photos_ever/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1nh1g5w/i_put_together_a_blog_of_the_best_ufo_photos_ever/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1nh1g5w/i_put_together_a_blog_of_the_best_ufo_photos_ever/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1nh1g5w/i_put_together_a_blog_of_the_best_ufo_photos_ever/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: x.com  
-   Link: <a href="https://x.com/navedelmisterio/status/1815119058221625534" target="_blank" rel="noopener noreferrer nofollow">https://x.com/navedelmisterio/status/1815119058221625534</a>  
+   Link:<a href="https://x.com/navedelmisterio/status/1815119058221625534" target="_blank" rel="noopener noreferrer nofollow">https://x.com/navedelmisterio/status/1815119058221625534</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: picryl.com  
-   Link: <a href="https://picryl.com/media/san-jose-de-valderas-5-b67cdc" target="_blank" rel="noopener noreferrer nofollow">https://picryl.com/media/san-jose-de-valderas-5-b67cdc</a>  
+   Link:<a href="https://picryl.com/media/san-jose-de-valderas-5-b67cdc" target="_blank" rel="noopener noreferrer nofollow">https://picryl.com/media/san-jose-de-valderas-5-b67cdc</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: unariunwisdom.com  
-   Link: <a href="https://www.unariunwisdom.com/wp-content/uploads/2025/08/UFO-CONTACT-FROM-PLANET-UMMO-Vol-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unariunwisdom.com/wp-content/uploads/2025/08/UFO-CONTACT-FROM-PLANET-UMMO-Vol-1.pdf</a>  
+   Link:<a href="https://www.unariunwisdom.com/wp-content/uploads/2025/08/UFO-CONTACT-FROM-PLANET-UMMO-Vol-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unariunwisdom.com/wp-content/uploads/2025/08/UFO-CONTACT-FROM-PLANET-UMMO-Vol-1.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: strangemag.com  
-   Link: <a href="https://www.strangemag.com/ummo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.strangemag.com/ummo.html</a>
+   Link:<a href="https://www.strangemag.com/ummo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.strangemag.com/ummo.html</a>

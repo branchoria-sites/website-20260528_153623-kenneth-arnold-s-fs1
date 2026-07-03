@@ -251,11 +251,11 @@ image: /assets/images/Charles_L_Moody_abdu_780173_hypnotic_recall_6c5b53-Illustr
 The most disputed part of the 1975 Charles L. Moody case is not the initial UFO sighting itself, but the way the abduction story emerged afterwards. Moody’s detailed memories of alien beings, paralysis, medical examination and travel inside a craft were reportedly recovered through self-hypnosis after a period of missing time. That places the case directly inside one of the central arguments in UFO research: whether hypnosis uncovers hidden memories or helps create convincing but unreliable narratives.
 
 <img src="{{ "/assets/images/Charles_L_Moody_abdu_780173_hypnotic_recall_6c5b53-Illustration-1-dark.svg" | relative_url }}" alt="Hypnosis illustration 1" data-theme-src-dark="{{ "/assets/images/Charles_L_Moody_abdu_780173_hypnotic_recall_6c5b53-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Charles_L_Moody_abdu_780173_hypnotic_recall_6c5b53-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In Moody’s account, the remembered abduction did not appear immediately after the alleged encounter near Alamogordo, New Mexico. Instead, the story developed gradually over days and weeks as he attempted to reconstruct what had happened during roughly ninety minutes he could not explain. Supporters argue that the consistency and emotional intensity of the recalled memories strengthen the case. Skeptics counter that hypnosis, especially self-directed hypnosis, is highly vulnerable to suggestion, confabulation and the formation of false memories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">Upon the recommendation of a physician, he began to practice self-hypnosis in an effort to recall what had occurred during the lost time...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien abduction</span><span class="citation-popover-snippet">Alien abduction</span></span></span>
+In Moody’s account, the remembered abduction did not appear immediately after the alleged encounter near Alamogordo, New Mexico. Instead, the story developed gradually over days and weeks as he attempted to reconstruct what had happened during roughly ninety minutes he could not explain. Supporters argue that the consistency and emotional intensity of the recalled memories strengthen the case. Skeptics counter that hypnosis, especially self-directed hypnosis, is highly vulnerable to suggestion, confabulation and the formation of false memories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">Upon the recommendation of a physician, he began to practice self-hypnosis in an effort to recall what had occurred during the lost time...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien abduction</span><span class="citation-popover-snippet">Alien abduction</span></span></span>
 
 ## Why the Missing Time Became the Core of the Story
 
-The original reported event was comparatively simple. Moody claimed he saw a glowing disc-shaped object descend near his vehicle while he was watching a meteor shower in August 1975. He experienced numbness, heard a humming sound, and later discovered that far more time had passed than he realised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">Upon the recommendation of a physician, he began to practice self-hypnosis in an effort to recall what had occurred during the lost time...</span></span></span>
+The original reported event was comparatively simple. Moody claimed he saw a glowing disc-shaped object descend near his vehicle while he was watching a meteor shower in August 1975. He experienced numbness, heard a humming sound, and later discovered that far more time had passed than he realised.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">Upon the recommendation of a physician, he began to practice self-hypnosis in an effort to recall what had occurred during the lost time...</span></span></span>
 
 At that stage, the case resembled many earlier UFO reports involving:
 
@@ -264,11 +264,11 @@ At that stage, the case resembled many earlier UFO reports involving:
 * a solitary witness,
 * an unusual aerial object,
 * temporary paralysis or disorientation,
-* and unexplained missing time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideshare.net/slideshow/budd-hopkins-missing-time-44639943/44639943" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideshare.net">[slideshare.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideshare.net</span><span class="citation-popover-snippet">hopkins missing time &#124; PDFBudd hopkins missing time. AI-enhanced description. This introduction summarizes key points about the UFO pheno...</span></span></span>
+* and unexplained missing time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideshare.net/slideshow/budd-hopkins-missing-time-44639943/44639943" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideshare.net">[slideshare.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideshare.net</span><span class="citation-popover-snippet">hopkins missing time &#124; PDFBudd hopkins missing time. AI-enhanced description. This introduction summarizes key points about the UFO pheno...</span></span></span>
 
 </div>
 
-The dramatic abduction narrative only emerged afterwards. According to repeated versions of the story, Moody later developed lower back pain and a rash. A physician allegedly suggested self-hypnosis to help recover the missing memories. Through these sessions, Moody came to believe he had been physically taken aboard a craft by humanoid beings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">Upon the recommendation of a physician, he began to practice self-hypnosis in an effort to recall what had occurred during the lost time...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://anomalien.com/air-force-sergeant-charles-l-moody-alien-abduction-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anomalien.com">[Anomalien.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anomalien.com</span><span class="citation-popover-title">Air Force Sergeant Charles L</span><span class="citation-popover-snippet">Moody Alien Abduction Case28 Feb 2021 — Upon the recommendation of a physician, he began to practice self-hypnosis in an effort to recall...</span></span></span>
+The dramatic abduction narrative only emerged afterwards. According to repeated versions of the story, Moody later developed lower back pain and a rash. A physician allegedly suggested self-hypnosis to help recover the missing memories. Through these sessions, Moody came to believe he had been physically taken aboard a craft by humanoid beings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">Upon the recommendation of a physician, he began to practice self-hypnosis in an effort to recall what had occurred during the lost time...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://anomalien.com/air-force-sergeant-charles-l-moody-alien-abduction-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anomalien.com">[Anomalien.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anomalien.com</span><span class="citation-popover-title">Air Force Sergeant Charles L</span><span class="citation-popover-snippet">Moody Alien Abduction Case28 Feb 2021 — Upon the recommendation of a physician, he began to practice self-hypnosis in an effort to recall...</span></span></span>
 
 That sequence matters because it separates the direct experience from the later reconstructed narrative. Critics often accept that Moody may genuinely have experienced something frightening or confusing in the desert while rejecting the later alien-abduction interpretation as a product of memory reconstruction.
 
@@ -276,16 +276,16 @@ That sequence matters because it separates the direct experience from the later 
 
 ## Self-Hypnosis After the Reported Encounter
 
-One unusual feature of the Moody case is that the memory recovery was reportedly self-directed rather than conducted through a professional hypnotic regression therapist. UFO literature often treats this as a point in Moody’s favour because it supposedly reduced outside contamination from an investigator eager to confirm an alien encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/scj8aw/this_air_force_officers_1975_abduction_in_new/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">this air force officers 1975 abduction in new</span><span class="citation-popover-snippet">This Air Force officer&#x27;s 1975 abduction in New Mexico...January 25, 2022 — Notably, this case was apparently *not* recalled throug...</span><span class="citation-popover-meta">Published: January 25, 2022</span></span></span>
+One unusual feature of the Moody case is that the memory recovery was reportedly self-directed rather than conducted through a professional hypnotic regression therapist. UFO literature often treats this as a point in Moody’s favour because it supposedly reduced outside contamination from an investigator eager to confirm an alien encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/scj8aw/this_air_force_officers_1975_abduction_in_new/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">this air force officers 1975 abduction in new</span><span class="citation-popover-snippet">This Air Force officer&#x27;s 1975 abduction in New Mexico...January 25, 2022 — Notably, this case was apparently *not* recalled throug...</span><span class="citation-popover-meta">Published: January 25, 2022</span></span></span>
 
-However, self-hypnosis does not eliminate the main scientific criticisms surrounding recovered-memory techniques. Psychologists studying hypnosis have long argued that hypnotic states can increase confidence in memories without increasing accuracy. Under hypnosis, people may unconsciously fill gaps in memory with imagined material that later feels authentic and emotionally real. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/7206953_Alien_abduction_experiences_Some_clues_from_Neuropsychology_and_Neuropsychiatry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate In Moody’s case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Alien abduction experiences: Some clues from...It is argued that abductees may be more prone to false memories than the gene...</span></span></span>, the recovered memories reportedly unfolded gradually rather than appearing all at once. Over time he recalled:
+However, self-hypnosis does not eliminate the main scientific criticisms surrounding recovered-memory techniques. Psychologists studying hypnosis have long argued that hypnotic states can increase confidence in memories without increasing accuracy. Under hypnosis, people may unconsciously fill gaps in memory with imagined material that later feels authentic and emotionally real.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/7206953_Alien_abduction_experiences_Some_clues_from_Neuropsychology_and_Neuropsychiatry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate In Moody’s case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Alien abduction experiences: Some clues from...It is argued that abductees may be more prone to false memories than the gene...</span></span></span>, the recovered memories reportedly unfolded gradually rather than appearing all at once. Over time he recalled:
 
 * two humanoid figures approaching his vehicle,
 * a physical struggle,
 * loss of consciousness,
 * awakening on a table aboard a craft,
 * telepathic communication,
-* and a guided tour of the interior. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">Upon the recommendation of a physician, he began to practice self-hypnosis in an effort to recall what had occurred during the lost time...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://connectparanormal.net/2024/06/29/charles-moodys-ufo-encounter-a-detailed-account/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connectparanormal.net">[Connect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connectparanormal.net</span><span class="citation-popover-title">charles moodys ufo encounter a detailed account</span><span class="citation-popover-snippet">Charles Moody&#x27;s UFO Encounter: A Detailed Account29 Jun 2024 — Such in-depth memories during hypnosis are consistent with other abduction...</span></span></span>
+* and a guided tour of the interior.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">Upon the recommendation of a physician, he began to practice self-hypnosis in an effort to recall what had occurred during the lost time...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://connectparanormal.net/2024/06/29/charles-moodys-ufo-encounter-a-detailed-account/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connectparanormal.net">[Connect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connectparanormal.net</span><span class="citation-popover-title">charles moodys ufo encounter a detailed account</span><span class="citation-popover-snippet">Charles Moody&#x27;s UFO Encounter: A Detailed Account29 Jun 2024 — Such in-depth memories during hypnosis are consistent with other abduction...</span></span></span>
 
 Supporters interpret the incremental nature of the recollections as psychologically believable. Skeptics argue the opposite: a slowly expanding narrative is exactly what memory researchers would expect from repeated imaginative reconstruction.
 
@@ -293,11 +293,11 @@ Supporters interpret the incremental nature of the recollections as psychologica
 
 ## Alien Beings and Craft Interior Memories
 
-The memories Moody reportedly recovered fit many patterns that later became standard in alien-abduction culture. The beings were described as hairless humanoids with large eyes and thin lips, wearing tight uniforms. A shorter “leader” figure communicated telepathically and reassured him that the beings meant no harm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">Upon the recommendation of a physician, he began to practice self-hypnosis in an effort to recall what had occurred during the lost time...</span></span></span>
+The memories Moody reportedly recovered fit many patterns that later became standard in alien-abduction culture. The beings were described as hairless humanoids with large eyes and thin lips, wearing tight uniforms. A shorter “leader” figure communicated telepathically and reassured him that the beings meant no harm.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">Upon the recommendation of a physician, he began to practice self-hypnosis in an effort to recall what had occurred during the lost time...</span></span></span>
 
 Several details stand out historically because the case dates to 1975, before the “grey alien” image became dominant in popular media during the late 1980s and 1990s. UFO researchers sometimes point to this timing as evidence that Moody was not simply copying a fully established cultural script.
 
-Yet the picture is more complicated. Elements of the modern abduction template already existed before Moody’s account through earlier cases such as Betty and Barney Hill, as well as growing UFO literature about medical examinations, telepathy and missing time. By the mid-1970s, these ideas circulated widely in paranormal books and magazines even if the exact “grey” stereotype had not fully crystallised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideshare.net/slideshow/budd-hopkins-missing-time-44639943/44639943" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideshare.net">[www.slideshare.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideshare.net</span><span class="citation-popover-snippet">hopkins missing time &#124; PDFBudd hopkins missing time. AI-enhanced description. This introduction summarizes key points about the UFO pheno...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[2dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">UFO job to Howard McCoy and Alfred Loedding.26 90 UFOs... UFO abduction cases with these other troubling areas, particularly since hypno...</span></span></span>
+Yet the picture is more complicated. Elements of the modern abduction template already existed before Moody’s account through earlier cases such as Betty and Barney Hill, as well as growing UFO literature about medical examinations, telepathy and missing time. By the mid-1970s, these ideas circulated widely in paranormal books and magazines even if the exact “grey” stereotype had not fully crystallised.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideshare.net/slideshow/budd-hopkins-missing-time-44639943/44639943" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideshare.net">[www.slideshare.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideshare.net</span><span class="citation-popover-snippet">hopkins missing time &#124; PDFBudd hopkins missing time. AI-enhanced description. This introduction summarizes key points about the UFO pheno...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[2dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">UFO job to Howard McCoy and Alfred Loedding.26 90 UFOs... UFO abduction cases with these other troubling areas, particularly since hypno...</span></span></span>
 
 The craft-interior memories also followed recurring patterns seen in many hypnotically recovered abduction stories:
 
@@ -316,7 +316,7 @@ Critics argue that these similarities may reflect shared cultural expectations r
 <img src="{{ "/assets/images/Charles_L_Moody_abdu_780173_hypnotic_recall_6c5b53-Illustration-2-dark.svg" | relative_url }}" alt="Hypnosis illustration 2" data-theme-src-dark="{{ "/assets/images/Charles_L_Moody_abdu_780173_hypnotic_recall_6c5b53-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Charles_L_Moody_abdu_780173_hypnotic_recall_6c5b53-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The False Memory Problem
 
-The Moody case is frequently cited in discussions about whether hypnosis can create sincere but inaccurate memories. By the 1980s and 1990s, psychologists and sceptical investigators increasingly challenged hypnotically recovered abduction narratives on methodological grounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1988/07/22165254/p85.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">centerforinquiry.orgUFO-Abductionsby RA Baker — abductions emerged following the use of regressive hypnosis to recover an alleged period...</span></span></span>
+The Moody case is frequently cited in discussions about whether hypnosis can create sincere but inaccurate memories. By the 1980s and 1990s, psychologists and sceptical investigators increasingly challenged hypnotically recovered abduction narratives on methodological grounds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1988/07/22165254/p85.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">centerforinquiry.orgUFO-Abductionsby RA Baker — abductions emerged following the use of regressive hypnosis to recover an alleged period...</span></span></span>
 
 The core concern is not necessarily deliberate fabrication. Instead, the criticism focuses on how memory works under uncertainty. Researchers note several risk factors that were present in many abduction reports, including Moody’s:
 
@@ -330,7 +330,7 @@ The core concern is not necessarily deliberate fabrication. Instead, the critici
 
 </div>
 
-Memory research shows that recollections are reconstructive rather than replayed like recordings. Under hypnosis, confidence can increase dramatically even when details are inaccurate. A witness may become more certain of events that never objectively occurred. Wikipedia ResearchGate Sceptics therefore argue that Moody’s vivid recollections cannot automatically be treated as evidence of literal abduction. They may instead <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/7206953_Alien_abduction_experiences_Some_clues_from_Neuropsychology_and_Neuropsychiatry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Alien abduction experiences: Some clues from...It is argued that abductees may be more prone to false memories than the gene...</span></span></span> represent a psychologically real experience shaped into narrative form after the fact.
+Memory research shows that recollections are reconstructive rather than replayed like recordings. Under hypnosis, confidence can increase dramatically even when details are inaccurate. A witness may become more certain of events that never objectively occurred. Wikipedia ResearchGate Sceptics therefore argue that Moody’s vivid recollections cannot automatically be treated as evidence of literal abduction. They may instead<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/7206953_Alien_abduction_experiences_Some_clues_from_Neuropsychology_and_Neuropsychiatry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Alien abduction experiences: Some clues from...It is argued that abductees may be more prone to false memories than the gene...</span></span></span> represent a psychologically real experience shaped into narrative form after the fact.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3c-S1rLZWY8" title="💥 &quot;I Was Abducted &amp; Gave Birth to Aliens&quot; - UFO Alien Abduction Body Language Analyzed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3c-S1rLZWY8" target="_blank" rel="noopener noreferrer">💥 &quot;I Was Abducted &amp; Gave Birth to Aliens&quot; - UFO Alien Abduction Body Language Analyzed</a></p><p class="youtube-embed-meta">Channel: The Behavior Panel &middot; Views: 318.8K &middot; Uploaded: May 2020 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3c-S1rLZWY8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3c-S1rLZWY8">Open on YouTube</a></p></div></div></div>
 
@@ -338,7 +338,7 @@ Memory research shows that recollections are reconstructive rather than replayed
 
 Despite the criticism, the Moody case remains influential in UFO circles for several reasons beyond hypnosis alone.
 
-First, Moody was reportedly an Air Force sergeant, giving the case a military association that many enthusiasts consider important. Second, the missing-time element appeared before the detailed memories were reconstructed, which supporters see as harder to dismiss than stories that emerge fully formed from the outset. Third, the account included physical complaints such as pain and rash symptoms, which believers sometimes interpret as partial corroboration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">Upon the recommendation of a physician, he began to practice self-hypnosis in an effort to recall what had occurred during the lost time...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://anomalien.com/air-force-sergeant-charles-l-moody-alien-abduction-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anomalien.com">[Anomalien.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anomalien.com</span><span class="citation-popover-title">Air Force Sergeant Charles L</span><span class="citation-popover-snippet">Moody Alien Abduction Case28 Feb 2021 — Upon the recommendation of a physician, he began to practice self-hypnosis in an effort to recall...</span></span></span>
+First, Moody was reportedly an Air Force sergeant, giving the case a military association that many enthusiasts consider important. Second, the missing-time element appeared before the detailed memories were reconstructed, which supporters see as harder to dismiss than stories that emerge fully formed from the outset. Third, the account included physical complaints such as pain and rash symptoms, which believers sometimes interpret as partial corroboration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">Upon the recommendation of a physician, he began to practice self-hypnosis in an effort to recall what had occurred during the lost time...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://anomalien.com/air-force-sergeant-charles-l-moody-alien-abduction-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anomalien.com">[Anomalien.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anomalien.com</span><span class="citation-popover-title">Air Force Sergeant Charles L</span><span class="citation-popover-snippet">Moody Alien Abduction Case28 Feb 2021 — Upon the recommendation of a physician, he began to practice self-hypnosis in an effort to recall...</span></span></span>
 
 Some researchers also argue that Moody’s emotional conviction appeared genuine. In abduction research, sincerity is often treated separately from factual accuracy. Even sceptics who doubt the literal truth of the story generally do not present Moody as an obvious hoaxer.
 
@@ -353,7 +353,7 @@ The strongest sceptical interpretation is that hypnosis explains nearly all of t
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Moody experienced a strange or stressful event in isolation.
-2. He noticed a period of missing time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideshare.net/slideshow/budd-hopkins-missing-time-44639943/44639943" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideshare.net">[slideshare.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideshare.net</span><span class="citation-popover-snippet">hopkins missing time &#124; PDFBudd hopkins missing time. AI-enhanced description. This introduction summarizes key points about the UFO pheno...</span></span></span>
+2. He noticed a period of missing time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideshare.net/slideshow/budd-hopkins-missing-time-44639943/44639943" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideshare.net">[slideshare.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideshare.net</span><span class="citation-popover-snippet">hopkins missing time &#124; PDFBudd hopkins missing time. AI-enhanced description. This introduction summarizes key points about the UFO pheno...</span></span></span>
 3. Anxiety and physical symptoms increased his need for explanation.
 4. Self-hypnosis encouraged imaginative reconstruction.
 5. Existing UFO imagery supplied narrative structure.
@@ -362,199 +362,199 @@ The strongest sceptical interpretation is that hypnosis explains nearly all of t
 
 This framework does not require deliberate deception or mental illness. It treats the abduction story as a sincere but psychologically generated interpretation.
 
-Supporters of the abduction hypothesis argue that this explanation leaves important questions unresolved, especially the initial sighting, the timing discrepancy and Moody’s conviction that the memories represented actual events rather than dreams or fantasies. They also note that many abductees report unusually intense emotional reactions when recalling such experiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">Upon the recommendation of a physician, he began to practice self-hypnosis in an effort to recall what had occurred during the lost time...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://connectparanormal.net/2024/06/29/charles-moodys-ufo-encounter-a-detailed-account/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connectparanormal.net">[Connect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connectparanormal.net</span><span class="citation-popover-title">charles moodys ufo encounter a detailed account</span><span class="citation-popover-snippet">Charles Moody&#x27;s UFO Encounter: A Detailed Account29 Jun 2024 — Such in-depth memories during hypnosis are consistent with other abduction...</span></span></span>
+Supporters of the abduction hypothesis argue that this explanation leaves important questions unresolved, especially the initial sighting, the timing discrepancy and Moody’s conviction that the memories represented actual events rather than dreams or fantasies. They also note that many abductees report unusually intense emotional reactions when recalling such experiences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">Upon the recommendation of a physician, he began to practice self-hypnosis in an effort to recall what had occurred during the lost time...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://connectparanormal.net/2024/06/29/charles-moodys-ufo-encounter-a-detailed-account/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connectparanormal.net">[Connect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connectparanormal.net</span><span class="citation-popover-title">charles moodys ufo encounter a detailed account</span><span class="citation-popover-snippet">Charles Moody&#x27;s UFO Encounter: A Detailed Account29 Jun 2024 — Such in-depth memories during hypnosis are consistent with other abduction...</span></span></span>
 
 What remains unresolved is that the key evidence for the abduction itself ultimately depends almost entirely on recovered memory. There are no publicly available official investigations, independent witnesses, recordings or physical artefacts that verify the reconstructed narrative. That makes the reliability of hypnotic recall central to how the Charles L. Moody case is judged.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Hypnosis Explain the Abduction Story?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Hypnosis Explain the Abduction Story?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xq1vfWIiV1IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xq1vfWIiV1IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
         
-        <p class="fr-book-desc">Explains how suggestion, confabulation, and self-directed relaxation loops create vivid but completely false narratives of physical medic...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how suggestion, confabulation, and self-directed relaxation loops create vivid but completely false narratives of physical medic...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
-        </h4>
-        <p class="fr-book-author">By John E. Mack, Mack</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+</h4>
+<p class="fr-book-author">By John E. Mack, Mack</p>
         
-        <p class="fr-book-desc">Examines the clinical profile of narrative expansion patterns that occur when a solitary witness attempts to recover several missing hours.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the clinical profile of narrative expansion patterns that occur when a solitary witness attempts to recover several missing hours.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alien Abduction Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y1C4MgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alien Abduction Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alien Abduction Files">The Alien Abduction Files</a>
-        </h4>
-        <p class="fr-book-author">By Kathleen Marden, Denise Stoner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alien Abduction Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y1C4MgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alien Abduction Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alien Abduction Files">The Alien Abduction Files</a>
+</h4>
+<p class="fr-book-author">By Kathleen Marden, Denise Stoner</p>
         
-        <p class="fr-book-desc">Traces the structural patterns of 1970s abduction accounts that developed gradually over days following an initial roadside alert.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Traces the structural patterns of 1970s abduction accounts that developed gradually over days following an initial roadside alert.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
-        </h4>
-        <p class="fr-book-author">By Budd Hopkins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
+</h4>
+<p class="fr-book-author">By Budd Hopkins</p>
         
-        <p class="fr-book-desc">Details the precise timeline phase where a simple glowing disc sighting morphs over weeks into complex claims of bodily paralysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details the precise timeline phase where a simple glowing disc sighting morphs over weeks into complex claims of bodily paralysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alien Abduction Files</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alien Abduction Files</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-hypnosis-explain-the-abduction-story-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift"><img src="https://i.ebayimg.com/images/g/diIAAeSw0lVqCLJN/s-l225.jpg" alt="Listing image for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-hypnosis-explain-the-abduction-story-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-hypnosis-explain-the-abduction-story-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-hypnosis-explain-the-abduction-story-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-hypnosis-explain-the-abduction-story-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-hypnosis-explain-the-abduction-story-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-hypnosis-explain-the-abduction-story-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-hypnosis-explain-the-abduction-story-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-hypnosis-explain-the-abduction-story-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Gift"><img src="https://i.ebayimg.com/images/g/VHUAAeSw7pFqCu4A/s-l225.jpg" alt="Listing image for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-hypnosis-explain-the-abduction-story-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-hypnosis-explain-the-abduction-story-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-hypnosis-explain-the-abduction-story-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-hypnosis-explain-the-abduction-story-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-hypnosis-explain-the-abduction-story-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-hypnosis-explain-the-abduction-story-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-hypnosis-explain-the-abduction-story-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-hypnosis-explain-the-abduction-story-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NECA Aliens AVP GRID ALIEN Series 7 movie 7&quot; Action Figure UK STOCK！"><img src="https://i.ebayimg.com/images/g/w2YAAeSwjchpqcsg/s-l225.jpg" alt="Listing image for NECA Aliens AVP GRID ALIEN Series 7 movie 7&quot; Action Figure UK STOCK！" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-hypnosis-explain-the-abduction-story-alien-figure" target="_blank" rel="sponsored noopener noreferrer">NECA Aliens AVP GRID ALIEN Series 7 movie 7&quot; Action Figure UK STOCK！</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-hypnosis-explain-the-abduction-story-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-hypnosis-explain-the-abduction-story-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-hypnosis-explain-the-abduction-story-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-hypnosis-explain-the-abduction-story-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-hypnosis-explain-the-abduction-story-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-hypnosis-explain-the-abduction-story-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-hypnosis-explain-the-abduction-story-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NECA Aliens action figures Hicks Hudson Vasquez Frost Bishop Burke Xenomorph"><img src="https://i.ebayimg.com/images/g/4dQAAeSwr~JqKpFP/s-l225.jpg" alt="Listing image for NECA Aliens action figures Hicks Hudson Vasquez Frost Bishop Burke Xenomorph" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-hypnosis-explain-the-abduction-story-alien-figure" target="_blank" rel="sponsored noopener noreferrer">NECA Aliens action figures Hicks Hudson Vasquez Frost Bishop Burke Xenomorph</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-hypnosis-explain-the-abduction-story-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-hypnosis-explain-the-abduction-story-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-hypnosis-explain-the-abduction-story-alien-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-hypnosis-explain-the-abduction-story-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-hypnosis-explain-the-abduction-story-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-hypnosis-explain-the-abduction-story-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-hypnosis-explain-the-abduction-story-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-hypnosis-explain-the-abduction-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-hypnosis-explain-the-abduction-story-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -570,7 +570,7 @@ What remains unresolved is that the key evidence for the abduction itself ultima
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -590,7 +590,7 @@ What remains unresolved is that the key evidence for the abduction itself ultima
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -622,7 +622,7 @@ What remains unresolved is that the key evidence for the abduction itself ultima
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -674,7 +674,7 @@ What remains unresolved is that the key evidence for the abduction itself ultima
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -719,7 +719,7 @@ What remains unresolved is that the key evidence for the abduction itself ultima
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,122 +757,121 @@ What remains unresolved is that the key evidence for the abduction itself ultima
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ufocasebook.com  
-   Link: <a href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/moody.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Upon the recommendation of a physician, he began to practice self-hypnosis in an effort to recall what had occurred during the lost time...</p></details>
+   Link:<a href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/moody.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Upon the recommendation of a physician, he began to practice self-hypnosis in an effort to recall what had occurred during the lost time...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Alien abduction  
-   Link: <a href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_abduction</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_abduction</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: anomalien.com  
    Title: Air Force Sergeant Charles L  
-   Link: <a href="https://anomalien.com/air-force-sergeant-charles-l-moody-alien-abduction-case/" target="_blank" rel="noopener noreferrer nofollow">https://anomalien.com/air-force-sergeant-charles-l-moody-alien-abduction-case/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moody Alien Abduction Case28 Feb 2021 — Upon the recommendation of a physician, he began to practice self-hypnosis in an effort to recall...</p></details>
+   Link:<a href="https://anomalien.com/air-force-sergeant-charles-l-moody-alien-abduction-case/" target="_blank" rel="noopener noreferrer nofollow">https://anomalien.com/air-force-sergeant-charles-l-moody-alien-abduction-case/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moody Alien Abduction Case28 Feb 2021 — Upon the recommendation of a physician, he began to practice self-hypnosis in an effort to recall...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: this air force officers 1975 abduction in new  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/scj8aw/this_air_force_officers_1975_abduction_in_new/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/scj8aw/this_air_force_officers_1975_abduction_in_new/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This Air Force officer&#x27;s 1975 abduction in New Mexico...January 25, 2022 — Notably, this case was apparently *not* recalled throug...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/scj8aw/this_air_force_officers_1975_abduction_in_new/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/scj8aw/this_air_force_officers_1975_abduction_in_new/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Air Force officer&#x27;s 1975 abduction in New Mexico...January 25, 2022 — Notably, this case was apparently *not* recalled throug...</p></details>
    Published: January 25, 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/7206953_Alien_abduction_experiences_Some_clues_from_Neuropsychology_and_Neuropsychiatry" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/7206953_Alien_abduction_experiences_Some_clues_from_Neuropsychology_and_Neuropsychiatry</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien abduction experiences: Some clues from...It is argued that abductees may be more prone to false memories than the gene...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/7206953_Alien_abduction_experiences_Some_clues_from_Neuropsychology_and_Neuropsychiatry" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/7206953_Alien_abduction_experiences_Some_clues_from_Neuropsychology_and_Neuropsychiatry</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien abduction experiences: Some clues from...It is argued that abductees may be more prone to false memories than the gene...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: slideshare.net  
-   Link: <a href="https://www.slideshare.net/slideshow/budd-hopkins-missing-time-44639943/44639943" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/budd-hopkins-missing-time-44639943/44639943</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>hopkins missing time | PDFBudd hopkins missing time. AI-enhanced description. This introduction summarizes key points about the UFO pheno...</p></details>
+   Link:<a href="https://www.slideshare.net/slideshow/budd-hopkins-missing-time-44639943/44639943" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/budd-hopkins-missing-time-44639943/44639943</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hopkins missing time | PDFBudd hopkins missing time. AI-enhanced description. This introduction summarizes key points about the UFO pheno...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO job to Howard McCoy and Alfred Loedding.26 90 UFOs... UFO abduction cases with these other troubling areas, particularly since hypno...</p></details>
+   Link:<a href="https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO job to Howard McCoy and Alfred Loedding.26 90 UFOs... UFO abduction cases with these other troubling areas, particularly since hypno...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: The compelling story of Charles L  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1kmg6zh/the_compelling_story_of_charles_l_moodys_alien/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kmg6zh/the_compelling_story_of_charles_l_moodys_alien/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moody&#x27;s alien abduction...On May 23rd 1975, Charles L. Moody went missing shortly after seeing a UFO and was found the next morning more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1kmg6zh/the_compelling_story_of_charles_l_moodys_alien/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kmg6zh/the_compelling_story_of_charles_l_moodys_alien/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moody&#x27;s alien abduction...On May 23rd 1975, Charles L. Moody went missing shortly after seeing a UFO and was found the next morning more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Satanic panic  
-   Link: <a href="https://en.wikipedia.org/wiki/Satanic_panic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satanic_panic</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Satanic panic... memories were recovered through the use of hypnosis (which he considered questionable). No cases were referred to law...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Satanic_panic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satanic_panic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Satanic panic... memories were recovered through the use of hypnosis (which he considered questionable). No cases were referred to law...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1988/07/22165254/p85.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1988/07/22165254/p85.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>centerforinquiry.orgUFO-Abductionsby RA Baker — abductions emerged following the use of regressive hypnosis to recover an alleged period...</p></details>
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1988/07/22165254/p85.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1988/07/22165254/p85.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>centerforinquiry.orgUFO-Abductionsby RA Baker — abductions emerged following the use of regressive hypnosis to recover an alleged period...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: connectparanormal.net  
    Title: charles moodys ufo encounter a detailed account  
-   Link: <a href="https://connectparanormal.net/2024/06/29/charles-moodys-ufo-encounter-a-detailed-account/" target="_blank" rel="noopener noreferrer nofollow">https://connectparanormal.net/2024/06/29/charles-moodys-ufo-encounter-a-detailed-account/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Charles Moody&#x27;s UFO Encounter: A Detailed Account29 Jun 2024 — Such in-depth memories during hypnosis are consistent with other abduction...</p></details>
+   Link:<a href="https://connectparanormal.net/2024/06/29/charles-moodys-ufo-encounter-a-detailed-account/" target="_blank" rel="noopener noreferrer nofollow">https://connectparanormal.net/2024/06/29/charles-moodys-ufo-encounter-a-detailed-account/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Charles Moody&#x27;s UFO Encounter: A Detailed Account29 Jun 2024 — Such in-depth memories during hypnosis are consistent with other abduction...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: oddee.com  
-   Link: <a href="https://www.oddee.com/item_97917.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.oddee.com/item_97917.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Amazing Alien Abduction StoriesThe next day, Moody began experiencing back pain and a strange rash, so his doctor advised him to try a...</p></details>
+   Link:<a href="https://www.oddee.com/item_97917.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.oddee.com/item_97917.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Amazing Alien Abduction StoriesThe next day, Moody began experiencing back pain and a strange rash, so his doctor advised him to try a...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: bartleby.com  
-   Link: <a href="https://www.bartleby.com/essay/A-Conspiracy-Phenomenon-Alien-Abductions-in-the-FKCF6NNYVJ" target="_blank" rel="noopener noreferrer nofollow">https://www.bartleby.com/essay/A-Conspiracy-Phenomenon-Alien-Abductions-in-the-FKCF6NNYVJ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>He was reported missing for 5 days, when he returned he did not know how long he had been gone for. He...Read more...</p></details>
+   Link:<a href="https://www.bartleby.com/essay/A-Conspiracy-Phenomenon-Alien-Abductions-in-the-FKCF6NNYVJ" target="_blank" rel="noopener noreferrer nofollow">https://www.bartleby.com/essay/A-Conspiracy-Phenomenon-Alien-Abductions-in-the-FKCF6NNYVJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He was reported missing for 5 days, when he returned he did not know how long he had been gone for. He...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rm3eM0ZAZpI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rm3eM0ZAZpI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Abduction of Air Force Seargent Charles MoodyIn today&#x27;s episode we will examine the Alien Abduction of Air Force Sergeant Charl...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rm3eM0ZAZpI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rm3eM0ZAZpI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Abduction of Air Force Seargent Charles MoodyIn today&#x27;s episode we will examine the Alien Abduction of Air Force Sergeant Charl...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: listennotes.com  
    Title: Listen Notes Mystery in the Night: The Moody Abduction  
-   Link: <a href="https://www.listennotes.com/de/podcasts/theyre-out-there/mystery-in-the-night-the-WCYTUhyS2ng/?srsltid=AfmBOorcYh6O91vphjXg_3SOfCGp5HyJjb1XggYLIjq39Nq1VK6xt5zp" target="_blank" rel="noopener noreferrer nofollow">https://www.listennotes.com/de/podcasts/theyre-out-there/mystery-in-the-night-the-WCYTUhyS2ng/?srsltid=AfmBOorcYh6O91vphjXg_3SOfCGp5HyJjb1XggYLIjq39Nq1VK6xt5zp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery in the Night: The Moody Abduction - THEY&#x27;RE OUT...21 Jun 2024 — Moody&#x27;s memory of the encounter was initially vague but later su...</p></details>
+   Link:<a href="https://www.listennotes.com/de/podcasts/theyre-out-there/mystery-in-the-night-the-WCYTUhyS2ng/?srsltid=AfmBOorcYh6O91vphjXg_3SOfCGp5HyJjb1XggYLIjq39Nq1VK6xt5zp" target="_blank" rel="noopener noreferrer nofollow">https://www.listennotes.com/de/podcasts/theyre-out-there/mystery-in-the-night-the-WCYTUhyS2ng/?srsltid=AfmBOorcYh6O91vphjXg_3SOfCGp5HyJjb1XggYLIjq39Nq1VK6xt5zp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery in the Night: The Moody Abduction - THEY&#x27;RE OUT...21 Jun 2024 — Moody&#x27;s memory of the encounter was initially vague but later su...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/30207679/TOWARD_A_PSYCHOLOGY_OF_UFO_ABDUCTION_BELIEFS" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/30207679/TOWARD_A_PSYCHOLOGY_OF_UFO_ABDUCTION_BELIEFS</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>allegedly took place in the summer of 1961 while Ed slept in a...Read more...</p></details>
+   Link:<a href="https://www.academia.edu/30207679/TOWARD_A_PSYCHOLOGY_OF_UFO_ABDUCTION_BELIEFS" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/30207679/TOWARD_A_PSYCHOLOGY_OF_UFO_ABDUCTION_BELIEFS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>allegedly took place in the summer of 1961 while Ed slept in a...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/245324208/Man-and-Mystery-Vol-09-The-Paranormal-Rev06" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/245324208/Man-and-Mystery-Vol-09-The-Paranormal-Rev06</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an overview of alien abduction claims, noting that while...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/245324208/Man-and-Mystery-Vol-09-The-Paranormal-Rev06" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/245324208/Man-and-Mystery-Vol-09-The-Paranormal-Rev06</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an overview of alien abduction claims, noting that while...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: poddtoppen.se  
    Title: Mystery in the Night: The Moody Abduction  
-   Link: <a href="https://poddtoppen.se/podcast/1654428252/theyre-out-there/mystery-in-the-night-the-moody-abduction" target="_blank" rel="noopener noreferrer nofollow">https://poddtoppen.se/podcast/1654428252/theyre-out-there/mystery-in-the-night-the-moody-abduction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THEY&#x27;RE OUT...The Moody abduction case involves Charles Moody, a US Air Force Sergeant who claimed to have been abducted by aliens near...</p></details>
+   Link:<a href="https://poddtoppen.se/podcast/1654428252/theyre-out-there/mystery-in-the-night-the-moody-abduction" target="_blank" rel="noopener noreferrer nofollow">https://poddtoppen.se/podcast/1654428252/theyre-out-there/mystery-in-the-night-the-moody-abduction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THEY&#x27;RE OUT...The Moody abduction case involves Charles Moody, a US Air Force Sergeant who claimed to have been abducted by aliens near...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/VICE/posts/a-hypnotized-man-recalls-his-encounter-with-an-alien/1314929490500032/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VICE/posts/a-hypnotized-man-recalls-his-encounter-with-an-alien/1314929490500032/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n Abduction Of Air Force Sergeant Charles L Moody...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/VICE/posts/a-hypnotized-man-recalls-his-encounter-with-an-alien/1314929490500032/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VICE/posts/a-hypnotized-man-recalls-his-encounter-with-an-alien/1314929490500032/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n Abduction Of Air Force Sergeant Charles L Moody...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/officialmidjourney/posts/645933314364903/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/officialmidjourney/posts/645933314364903/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Force Sergeant Charles L. Moody on August 13, 1975.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/officialmidjourney/posts/645933314364903/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/officialmidjourney/posts/645933314364903/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Force Sergeant Charles L. Moody on August 13, 1975.Read more...</p></details>
    Published: August 13, 1975  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: www2.rivier.edu  
    Title: Web Page Past Life Experiences 4 29 11  
-   Link: <a href="https://www2.rivier.edu/faculty/pcunningham/Research/Web%20Page%20Past-Life%20Experiences%204-29-11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.rivier.edu/faculty/pcunningham/Research/Web%20Page%20Past-Life%20Experiences%204-29-11.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>criticisms of therapists who use hypnosis to elicit past-life memories to produce therapeutic effects. These include: Encouraging imagina...</p></details>
+   Link:<a href="https://www2.rivier.edu/faculty/pcunningham/Research/Web%20Page%20Past-Life%20Experiences%204-29-11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.rivier.edu/faculty/pcunningham/Research/Web%20Page%20Past-Life%20Experiences%204-29-11.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>criticisms of therapists who use hypnosis to elicit past-life memories to produce therapeutic effects. These include: Encouraging imagina...</p></details>

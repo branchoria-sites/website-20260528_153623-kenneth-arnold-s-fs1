@@ -248,14 +248,14 @@ image: /assets/images/Clyde_Tombaugh_sight_af62cd_life_retelling_5539b4-Illustra
 
 ## Introduction
 
-The Clyde Tombaugh sighting became more famous after a widely read 1952 article in *Life* magazine helped turn it from a brief report of faint lights into a much more dramatic “flying saucer” narrative. That shift mattered because Tombaugh was not an ordinary witness: he was the astronomer who discovered Pluto, and his reputation gave the story unusual authority. Yet the popular version that many readers remembered differed significantly from Tombaugh’s own restrained description. Later critics, especially astronomer Donald H. Menzel and researcher Lyle G. Boyd, argued that the magazine account amplified the apparent evidential strength of the case by exaggerating brightness, structure, and certainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe World of Flying Saucers, by Donald H. Menzel...A scientific examination of a major myth of the space age. Donald H....</span></span></span>
+The Clyde Tombaugh sighting became more famous after a widely read 1952 article in *Life* magazine helped turn it from a brief report of faint lights into a much more dramatic “flying saucer” narrative. That shift mattered because Tombaugh was not an ordinary witness: he was the astronomer who discovered Pluto, and his reputation gave the story unusual authority. Yet the popular version that many readers remembered differed significantly from Tombaugh’s own restrained description. Later critics, especially astronomer Donald H. Menzel and researcher Lyle G. Boyd, argued that the magazine account amplified the apparent evidential strength of the case by exaggerating brightness, structure, and certainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe World of Flying Saucers, by Donald H. Menzel...A scientific examination of a major myth of the space age. Donald H....</span></span></span>
 
 <img src="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd_life_retelling_5539b4-Illustration-1-dark.svg" | relative_url }}" alt="Retellings illustration 1" data-theme-src-dark="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd_life_retelling_5539b4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd_life_retelling_5539b4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The episode became an important example in UFO history because it showed how retellings could gradually transform an ambiguous sighting into apparent evidence for extraterrestrial craft. In the Tombaugh case, the gap between the original testimony and the later popular image is unusually well documented.
 
 ## What the 1952 magazine version claimed
 
-The key popularisation came during the early 1950s UFO boom, when *Life* magazine published “Have We Visitors From Space?” — one of the most influential flying-saucer articles of the era. The article treated some UFO reports sympathetically and helped push the extraterrestrial interpretation into mainstream public discussion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Have_We_Visitors_From_Space" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Have We Visitors From Space?</span><span class="citation-popover-snippet">Have We Visitors From Space?</span></span></span>
+The key popularisation came during the early 1950s UFO boom, when *Life* magazine published “Have We Visitors From Space?” — one of the most influential flying-saucer articles of the era. The article treated some UFO reports sympathetically and helped push the extraterrestrial interpretation into mainstream public discussion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Have_We_Visitors_From_Space" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Have We Visitors From Space?</span><span class="citation-popover-snippet">Have We Visitors From Space?</span></span></span>
 
 Within that atmosphere, Tombaugh’s observation was presented less as a fleeting and uncertain visual event and more as evidence that a trained astronomer had seen a structured aerial object. The retelling encouraged readers to think of a coherent craft moving across the sky rather than a dim formation of lights seen for only a few seconds.
 
@@ -271,13 +271,13 @@ That distinction is crucial. Tombaugh’s own account described:
 
 </div>
 
-The popular retelling compressed or blurred many of those qualifiers. As the story spread through magazines, newspaper summaries, UFO books, and later television programmes, the phrase “Tombaugh saw a UFO” increasingly implied that he had observed a clearly defined spaceship-like object. In practice, his original report was much narrower and more cautious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe World of Flying Saucers, by Donald H. Menzel...A scientific examination of a major myth of the space age. Donald H....</span></span></span>
+The popular retelling compressed or blurred many of those qualifiers. As the story spread through magazines, newspaper summaries, UFO books, and later television programmes, the phrase “Tombaugh saw a UFO” increasingly implied that he had observed a clearly defined spaceship-like object. In practice, his original report was much narrower and more cautious.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe World of Flying Saucers, by Donald H. Menzel...A scientific examination of a major myth of the space age. Donald H....</span></span></span>
 
-The cultural setting amplified the distortion. By 1952, “flying saucer” imagery had already become strongly associated with metallic craft and extraterrestrial visitation in American popular culture. *Life* magazine’s enormous circulation meant that even subtle wording shifts could permanently reshape public memory of a case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Have_We_Visitors_From_Space%3F" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Have We Visitors From Space?</span><span class="citation-popover-snippet">B. Darrach Jr. and Robert Emmett Ginna Jr. that appeared in the April 7, 1952 edition...Read more...</span><span class="citation-popover-meta">Published: April 7, 1952</span></span></span>
+The cultural setting amplified the distortion. By 1952, “flying saucer” imagery had already become strongly associated with metallic craft and extraterrestrial visitation in American popular culture. *Life* magazine’s enormous circulation meant that even subtle wording shifts could permanently reshape public memory of a case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Have_We_Visitors_From_Space%3F" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Have We Visitors From Space?</span><span class="citation-popover-snippet">B. Darrach Jr. and Robert Emmett Ginna Jr. that appeared in the April 7, 1952 edition...Read more...</span><span class="citation-popover-meta">Published: April 7, 1952</span></span></span>
 
 ## The errors Menzel and Boyd identified
 
-Donald H. Menzel and Lyle G. Boyd later used the Tombaugh case as an example of how UFO stories changed through repetition. In *The World of Flying Saucers*, they argued that the *Life* presentation and later retellings overstated what Tombaugh actually reported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe World of Flying Saucers, by Donald H. Menzel...A scientific examination of a major myth of the space age. Donald H....</span></span></span>
+Donald H. Menzel and Lyle G. Boyd later used the Tombaugh case as an example of how UFO stories changed through repetition. In *The World of Flying Saucers*, they argued that the *Life* presentation and later retellings overstated what Tombaugh actually reported.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe World of Flying Saucers, by Donald H. Menzel...A scientific examination of a major myth of the space age. Donald H....</span></span></span>
 
 Their criticism focused on several recurring distortions.
 
@@ -289,7 +289,7 @@ That transformation substantially altered the evidential meaning of the sighting
 
 ### The faintness was forgotten
 
-One of Tombaugh’s most important comments was that the lights were extremely dim. He specifically noted that moonlight would probably have made them invisible. This detail strongly suggests a low-luminosity atmospheric or optical phenomenon rather than a brightly illuminated machine. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe World of Flying Saucers, by Donald H. Menzel...A scientific examination of a major myth of the space age. Donald H....</span></span></span>
+One of Tombaugh’s most important comments was that the lights were extremely dim. He specifically noted that moonlight would probably have made them invisible. This detail strongly suggests a low-luminosity atmospheric or optical phenomenon rather than a brightly illuminated machine.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe World of Flying Saucers, by Donald H. Menzel...A scientific examination of a major myth of the space age. Donald H....</span></span></span>
 
 In popular retellings, however, the faintness often disappeared. Readers instead encountered a simplified narrative in which Tombaugh supposedly witnessed an obvious UFO crossing the sky.
 
@@ -304,13 +304,13 @@ Later retellings frequently reduced emphasis on that brevity. The result was a p
 <img src="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd_life_retelling_5539b4-Illustration-2-dark.svg" | relative_url }}" alt="Retellings illustration 2" data-theme-src-dark="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd_life_retelling_5539b4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd_life_retelling_5539b4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Tombaugh’s caution was replaced by implied certainty
 
-Perhaps the most important distortion involved interpretation rather than raw description. Tombaugh repeatedly avoided claiming that he had seen an extraterrestrial spacecraft. Although he regarded the phenomenon as unusual, he remained open to atmospheric or optical explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe World of Flying Saucers, by Donald H. Menzel...A scientific examination of a major myth of the space age. Donald H....</span></span></span>
+Perhaps the most important distortion involved interpretation rather than raw description. Tombaugh repeatedly avoided claiming that he had seen an extraterrestrial spacecraft. Although he regarded the phenomenon as unusual, he remained open to atmospheric or optical explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe World of Flying Saucers, by Donald H. Menzel...A scientific examination of a major myth of the space age. Donald H....</span></span></span>
 
 In later UFO culture, however, the mere fact that a famous astronomer reported an unidentified aerial phenomenon was often treated as indirect confirmation of alien craft. Menzel and Boyd objected that this collapsed the distinction between “unidentified” and “extraterrestrial”.
 
 ## Why the retellings changed the evidential weight
 
-The distortions mattered because the Tombaugh case derived most of its force from witness credibility. Tombaugh was respected precisely because he was a careful observer with deep astronomical experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lowell.edu/who-was-clyde-tombaugh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lowell.edu">[Lowell Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lowell.edu</span><span class="citation-popover-title">Observatory Who Was Clyde Tombaugh?</span><span class="citation-popover-snippet">He began helping his father around the farm at an early age, planting corn, threshing oats and wheat.Read more...</span></span></span>
+The distortions mattered because the Tombaugh case derived most of its force from witness credibility. Tombaugh was respected precisely because he was a careful observer with deep astronomical experience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lowell.edu/who-was-clyde-tombaugh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lowell.edu">[Lowell Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lowell.edu</span><span class="citation-popover-title">Observatory Who Was Clyde Tombaugh?</span><span class="citation-popover-snippet">He began helping his father around the farm at an early age, planting corn, threshing oats and wheat.Read more...</span></span></span>
 
 But witness credibility cannot compensate for inaccurate retelling. Once the details changed, the evidential value changed as well.
 
@@ -337,7 +337,7 @@ The *Life*-era popular version subtly shifted the case toward something much str
 
 Public memory often compresses complicated cases into symbolic shorthand. In Tombaugh’s case, the shorthand became:
 
-“the discoverer of Pluto saw a flying saucer”.(#endnote-4 "Endnote 4") <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flying saucer</span><span class="citation-popover-snippet">Flying saucer</span></span></span>
+“the discoverer of Pluto saw a flying saucer”.(#endnote-4 "Endnote 4")<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flying saucer</span><span class="citation-popover-snippet">Flying saucer</span></span></span>
 
 That slogan-like version travelled far more effectively than the actual details about dimness, ambiguity, and duration. The witness’s prestige became detached from the weaknesses and limits of the observation itself.
 
@@ -358,211 +358,211 @@ The Tombaugh retelling became a classic example of narrative escalation:
 
 By the time a case enters popular mythology, uncertainty can largely disappear.
 
-The Tombaugh sighting is therefore historically important not only because of what was allegedly seen in 1949, but because it demonstrates how UFO stories were shaped during the early Cold War flying-saucer era. *Life* magazine did not invent the sighting, but its framing helped push the event from a limited observational puzzle into a culturally powerful UFO legend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flying saucer</span><span class="citation-popover-snippet">Flying saucer</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Donald_Howard_Menzel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Donald Howard Menzel</span><span class="citation-popover-snippet">Donald Howard MenzelDonald Howard Menzel (April 11, 1901 – December 14, 1976) was one of the first theoretical astronomers and astroph...</span><span class="citation-popover-meta">Published: April 11, 1901</span></span></span>
+The Tombaugh sighting is therefore historically important not only because of what was allegedly seen in 1949, but because it demonstrates how UFO stories were shaped during the early Cold War flying-saucer era. *Life* magazine did not invent the sighting, but its framing helped push the event from a limited observational puzzle into a culturally powerful UFO legend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flying saucer</span><span class="citation-popover-snippet">Flying saucer</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Donald_Howard_Menzel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Donald Howard Menzel</span><span class="citation-popover-snippet">Donald Howard MenzelDonald Howard Menzel (April 11, 1901 – December 14, 1976) was one of the first theoretical astronomers and astroph...</span><span class="citation-popover-meta">Published: April 11, 1901</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How a Faint Sighting Became a UFO Ship. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How a Faint Sighting Became a UFO Ship. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Reviews the early media environment and the role that national magazines played in shaping the public UFO narrative.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reviews the early media environment and the role that national magazines played in shaping the public UFO narrative.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides the encyclopedic timeline detailing exactly how the 1952 magazine retelling systematically altered Tombaugh&#x27;s original claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the encyclopedic timeline detailing exactly how the 1952 magazine retelling systematically altered Tombaugh&#x27;s original claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Discusses why dramatic witness retellings gain more cultural traction than restrained initial reports and how to detect the difference.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses why dramatic witness retellings gain more cultural traction than restrained initial reports and how to detect the difference.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lovetalk%3B+how+to+Say+what+You+Mean+to+Someone+You+Love+by+Lois+Wyse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lovetalk; how to Say what You Mean to Someone You Love on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZwysKtJ89oYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Lovetalk; how to Say what You Mean to Someone You Love" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lovetalk%3B+how+to+Say+what+You+Mean+to+Someone+You+Love+by+Lois+Wyse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lovetalk; how to Say what You Mean to Someone You Love">Lovetalk; how to Say what You Mean to Someone You Love</a>
-        </h4>
-        <p class="fr-book-author">By Lois Wyse</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lovetalk%3B+how+to+Say+what+You+Mean+to+Someone+You+Love+by+Lois+Wyse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lovetalk; how to Say what You Mean to Someone You Love on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZwysKtJ89oYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Lovetalk; how to Say what You Mean to Someone You Love" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lovetalk%3B+how+to+Say+what+You+Mean+to+Someone+You+Love+by+Lois+Wyse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lovetalk; how to Say what You Mean to Someone You Love">Lovetalk; how to Say what You Mean to Someone You Love</a>
+</h4>
+<p class="fr-book-author">By Lois Wyse</p>
         
-        <p class="fr-book-desc">Detailed, expert analysis by Donald Menzel that specifically contrasts the actual sighting data with the magazine&#x27;s sensationalized retel...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lovetalk%3B+how+to+Say+what+You+Mean+to+Someone+You+Love+by+Lois+Wyse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Detailed, expert analysis by Donald Menzel that specifically contrasts the actual sighting data with the magazine&#x27;s sensationalized retel...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lovetalk%3B+how+to+Say+what+You+Mean+to+Someone+You+Love+by+Lois+Wyse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/66639/66639-h/66639-h.htm</a>  
+   Link:<a href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/66639/66639-h/66639-h.htm</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Have We Visitors From Space?  
-   Link: <a href="https://en.wikipedia.org/wiki/Have_We_Visitors_From_Space" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Have_We_Visitors_From_Space</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Have_We_Visitors_From_Space" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Have_We_Visitors_From_Space</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Have We Visitors From Space?  
-   Link: <a href="https://en.wikipedia.org/wiki/Have_We_Visitors_From_Space%3F" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Have_We_Visitors_From_Space%3F</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>B. Darrach Jr. and Robert Emmett Ginna Jr. that appeared in the April 7, 1952 edition...Read more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Have_We_Visitors_From_Space%3F" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Have_We_Visitors_From_Space%3F</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>B. Darrach Jr. and Robert Emmett Ginna Jr. that appeared in the April 7, 1952 edition...Read more...</p></details>
    Published: April 7, 1952  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Flying saucer  
-   Link: <a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Donald Howard Menzel  
-   Link: <a href="https://en.wikipedia.org/wiki/Donald_Howard_Menzel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Donald_Howard_Menzel</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Donald Howard MenzelDonald Howard Menzel (April 11, 1901 – December 14, 1976) was one of the first theoretical astronomers and astroph...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Donald_Howard_Menzel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Donald_Howard_Menzel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Donald Howard MenzelDonald Howard Menzel (April 11, 1901 – December 14, 1976) was one of the first theoretical astronomers and astroph...</p></details>
    Published: April 11, 1901  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: lowell.edu  
    Title: Observatory Who Was Clyde Tombaugh?  
-   Link: <a href="https://lowell.edu/who-was-clyde-tombaugh/" target="_blank" rel="noopener noreferrer nofollow">https://lowell.edu/who-was-clyde-tombaugh/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>He began helping his father around the farm at an early age, planting corn, threshing oats and wheat.Read more...</p></details>
+   Link:<a href="https://lowell.edu/who-was-clyde-tombaugh/" target="_blank" rel="noopener noreferrer nofollow">https://lowell.edu/who-was-clyde-tombaugh/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He began helping his father around the farm at an early age, planting corn, threshing oats and wheat.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Clyde Tombaugh  
-   Link: <a href="https://en.wikipedia.org/wiki/Clyde_Tombaugh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Clyde_Tombaugh</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Clyde TombaughClyde William Tombaugh was an American astronomer and telescope maker, best known for discovering Pluto in 1930, marking...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Clyde_Tombaugh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Clyde_Tombaugh</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clyde TombaughClyde William Tombaugh was an American astronomer and telescope maker, best known for discovering Pluto in 1930, marking...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: space.com  
    Title: 19824 clyde tombaugh  
-   Link: <a href="https://www.space.com/19824-clyde-tombaugh.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/19824-clyde-tombaugh.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Clyde Tombaugh — The astronomer who discovered Pluto8 Jan 2025 — In 1928, the amateur astronomer was offered a job at Lowell Observatory...</p></details>
+   Link:<a href="https://www.space.com/19824-clyde-tombaugh.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/19824-clyde-tombaugh.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clyde Tombaugh — The astronomer who discovered Pluto8 Jan 2025 — In 1928, the amateur astronomer was offered a job at Lowell Observatory...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: lindahall.org  
    Title: clyde tombaugh  
-   Link: <a href="https://www.lindahall.org/about/news/scientist-of-the-day/clyde-tombaugh/" target="_blank" rel="noopener noreferrer nofollow">https://www.lindahall.org/about/news/scientist-of-the-day/clyde-tombaugh/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Feb 2021 — Clyde Tombaugh, an American astronomer, was born Feb. 4, 1906. Tombaugh was born in Illinois, but he was raised on a farm in...</p></details>
+   Link:<a href="https://www.lindahall.org/about/news/scientist-of-the-day/clyde-tombaugh/" target="_blank" rel="noopener noreferrer nofollow">https://www.lindahall.org/about/news/scientist-of-the-day/clyde-tombaugh/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Feb 2021 — Clyde Tombaugh, an American astronomer, was born Feb. 4, 1906. Tombaugh was born in Illinois, but he was raised on a farm in...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: achievement.org  
    Title: clyde tombaugh  
-   Link: <a href="https://achievement.org/achiever/clyde-tombaugh/" target="_blank" rel="noopener noreferrer nofollow">https://achievement.org/achiever/clyde-tombaugh/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Feb 2022 — Clyde Tombaugh, discoverer of the planet Pluto. It&#x27;s very tedious work and you go through tens of thousands of star images.R...</p></details>
+   Link:<a href="https://achievement.org/achiever/clyde-tombaugh/" target="_blank" rel="noopener noreferrer nofollow">https://achievement.org/achiever/clyde-tombaugh/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Feb 2022 — Clyde Tombaugh, discoverer of the planet Pluto. It&#x27;s very tedious work and you go through tens of thousands of star images.R...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: everand.com  
-   Link: <a href="https://www.everand.com/book/612411658/The-World-of-Flying-Saucers-A-Scientific-Examination-of-a-Major-Myths-of-the-Space-Age" target="_blank" rel="noopener noreferrer nofollow">https://www.everand.com/book/612411658/The-World-of-Flying-Saucers-A-Scientific-Examination-of-a-Major-Myths-of-the-Space-Age</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Menzel skillfully bridge scientific inquiry with cultural phenomena, offering readers a comprehensive exploration...Read more...</p></details>
+   Link:<a href="https://www.everand.com/book/612411658/The-World-of-Flying-Saucers-A-Scientific-Examination-of-a-Major-Myths-of-the-Space-Age" target="_blank" rel="noopener noreferrer nofollow">https://www.everand.com/book/612411658/The-World-of-Flying-Saucers-A-Scientific-Examination-of-a-Major-Myths-of-the-Space-Age</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Menzel skillfully bridge scientific inquiry with cultural phenomena, offering readers a comprehensive exploration...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: on this day 1997 clyde tombaugh the astronomer who discovered pluto died at age  
-   Link: <a href="https://www.facebook.com/airandspace/posts/on-this-day-1997-clyde-tombaugh-the-astronomer-who-discovered-pluto-died-at-age-/1283843270445745/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/airandspace/posts/on-this-day-1997-clyde-tombaugh-the-astronomer-who-discovered-pluto-died-at-age-/1283843270445745/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On this day 1997, Clyde Tombaugh, the astronomer who...On this day 1997, Clyde Tombaugh, the astronomer who discovered Pluto, died at ag...</p></details>
+   Link:<a href="https://www.facebook.com/airandspace/posts/on-this-day-1997-clyde-tombaugh-the-astronomer-who-discovered-pluto-died-at-age-/1283843270445745/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/airandspace/posts/on-this-day-1997-clyde-tombaugh-the-astronomer-who-discovered-pluto-died-at-age-/1283843270445745/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On this day 1997, Clyde Tombaugh, the astronomer who...On this day 1997, Clyde Tombaugh, the astronomer who discovered Pluto, died at ag...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Menzel, Donald Menzel to Lyle...Read more...</p></details>
+   Link:<a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Menzel, Donald Menzel to Lyle...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: astronomy.com  
    Title: remembering clyde tombaugh on plutos doorstep  
-   Link: <a href="https://www.astronomy.com/science/remembering-clyde-tombaugh-on-plutos-doorstep/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/remembering-clyde-tombaugh-on-plutos-doorstep/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Remembering Clyde Tombaugh on Pluto&#x27;s doorstep26 May 2015 — Clyde Tombaugh is best known for finding Pluto, but he&#x27;s also remembered for...</p></details>
+   Link:<a href="https://www.astronomy.com/science/remembering-clyde-tombaugh-on-plutos-doorstep/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/remembering-clyde-tombaugh-on-plutos-doorstep/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Remembering Clyde Tombaugh on Pluto&#x27;s doorstep26 May 2015 — Clyde Tombaugh is best known for finding Pluto, but he&#x27;s also remembered for...</p></details>
    Published: May 2015  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: skyatnightmagazine.com  
    Title: clyde tombaugh astronomer discovered pluto  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/clyde-tombaugh-astronomer-discovered-pluto" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/clyde-tombaugh-astronomer-discovered-pluto</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Clyde Tombaugh: the astronomer who discovered Pluto9 Jul 2024 — Dwarf planet Pluto was discovered by Clyde Tombaugh at Lowell Observatory...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/clyde-tombaugh-astronomer-discovered-pluto" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/clyde-tombaugh-astronomer-discovered-pluto</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clyde Tombaugh: the astronomer who discovered Pluto9 Jul 2024 — Dwarf planet Pluto was discovered by Clyde Tombaugh at Lowell Observatory...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;DTIC AD0688332: UFOs AND RELATED...Donald Menzel&#x27;s explanations that UFO sightings are attributable to natural atmospheric...</p></details>
+   Link:<a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;DTIC AD0688332: UFOs AND RELATED...Donald Menzel&#x27;s explanations that UFO sightings are attributable to natural atmospheric...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: governmentattic.org  
    Title: An Annotated Bibliography, Lynn E  
-   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Catoe, Prepared byMenzel and Lyle G. Boyd, Aime Michel, and Harold. Wilkins. Earley... Donald Menzel&#x27; s explanations that UFO sightings...</p></details>
+   Link:<a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Catoe, Prepared byMenzel and Lyle G. Boyd, Aime Michel, and Harold. Wilkins. Earley... Donald Menzel&#x27; s explanations that UFO sightings...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: documents.theblackvault.com  
    Title: A703 580 1 1 Part 7 646548  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/A703_580-1-1_Part%207_646548.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/A703_580-1-1_Part%207_646548.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comA703_580-1-1_Part 7_646548.pdfEnclosed herewith is a copy of a lecture given by. Professor James E. McDONALD in WASHINGT...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/australia/A703_580-1-1_Part%207_646548.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/A703_580-1-1_Part%207_646548.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comA703_580-1-1_Part 7_646548.pdfEnclosed herewith is a copy of a lecture given by. Professor James E. McDONALD in WASHINGT...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: skyandtelescope.com  
    Title: stindex thru Mar 2018.txt  
-   Link: <a href="https://www.skyandtelescope.com/wp-content/uploads/stindex-thru-Mar-2018.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.skyandtelescope.com/wp-content/uploads/stindex-thru-Mar-2018.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>stindex-thru-Mar-2018.txt... Biography -- The SKY &quot;Lockwood, Marian&quot; 1941 11 7 Biography -- The Telescope &quot;Menzel, Donald H.&quot; 1941 11 7 &quot;...</p></details>
+   Link:<a href="https://www.skyandtelescope.com/wp-content/uploads/stindex-thru-Mar-2018.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.skyandtelescope.com/wp-content/uploads/stindex-thru-Mar-2018.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>stindex-thru-Mar-2018.txt... Biography -- The SKY &quot;Lockwood, Marian&quot; 1941 11 7 Biography -- The Telescope &quot;Menzel, Donald H.&quot; 1941 11 7 &quot;...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: skyandtelescope.org  
    Title: stindex thru May 2020.txt  
-   Link: <a href="https://skyandtelescope.org/wp-content/uploads/stindex-thru-May-2020.txt" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/wp-content/uploads/stindex-thru-May-2020.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>stindex-thru-May-2020.txt... Biography -- The SKY &quot;Lockwood, Marian&quot; 1941 11 7 Biography -- The Telescope &quot;Menzel, Donald H.&quot; 1941 11 7 &quot;...</p></details>
+   Link:<a href="https://skyandtelescope.org/wp-content/uploads/stindex-thru-May-2020.txt" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/wp-content/uploads/stindex-thru-May-2020.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>stindex-thru-May-2020.txt... Biography -- The SKY &quot;Lockwood, Marian&quot; 1941 11 7 Biography -- The Telescope &quot;Menzel, Donald H.&quot; 1941 11 7 &quot;...</p></details>
    Published: May 2020

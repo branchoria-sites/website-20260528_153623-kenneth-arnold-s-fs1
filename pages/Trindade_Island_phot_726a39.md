@@ -758,10 +758,10 @@ image: /assets/images/Trindade_Island_phot_726a39-overview-social.jpg
 
 ## What was reported on 16 January 1958
 
-The core account places the event on 16 January 1958, while the Brazilian Navy training ship *Almirante Saldanha* was near Trindade Island during International Geophysical Year activity. A later archival packet in Brazil’s National Archives includes a “resume” of the case stating that Baraúna, a member of the Icaraí underwater hunting club, photographed the object from the ship’s deck, and that Captain José Teobaldo Viegas, Commander Carlos Bacellar, Lieutenant Homero Ribeiro, the ship’s dentist, a sergeant and several sailors were among those who saw it; the same summary says six pictures were taken, four showing the object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://imagem.sian.an.gov.br/acervo/derivadas/br_dfanbsb_arx/0/0/0161/br_dfanbsb_arx_0_0_0161_d0001de0002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imagem.sian.an.gov.br">[Arquivo Nacional]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imagem.sian.an.gov.br</span><span class="citation-popover-snippet">Arquivo Nacional</span></span></span>
+The core account places the event on 16 January 1958, while the Brazilian Navy training ship *Almirante Saldanha* was near Trindade Island during International Geophysical Year activity. A later archival packet in Brazil’s National Archives includes a “resume” of the case stating that Baraúna, a member of the Icaraí underwater hunting club, photographed the object from the ship’s deck, and that Captain José Teobaldo Viegas, Commander Carlos Bacellar, Lieutenant Homero Ribeiro, the ship’s dentist, a sergeant and several sailors were among those who saw it; the same summary says six pictures were taken, four showing the object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://imagem.sian.an.gov.br/acervo/derivadas/br_dfanbsb_arx/0/0/0161/br_dfanbsb_arx_0_0_0161_d0001de0002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imagem.sian.an.gov.br">[Arquivo Nacional]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imagem.sian.an.gov.br</span><span class="citation-popover-snippet">Arquivo Nacional</span></span></span>
 
 <img src="{{ "/assets/images/Trindade_Island_phot_726a39-overview.webp" | relative_url }}" alt="Overview image for Trindade Island photographs 1958" loading="eager" decoding="sync" fetchpriority="high">
-The reported sequence is important because Trindade’s reputation rests on more than the pictures alone. The archived summary says a UFO alarm was raised aboard the ship at about 12:15, that the crew was preparing to depart, and that members in both the stern and bow alerted others. It also says Baraúna was a civilian professional photographer already on deck photographing ship operations, and that he then had the opportunity to take the photographs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://imagem.sian.an.gov.br/acervo/derivadas/br_dfanbsb_arx/0/0/0161/br_dfanbsb_arx_0_0_0161_d0001de0002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imagem.sian.an.gov.br">[Arquivo Nacional]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imagem.sian.an.gov.br</span><span class="citation-popover-snippet">Arquivo Nacional</span></span></span>
+The reported sequence is important because Trindade’s reputation rests on more than the pictures alone. The archived summary says a UFO alarm was raised aboard the ship at about 12:15, that the crew was preparing to depart, and that members in both the stern and bow alerted others. It also says Baraúna was a civilian professional photographer already on deck photographing ship operations, and that he then had the opportunity to take the photographs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://imagem.sian.an.gov.br/acervo/derivadas/br_dfanbsb_arx/0/0/0161/br_dfanbsb_arx_0_0_0161_d0001de0002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imagem.sian.an.gov.br">[Arquivo Nacional]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imagem.sian.an.gov.br</span><span class="citation-popover-snippet">Arquivo Nacional</span></span></span>
 
 In the classic pro-case version, the shipboard context makes a simple isolated hoax less plausible: a professional photographer was surrounded by naval personnel, the object was supposedly seen independently, and the film was developed aboard ship. But those same details become more complicated once the chain of custody is examined. The case is therefore best read as a conflict between early official confidence in the incident and later doubts about whether the images eventually released were necessarily the same evidentiary material implied by the shipboard story.
 
@@ -769,18 +769,18 @@ In the classic pro-case version, the shipboard context makes a simple isolated h
 
 The pictures were striking by 1950s UFO standards. They appeared to show a disc or flattened object, often described as Saturn-shaped, passing near the island’s mountainous skyline. Unlike many nocturnal light reports, this was a daylight photographic case tied to a named military vessel, a named photographer and a named island. That combination made it unusually marketable in newspapers, UFO books and later documentary treatments.
 
-The Brazilian archival summary records that the negatives were later sent to the Cruzeiro do Sul aerophotogrammetric service, where they were “analysed and declared genuine”. It also preserves contemporary press claims that at least a hundred people had witnessed the sighting, although that number is part of the later controversy rather than a settled fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://imagem.sian.an.gov.br/acervo/derivadas/br_dfanbsb_arx/0/0/0161/br_dfanbsb_arx_0_0_0161_d0001de0002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imagem.sian.an.gov.br">[Arquivo Nacional]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imagem.sian.an.gov.br</span><span class="citation-popover-snippet">Arquivo Nacional</span></span></span>
+The Brazilian archival summary records that the negatives were later sent to the Cruzeiro do Sul aerophotogrammetric service, where they were “analysed and declared genuine”. It also preserves contemporary press claims that at least a hundred people had witnessed the sighting, although that number is part of the later controversy rather than a settled fact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://imagem.sian.an.gov.br/acervo/derivadas/br_dfanbsb_arx/0/0/0161/br_dfanbsb_arx_0_0_0161_d0001de0002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imagem.sian.an.gov.br">[Arquivo Nacional]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imagem.sian.an.gov.br</span><span class="citation-popover-snippet">Arquivo Nacional</span></span></span>
 
-The case also attracted high-level public attention. The same archival packet says a congressional representative, Sérgio Magalhães, sought Navy data on the findings, and that President Juscelino Kubitschek later delivered the four photographs to the press while declaring them genuine. Yet the Navy statement reproduced in that packet is more cautious than many retellings suggest: it said the Ministry saw no reason to block publication of the photographs, but could not pronounce on the nature of the object because the photographs did not constitute sufficient proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://imagem.sian.an.gov.br/acervo/derivadas/br_dfanbsb_arx/0/0/0161/br_dfanbsb_arx_0_0_0161_d0001de0002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imagem.sian.an.gov.br">[Arquivo Nacional]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imagem.sian.an.gov.br</span><span class="citation-popover-snippet">Arquivo Nacional</span></span></span>
+The case also attracted high-level public attention. The same archival packet says a congressional representative, Sérgio Magalhães, sought Navy data on the findings, and that President Juscelino Kubitschek later delivered the four photographs to the press while declaring them genuine. Yet the Navy statement reproduced in that packet is more cautious than many retellings suggest: it said the Ministry saw no reason to block publication of the photographs, but could not pronounce on the nature of the object because the photographs did not constitute sufficient proof.<span class="citation-chip-wrap"><a class="citation-chip" href="https://imagem.sian.an.gov.br/acervo/derivadas/br_dfanbsb_arx/0/0/0161/br_dfanbsb_arx_0_0_0161_d0001de0002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imagem.sian.an.gov.br">[Arquivo Nacional]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imagem.sian.an.gov.br</span><span class="citation-popover-snippet">Arquivo Nacional</span></span></span>
 
 That distinction matters. “The Navy did not block release” is not the same as “the Navy proved an extraterrestrial craft”. In the best-supported reading, official Brazilian sources accepted that there had been a reported incident and treated the photographs as serious enough to release or discuss, while stopping short of an identification.
 
 <img src="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-1-dark.svg" | relative_url }}" alt="Trindade Island photographs 1958 illustration 1" data-theme-src-dark="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest pro-authenticity arguments
 
-The pro-authenticity case usually rests on three linked claims: several people saw an object, the film was developed soon after the sighting, and technical examination did not show obvious montage. The archival summary says Baraúna removed the film from the camera in the presence of Commander Bacellar and other officers, went with Bacellar to the ship’s photo laboratory, and that processing took about ten minutes. It further says Bacellar saw the object on the negatives from the first examination, though details became clearer only after later enlargements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://imagem.sian.an.gov.br/acervo/derivadas/br_dfanbsb_arx/0/0/0161/br_dfanbsb_arx_0_0_0161_d0001de0002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imagem.sian.an.gov.br">[Arquivo Nacional]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imagem.sian.an.gov.br</span><span class="citation-popover-snippet">Arquivo Nacional</span></span></span>
+The pro-authenticity case usually rests on three linked claims: several people saw an object, the film was developed soon after the sighting, and technical examination did not show obvious montage. The archival summary says Baraúna removed the film from the camera in the presence of Commander Bacellar and other officers, went with Bacellar to the ship’s photo laboratory, and that processing took about ten minutes. It further says Bacellar saw the object on the negatives from the first examination, though details became clearer only after later enlargements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://imagem.sian.an.gov.br/acervo/derivadas/br_dfanbsb_arx/0/0/0161/br_dfanbsb_arx_0_0_0161_d0001de0002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imagem.sian.an.gov.br">[Arquivo Nacional]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imagem.sian.an.gov.br</span><span class="citation-popover-snippet">Arquivo Nacional</span></span></span>
 
-Supporters also cite later technical re-examinations. A Jerome Clark article hosted by the Center for UFO Studies summarises a 1978 Ground Saucer Watch analysis, stating that the group used edge enhancement, colour contouring, distortion checks and digitising, and concluded that the image showed a distant, substantial object with metallic reflection rather than a hand-thrown or suspended model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/Trindade/Trindade_Clark_article.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+Supporters also cite later technical re-examinations. A Jerome Clark article hosted by the Center for UFO Studies summarises a 1978 Ground Saucer Watch analysis, stating that the group used edge enhancement, colour contouring, distortion checks and digitising, and concluded that the image showed a distant, substantial object with metallic reflection rather than a hand-thrown or suspended model.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/Trindade/Trindade_Clark_article.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
 Those arguments have real evidentiary weight, but they are narrower than they first appear. A finding of “no sign of montage” on material examined later may rule out some crude manipulations, but it does not automatically establish that the object was extraordinary, that all witness numbers were accurate, or that the negatives were continuously controlled from exposure to examination. A technical report can answer one question while leaving the case’s larger historical problems unresolved.
 
@@ -788,20 +788,20 @@ Those arguments have real evidentiary weight, but they are narrower than they fi
 
 ## The weak point: custody of the negatives
 
-The single most damaging issue is the handling of the film and later prints. A sceptical reconstruction published by *Revista UFO* notes that there was no photographic paper aboard the ship to make proper prints or enlargements immediately, meaning that observers could not easily inspect a clear enlarged image at the moment of development. The same article says the Navy did not confiscate the negatives at once, and reports that prints and enlargements were made later by Baraúna in his own laboratory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufo.com.br/trindade-case-almiro-baraunas-nephew-claims-that-the-photos-are-fake-part-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo.com.br">[ufo.com.br]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo.com.br</span><span class="citation-popover-title">Trindade Case: Almiro Baraúna?s Nephew Claims That The Photos Are Fake (part 2</span><span class="citation-popover-snippet">Trindade Case: Almiro Baraúna?s Nephew Claims That The Photos Are Fake (part 2</span></span></span>
+The single most damaging issue is the handling of the film and later prints. A sceptical reconstruction published by *Revista UFO* notes that there was no photographic paper aboard the ship to make proper prints or enlargements immediately, meaning that observers could not easily inspect a clear enlarged image at the moment of development. The same article says the Navy did not confiscate the negatives at once, and reports that prints and enlargements were made later by Baraúna in his own laboratory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufo.com.br/trindade-case-almiro-baraunas-nephew-claims-that-the-photos-are-fake-part-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo.com.br">[ufo.com.br]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo.com.br</span><span class="citation-popover-title">Trindade Case: Almiro Baraúna?s Nephew Claims That The Photos Are Fake (part 2</span><span class="citation-popover-snippet">Trindade Case: Almiro Baraúna?s Nephew Claims That The Photos Are Fake (part 2</span></span></span>
 
 That does not prove fraud by itself. It does, however, seriously reduces the value of the case as photographic evidence. For a photograph to carry exceptional evidentiary force, investigators need a tight record of who held the film, what was developed, what was enlarged, and whether any substitution or manipulation was possible. In Trindade, the case depends heavily on trust in Baraúna and in later recollections of what was visible on the negatives.
 
-The more careful sceptical argument is not that every early witness lied. It is that the photographic record was vulnerable at exactly the point where it needed to be strongest. A later analysis quoted by Além da Ciência states that the Cruzeiro do Sul work excluded a later photomontage, but could not prove either the existence or non-existence of a prior montage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alemdaciencia.com/caso-ilha-da-trindade-o-que-nao-querem-que-voce-saiba-parte-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alemdaciencia.com">[Além da Ciência]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alemdaciencia.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That is a narrower and less triumphant conclusion than “the photos were proven real”.
+The more careful sceptical argument is not that every early witness lied. It is that the photographic record was vulnerable at exactly the point where it needed to be strongest. A later analysis quoted by Além da Ciência states that the Cruzeiro do Sul work excluded a later photomontage, but could not prove either the existence or non-existence of a prior montage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alemdaciencia.com/caso-ilha-da-trindade-o-que-nao-querem-que-voce-saiba-parte-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alemdaciencia.com">[Além da Ciência]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alemdaciencia.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That is a narrower and less triumphant conclusion than “the photos were proven real”.
 
 <img src="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-2-dark.svg" | relative_url }}" alt="Trindade Island photographs 1958 illustration 2" data-theme-src-dark="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Baraúna’s credibility became central
 
-Almiro Baraúna was not an anonymous amateur. He was a skilled photographer, known for underwater work and for photographic tricks. This cuts both ways: he had the competence to capture a difficult image quickly, but he also had the competence to fake one. Clark’s pro-case article acknowledges that Baraúna had prepared humorous trick photographs for an article explaining how a publicised 1952 Brazilian flying-saucer photograph could have been created. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/Trindade/Trindade_Clark_article.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+Almiro Baraúna was not an anonymous amateur. He was a skilled photographer, known for underwater work and for photographic tricks. This cuts both ways: he had the competence to capture a difficult image quickly, but he also had the competence to fake one. Clark’s pro-case article acknowledges that Baraúna had prepared humorous trick photographs for an article explaining how a publicised 1952 Brazilian flying-saucer photograph could have been created.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/Trindade/Trindade_Clark_article.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
-Later sceptical writing made this background central. *Revista UFO* reported that Baraúna’s nephew Marcelo Ribeiro, himself a photographer, claimed that Baraúna privately admitted the Trindade images were a joke or montage. The same article described Baraúna as professionally competent, inventive and capable in photographic manipulation, while noting that opinions among those who knew him were divided. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufo.com.br/trindade-case-almiro-baraunas-nephew-claims-that-the-photos-are-fake-part-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo.com.br">[ufo.com.br]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo.com.br</span><span class="citation-popover-title">Trindade Case: Almiro Baraúna?s Nephew Claims That The Photos Are Fake (part 1</span><span class="citation-popover-snippet">Trindade Case: Almiro Baraúna?s Nephew Claims That The Photos Are Fake (part 1</span></span></span>
+Later sceptical writing made this background central. *Revista UFO* reported that Baraúna’s nephew Marcelo Ribeiro, himself a photographer, claimed that Baraúna privately admitted the Trindade images were a joke or montage. The same article described Baraúna as professionally competent, inventive and capable in photographic manipulation, while noting that opinions among those who knew him were divided.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufo.com.br/trindade-case-almiro-baraunas-nephew-claims-that-the-photos-are-fake-part-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo.com.br">[ufo.com.br]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo.com.br</span><span class="citation-popover-title">Trindade Case: Almiro Baraúna?s Nephew Claims That The Photos Are Fake (part 1</span><span class="citation-popover-snippet">Trindade Case: Almiro Baraúna?s Nephew Claims That The Photos Are Fake (part 1</span></span></span>
 
-The strongest late blow to the case came from Brazilian media reports in 2010. Terra, citing *Fantástico*, reported that people close to Baraúna said the images were fraudulent and that he had joined two spoons to create the false object. Emília Bittencourt, described as a friend of the photographer, said he used the refrigerator door as a background and calculated the lighting carefully. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.terra.com.br/byte/ciencia/espaco/familiar-e-amiga-confirmam-fraude-em-caso-classico-de-ovni%2Cc278f9d4566ea310VgnCLD200000bbcceb0aRCRD.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: terra.com.br">[Terra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">terra.com.br</span><span class="citation-popover-title">Terra Familiar e amiga confirmam fraude em caso clássico de ovni</span><span class="citation-popover-snippet">Terra Familiar e amiga confirmam fraude em caso clássico de ovni</span></span></span>
+The strongest late blow to the case came from Brazilian media reports in 2010. Terra, citing *Fantástico*, reported that people close to Baraúna said the images were fraudulent and that he had joined two spoons to create the false object. Emília Bittencourt, described as a friend of the photographer, said he used the refrigerator door as a background and calculated the lighting carefully.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.terra.com.br/byte/ciencia/espaco/familiar-e-amiga-confirmam-fraude-em-caso-classico-de-ovni%2Cc278f9d4566ea310VgnCLD200000bbcceb0aRCRD.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: terra.com.br">[Terra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">terra.com.br</span><span class="citation-popover-title">Terra Familiar e amiga confirmam fraude em caso clássico de ovni</span><span class="citation-popover-snippet">Terra Familiar e amiga confirmam fraude em caso clássico de ovni</span></span></span>
 
 That testimony is important but not perfect. It is late, second-hand, and filtered through television and later retellings. It also sits alongside denials and disputes within the family. But it fits an already existing evidentiary weakness: the photographer had both the skill and, apparently, enough unsupervised access to the material to make a hoax technically plausible.
 
@@ -811,13 +811,13 @@ That testimony is important but not perfect. It is late, second-hand, and filter
 
 The main interpretations of the Trindade photographs fall into four broad camps.
 
-**A genuine unidentified object.** This remains the classic UFO interpretation. It leans on reported witnesses, the naval setting, the alleged rapid development of the film and technical statements that the negatives did not show simple tampering. The Navy-linked archival material does support the claim that official Brazilian personnel took the incident seriously and that some sources considered the photographs authentic in a limited photographic sense. <span class="citation-chip-wrap"><a class="citation-chip" href="https://imagem.sian.an.gov.br/acervo/derivadas/br_dfanbsb_arx/0/0/0161/br_dfanbsb_arx_0_0_0161_d0001de0002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imagem.sian.an.gov.br">[Arquivo Nacional]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imagem.sian.an.gov.br</span><span class="citation-popover-snippet">Arquivo Nacional</span></span></span>
+**A genuine unidentified object.** This remains the classic UFO interpretation. It leans on reported witnesses, the naval setting, the alleged rapid development of the film and technical statements that the negatives did not show simple tampering. The Navy-linked archival material does support the claim that official Brazilian personnel took the incident seriously and that some sources considered the photographs authentic in a limited photographic sense.<span class="citation-chip-wrap"><a class="citation-chip" href="https://imagem.sian.an.gov.br/acervo/derivadas/br_dfanbsb_arx/0/0/0161/br_dfanbsb_arx_0_0_0161_d0001de0002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imagem.sian.an.gov.br">[Arquivo Nacional]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imagem.sian.an.gov.br</span><span class="citation-popover-snippet">Arquivo Nacional</span></span></span>
 
-**A photographic hoax or montage.** This is now the strongest sceptical explanation because it accounts for Baraúna’s skills, the weak custody of the negatives and later claims of private confession. The “two spoons” story is not a laboratory demonstration, but it gives a plausible method for producing a Saturn-like object and is consistent with reports that prints and enlargements were ultimately prepared outside immediate naval control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.terra.com.br/byte/ciencia/espaco/familiar-e-amiga-confirmam-fraude-em-caso-classico-de-ovni%2Cc278f9d4566ea310VgnCLD200000bbcceb0aRCRD.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: terra.com.br">[Terra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">terra.com.br</span><span class="citation-popover-title">Terra Familiar e amiga confirmam fraude em caso clássico de ovni</span><span class="citation-popover-snippet">Terra Familiar e amiga confirmam fraude em caso clássico de ovni</span></span></span>
+**A photographic hoax or montage.** This is now the strongest sceptical explanation because it accounts for Baraúna’s skills, the weak custody of the negatives and later claims of private confession. The “two spoons” story is not a laboratory demonstration, but it gives a plausible method for producing a Saturn-like object and is consistent with reports that prints and enlargements were ultimately prepared outside immediate naval control.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.terra.com.br/byte/ciencia/espaco/familiar-e-amiga-confirmam-fraude-em-caso-classico-de-ovni%2Cc278f9d4566ea310VgnCLD200000bbcceb0aRCRD.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: terra.com.br">[Terra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">terra.com.br</span><span class="citation-popover-title">Terra Familiar e amiga confirmam fraude em caso clássico de ovni</span><span class="citation-popover-snippet">Terra Familiar e amiga confirmam fraude em caso clássico de ovni</span></span></span>
 
-**A conventional aircraft or misinterpreted image.** Some later analyses explored whether the shape could resemble an aircraft, including comparisons to light aircraft forms. Além da Ciência summarises one such line as a comparison between Baraúna’s “disc” and a Beechcraft Twin Bonanza image, not necessarily as a claim that a real aircraft flew over Trindade and fooled everyone, but as a possible model or source for a photographic construction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alemdaciencia.com/caso-ilha-da-trindade-o-que-nao-querem-que-voce-saiba-parte-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alemdaciencia.com">[Além da Ciência]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alemdaciencia.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**A conventional aircraft or misinterpreted image.** Some later analyses explored whether the shape could resemble an aircraft, including comparisons to light aircraft forms. Além da Ciência summarises one such line as a comparison between Baraúna’s “disc” and a Beechcraft Twin Bonanza image, not necessarily as a claim that a real aircraft flew over Trindade and fooled everyone, but as a possible model or source for a photographic construction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alemdaciencia.com/caso-ilha-da-trindade-o-que-nao-querem-que-voce-saiba-parte-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alemdaciencia.com">[Além da Ciência]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alemdaciencia.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**A balloon or missile.** Contemporary Navy-linked commentary was already addressing this possibility. The archived summary reports a Brazilian hydrography and navigation official saying the object was not the meteorological balloon launched that day, because that balloon had been released earlier, tracked until it burst, and differed in colour from the reported object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://imagem.sian.an.gov.br/acervo/derivadas/br_dfanbsb_arx/0/0/0161/br_dfanbsb_arx_0_0_0161_d0001de0002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imagem.sian.an.gov.br">[Arquivo Nacional]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imagem.sian.an.gov.br</span><span class="citation-popover-snippet">Arquivo Nacional</span></span></span> This rules out one reported shipboard balloon in that narrative, but does not by itself identify the photographed image.
+**A balloon or missile.** Contemporary Navy-linked commentary was already addressing this possibility. The archived summary reports a Brazilian hydrography and navigation official saying the object was not the meteorological balloon launched that day, because that balloon had been released earlier, tracked until it burst, and differed in colour from the reported object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://imagem.sian.an.gov.br/acervo/derivadas/br_dfanbsb_arx/0/0/0161/br_dfanbsb_arx_0_0_0161_d0001de0002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imagem.sian.an.gov.br">[Arquivo Nacional]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imagem.sian.an.gov.br</span><span class="citation-popover-snippet">Arquivo Nacional</span></span></span> This rules out one reported shipboard balloon in that narrative, but does not by itself identify the photographed image.
 
 <img src="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-3-dark.svg" | relative_url }}" alt="Trindade Island photographs 1958 illustration 3" data-theme-src-dark="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trindade_Island_phot_726a39-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What can and cannot be concluded
@@ -831,178 +831,178 @@ For a case dossier, Trindade belongs beside other classic photographic UFO cases
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ms_8ZnMwXZQ" title="OVNI AVISTADO POR NAVIO DA MARINHA #ovnimoonrecords #discovoador #ovni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ms_8ZnMwXZQ" target="_blank" rel="noopener noreferrer">OVNI AVISTADO POR NAVIO DA MARINHA #ovnimoonrecords #discovoador #ovni</a></p><p class="youtube-embed-meta">Channel: Navios e Histórias &middot; Views: 1.9K &middot; Uploaded: August 2022 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ms_8ZnMwXZQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ms_8ZnMwXZQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were the Trindade UFO Photos Ever Solid Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were the Trindade UFO Photos Ever Solid Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Establishes how standard intelligence networks cross-examine multiple witness testimonies from fleet personnel independently of photograp...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Establishes how standard intelligence networks cross-examine multiple witness testimonies from fleet personnel independently of photograp...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Provides essential context on how the Brazilian National Archives preserve the original International Geophysical Year case summaries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides essential context on how the Brazilian National Archives preserve the original International Geophysical Year case summaries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Profiles the 1958 Trindade Island case, detailing Almiro Baraúna&#x27;s photographs, the Almirante Saldanha ship logs, and Navy reportage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Profiles the 1958 Trindade Island case, detailing Almiro Baraúna&#x27;s photographs, the Almirante Saldanha ship logs, and Navy reportage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Provides analytical tools to examine Baraúna&#x27;s pre-existing darkroom trickery background and the subsequent family hoax confessions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides analytical tools to examine Baraúna&#x27;s pre-existing darkroom trickery background and the subsequent family hoax confessions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Vehicle Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/515424d9b9f1d48ff309.jpg' | relative_url }}" alt="Listing image for UFO (TV) Vehicle Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Vehicle Scene 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo photo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Vehicle Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/515424d9b9f1d48ff309.jpg' | relative_url }}" alt="Listing image for UFO (TV) Vehicle Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Vehicle Scene 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo photo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo photo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo photo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/a5f58c820be9e212e78d.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo photo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/a5f58c820be9e212e78d.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo photo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="trindade-island-photographs-1958-were-the-trindade-ufo-photos-ever-solid-evidence-ufo-photo-poster-book-books-series-tel" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1018,7 +1018,7 @@ For a case dossier, Trindade belongs beside other classic photographic UFO cases
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1038,7 +1038,7 @@ For a case dossier, Trindade belongs beside other classic photographic UFO cases
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1070,7 +1070,7 @@ For a case dossier, Trindade belongs beside other classic photographic UFO cases
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1122,7 +1122,7 @@ For a case dossier, Trindade belongs beside other classic photographic UFO cases
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1167,7 +1167,7 @@ For a case dossier, Trindade belongs beside other classic photographic UFO cases
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1208,83 +1208,83 @@ For a case dossier, Trindade belongs beside other classic photographic UFO cases
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: imagem.sian.an.gov.br  
    Title: Arquivo Nacional  
-   Link: <a href="https://imagem.sian.an.gov.br/acervo/derivadas/br_dfanbsb_arx/0/0/0161/br_dfanbsb_arx_0_0_0161_d0001de0002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://imagem.sian.an.gov.br/acervo/derivadas/br_dfanbsb_arx/0/0/0161/br_dfanbsb_arx_0_0_0161_d0001de0002.pdf</a>  
+   Link:<a href="https://imagem.sian.an.gov.br/acervo/derivadas/br_dfanbsb_arx/0/0/0161/br_dfanbsb_arx_0_0_0161_d0001de0002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://imagem.sian.an.gov.br/acervo/derivadas/br_dfanbsb_arx/0/0/0161/br_dfanbsb_arx_0_0_0161_d0001de0002.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cufos.org  
    Title: Center for UFO Studies  
-   Link: <a href="https://cufos.org/PDFs/Trindade/Trindade_Clark_article.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/Trindade/Trindade_Clark_article.pdf</a>  
+   Link:<a href="https://cufos.org/PDFs/Trindade/Trindade_Clark_article.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/Trindade/Trindade_Clark_article.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufo.com.br  
    Title: Trindade Case: Almiro Baraúna?s Nephew Claims That The Photos Are Fake (part 2)  
-   Link: <a href="https://ufo.com.br/trindade-case-almiro-baraunas-nephew-claims-that-the-photos-are-fake-part-2/" target="_blank" rel="noopener noreferrer nofollow">https://ufo.com.br/trindade-case-almiro-baraunas-nephew-claims-that-the-photos-are-fake-part-2/</a>  
+   Link:<a href="https://ufo.com.br/trindade-case-almiro-baraunas-nephew-claims-that-the-photos-are-fake-part-2/" target="_blank" rel="noopener noreferrer nofollow">https://ufo.com.br/trindade-case-almiro-baraunas-nephew-claims-that-the-photos-are-fake-part-2/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ufo.com.br  
    Title: Trindade Case: Almiro Baraúna?s Nephew Claims That The Photos Are Fake (part 1)  
-   Link: <a href="https://ufo.com.br/trindade-case-almiro-baraunas-nephew-claims-that-the-photos-are-fake-part-1/" target="_blank" rel="noopener noreferrer nofollow">https://ufo.com.br/trindade-case-almiro-baraunas-nephew-claims-that-the-photos-are-fake-part-1/</a>  
+   Link:<a href="https://ufo.com.br/trindade-case-almiro-baraunas-nephew-claims-that-the-photos-are-fake-part-1/" target="_blank" rel="noopener noreferrer nofollow">https://ufo.com.br/trindade-case-almiro-baraunas-nephew-claims-that-the-photos-are-fake-part-1/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: alemdaciencia.com  
-   Link: <a href="https://www.alemdaciencia.com/caso-ilha-da-trindade-o-que-nao-querem-que-voce-saiba-parte-1/" target="_blank" rel="noopener noreferrer nofollow">https://www.alemdaciencia.com/caso-ilha-da-trindade-o-que-nao-querem-que-voce-saiba-parte-1/</a>  
+   Link:<a href="https://www.alemdaciencia.com/caso-ilha-da-trindade-o-que-nao-querem-que-voce-saiba-parte-1/" target="_blank" rel="noopener noreferrer nofollow">https://www.alemdaciencia.com/caso-ilha-da-trindade-o-que-nao-querem-que-voce-saiba-parte-1/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: terra.com.br  
    Title: Terra Familiar e amiga confirmam fraude em caso clássico de ovni  
-   Link: <a href="https://www.terra.com.br/byte/ciencia/espaco/familiar-e-amiga-confirmam-fraude-em-caso-classico-de-ovni%2Cc278f9d4566ea310VgnCLD200000bbcceb0aRCRD.html" target="_blank" rel="noopener noreferrer nofollow">https://www.terra.com.br/byte/ciencia/espaco/familiar-e-amiga-confirmam-fraude-em-caso-classico-de-ovni%2Cc278f9d4566ea310VgnCLD200000bbcceb0aRCRD.html</a>  
+   Link:<a href="https://www.terra.com.br/byte/ciencia/espaco/familiar-e-amiga-confirmam-fraude-em-caso-classico-de-ovni%2Cc278f9d4566ea310VgnCLD200000bbcceb0aRCRD.html" target="_blank" rel="noopener noreferrer nofollow">https://www.terra.com.br/byte/ciencia/espaco/familiar-e-amiga-confirmam-fraude-em-caso-classico-de-ovni%2Cc278f9d4566ea310VgnCLD200000bbcceb0aRCRD.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aenigmatis.com  
-   Link: <a href="https://www.aenigmatis.com/trindade-island-ufo-1958/trindade.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.aenigmatis.com/trindade-island-ufo-1958/trindade.htm</a>  
+   Link:<a href="https://www.aenigmatis.com/trindade-island-ufo-1958/trindade.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.aenigmatis.com/trindade-island-ufo-1958/trindade.htm</a>  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: OVNI AVISTADO POR NAVIO DA MARINHA #ovnimoonrecords #discovoador #ovni  
-   Link: <a href="https://www.youtube.com/watch?v=Ms_8ZnMwXZQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ms_8ZnMwXZQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Curiosidades Históricas #13 - O caso da Ilha de Trindade #curiosidades #ovni...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ms_8ZnMwXZQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ms_8ZnMwXZQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Curiosidades Históricas #13 - O caso da Ilha de Trindade #curiosidades #ovni...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: ETs no ES? O dia em que um OVNI foi 'avistado' na Ilha da Trindade  
-   Link: <a href="https://www.youtube.com/watch?v=IAtd1gfuR1Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IAtd1gfuR1Q</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OVNI AVISTADO POR NAVIO DA MARINHA #ovnimoonrecords #discovoador #ovni...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IAtd1gfuR1Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IAtd1gfuR1Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OVNI AVISTADO POR NAVIO DA MARINHA #ovnimoonrecords #discovoador #ovni...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100040011-6" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100040011-6</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100040011-6" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100040011-6</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.gov  
-   Link: <a href="https://www.science.gov/topicpages/f/formation%2Btalchir%2Bgondwana" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/f/formation%2Btalchir%2Bgondwana</a>  
+   Link:<a href="https://www.science.gov/topicpages/f/formation%2Btalchir%2Bgondwana" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/f/formation%2Btalchir%2Bgondwana</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=N4v2Mb47qwg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N4v2Mb47qwg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ETs no ES? O dia em que um OVNI foi &#x27;avistado&#x27; na Ilha da Trindade...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=N4v2Mb47qwg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N4v2Mb47qwg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ETs no ES? O dia em que um OVNI foi &#x27;avistado&#x27; na Ilha da Trindade...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=SuOyaTRmGjA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SuOyaTRmGjA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>O &quot;Disco-Voador&quot; da Ilha da Trindade (1958)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SuOyaTRmGjA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SuOyaTRmGjA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>O &quot;Disco-Voador&quot; da Ilha da Trindade (1958)...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/123zqs9/a_real_photograph_taken_near_trindade_island/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/123zqs9/a_real_photograph_taken_near_trindade_island/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/123zqs9/a_real_photograph_taken_near_trindade_island/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/123zqs9/a_real_photograph_taken_near_trindade_island/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: vigilia.com.br  
-   Link: <a href="https://vigilia.com.br/caso-ilha-de-trindade-documento-divulgado-por-revista-nao-comprova-fotos-de-ufo/?srsltid=AfmBOoqIFftTK4pAEcJJvrsqYL91nxu6-inIRAArHR9v7Oydn_9OkC_I" target="_blank" rel="noopener noreferrer nofollow">https://vigilia.com.br/caso-ilha-de-trindade-documento-divulgado-por-revista-nao-comprova-fotos-de-ufo/?srsltid=AfmBOoqIFftTK4pAEcJJvrsqYL91nxu6-inIRAArHR9v7Oydn_9OkC_I</a>  
+   Link:<a href="https://vigilia.com.br/caso-ilha-de-trindade-documento-divulgado-por-revista-nao-comprova-fotos-de-ufo/?srsltid=AfmBOoqIFftTK4pAEcJJvrsqYL91nxu6-inIRAArHR9v7Oydn_9OkC_I" target="_blank" rel="noopener noreferrer nofollow">https://vigilia.com.br/caso-ilha-de-trindade-documento-divulgado-por-revista-nao-comprova-fotos-de-ufo/?srsltid=AfmBOoqIFftTK4pAEcJJvrsqYL91nxu6-inIRAArHR9v7Oydn_9OkC_I</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: searchufos.com  
-   Link: <a href="https://www.searchufos.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.searchufos.com/</a>
+   Link:<a href="https://www.searchufos.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.searchufos.com/</a>

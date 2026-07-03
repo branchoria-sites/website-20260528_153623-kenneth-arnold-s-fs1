@@ -248,14 +248,14 @@ image: /assets/images/Fatima_apparition_19_f6784f_sun_miracle_witnesse_bf6c51-Il
 
 ## Introduction
 
-On 13 October 1917, a huge crowd gathered at Cova da Iria near Fatima after three shepherd children said a public sign would accompany the final apparition of the Virgin Mary. What happened next became known as the “Miracle of the Sun”, one of the most famous and disputed mass-witness events of the twentieth century. Witnesses described the Sun spinning, changing colour, plunging toward the Earth, or becoming strangely easy to look at. Others saw little or nothing unusual. The central historical fact is not that the Sun literally moved through space, which would have been visible worldwide, but that thousands of people reported an extraordinary shared experience after a widely publicised prediction. The disagreement over exactly what they saw is the core of the controversy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/event/Our-Lady-of-Fatima" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaOur Lady of Fatima &#124; Mary, Apparitions, Miracles, &amp; RosaryA crowd estimated at about 70,000 gathered at Fátima on...</span></span></span>
+On 13 October 1917, a huge crowd gathered at Cova da Iria near Fatima after three shepherd children said a public sign would accompany the final apparition of the Virgin Mary. What happened next became known as the “Miracle of the Sun”, one of the most famous and disputed mass-witness events of the twentieth century. Witnesses described the Sun spinning, changing colour, plunging toward the Earth, or becoming strangely easy to look at. Others saw little or nothing unusual. The central historical fact is not that the Sun literally moved through space, which would have been visible worldwide, but that thousands of people reported an extraordinary shared experience after a widely publicised prediction. The disagreement over exactly what they saw is the core of the controversy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/event/Our-Lady-of-Fatima" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaOur Lady of Fatima &#124; Mary, Apparitions, Miracles, &amp; RosaryA crowd estimated at about 70,000 gathered at Fátima on...</span></span></span>
 
 <img src="{{ "/assets/images/Fatima_apparition_19_f6784f_sun_miracle_witnesse_bf6c51-Illustration-1-dark.svg" | relative_url }}" alt="Sun Miracle illustration 1" data-theme-src-dark="{{ "/assets/images/Fatima_apparition_19_f6784f_sun_miracle_witnesse_bf6c51-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fatima_apparition_19_f6784f_sun_miracle_witnesse_bf6c51-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The witness claims matter because they sit at the intersection of religion, crowd psychology, journalism, atmospheric optics and historical memory. Fatima is therefore not simply a devotional story or a sceptical debunking case. It is a rare example where a predicted public event produced large-scale testimony, immediate newspaper coverage and decades of continuing argument over what the evidence can honestly support.
 
 ## What witnesses reported on 13 October
 
-The crowd estimates vary widely, usually between 30,000 and 70,000 people, with some later Catholic writers giving even higher figures. Contemporary newspaper reporting is especially important because it predates later devotional embellishment. The Portuguese newspaper O Século sent journalist Avelino de Almeida, an anticlerical reporter not known for sympathy to Marian claims. His account became one of the most frequently cited descriptions of the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thesacredheart.com/mirsun.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesacredheart.com">[thesacredheart.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesacredheart.com</span><span class="citation-popover-title">The Miracle of the Sun</span><span class="citation-popover-snippet">THE SACRED HEARTIn &quot;O Seculo&quot; of October 15, Avelino de Almeida wrote: The crowd, by the unprejudiced calculations of cultivated persons...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bluearmy.com/astounding-things-how-the-midday-sun-danced-at-fatima/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluearmy.com">[World Apostolate of Fatima USA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluearmy.com</span><span class="citation-popover-title">astounding things how the midday sun danced at fatima</span><span class="citation-popover-snippet">World Apostolate of Fatima USAAstounding Things!: How the Midday Sun Danced at Fatima11 Oct 2023 — An excerpt of Avelino de Almeida&#x27;s fir...</span></span></span>
+The crowd estimates vary widely, usually between 30,000 and 70,000 people, with some later Catholic writers giving even higher figures. Contemporary newspaper reporting is especially important because it predates later devotional embellishment. The Portuguese newspaper O Século sent journalist Avelino de Almeida, an anticlerical reporter not known for sympathy to Marian claims. His account became one of the most frequently cited descriptions of the event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thesacredheart.com/mirsun.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesacredheart.com">[thesacredheart.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesacredheart.com</span><span class="citation-popover-title">The Miracle of the Sun</span><span class="citation-popover-snippet">THE SACRED HEARTIn &quot;O Seculo&quot; of October 15, Avelino de Almeida wrote: The crowd, by the unprejudiced calculations of cultivated persons...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bluearmy.com/astounding-things-how-the-midday-sun-danced-at-fatima/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluearmy.com">[World Apostolate of Fatima USA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluearmy.com</span><span class="citation-popover-title">astounding things how the midday sun danced at fatima</span><span class="citation-popover-snippet">World Apostolate of Fatima USAAstounding Things!: How the Midday Sun Danced at Fatima11 Oct 2023 — An excerpt of Avelino de Almeida&#x27;s fir...</span></span></span>
 
 According to multiple early reports, the day began with heavy rain and muddy ground. Witnesses then described the clouds breaking and the Sun appearing as a pale or silver disc that could supposedly be stared at without pain. Many accounts describe movement rather than simple brightness. Common themes included:
 
@@ -269,13 +269,13 @@ According to multiple early reports, the day began with heavy rain and muddy gro
 
 </div>
 
-These themes recur often enough to show that many people believed they had witnessed something extraordinary, but the details differ significantly from account to account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historyextra.com/period/20th-century/miracle-sun-fatima-portugal-vision-what-happened/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historyextra.com">[History Extra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historyextra.com</span><span class="citation-popover-snippet">History ExtraMiracle of the Sun: When Thousands Gathered To Witness...13 Oct 2022 — These sceptics have pointed out the optical effects...</span></span></span>
+These themes recur often enough to show that many people believed they had witnessed something extraordinary, but the details differ significantly from account to account.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historyextra.com/period/20th-century/miracle-sun-fatima-portugal-vision-what-happened/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historyextra.com">[History Extra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historyextra.com</span><span class="citation-popover-snippet">History ExtraMiracle of the Sun: When Thousands Gathered To Witness...13 Oct 2022 — These sceptics have pointed out the optical effects...</span></span></span>
 
-Avelino de Almeida wrote that the Sun “danced” and made “incredible movements outside all cosmic laws”, language that became central to later retellings. His report also stressed the crowd’s emotional reaction: people crying, praying and fearing the end of the world. World Apostolate of Fatima USA <span class="citation-chip-wrap"><a class="citation-chip" href="https://fatimaretreathouse-indy.org/story-of-fatima" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fatimaretreathouse-indy.org">[Our Lady of Fatima Retreat House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fatimaretreathouse-indy.org</span><span class="citation-popover-snippet">Our Lady of Fatima Retreat HouseStory of FatimaThe event is known as the &#x27;Miracle of the Sun&#x27;. Columnist Avelino de Almeida of O Século (...</span></span></span>
+Avelino de Almeida wrote that the Sun “danced” and made “incredible movements outside all cosmic laws”, language that became central to later retellings. His report also stressed the crowd’s emotional reaction: people crying, praying and fearing the end of the world. World Apostolate of Fatima USA<span class="citation-chip-wrap"><a class="citation-chip" href="https://fatimaretreathouse-indy.org/story-of-fatima" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fatimaretreathouse-indy.org">[Our Lady of Fatima Retreat House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fatimaretreathouse-indy.org</span><span class="citation-popover-snippet">Our Lady of Fatima Retreat HouseStory of FatimaThe event is known as the &#x27;Miracle of the Sun&#x27;. Columnist Avelino de Almeida of O Século (...</span></span></span>
 
-Some later testimony came from educated witnesses whose professions were highlighted by Catholic defenders to strengthen credibility. These included physicians, lawyers, professors and local clergy. Dr José Maria de Almeida Garrett, a professor from Coimbra, later described the Sun as a sharply defined disc emitting coloured light and apparently rotating. Other witnesses reported similar visual impressions from villages several miles away from Fatima itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fatima.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fatima.org">[Fatima Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fatima.org</span><span class="citation-popover-snippet">A BLESSED FEAST OF OUR LADY OF FATIMA TO YOU! On this 109th anniversary of Her first apparition, May 13, 1917...Read more...</span><span class="citation-popover-meta">Published: May 13, 1917</span></span></span>
+Some later testimony came from educated witnesses whose professions were highlighted by Catholic defenders to strengthen credibility. These included physicians, lawyers, professors and local clergy. Dr José Maria de Almeida Garrett, a professor from Coimbra, later described the Sun as a sharply defined disc emitting coloured light and apparently rotating. Other witnesses reported similar visual impressions from villages several miles away from Fatima itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fatima.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fatima.org">[Fatima Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fatima.org</span><span class="citation-popover-snippet">A BLESSED FEAST OF OUR LADY OF FATIMA TO YOU! On this 109th anniversary of Her first apparition, May 13, 1917...Read more...</span><span class="citation-popover-meta">Published: May 13, 1917</span></span></span>
 
-One of the more interesting features of the testimony is that many observers did not describe a detailed religious vision. Most people did not claim to see Mary, angels or heavenly figures. Instead, the overwhelming focus was on unusual solar or atmospheric effects. That distinction matters historically because it suggests the crowd was not uniformly sharing the same visionary content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/religion/comments/13kx4lu/what_are_your_thoughts_on_the_miracle_of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">What are your thoughts on the Miracle of Fatima...... the retina, and thus the brain &quot;sees&quot; the Sun... (witness accounts are tota...</span></span></span>
+One of the more interesting features of the testimony is that many observers did not describe a detailed religious vision. Most people did not claim to see Mary, angels or heavenly figures. Instead, the overwhelming focus was on unusual solar or atmospheric effects. That distinction matters historically because it suggests the crowd was not uniformly sharing the same visionary content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/religion/comments/13kx4lu/what_are_your_thoughts_on_the_miracle_of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">What are your thoughts on the Miracle of Fatima...... the retina, and thus the brain &quot;sees&quot; the Sun... (witness accounts are tota...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z5YKZHaYVPY" title="70,000 Saw a Miracle at Fatima—Why Has Your Church Never Mentioned It?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z5YKZHaYVPY" target="_blank" rel="noopener noreferrer">70,000 Saw a Miracle at Fatima—Why Has Your Church Never Mentioned It?</a></p><p class="youtube-embed-meta">Channel: Capturing Christianity &middot; Views: 42.0K &middot; Uploaded: March 2025 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z5YKZHaYVPY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z5YKZHaYVPY">Open on YouTube</a></p></div></div></div>
 
@@ -283,34 +283,34 @@ One of the more interesting features of the testimony is that many observers did
 
 The witness claims are often presented in simplified form as though tens of thousands of people saw the exact same thing. The historical record is much messier.
 
-Some witnesses saw dramatic movement. Others reported only unusual colours or changes in brightness. Some saw nothing extraordinary at all. The variation is one of the strongest arguments used by sceptics against the claim that the Sun physically moved. A truly astronomical event would presumably have appeared consistent across observers and geographical regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historyextra.com/period/20th-century/miracle-sun-fatima-portugal-vision-what-happened/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historyextra.com">[History Extra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historyextra.com</span><span class="citation-popover-snippet">History ExtraMiracle of the Sun: When Thousands Gathered To Witness...13 Oct 2022 — These sceptics have pointed out the optical effects...</span></span></span>
+Some witnesses saw dramatic movement. Others reported only unusual colours or changes in brightness. Some saw nothing extraordinary at all. The variation is one of the strongest arguments used by sceptics against the claim that the Sun physically moved. A truly astronomical event would presumably have appeared consistent across observers and geographical regions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historyextra.com/period/20th-century/miracle-sun-fatima-portugal-vision-what-happened/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historyextra.com">[History Extra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historyextra.com</span><span class="citation-popover-snippet">History ExtraMiracle of the Sun: When Thousands Gathered To Witness...13 Oct 2022 — These sceptics have pointed out the optical effects...</span></span></span>
 
 The differences appear at several levels:
 
 ### The Sun behaved differently in different testimonies
 
-Descriptions range from gentle spinning to catastrophic plunges toward Earth. Some witnesses described coloured light washing over the crowd and landscape. Others focused on the ability to stare directly at the Sun. A few accounts contain almost apocalyptic imagery, while others are restrained and observational. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fatima.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fatima.org">[Fatima Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fatima.org</span><span class="citation-popover-snippet">A BLESSED FEAST OF OUR LADY OF FATIMA TO YOU! On this 109th anniversary of Her first apparition, May 13, 1917...Read more...</span><span class="citation-popover-meta">Published: May 13, 1917</span></span></span>
+Descriptions range from gentle spinning to catastrophic plunges toward Earth. Some witnesses described coloured light washing over the crowd and landscape. Others focused on the ability to stare directly at the Sun. A few accounts contain almost apocalyptic imagery, while others are restrained and observational.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fatima.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fatima.org">[Fatima Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fatima.org</span><span class="citation-popover-snippet">A BLESSED FEAST OF OUR LADY OF FATIMA TO YOU! On this 109th anniversary of Her first apparition, May 13, 1917...Read more...</span><span class="citation-popover-meta">Published: May 13, 1917</span></span></span>
 
 This inconsistency does not automatically prove fabrication. In crowd events, especially emotionally charged ones, observers commonly interpret ambiguous stimuli differently. But it does weaken the strongest versions of the miracle claim.
 
 ### Expectation shaped perception
 
-The Fatima gatherings had been building for months, and [the children]({{ 'the-children/' | relative_url }}) had publicly promised a miracle that would convince observers. Newspapers had spread the prediction widely. By October, many in the crowd arrived expecting a supernatural sign. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Miracle_of_the_Sun" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Miracle of the Sun</span><span class="citation-popover-snippet">Miracle of the Sun</span></span></span>
+The Fatima gatherings had been building for months, and [the children]({{ 'the-children/' | relative_url }}) had publicly promised a miracle that would convince observers. Newspapers had spread the prediction widely. By October, many in the crowd arrived expecting a supernatural sign.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Miracle_of_the_Sun" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Miracle of the Sun</span><span class="citation-popover-snippet">Miracle of the Sun</span></span></span>
 
-Psychologists and sceptical investigators argue that expectation and social contagion likely influenced perception. Once people around an observer shouted that the Sun was moving, others may have interpreted normal visual distortions in the same dramatic way. Joe Nickell and Benjamin Radford both argue that prolonged staring at the Sun can create retinal after-images, colour shifts and apparent motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Our Lady of Fátima</span><span class="citation-popover-snippet">a Catholic title of Mary, mother of Jesus, based on the Marian apparitions reported in 1917 by three shepherd children at the Cova da Iri...</span></span></span>
+Psychologists and sceptical investigators argue that expectation and social contagion likely influenced perception. Once people around an observer shouted that the Sun was moving, others may have interpreted normal visual distortions in the same dramatic way. Joe Nickell and Benjamin Radford both argue that prolonged staring at the Sun can create retinal after-images, colour shifts and apparent motion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Our Lady of Fátima</span><span class="citation-popover-snippet">a Catholic title of Mary, mother of Jesus, based on the Marian apparitions reported in 1917 by three shepherd children at the Cova da Iri...</span></span></span>
 
 <img src="{{ "/assets/images/Fatima_apparition_19_f6784f_sun_miracle_witnesse_bf6c51-Illustration-2-dark.svg" | relative_url }}" alt="Sun Miracle illustration 2" data-theme-src-dark="{{ "/assets/images/Fatima_apparition_19_f6784f_sun_miracle_witnesse_bf6c51-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fatima_apparition_19_f6784f_sun_miracle_witnesse_bf6c51-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Staring at the Sun produces real visual distortions
 
-One reason the sceptical explanation remains influential is that several reported effects resemble known optical phenomena. Looking directly at the Sun can produce temporary retinal fatigue and motion illusions. Thin clouds, moisture and dust can also reduce glare and create unusual colour effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Miracle_of_the_Sun" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Miracle of the Sun</span><span class="citation-popover-snippet">Miracle of the Sun</span></span></span>
+One reason the sceptical explanation remains influential is that several reported effects resemble known optical phenomena. Looking directly at the Sun can produce temporary retinal fatigue and motion illusions. Thin clouds, moisture and dust can also reduce glare and create unusual colour effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Miracle_of_the_Sun" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Miracle of the Sun</span><span class="citation-popover-snippet">Miracle of the Sun</span></span></span>
 
-Meteorological explanations have also been proposed. Weather writer Paul Simons suggested that atmospheric conditions, possibly including high-altitude dust, could have altered the Sun’s appearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Our Lady of Fátima</span><span class="citation-popover-snippet">a Catholic title of Mary, mother of Jesus, based on the Marian apparitions reported in 1917 by three shepherd children at the Cova da Iri...</span></span></span>
+Meteorological explanations have also been proposed. Weather writer Paul Simons suggested that atmospheric conditions, possibly including high-altitude dust, could have altered the Sun’s appearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Our Lady of Fátima</span><span class="citation-popover-snippet">a Catholic title of Mary, mother of Jesus, based on the Marian apparitions reported in 1917 by three shepherd children at the Cova da Iri...</span></span></span>
 
-Critics emphasise a key scientific objection: if the Sun had truly moved through the sky in a physical sense, the event would have been visible globally and would have caused catastrophic gravitational effects. No astronomical observatories recorded such an event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Our Lady of Fátima</span><span class="citation-popover-snippet">a Catholic title of Mary, mother of Jesus, based on the Marian apparitions reported in 1917 by three shepherd children at the Cova da Iri...</span></span></span>
+Critics emphasise a key scientific objection: if the Sun had truly moved through the sky in a physical sense, the event would have been visible globally and would have caused catastrophic gravitational effects. No astronomical observatories recorded such an event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Our Lady of Fátima</span><span class="citation-popover-snippet">a Catholic title of Mary, mother of Jesus, based on the Marian apparitions reported in 1917 by three shepherd children at the Cova da Iri...</span></span></span>
 
 ## The strongest testimony and its limits
 
-Defenders of the miracle often emphasise that the witnesses included sceptics, secular journalists and politically anticlerical observers. This point is historically important. Fatima did attract witnesses who were not predisposed to support Catholic miracle claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.basicincome.com/bp/istherestrongevidence.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: basicincome.com">[Basic Income]</a><span class="citation-popover" role="note"><span class="citation-popover-source">basicincome.com</span><span class="citation-popover-snippet">Basic IncomeIs There Strong Evidence for The Miracle of the Sun?But to complete my case I think only requires the testimony of one man, p...</span></span></span>
+Defenders of the miracle often emphasise that the witnesses included sceptics, secular journalists and politically anticlerical observers. This point is historically important. Fatima did attract witnesses who were not predisposed to support Catholic miracle claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.basicincome.com/bp/istherestrongevidence.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: basicincome.com">[Basic Income]</a><span class="citation-popover" role="note"><span class="citation-popover-source">basicincome.com</span><span class="citation-popover-snippet">Basic IncomeIs There Strong Evidence for The Miracle of the Sun?But to complete my case I think only requires the testimony of one man, p...</span></span></span>
 
 However, this does not resolve the central problem: testimony alone cannot establish that the Sun literally moved. Even honest witnesses can misinterpret unusual visual experiences. The strongest historical argument is therefore narrower than many devotional retellings suggest.
 
@@ -326,7 +326,7 @@ A modest but defensible historical claim would include several points:
 
 </div>
 
-That narrower formulation fits both the surviving documents and the scientific objections more comfortably than absolute claims that celestial mechanics were suspended over Portugal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/event/Our-Lady-of-Fatima" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaOur Lady of Fatima &#124; Mary, Apparitions, Miracles, &amp; RosaryA crowd estimated at about 70,000 gathered at Fátima on...</span></span></span>
+That narrower formulation fits both the surviving documents and the scientific objections more comfortably than absolute claims that celestial mechanics were suspended over Portugal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/event/Our-Lady-of-Fatima" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaOur Lady of Fatima &#124; Mary, Apparitions, Miracles, &amp; RosaryA crowd estimated at about 70,000 gathered at Fátima on...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YMIxemcqsS4" title="Miracle of the Sun at Fatima | What Really Happened on October 13, 1917 | Ep. 25" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YMIxemcqsS4" target="_blank" rel="noopener noreferrer">Miracle of the Sun at Fatima | What Really Happened on October 13, 1917 | Ep. 25</a></p><p class="youtube-embed-meta">Channel: Our Lady&#x27;s Blue Army &middot; Views: 8.4K &middot; Uploaded: October 2025 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YMIxemcqsS4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YMIxemcqsS4">Open on YouTube</a></p></div></div></div>
 
@@ -334,11 +334,11 @@ That narrower formulation fits both the surviving documents and the scientific o
 
 The witness claims mattered far beyond the field at Cova da Iria because they transformed Fatima from a local children’s vision story into an international religious event. The prediction of a public sign gave the case unusual force compared with many apparition reports that depend only on private testimony.
 
-The event also arrived during a period of political and cultural tension in Portugal. The republican government was strongly anticlerical, and the Catholic Church had lost significant public influence. The apparent public success of the Fatima prediction therefore carried symbolic weight beyond the immediate religious claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Our Lady of Fátima</span><span class="citation-popover-snippet">a Catholic title of Mary, mother of Jesus, based on the Marian apparitions reported in 1917 by three shepherd children at the Cova da Iri...</span></span></span>
+The event also arrived during a period of political and cultural tension in Portugal. The republican government was strongly anticlerical, and the Catholic Church had lost significant public influence. The apparent public success of the Fatima prediction therefore carried symbolic weight beyond the immediate religious claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Our Lady of Fátima</span><span class="citation-popover-snippet">a Catholic title of Mary, mother of Jesus, based on the Marian apparitions reported in 1917 by three shepherd children at the Cova da Iri...</span></span></span>
 
-Later Catholic recognition of the Fatima apparitions did not require every reported detail of the Miracle of the Sun to be scientifically explained. The Church’s position was essentially that the events were “worthy of belief”, not that Catholics were obliged to accept every witness description literally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Our Lady of Fátima</span><span class="citation-popover-snippet">a Catholic title of Mary, mother of Jesus, based on the Marian apparitions reported in 1917 by three shepherd children at the Cova da Iri...</span></span></span>
+Later Catholic recognition of the Fatima apparitions did not require every reported detail of the Miracle of the Sun to be scientifically explained. The Church’s position was essentially that the events were “worthy of belief”, not that Catholics were obliged to accept every witness description literally.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Our Lady of Fátima</span><span class="citation-popover-snippet">a Catholic title of Mary, mother of Jesus, based on the Marian apparitions reported in 1917 by three shepherd children at the Cova da Iri...</span></span></span>
 
-The witness reports also became attractive to later UFO writers and anomalous-phenomena researchers because of the descriptions of luminous motion, coloured effects and mass observation. Some ufological interpretations compare the Fatima phenomenon to later “flying disc” reports, though this remains outside mainstream historical and Catholic interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/people/philosophy-and-religion/islam-biographies/fatima-religion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">Fatima (religion)The miraculous occurrences at Fatima on October 13, 1917, have also been evaluated in light of the post-Worl...</span><span class="citation-popover-meta">Published: October 13, 1917</span></span></span>
+The witness reports also became attractive to later UFO writers and anomalous-phenomena researchers because of the descriptions of luminous motion, coloured effects and mass observation. Some ufological interpretations compare the Fatima phenomenon to later “flying disc” reports, though this remains outside mainstream historical and Catholic interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/people/philosophy-and-religion/islam-biographies/fatima-religion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">Fatima (religion)The miraculous occurrences at Fatima on October 13, 1917, have also been evaluated in light of the post-Worl...</span><span class="citation-popover-meta">Published: October 13, 1917</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HzL-GJ3c5Bw" title="The Atheist Journalist’s Words at Fatima | The Document No One Was Supposed to Read" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HzL-GJ3c5Bw" target="_blank" rel="noopener noreferrer">The Atheist Journalist’s Words at Fatima | The Document No One Was Supposed to Read</a></p><p class="youtube-embed-meta">Channel: Christian Way &middot; Views: 93.6K &middot; Uploaded: April 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HzL-GJ3c5Bw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HzL-GJ3c5Bw">Open on YouTube</a></p></div></div></div>
 
@@ -348,185 +348,185 @@ The Miracle of the Sun remains famous because it resists easy categorisation. It
 
 The most cautious historical reading is that Fatima involved a real mass experience shaped by expectation, weather conditions, crowd dynamics and intense religious meaning. That conclusion leaves room for both believers and sceptics to interpret the event differently.
 
-Believers tend to argue that the prediction, the scale of the crowd and the sincerity of witnesses point toward divine intervention. Sceptics argue that inconsistent testimony, optical effects and the absence of physical astronomical evidence point toward a psychological and atmospheric explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historyextra.com/period/20th-century/miracle-sun-fatima-portugal-vision-what-happened/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historyextra.com">[History Extra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historyextra.com</span><span class="citation-popover-snippet">History ExtraMiracle of the Sun: When Thousands Gathered To Witness...13 Oct 2022 — These sceptics have pointed out the optical effects...</span></span></span>
+Believers tend to argue that the prediction, the scale of the crowd and the sincerity of witnesses point toward divine intervention. Sceptics argue that inconsistent testimony, optical effects and the absence of physical astronomical evidence point toward a psychological and atmospheric explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historyextra.com/period/20th-century/miracle-sun-fatima-portugal-vision-what-happened/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historyextra.com">[History Extra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historyextra.com</span><span class="citation-popover-snippet">History ExtraMiracle of the Sun: When Thousands Gathered To Witness...13 Oct 2022 — These sceptics have pointed out the optical effects...</span></span></span>
 
 What gives the Fatima case lasting historical interest is precisely that tension. The witness claims are too numerous and too well documented to ignore, but too inconsistent and physically problematic to settle the debate cleanly.
 
 <img src="{{ "/assets/images/Fatima_apparition_19_f6784f_sun_miracle_witnesse_bf6c51-Illustration-3-dark.svg" | relative_url }}" alt="Sun Miracle illustration 3" data-theme-src-dark="{{ "/assets/images/Fatima_apparition_19_f6784f_sun_miracle_witnesse_bf6c51-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fatima_apparition_19_f6784f_sun_miracle_witnesse_bf6c51-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Sun Really Dance at Fatima?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Sun Really Dance at Fatima?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=St.+Gertrude+the+Great+by+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open St. Gertrude the Great on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ddNgAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for St. Gertrude the Great" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=St.+Gertrude+the+Great+by+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="St. Gertrude the Great">St. Gertrude the Great</a>
-        </h4>
-        <p class="fr-book-author">By Anonymous</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=St.+Gertrude+the+Great+by+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open St. Gertrude the Great on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ddNgAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for St. Gertrude the Great" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=St.+Gertrude+the+Great+by+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="St. Gertrude the Great">St. Gertrude the Great</a>
+</h4>
+<p class="fr-book-author">By Anonymous</p>
         
-        <p class="fr-book-desc">Contains direct summaries of the solar phenomena reports, witness crowd testimony, and the newspaper records from 1917.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=St.+Gertrude+the+Great+by+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains direct summaries of the solar phenomena reports, witness crowd testimony, and the newspaper records from 1917.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=St.+Gertrude+the+Great+by+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Profiles the solar miracle reports, examining what was documented at the site against skeptical interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Profiles the solar miracle reports, examining what was documented at the site against skeptical interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches forensic methodologies to distinguish atmospheric phenomena and optical illusions from genuine miraculous events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches forensic methodologies to distinguish atmospheric phenomena and optical illusions from genuine miraculous events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Reviews the standards applied by historical investigative bodies when checking mass-witness testimonies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reviews the standards applied by historical investigative bodies when checking mass-witness testimonies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=St.+Gertrude+the+Great&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">St. Gertrude the Great</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=St.+Gertrude+the+Great&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">St. Gertrude the Great</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Virgin Mary Mother Of Christ Catholic Holy A4 Poster Wall Art Print Picture"><img src="{{ '/assets/images/marketplace-covers/9b4a9e6334af6e05b499.jpg' | relative_url }}" alt="Listing image for The Virgin Mary Mother Of Christ Catholic Holy A4 Poster Wall Art Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer">The Virgin Mary Mother Of Christ Catholic Holy A4 Poster Wall Art Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Catholic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: Catholic wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Virgin Mary Mother Of Christ Catholic Holy A4 Poster Wall Art Print Picture"><img src="{{ '/assets/images/marketplace-covers/9b4a9e6334af6e05b499.jpg' | relative_url }}" alt="Listing image for The Virgin Mary Mother Of Christ Catholic Holy A4 Poster Wall Art Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer">The Virgin Mary Mother Of Christ Catholic Holy A4 Poster Wall Art Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Catholic wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: Catholic wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for St Saint Thérèse Catholic Holy A4 Poster Wall Art Decor Print Picture"><img src="{{ '/assets/images/marketplace-covers/4dc7aa2a150d0f26092b.jpg' | relative_url }}" alt="Listing image for St Saint Thérèse Catholic Holy A4 Poster Wall Art Decor Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer">St Saint Thérèse Catholic Holy A4 Poster Wall Art Decor Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Catholic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: Catholic wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for St Saint Thérèse Catholic Holy A4 Poster Wall Art Decor Print Picture"><img src="{{ '/assets/images/marketplace-covers/4dc7aa2a150d0f26092b.jpg' | relative_url }}" alt="Listing image for St Saint Thérèse Catholic Holy A4 Poster Wall Art Decor Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer">St Saint Thérèse Catholic Holy A4 Poster Wall Art Decor Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Catholic wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: Catholic wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ornate Gold Sacred Heart Cross Wall Art Vintage Religious Decor Catholic"><img src="{{ '/assets/images/marketplace-covers/def646b19c10e11e8190.jpg' | relative_url }}" alt="Listing image for Ornate Gold Sacred Heart Cross Wall Art Vintage Religious Decor Catholic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer">Ornate Gold Sacred Heart Cross Wall Art Vintage Religious Decor Catholic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Catholic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: Catholic wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ornate Gold Sacred Heart Cross Wall Art Vintage Religious Decor Catholic"><img src="{{ '/assets/images/marketplace-covers/def646b19c10e11e8190.jpg' | relative_url }}" alt="Listing image for Ornate Gold Sacred Heart Cross Wall Art Vintage Religious Decor Catholic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer">Ornate Gold Sacred Heart Cross Wall Art Vintage Religious Decor Catholic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Catholic wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: Catholic wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="sun-miracle-did-the-sun-really-dance-at-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -542,7 +542,7 @@ What gives the Fatima case lasting historical interest is precisely that tension
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -562,7 +562,7 @@ What gives the Fatima case lasting historical interest is precisely that tension
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -594,7 +594,7 @@ What gives the Fatima case lasting historical interest is precisely that tension
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -646,7 +646,7 @@ What gives the Fatima case lasting historical interest is precisely that tension
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -691,7 +691,7 @@ What gives the Fatima case lasting historical interest is precisely that tension
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,173 +732,173 @@ What gives the Fatima case lasting historical interest is precisely that tension
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Miracle of the Sun  
-   Link: <a href="https://en.wikipedia.org/wiki/Miracle_of_the_Sun" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Miracle_of_the_Sun</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Miracle_of_the_Sun" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Miracle_of_the_Sun</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/event/Our-Lady-of-Fatima" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Our-Lady-of-Fatima</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaOur Lady of Fatima | Mary, Apparitions, Miracles, &amp; RosaryA crowd estimated at about 70,000 gathered at Fátima on...</p></details>
+   Link:<a href="https://www.britannica.com/event/Our-Lady-of-Fatima" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Our-Lady-of-Fatima</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaOur Lady of Fatima | Mary, Apparitions, Miracles, &amp; RosaryA crowd estimated at about 70,000 gathered at Fátima on...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: thesacredheart.com  
    Title: The Miracle of the Sun  
-   Link: <a href="https://www.thesacredheart.com/mirsun.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.thesacredheart.com/mirsun.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE SACRED HEARTIn &quot;O Seculo&quot; of October 15, Avelino de Almeida wrote: The crowd, by the unprejudiced calculations of cultivated persons...</p></details>
+   Link:<a href="https://www.thesacredheart.com/mirsun.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.thesacredheart.com/mirsun.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE SACRED HEARTIn &quot;O Seculo&quot; of October 15, Avelino de Almeida wrote: The crowd, by the unprejudiced calculations of cultivated persons...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: bluearmy.com  
    Title: astounding things how the midday sun danced at fatima  
-   Link: <a href="https://www.bluearmy.com/astounding-things-how-the-midday-sun-danced-at-fatima/" target="_blank" rel="noopener noreferrer nofollow">https://www.bluearmy.com/astounding-things-how-the-midday-sun-danced-at-fatima/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Apostolate of Fatima USAAstounding Things!: How the Midday Sun Danced at Fatima11 Oct 2023 — An excerpt of Avelino de Almeida&#x27;s fir...</p></details>
+   Link:<a href="https://www.bluearmy.com/astounding-things-how-the-midday-sun-danced-at-fatima/" target="_blank" rel="noopener noreferrer nofollow">https://www.bluearmy.com/astounding-things-how-the-midday-sun-danced-at-fatima/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Apostolate of Fatima USAAstounding Things!: How the Midday Sun Danced at Fatima11 Oct 2023 — An excerpt of Avelino de Almeida&#x27;s fir...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: fatima.org  
-   Link: <a href="https://fatima.org/miracle-of-the-sun/" target="_blank" rel="noopener noreferrer nofollow">https://fatima.org/miracle-of-the-sun/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fatima CenterThe Miracle of the SunAn Eyewitness Account by Dr. José Maria de Almeida Garrett, professor at the Faculty of Sciences of Co...</p></details>
+   Link:<a href="https://fatima.org/miracle-of-the-sun/" target="_blank" rel="noopener noreferrer nofollow">https://fatima.org/miracle-of-the-sun/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fatima CenterThe Miracle of the SunAn Eyewitness Account by Dr. José Maria de Almeida Garrett, professor at the Faculty of Sciences of Co...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/religion/comments/13kx4lu/what_are_your_thoughts_on_the_miracle_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/religion/comments/13kx4lu/what_are_your_thoughts_on_the_miracle_of/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What are your thoughts on the Miracle of Fatima...... the retina, and thus the brain &quot;sees&quot; the Sun... (witness accounts are tota...</p></details>
+   Link:<a href="https://www.reddit.com/r/religion/comments/13kx4lu/what_are_your_thoughts_on_the_miracle_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/religion/comments/13kx4lu/what_are_your_thoughts_on_the_miracle_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What are your thoughts on the Miracle of Fatima...... the retina, and thus the brain &quot;sees&quot; the Sun... (witness accounts are tota...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/DebateACatholic/comments/1q1gwkn/the_notsomiraculous_miracle_of_the_sun_or_why_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DebateACatholic/comments/1q1gwkn/the_notsomiraculous_miracle_of_the_sun_or_why_i/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The not-so-miraculous Miracle of the Sun, or, &quot;Why I am not...How about Avelino de Almeida, the same journalist who wrote that fam...</p></details>
+   Link:<a href="https://www.reddit.com/r/DebateACatholic/comments/1q1gwkn/the_notsomiraculous_miracle_of_the_sun_or_why_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DebateACatholic/comments/1q1gwkn/the_notsomiraculous_miracle_of_the_sun_or_why_i/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The not-so-miraculous Miracle of the Sun, or, &quot;Why I am not...How about Avelino de Almeida, the same journalist who wrote that fam...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Our Lady of Fátima  
-   Link: <a href="https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>a Catholic title of Mary, mother of Jesus, based on the Marian apparitions reported in 1917 by three shepherd children at the Cova da Iri...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a Catholic title of Mary, mother of Jesus, based on the Marian apparitions reported in 1917 by three shepherd children at the Cova da Iri...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/people/philosophy-and-religion/islam-biographies/fatima-religion" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/people/philosophy-and-religion/islam-biographies/fatima-religion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fatima (religion)The miraculous occurrences at Fatima on October 13, 1917, have also been evaluated in light of the post-Worl...</p></details>
+   Link:<a href="https://www.encyclopedia.com/people/philosophy-and-religion/islam-biographies/fatima-religion" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/people/philosophy-and-religion/islam-biographies/fatima-religion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fatima (religion)The miraculous occurrences at Fatima on October 13, 1917, have also been evaluated in light of the post-Worl...</p></details>
    Published: October 13, 1917  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: catholic.org  
    Title: Former Pope witnesses Miracle of the Sun decades after  
-   Link: <a href="https://www.catholic.org/news/hf/faith/story.php?id=81027" target="_blank" rel="noopener noreferrer nofollow">https://www.catholic.org/news/hf/faith/story.php?id=81027</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 14, 2019 — On October 13, 1917, thousands of people gathered near Fatima, Portugal to witness a miracle promised by three shepherd ch...</p></details>
+   Link:<a href="https://www.catholic.org/news/hf/faith/story.php?id=81027" target="_blank" rel="noopener noreferrer nofollow">https://www.catholic.org/news/hf/faith/story.php?id=81027</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 14, 2019 — On October 13, 1917, thousands of people gathered near Fatima, Portugal to witness a miracle promised by three shepherd ch...</p></details>
    Published: May 14, 2019  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: fatima.org  
-   Link: <a href="https://fatima.org/" target="_blank" rel="noopener noreferrer nofollow">https://fatima.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A BLESSED FEAST OF OUR LADY OF FATIMA TO YOU! On this 109th anniversary of Her first apparition, May 13, 1917...Read more...</p></details>
+   Link:<a href="https://fatima.org/" target="_blank" rel="noopener noreferrer nofollow">https://fatima.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A BLESSED FEAST OF OUR LADY OF FATIMA TO YOU! On this 109th anniversary of Her first apparition, May 13, 1917...Read more...</p></details>
    Published: May 13, 1917  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: fatima.org  
-   Link: <a href="https://fatima.org/wp-content/uploads/2018/01/fatima_islam_BT055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fatima.org/wp-content/uploads/2018/01/fatima_islam_BT055.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fatima, Islam and Our Lady&#x27;s coming TriumphThis booklet contains some brief quotations from the. Quran for the sole purpose of exposing t...</p></details>
+   Link:<a href="https://fatima.org/wp-content/uploads/2018/01/fatima_islam_BT055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fatima.org/wp-content/uploads/2018/01/fatima_islam_BT055.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fatima, Islam and Our Lady&#x27;s coming TriumphThis booklet contains some brief quotations from the. Quran for the sole purpose of exposing t...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: catholic.com  
-   Link: <a href="https://www.catholic.com/magazine/print-edition/getting-fatima-right" target="_blank" rel="noopener noreferrer nofollow">https://www.catholic.com/magazine/print-edition/getting-fatima-right</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Getting Fatima Right | Catholic Answers MagazineIn the spring of 1917, Lucia and her cousins Francisco and Jacinta Martos (then 7 and 6)...</p></details>
+   Link:<a href="https://www.catholic.com/magazine/print-edition/getting-fatima-right" target="_blank" rel="noopener noreferrer nofollow">https://www.catholic.com/magazine/print-edition/getting-fatima-right</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Getting Fatima Right | Catholic Answers MagazineIn the spring of 1917, Lucia and her cousins Francisco and Jacinta Martos (then 7 and 6)...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: so what really happened in 1917 2 children  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/mecops/so_what_really_happened_in_1917_2_children/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/mecops/so_what_really_happened_in_1917_2_children/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>So what really happened in 1917? 2 children predicted a...So what really happened in 1917? 2 children predicted a miracle and 70,000 peo...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/mecops/so_what_really_happened_in_1917_2_children/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/mecops/so_what_really_happened_in_1917_2_children/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>So what really happened in 1917? 2 children predicted a...So what really happened in 1917? 2 children predicted a miracle and 70,000 peo...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: focus.org  
    Title: What Happened at Fatima?  
-   Link: <a href="https://focus.org/posts/what-happened-at-fatima-our-lady-of-fatima-explained/" target="_blank" rel="noopener noreferrer nofollow">https://focus.org/posts/what-happened-at-fatima-our-lady-of-fatima-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our Lady of Fatima: ExplainedThe Miracle of the Sun. On October 13, 1917, 70,000 people gathered in Fatima despite heavy rain, waiting to...</p></details>
+   Link:<a href="https://focus.org/posts/what-happened-at-fatima-our-lady-of-fatima-explained/" target="_blank" rel="noopener noreferrer nofollow">https://focus.org/posts/what-happened-at-fatima-our-lady-of-fatima-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our Lady of Fatima: ExplainedThe Miracle of the Sun. On October 13, 1917, 70,000 people gathered in Fatima despite heavy rain, waiting to...</p></details>
    Published: October 13, 1917  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: historyextra.com  
-   Link: <a href="https://www.historyextra.com/period/20th-century/miracle-sun-fatima-portugal-vision-what-happened/" target="_blank" rel="noopener noreferrer nofollow">https://www.historyextra.com/period/20th-century/miracle-sun-fatima-portugal-vision-what-happened/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History ExtraMiracle of the Sun: When Thousands Gathered To Witness...13 Oct 2022 — These sceptics have pointed out the optical effects...</p></details>
+   Link:<a href="https://www.historyextra.com/period/20th-century/miracle-sun-fatima-portugal-vision-what-happened/" target="_blank" rel="noopener noreferrer nofollow">https://www.historyextra.com/period/20th-century/miracle-sun-fatima-portugal-vision-what-happened/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History ExtraMiracle of the Sun: When Thousands Gathered To Witness...13 Oct 2022 — These sceptics have pointed out the optical effects...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: fatimaretreathouse-indy.org  
-   Link: <a href="https://fatimaretreathouse-indy.org/story-of-fatima" target="_blank" rel="noopener noreferrer nofollow">https://fatimaretreathouse-indy.org/story-of-fatima</a>  
+   Link:<a href="https://fatimaretreathouse-indy.org/story-of-fatima" target="_blank" rel="noopener noreferrer nofollow">https://fatimaretreathouse-indy.org/story-of-fatima</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: basicincome.com  
-   Link: <a href="https://www.basicincome.com/bp/istherestrongevidence.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.basicincome.com/bp/istherestrongevidence.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Basic IncomeIs There Strong Evidence for The Miracle of the Sun?But to complete my case I think only requires the testimony of one man, p...</p></details>
+   Link:<a href="https://www.basicincome.com/bp/istherestrongevidence.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.basicincome.com/bp/istherestrongevidence.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Basic IncomeIs There Strong Evidence for The Miracle of the Sun?But to complete my case I think only requires the testimony of one man, p...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: americaneedsfatima.org  
    Title: the miracle of the sun  
-   Link: <a href="https://americaneedsfatima.org/articles/the-miracle-of-the-sun" target="_blank" rel="noopener noreferrer nofollow">https://americaneedsfatima.org/articles/the-miracle-of-the-sun</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 13, 2017 — Oct 13, 1917. A day that will go down in history as the day of the Miracle of the Sun; a day in which 70000 people witness...</p></details>
+   Link:<a href="https://americaneedsfatima.org/articles/the-miracle-of-the-sun" target="_blank" rel="noopener noreferrer nofollow">https://americaneedsfatima.org/articles/the-miracle-of-the-sun</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 13, 2017 — Oct 13, 1917. A day that will go down in history as the day of the Miracle of the Sun; a day in which 70000 people witness...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: store.lojaesperanca.com  
    Title: miracle of the sun  
-   Link: <a href="https://store.lojaesperanca.com/pages/miracle-of-the-sun?srsltid=AfmBOoqYj7VhXduSpS_nLE4JIk_CbyvLRe7XtyQDzED1peYiWUONe7sx" target="_blank" rel="noopener noreferrer nofollow">https://store.lojaesperanca.com/pages/miracle-of-the-sun?srsltid=AfmBOoqYj7VhXduSpS_nLE4JIk_CbyvLRe7XtyQDzED1peYiWUONe7sx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loja EsperançaThe newspaper O Século, known for its anti-clerical stance, published a detailed account by journalist Avelino de Almeida...</p></details>
+   Link:<a href="https://store.lojaesperanca.com/pages/miracle-of-the-sun?srsltid=AfmBOoqYj7VhXduSpS_nLE4JIk_CbyvLRe7XtyQDzED1peYiWUONe7sx" target="_blank" rel="noopener noreferrer nofollow">https://store.lojaesperanca.com/pages/miracle-of-the-sun?srsltid=AfmBOoqYj7VhXduSpS_nLE4JIk_CbyvLRe7XtyQDzED1peYiWUONe7sx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loja EsperançaThe newspaper O Século, known for its anti-clerical stance, published a detailed account by journalist Avelino de Almeida...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: fatimachurchabq.org  
-   Link: <a href="https://fatimachurchabq.org/our-lady-of-fatima-miracle" target="_blank" rel="noopener noreferrer nofollow">https://fatimachurchabq.org/our-lady-of-fatima-miracle</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our Lady of Fatima MiracleWhen it became known the Lady would visit the children for the last time on October 13, 1917, and had promised...</p></details>
+   Link:<a href="https://fatimachurchabq.org/our-lady-of-fatima-miracle" target="_blank" rel="noopener noreferrer nofollow">https://fatimachurchabq.org/our-lady-of-fatima-miracle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our Lady of Fatima MiracleWhen it became known the Lady would visit the children for the last time on October 13, 1917, and had promised...</p></details>
    Published: October 13, 1917  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: newhistories.sites.sheffield.ac.uk  
-   Link: <a href="https://newhistories.sites.sheffield.ac.uk/volumes/2012-13/volume-4/issue-2-days-that-shook-the-world/the-portuguese-miracle-of-the-sun-a-modern-miracle" target="_blank" rel="noopener noreferrer nofollow">https://newhistories.sites.sheffield.ac.uk/volumes/2012-13/volume-4/issue-2-days-that-shook-the-world/the-portuguese-miracle-of-the-sun-a-modern-miracle</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Portuguese Miracle of the Sun: A Modern Miracle?Nickel believes that this is due to the optical effects of staring at the sun for such a...</p></details>
+   Link:<a href="https://newhistories.sites.sheffield.ac.uk/volumes/2012-13/volume-4/issue-2-days-that-shook-the-world/the-portuguese-miracle-of-the-sun-a-modern-miracle" target="_blank" rel="noopener noreferrer nofollow">https://newhistories.sites.sheffield.ac.uk/volumes/2012-13/volume-4/issue-2-days-that-shook-the-world/the-portuguese-miracle-of-the-sun-a-modern-miracle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Portuguese Miracle of the Sun: A Modern Miracle?Nickel believes that this is due to the optical effects of staring at the sun for such a...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thedivinemercy/posts/the-miracle-of-the-sun-fatima-october-13-1917on-october-13-1917-in-the-humble-fi/1289149216587916/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thedivinemercy/posts/the-miracle-of-the-sun-fatima-october-13-1917on-october-13-1917-in-the-humble-fi/1289149216587916/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE MIRACLE OF THE SUN — FATIMA, OCTOBER 13...Miracle of the Sun: On October 13, 1917, a large crowd witnessed what was described as a...</p></details>
+   Link:<a href="https://www.facebook.com/thedivinemercy/posts/the-miracle-of-the-sun-fatima-october-13-1917on-october-13-1917-in-the-humble-fi/1289149216587916/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thedivinemercy/posts/the-miracle-of-the-sun-fatima-october-13-1917on-october-13-1917-in-the-humble-fi/1289149216587916/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE MIRACLE OF THE SUN — FATIMA, OCTOBER 13...Miracle of the Sun: On October 13, 1917, a large crowd witnessed what was described as a...</p></details>
    Published: October 13, 1917  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
    Title: 70000 people witnessed the miracle of the sun on october 13th 1917  
-   Link: <a href="https://www.facebook.com/sanctafamiliamedia/posts/70000-people-witnessed-the-miracle-of-the-sun-on-october-13th-1917/815786954142685/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sanctafamiliamedia/posts/70000-people-witnessed-the-miracle-of-the-sun-on-october-13th-1917/815786954142685/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>70000 people witnessed the miracle of the sun on October...On October 13, 106 years ago, Our Lady of Fatima performed the Miracle of the...</p></details>
+   Link:<a href="https://www.facebook.com/sanctafamiliamedia/posts/70000-people-witnessed-the-miracle-of-the-sun-on-october-13th-1917/815786954142685/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sanctafamiliamedia/posts/70000-people-witnessed-the-miracle-of-the-sun-on-october-13th-1917/815786954142685/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>70000 people witnessed the miracle of the sun on October...On October 13, 106 years ago, Our Lady of Fatima performed the Miracle of the...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: aleteia.org  
    Title: do you have to believe in the miracle of the sun at fatima  
-   Link: <a href="https://aleteia.org/2024/10/12/do-you-have-to-believe-in-the-miracle-of-the-sun-at-fatima/" target="_blank" rel="noopener noreferrer nofollow">https://aleteia.org/2024/10/12/do-you-have-to-believe-in-the-miracle-of-the-sun-at-fatima/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?Oct 12, 2024 — The miracle of the sun was witnessed by thousands of individuals, but in the eyes of the Church, it is not a part of the...</p></details>
+   Link:<a href="https://aleteia.org/2024/10/12/do-you-have-to-believe-in-the-miracle-of-the-sun-at-fatima/" target="_blank" rel="noopener noreferrer nofollow">https://aleteia.org/2024/10/12/do-you-have-to-believe-in-the-miracle-of-the-sun-at-fatima/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?Oct 12, 2024 — The miracle of the sun was witnessed by thousands of individuals, but in the eyes of the Church, it is not a part of the...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2068347423465769/posts/3832442780389549/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2068347423465769/posts/3832442780389549/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 13, 1917, attended by some 30,000 to 100,000 people who...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2068347423465769/posts/3832442780389549/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2068347423465769/posts/3832442780389549/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 13, 1917, attended by some 30,000 to 100,000 people who...Read more...</p></details>
    Published: October 13, 1917  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: saintbeluga.org  
-   Link: <a href="https://www.saintbeluga.org/our-lady-of-fatima-queen-of-the-heavens" target="_blank" rel="noopener noreferrer nofollow">https://www.saintbeluga.org/our-lady-of-fatima-queen-of-the-heavens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our Lady of Fátima: Queen of the HeavensWitnesses described seeing the sun dance, change colors, and appear to fall toward the earth...</p></details>
+   Link:<a href="https://www.saintbeluga.org/our-lady-of-fatima-queen-of-the-heavens" target="_blank" rel="noopener noreferrer nofollow">https://www.saintbeluga.org/our-lady-of-fatima-queen-of-the-heavens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our Lady of Fátima: Queen of the HeavensWitnesses described seeing the sun dance, change colors, and appear to fall toward the earth...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DPv-ZfYDQdo/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DPv-ZfYDQdo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 13, 1917, was reported even by O Século...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DPv-ZfYDQdo/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DPv-ZfYDQdo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 13, 1917, was reported even by O Século...Read more...</p></details>
    Published: October 13, 1917  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: muslimskeptic.com  
    Title: debunking christian miracle of fatima  
-   Link: <a href="https://muslimskeptic.com/2023/02/02/debunking-christian-miracle-of-fatima/" target="_blank" rel="noopener noreferrer nofollow">https://muslimskeptic.com/2023/02/02/debunking-christian-miracle-of-fatima/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking the Christian &quot;Miracle of Fátima&quot;2 Feb 2023 — My investigation found no evidence that the events that transpired at Fátima vali...</p></details>
+   Link:<a href="https://muslimskeptic.com/2023/02/02/debunking-christian-miracle-of-fatima/" target="_blank" rel="noopener noreferrer nofollow">https://muslimskeptic.com/2023/02/02/debunking-christian-miracle-of-fatima/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking the Christian &quot;Miracle of Fátima&quot;2 Feb 2023 — My investigation found no evidence that the events that transpired at Fátima vali...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: livingfatima.com  
    Title: how the sun danced at noon in fatima  
-   Link: <a href="https://livingfatima.com/2016/06/17/how-the-sun-danced-at-noon-in-fatima/" target="_blank" rel="noopener noreferrer nofollow">https://livingfatima.com/2016/06/17/how-the-sun-danced-at-noon-in-fatima/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>!17 Jun 2016 — The macabre dancing of the sun in Fatima today that caused Hosannas to explode from the hearts of the faithful and left a...</p></details>
+   Link:<a href="https://livingfatima.com/2016/06/17/how-the-sun-danced-at-noon-in-fatima/" target="_blank" rel="noopener noreferrer nofollow">https://livingfatima.com/2016/06/17/how-the-sun-danced-at-noon-in-fatima/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>!17 Jun 2016 — The macabre dancing of the sun in Fatima today that caused Hosannas to explode from the hearts of the faithful and left a...</p></details>

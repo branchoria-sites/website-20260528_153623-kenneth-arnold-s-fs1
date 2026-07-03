@@ -758,41 +758,41 @@ image: /assets/images/JAL_1628_sighting_ov_aeed7e-overview-social.jpg
 
 ## Introduction
 
-The strongest reading is cautious: the case involved sincere, experienced witnesses, ambiguous radar indications, and a serious air-traffic response, but the official record does not confirm a solid craft tracking the aircraft. A December 1986 FAA memorandum says Anchorage Center radar data did “not confirm the presence” of the traffic reported by JAL 1628, while later sceptical analysis argued that parts of the sighting could be explained by radar correlation artefacts, ice-crystal or cloud effects, and bright celestial objects, especially Jupiter. The Black Vault Documents <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
+The strongest reading is cautious: the case involved sincere, experienced witnesses, ambiguous radar indications, and a serious air-traffic response, but the official record does not confirm a solid craft tracking the aircraft. A December 1986 FAA memorandum says Anchorage Center radar data did “not confirm the presence” of the traffic reported by JAL 1628, while later sceptical analysis argued that parts of the sighting could be explained by radar correlation artefacts, ice-crystal or cloud effects, and bright celestial objects, especially Jupiter. The Black Vault Documents<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
 
 <img src="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e-overview.webp" | relative_url }}" alt="Overview image for JAL 1628 sighting over Alaska 1986" loading="eager" decoding="sync" fetchpriority="high">
 ## What the crew reported over Alaska
 
-JAL 1628 was a cargo flight from Europe towards Japan, stopping at Anchorage. The event occurred on the Reykjavík-to-Anchorage leg, over eastern Alaska, with Captain Kenju Terauchi, First Officer Takanori Tamefuji, and Flight Engineer Yoshio Tsukuba aboard. FAA interview notes say the crew reported “unidentified air traffic” after departure from Reykjavík, with the aircraft at flight level 390 and flying at Mach 0.84 when the captain first described the object near the Potat intersection and the Air Defence Identification Zone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
+JAL 1628 was a cargo flight from Europe towards Japan, stopping at Anchorage. The event occurred on the Reykjavík-to-Anchorage leg, over eastern Alaska, with Captain Kenju Terauchi, First Officer Takanori Tamefuji, and Flight Engineer Yoshio Tsukuba aboard. FAA interview notes say the crew reported “unidentified air traffic” after departure from Reykjavík, with the aircraft at flight level 390 and flying at Mach 0.84 when the captain first described the object near the Potat intersection and the Air Defence Identification Zone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
 
-Terauchi’s account was dramatic. FAA notes record him saying the traffic appeared roughly seven to eight nautical miles ahead for about twelve minutes, that the range came from the aircraft’s onboard Bendix colour radar, and that he saw yellow, amber and green lights with a rotating beacon but no red lights. The notes also say he described two distinct sets of lights that appeared joined together, and that he judged the unknown traffic to be about the size of a Boeing 747 or larger. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
+Terauchi’s account was dramatic. FAA notes record him saying the traffic appeared roughly seven to eight nautical miles ahead for about twelve minutes, that the range came from the aircraft’s onboard Bendix colour radar, and that he saw yellow, amber and green lights with a rotating beacon but no red lights. The notes also say he described two distinct sets of lights that appeared joined together, and that he judged the unknown traffic to be about the size of a Boeing 747 or larger.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
 
-The reported geometry changed during the encounter. Terauchi said the lights shifted from horizontal to vertical and moved from in front of the aircraft to its port side, remaining there for about 35 minutes. He requested and received permission to make a 360-degree turn near Fairbanks, and later said the unknown traffic maintained its position during the turn. According to the same FAA interview notes, visual contact was lost roughly 40 nautical miles north of Talkeetna as the aircraft continued towards Anchorage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
+The reported geometry changed during the encounter. Terauchi said the lights shifted from horizontal to vertical and moved from in front of the aircraft to its port side, remaining there for about 35 minutes. He requested and received permission to make a 360-degree turn near Fairbanks, and later said the unknown traffic maintained its position during the turn. According to the same FAA interview notes, visual contact was lost roughly 40 nautical miles north of Talkeetna as the aircraft continued towards Anchorage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
 
 ## The timeline that makes the case compelling
 
 The case remains famous because it was not merely a post-flight anecdote. The crew talked to Anchorage Air Route Traffic Control Center during the event, controllers queried military radar, the aircraft changed altitude and heading, and another airliner was asked to assist in visual confirmation.
 
-The FAA chronology gives the key sequence in UTC. At about 02:19, JAL 1628 asked for traffic information; the controller advised there was no known traffic nearby, while the crew reported same-direction traffic about one mile ahead and apparently at their altitude. At 02:25, JAL said the traffic was visible on its radar at the 11 o’clock position, eight miles away. At 02:26, the Military Regional Operations Control Center reported a primary radar return in JAL 1628’s 10 o’clock position at eight miles, but at 02:27 it advised that it was no longer receiving returns near the aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
+The FAA chronology gives the key sequence in UTC. At about 02:19, JAL 1628 asked for traffic information; the controller advised there was no known traffic nearby, while the crew reported same-direction traffic about one mile ahead and apparently at their altitude. At 02:25, JAL said the traffic was visible on its radar at the 11 o’clock position, eight miles away. At 02:26, the Military Regional Operations Control Center reported a primary radar return in JAL 1628’s 10 o’clock position at eight miles, but at 02:27 it advised that it was no longer receiving returns near the aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
 
-The aircraft then manoeuvred. At 02:31, the crew described the “plane” as “quite big”, and the controller approved deviations to avoid the traffic. At 02:32, JAL 1628 descended from flight level 350 to flight level 310, and the pilot said the traffic was descending “in formation”. At 02:35 and 02:36, controllers issued a heading change and then a 360-degree turn; Fairbanks Approach Control was asked whether it had radar returns near JAL 1628, and replied that it did not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
+The aircraft then manoeuvred. At 02:31, the crew described the “plane” as “quite big”, and the controller approved deviations to avoid the traffic. At 02:32, JAL 1628 descended from flight level 350 to flight level 310, and the pilot said the traffic was descending “in formation”. At 02:35 and 02:36, controllers issued a heading change and then a 360-degree turn; Fairbanks Approach Control was asked whether it had radar returns near JAL 1628, and replied that it did not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
 
-The chronology also records the most ambiguous radar moment. At 02:38, ROCC told Anchorage Center it had confirmed a “flight of two” in JAL 1628’s position, with “other equipment” watching and one return described as primary-only. A minute later, JAL reported it no longer had the traffic in sight. By 02:42, ROCC said the traffic appeared to have dropped back and to the right, but that it was no longer tracking it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
+The chronology also records the most ambiguous radar moment. At 02:38, ROCC told Anchorage Center it had confirmed a “flight of two” in JAL 1628’s position, with “other equipment” watching and one return described as primary-only. A minute later, JAL reported it no longer had the traffic in sight. By 02:42, ROCC said the traffic appeared to have dropped back and to the right, but that it was no longer tracking it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
 
 <img src="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e-Illustration-1-dark.svg" | relative_url }}" alt="JAL 1628 sighting over Alaska 1986 illustration 1" data-theme-src-dark="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the radar record cuts both ways
 
-For UFO advocates, the radar exchanges are the heart of the case: they suggest that something external to the crew’s perception may have been detected. That is a reasonable reason to treat the case as more substantial than a simple single-witness sighting. Contemporary press accounts also emphasised radar confirmation; UPI reported in late December 1986 that an air controller said radar showed a mysterious object following the JAL cargo flight, and a later UPI article said FAA and Alaska Air Command officials had discussed radar indications near the aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Controller confirms UFO sighting</span><span class="citation-popover-snippet">Controller confirms UFO sighting</span></span></span>
+For UFO advocates, the radar exchanges are the heart of the case: they suggest that something external to the crew’s perception may have been detected. That is a reasonable reason to treat the case as more substantial than a simple single-witness sighting. Contemporary press accounts also emphasised radar confirmation; UPI reported in late December 1986 that an air controller said radar showed a mysterious object following the JAL cargo flight, and a later UPI article said FAA and Alaska Air Command officials had discussed radar indications near the aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Controller confirms UFO sighting</span><span class="citation-popover-snippet">Controller confirms UFO sighting</span></span></span>
 
-The difficulty is that the internal FAA record is more restrained than the headlines. The December 1986 Anchorage ARTCC memorandum states that “radar data recorded by Anchorage Center does not confirm the presence of the traffic reported by Flight 1628” and that no further information had been received from civil or military sources at that time. The same chronology says a later review of Anchorage ARTCC radar tracking data “failed to confirm any targets in close proximity” to JAL 1628. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
+The difficulty is that the internal FAA record is more restrained than the headlines. The December 1986 Anchorage ARTCC memorandum states that “radar data recorded by Anchorage Center does not confirm the presence of the traffic reported by Flight 1628” and that no further information had been received from civil or military sources at that time. The same chronology says a later review of Anchorage ARTCC radar tracking data “failed to confirm any targets in close proximity” to JAL 1628.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
 
 The difference matters. A controller or military radar operator can report a possible primary return during a live event, while a later technical review can still judge that the recorded data do not establish a separate aircraft or craft. That does not prove the crew saw nothing; it means the [radar record]({{ 'radar-record/' | relative_url }}) is not the clean, independent confirmation sometimes claimed in simplified retellings.
 
 ## The failed visual confirmation is just as important
 
-One of the most underplayed details is that other aircraft were brought into the situation and did not see the object. At 02:45, Anchorage Center issued a 10-degree turn to a northbound United Airlines flight, with pilot agreement, in an attempt to confirm the traffic. At 02:50, the United crew reported that they had the JAL aircraft in sight against a light background, but could not see any other traffic. At 02:53, JAL 1628 advised that it no longer had contact with the traffic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
+One of the most underplayed details is that other aircraft were brought into the situation and did not see the object. At 02:45, Anchorage Center issued a 10-degree turn to a northbound United Airlines flight, with pilot agreement, in an attempt to confirm the traffic. At 02:50, the United crew reported that they had the JAL aircraft in sight against a light background, but could not see any other traffic. At 02:53, JAL 1628 advised that it no longer had contact with the traffic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
 
-Philip J. Klass’s 1987 Skeptical Inquirer analysis stressed this point. He wrote that two aircraft in the area, United Airlines Flight 69 and a USAF C-130 transport, were vectored or volunteered to look for the reported object, but neither crew saw an unidentified object near JAL 1628. According to Klass, the United crew readily saw the JAL 747 but not the reported luminous object; the C-130 crew also saw the JAL aircraft but nothing else nearby. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
+Philip J. Klass’s 1987 Skeptical Inquirer analysis stressed this point. He wrote that two aircraft in the area, United Airlines Flight 69 and a USAF C-130 transport, were vectored or volunteered to look for the reported object, but neither crew saw an unidentified object near JAL 1628. According to Klass, the United crew readily saw the JAL 747 but not the reported luminous object; the C-130 crew also saw the JAL aircraft but nothing else nearby.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
 
 This does not automatically disprove the sighting. The geometry, lighting, distance, cockpit workload, and brief viewing windows all matter. But it does weaken the claim that a large, solid object was plainly pacing the 747 in a way that should have been unmistakable to nearby observers.
 
@@ -802,30 +802,30 @@ This does not automatically disprove the sighting. The geometry, lighting, dista
 
 The three JAL crew members are often treated as if they gave one unified account. The record is more complex. The FAA interviews and later analysis suggest that the crew agreed on seeing unusual lights, but not necessarily on Terauchi’s most dramatic interpretation of a vast structured craft.
 
-Klass’s review of the FAA interview material says Flight Engineer Tsukuba described the initial lights as a cluster of undulating lights, different from town lights, but was unable to describe a definite shape for either reported object. Tsukuba also reportedly said that when first interviewed immediately after the incident he was not sure whether the object was a UFO, and that his mind had not changed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
+Klass’s review of the FAA interview material says Flight Engineer Tsukuba described the initial lights as a cluster of undulating lights, different from town lights, but was unable to describe a definite shape for either reported object. Tsukuba also reportedly said that when first interviewed immediately after the incident he was not sure whether the object was a UFO, and that his mind had not changed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
 
-First Officer Tamefuji’s account also appears more cautious than Terauchi’s. He described what at first looked like two small aircraft slightly below altitude, but when asked whether he could distinguish the lights from a star, he answered “No”. When shown Terauchi’s sketch of a giant walnut-shaped object, he reportedly said he had not seen anything like that, though he allowed that connecting the lights might imply a large object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
+First Officer Tamefuji’s account also appears more cautious than Terauchi’s. He described what at first looked like two small aircraft slightly below altitude, but when asked whether he could distinguish the lights from a star, he answered “No”. When shown Terauchi’s sketch of a giant walnut-shaped object, he reportedly said he had not seen anything like that, though he allowed that connecting the lights might imply a large object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
 
 That distinction is central to judging witness credibility. The case does not require dismissing the crew as unreliable. It does require separating the shared observation of unusual lights from the captain’s more expansive interpretation of a “mothership” or giant craft.
 
 <img src="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e-Illustration-2-dark.svg" | relative_url }}" alt="JAL 1628 sighting over Alaska 1986 illustration 2" data-theme-src-dark="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The official position was limited, not a full debunking
 
-The FAA did not present itself as a scientific UFO-investigation body. In the 1987 Skeptical Inquirer article, Klass quoted FAA Alaskan Region public affairs officer Paul Steucke as saying the agency lacked both the resources and the Congressional mandate to investigate UFO sightings scientifically, including analysis of stars, planets, magnetic fields, and viewing angles. The FAA’s role was primarily aviation safety, records handling, and air-traffic documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
+The FAA did not present itself as a scientific UFO-investigation body. In the 1987 Skeptical Inquirer article, Klass quoted FAA Alaskan Region public affairs officer Paul Steucke as saying the agency lacked both the resources and the Congressional mandate to investigate UFO sightings scientifically, including analysis of stars, planets, magnetic fields, and viewing angles. The FAA’s role was primarily aviation safety, records handling, and air-traffic documentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
 
-That limited mandate is often misunderstood. It means the FAA’s file is valuable because it preserves communications, interviews, logs and radar-related material, not because it provides a definitive scientific verdict on what the crew saw. The U.S. National Archives listing confirms the existence of the FAA record series for the JAL 1628 release, while The Black Vault’s archive page shows the breadth of surviving material, including crew interview notes, Terauchi’s written statement, radio transcripts, flight path charts, facility logs, radar recordings and news clippings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">The Black Vault Documents</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
+That limited mandate is often misunderstood. It means the FAA’s file is valuable because it preserves communications, interviews, logs and radar-related material, not because it provides a definitive scientific verdict on what the crew saw. The U.S. National Archives listing confirms the existence of the FAA record series for the JAL 1628 release, while The Black Vault’s archive page shows the breadth of surviving material, including crew interview notes, Terauchi’s written statement, radio transcripts, flight path charts, facility logs, radar recordings and news clippings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">The Black Vault Documents</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
 
-The best official-summary sentence is therefore negative but narrow: the FAA record does not confirm unidentified traffic in close proximity to JAL 1628. It does not prove that Terauchi invented the sighting, and it does not prove that nothing unusual was perceived. It says the objective aviation data were insufficient to establish the reported traffic as a confirmed target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
+The best official-summary sentence is therefore negative but narrow: the FAA record does not confirm unidentified traffic in close proximity to JAL 1628. It does not prove that Terauchi invented the sighting, and it does not prove that nothing unusual was perceived. It says the objective aviation data were insufficient to establish the reported traffic as a confirmed target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
 
 ## The main sceptical explanations
 
 The sceptical case has several parts rather than one simple claim. The most cited [explanations]({{ 'explanations-1ca8e5/' | relative_url }}) involve radar artefacts, bright planets, moonlit ice crystals or clouds, and interpretation drift between immediate reports and later interviews.
 
-Klass argued that one radar issue could be explained by an “uncorrected primary and beacon target”, a known radar phenomenon in which a primary reflection and transponder return are not properly correlated. In his account, FAA specialist Dennis R. Simantel treated such uncorrected primary returns as not uncommon because of timing issues involving the aircraft transponder and radar target-correlation circuitry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
+Klass argued that one radar issue could be explained by an “uncorrected primary and beacon target”, a known radar phenomenon in which a primary reflection and transponder return are not properly correlated. In his account, FAA specialist Dennis R. Simantel treated such uncorrected primary returns as not uncommon because of timing issues involving the aircraft transponder and radar target-correlation circuitry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
 
-The visual explanation is more layered. Klass placed bright Jupiter low in the south-eastern sky and argued that, from Terauchi’s vantage point, it could have appeared near the direction in which he later reported the object. He also noted Mars was visible but much fainter. For the earlier “cluster of lights”, he proposed moonlight reflecting from turbulent ice-crystal clouds, possibly producing undulating flame-coloured lights, with changing cloud conditions explaining disappearance and reappearance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
+The visual explanation is more layered. Klass placed bright Jupiter low in the south-eastern sky and argued that, from Terauchi’s vantage point, it could have appeared near the direction in which he later reported the object. He also noted Mars was visible but much fainter. For the earlier “cluster of lights”, he proposed moonlight reflecting from turbulent ice-crystal clouds, possibly producing undulating flame-coloured lights, with changing cloud conditions explaining disappearance and reappearance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
 
-A key supporting point for the ice-crystal and misidentification argument is a later January 1987 report by Terauchi in roughly the same area. Klass wrote that Terauchi again reported unusual lights and a large dark shape, but when radar did not confirm an object, he and the FAA later agreed those lights were probably from small villages diffused by thin clouds of ice crystals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
+A key supporting point for the ice-crystal and misidentification argument is a later January 1987 report by Terauchi in roughly the same area. Klass wrote that Terauchi again reported unusual lights and a large dark shape, but when radar did not confirm an object, he and the FAA later agreed those lights were probably from small villages diffused by thin clouds of ice crystals.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
 
 Sceptical explanations are not perfectly tidy. They have to account for a dynamic pilot report, cockpit radar impressions, live controller concern, and the crew’s sense of proximity and motion. But they do identify real weaknesses in the extraordinary interpretation: non-confirming radar review, no visual confirmation by nearby aircraft, differing crew descriptions, and known perceptual traps in night flying.
 
@@ -835,7 +835,7 @@ Sceptical explanations are not perfectly tidy. They have to account for a dynami
 
 Captain Terauchi was an experienced professional pilot, and the FAA interview notes do not portray the crew as impaired or frivolous. That is one reason the case attracted international attention. However, pilot experience does not make a witness immune to misperception, especially in darkness, at altitude, with ambiguous lights and a high workload.
 
-The controversy around Terauchi is not simply that he reported a UFO. FAA notes include an addendum from a confidential Japan Airlines source stating that this was not his first sighting of an unidentified aircraft. Klass went further, describing Terauchi as a “UFO repeater” and noting his apparent belief that UFOs were extraterrestrial, including his use of language such as “spaceship” and “mothership”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
+The controversy around Terauchi is not simply that he reported a UFO. FAA notes include an addendum from a confidential Japan Airlines source stating that this was not his first sighting of an unidentified aircraft. Klass went further, describing Terauchi as a “UFO repeater” and noting his apparent belief that UFOs were extraterrestrial, including his use of language such as “spaceship” and “mothership”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
 
 That affects evidential weight, not personal honesty. A witness can be sincere and still interpret ambiguous lights through an existing expectation. The strongest version of the case treats Terauchi as a credible aviation witness for what he perceived; the weaker version treats his most dramatic conclusions about size, structure and intent as interpretations requiring independent corroboration.
 
@@ -843,240 +843,240 @@ That affects evidential weight, not personal honesty. A witness can be sincere a
 
 ## What remains unresolved
 
-The JAL 1628 sighting remains unresolved in a limited, careful sense: no single explanation has been universally accepted for every part of the crew’s experience. The FAA file confirms that the crew reported unusual lights, that controllers took the report seriously, that military radar operators at moments discussed possible returns, and that the aircraft manoeuvred in response. Those are real features of the case, not later folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
+The JAL 1628 sighting remains unresolved in a limited, careful sense: no single explanation has been universally accepted for every part of the crew’s experience. The FAA file confirms that the crew reported unusual lights, that controllers took the report seriously, that military radar operators at moments discussed possible returns, and that the aircraft manoeuvred in response. Those are real features of the case, not later folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
 
-But the case is not unresolved in the stronger sense often implied online: it is not a clean, multi-sensor confirmation of a giant craft following a 747 for nearly an hour. The later FAA radar review did not confirm targets near JAL 1628; Fairbanks Approach reported no radar returns at a key moment; United 69 and a USAF C-130 did not see the reported object; and the crew’s later descriptions diverged on shape and certainty. The Black Vault Documents <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
+But the case is not unresolved in the stronger sense often implied online: it is not a clean, multi-sensor confirmation of a giant craft following a 747 for nearly an hour. The later FAA radar review did not confirm targets near JAL 1628; Fairbanks Approach reported no radar returns at a key moment; United 69 and a USAF C-130 did not see the reported object; and the crew’s later descriptions diverged on shape and certainty. The Black Vault Documents<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
 
 The most defensible conclusion is that JAL 1628 is a high-value case for studying how aviation UFO reports develop under real operational conditions. It combines trained witnesses, live air-traffic handling, preserved documentation, disputed radar interpretation, and plausible perceptual explanations. Its significance lies less in proving an extraordinary craft than in showing why serious UFO cases can be both genuinely puzzling and evidentially fragile.
 
 <img src="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e-Illustration-3-dark.svg" | relative_url }}" alt="JAL 1628 sighting over Alaska 1986 illustration 3" data-theme-src-dark="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened Over Alaska?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened Over Alaska?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Contains the comprehensive file entry on JAL 1628, including the crew details, radar data, and the official FAA record.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains the comprehensive file entry on JAL 1628, including the crew details, radar data, and the official FAA record.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
-        </h4>
-        <p class="fr-book-author">By Guy Lawson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+</h4>
+<p class="fr-book-author">By Guy Lawson</p>
         
-        <p class="fr-book-desc">Examines why reports from professional airline crews command significant attention and are subjected to rigorous investigative review.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines why reports from professional airline crews command significant attention and are subjected to rigorous investigative review.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Discusses the JAL 1628 case history and its enduring influence on how aviation authorities evaluate reports of unknown traffic.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses the JAL 1628 case history and its enduring influence on how aviation authorities evaluate reports of unknown traffic.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Addresses the fundamental logic used to judge reported instrument anomalies against natural, non-anomalous explanation pathways.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses the fundamental logic used to judge reported instrument anomalies against natural, non-anomalous explanation pathways.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: documents.theblackvault.com  
    Title: The Black Vault Documents  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: centerforinquiry.s3.amazonaws.com  
    Title: Center for Inquiry  
-   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf</a>  
+   Link:<a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: documents.theblackvault.com  
    Title: The Black Vault Documents  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: upi.com  
    Title: Controller confirms UFO sighting  
-   Link: <a href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/</a>  
+   Link:<a href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: upi.com  
    Title: JAL pilot describes UFO  
-   Link: <a href="https://www.upi.com/Archives/1986/12/31/JAL-pilot-describes-UFO/6559536389200/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1986/12/31/JAL-pilot-describes-UFO/6559536389200/</a>  
+   Link:<a href="https://www.upi.com/Archives/1986/12/31/JAL-pilot-describes-UFO/6559536389200/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1986/12/31/JAL-pilot-describes-UFO/6559536389200/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: catalog.archives.gov  
-   Link: <a href="https://catalog.archives.gov/id/733667" target="_blank" rel="noopener noreferrer nofollow">https://catalog.archives.gov/id/733667</a>  
+   Link:<a href="https://catalog.archives.gov/id/733667" target="_blank" rel="noopener noreferrer nofollow">https://catalog.archives.gov/id/733667</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/2022-09/fy21-oct20-apr21.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/2022-09/fy21-oct20-apr21.xlsx</a>  
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/2022-09/fy21-oct20-apr21.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/2022-09/fy21-oct20-apr21.xlsx</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/2022-09/fy18-jun18-sep18.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/2022-09/fy18-jun18-sep18.xlsx</a>  
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/2022-09/fy18-jun18-sep18.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/2022-09/fy18-jun18-sep18.xlsx</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250121-fy23-oct22-mar23.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250121-fy23-oct22-mar23.xlsx</a>  
+   Link:<a href="https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250121-fy23-oct22-mar23.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250121-fy23-oct22-mar23.xlsx</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: faa.gov  
    Title: afn afn 20250303 fy24 oct23 mar24.xlsx  
-   Link: <a href="https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250303-fy24-oct23-mar24.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250303-fy24-oct23-mar24.xlsx</a>  
+   Link:<a href="https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250303-fy24-oct23-mar24.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250303-fy24-oct23-mar24.xlsx</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250121-fy23-apr23-sept23.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250121-fy23-apr23-sept23.xlsx</a>  
+   Link:<a href="https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250121-fy23-apr23-sept23.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250121-fy23-apr23-sept23.xlsx</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: faa.gov  
    Title: grants 2001.xls  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/airports/aip/grant_histories/grants-2001.xls" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/airports/aip/grant_histories/grants-2001.xls</a>  
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/airports/aip/grant_histories/grants-2001.xls" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/airports/aip/grant_histories/grants-2001.xls</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: upi.com  
-   Link: <a href="https://www.upi.com/Archives/1986/12/31/A-veteran-pilot-whose-UFO-sighting-was-confirmed-on/2755536389200/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1986/12/31/A-veteran-pilot-whose-UFO-sighting-was-confirmed-on/2755536389200/</a>  
+   Link:<a href="https://www.upi.com/Archives/1986/12/31/A-veteran-pilot-whose-UFO-sighting-was-confirmed-on/2755536389200/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1986/12/31/A-veteran-pilot-whose-UFO-sighting-was-confirmed-on/2755536389200/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/details/jal1628" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/jal1628</a>  
+   Link:<a href="https://archive.org/details/jal1628" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/jal1628</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theblackvault.com  
    Title: the vault files 1986 alaska jal flight 1628  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/</a>  
+   Link:<a href="https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-015.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-015.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-003.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-003.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-003.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-003.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-02-001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-02-001.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-02-001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-02-001.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: as.amphilsoc.org  
-   Link: <a href="https://as.amphilsoc.org/repositories/2/resources/2894" target="_blank" rel="noopener noreferrer nofollow">https://as.amphilsoc.org/repositories/2/resources/2894</a>  
+   Link:<a href="https://as.amphilsoc.org/repositories/2/resources/2894" target="_blank" rel="noopener noreferrer nofollow">https://as.amphilsoc.org/repositories/2/resources/2894</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf</a>  
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf</a>  
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Pilot Reports Massive UFO Mothership Twice the Size of Aircraft Carrier  
-   Link: <a href="https://www.youtube.com/watch?v=VXbe4Z7oP00" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VXbe4Z7oP00</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing 747 Followed by a UFO | An Out Of This World Encounter | Japan Air Lines Flight 1628...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VXbe4Z7oP00" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VXbe4Z7oP00</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing 747 Followed by a UFO | An Out Of This World Encounter | Japan Air Lines Flight 1628...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=h4wK6LTERss" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h4wK6LTERss</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot Reports Massive UFO Mothership Twice the Size of Aircraft Carrier...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=h4wK6LTERss" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h4wK6LTERss</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot Reports Massive UFO Mothership Twice the Size of Aircraft Carrier...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/authors/philip-j-klass/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/authors/philip-j-klass/</a>  
+   Link:<a href="https://skepticalinquirer.org/authors/philip-j-klass/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/authors/philip-j-klass/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: skeptoid.com  
-   Link: <a href="https://skeptoid.com/episodes/1005" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/1005</a>  
+   Link:<a href="https://skeptoid.com/episodes/1005" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/1005</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ANews_media_contacts_to_FAA%2C_page_16_%28Original_caption-_JAL_-1628_%28UFO%29%2C_FAA_Press_Conference%2C_March_5%2C_1987%2C_Anchorage%2C_Alaska%29_%2833421621511%29.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ANews_media_contacts_to_FAA%2C_page_16_%28Original_caption-_JAL_-1628_%28UFO%29%2C_FAA_Press_Conference%2C_March_5%2C_1987%2C_Anchorage%2C_Alaska%29_%2833421621511%29.jpg</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ANews_media_contacts_to_FAA%2C_page_16_%28Original_caption-_JAL_-1628_%28UFO%29%2C_FAA_Press_Conference%2C_March_5%2C_1987%2C_Anchorage%2C_Alaska%29_%2833421621511%29.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ANews_media_contacts_to_FAA%2C_page_16_%28Original_caption-_JAL_-1628_%28UFO%29%2C_FAA_Press_Conference%2C_March_5%2C_1987%2C_Anchorage%2C_Alaska%29_%2833421621511%29.jpg</a>  
    Published: March 5, 1987  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skeptic/comments/168r8du/has_anyone_watched_brian_dunnings_from_skeptoid/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/168r8du/has_anyone_watched_brian_dunnings_from_skeptoid/</a>  
+   Link:<a href="https://www.reddit.com/r/skeptic/comments/168r8du/has_anyone_watched_brian_dunnings_from_skeptoid/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/168r8du/has_anyone_watched_brian_dunnings_from_skeptoid/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/110x5o3/huge_ufo_in_the_skies_over_alaska_witnessed_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/110x5o3/huge_ufo_in_the_skies_over_alaska_witnessed_by/</a>  
+   Link:<a href="https://www.reddit.com/r/ufo/comments/110x5o3/huge_ufo_in_the_skies_over_alaska_witnessed_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/110x5o3/huge_ufo_in_the_skies_over_alaska_witnessed_by/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-8.pdf</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-8.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: skeptoid.com  
-   Link: <a href="https://skeptoid.com/episodes/703" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/703</a>  
+   Link:<a href="https://skeptoid.com/episodes/703" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/703</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: mykss.com  
-   Link: <a href="https://mykss.com/en/article/japan-airlines-flight-1628-alaska-ufo-encounter-1986-eyewitness-testimonies-cross-examined-again/" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/article/japan-airlines-flight-1628-alaska-ufo-encounter-1986-eyewitness-testimonies-cross-examined-again/</a>
+   Link:<a href="https://mykss.com/en/article/japan-airlines-flight-1628-alaska-ufo-encounter-1986-eyewitness-testimonies-cross-examined-again/" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/article/japan-airlines-flight-1628-alaska-ufo-encounter-1986-eyewitness-testimonies-cross-examined-again/</a>

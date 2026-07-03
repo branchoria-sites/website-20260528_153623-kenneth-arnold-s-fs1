@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /rex-heflin-photograp-32bdf2-index/
 description: Focused pages that expand on Rex Heflin photographs 1965.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Rex_Heflin_photograp_32bdf2
 parent_title: Rex Heflin photographs 1965
@@ -16,7 +16,7 @@ parent_permalink: /rex-heflin-photographs-1965/
 
 # Explore Topics in Rex Heflin photographs 1965
 
-The following pages expand on the main **[Rex Heflin photographs 1965]({{ '/rex-heflin-photographs-1965/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Rex Heflin photographs 1965]({{ '/rex-heflin-photographs-1965/' | relative_url }})** page and cover its key branches in.
 
 - [Verdicts]({{ '/verdicts/' | relative_url }})
 - [Photo Sequence]({{ '/photo-sequence/' | relative_url }})

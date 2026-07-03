@@ -248,18 +248,18 @@ image: /assets/images/Antonio_Villas-Boas_1a3f4f_skeptical_ufo_cultur_bac102-Ill
 
 ## Introduction
 
-The Antonio Villas-Boas case has long occupied an unusual place in UFO history because it appears to bridge two eras: the optimistic “contactee” stories of the 1950s and the darker alien abduction narratives that became famous in the 1960s and 1970s. Sceptics do not generally argue that the case can be neatly disproved. Instead, they focus on how the story emerged, how it was transmitted through UFO researchers, and how its imagery resembles themes already circulating in science fiction and early flying saucer culture. The debate is therefore less about a single decisive contradiction than about whether the account was shaped — consciously or unconsciously — by the cultural atmosphere of the period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ant%C3%B4nio_Vilas-Boas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Antônio Vilas-Boas</span><span class="citation-popover-snippet">Antônio Vilas-Boas</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://psmag.com/environment/might-come-believe-youve-abducted-alien-73267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psmag.com">[Pacific Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psmag.com</span><span class="citation-popover-title">might come believe youve abducted alien 73267</span><span class="citation-popover-snippet">Pacific StandardHow You Might Come to Believe You&#x27;ve Been Abducted by...24 Jan 2014 — Supporters argued that Vilas-Boas&#x27; alleged abducti...</span></span></span>
+The Antonio Villas-Boas case has long occupied an unusual place in UFO history because it appears to bridge two eras: the optimistic “contactee” stories of the 1950s and the darker alien abduction narratives that became famous in the 1960s and 1970s. Sceptics do not generally argue that the case can be neatly disproved. Instead, they focus on how the story emerged, how it was transmitted through UFO researchers, and how its imagery resembles themes already circulating in science fiction and early flying saucer culture. The debate is therefore less about a single decisive contradiction than about whether the account was shaped — consciously or unconsciously — by the cultural atmosphere of the period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ant%C3%B4nio_Vilas-Boas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Antônio Vilas-Boas</span><span class="citation-popover-snippet">Antônio Vilas-Boas</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://psmag.com/environment/might-come-believe-youve-abducted-alien-73267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psmag.com">[Pacific Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psmag.com</span><span class="citation-popover-title">might come believe youve abducted alien 73267</span><span class="citation-popover-snippet">Pacific StandardHow You Might Come to Believe You&#x27;ve Been Abducted by...24 Jan 2014 — Supporters argued that Vilas-Boas&#x27; alleged abducti...</span></span></span>
 
 <img src="{{ "/assets/images/Antonio_Villas-Boas_1a3f4f_skeptical_ufo_cultur_bac102-Illustration-1-dark.svg" | relative_url }}" alt="Sceptics illustration 1" data-theme-src-dark="{{ "/assets/images/Antonio_Villas-Boas_1a3f4f_skeptical_ufo_cultur_bac102-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antonio_Villas-Boas_1a3f4f_skeptical_ufo_cultur_bac102-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That sceptical approach matters because the Villas-Boas narrative later became enormously influential. Many elements now associated with alien abduction lore — medical examinations, bodily samples, paralysis, reproductive themes, missing time, and humanoid crews — appeared in this 1957 report years before the Betty and Barney Hill case entered public consciousness. Even critics who doubt the literal truth of the encounter often regard it as a turning point in the evolution of UFO mythology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/106/44" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-title">He said that creatures from a UFO forcibly took him into their.Read more</span><span class="citation-popover-snippet">Journal of Scientific ExplorationA Brief History of Abduction ResearchIn 1957, Brazilian law student Antonio Villas Boas provided the fir...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=5922&amp;context=masters_theses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarworks.wmich.edu">[ScholarWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarworks.wmich.edu</span><span class="citation-popover-snippet">Ostensible Abductions, Real Anthropologyby TF McCauley · 2000 — By all accounts, Boas&#x27; story signalled a new event in the his...</span></span></span>
+That sceptical approach matters because the Villas-Boas narrative later became enormously influential. Many elements now associated with alien abduction lore — medical examinations, bodily samples, paralysis, reproductive themes, missing time, and humanoid crews — appeared in this 1957 report years before the Betty and Barney Hill case entered public consciousness. Even critics who doubt the literal truth of the encounter often regard it as a turning point in the evolution of UFO mythology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/106/44" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-title">He said that creatures from a UFO forcibly took him into their.Read more</span><span class="citation-popover-snippet">Journal of Scientific ExplorationA Brief History of Abduction ResearchIn 1957, Brazilian law student Antonio Villas Boas provided the fir...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=5922&amp;context=masters_theses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarworks.wmich.edu">[ScholarWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarworks.wmich.edu</span><span class="citation-popover-snippet">Ostensible Abductions, Real Anthropologyby TF McCauley · 2000 — By all accounts, Boas&#x27; story signalled a new event in the his...</span></span></span>
 
 ## Delayed publication and the fragile document trail
 
-One of the main sceptical concerns is not the dramatic content itself, but the delayed and mediated way the story entered the public record. Villas-Boas did not become the subject of a contemporaneous police investigation, military file, or widely circulated newspaper report immediately after the alleged incident in October 1957. Instead, the account passed through a relatively small network of UFO enthusiasts and investigators before reaching an international audience years later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/000584037aa19626b74e9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-title">Charles Bowen (Ed.</span><span class="citation-popover-snippet">The HumanoidsFontes, Dr Olavo, M. D. Medical Report on Antonio Villas Boas, Rio de... THE AMAZING CASE OF ANTONIO VILLAS BOAS present ti...</span></span></span>
+One of the main sceptical concerns is not the dramatic content itself, but the delayed and mediated way the story entered the public record. Villas-Boas did not become the subject of a contemporaneous police investigation, military file, or widely circulated newspaper report immediately after the alleged incident in October 1957. Instead, the account passed through a relatively small network of UFO enthusiasts and investigators before reaching an international audience years later.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/000584037aa19626b74e9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-title">Charles Bowen (Ed.</span><span class="citation-popover-snippet">The HumanoidsFontes, Dr Olavo, M. D. Medical Report on Antonio Villas Boas, Rio de... THE AMAZING CASE OF ANTONIO VILLAS BOAS present ti...</span></span></span>
 
-The key intermediaries were journalist João Martins and physician Olavo Fontes. According to later retellings, Villas-Boas contacted Martins after reading material about UFOs, and Fontes later conducted medical and psychological examinations in Rio de Janeiro. Skeptics note that this means the story was filtered through investigators already deeply interested in saucer phenomena before most surviving documentation was created. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/000584037aa19626b74e9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-title">Charles Bowen (Ed.</span><span class="citation-popover-snippet">The HumanoidsFontes, Dr Olavo, M. D. Medical Report on Antonio Villas Boas, Rio de... THE AMAZING CASE OF ANTONIO VILLAS BOAS present ti...</span></span></span>
+The key intermediaries were journalist João Martins and physician Olavo Fontes. According to later retellings, Villas-Boas contacted Martins after reading material about UFOs, and Fontes later conducted medical and psychological examinations in Rio de Janeiro. Skeptics note that this means the story was filtered through investigators already deeply interested in saucer phenomena before most surviving documentation was created.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/000584037aa19626b74e9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-title">Charles Bowen (Ed.</span><span class="citation-popover-snippet">The HumanoidsFontes, Dr Olavo, M. D. Medical Report on Antonio Villas Boas, Rio de... THE AMAZING CASE OF ANTONIO VILLAS BOAS present ti...</span></span></span>
 
-Critics also point out that the most detailed English-language versions of the case emerged years later through Flying Saucer Review and the book *The Humanoids*. That publication chain matters because it raises ordinary historical questions about translation, embellishment, memory drift, editorial shaping, and selective preservation. The case became famous largely through typed declarations, summaries, interviews, and later reproductions rather than through a stable archive of original contemporaneous records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/000584037aa19626b74e9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-title">Charles Bowen (Ed.</span><span class="citation-popover-snippet">The HumanoidsFontes, Dr Olavo, M. D. Medical Report on Antonio Villas Boas, Rio de... THE AMAZING CASE OF ANTONIO VILLAS BOAS present ti...</span></span></span>
+Critics also point out that the most detailed English-language versions of the case emerged years later through Flying Saucer Review and the book *The Humanoids*. That publication chain matters because it raises ordinary historical questions about translation, embellishment, memory drift, editorial shaping, and selective preservation. The case became famous largely through typed declarations, summaries, interviews, and later reproductions rather than through a stable archive of original contemporaneous records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/000584037aa19626b74e9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-title">Charles Bowen (Ed.</span><span class="citation-popover-snippet">The HumanoidsFontes, Dr Olavo, M. D. Medical Report on Antonio Villas Boas, Rio de... THE AMAZING CASE OF ANTONIO VILLAS BOAS present ti...</span></span></span>
 
 For sceptics, this does not automatically mean fraud. Human memory changes over time, and dramatic stories often become more structured during repeated retellings. But the delay complicates claims that the account should be treated as a pristine eyewitness document from 1957.
 
@@ -267,9 +267,9 @@ For sceptics, this does not automatically mean fraud. Human memory changes over 
 
 Several details particularly interest critics:
 
-* **The account matured inside UFO networks.** By the time many readers encountered the story, it had already passed through translators, editors, investigators, and specialised UFO publications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/000584037aa19626b74e9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-title">Charles Bowen (Ed.</span><span class="citation-popover-snippet">The HumanoidsFontes, Dr Olavo, M. D. Medical Report on Antonio Villas Boas, Rio de... THE AMAZING CASE OF ANTONIO VILLAS BOAS present ti...</span></span></span>
+* **The account matured inside UFO networks.** By the time many readers encountered the story, it had already passed through translators, editors, investigators, and specialised UFO publications.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/000584037aa19626b74e9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-title">Charles Bowen (Ed.</span><span class="citation-popover-snippet">The HumanoidsFontes, Dr Olavo, M. D. Medical Report on Antonio Villas Boas, Rio de... THE AMAZING CASE OF ANTONIO VILLAS BOAS present ti...</span></span></span>
 * **There is little independent corroboration.** The central abduction narrative rests overwhelmingly on Villas-Boas’s testimony rather than physical evidence or multiple direct witnesses.
-* **[Medical claims]({{ 'medical-claims/' | relative_url }}) remain ambiguous.** Reports of radiation-like symptoms and nausea are difficult to verify retrospectively and are not considered medically conclusive evidence of an encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/000584037aa19626b74e9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-title">Charles Bowen (Ed.</span><span class="citation-popover-snippet">The HumanoidsFontes, Dr Olavo, M. D. Medical Report on Antonio Villas Boas, Rio de... THE AMAZING CASE OF ANTONIO VILLAS BOAS present ti...</span></span></span>
+* **[Medical claims]({{ 'medical-claims/' | relative_url }}) remain ambiguous.** Reports of radiation-like symptoms and nausea are difficult to verify retrospectively and are not considered medically conclusive evidence of an encounter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/000584037aa19626b74e9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-title">Charles Bowen (Ed.</span><span class="citation-popover-snippet">The HumanoidsFontes, Dr Olavo, M. D. Medical Report on Antonio Villas Boas, Rio de... THE AMAZING CASE OF ANTONIO VILLAS BOAS present ti...</span></span></span>
 * **Some details appear unusually literary.** The sequence of capture, examination, symbolic gestures, and reproductive implications resembles a coherent narrative arc more than a fragmented trauma account, at least to some sceptical readers.
 
 None of those points conclusively disproves the story, but together they encourage historians and sceptics to treat the case cautiously.
@@ -278,7 +278,7 @@ None of those points conclusively disproves the story, but together they encoura
 
 ## Possible borrowing from 1950s UFO lore
 
-Another sceptical argument is that the Villas-Boas account may have drawn from UFO imagery already circulating internationally during the 1950s. By 1957, flying saucer culture was not new. Magazine stories, radio dramas, comic books, newspaper articles, and contactee narratives had already established a visual vocabulary for extraterrestrials and spacecraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://psmag.com/environment/might-come-believe-youve-abducted-alien-73267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psmag.com">[Pacific Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psmag.com</span><span class="citation-popover-title">might come believe youve abducted alien 73267</span><span class="citation-popover-snippet">Pacific StandardHow You Might Come to Believe You&#x27;ve Been Abducted by...24 Jan 2014 — Supporters argued that Vilas-Boas&#x27; alleged abducti...</span></span></span>
+Another sceptical argument is that the Villas-Boas account may have drawn from UFO imagery already circulating internationally during the 1950s. By 1957, flying saucer culture was not new. Magazine stories, radio dramas, comic books, newspaper articles, and contactee narratives had already established a visual vocabulary for extraterrestrials and spacecraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://psmag.com/environment/might-come-believe-youve-abducted-alien-73267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psmag.com">[Pacific Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psmag.com</span><span class="citation-popover-title">might come believe youve abducted alien 73267</span><span class="citation-popover-snippet">Pacific StandardHow You Might Come to Believe You&#x27;ve Been Abducted by...24 Jan 2014 — Supporters argued that Vilas-Boas&#x27; alleged abducti...</span></span></span>
 
 This is important because believers sometimes describe Villas-Boas as inventing the abduction genre from nowhere. In reality, sceptics note that many ingredients already existed in earlier UFO and science-fiction culture, even if they had not yet been combined in exactly the same way.
 
@@ -288,7 +288,7 @@ Before 1957, UFO culture already included:
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
-* humanoid beings emerging from landed craft; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/science/a65923360/alien-abduction-medical-explanation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[popularmechanics.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">This case has remained one of the most well-known alien abduction accounts, along with others like those of Barney and Betty Hill and Tra...</span></span></span>
+* humanoid beings emerging from landed craft;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/science/a65923360/alien-abduction-medical-explanation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[popularmechanics.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">This case has remained one of the most well-known alien abduction accounts, along with others like those of Barney and Betty Hill and Tra...</span></span></span>
 * strange suits and helmets;
 * paralysis or capture by advanced entities;
 * mysterious medical or scientific procedures;
@@ -297,16 +297,16 @@ Before 1957, UFO culture already included:
 
 </div>
 
-The Villas-Boas account rearranged these motifs into a more intimate and bodily narrative. That combination helped make the case memorable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/47932563/UFO_Abduction_Reports_The_Supernatural_Kidnap_Narrative_Returns_in_Technological_Guise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Academia(PDF) UFO Abduction Reports: The Supernatural Kidnap...In the fall of 1957 a Bra- zilian farmer, Antonio Villas Boas, had report...</span></span></span>
+The Villas-Boas account rearranged these motifs into a more intimate and bodily narrative. That combination helped make the case memorable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/47932563/UFO_Abduction_Reports_The_Supernatural_Kidnap_Narrative_Returns_in_Technological_Guise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Academia(PDF) UFO Abduction Reports: The Supernatural Kidnap...In the fall of 1957 a Bra- zilian farmer, Antonio Villas Boas, had report...</span></span></span>
 
-One sceptical claim repeated in later commentary is that Brazilian UFO material discussing alien invasions or humanoid encounters circulated before Villas-Boas formally described his experience. Popular science coverage has occasionally noted allegations that he had encountered such material shortly before reporting the incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://psmag.com/environment/might-come-believe-youve-abducted-alien-73267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psmag.com">[Pacific Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psmag.com</span><span class="citation-popover-title">might come believe youve abducted alien 73267</span><span class="citation-popover-snippet">Pacific StandardHow You Might Come to Believe You&#x27;ve Been Abducted by...24 Jan 2014 — Supporters argued that Vilas-Boas&#x27; alleged abducti...</span></span></span>
+One sceptical claim repeated in later commentary is that Brazilian UFO material discussing alien invasions or humanoid encounters circulated before Villas-Boas formally described his experience. Popular science coverage has occasionally noted allegations that he had encountered such material shortly before reporting the incident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://psmag.com/environment/might-come-believe-youve-abducted-alien-73267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psmag.com">[Pacific Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psmag.com</span><span class="citation-popover-title">might come believe youve abducted alien 73267</span><span class="citation-popover-snippet">Pacific StandardHow You Might Come to Believe You&#x27;ve Been Abducted by...24 Jan 2014 — Supporters argued that Vilas-Boas&#x27; alleged abducti...</span></span></span>
 
 The point is not necessarily that Villas-Boas deliberately copied a story. Cultural influence can work unconsciously. Psychologists and folklore researchers often argue that extraordinary experiences are interpreted through whatever symbolic framework is available at the time. In medieval Europe, frightening night encounters might be framed as demonic visitations; in the Cold War era, similar anxieties could become extraterrestrial encounters.
 
 <img src="{{ "/assets/images/Antonio_Villas-Boas_1a3f4f_skeptical_ufo_cultur_bac102-Illustration-2-dark.svg" | relative_url }}" alt="Sceptics illustration 2" data-theme-src-dark="{{ "/assets/images/Antonio_Villas-Boas_1a3f4f_skeptical_ufo_cultur_bac102-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antonio_Villas-Boas_1a3f4f_skeptical_ufo_cultur_bac102-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the sexual element changed UFO storytelling
 
-The most culturally influential aspect of the Villas-Boas case was the sexual encounter aboard the craft. Earlier contactee stories often portrayed space visitors as enlightened, spiritual, or benevolent. Villas-Boas instead described a coercive and deeply physical experience involving blood extraction, exposure to gas, and reproductive implications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ant%C3%B4nio_Vilas-Boas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Antônio Vilas-Boas</span><span class="citation-popover-snippet">Antônio Vilas-Boas</span></span></span>
+The most culturally influential aspect of the Villas-Boas case was the sexual encounter aboard the craft. Earlier contactee stories often portrayed space visitors as enlightened, spiritual, or benevolent. Villas-Boas instead described a coercive and deeply physical experience involving blood extraction, exposure to gas, and reproductive implications.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ant%C3%B4nio_Vilas-Boas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Antônio Vilas-Boas</span><span class="citation-popover-snippet">Antônio Vilas-Boas</span></span></span>
 
 That shift mattered enormously in UFO culture. Later abduction narratives repeatedly echoed similar themes:
 
@@ -321,7 +321,7 @@ That shift mattered enormously in UFO culture. Later abduction narratives repeat
 
 </div>
 
-Researchers of UFO folklore often see the case as an early template for the abduction phenomenon that exploded after the Betty and Barney Hill story became famous in the 1960s. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/106/44" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-title">He said that creatures from a UFO forcibly took him into their.Read more</span><span class="citation-popover-snippet">Journal of Scientific ExplorationA Brief History of Abduction ResearchIn 1957, Brazilian law student Antonio Villas Boas provided the fir...</span></span></span>
+Researchers of UFO folklore often see the case as an early template for the abduction phenomenon that exploded after the Betty and Barney Hill story became famous in the 1960s.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/106/44" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-title">He said that creatures from a UFO forcibly took him into their.Read more</span><span class="citation-popover-snippet">Journal of Scientific ExplorationA Brief History of Abduction ResearchIn 1957, Brazilian law student Antonio Villas Boas provided the fir...</span></span></span>
 
 Sceptics argue that this later influence cuts both ways. Supporters say the similarities suggest a genuine recurring phenomenon. Critics instead argue that once a compelling narrative enters public culture, later witnesses may unconsciously absorb and reproduce its structure. That mechanism is well known in folklore, religious visions, urban legends, and memory research.
 
@@ -333,13 +333,13 @@ The Villas-Boas story is historically important because it sits between two UFO 
 
 Earlier contactee traditionLater abduction traditionFriendly cosmic visitorsClinical or coercive entitiesPhilosophical messagesMedical examinationsSpiritual enlightenmentTrauma and fearVoluntary encountersForced captureWise humanoidsEmotionally distant beings
 
-The Villas-Boas narrative contains features from both categories. The beings were technological and detached, yet the encounter still retained the strange theatrical quality of 1950s flying saucer tales. That hybrid character is one reason the case became so influential in later UFO literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=5922&amp;context=masters_theses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarworks.wmich.edu">[ScholarWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarworks.wmich.edu</span><span class="citation-popover-snippet">Ostensible Abductions, Real Anthropologyby TF McCauley · 2000 — By all accounts, Boas&#x27; story signalled a new event in the his...</span></span></span>
+The Villas-Boas narrative contains features from both categories. The beings were technological and detached, yet the encounter still retained the strange theatrical quality of 1950s flying saucer tales. That hybrid character is one reason the case became so influential in later UFO literature.<span class="citation-chip-wrap"><a class="citation-chip" href="https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=5922&amp;context=masters_theses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarworks.wmich.edu">[ScholarWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarworks.wmich.edu</span><span class="citation-popover-snippet">Ostensible Abductions, Real Anthropologyby TF McCauley · 2000 — By all accounts, Boas&#x27; story signalled a new event in the his...</span></span></span>
 
 ## Psychological and cultural explanations
 
 Modern sceptical interpretations usually avoid claiming that Villas-Boas simply invented the story for amusement. Instead, they explore how intense experiences, stress, sleep disruption, fear, expectation, and cultural imagery can combine into sincere but inaccurate narratives.
 
-Some commentators have proposed altered states of consciousness, dream-like experiences, exhaustion from night labour, or psychologically vivid memory formation as partial explanations. More recent discussions of alien abduction narratives have also compared them with sleep paralysis, dissociation, and medically induced hallucination-like states. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/science/a65923360/alien-abduction-medical-explanation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">This case has remained one of the most well-known alien abduction accounts, along with others like those of Barney and Betty Hill and Tra...</span></span></span>
+Some commentators have proposed altered states of consciousness, dream-like experiences, exhaustion from night labour, or psychologically vivid memory formation as partial explanations. More recent discussions of alien abduction narratives have also compared them with sleep paralysis, dissociation, and medically induced hallucination-like states.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/science/a65923360/alien-abduction-medical-explanation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">This case has remained one of the most well-known alien abduction accounts, along with others like those of Barney and Betty Hill and Tra...</span></span></span>
 
 Importantly, these theories are usually presented as general explanatory frameworks rather than case-specific proof. There is no definitive evidence that Villas-Boas experienced sleep paralysis or a psychiatric episode. Sceptics instead argue that human beings are capable of forming deeply convincing memories under unusual conditions, especially when cultural narratives already provide symbolic structure.
 
@@ -348,7 +348,7 @@ The case also emerged during the Cold War, when rapid technological change, atom
 <img src="{{ "/assets/images/Antonio_Villas-Boas_1a3f4f_skeptical_ufo_cultur_bac102-Illustration-3-dark.svg" | relative_url }}" alt="Sceptics illustration 3" data-theme-src-dark="{{ "/assets/images/Antonio_Villas-Boas_1a3f4f_skeptical_ufo_cultur_bac102-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antonio_Villas-Boas_1a3f4f_skeptical_ufo_cultur_bac102-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why scepticism does not automatically prove hoaxing
 
-Even many sceptical writers stop short of declaring the Villas-Boas case a solved fraud. One reason is that there is no decisive confession, exposed fabrication, or proven practical motive. Villas-Boas maintained the story for decades, later became a lawyer, married, and reportedly continued to defend the account throughout his life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ant%C3%B4nio_Vilas-Boas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Antônio Vilas-Boas</span><span class="citation-popover-snippet">Antônio Vilas-Boas</span></span></span>
+Even many sceptical writers stop short of declaring the Villas-Boas case a solved fraud. One reason is that there is no decisive confession, exposed fabrication, or proven practical motive. Villas-Boas maintained the story for decades, later became a lawyer, married, and reportedly continued to defend the account throughout his life.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ant%C3%B4nio_Vilas-Boas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Antônio Vilas-Boas</span><span class="citation-popover-snippet">Antônio Vilas-Boas</span></span></span>
 
 That persistence complicates simplistic explanations. A fabricated story told for quick publicity would normally be expected to collapse, evolve wildly, or generate obvious financial exploitation. The Villas-Boas case instead occupied an ambiguous middle ground: sensational enough to become famous, yet oddly limited in direct personal gain.
 
@@ -369,194 +369,194 @@ The lack of decisive evidence in either direction is part of why the case remain
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rIWuxj5J6JA" title="The Terrifying Alien Encounter That’s Never Been Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rIWuxj5J6JA" target="_blank" rel="noopener noreferrer">The Terrifying Alien Encounter That’s Never Been Explained</a></p><p class="youtube-embed-meta">Channel: The Infographics Show &middot; Views: 2.5M &middot; Uploaded: September 2018 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rIWuxj5J6JA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rIWuxj5J6JA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was the Case Shaped by UFO Culture?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was the Case Shaped by UFO Culture?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches how to analyze the influence of contemporary science fiction and media on the formation of early UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches how to analyze the influence of contemporary science fiction and media on the formation of early UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Contextualizes the Villas-Boas incident within the early UFO reporting wave, explaining how culture and expectation shaped the reception...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contextualizes the Villas-Boas incident within the early UFO reporting wave, explaining how culture and expectation shaped the reception...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
-        </h4>
-        <p class="fr-book-author">By John E. Mack, Mack</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+</h4>
+<p class="fr-book-author">By John E. Mack, Mack</p>
         
-        <p class="fr-book-desc">Explores how the Villas-Boas account set the stage for later abduction tropes, including bodily exams and non-human encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how the Villas-Boas account set the stage for later abduction tropes, including bodily exams and non-human encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open It&#x27;s a Horse&#x27;s Life! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=swoVJIlrzmgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for It&#x27;s a Horse&#x27;s Life!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="It&#x27;s a Horse&#x27;s Life!">It&#x27;s a Horse&#x27;s Life!</a>
-        </h4>
-        <p class="fr-book-author">By Joanne Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open It&#x27;s a Horse&#x27;s Life! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=swoVJIlrzmgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for It&#x27;s a Horse&#x27;s Life!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="It&#x27;s a Horse&#x27;s Life!">It&#x27;s a Horse&#x27;s Life!</a>
+</h4>
+<p class="fr-book-author">By Joanne Friedman</p>
         
-        <p class="fr-book-desc">Demonstrates how narratives around unidentified phenomena are consistently shaped by the cultural and technological expectations of their...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how narratives around unidentified phenomena are consistently shaped by the cultural and technological expectations of their...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sceptics-was-the-case-shaped-by-ufo-culture-antonio-villas-boas-abduction-1957-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -572,7 +572,7 @@ The lack of decisive evidence in either direction is part of why the case remain
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -592,7 +592,7 @@ The lack of decisive evidence in either direction is part of why the case remain
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -624,7 +624,7 @@ The lack of decisive evidence in either direction is part of why the case remain
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -676,7 +676,7 @@ The lack of decisive evidence in either direction is part of why the case remain
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -721,7 +721,7 @@ The lack of decisive evidence in either direction is part of why the case remain
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -762,104 +762,104 @@ The lack of decisive evidence in either direction is part of why the case remain
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Antônio Vilas-Boas  
-   Link: <a href="https://en.wikipedia.org/wiki/Ant%C3%B4nio_Vilas-Boas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ant%C3%B4nio_Vilas-Boas</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ant%C3%B4nio_Vilas-Boas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ant%C3%B4nio_Vilas-Boas</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: calameo.com  
    Title: Charles Bowen (Ed.)  
-   Link: <a href="https://www.calameo.com/books/000584037aa19626b74e9" target="_blank" rel="noopener noreferrer nofollow">https://www.calameo.com/books/000584037aa19626b74e9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The HumanoidsFontes, Dr Olavo, M. D. Medical Report on Antonio Villas Boas, Rio de... THE AMAZING CASE OF ANTONIO VILLAS BOAS present ti...</p></details>
+   Link:<a href="https://www.calameo.com/books/000584037aa19626b74e9" target="_blank" rel="noopener noreferrer nofollow">https://www.calameo.com/books/000584037aa19626b74e9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The HumanoidsFontes, Dr Olavo, M. D. Medical Report on Antonio Villas Boas, Rio de... THE AMAZING CASE OF ANTONIO VILLAS BOAS present ti...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/47932563/UFO_Abduction_Reports_The_Supernatural_Kidnap_Narrative_Returns_in_Technological_Guise" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/47932563/UFO_Abduction_Reports_The_Supernatural_Kidnap_Narrative_Returns_in_Technological_Guise</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) UFO Abduction Reports: The Supernatural Kidnap...In the fall of 1957 a Bra- zilian farmer, Antonio Villas Boas, had report...</p></details>
+   Link:<a href="https://www.academia.edu/47932563/UFO_Abduction_Reports_The_Supernatural_Kidnap_Narrative_Returns_in_Technological_Guise" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/47932563/UFO_Abduction_Reports_The_Supernatural_Kidnap_Narrative_Returns_in_Technological_Guise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) UFO Abduction Reports: The Supernatural Kidnap...In the fall of 1957 a Bra- zilian farmer, Antonio Villas Boas, had report...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;Extraordinary Encounters&quot;Before leaving, she made a gesture that led Villas-Boas to believe she would bear his child on ano...</p></details>
+   Link:<a href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;Extraordinary Encounters&quot;Before leaving, she made a gesture that led Villas-Boas to believe she would bear his child on ano...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: psmag.com  
    Title: might come believe youve abducted alien 73267  
-   Link: <a href="https://psmag.com/environment/might-come-believe-youve-abducted-alien-73267/" target="_blank" rel="noopener noreferrer nofollow">https://psmag.com/environment/might-come-believe-youve-abducted-alien-73267/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pacific StandardHow You Might Come to Believe You&#x27;ve Been Abducted by...24 Jan 2014 — Supporters argued that Vilas-Boas&#x27; alleged abducti...</p></details>
+   Link:<a href="https://psmag.com/environment/might-come-believe-youve-abducted-alien-73267/" target="_blank" rel="noopener noreferrer nofollow">https://psmag.com/environment/might-come-believe-youve-abducted-alien-73267/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pacific StandardHow You Might Come to Believe You&#x27;ve Been Abducted by...24 Jan 2014 — Supporters argued that Vilas-Boas&#x27; alleged abducti...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: journalofscientificexploration.org  
    Title: He said that creatures from a UFO forcibly took him into their.Read more  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/106/44" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/106/44</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific ExplorationA Brief History of Abduction ResearchIn 1957, Brazilian law student Antonio Villas Boas provided the fir...</p></details>
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/106/44" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/106/44</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific ExplorationA Brief History of Abduction ResearchIn 1957, Brazilian law student Antonio Villas Boas provided the fir...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: scholarworks.wmich.edu  
-   Link: <a href="https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=5922&amp;context=masters_theses" target="_blank" rel="noopener noreferrer nofollow">https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=5922&amp;context=masters_theses</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ostensible Abductions, Real Anthropologyby TF McCauley · 2000 — By all accounts, Boas&#x27; story signalled a new event in the his...</p></details>
+   Link:<a href="https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=5922&amp;context=masters_theses" target="_blank" rel="noopener noreferrer nofollow">https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=5922&amp;context=masters_theses</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ostensible Abductions, Real Anthropologyby TF McCauley · 2000 — By all accounts, Boas&#x27; story signalled a new event in the his...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: popularmechanics.com  
-   Link: <a href="https://www.popularmechanics.com/science/a65923360/alien-abduction-medical-explanation/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a65923360/alien-abduction-medical-explanation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This case has remained one of the most well-known alien abduction accounts, along with others like those of Barney and Betty Hill and Tra...</p></details>
+   Link:<a href="https://www.popularmechanics.com/science/a65923360/alien-abduction-medical-explanation/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a65923360/alien-abduction-medical-explanation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This case has remained one of the most well-known alien abduction accounts, along with others like those of Barney and Betty Hill and Tra...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WrestlingObserver/posts/ad-dr-simon-bown-talks-alien-abductions-and-more/1442415894580445/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WrestlingObserver/posts/ad-dr-simon-bown-talks-alien-abductions-and-more/1442415894580445/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AD: Dr. Simon Bown talks alien abductions and more!Antonio Villas Boas: The notion of reported abductions takes us to... Abduction Pheno...</p></details>
+   Link:<a href="https://www.facebook.com/WrestlingObserver/posts/ad-dr-simon-bown-talks-alien-abductions-and-more/1442415894580445/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WrestlingObserver/posts/ad-dr-simon-bown-talks-alien-abductions-and-more/1442415894580445/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AD: Dr. Simon Bown talks alien abductions and more!Antonio Villas Boas: The notion of reported abductions takes us to... Abduction Pheno...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: uapedia.ai  
    Title: antonio villas boas case 1957 the night brazil first met the abduction era  
-   Link: <a href="https://www.uapedia.ai/wiki/antonio-villas-boas-case-1957-the-night-brazil-first-met-the-abduction-era/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/antonio-villas-boas-case-1957-the-night-brazil-first-met-the-abduction-era/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Antônio Villas-Boas Case, 1957: The Night Brazil First Met...Discover the 1957 Antônio Villas‑Boas encounter, Brazil&#x27;s landmark UAP abdu...</p></details>
+   Link:<a href="https://www.uapedia.ai/wiki/antonio-villas-boas-case-1957-the-night-brazil-first-met-the-abduction-era/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/antonio-villas-boas-case-1957-the-night-brazil-first-met-the-abduction-era/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Antônio Villas-Boas Case, 1957: The Night Brazil First Met...Discover the 1957 Antônio Villas‑Boas encounter, Brazil&#x27;s landmark UAP abdu...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: music.amazon.com  
    Title: the tales we tell ep 72 the abduction of antonio villas boas  
-   Link: <a href="https://music.amazon.com/podcasts/accc5281-8f1d-4fc6-8ef9-bd4d16b75d81/episodes/afbe3c36-6f0c-46e1-8dca-dc2b4a5dea6c/the-tales-we-tell-ep-72-the-abduction-of-antonio-villas-boas" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/podcasts/accc5281-8f1d-4fc6-8ef9-bd4d16b75d81/episodes/afbe3c36-6f0c-46e1-8dca-dc2b4a5dea6c/the-tales-we-tell-ep-72-the-abduction-of-antonio-villas-boas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>amazon.comEp. 72: The Abduction of Antonio Villas Boas... abduction of Antonio Villas Boas in 1957: the young Brazilian farmer who claime...</p></details>
+   Link:<a href="https://music.amazon.com/podcasts/accc5281-8f1d-4fc6-8ef9-bd4d16b75d81/episodes/afbe3c36-6f0c-46e1-8dca-dc2b4a5dea6c/the-tales-we-tell-ep-72-the-abduction-of-antonio-villas-boas" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/podcasts/accc5281-8f1d-4fc6-8ef9-bd4d16b75d81/episodes/afbe3c36-6f0c-46e1-8dca-dc2b4a5dea6c/the-tales-we-tell-ep-72-the-abduction-of-antonio-villas-boas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>amazon.comEp. 72: The Abduction of Antonio Villas Boas... abduction of Antonio Villas Boas in 1957: the young Brazilian farmer who claime...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: kar.kent.ac.uk  
-   Link: <a href="https://kar.kent.ac.uk/86204/1/342159.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/86204/1/342159.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kent Academic Repository342159.pdf - Kent Academic Repositoryby S Palmer · 2000 · Cited by 1 — details of two abduction cases came to pub...</p></details>
+   Link:<a href="https://kar.kent.ac.uk/86204/1/342159.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/86204/1/342159.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kent Academic Repository342159.pdf - Kent Academic Repositoryby S Palmer · 2000 · Cited by 1 — details of two abduction cases came to pub...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ualresearchonline.arts.ac.uk  
    Title: PERMISSION DENIED Asbury, Michael Phd Thesis  
-   Link: <a href="https://ualresearchonline.arts.ac.uk/id/eprint/8953/1/PERMISSION%20DENIED%20Asbury%2C%20Michael%20Phd%20Thesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ualresearchonline.arts.ac.uk/id/eprint/8953/1/PERMISSION%20DENIED%20Asbury%2C%20Michael%20Phd%20Thesis.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of the Arts London Camberwell College of Artsby M Asbury · 2003 · Cited by 5 — This study investigates the presence of ambivalence as a s...</p></details>
+   Link:<a href="https://ualresearchonline.arts.ac.uk/id/eprint/8953/1/PERMISSION%20DENIED%20Asbury%2C%20Michael%20Phd%20Thesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ualresearchonline.arts.ac.uk/id/eprint/8953/1/PERMISSION%20DENIED%20Asbury%2C%20Michael%20Phd%20Thesis.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of the Arts London Camberwell College of Artsby M Asbury · 2003 · Cited by 5 — This study investigates the presence of ambivalence as a s...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: abduction of antônio vilasboas 1957 4 years  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/xiocf6/abduction_of_ant%C3%B4nio_vilasboas_1957_4_years/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/xiocf6/abduction_of_ant%C3%B4nio_vilasboas_1957_4_years/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abduction of Antônio Vilas-Boas, 1957: 4 years before the...A brazilian farmer named Antonio Biles-Boas had an experience that&#x27;s now con...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/xiocf6/abduction_of_ant%C3%B4nio_vilasboas_1957_4_years/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/xiocf6/abduction_of_ant%C3%B4nio_vilasboas_1957_4_years/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abduction of Antônio Vilas-Boas, 1957: 4 years before the...A brazilian farmer named Antonio Biles-Boas had an experience that&#x27;s now con...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: in october 1957 ufo abduction a kidnapped  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/t03ux6/in_october_1957_ufo_abduction_a_kidnapped/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/t03ux6/in_october_1957_ufo_abduction_a_kidnapped/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in October 1957, UFO Abduction, a kidnapped Brazilian...In 1957, a farmer named Antonio Villas Boas claimed to be abducted from his fiel...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/t03ux6/in_october_1957_ufo_abduction_a_kidnapped/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/t03ux6/in_october_1957_ufo_abduction_a_kidnapped/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in October 1957, UFO Abduction, a kidnapped Brazilian...In 1957, a farmer named Antonio Villas Boas claimed to be abducted from his fiel...</p></details>
    Published: october 1957  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/What-Know-about-Alien-Abduction/dp/0593387562" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/What-Know-about-Alien-Abduction/dp/0593387562</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ere really aliens visiting Earth to observe and interact...</p></details>
+   Link:<a href="https://www.amazon.co.uk/What-Know-about-Alien-Abduction/dp/0593387562" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/What-Know-about-Alien-Abduction/dp/0593387562</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ere really aliens visiting Earth to observe and interact...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Captured by Aliens?: A History and Analysis of American...This is a revised version of The Alien Deception: An Exploration of the Alien...</p></details>
+   Link:<a href="https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Captured by Aliens?: A History and Analysis of American...This is a revised version of The Alien Deception: An Exploration of the Alien...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: wwno.org  
    Title: probing extraterrestrial abduction  
-   Link: <a href="https://www.wwno.org/2013-11-27/probing-extraterrestrial-abduction" target="_blank" rel="noopener noreferrer nofollow">https://www.wwno.org/2013-11-27/probing-extraterrestrial-abduction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Nov 2013 — American researcher and skeptic Peter Rogerson questioned the veracity of Villas Boas&#x27; narrative, arguing that an article a...</p></details>
+   Link:<a href="https://www.wwno.org/2013-11-27/probing-extraterrestrial-abduction" target="_blank" rel="noopener noreferrer nofollow">https://www.wwno.org/2013-11-27/probing-extraterrestrial-abduction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>27 Nov 2013 — American researcher and skeptic Peter Rogerson questioned the veracity of Villas Boas&#x27; narrative, arguing that an article a...</p></details>

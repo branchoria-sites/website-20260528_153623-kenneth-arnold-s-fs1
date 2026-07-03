@@ -248,14 +248,14 @@ image: /assets/images/Incident_at_Exeter_1_781528_blue_book_investigat_88e50f-Il
 
 ## Introduction
 
-Project Blue Book struggled with the Exeter incident because the case exposed a tension at the centre of the U.S. Air Force UFO programme. The initial investigators from Pease Air Force Base treated the [witnesses]({{ 'witnesses-256bac/' | relative_url }}) as credible and could not identify a clear cause. Public explanations issued afterwards, however, shifted repeatedly: first toward stars and temperature inversion effects, then toward military [aircraft]({{ 'aircraft/' | relative_url }}) involved in a Strategic Air Command exercise. Those explanations were challenged not only by civilian UFO researchers but also by the witnesses themselves and, indirectly, by some of Blue Book’s own records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1dyg8w2/the_incident_at_exeter_1965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Incident at Exeter</span><span class="citation-popover-snippet">The Incident at Exeter - 1965: r/UFOsBlue Book attributed the sighting to planes from NORAD training mission, Operation Big Blast...</span></span></span>
+Project Blue Book struggled with the Exeter incident because the case exposed a tension at the centre of the U.S. Air Force UFO programme. The initial investigators from Pease Air Force Base treated the [witnesses]({{ 'witnesses-256bac/' | relative_url }}) as credible and could not identify a clear cause. Public explanations issued afterwards, however, shifted repeatedly: first toward stars and temperature inversion effects, then toward military [aircraft]({{ 'aircraft/' | relative_url }}) involved in a Strategic Air Command exercise. Those explanations were challenged not only by civilian UFO researchers but also by the witnesses themselves and, indirectly, by some of Blue Book’s own records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1dyg8w2/the_incident_at_exeter_1965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Incident at Exeter</span><span class="citation-popover-snippet">The Incident at Exeter - 1965: r/UFOsBlue Book attributed the sighting to planes from NORAD training mission, Operation Big Blast...</span></span></span>
 
 <img src="{{ "/assets/images/Incident_at_Exeter_1_781528_blue_book_investigat_88e50f-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Incident_at_Exeter_1_781528_blue_book_investigat_88e50f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Incident_at_Exeter_1_781528_blue_book_investigat_88e50f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The result was not a dramatic official admission of extraterrestrial craft. Instead, Exeter became controversial because it remained suspended between categories. The Air Force did investigate it seriously enough to dispatch officers immediately, interview police witnesses, and forward reports to Project Blue Book headquarters. Yet the explanations publicly associated with the case often appeared weaker than the original testimony. That gap helped make Exeter one of the most discussed UFO investigations of the 1960s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span>
+The result was not a dramatic official admission of extraterrestrial craft. Instead, Exeter became controversial because it remained suspended between categories. The Air Force did investigate it seriously enough to dispatch officers immediately, interview police witnesses, and forward reports to Project Blue Book headquarters. Yet the explanations publicly associated with the case often appeared weaker than the original testimony. That gap helped make Exeter one of the most discussed UFO investigations of the 1960s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span>
 
 ## Why Exeter Became a Problem for Blue Book
 
-By September 1965, Project Blue Book was already under pressure. UFO sightings across the United States had surged during the mid-1960s, producing a heavy investigative workload and growing media scrutiny. Blue Book officially existed to determine whether UFO reports threatened national security and whether they could be scientifically explained, but critics increasingly argued that the programme prioritised rapid debunking over detailed field analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+By September 1965, Project Blue Book was already under pressure. UFO sightings across the United States had surged during the mid-1960s, producing a heavy investigative workload and growing media scrutiny. Blue Book officially existed to determine whether UFO reports threatened national security and whether they could be scientifically explained, but critics increasingly argued that the programme prioritised rapid debunking over detailed field analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 Exeter was awkward because several elements made routine dismissal difficult:
 
@@ -264,23 +264,23 @@ Exeter was awkward because several elements made routine dismissal difficult:
 * Two trained police officers, Eugene Bertrand and David Hunt, independently confirmed unusual lights.
 * The sightings occurred over multiple encounters rather than a single fleeting glimpse.
 * The witnesses described a distinctive pattern of red flashing lights rather than a simple bright object in the sky.
-* Pease Air Force Base investigators initially failed to identify an ordinary source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+* Pease Air Force Base investigators initially failed to identify an ordinary source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 </div>
 
-The case also became public almost immediately. According to later summaries of the Blue Book file, Air Force officers asked the witnesses not to speak to reporters, but the story had already reached newspapers. Once national media attention intensified, Blue Book was no longer dealing only with an internal military report. It was handling a credibility dispute visible to the public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+The case also became public almost immediately. According to later summaries of the Blue Book file, Air Force officers asked the witnesses not to speak to reporters, but the story had already reached newspapers. Once national media attention intensified, Blue Book was no longer dealing only with an internal military report. It was handling a credibility dispute visible to the public.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 ## What Pease Air Force Base Investigators Actually Found
 
 One of the most important details in the Exeter controversy is that the first Air Force response was more cautious than later public explanations suggested.
 
-After Exeter police contacted nearby Pease Air Force Base, Major David Griffin and Lieutenant Alan Brandt interviewed Norman Muscarello and the two officers. Griffin’s reported assessment was notably restrained. He stated that he could not determine a probable cause and described the witnesses as “stable, reliable persons”, particularly the police officers. He also inspected the area and said he found nothing obvious that explained the reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+After Exeter police contacted nearby Pease Air Force Base, Major David Griffin and Lieutenant Alan Brandt interviewed Norman Muscarello and the two officers. Griffin’s reported assessment was notably restrained. He stated that he could not determine a probable cause and described the witnesses as “stable, reliable persons”, particularly the police officers. He also inspected the area and said he found nothing obvious that explained the reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 That early uncertainty mattered because it contradicted the stereotype that all military investigators immediately dismissed UFO witnesses. In the Exeter file, the first field investigators appear to have taken the reports seriously enough to leave the case unresolved at that stage.
 
-Griffin did note that five B-47 aircraft from Pease Air Force Base were operating in the region, but he reportedly added that he did not believe they were connected to the sighting. That qualification became crucial later, because aircraft activity eventually evolved into the leading conventional explanation associated with the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+Griffin did note that five B-47 aircraft from Pease Air Force Base were operating in the region, but he reportedly added that he did not believe they were connected to the sighting. That qualification became crucial later, because aircraft activity eventually evolved into the leading conventional explanation associated with the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
-The surviving Blue Book material also included maps and reconstructed witness locations, showing that the Air Force attempted at least a basic geographical analysis of the sighting area around Kensington, south of Exeter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AIncident_at_Exeter_map.png" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Incident at Exeter map.png</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Incident at Exeter map.png - Wikimedia CommonsEnglish: Hand-drawn map in the Project Blue Book archives of the Inci...</span></span></span>
+The surviving Blue Book material also included maps and reconstructed witness locations, showing that the Air Force attempted at least a basic geographical analysis of the sighting area around Kensington, south of Exeter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AIncident_at_Exeter_map.png" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Incident at Exeter map.png</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Incident at Exeter map.png - Wikimedia CommonsEnglish: Hand-drawn map in the Project Blue Book archives of the Inci...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VRnnxQG-pu0" title="We Found Aliens in Exeter, New Hampshire!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VRnnxQG-pu0" target="_blank" rel="noopener noreferrer">We Found Aliens in Exeter, New Hampshire!</a></p><p class="youtube-embed-meta">Channel: Travel New England-With Ross, Kelly &amp; Ben &middot; Views: 450 &middot; Uploaded: September 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VRnnxQG-pu0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VRnnxQG-pu0">Open on YouTube</a></p></div></div></div>
 
@@ -288,17 +288,17 @@ The surviving Blue Book material also included maps and reconstructed witness lo
 
 The Exeter case became more controversial after public explanations began to shift.
 
-According to later accounts cited in UFO literature and retrospectives, Pentagon spokesmen initially suggested that the witnesses had seen stars or planets distorted by atmospheric conditions such as temperature inversions. Critics argued that this explanation was implausible because the witnesses described low-level moving lights illuminating fields and appearing to manoeuvre. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOB/comments/1l1jnze/1965_exeter_new_hampshire_ufo_sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">1965 exeter new hampshire ufo sightings</span><span class="citation-popover-snippet">1965 Exeter, New Hampshire UFO Sightings.: r/UFOBProject Blue Book later suggested that &quot;Operation Big Blast,&quot; a SAC/NORAD training miss...</span></span></span>
+According to later accounts cited in UFO literature and retrospectives, Pentagon spokesmen initially suggested that the witnesses had seen stars or planets distorted by atmospheric conditions such as temperature inversions. Critics argued that this explanation was implausible because the witnesses described low-level moving lights illuminating fields and appearing to manoeuvre.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOB/comments/1l1jnze/1965_exeter_new_hampshire_ufo_sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">1965 exeter new hampshire ufo sightings</span><span class="citation-popover-snippet">1965 Exeter, New Hampshire UFO Sightings.: r/UFOBProject Blue Book later suggested that &quot;Operation Big Blast,&quot; a SAC/NORAD training miss...</span></span></span>
 
-The witnesses themselves strongly objected. Bertrand and Hunt maintained that what they observed was not a distant celestial object. Their descriptions involved movement, changing position, and close-range illumination inconsistent with ordinary stars. The police officers’ refusal to retreat from their statements became part of the case’s mythology. Unlike some UFO witnesses who later softened their claims, the Exeter officers generally stood by their account for decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/15pxvm8/this_is_an_interview_from_1977_j_allen_hynek_lead/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">this is an interview from 1977 j allen hynek lead</span><span class="citation-popover-snippet">J. Allen Hynek...August 13, 2023 — This is an interview from 1977. J. Allen Hynek, lead consultant for Project Blue Book, was changed fr...</span><span class="citation-popover-meta">Published: August 13, 2023</span></span></span>
+The witnesses themselves strongly objected. Bertrand and Hunt maintained that what they observed was not a distant celestial object. Their descriptions involved movement, changing position, and close-range illumination inconsistent with ordinary stars. The police officers’ refusal to retreat from their statements became part of the case’s mythology. Unlike some UFO witnesses who later softened their claims, the Exeter officers generally stood by their account for decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/15pxvm8/this_is_an_interview_from_1977_j_allen_hynek_lead/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">this is an interview from 1977 j allen hynek lead</span><span class="citation-popover-snippet">J. Allen Hynek...August 13, 2023 — This is an interview from 1977. J. Allen Hynek, lead consultant for Project Blue Book, was changed fr...</span><span class="citation-popover-meta">Published: August 13, 2023</span></span></span>
 
-This created a reputational problem for Blue Book. If the Air Force insisted on an explanation the witnesses considered obviously false, then the programme risked appearing more interested in closing cases than understanding them. Exeter therefore fed a broader criticism that Blue Book’s public-relations role sometimes overshadowed its investigative role. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40stphngeist/look-up-in-the-sky-whats-that-is-it-a-flying-saucer-no-it-s-just-swamp-gas-70a1cdbcb4ae" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Up in the sky. What&#x27;s that? Is it a Flying Saucer? No...September 7, 2024 — During his time at Project Blue Book, Hynek interviewed cou...</span><span class="citation-popover-meta">Published: September 7, 2024</span></span></span>
+This created a reputational problem for Blue Book. If the Air Force insisted on an explanation the witnesses considered obviously false, then the programme risked appearing more interested in closing cases than understanding them. Exeter therefore fed a broader criticism that Blue Book’s public-relations role sometimes overshadowed its investigative role.<span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40stphngeist/look-up-in-the-sky-whats-that-is-it-a-flying-saucer-no-it-s-just-swamp-gas-70a1cdbcb4ae" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Up in the sky. What&#x27;s that? Is it a Flying Saucer? No...September 7, 2024 — During his time at Project Blue Book, Hynek interviewed cou...</span><span class="citation-popover-meta">Published: September 7, 2024</span></span></span>
 
 ## The Shift Toward the B-47 Explanation
 
 As criticism of the astronomical explanation grew, attention increasingly turned toward military aircraft activity.
 
-A later Blue Book-associated explanation linked the sightings to Operation Big Blast, a Strategic Air Command and NORAD training exercise involving refuelling operations and B-47 bombers. Sceptical investigators argued that flashing aircraft lights seen under unusual night conditions could explain the witnesses’ observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[centerforinquiry.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Blue Book suggested the incident might have been caused by planes from a SAC/. NORAD training exercise dubbed “Big. Blast...</span></span></span> Reddit This theory had several strengths compared with the earlier <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1dyg8w2/the_incident_at_exeter_1965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Incident at Exeter</span><span class="citation-popover-snippet">The Incident at Exeter - 1965: r/UFOsBlue Book attributed the sighting to planes from NORAD training mission, Operation Big Blast...</span></span></span>“stars and planets” explanation:
+A later Blue Book-associated explanation linked the sightings to Operation Big Blast, a Strategic Air Command and NORAD training exercise involving refuelling operations and B-47 bombers. Sceptical investigators argued that flashing aircraft lights seen under unusual night conditions could explain the witnesses’ observations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[centerforinquiry.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Blue Book suggested the incident might have been caused by planes from a SAC/. NORAD training exercise dubbed “Big. Blast...</span></span></span> Reddit This theory had several strengths compared with the earlier<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1dyg8w2/the_incident_at_exeter_1965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Incident at Exeter</span><span class="citation-popover-snippet">The Incident at Exeter - 1965: r/UFOsBlue Book attributed the sighting to planes from NORAD training mission, Operation Big Blast...</span></span></span>“stars and planets” explanation:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -310,11 +310,11 @@ A later Blue Book-associated explanation linked the sightings to Operation Big B
 
 However, the aircraft explanation remained disputed for several reasons.
 
-First, Griffin’s initial field report reportedly downplayed any connection between the B-47s and the sightings. Critics later asked why the Air Force eventually leaned on an explanation its own field investigator had initially doubted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+First, Griffin’s initial field report reportedly downplayed any connection between the B-47s and the sightings. Critics later asked why the Air Force eventually leaned on an explanation its own field investigator had initially doubted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
-Second, the witnesses described the lights as apparently silent and sometimes low to the ground. Sceptics argued that perception errors at night can distort distance and sound, especially in rural darkness. Believers countered that experienced police officers should have recognised ordinary aircraft navigation lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.martinshough.com/aerialphenomena/EXETER%20N.H.%20Sep%202-3%201965.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: martinshough.com">[Martin Shough]</a><span class="citation-popover" role="note"><span class="citation-popover-source">martinshough.com</span><span class="citation-popover-title">Martin Shough Exeunt Exeter?</span><span class="citation-popover-snippet">Martin ShoughExeunt Exeter? - PhysicsIn fact Blue Book staff were doing their best to pin the sightings on an Air Force exercise involvin...</span></span></span>
+Second, the witnesses described the lights as apparently silent and sometimes low to the ground. Sceptics argued that perception errors at night can distort distance and sound, especially in rural darkness. Believers countered that experienced police officers should have recognised ordinary aircraft navigation lights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.martinshough.com/aerialphenomena/EXETER%20N.H.%20Sep%202-3%201965.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: martinshough.com">[Martin Shough]</a><span class="citation-popover" role="note"><span class="citation-popover-source">martinshough.com</span><span class="citation-popover-title">Martin Shough Exeunt Exeter?</span><span class="citation-popover-snippet">Martin ShoughExeunt Exeter? - PhysicsIn fact Blue Book staff were doing their best to pin the sightings on an Air Force exercise involvin...</span></span></span>
 
-Third, some later analyses suggested that aerial refuelling patterns or banking aircraft could produce the illusion of a structured object with sequential flashing lights. Yet these reconstructions depend heavily on assumptions about witness orientation, altitude perception, and timing. No reconstruction eliminated every reported feature of the sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[centerforinquiry.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Blue Book suggested the incident might have been caused by planes from a SAC/. NORAD training exercise dubbed “Big. Blast...</span></span></span>
+Third, some later analyses suggested that aerial refuelling patterns or banking aircraft could produce the illusion of a structured object with sequential flashing lights. Yet these reconstructions depend heavily on assumptions about witness orientation, altitude perception, and timing. No reconstruction eliminated every reported feature of the sighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[centerforinquiry.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Blue Book suggested the incident might have been caused by planes from a SAC/. NORAD training exercise dubbed “Big. Blast...</span></span></span>
 
 The debate therefore shifted from “Was something there?” to “Did the witnesses misinterpret military aircraft under difficult viewing conditions?”
 
@@ -323,17 +323,17 @@ The debate therefore shifted from “Was something there?” to “Did the witne
 
 The Exeter investigation also became entangled with growing criticism from astronomer J. Allen Hynek, Blue Book’s scientific consultant.
 
-Hynek’s relationship with Blue Book had changed substantially by the mid-1960s. Originally sceptical, he became increasingly frustrated with what he considered superficial investigations and premature dismissals. Broader disputes around Blue Book during this period included his criticism that the programme lacked adequate staffing, scientific rigour, and proper field investigation procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+Hynek’s relationship with Blue Book had changed substantially by the mid-1960s. Originally sceptical, he became increasingly frustrated with what he considered superficial investigations and premature dismissals. Broader disputes around Blue Book during this period included his criticism that the programme lacked adequate staffing, scientific rigour, and proper field investigation procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 Although Hynek did not publicly endorse extraterrestrial explanations for Exeter, the case fit his wider concern that some reports deserved more careful treatment than they received. Exeter became one of several highly publicised incidents that reinforced public suspicion that Blue Book’s conclusions were sometimes driven by institutional pressure rather than evidential confidence.
 
-This mattered historically because Exeter arrived during a transitional moment in UFO culture. Earlier 1950s sightings often involved anonymous civilians or radar anomalies. By the mid-1960s, cases involving police officers, military personnel, and multiple witnesses received much more national attention. When Blue Book appeared uncertain or inconsistent in such cases, confidence in the programme weakened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+This mattered historically because Exeter arrived during a transitional moment in UFO culture. Earlier 1950s sightings often involved anonymous civilians or radar anomalies. By the mid-1960s, cases involving police officers, military personnel, and multiple witnesses received much more national attention. When Blue Book appeared uncertain or inconsistent in such cases, confidence in the programme weakened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 ## What “Unidentified” Really Meant
 
 One of the most misunderstood aspects of Blue Book was the meaning of the term “unidentified”.
 
-Project Blue Book did not use “unidentified” as proof of alien craft. The category simply meant that investigators could not confidently match a report to a known explanation after analysis. When the programme closed in 1969, 701 of 12,618 cases remained officially unidentified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</span></span></span>
+Project Blue Book did not use “unidentified” as proof of alien craft. The category simply meant that investigators could not confidently match a report to a known explanation after analysis. When the programme closed in 1969, 701 of 12,618 cases remained officially unidentified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</span></span></span>
 
 Exeter occupied an ambiguous position within this framework. Publicly, the Air Force associated the case with aircraft activity. Yet the continuing controversy arose because many readers of the surviving records believed the proposed explanations never fully resolved the witness testimony.
 
@@ -358,7 +358,7 @@ In that sense, Exeter became less significant as a single UFO sighting than as a
 
 The Exeter case remains influential because it crystallised the central criticism of Project Blue Book: the perception that the programme’s strongest unresolved cases received explanations that seemed weaker than the underlying evidence.
 
-Even sceptical analysts who favour the aircraft explanation often acknowledge that the original handling of the case was confused and inconsistent. Believers, meanwhile, treat Exeter as evidence that credible witnesses sometimes reported phenomena the Air Force could not comfortably explain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[centerforinquiry.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Blue Book suggested the incident might have been caused by planes from a SAC/. NORAD training exercise dubbed “Big. Blast...</span></span></span>
+Even sceptical analysts who favour the aircraft explanation often acknowledge that the original handling of the case was confused and inconsistent. Believers, meanwhile, treat Exeter as evidence that credible witnesses sometimes reported phenomena the Air Force could not comfortably explain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[centerforinquiry.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Blue Book suggested the incident might have been caused by planes from a SAC/. NORAD training exercise dubbed “Big. Blast...</span></span></span>
 
 The historical importance of the investigation therefore lies less in proving an extraordinary object existed and more in showing how official institutions responded when confronted with uncertain evidence under intense public attention. Exeter exposed the gap between field uncertainty, public reassurance, and long-term historical interpretation.
 
@@ -367,178 +367,178 @@ That is why the incident continued to appear in later UFO literature, documentar
 <img src="{{ "/assets/images/Incident_at_Exeter_1_781528_blue_book_investigat_88e50f-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Incident_at_Exeter_1_781528_blue_book_investigat_88e50f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Incident_at_Exeter_1_781528_blue_book_investigat_88e50f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did Blue Book Struggle With Exeter?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did Blue Book Struggle With Exeter?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Contains the original investigative records for the 1960s sighting surge, providing essential institutional context for the Exeter case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains the original investigative records for the 1960s sighting surge, providing essential institutional context for the Exeter case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides an objective profile of the Exeter case, clarifying why Air Force investigative files eventually failed to satisfy witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides an objective profile of the Exeter case, clarifying why Air Force investigative files eventually failed to satisfy witnesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches investigative standards to differentiate verified military logs from investigative rumors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches investigative standards to differentiate verified military logs from investigative rumors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Reviews how early investigative bureaus managed the public relations pressure during the 1960s sighting wave.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reviews how early investigative bureaus managed the public relations pressure during the 1960s sighting wave.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="blue-book-13657f-why-did-blue-book-struggle-with-exeter-incident-at-exeter-1965-ufo-memorabilia-book-books-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ That is why the incident continued to appear in later UFO literature, documentar
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ That is why the incident continued to appear in later UFO literature, documentar
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ That is why the incident continued to appear in later UFO literature, documentar
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ That is why the incident continued to appear in later UFO literature, documentar
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ That is why the incident continued to appear in later UFO literature, documentar
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,136 +744,136 @@ That is why the incident continued to appear in later UFO literature, documentar
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Exeter incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Exeter_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Exeter_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
    Title: The [Incident at Exeter](&#123;&#123; 'incident-at-exeter-1965/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1dyg8w2/the_incident_at_exeter_1965/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dyg8w2/the_incident_at_exeter_1965/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Incident at Exeter - 1965: r/UFOsBlue Book attributed the sighting to planes from NORAD training mission, Operation Big Blast...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1dyg8w2/the_incident_at_exeter_1965/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dyg8w2/the_incident_at_exeter_1965/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Incident at Exeter - 1965: r/UFOsBlue Book attributed the sighting to planes from NORAD training mission, Operation Big Blast...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Incident at Exeter map.png  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AIncident_at_Exeter_map.png" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AIncident_at_Exeter_map.png</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Incident at Exeter map.png - Wikimedia CommonsEnglish: Hand-drawn map in the Project Blue Book archives of the Inci...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AIncident_at_Exeter_map.png" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AIncident_at_Exeter_map.png</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Incident at Exeter map.png - Wikimedia CommonsEnglish: Hand-drawn map in the Project Blue Book archives of the Inci...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40stphngeist/look-up-in-the-sky-whats-that-is-it-a-flying-saucer-no-it-s-just-swamp-gas-70a1cdbcb4ae" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40stphngeist/look-up-in-the-sky-whats-that-is-it-a-flying-saucer-no-it-s-just-swamp-gas-70a1cdbcb4ae</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Up in the sky. What&#x27;s that? Is it a Flying Saucer? No...September 7, 2024 — During his time at Project Blue Book, Hynek interviewed cou...</p></details>
+   Link:<a href="https://medium.com/%40stphngeist/look-up-in-the-sky-whats-that-is-it-a-flying-saucer-no-it-s-just-swamp-gas-70a1cdbcb4ae" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40stphngeist/look-up-in-the-sky-whats-that-is-it-a-flying-saucer-no-it-s-just-swamp-gas-70a1cdbcb4ae</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Up in the sky. What&#x27;s that? Is it a Flying Saucer? No...September 7, 2024 — During his time at Project Blue Book, Hynek interviewed cou...</p></details>
    Published: September 7, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: centerforinquiry.s3.amazonaws.com  
-   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book suggested the incident might have been caused by planes from a SAC/. NORAD training exercise dubbed “Big. Blast...</p></details>
+   Link:<a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book suggested the incident might have been caused by planes from a SAC/. NORAD training exercise dubbed “Big. Blast...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: 1965 exeter new hampshire ufo sightings  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1l1jnze/1965_exeter_new_hampshire_ufo_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1l1jnze/1965_exeter_new_hampshire_ufo_sightings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1965 Exeter, New Hampshire UFO Sightings.: r/UFOBProject Blue Book later suggested that &quot;Operation Big Blast,&quot; a SAC/NORAD training miss...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1l1jnze/1965_exeter_new_hampshire_ufo_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1l1jnze/1965_exeter_new_hampshire_ufo_sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1965 Exeter, New Hampshire UFO Sightings.: r/UFOBProject Blue Book later suggested that &quot;Operation Big Blast,&quot; a SAC/NORAD training miss...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: this is an interview from 1977 j allen hynek lead  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/15pxvm8/this_is_an_interview_from_1977_j_allen_hynek_lead/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15pxvm8/this_is_an_interview_from_1977_j_allen_hynek_lead/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Allen Hynek...August 13, 2023 — This is an interview from 1977. J. Allen Hynek, lead consultant for Project Blue Book, was changed fr...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/15pxvm8/this_is_an_interview_from_1977_j_allen_hynek_lead/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15pxvm8/this_is_an_interview_from_1977_j_allen_hynek_lead/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>J. Allen Hynek...August 13, 2023 — This is an interview from 1977. J. Allen Hynek, lead consultant for Project Blue Book, was changed fr...</p></details>
    Published: August 13, 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Klass agreed that the eyewitnesses had indeed seen something unusual, but he speculated that “the Exeter UFOs” (...Read more...</p></details>
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Klass agreed that the eyewitnesses had indeed seen something unusual, but he speculated that “the Exeter UFOs” (...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: martinshough.com  
    Title: Martin Shough Exeunt Exeter?  
-   Link: <a href="https://www.martinshough.com/aerialphenomena/EXETER%20N.H.%20Sep%202-3%201965.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.martinshough.com/aerialphenomena/EXETER%20N.H.%20Sep%202-3%201965.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Martin ShoughExeunt Exeter? - PhysicsIn fact Blue Book staff were doing their best to pin the sightings on an Air Force exercise involvin...</p></details>
+   Link:<a href="https://www.martinshough.com/aerialphenomena/EXETER%20N.H.%20Sep%202-3%201965.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.martinshough.com/aerialphenomena/EXETER%20N.H.%20Sep%202-3%201965.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Martin ShoughExeunt Exeter? - PhysicsIn fact Blue Book staff were doing their best to pin the sightings on an Air Force exercise involvin...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.howstuffworks.com  
    Title: How Stuff Works Project Blue Book  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government2.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-government2.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book - Aliens &amp; UFOs - Science | HowStuffWorksIn a 1968 letter to the project, Hynek leveled several charges against Project Blue Bo...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government2.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-government2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book - Aliens &amp; UFOs - Science | HowStuffWorksIn a 1968 letter to the project, Hynek leveled several charges against Project Blue Bo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Investigation into UFOs | Origins22 Dec 2024 — On December 17, 1969, the United States Air Force concluded Project Blue Book, i...</p></details>
+   Link:<a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Investigation into UFOs | Origins22 Dec 2024 — On December 17, 1969, the United States Air Force concluded Project Blue Book, i...</p></details>
    Published: December 17, 1969  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS UFO REPORTSThey had seen something and it fell to Edward Ruppelt, then head of Project Blue Book, to decide what explanati...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS UFO REPORTSThey had seen something and it fell to Edward Ruppelt, then head of Project Blue Book, to decide what explanati...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exeter Part 1 MUFON Case File | PDF | Aerial RefuelingThom LOCK&#x27;s book, &quot;incident at Exeter,&quot; was no sooner completed than UFO reports be...</p></details>
+   Link:<a href="https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exeter Part 1 MUFON Case File | PDF | Aerial RefuelingThom LOCK&#x27;s book, &quot;incident at Exeter,&quot; was no sooner completed than UFO reports be...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100064860391226/posts/flashback-friday-back-to-the-summer-of-2019-when-chief-poulin-deputy-chief-munck/1173134121525257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064860391226/posts/flashback-friday-back-to-the-summer-of-2019-when-chief-poulin-deputy-chief-munck/1173134121525257/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exeter(NH) Police DepartmentThus began the &quot;Incident at Exeter,&quot; a series of sightings officially qualified as a legitimate visit from an...</p></details>
+   Link:<a href="https://www.facebook.com/100064860391226/posts/flashback-friday-back-to-the-summer-of-2019-when-chief-poulin-deputy-chief-munck/1173134121525257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064860391226/posts/flashback-friday-back-to-the-summer-of-2019-when-chief-poulin-deputy-chief-munck/1173134121525257/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exeter(NH) Police DepartmentThus began the &quot;Incident at Exeter,&quot; a series of sightings officially qualified as a legitimate visit from an...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: incidentatexeter.com  
-   Link: <a href="https://www.incidentatexeter.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.incidentatexeter.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Incident At ExeterFeatures detailed analysis of witness testimonies, Project Blue Book records, and the controversial Air Force explanati...</p></details>
+   Link:<a href="https://www.incidentatexeter.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.incidentatexeter.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incident At ExeterFeatures detailed analysis of witness testimonies, Project Blue Book records, and the controversial Air Force explanati...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: popularmechanics.com  
    Title: Popular Mechanics J. Allen Hynek & Project Blue Book: UFO Secrets Revealed“An  
-   Link: <a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsJ. Allen Hynek &amp; Project Blue Book: UFO Secrets Revealed“An introduction to the stars came after Hynek was bedridden wit...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsJ. Allen Hynek &amp; Project Blue Book: UFO Secrets Revealed“An introduction to the stars came after Hynek was bedridden wit...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: It is the only explanation. Yes I have tried to look into missing aircraft  
-   Link: <a href="https://www.facebook.com/groups/934654520387118/posts/1533682173817680/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/934654520387118/posts/1533682173817680/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Who remembers, or has heard about, the Incident at Exeter...I swear there is a small aircraft crashed in that part of Massabesic...</p></details>
+   Link:<a href="https://www.facebook.com/groups/934654520387118/posts/1533682173817680/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/934654520387118/posts/1533682173817680/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Who remembers, or has heard about, the Incident at Exeter...I swear there is a small aircraft crashed in that part of Massabesic...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: granitepostnews.com  
    Title: we asked you answered do you believe the exeter ufo story  
-   Link: <a href="https://granitepostnews.com/local/people/we-asked-you-answered-do-you-believe-the-exeter-ufo-story/" target="_blank" rel="noopener noreferrer nofollow">https://granitepostnews.com/local/people/we-asked-you-answered-do-you-believe-the-exeter-ufo-story/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do you believe the Exeter UFO story?4 Sept 2025 — The UFO incident is said to have happened in September 1965, when Norman Muscarello, an...</p></details>
+   Link:<a href="https://granitepostnews.com/local/people/we-asked-you-answered-do-you-believe-the-exeter-ufo-story/" target="_blank" rel="noopener noreferrer nofollow">https://granitepostnews.com/local/people/we-asked-you-answered-do-you-believe-the-exeter-ufo-story/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do you believe the Exeter UFO story?4 Sept 2025 — The UFO incident is said to have happened in September 1965, when Norman Muscarello, an...</p></details>
    Published: September 1965  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYUbOPnhUd1/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYUbOPnhUd1/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Good factual overview covering the witnesses, police involvement, Project Blue Book...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYUbOPnhUd1/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYUbOPnhUd1/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Good factual overview covering the witnesses, police involvement, Project Blue Book...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: strangenewengland.com  
    Title: Strange New England Revisiting the Incident at Exeter  
-   Link: <a href="https://strangenewengland.com/podcast/revisiting-the-incident-at-exeter/" target="_blank" rel="noopener noreferrer nofollow">https://strangenewengland.com/podcast/revisiting-the-incident-at-exeter/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Revisiting the Incident at Exeter - Strange New EnglandPease AFB had five B-47 aircraft flying in the area but I do not believe that they...</p></details>
+   Link:<a href="https://strangenewengland.com/podcast/revisiting-the-incident-at-exeter/" target="_blank" rel="noopener noreferrer nofollow">https://strangenewengland.com/podcast/revisiting-the-incident-at-exeter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revisiting the Incident at Exeter - Strange New EnglandPease AFB had five B-47 aircraft flying in the area but I do not believe that they...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: thedebrief.org  
    Title: The Curious Case of Project Blue Book Incident 88  
-   Link: <a href="https://thedebrief.org/the-curious-case-of-project-blue-book-incident-88/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/the-curious-case-of-project-blue-book-incident-88/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefMay 23, 2022 — Allen Hynek&#x27;s assessment of the Project Blue Book cases, he rated Incident 88 as being “non-astronomical with n...</p></details>
+   Link:<a href="https://thedebrief.org/the-curious-case-of-project-blue-book-incident-88/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/the-curious-case-of-project-blue-book-incident-88/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefMay 23, 2022 — Allen Hynek&#x27;s assessment of the Project Blue Book cases, he rated Incident 88 as being “non-astronomical with n...</p></details>
    Published: May 23, 2022

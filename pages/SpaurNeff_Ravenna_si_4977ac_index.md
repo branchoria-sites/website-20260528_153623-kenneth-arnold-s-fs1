@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /spaurneff-ravenna-si-4977ac-index/
 description: Focused pages that expand on Spaur Neff Ravenna sighting 1966.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: SpaurNeff_Ravenna_si_4977ac
 parent_title: Spaur Neff Ravenna sighting 1966
@@ -16,7 +16,7 @@ parent_permalink: /spaur-neff-ravenna-sighting-1966/
 
 # Explore Topics in Spaur Neff Ravenna sighting 1966
 
-The following pages expand on the main **[Spaur Neff Ravenna sighting 1966]({{ '/spaur-neff-ravenna-sighting-1966/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Spaur Neff Ravenna sighting 1966]({{ '/spaur-neff-ravenna-sighting-1966/' | relative_url }})** page and cover its key branches in.
 
 - [Photograph Debate]({{ '/photograph-debate/' | relative_url }})
 - [Official Report]({{ '/official-report/' | relative_url }})

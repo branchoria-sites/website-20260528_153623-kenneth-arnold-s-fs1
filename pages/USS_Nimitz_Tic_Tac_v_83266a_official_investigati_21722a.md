@@ -251,23 +251,23 @@ image: /assets/images/USS_Nimitz_Tic_Tac_v_83266a_official_investigati_21722a-Il
 Official statements about the USS Nimitz “Tic Tac” incident have been unusually careful, and that caution is one reason the case remains influential. The US government has publicly confirmed that the famous infrared footage is genuine Navy material and that the object shown was categorised as “unidentified” at the time of release. At the same time, no official report has concluded that the object represented extraterrestrial technology, a hostile foreign system, or even a single clearly understood event. The result is a rare middle ground: the incident is neither officially explained nor officially endorsed as extraordinary.
 
 <img src="{{ "/assets/images/USS_Nimitz_Tic_Tac_v_83266a_official_investigati_21722a-Illustration-1-dark.svg" | relative_url }}" alt="Official Reports illustration 1" data-theme-src-dark="{{ "/assets/images/USS_Nimitz_Tic_Tac_v_83266a_official_investigati_21722a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Nimitz_Tic_Tac_v_83266a_official_investigati_21722a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes the Nimitz case important in policy and governance terms is not only the encounter itself, but the institutional response that followed. Pentagon video releases, congressional hearings, intelligence assessments, and later UAP review offices transformed the incident from a niche UFO story into a recurring national-security and oversight issue. Yet many of the core questions remain unresolved because the public record is incomplete, fragmented, and heavily dependent on witness testimony rather than fully released sensor data. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Prelimary Assessment UAP 20210625</span><span class="citation-popover-snippet">Director of National IntelligencePreliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — This report provides an overview...</span></span></span>
+What makes the Nimitz case important in policy and governance terms is not only the encounter itself, but the institutional response that followed. Pentagon video releases, congressional hearings, intelligence assessments, and later UAP review offices transformed the incident from a niche UFO story into a recurring national-security and oversight issue. Yet many of the core questions remain unresolved because the public record is incomplete, fragmented, and heavily dependent on witness testimony rather than fully released sensor data. U.S. Department of War<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Prelimary Assessment UAP 20210625</span><span class="citation-popover-snippet">Director of National IntelligencePreliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — This report provides an overview...</span></span></span>
 
 ## What the Pentagon Actually Confirmed
 
 ### The 2020 DoD video release
 
-In April 2020, the US Department of Defense formally authorised the release of three Navy videos connected to unidentified aerial phenomena, including the 2004 “FLIR1” clip associated with the USS Nimitz incident. The Pentagon stated that the footage had already circulated publicly for years after unauthorised leaks, but the department wanted to “clear up any misconceptions” regarding whether the videos were real. The statement confirmed that the footage was authentic Navy material and that the aerial phenomena depicted remained “unidentified”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/DepartmentofWar/posts/the-department-of-war-celebrates-the-launch-of-wargovufo-as-a-major-milestone-in/1428129306019997/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span>(https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/)
+In April 2020, the US Department of Defense formally authorised the release of three Navy videos connected to unidentified aerial phenomena, including the 2004 “FLIR1” clip associated with the USS Nimitz incident. The Pentagon stated that the footage had already circulated publicly for years after unauthorised leaks, but the department wanted to “clear up any misconceptions” regarding whether the videos were real. The statement confirmed that the footage was authentic Navy material and that the aerial phenomena depicted remained “unidentified”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/DepartmentofWar/posts/the-department-of-war-celebrates-the-launch-of-wargovufo-as-a-major-milestone-in/1428129306019997/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span>(https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/)
 
 That wording mattered. The Pentagon did not say the objects were alien craft, advanced adversary systems, or even genuinely anomalous vehicles. “Unidentified” in official usage simply meant the available information had not produced a definitive identification. This distinction became central to later public debate because many headlines treated the release as confirmation of extraordinary technology when the formal language was far narrower.
 
-The release also reinforced an important point often lost in popular retellings: the famous Tic Tac video is not a complete visual record of Commander David Fravor’s close-range encounter. The FLIR footage came from a later aircraft and captured only a short infrared sequence. That limitation affects every official assessment because the most dramatic manoeuvre claims rely largely on testimony and radar recollections rather than on the released video itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/21000/highly-detailed-report-on-harrowing-encounter-between-f-a-18s-and-ufo-off-baja-surfaces" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">The War ZoneDetailed Official Report On Harrowing Encounter Between...22 May 2018 — The paper recounts a course of bizarre events that o...</span><span class="citation-popover-meta">Published: May 2018</span></span></span>
+The release also reinforced an important point often lost in popular retellings: the famous Tic Tac video is not a complete visual record of Commander David Fravor’s close-range encounter. The FLIR footage came from a later aircraft and captured only a short infrared sequence. That limitation affects every official assessment because the most dramatic manoeuvre claims rely largely on testimony and radar recollections rather than on the released video itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/21000/highly-detailed-report-on-harrowing-encounter-between-f-a-18s-and-ufo-off-baja-surfaces" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">The War ZoneDetailed Official Report On Harrowing Encounter Between...22 May 2018 — The paper recounts a course of bizarre events that o...</span><span class="citation-popover-meta">Published: May 2018</span></span></span>
 
 ### The Navy’s changing public posture
 
 Before 2017, military UFO reports were rarely discussed publicly in official language. The Nimitz case helped change that culture. After the New York Times reporting on the Advanced Aerospace Threat Identification Program (AATIP), Navy officials gradually adopted the newer term “UAP” — unidentified aerial phenomena — partly to reduce stigma around pilot reporting.
 
-By 2019 and 2020, Navy spokespeople openly acknowledged that aviators had encountered objects they could not identify during training operations. This did not mean the Navy endorsed exotic explanations. Instead, the emphasis shifted toward flight safety and intelligence uncertainty. The concern became whether unknown objects were entering restricted military airspace and whether pilots were reluctant to report them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
+By 2019 and 2020, Navy spokespeople openly acknowledged that aviators had encountered objects they could not identify during training operations. This did not mean the Navy endorsed exotic explanations. Instead, the emphasis shifted toward flight safety and intelligence uncertainty. The concern became whether unknown objects were entering restricted military airspace and whether pilots were reluctant to report them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
 
 That bureaucratic shift is one of the Nimitz case’s lasting effects. The incident became less a question of “Are UFOs real?” and more a question of how the military should document and investigate unexplained encounters.
 
@@ -275,9 +275,9 @@ That bureaucratic shift is one of the Nimitz case’s lasting effects. The incid
 
 ### From UFO folklore to oversight hearings
 
-The Nimitz encounter eventually became one of the anchor cases in modern congressional UAP hearings. In July 2023, retired Navy Commander David Fravor testified before the US House Oversight Committee under oath. His written statement argued that the object his flight encountered in November 2004 outperformed known US aircraft capabilities at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">David Fravor Statement for House Oversight Committee</span><span class="citation-popover-snippet">House Oversight CommitteeDavid Fravor Statement for House Oversight CommitteeJul 25, 2023 — In closing, I would like to say that the Tic...</span></span></span> Oversight Committee <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2023/07/26/ufo-house-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">Military pilots testified, urging the declassification of documents and describing the challenges they face, including stigma and potenti...</span></span></span> Fravor’s testimony carried weight because he was not presented as a fringe witness. He was an experienced commanding officer, trained observer, and senior naval aviator. Congressional interest therefore focused less on sensational claims and more on institutional credibility: if highly trained personnel reported unexplained objects repeatedly, lawmakers wanted to know whether the military had adequate reporting and analytical systems.
+The Nimitz encounter eventually became one of the anchor cases in modern congressional UAP hearings. In July 2023, retired Navy Commander David Fravor testified before the US House Oversight Committee under oath. His written statement argued that the object his flight encountered in November 2004 outperformed known US aircraft capabilities at the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">David Fravor Statement for House Oversight Committee</span><span class="citation-popover-snippet">House Oversight CommitteeDavid Fravor Statement for House Oversight CommitteeJul 25, 2023 — In closing, I would like to say that the Tic...</span></span></span> Oversight Committee<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2023/07/26/ufo-house-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">Military pilots testified, urging the declassification of documents and describing the challenges they face, including stigma and potenti...</span></span></span> Fravor’s testimony carried weight because he was not presented as a fringe witness. He was an experienced commanding officer, trained observer, and senior naval aviator. Congressional interest therefore focused less on sensational claims and more on institutional credibility: if highly trained personnel reported unexplained objects repeatedly, lawmakers wanted to know whether the military had adequate reporting and analytical systems.
 
-The hearings also highlighted a broader shift in framing. Members of Congress repeatedly treated UAP incidents as a potential intelligence and airspace-security problem rather than purely a scientific mystery. Even sceptical lawmakers argued that unidentified objects near military exercises warranted investigation regardless of whether the explanation turned out to be mundane, foreign, or extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2023/07/26/ufo-house-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">Military pilots testified, urging the declassification of documents and describing the challenges they face, including stigma and potenti...</span></span></span>
+The hearings also highlighted a broader shift in framing. Members of Congress repeatedly treated UAP incidents as a potential intelligence and airspace-security problem rather than purely a scientific mystery. Even sceptical lawmakers argued that unidentified objects near military exercises warranted investigation regardless of whether the explanation turned out to be mundane, foreign, or extraordinary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2023/07/26/ufo-house-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">Military pilots testified, urging the declassification of documents and describing the challenges they face, including stigma and potenti...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rO_M0hLlJ-Q" title="Watch the Pentagon&#x27;s three declassified UFO videos taken by U.S. Navy pilots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rO_M0hLlJ-Q" target="_blank" rel="noopener noreferrer">Watch the Pentagon&#x27;s three declassified UFO videos taken by U.S. Navy pilots</a></p><p class="youtube-embed-meta">Channel: CNBC Television &middot; Views: 3.5M &middot; Uploaded: April 2020 &middot; Length: 1 minute 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rO_M0hLlJ-Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rO_M0hLlJ-Q">Open on YouTube</a></p></div></div></div>
 
@@ -298,9 +298,9 @@ The government itself has largely stayed between those positions.
 
 ### The report’s cautious conclusions
 
-In June 2021, the Office of the Director of National Intelligence released its Preliminary Assessment on Unidentified Aerial Phenomena, the first major US intelligence-community report on the subject in decades. The document reviewed 144 military UAP incidents reported mainly by Navy personnel between 2004 and 2021. Only one case was confidently explained. The rest remained unresolved because of insufficient data or inconsistent reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Prelimary Assessment UAP 20210625</span><span class="citation-popover-snippet">Director of National IntelligencePreliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — This report provides an overview...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Prelimary Assessment UAP 20210625</span><span class="citation-popover-snippet">Director of National IntelligencePreliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — This report provides an overview...</span></span></span>
+In June 2021, the Office of the Director of National Intelligence released its Preliminary Assessment on Unidentified Aerial Phenomena, the first major US intelligence-community report on the subject in decades. The document reviewed 144 military UAP incidents reported mainly by Navy personnel between 2004 and 2021. Only one case was confidently explained. The rest remained unresolved because of insufficient data or inconsistent reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Prelimary Assessment UAP 20210625</span><span class="citation-popover-snippet">Director of National IntelligencePreliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — This report provides an overview...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Prelimary Assessment UAP 20210625</span><span class="citation-popover-snippet">Director of National IntelligencePreliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — This report provides an overview...</span></span></span>
 
-The report never singled out the Nimitz case by name in its public text, but the 2004 encounter fell within the time range examined and became widely understood as one of the benchmark incidents shaping later UAP policy discussions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.disclosurearchives.com/briefings/tic-tac-anatomy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosurearchives.com">[Disclosure Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosurearchives.com</span><span class="citation-popover-title">tic tac anatomy</span><span class="citation-popover-snippet">AARO&#x27;s Historical Record Report Volume I treats it as a benchmark case. Every...Read more...</span></span></span>
+The report never singled out the Nimitz case by name in its public text, but the 2004 encounter fell within the time range examined and became widely understood as one of the benchmark incidents shaping later UAP policy discussions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.disclosurearchives.com/briefings/tic-tac-anatomy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosurearchives.com">[Disclosure Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosurearchives.com</span><span class="citation-popover-title">tic tac anatomy</span><span class="citation-popover-snippet">AARO&#x27;s Historical Record Report Volume I treats it as a benchmark case. Every...Read more...</span></span></span>
 
 The assessment’s wording was restrained. It acknowledged that some incidents appeared to demonstrate unusual flight characteristics or unusual sensor signatures, but it repeatedly warned that observational limitations, sensor errors, and lack of standardised reporting complicated interpretation. The report did not endorse extraterrestrial explanations.
 
@@ -323,7 +323,7 @@ The report grouped possible explanations into broad categories:
 
 </div>
 
-The existence of that final category fuelled public speculation, but intelligence officials treated it primarily as an admission of incomplete knowledge rather than proof of exotic technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Prelimary Assessment UAP 20210625</span><span class="citation-popover-snippet">Director of National IntelligencePreliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — This report provides an overview...</span></span></span>
+The existence of that final category fuelled public speculation, but intelligence officials treated it primarily as an admission of incomplete knowledge rather than proof of exotic technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Prelimary Assessment UAP 20210625</span><span class="citation-popover-snippet">Director of National IntelligencePreliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — This report provides an overview...</span></span></span>
 
 This was a major institutional change from earlier decades. The US government was now publicly acknowledging that some military encounters remained unresolved after analysis, even if the reasons might ultimately prove ordinary.
 
@@ -353,7 +353,7 @@ For example:
 
 </div>
 
-Sceptics such as Mick West have argued that at least some famous UAP videos become less mysterious when analysed frame by frame. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
+Sceptics such as Mick West have argued that at least some famous UAP videos become less mysterious when analysed frame by frame.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
 
 However, critics of those debunking attempts argue that the explanations often address only isolated parts of the event rather than the full combination of pilot testimony, radar reports, and visual observations. The strongest pro-anomaly arguments depend on the cumulative case rather than on any single video frame.
 
@@ -390,7 +390,7 @@ Official institutions have generally adopted the second posture publicly: unreso
 
 ## How the Nimitz Case Changed UAP Governance
 
-The long-term significance of the Tic Tac incident may lie less in what the object was and more in how governments changed their procedures afterward. The case became part of the institutional lineage leading from AATIP to the UAP Task Force and eventually to the Pentagon’s All-domain Anomaly Resolution Office (AARO). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.disclosurearchives.com/briefings/tic-tac-anatomy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosurearchives.com">[Disclosure Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosurearchives.com</span><span class="citation-popover-title">tic tac anatomy</span><span class="citation-popover-snippet">AARO&#x27;s Historical Record Report Volume I treats it as a benchmark case. Every...Read more...</span></span></span>
+The long-term significance of the Tic Tac incident may lie less in what the object was and more in how governments changed their procedures afterward. The case became part of the institutional lineage leading from AATIP to the UAP Task Force and eventually to the Pentagon’s All-domain Anomaly Resolution Office (AARO).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.disclosurearchives.com/briefings/tic-tac-anatomy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosurearchives.com">[Disclosure Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosurearchives.com</span><span class="citation-popover-title">tic tac anatomy</span><span class="citation-popover-snippet">AARO&#x27;s Historical Record Report Volume I treats it as a benchmark case. Every...Read more...</span></span></span>
 
 The military now has more formal reporting mechanisms for unexplained aerial incidents than it did in 2004. Congressional committees have also demanded greater transparency regarding classification, data retention, and intelligence review procedures.
 
@@ -399,229 +399,229 @@ At the same time, official agencies have remained notably conservative in their 
 That unresolved balance explains why the USS Nimitz Tic Tac case continues to dominate discussions nearly two decades later. It sits in an uncomfortable but durable category: credible enough to resist easy dismissal, but incomplete enough to resist definitive explanation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Official Reports Really Say About Nimitz?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Official Reports Really Say About Nimitz?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Summarizes the evidentiary debates of the Nimitz encounter, reviewing official investigative responses against the public curiosity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Summarizes the evidentiary debates of the Nimitz encounter, reviewing official investigative responses against the public curiosity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Provides structural methodologies for assessing how investigative bodies categorize events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides structural methodologies for assessing how investigative bodies categorize events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
-        </h4>
-        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+</h4>
+<p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
         
-        <p class="fr-book-desc">Details why investigative classifications mimic anomalous conclusions, providing rational frameworks for evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details why investigative classifications mimic anomalous conclusions, providing rational frameworks for evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Explains why institutional caution provides a more robust explanatory pathway than advanced propulsion markers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why institutional caution provides a more robust explanatory pathway than advanced propulsion markers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sister States, Enemy States</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sister States, Enemy States</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: war.gov  
    Title: statement by the department of defense on the release of historical navy videos  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarStatement by the Department of Defense on the Release...Apr 27, 2020 — The Department of Defense has authorized the rel...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarStatement by the Department of Defense on the Release...Apr 27, 2020 — The Department of Defense has authorized the rel...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: oversight.house.gov  
    Title: David Fravor Statement for House Oversight Committee  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeDavid Fravor Statement for House Oversight CommitteeJul 25, 2023 — In closing, I would like to say that the Tic...</p></details>
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeDavid Fravor Statement for House Oversight CommitteeJul 25, 2023 — In closing, I would like to say that the Tic...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/2023/07/26/ufo-house-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/07/26/ufo-house-hearing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Military pilots testified, urging the declassification of documents and describing the challenges they face, including stigma and potenti...</p></details>
+   Link:<a href="https://www.axios.com/2023/07/26/ufo-house-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/07/26/ufo-house-hearing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military pilots testified, urging the declassification of documents and describing the challenges they face, including stigma and potenti...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUnidentified Anomalous Phenomena (UAP) means (A) airborne objects that are not immediately identifiable; (B) transmedium objects...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUnidentified Anomalous Phenomena (UAP) means (A) airborne objects that are not immediately identifiable; (B) transmedium objects...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: history.com  
    Title: When Top Gun Pilots Tangled with a Baffling Tic-Tac  
-   Link: <a href="https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence officials issued a report finding no evidence that aerial phenomena witnessed by Navy pilots were alien spacecraft.Read more...</p></details>
+   Link:<a href="https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence officials issued a report finding no evidence that aerial phenomena witnessed by Navy pilots were alien spacecraft.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: oversight.house.gov  
-   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>on National Security, Public Safety, and...26 Jul 2023 — Witnesses and testimonies: Ryan Graves. Executive Director Americans for Safe A...</p></details>
+   Link:<a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on National Security, Public Safety, and...26 Jul 2023 — Witnesses and testimonies: Ryan Graves. Executive Director Americans for Safe A...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tic Tac” UAP that four Navy. Pilots encountered over the water.22 And, confirmed Ratcliffe, “There are a lot more sightings than have bee...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tic Tac” UAP that four Navy. Pilots encountered over the water.22 And, confirmed Ratcliffe, “There are a lot more sightings than have bee...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dni.gov  
    Title: Prelimary Assessment UAP 20210625  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National IntelligencePreliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — This report provides an overview...</p></details>
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National IntelligencePreliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — This report provides an overview...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: twz.com  
-   Link: <a href="https://www.twz.com/21000/highly-detailed-report-on-harrowing-encounter-between-f-a-18s-and-ufo-off-baja-surfaces" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/21000/highly-detailed-report-on-harrowing-encounter-between-f-a-18s-and-ufo-off-baja-surfaces</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneDetailed Official Report On Harrowing Encounter Between...22 May 2018 — The paper recounts a course of bizarre events that o...</p></details>
+   Link:<a href="https://www.twz.com/21000/highly-detailed-report-on-harrowing-encounter-between-f-a-18s-and-ufo-off-baja-surfaces" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/21000/highly-detailed-report-on-harrowing-encounter-between-f-a-18s-and-ufo-off-baja-surfaces</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneDetailed Official Report On Harrowing Encounter Between...22 May 2018 — The paper recounts a course of bizarre events that o...</p></details>
    Published: May 2018  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: coffeeordie.com  
    Title: nimitz tic tac  
-   Link: <a href="https://www.coffeeordie.com/article/nimitz-tic-tac" target="_blank" rel="noopener noreferrer nofollow">https://www.coffeeordie.com/article/nimitz-tic-tac</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Was the Infamous &#x27;Nimitz Incident&#x27; Mentioned at...19 May 2022 — The Nimitz incident is one of the best-documented UAP reports on re...</p></details>
+   Link:<a href="https://www.coffeeordie.com/article/nimitz-tic-tac" target="_blank" rel="noopener noreferrer nofollow">https://www.coffeeordie.com/article/nimitz-tic-tac</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Was the Infamous &#x27;Nimitz Incident&#x27; Mentioned at...19 May 2022 — The Nimitz incident is one of the best-documented UAP reports on re...</p></details>
    Published: May 2022  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary Assessment: Unidentified Aerial PhenomenaDate: June 25, 2021. The Office of the Director of National Intelligence submitted t...</p></details>
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary Assessment: Unidentified Aerial PhenomenaDate: June 25, 2021. The Office of the Director of National Intelligence submitted t...</p></details>
    Published: June 25, 2021  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: disclosurearchives.com  
    Title: tic tac anatomy  
-   Link: <a href="https://www.disclosurearchives.com/briefings/tic-tac-anatomy" target="_blank" rel="noopener noreferrer nofollow">https://www.disclosurearchives.com/briefings/tic-tac-anatomy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Historical Record Report Volume I treats it as a benchmark case. Every...Read more...</p></details>
+   Link:<a href="https://www.disclosurearchives.com/briefings/tic-tac-anatomy" target="_blank" rel="noopener noreferrer nofollow">https://www.disclosurearchives.com/briefings/tic-tac-anatomy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Historical Record Report Volume I treats it as a benchmark case. Every...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: office of the director of national intelligence  
-   Link: <a href="https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena 25 June 2021: r/spaceThe report says: Most of the UAP reported probably do represent physical objects give...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena 25 June 2021: r/spaceThe report says: Most of the UAP reported probably do represent physical objects give...</p></details>
    Published: June 2021  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt32142098/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt32142098/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight Committee on UFO 2023Includes Background Commentary, Press Conference and Committee Hearing with Witnesses - Ryan Graves...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt32142098/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt32142098/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight Committee on UFO 2023Includes Background Commentary, Press Conference and Committee Hearing with Witnesses - Ryan Graves...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/journalsentinel/posts/the-defense-department-released-a-second-batch-of-previously-classified-files-on/1402877375209065/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/journalsentinel/posts/the-defense-department-released-a-second-batch-of-previously-classified-files-on/1402877375209065/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Milwaukee Journal SentinelThe Defense Department released a second batch of previously classified files on alleged UFO sightings, includi...</p></details>
+   Link:<a href="https://www.facebook.com/journalsentinel/posts/the-defense-department-released-a-second-batch-of-previously-classified-files-on/1402877375209065/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/journalsentinel/posts/the-defense-department-released-a-second-batch-of-previously-classified-files-on/1402877375209065/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Milwaukee Journal SentinelThe Defense Department released a second batch of previously classified files on alleged UFO sightings, includi...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/news/2023/07/ufo-hearing-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/07/ufo-hearing-congress</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The hearing featured testimonies from former Navy pilots Ryan Graves and David Fravor, as well as whistleblower and former intelligence o...</p></details>
+   Link:<a href="https://www.vanityfair.com/news/2023/07/ufo-hearing-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/07/ufo-hearing-congress</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The hearing featured testimonies from former Navy pilots Ryan Graves and David Fravor, as well as whistleblower and former intelligence o...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/news/2023/07/congressional-hearing-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/07/congressional-hearing-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Representatives, including Republican Tim Burchett, assert it is time to end the longstanding government secrecy surrounding unidentified...</p></details>
+   Link:<a href="https://www.vanityfair.com/news/2023/07/congressional-hearing-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/07/congressional-hearing-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Representatives, including Republican Tim Burchett, assert it is time to end the longstanding government secrecy surrounding unidentified...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/DepartmentofWar/posts/the-department-of-war-celebrates-the-launch-of-wargovufo-as-a-major-milestone-in/1428129306019997/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DepartmentofWar/posts/the-department-of-war-celebrates-the-launch-of-wargovufo-as-a-major-milestone-in/1428129306019997/</a>  
+   Link:<a href="https://www.facebook.com/DepartmentofWar/posts/the-department-of-war-celebrates-the-launch-of-wargovufo-as-a-major-milestone-in/1428129306019997/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DepartmentofWar/posts/the-department-of-war-celebrates-the-launch-of-wargovufo-as-a-major-milestone-in/1428129306019997/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The story behind the &quot;Tic Tac&quot; UFO sighting by Navy pilots...Jul 26, 2023 — A retired Navy fighter pilot testified about his experience...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The story behind the &quot;Tic Tac&quot; UFO sighting by Navy pilots...Jul 26, 2023 — A retired Navy fighter pilot testified about his experience...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nhpr.org  
-   Link: <a href="https://www.nhpr.org/nh-news/2023-07-26/former-navy-pilot-from-nh-asks-congress-for-more-oversight-of-government-ufo-programs" target="_blank" rel="noopener noreferrer nofollow">https://www.nhpr.org/nh-news/2023-07-26/former-navy-pilot-from-nh-asks-congress-for-more-oversight-of-government-ufo-programs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Navy pilot from NH testifies in Congressional UFO...26 Jul 2023 — Fravor said he was part of a crew that witnessed a small, white...</p></details>
+   Link:<a href="https://www.nhpr.org/nh-news/2023-07-26/former-navy-pilot-from-nh-asks-congress-for-more-oversight-of-government-ufo-programs" target="_blank" rel="noopener noreferrer nofollow">https://www.nhpr.org/nh-news/2023-07-26/former-navy-pilot-from-nh-asks-congress-for-more-oversight-of-government-ufo-programs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former Navy pilot from NH testifies in Congressional UFO...26 Jul 2023 — Fravor said he was part of a crew that witnessed a small, white...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40tod.sedbrook/fed-uap-secrets-into-an-ai-and-exposed-the-governments-control-machine-bdbb9448b28a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40tod.sedbrook/fed-uap-secrets-into-an-ai-and-exposed-the-governments-control-machine-bdbb9448b28a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I Fed UAP Secrets into an AI — And Exposed the...1. The 2021 ODNI Preliminary Assessment: The first UAP-related document that triggered...</p></details>
+   Link:<a href="https://medium.com/%40tod.sedbrook/fed-uap-secrets-into-an-ai-and-exposed-the-governments-control-machine-bdbb9448b28a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40tod.sedbrook/fed-uap-secrets-into-an-ai-and-exposed-the-governments-control-machine-bdbb9448b28a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I Fed UAP Secrets into an AI — And Exposed the...1. The 2021 ODNI Preliminary Assessment: The first UAP-related document that triggered...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ralphbuncheinstitute.org  
-   Link: <a href="https://ralphbuncheinstitute.org/preliminary-assessmentunidentified-aerial-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/preliminary-assessmentunidentified-aerial-phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This preliminary report is provided by the Office of the Director of National Intelligence (ODNI) in response to the...Read more...</p></details>
+   Link:<a href="https://ralphbuncheinstitute.org/preliminary-assessmentunidentified-aerial-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/preliminary-assessmentunidentified-aerial-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This preliminary report is provided by the Office of the Director of National Intelligence (ODNI) in response to the...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ndupress.ndu.edu  
    Title: cutting the chaff overlooked lessons of military uap sightings for joint force  
-   Link: <a href="https://ndupress.ndu.edu/Joint-Force-Quarterly/Joint-Force-Quarterly-110/Article/Article/3447233/cutting-the-chaff-overlooked-lessons-of-military-uap-sightings-for-joint-force/" target="_blank" rel="noopener noreferrer nofollow">https://ndupress.ndu.edu/Joint-Force-Quarterly/Joint-Force-Quarterly-110/Article/Article/3447233/cutting-the-chaff-overlooked-lessons-of-military-uap-sightings-for-joint-force/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lessons of Military UAP Sightings for Joint Force...7 Jul 2023 — According to the DNI&#x27;s 2021 UAP report, 11 percent of all military UAP...</p></details>
+   Link:<a href="https://ndupress.ndu.edu/Joint-Force-Quarterly/Joint-Force-Quarterly-110/Article/Article/3447233/cutting-the-chaff-overlooked-lessons-of-military-uap-sightings-for-joint-force/" target="_blank" rel="noopener noreferrer nofollow">https://ndupress.ndu.edu/Joint-Force-Quarterly/Joint-Force-Quarterly-110/Article/Article/3447233/cutting-the-chaff-overlooked-lessons-of-military-uap-sightings-for-joint-force/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lessons of Military UAP Sightings for Joint Force...7 Jul 2023 — According to the DNI&#x27;s 2021 UAP report, 11 percent of all military UAP...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: twz.com  
    Title: tic tac uap incident included in 72 newly released range incursion reports  
-   Link: <a href="https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tic Tac UAP Incident Included In Newly Released Range...13 Jan 2023 — The annual UAP report that ODNI released yesterday says that out o...</p></details>
+   Link:<a href="https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tic Tac UAP Incident Included In Newly Released Range...13 Jan 2023 — The annual UAP report that ODNI released yesterday says that out o...</p></details>

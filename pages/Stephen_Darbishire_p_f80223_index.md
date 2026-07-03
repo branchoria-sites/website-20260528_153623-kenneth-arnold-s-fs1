@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /stephen-darbishire-p-f80223-index/
 description: Focused pages that expand on Stephen Darbishire photograph 1954.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Stephen_Darbishire_p_f80223
 parent_title: Stephen Darbishire photograph 1954
@@ -16,7 +16,7 @@ parent_permalink: /stephen-darbishire-photograph-1954/
 
 # Explore Topics in Stephen Darbishire photograph 1954
 
-The following pages expand on the main **[Stephen Darbishire photograph 1954]({{ '/stephen-darbishire-photograph-1954/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Stephen Darbishire photograph 1954]({{ '/stephen-darbishire-photograph-1954/' | relative_url }})** page and cover its key branches in.
 
 - [Timeline & Media]({{ '/timeline-media/' | relative_url }})
 - [Debates & Theories]({{ '/debates-theories/' | relative_url }})

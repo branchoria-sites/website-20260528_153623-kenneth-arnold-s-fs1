@@ -753,32 +753,32 @@ image: /assets/images/Alan_Godfrey_encount_87fc0b-overview-social.jpg
 
 ## What Alan Godfrey said happened on Burnley Road
 
-Most accounts place the incident in the early hours of 28 November 1980, though some summaries date it to the early hours of 29 November, probably reflecting the overnight shift and later retellings. Godfrey, then a police constable in Todmorden, was reportedly looking into a call about loose cattle near a housing estate when he drove along Burnley Road and saw what he first took to be a bus skewed across the road. As he approached, he said it resolved into a large, hovering, diamond- or dome-like object, with a row of windows or panels and a rotating lower section. In one quoted account, he estimated it at about twenty feet wide and fourteen feet high, hovering roughly five feet above the road, close enough that the car’s headlights and blue beacon reflected from it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calderdalecompanion.co.uk/mmg222.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calderdalecompanion.co.uk">[Calderdale Companion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calderdalecompanion.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Most accounts place the incident in the early hours of 28 November 1980, though some summaries date it to the early hours of 29 November, probably reflecting the overnight shift and later retellings. Godfrey, then a police constable in Todmorden, was reportedly looking into a call about loose cattle near a housing estate when he drove along Burnley Road and saw what he first took to be a bus skewed across the road. As he approached, he said it resolved into a large, hovering, diamond- or dome-like object, with a row of windows or panels and a rotating lower section. In one quoted account, he estimated it at about twenty feet wide and fourteen feet high, hovering roughly five feet above the road, close enough that the car’s headlights and blue beacon reflected from it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calderdalecompanion.co.uk/mmg222.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calderdalecompanion.co.uk">[Calderdale Companion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calderdalecompanion.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Alan_Godfrey_encount_87fc0b-overview.webp" | relative_url }}" alt="Overview image for Alan Godfrey encounter 1980" loading="eager" decoding="sync" fetchpriority="high">
-The most memorable detail is not merely that Godfrey saw a light, but that he described a low, apparently solid object blocking the roadway. He said he tried to use his police radio and could not get through. He then made a sketch in his notebook. The next thing he remembered, according to the case tradition, was being farther along the road, with the object gone and a gap of roughly twenty to thirty minutes in his memory. Some accounts add a split boot, an irritated mark on one foot, and a dry patch of road where the object had allegedly been hovering despite recent rain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/2006/sep/25/news.past" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The most memorable detail is not merely that Godfrey saw a light, but that he described a low, apparently solid object blocking the roadway. He said he tried to use his police radio and could not get through. He then made a sketch in his notebook. The next thing he remembered, according to the case tradition, was being farther along the road, with the object gone and a gap of roughly twenty to thirty minutes in his memory. Some accounts add a split boot, an irritated mark on one foot, and a dry patch of road where the object had allegedly been hovering despite recent rain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/2006/sep/25/news.past" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 Those details give the case its evidential tension. A conventional “light in the sky” report can often be moved quickly into the categories of aircraft, meteor, lantern, planet, or misperception. Godfrey’s account is more difficult because it is a close-range, road-level encounter by a trained police witness who claimed to have made a contemporaneous drawing. At the same time, nearly every crucial feature after the first sighting — the missing time, the medical-like marks, and the later craft interior — depends heavily on Godfrey’s own memory and later recall rather than on independently preserved physical evidence.
 
 ## The chronology that makes the case hard to tidy up
 
-The encounter did not emerge in isolation. In June 1980, months before Godfrey’s UFO report, Zigmund Adamski, a missing Yorkshire miner, was found dead on a coal pile in Todmorden. The circumstances were strange enough to become part of local lore: reports describe missing personal items, odd burns or marks, and an unidentified substance or ointment-like material. Godfrey was one of the officers connected with the Adamski discovery, and later writers often pair the two incidents as the “Todmorden mystery”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.umbrellamagazine.co.uk/feature/chance-encounters-alien-abduction-in-the-pennines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: umbrellamagazine.co.uk">[Umbrella Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">umbrellamagazine.co.uk</span><span class="citation-popover-title">chance encounters alien abduction in the pennines</span><span class="citation-popover-snippet">chance encounters alien abduction in the pennines</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://scaredycatskeptic.co.uk/todmorden-ufo-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scaredycatskeptic.co.uk">[Scaredy Cat Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scaredycatskeptic.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The encounter did not emerge in isolation. In June 1980, months before Godfrey’s UFO report, Zigmund Adamski, a missing Yorkshire miner, was found dead on a coal pile in Todmorden. The circumstances were strange enough to become part of local lore: reports describe missing personal items, odd burns or marks, and an unidentified substance or ointment-like material. Godfrey was one of the officers connected with the Adamski discovery, and later writers often pair the two incidents as the “Todmorden mystery”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.umbrellamagazine.co.uk/feature/chance-encounters-alien-abduction-in-the-pennines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: umbrellamagazine.co.uk">[Umbrella Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">umbrellamagazine.co.uk</span><span class="citation-popover-title">chance encounters alien abduction in the pennines</span><span class="citation-popover-snippet">chance encounters alien abduction in the pennines</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://scaredycatskeptic.co.uk/todmorden-ufo-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scaredycatskeptic.co.uk">[Scaredy Cat Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scaredycatskeptic.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That pairing is understandable, but it is also where the case can become distorted. The Adamski death and the Godfrey encounter are close in place and year, and both involve the same police officer. Yet proximity is not proof of a shared cause. A 2025 Freedom of Information request to The National Archives asked, among other things, about records concerning Adamski, possible links with the Godfrey UFO sighting, and wider official interest. The National Archives replied that it was unable to find records there relating to Adamski’s death and noted that regional police and coroner records are not generally transferred to The National Archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.whatdotheyknow.com/request/freedom_of_information_request_r_447" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">Freedom of Information Request: Records concerning the death of Zigmund Adamski (June 1980, Todmorden) and related inquiries. - a Freedom...</span><span class="citation-popover-meta">Published: June 1980</span></span></span>
+That pairing is understandable, but it is also where the case can become distorted. The Adamski death and the Godfrey encounter are close in place and year, and both involve the same police officer. Yet proximity is not proof of a shared cause. A 2025 Freedom of Information request to The National Archives asked, among other things, about records concerning Adamski, possible links with the Godfrey UFO sighting, and wider official interest. The National Archives replied that it was unable to find records there relating to Adamski’s death and noted that regional police and coroner records are not generally transferred to The National Archives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.whatdotheyknow.com/request/freedom_of_information_request_r_447" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know</span><span class="citation-popover-snippet">Freedom of Information Request: Records concerning the death of Zigmund Adamski (June 1980, Todmorden) and related inquiries. - a Freedom...</span><span class="citation-popover-meta">Published: June 1980</span></span></span>
 
 The safer chronology is therefore: Adamski’s unexplained death occurred first; Godfrey later reported a separate UFO encounter while on duty; later media and UFO literature connected the two. That link is significant for understanding why Todmorden became a UFO hotspot in the public imagination, but it should not be treated as established evidence that one event caused, explained, or confirmed the other.
 
 <img src="{{ "/assets/images/Alan_Godfrey_encount_87fc0b-Illustration-1-dark.svg" | relative_url }}" alt="Alan Godfrey encounter 1980 illustration 1" data-theme-src-dark="{{ "/assets/images/Alan_Godfrey_encount_87fc0b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alan_Godfrey_encount_87fc0b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What counts as evidence, and what does not
 
-The most substantial evidence in the Godfrey case is testimonial. It begins with a named witness who was identifiable, professionally employed, and in a role where false or reckless reporting could carry social and career costs. Local histories and later case summaries consistently describe Godfrey as having been on duty, in a police car, and sufficiently disturbed by what he saw to tell colleagues and eventually attract press and UFO-investigator attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calderdalecompanion.co.uk/mmg222.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calderdalecompanion.co.uk">[Calderdale Companion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calderdalecompanion.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gold.ac.uk/calendar/?id=3234" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gold.ac.uk">[Goldsmiths, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gold.ac.uk</span><span class="citation-popover-snippet">Open source on gold.ac.uk.</span></span></span>
+The most substantial evidence in the Godfrey case is testimonial. It begins with a named witness who was identifiable, professionally employed, and in a role where false or reckless reporting could carry social and career costs. Local histories and later case summaries consistently describe Godfrey as having been on duty, in a police car, and sufficiently disturbed by what he saw to tell colleagues and eventually attract press and UFO-investigator attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calderdalecompanion.co.uk/mmg222.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calderdalecompanion.co.uk">[Calderdale Companion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calderdalecompanion.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gold.ac.uk/calendar/?id=3234" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gold.ac.uk">[Goldsmiths, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gold.ac.uk</span><span class="citation-popover-snippet">Open source on gold.ac.uk.</span></span></span>
 
 The claimed supporting evidence is more fragile:
 
 * **The sketch:** Godfrey’s drawing is often treated as near-contemporaneous, because he said he drew the object at the scene. If accurate, that matters: it would place a structured description before later media elaboration. But public retellings do not provide a clean chain of custody for the original notebook page.
 * **Radio failure:** The alleged failure of the police radio and personal communication equipment is suggestive, but not decisive. Radio black spots, equipment faults, and ordinary transmission problems would need to be ruled out before treating it as an anomalous effect.
-* **The dry road patch:** This is one of the case’s strongest physical-sounding claims, mentioned in accounts that say Godfrey returned with colleagues and found the area dry while the surrounding road was wet. Yet the evidential value depends on exact weather, drainage, traffic, timing, and documentation, which are not usually available in public summaries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2006/sep/25/news.past" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **Other witnesses:** Some retellings say other police officers or a bus driver saw strange lights around the same time. This would support the possibility that something unusual was in the area, but it does not automatically corroborate Godfrey’s close-range object, missing time, or abduction claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **The dry road patch:** This is one of the case’s strongest physical-sounding claims, mentioned in accounts that say Godfrey returned with colleagues and found the area dry while the surrounding road was wet. Yet the evidential value depends on exact weather, drainage, traffic, timing, and documentation, which are not usually available in public summaries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2006/sep/25/news.past" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Other witnesses:** Some retellings say other police officers or a bus driver saw strange lights around the same time. This would support the possibility that something unusual was in the area, but it does not automatically corroborate Godfrey’s close-range object, missing time, or abduction claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This distinction matters. A reasonable reader can accept that Godfrey may sincerely have seen something unusual without accepting every later layer of the story as equally well evidenced. The case is strongest as a close-encounter sighting with possible corroborating atmosphere; it becomes weaker as it moves towards detailed abduction claims.
 
@@ -786,20 +786,20 @@ This distinction matters. A reasonable reader can accept that Godfrey may sincer
 
 ## The hypnosis problem
 
-The abduction element entered the story after hypnotic regression. Under hypnosis, Godfrey reportedly described being blinded by light, losing consciousness, waking in a room, and being examined by small beings and a taller bearded figure. This is the part that made the case famous as an alleged British alien abduction, but it is also the part that deserves the most caution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://paulweatherhead.com/2022/01/10/on-seeing-things/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paulweatherhead.com">[Paul Weatherhead]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paulweatherhead.com</span><span class="citation-popover-title">on seeing things</span><span class="citation-popover-snippet">on seeing things</span></span></span>
+The abduction element entered the story after hypnotic regression. Under hypnosis, Godfrey reportedly described being blinded by light, losing consciousness, waking in a room, and being examined by small beings and a taller bearded figure. This is the part that made the case famous as an alleged British alien abduction, but it is also the part that deserves the most caution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://paulweatherhead.com/2022/01/10/on-seeing-things/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paulweatherhead.com">[Paul Weatherhead]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paulweatherhead.com</span><span class="citation-popover-title">on seeing things</span><span class="citation-popover-snippet">on seeing things</span></span></span>
 
-Hypnosis can feel compelling to the subject and audience, but it is not a reliable recorder of hidden events. It can increase confidence in memories without guaranteeing accuracy, and it is vulnerable to suggestion, expectation, and narrative filling-in. In Godfrey’s case, even sympathetic accounts often separate the initial sighting from the later hypnotic material, and one retrospective account notes that Godfrey himself remained cautious about the recovered “memories” even while maintaining that the original UFO sighting was real. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wearethemutants.com/2017/08/23/the-alan-godfrey-abduction-case-1980/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wearethemutants.com">[We Are the Mutants]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wearethemutants.com</span><span class="citation-popover-title">the alan godfrey abduction case 1980</span><span class="citation-popover-snippet">the alan godfrey abduction case 1980</span></span></span>
+Hypnosis can feel compelling to the subject and audience, but it is not a reliable recorder of hidden events. It can increase confidence in memories without guaranteeing accuracy, and it is vulnerable to suggestion, expectation, and narrative filling-in. In Godfrey’s case, even sympathetic accounts often separate the initial sighting from the later hypnotic material, and one retrospective account notes that Godfrey himself remained cautious about the recovered “memories” even while maintaining that the original UFO sighting was real.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wearethemutants.com/2017/08/23/the-alan-godfrey-abduction-case-1980/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wearethemutants.com">[We Are the Mutants]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wearethemutants.com</span><span class="citation-popover-title">the alan godfrey abduction case 1980</span><span class="citation-popover-snippet">the alan godfrey abduction case 1980</span></span></span>
 
-The content of the hypnotic recall also sits awkwardly with later popular expectations of alien abduction. The bearded figure sometimes called “Joseph”, the small entities, insect-like or robot-like attendants, and a black dog are striking, but their very strangeness cuts both ways. To believers, they suggest an experience too odd to be invented from standard UFO imagery. To sceptics, they suggest dreamlike, symbolic, or confabulated material rather than a literal event aboard a craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://paulweatherhead.com/2022/01/10/on-seeing-things/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paulweatherhead.com">[Paul Weatherhead]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paulweatherhead.com</span><span class="citation-popover-title">on seeing things</span><span class="citation-popover-snippet">on seeing things</span></span></span>
+The content of the hypnotic recall also sits awkwardly with later popular expectations of alien abduction. The bearded figure sometimes called “Joseph”, the small entities, insect-like or robot-like attendants, and a black dog are striking, but their very strangeness cuts both ways. To believers, they suggest an experience too odd to be invented from standard UFO imagery. To sceptics, they suggest dreamlike, symbolic, or confabulated material rather than a literal event aboard a craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://paulweatherhead.com/2022/01/10/on-seeing-things/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paulweatherhead.com">[Paul Weatherhead]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paulweatherhead.com</span><span class="citation-popover-title">on seeing things</span><span class="citation-popover-snippet">on seeing things</span></span></span>
 
 <img src="{{ "/assets/images/Alan_Godfrey_encount_87fc0b-Illustration-2-dark.svg" | relative_url }}" alt="Alan Godfrey encounter 1980 illustration 2" data-theme-src-dark="{{ "/assets/images/Alan_Godfrey_encount_87fc0b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alan_Godfrey_encount_87fc0b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official interest was real, but its meaning is often overstated
 
-The broader British official context is important. The Ministry of Defence did collect and assess UFO reports for decades, partly to determine whether sightings had any defence significance. The National Archives’ own release materials state that the final UFO files covered the last years of the MoD UFO desk, that the desk closed in November 2009, and that ministers were told no UFO sighting reported to the MoD in more than fifty years had revealed evidence of an extra-terrestrial presence or military threat to the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span>
+The broader British official context is important. The Ministry of Defence did collect and assess UFO reports for decades, partly to determine whether sightings had any defence significance. The National Archives’ own release materials state that the final UFO files covered the last years of the MoD UFO desk, that the desk closed in November 2009, and that ministers were told no UFO sighting reported to the MoD in more than fifty years had revealed evidence of an extra-terrestrial presence or military threat to the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">final tranche of UFO files released</span></span></span>
 
 That background cuts against two opposite mistakes. The first mistake is to say “the government investigated UFOs, therefore this case was alien.” Official logging or review does not prove extraordinary origin; it may simply mean an air-defence bureaucracy was checking whether reports indicated aircraft, weapons, misidentification, hoax, or no defence relevance. The second mistake is to say “the MoD found no alien threat, therefore Godfrey saw nothing.” A defence conclusion can leave individual sightings unresolved without endorsing them as extraterrestrial.
 
-Godfrey’s own story includes a more personal “man from the ministry” episode: he reportedly said he was summoned, confronted by a man in a dark suit, shown or told about a file, and warned under the Official Secrets Act not to talk. Some later accounts suggest this could have been an intelligence figure; others suggest a senior police or administrative attempt to contain embarrassing press attention, especially at a time when West Yorkshire Police were under intense scrutiny over other matters. The claim remains an important part of the narrative, but public evidence does not securely identify the man or prove a central-government cover-up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://scaredycatskeptic.co.uk/todmorden-ufo-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scaredycatskeptic.co.uk">[Scaredy Cat Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scaredycatskeptic.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Godfrey’s own story includes a more personal “man from the ministry” episode: he reportedly said he was summoned, confronted by a man in a dark suit, shown or told about a file, and warned under the Official Secrets Act not to talk. Some later accounts suggest this could have been an intelligence figure; others suggest a senior police or administrative attempt to contain embarrassing press attention, especially at a time when West Yorkshire Police were under intense scrutiny over other matters. The claim remains an important part of the narrative, but public evidence does not securely identify the man or prove a central-government cover-up.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://scaredycatskeptic.co.uk/todmorden-ufo-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scaredycatskeptic.co.uk">[Scaredy Cat Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scaredycatskeptic.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l8iEOpVCRDU" title="Most Amazing Alien Abduction Ever! | Paranormal Files E1 | Sci-Fi Central" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l8iEOpVCRDU" target="_blank" rel="noopener noreferrer">Most Amazing Alien Abduction Ever! | Paranormal Files E1 | Sci-Fi Central</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 24.2K &middot; Uploaded: January 2022 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l8iEOpVCRDU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l8iEOpVCRDU">Open on YouTube</a></p></div></div></div>
 
@@ -807,18 +807,18 @@ Godfrey’s own story includes a more personal “man from the ministry” episo
 
 The most serious sceptical explanations do not require treating Godfrey as dishonest. They focus on fatigue, altered consciousness, misperception, and local imagery.
 
-One possibility is that Godfrey, near the end of a night shift, entered a brief altered state while driving. Sceptical and local-history discussions have suggested exhaustion, a hallucination, a microsleep, or a mild neurological episode as possible mechanisms. That could explain the sudden discontinuity, the feeling of “missing time”, and a vivid visual episode that seemed external and solid. Paul Weatherhead’s discussion of the case goes further, arguing from reported earlier unusual experiences and from the claim that a later hypnotist thought Godfrey was not in a genuine trance. That is not a clinical diagnosis, but it is a plausible sceptical framework. <span class="citation-chip-wrap"><a class="citation-chip" href="https://paulweatherhead.com/2022/01/10/on-seeing-things/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paulweatherhead.com">[Paul Weatherhead]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paulweatherhead.com</span><span class="citation-popover-title">on seeing things</span><span class="citation-popover-snippet">on seeing things</span></span></span>
+One possibility is that Godfrey, near the end of a night shift, entered a brief altered state while driving. Sceptical and local-history discussions have suggested exhaustion, a hallucination, a microsleep, or a mild neurological episode as possible mechanisms. That could explain the sudden discontinuity, the feeling of “missing time”, and a vivid visual episode that seemed external and solid. Paul Weatherhead’s discussion of the case goes further, arguing from reported earlier unusual experiences and from the claim that a later hypnotist thought Godfrey was not in a genuine trance. That is not a clinical diagnosis, but it is a plausible sceptical framework.<span class="citation-chip-wrap"><a class="citation-chip" href="https://paulweatherhead.com/2022/01/10/on-seeing-things/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paulweatherhead.com">[Paul Weatherhead]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paulweatherhead.com</span><span class="citation-popover-title">on seeing things</span><span class="citation-popover-snippet">on seeing things</span></span></span>
 
-Another explanation centres on the physical form of the object. Todmorden had a real association with the Futuro House, a flying-saucer-like prefabricated structure designed by Finnish architect Matti Suuronen and locally manufactured under licence by Waterside Plastics. Some writers have proposed that the shape in Godfrey’s drawing may have been influenced by a familiar local object, consciously or unconsciously, especially if the actual trigger was something more mundane such as a bus, road lighting, swirling leaves, or a confusing night-time scene. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wearethemutants.com/2017/08/23/the-alan-godfrey-abduction-case-1980/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wearethemutants.com">[We Are the Mutants]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wearethemutants.com</span><span class="citation-popover-title">the alan godfrey abduction case 1980</span><span class="citation-popover-snippet">the alan godfrey abduction case 1980</span></span></span>
+Another explanation centres on the physical form of the object. Todmorden had a real association with the Futuro House, a flying-saucer-like prefabricated structure designed by Finnish architect Matti Suuronen and locally manufactured under licence by Waterside Plastics. Some writers have proposed that the shape in Godfrey’s drawing may have been influenced by a familiar local object, consciously or unconsciously, especially if the actual trigger was something more mundane such as a bus, road lighting, swirling leaves, or a confusing night-time scene.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wearethemutants.com/2017/08/23/the-alan-godfrey-abduction-case-1980/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wearethemutants.com">[We Are the Mutants]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wearethemutants.com</span><span class="citation-popover-title">the alan godfrey abduction case 1980</span><span class="citation-popover-snippet">the alan godfrey abduction case 1980</span></span></span>
 
 A third explanation is that there was a real but ordinary stimulus — an unusual vehicle, atmospheric effect, reflection, or light source — which Godfrey misread under difficult conditions. This does not neatly account for every reported feature, but it fits a common pattern in UFO cases: a sincere witness faces a brief, ambiguous stimulus; later memory, discussion, media interest, and investigation add structure and meaning.
 
 <img src="{{ "/assets/images/Alan_Godfrey_encount_87fc0b-Illustration-3-dark.svg" | relative_url }}" alt="Alan Godfrey encounter 1980 illustration 3" data-theme-src-dark="{{ "/assets/images/Alan_Godfrey_encount_87fc0b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alan_Godfrey_encount_87fc0b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why believers still find the case compelling
 
-The case continues to attract interest because it resists easy dismissal at the level of the first sighting. Godfrey was not an anonymous witness. He was a uniformed officer on duty, giving an account tied to a specific road, time, vehicle, drawing, and later professional consequences. The claim that other officers saw unusual lights in the area, if accurately reported, also makes the incident feel less isolated than a private story told years later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gold.ac.uk/calendar/?id=3234" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gold.ac.uk">[Goldsmiths, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gold.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The case continues to attract interest because it resists easy dismissal at the level of the first sighting. Godfrey was not an anonymous witness. He was a uniformed officer on duty, giving an account tied to a specific road, time, vehicle, drawing, and later professional consequences. The claim that other officers saw unusual lights in the area, if accurately reported, also makes the incident feel less isolated than a private story told years later.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gold.ac.uk/calendar/?id=3234" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gold.ac.uk">[Goldsmiths, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gold.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-There is also a human reason the case endures. Godfrey’s story is not simply “a man saw a UFO”; it is about what happens when a respectable witness reports something socially unacceptable. Later accounts describe ridicule, pressure, transfer, and attempts to undermine him. Whether every detail of those consequences is fully documented or not, the broad pattern is familiar in controversial witness cases: the witness’s credibility becomes the battleground, sometimes more than the event itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.umbrellamagazine.co.uk/feature/chance-encounters-alien-abduction-in-the-pennines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: umbrellamagazine.co.uk">[Umbrella Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">umbrellamagazine.co.uk</span><span class="citation-popover-title">chance encounters alien abduction in the pennines</span><span class="citation-popover-snippet">chance encounters alien abduction in the pennines</span></span></span>
+There is also a human reason the case endures. Godfrey’s story is not simply “a man saw a UFO”; it is about what happens when a respectable witness reports something socially unacceptable. Later accounts describe ridicule, pressure, transfer, and attempts to undermine him. Whether every detail of those consequences is fully documented or not, the broad pattern is familiar in controversial witness cases: the witness’s credibility becomes the battleground, sometimes more than the event itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.umbrellamagazine.co.uk/feature/chance-encounters-alien-abduction-in-the-pennines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: umbrellamagazine.co.uk">[Umbrella Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">umbrellamagazine.co.uk</span><span class="citation-popover-title">chance encounters alien abduction in the pennines</span><span class="citation-popover-snippet">chance encounters alien abduction in the pennines</span></span></span>
 
 For readers of the wider Todmorden dossier, the encounter also sits close to sibling branches: the Adamski death, the local “UFO hotspot” reputation, later artistic and documentary treatments, and comparisons with other British police or military UFO reports. Those links are useful for context, but the Godfrey page should keep the evidential lines separate: a strong local mythology is not the same as a solved case.
 
@@ -826,201 +826,201 @@ For readers of the wider Todmorden dossier, the encounter also sits close to sib
 
 ## A balanced assessment
 
-The most defensible conclusion is that Alan Godfrey reported a sincere and disturbing close encounter, but the available public record does not establish an extraterrestrial abduction. The immediate sighting has several features that make it more substantial than a casual light-in-the-sky report: a named police witness, a specific location, a structured object description, an alleged sketch, and reported anomalies afterwards. The later abduction account is much less secure because it depends heavily on hypnosis, a method poorly suited to proving hidden memories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calderdalecompanion.co.uk/mmg222.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calderdalecompanion.co.uk">[Calderdale Companion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calderdalecompanion.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most defensible conclusion is that Alan Godfrey reported a sincere and disturbing close encounter, but the available public record does not establish an extraterrestrial abduction. The immediate sighting has several features that make it more substantial than a casual light-in-the-sky report: a named police witness, a specific location, a structured object description, an alleged sketch, and reported anomalies afterwards. The later abduction account is much less secure because it depends heavily on hypnosis, a method poorly suited to proving hidden memories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calderdalecompanion.co.uk/mmg222.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calderdalecompanion.co.uk">[Calderdale Companion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calderdalecompanion.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The official-record angle is similarly mixed. British authorities did collect UFO reports, and The National Archives has released large bodies of MoD UFO material; however, the official position by the time the UFO desk closed was that reported sightings had not revealed evidence of an extra-terrestrial presence or a military threat to the UK. A recent FOI trail concerning Adamski and possible related records also shows how thin the documentary base can be when researchers look for hard archival confirmation beyond the popular case narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 research guide</span><span class="citation-popover-snippet">aug 2009 research guide</span></span></span>
+The official-record angle is similarly mixed. British authorities did collect UFO reports, and The National Archives has released large bodies of MoD UFO material; however, the official position by the time the UFO desk closed was that reported sightings had not revealed evidence of an extra-terrestrial presence or a military threat to the UK. A recent FOI trail concerning Adamski and possible related records also shows how thin the documentary base can be when researchers look for hard archival confirmation beyond the popular case narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[cdn.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 research guide</span><span class="citation-popover-snippet">aug 2009 research guide</span></span></span>
 
 The Alan Godfrey encounter therefore remains best understood as an unresolved witness-centred case rather than a proven abduction. Its lasting value lies in the questions it raises about memory, police testimony, local folklore, official secrecy, and the way a single night on a West Yorkshire road became one of the defining British UFO stories of 1980.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened on Burnley Road?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened on Burnley Road?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Search+for+Truth+Alan+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Search for Truth on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Search+for+Truth+Alan+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Search for Truth">UFO: The Search for Truth</a>
-        </h4>
-        <p class="fr-book-author">By Alan Godfrey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Search+for+Truth+Alan+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Search for Truth on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Search+for+Truth+Alan+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Search for Truth">UFO: The Search for Truth</a>
+</h4>
+<p class="fr-book-author">By Alan Godfrey</p>
         
-        <p class="fr-book-desc">The primary source autobiography covering his police career, the 1980 diamond-shaped craft sighting, and the aftermath.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Search+for+Truth+Alan+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">The primary source autobiography covering his police career, the 1980 diamond-shaped craft sighting, and the aftermath.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Search+for+Truth+Alan+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=New+hope+for+the+arthritic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open New hope for the arthritic on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=New+hope+for+the+arthritic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="New hope for the arthritic">New hope for the arthritic</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=New+hope+for+the+arthritic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open New hope for the arthritic on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=New+hope+for+the+arthritic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="New hope for the arthritic">New hope for the arthritic</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Devotes major chapters directly to Alan Godfrey&#x27;s sighting, his police background, and the adjacent Zigmund Adamski death investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=New+hope+for+the+arthritic&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Devotes major chapters directly to Alan Godfrey&#x27;s sighting, his police background, and the adjacent Zigmund Adamski death investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=New+hope+for+the+arthritic&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Pennine+UFO+Mystery+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pennine UFO Mystery on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pennine+UFO+Mystery+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pennine UFO Mystery">The Pennine UFO Mystery</a>
-        </h4>
-        <p class="fr-book-author">By Jenny Randles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Pennine+UFO+Mystery+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pennine UFO Mystery on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pennine+UFO+Mystery+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pennine UFO Mystery">The Pennine UFO Mystery</a>
+</h4>
+<p class="fr-book-author">By Jenny Randles</p>
         
-        <p class="fr-book-desc">Devotes major chapters directly to Alan Godfrey&#x27;s sighting, his police background, and the adjacent Zigmund Adamski death investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pennine+UFO+Mystery+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Devotes major chapters directly to Alan Godfrey&#x27;s sighting, his police background, and the adjacent Zigmund Adamski death investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pennine+UFO+Mystery+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Without+Consent+Philip+Mantle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Without Consent on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Without+Consent+Philip+Mantle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Without Consent">Without Consent</a>
-        </h4>
-        <p class="fr-book-author">By Philip Mantle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Without+Consent+Philip+Mantle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Without Consent on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Without+Consent+Philip+Mantle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Without Consent">Without Consent</a>
+</h4>
+<p class="fr-book-author">By Philip Mantle</p>
         
-        <p class="fr-book-desc">Features extensive research on the hypnotic sessions, physical tracing anomalies, and police reporting regarding the Todmorden event.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Without+Consent+Philip+Mantle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Features extensive research on the hypnotic sessions, physical tracing anomalies, and police reporting regarding the Todmorden event.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Without+Consent+Philip+Mantle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Search+for+Truth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Search for Truth</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=New+hope+for+the+arthritic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">New hope for the arthritic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pennine+UFO+Mystery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pennine UFO Mystery</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Search+for+Truth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Search for Truth</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=New+hope+for+the+arthritic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">New hope for the arthritic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pennine+UFO+Mystery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pennine UFO Mystery</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-burnley-road-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-on-burnley-road-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1036,7 +1036,7 @@ The Alan Godfrey encounter therefore remains best understood as an unresolved wi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1056,7 +1056,7 @@ The Alan Godfrey encounter therefore remains best understood as an unresolved wi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1088,7 +1088,7 @@ The Alan Godfrey encounter therefore remains best understood as an unresolved wi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1140,7 +1140,7 @@ The Alan Godfrey encounter therefore remains best understood as an unresolved wi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1185,7 +1185,7 @@ The Alan Godfrey encounter therefore remains best understood as an unresolved wi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1223,138 +1223,137 @@ The Alan Godfrey encounter therefore remains best understood as an unresolved wi
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: whatdotheyknow.com  
    Title: What Do They Know  
-   Link: <a href="https://www.whatdotheyknow.com/request/freedom_of_information_request_r_447" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/freedom_of_information_request_r_447</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Freedom of Information Request: Records concerning the death of Zigmund Adamski (June 1980, Todmorden) and related inquiries. - a Freedom...</p></details>
+   Link:<a href="https://www.whatdotheyknow.com/request/freedom_of_information_request_r_447" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/freedom_of_information_request_r_447</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Freedom of Information Request: Records concerning the death of Zigmund Adamski (June 1980, Todmorden) and related inquiries. - a Freedom...</p></details>
    Published: June 1980  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: final tranche of UFO files released  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2009 research guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2009 highlights guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: calderdalecompanion.co.uk  
-   Link: <a href="https://www.calderdalecompanion.co.uk/mmg222.html" target="_blank" rel="noopener noreferrer nofollow">https://www.calderdalecompanion.co.uk/mmg222.html</a>  
+   Link:<a href="https://www.calderdalecompanion.co.uk/mmg222.html" target="_blank" rel="noopener noreferrer nofollow">https://www.calderdalecompanion.co.uk/mmg222.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: umbrellamagazine.co.uk  
    Title: chance encounters alien abduction in the pennines  
-   Link: <a href="https://www.umbrellamagazine.co.uk/feature/chance-encounters-alien-abduction-in-the-pennines" target="_blank" rel="noopener noreferrer nofollow">https://www.umbrellamagazine.co.uk/feature/chance-encounters-alien-abduction-in-the-pennines</a>  
+   Link:<a href="https://www.umbrellamagazine.co.uk/feature/chance-encounters-alien-abduction-in-the-pennines" target="_blank" rel="noopener noreferrer nofollow">https://www.umbrellamagazine.co.uk/feature/chance-encounters-alien-abduction-in-the-pennines</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: gold.ac.uk  
-   Link: <a href="https://www.gold.ac.uk/calendar/?id=3234" target="_blank" rel="noopener noreferrer nofollow">https://www.gold.ac.uk/calendar/?id=3234</a>  
+   Link:<a href="https://www.gold.ac.uk/calendar/?id=3234" target="_blank" rel="noopener noreferrer nofollow">https://www.gold.ac.uk/calendar/?id=3234</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire</a>  
+   Link:<a href="https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2006/sep/25/news.past" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2006/sep/25/news.past</a>  
+   Link:<a href="https://www.theguardian.com/technology/2006/sep/25/news.past" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2006/sep/25/news.past</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scaredycatskeptic.co.uk  
-   Link: <a href="https://scaredycatskeptic.co.uk/todmorden-ufo-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://scaredycatskeptic.co.uk/todmorden-ufo-abduction/</a>  
+   Link:<a href="https://scaredycatskeptic.co.uk/todmorden-ufo-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://scaredycatskeptic.co.uk/todmorden-ufo-abduction/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: paulweatherhead.com  
    Title: on seeing things  
-   Link: <a href="https://paulweatherhead.com/2022/01/10/on-seeing-things/" target="_blank" rel="noopener noreferrer nofollow">https://paulweatherhead.com/2022/01/10/on-seeing-things/</a>  
+   Link:<a href="https://paulweatherhead.com/2022/01/10/on-seeing-things/" target="_blank" rel="noopener noreferrer nofollow">https://paulweatherhead.com/2022/01/10/on-seeing-things/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: wearethemutants.com  
    Title: the alan godfrey abduction case 1980  
-   Link: <a href="https://wearethemutants.com/2017/08/23/the-alan-godfrey-abduction-case-1980/" target="_blank" rel="noopener noreferrer nofollow">https://wearethemutants.com/2017/08/23/the-alan-godfrey-abduction-case-1980/</a>  
+   Link:<a href="https://wearethemutants.com/2017/08/23/the-alan-godfrey-abduction-case-1980/" target="_blank" rel="noopener noreferrer nofollow">https://wearethemutants.com/2017/08/23/the-alan-godfrey-abduction-case-1980/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: calderdalelocalstudies.blog  
    Title: alan godfrey  
-   Link: <a href="https://www.calderdalelocalstudies.blog/post/alan-godfrey" target="_blank" rel="noopener noreferrer nofollow">https://www.calderdalelocalstudies.blog/post/alan-godfrey</a>  
+   Link:<a href="https://www.calderdalelocalstudies.blog/post/alan-godfrey" target="_blank" rel="noopener noreferrer nofollow">https://www.calderdalelocalstudies.blog/post/alan-godfrey</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
    Title: ufo sightings x files  
-   Link: <a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
+   Link:<a href="https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2009/aug/17/ufo-sightings-x-files</a>  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=48JJ7zwKusc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=48JJ7zwKusc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nobody Knows How This Man Disappeared in 1980 - Mysterious Discovery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=48JJ7zwKusc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=48JJ7zwKusc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nobody Knows How This Man Disappeared in 1980 - Mysterious Discovery...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: The Bizarre Death of Zigmund Adamski: UFO Cover-Up or Cold Case?  
-   Link: <a href="https://www.youtube.com/watch?v=BkuRqikJjhA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BkuRqikJjhA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Abduction of Policeman Alan Godfrey. 1980. Todmorden UFO Files. Part 2...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BkuRqikJjhA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BkuRqikJjhA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Abduction of Policeman Alan Godfrey. 1980. Todmorden UFO Files. Part 2...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=1V8UWUR-VcA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1V8UWUR-VcA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident: A Military Mystery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1V8UWUR-VcA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1V8UWUR-VcA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident: A Military Mystery...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: An Alien Abduction Story | Paranormal Files E1  
-   Link: <a href="https://www.youtube.com/watch?v=l8iEOpVCRDU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l8iEOpVCRDU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bizarre Death of Zigmund Adamski: UFO Cover-Up or Cold Case?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l8iEOpVCRDU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l8iEOpVCRDU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Bizarre Death of Zigmund Adamski: UFO Cover-Up or Cold Case?...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/WHAT-were-THEY-Alan-Godfrey/dp/1788081595" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/WHAT-were-THEY-Alan-Godfrey/dp/1788081595</a>  
+   Link:<a href="https://www.amazon.co.uk/WHAT-were-THEY-Alan-Godfrey/dp/1788081595" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/WHAT-were-THEY-Alan-Godfrey/dp/1788081595</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: rikmoranphoto.com  
-   Link: <a href="https://rikmoranphoto.com/chance-encounters" target="_blank" rel="noopener noreferrer nofollow">https://rikmoranphoto.com/chance-encounters</a>  
+   Link:<a href="https://rikmoranphoto.com/chance-encounters" target="_blank" rel="noopener noreferrer nofollow">https://rikmoranphoto.com/chance-encounters</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LeedsBBC/posts/how-did-todmorden-find-itself-at-the-centre-of-the-ufo-world/848684857276087/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LeedsBBC/posts/how-did-todmorden-find-itself-at-the-centre-of-the-ufo-world/848684857276087/</a>  
+   Link:<a href="https://www.facebook.com/LeedsBBC/posts/how-did-todmorden-find-itself-at-the-centre-of-the-ufo-world/848684857276087/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LeedsBBC/posts/how-did-todmorden-find-itself-at-the-centre-of-the-ufo-world/848684857276087/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ufoevidence.org  
-   Link: <a href="https://www.ufoevidence.org/cases/case722.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case722.htm</a>  
+   Link:<a href="https://www.ufoevidence.org/cases/case722.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case722.htm</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/unexplainedpodcast/posts/returning-to-the-town-of-todmorden-england-we-find-pc-alan-godfrey-about-to-vent/3226697350949918/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unexplainedpodcast/posts/returning-to-the-town-of-todmorden-england-we-find-pc-alan-godfrey-about-to-vent/3226697350949918/</a>  
+   Link:<a href="https://www.facebook.com/unexplainedpodcast/posts/returning-to-the-town-of-todmorden-england-we-find-pc-alan-godfrey-about-to-vent/3226697350949918/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unexplainedpodcast/posts/returning-to-the-town-of-todmorden-england-we-find-pc-alan-godfrey-about-to-vent/3226697350949918/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ParanormalFilesuk/posts/the-alan-godfrey-alien-abduction-the-alan-godfrey-alien-abduction-incident-is-a-/814569583984076/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ParanormalFilesuk/posts/the-alan-godfrey-alien-abduction-the-alan-godfrey-alien-abduction-incident-is-a-/814569583984076/</a>
+   Link:<a href="https://www.facebook.com/ParanormalFilesuk/posts/the-alan-godfrey-alien-abduction-the-alan-godfrey-alien-abduction-incident-is-a-/814569583984076/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ParanormalFilesuk/posts/the-alan-godfrey-alien-abduction-the-alan-godfrey-alien-abduction-incident-is-a-/814569583984076/</a>

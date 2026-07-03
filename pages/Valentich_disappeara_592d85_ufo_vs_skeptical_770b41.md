@@ -242,14 +242,14 @@ image: /assets/images/Valentich_disappeara_592d85_ufo_vs_skeptical_770b41-Illust
 
 ## Introduction
 
-The enduring fascination of the 1978 Valentich disappearance comes from a simple tension: the final radio exchange sounds extraordinary, yet the physical evidence remains thin. Frederick Valentich described bright lights, a metallic object and erratic movement shortly before vanishing over Bass Strait, but no confirmed UFO evidence was ever recovered. The official Australian investigation did not endorse an extraterrestrial explanation; instead, it concluded that the cause could not be determined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
+The enduring fascination of the 1978 Valentich disappearance comes from a simple tension: the final radio exchange sounds extraordinary, yet the physical evidence remains thin. Frederick Valentich described bright lights, a metallic object and erratic movement shortly before vanishing over Bass Strait, but no confirmed UFO evidence was ever recovered. The official Australian investigation did not endorse an extraterrestrial explanation; instead, it concluded that the cause could not be determined.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
 
 <img src="{{ "/assets/images/Valentich_disappeara_592d85_ufo_vs_skeptical_770b41-Illustration-1-dark.svg" | relative_url }}" alt="UFO Debate illustration 1" data-theme-src-dark="{{ "/assets/images/Valentich_disappeara_592d85_ufo_vs_skeptical_770b41-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Valentich_disappeara_592d85_ufo_vs_skeptical_770b41-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That ambiguity created two competing narratives. UFO advocates treat Valentich’s last transmission as evidence that he encountered something genuinely unknown. Skeptics argue that the same transmission can be explained through aviation psychology, night-flight illusion and pilot disorientation. The debate persists because the case contains enough unusual detail to resist a tidy conclusion, while lacking the hard evidence needed to confirm extraordinary claims.
 
 ## Why the final transmission sounds convincing
 
-One reason the UFO interpretation spread so widely is that Valentich’s words sound immediate and emotionally genuine. He was not calmly reporting a distant light. He described an object apparently manoeuvring around him, “playing some sort of game”, with bright lights and a green glow. Near the end of the exchange he stated: “It’s not an aircraft.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spatial_disorientation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spatial disorientation</span><span class="citation-popover-snippet">Spatial disorientation</span></span></span>
+One reason the UFO interpretation spread so widely is that Valentich’s words sound immediate and emotionally genuine. He was not calmly reporting a distant light. He described an object apparently manoeuvring around him, “playing some sort of game”, with bright lights and a green glow. Near the end of the exchange he stated: “It’s not an aircraft.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spatial_disorientation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spatial disorientation</span><span class="citation-popover-snippet">Spatial disorientation</span></span></span>
 
 The transmission also unfolded in real time with air traffic services listening. That gave the event an authenticity many UFO stories lack. There was no long delay between alleged observation and report. Listeners heard confusion developing live over the radio.
 
@@ -261,7 +261,7 @@ Several additional details strengthened the UFO mythology over time:
 * No wreckage was conclusively recovered during the initial search.
 * Bass Strait already had a reputation in popular culture as a mysterious region.
 * Reports of unusual lights in the sky surfaced after the disappearance.
-* The recording ended with unexplained metallic noises. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Desaparici%C3%B3n_de_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Desaparición de Frederick Valentich</span><span class="citation-popover-snippet">Desaparición de Frederick Valentich</span></span></span>
+* The recording ended with unexplained metallic noises.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Desaparici%C3%B3n_de_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Desaparición de Frederick Valentich</span><span class="citation-popover-snippet">Desaparición de Frederick Valentich</span></span></span>
 
 </div>
 
@@ -273,15 +273,15 @@ The strongest skeptical explanation does not require a hoax or deliberate fabric
 
 ### Why Bass Strait was a dangerous visual environment
 
-Night flying over open water can be deceptively difficult even in good weather. Without a clear visible horizon, pilots can lose reliable orientation cues. Human balance and motion perception are poorly adapted to dark, featureless environments, especially when visual references disappear. Aviation medicine describes this as spatial disorientation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
+Night flying over open water can be deceptively difficult even in good weather. Without a clear visible horizon, pilots can lose reliable orientation cues. Human balance and motion perception are poorly adapted to dark, featureless environments, especially when visual references disappear. Aviation medicine describes this as spatial disorientation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
 
 The danger is not simply “getting lost”. A pilot can genuinely feel level while the aircraft is actually banking or descending. In some cases, a gradual turn tightens unnoticed into a fatal spiral dive.
 
-Skeptical investigators James McGaha and Joe Nickell argued that the Valentich case fits this pattern closely. Their reconstruction proposed that the “orbiting” object may actually have reflected Valentich’s own turning aircraft. As he banked and corrected, celestial objects could appear to move relative to him in confusing ways. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Valentich Disappearance: Another UFO Cold Case...The missing piece of the puzzle in a strange &#x27;UFO&#x27; case involving...</span></span></span>
+Skeptical investigators James McGaha and Joe Nickell argued that the Valentich case fits this pattern closely. Their reconstruction proposed that the “orbiting” object may actually have reflected Valentich’s own turning aircraft. As he banked and corrected, celestial objects could appear to move relative to him in confusing ways.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Valentich Disappearance: Another UFO Cold Case...The missing piece of the puzzle in a strange &#x27;UFO&#x27; case involving...</span></span></span>
 
 ### The astronomy explanation
 
-One of the most detailed skeptical interpretations identifies the “UFO” as a combination of bright celestial bodies visible at the time. McGaha and Nickell argued that Venus, Mars, Mercury and the star Antares could collectively account for the bright lights Valentich described. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Valentich Disappearance: Another UFO Cold Case...The missing piece of the puzzle in a strange &#x27;UFO&#x27; case involving...</span></span></span>
+One of the most detailed skeptical interpretations identifies the “UFO” as a combination of bright celestial bodies visible at the time. McGaha and Nickell argued that Venus, Mars, Mercury and the star Antares could collectively account for the bright lights Valentich described.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Valentich Disappearance: Another UFO Cold Case...The missing piece of the puzzle in a strange &#x27;UFO&#x27; case involving...</span></span></span>
 
 This explanation matters because the transcript repeatedly references lights rather than a clearly resolved structure. Valentich initially compared them to landing lights and struggled to identify shape or distance. Under night conditions over water, bright planets near the horizon can appear unusually large, unstable or mobile, particularly to an already anxious observer.
 
@@ -291,7 +291,7 @@ The “green light” detail is often treated as highly mysterious by UFO propon
 
 ### Expectation bias and prior UFO beliefs
 
-Valentich’s pre-existing interest in UFOs is one of the most debated parts of the case. According to accounts cited in later reporting, he had spoken before the flight about fears or expectations involving UFOs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spatial_disorientation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spatial disorientation</span><span class="citation-popover-snippet">Spatial disorientation</span></span></span>
+Valentich’s pre-existing interest in UFOs is one of the most debated parts of the case. According to accounts cited in later reporting, he had spoken before the flight about fears or expectations involving UFOs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spatial_disorientation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spatial disorientation</span><span class="citation-popover-snippet">Spatial disorientation</span></span></span>
 
 Skeptics see this as psychologically important rather than merely biographical. Expectation bias can shape interpretation under ambiguous conditions. If a pilot already believes UFO encounters are plausible, uncertain lights may be interpreted as intelligent craft rather than navigational or astronomical phenomena.
 
@@ -299,11 +299,11 @@ That does not mean Valentich invented the experience. In skeptical analysis, the
 
 ## The “graveyard spiral” theory
 
-Among skeptical explanations, the most technically developed is the graveyard spiral scenario. In aviation, a graveyard spiral occurs when a pilot gradually enters a banking turn without recognising it, often at night or in poor visual conditions. The body’s inner-ear system stops detecting the turn after a period of constant motion, creating the illusion of straight and level flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Desaparici%C3%B3n_de_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Desaparición de Frederick Valentich</span><span class="citation-popover-snippet">Desaparición de Frederick Valentich</span></span></span>
+Among skeptical explanations, the most technically developed is the graveyard spiral scenario. In aviation, a graveyard spiral occurs when a pilot gradually enters a banking turn without recognising it, often at night or in poor visual conditions. The body’s inner-ear system stops detecting the turn after a period of constant motion, creating the illusion of straight and level flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Desaparici%C3%B3n_de_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Desaparición de Frederick Valentich</span><span class="citation-popover-snippet">Desaparición de Frederick Valentich</span></span></span>
 
 When the pilot later notices altitude loss and attempts correction, the turn can tighten further. The result is a descending spiral that may feel psychologically stable even while becoming fatal.
 
-McGaha and Nickell proposed that Valentich’s comments about “orbiting” and engine roughness align with this pattern. In a tightening spiral, fuel flow interruptions and changing forces on the aircraft can produce rough engine behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Valentich Disappearance: Another UFO Cold Case...The missing piece of the puzzle in a strange &#x27;UFO&#x27; case involving...</span></span></span>
+McGaha and Nickell proposed that Valentich’s comments about “orbiting” and engine roughness align with this pattern. In a tightening spiral, fuel flow interruptions and changing forces on the aircraft can produce rough engine behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Valentich Disappearance: Another UFO Cold Case...The missing piece of the puzzle in a strange &#x27;UFO&#x27; case involving...</span></span></span>
 
 This theory also attempts to explain several otherwise puzzling elements at once:
 
@@ -313,7 +313,7 @@ This theory also attempts to explain several otherwise puzzling elements at once
 * why he sounded increasingly confused;
 * why there was no distress call describing a conventional emergency;
 * why the aircraft vanished abruptly;
-* why no confirmed radar target supported the presence of another craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Desaparici%C3%B3n_de_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Desaparición de Frederick Valentich</span><span class="citation-popover-snippet">Desaparición de Frederick Valentich</span></span></span>
+* why no confirmed radar target supported the presence of another craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Desaparici%C3%B3n_de_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Desaparición de Frederick Valentich</span><span class="citation-popover-snippet">Desaparición de Frederick Valentich</span></span></span>
 
 </div>
 
@@ -326,11 +326,11 @@ Even though skeptical explanations are technically plausible, they never fully d
 
 ### The unresolved status helped the mystery survive
 
-The official investigation did not conclusively prove spatial disorientation. The Department of Transport simply stated that the cause could not be determined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/B1497_V116-783-1047_10491375.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">etlt-17 /r7 OF TRANSPORTReport on their investigation into the disappearance of pilot Frederick. Valentich on October 21st,1978 over the...</span></span></span>
+The official investigation did not conclusively prove spatial disorientation. The Department of Transport simply stated that the cause could not be determined.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/australia/B1497_V116-783-1047_10491375.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">etlt-17 /r7 OF TRANSPORTReport on their investigation into the disappearance of pilot Frederick. Valentich on October 21st,1978 over the...</span></span></span>
 
 That wording left interpretive space open. UFO advocates often present the absence of a definitive conventional explanation as indirect support for an extraordinary one.
 
-The lack of recovered wreckage during the initial search also mattered psychologically. In many aviation accidents, debris provides closure. Here, the sea yielded almost nothing immediately after the disappearance. A possible cowl flap linked to the aircraft type appeared years later, but not enough material was recovered to reconstruct the accident fully. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Desaparici%C3%B3n_de_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Desaparición de Frederick Valentich</span><span class="citation-popover-snippet">Desaparición de Frederick Valentich</span></span></span>
+The lack of recovered wreckage during the initial search also mattered psychologically. In many aviation accidents, debris provides closure. Here, the sea yielded almost nothing immediately after the disappearance. A possible cowl flap linked to the aircraft type appeared years later, but not enough material was recovered to reconstruct the accident fully.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Desaparici%C3%B3n_de_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Desaparición de Frederick Valentich</span><span class="citation-popover-snippet">Desaparición de Frederick Valentich</span></span></span>
 
 ### The recording itself became cultural evidence
 
@@ -367,7 +367,7 @@ Skeptical readings emphasise:
 * his history of aviation difficulties;
 * his UFO expectations before the flight;
 * the psychological risks of night visual flying over water;
-* the absence of radar or physical evidence for another craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Valentich Disappearance: Another UFO Cold Case...The missing piece of the puzzle in a strange &#x27;UFO&#x27; case involving...</span></span></span>
+* the absence of radar or physical evidence for another craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerThe Valentich Disappearance: Another UFO Cold Case...The missing piece of the puzzle in a strange &#x27;UFO&#x27; case involving...</span></span></span>
 
 </div>
 
@@ -400,194 +400,194 @@ That unresolved middle ground explains why the Valentich disappearance still occ
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6LNnWxi_lw4" title="UFOs or PILOT error? | The Disappearance of Frederick Valentich" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6LNnWxi_lw4" target="_blank" rel="noopener noreferrer">UFOs or PILOT error? | The Disappearance of Frederick Valentich</a></p><p class="youtube-embed-meta">Channel: Bearing Unknown &middot; Views: 2.1K &middot; Uploaded: December 2025 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6LNnWxi_lw4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6LNnWxi_lw4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to UFO Encounter or Fatal Misreading?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to UFO Encounter or Fatal Misreading?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Provides institutional background on how air-traffic investigation agencies historically handle cases involving missing aircraft.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides institutional background on how air-traffic investigation agencies historically handle cases involving missing aircraft.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides an objective case-file entry for the Valentich disappearance, summarizing the radio evidence and the competing aviation-psycholo...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides an objective case-file entry for the Valentich disappearance, summarizing the radio evidence and the competing aviation-psycholo...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches forensic standards for evaluating testimony in ambiguous, high-stress scenarios like night-flight emergencies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches forensic standards for evaluating testimony in ambiguous, high-stress scenarios like night-flight emergencies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Details why spatial disorientation and expectation bias in pilots can lead to genuine, if incorrect, perceptions of external craft.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details why spatial disorientation and expectation bias in pilots can lead to genuine, if incorrect, perceptions of external craft.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-encounter-or-fatal-misreading-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-encounter-or-fatal-misreading-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -603,7 +603,7 @@ That unresolved middle ground explains why the Valentich disappearance still occ
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -623,7 +623,7 @@ That unresolved middle ground explains why the Valentich disappearance still occ
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -655,7 +655,7 @@ That unresolved middle ground explains why the Valentich disappearance still occ
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -707,7 +707,7 @@ That unresolved middle ground explains why the Valentich disappearance still occ
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -752,7 +752,7 @@ That unresolved middle ground explains why the Valentich disappearance still occ
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -793,89 +793,89 @@ That unresolved middle ground explains why the Valentich disappearance still occ
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Disappearance of Frederick Valentich  
-   Link: <a href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/B1497_V116-783-1047_10491375.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/B1497_V116-783-1047_10491375.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>etlt-17 /r7 OF TRANSPORTReport on their investigation into the disappearance of pilot Frederick. Valentich on October 21st,1978 over the...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/australia/B1497_V116-783-1047_10491375.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/B1497_V116-783-1047_10491375.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>etlt-17 /r7 OF TRANSPORTReport on their investigation into the disappearance of pilot Frederick. Valentich on October 21st,1978 over the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Spatial disorientation  
-   Link: <a href="https://en.wikipedia.org/wiki/Spatial_disorientation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spatial_disorientation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Spatial_disorientation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spatial_disorientation</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Desaparición de Frederick Valentich  
-   Link: <a href="https://es.wikipedia.org/wiki/Desaparici%C3%B3n_de_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Desaparici%C3%B3n_de_Frederick_Valentich</a>  
+   Link:<a href="https://es.wikipedia.org/wiki/Desaparici%C3%B3n_de_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Desaparici%C3%B3n_de_Frederick_Valentich</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/Brazil/CENDOC_ENVELOPE_09_1978.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/Brazil/CENDOC_ENVELOPE_09_1978.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comgovernment26: The investigation was switched from the rescue coordina- tion center to the Department of. Transport air s...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/Brazil/CENDOC_ENVELOPE_09_1978.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/Brazil/CENDOC_ENVELOPE_09_1978.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comgovernment26: The investigation was switched from the rescue coordina- tion center to the Department of. Transport air s...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Valentich Disappearance: Another UFO Cold Case...The missing piece of the puzzle in a strange &#x27;UFO&#x27; case involving...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Valentich Disappearance: Another UFO Cold Case...The missing piece of the puzzle in a strange &#x27;UFO&#x27; case involving...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sim-outhouse.org  
-   Link: <a href="https://sim-outhouse.org/sohforums/threads/frederick-valentich-disappearance.36897/post-417320" target="_blank" rel="noopener noreferrer nofollow">https://sim-outhouse.org/sohforums/threads/frederick-valentich-disappearance.36897/post-417320</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frederick Valentich DisappearanceThe following is a transcript of the exchanges between Valentich and air traffice control, from the firs...</p></details>
+   Link:<a href="https://sim-outhouse.org/sohforums/threads/frederick-valentich-disappearance.36897/post-417320" target="_blank" rel="noopener noreferrer nofollow">https://sim-outhouse.org/sohforums/threads/frederick-valentich-disappearance.36897/post-417320</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frederick Valentich DisappearanceThe following is a transcript of the exchanges between Valentich and air traffice control, from the firs...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/ff8xft/the_disappearance_of_frederick_valentich/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/ff8xft/the_disappearance_of_frederick_valentich/</a>  
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/ff8xft/the_disappearance_of_frederick_valentich/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/ff8xft/the_disappearance_of_frederick_valentich/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: australias bermuda triangle this week marks the 46th anniversary of the disappea  
-   Link: <a href="https://www.facebook.com/TimYowie/posts/australias-bermuda-triangle-this-week-marks-the-46th-anniversary-of-the-disappea/1399423801462643/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimYowie/posts/australias-bermuda-triangle-this-week-marks-the-46th-anniversary-of-the-disappea/1399423801462643/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Australia&#x27;s Bermuda Triangle This week marks the 46th...In October 1978, a 20-year-old Australian pilot named Frederick Valentich vanish...</p></details>
+   Link:<a href="https://www.facebook.com/TimYowie/posts/australias-bermuda-triangle-this-week-marks-the-46th-anniversary-of-the-disappea/1399423801462643/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimYowie/posts/australias-bermuda-triangle-this-week-marks-the-46th-anniversary-of-the-disappea/1399423801462643/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australia&#x27;s Bermuda Triangle This week marks the 46th...In October 1978, a 20-year-old Australian pilot named Frederick Valentich vanish...</p></details>
    Published: October 1978  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40georgek2928/its-not-an-aircraft-the-vanishing-of-frederick-valentich-over-bass-strait-5ec44c3ae533" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40georgek2928/its-not-an-aircraft-the-vanishing-of-frederick-valentich-over-bass-strait-5ec44c3ae533</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“It&#x27;s Not an Aircraft”: The Vanishing of Frederick Valentich...In that interpretation, Valentich wasn&#x27;t being stalked by a craft...</p></details>
+   Link:<a href="https://medium.com/%40georgek2928/its-not-an-aircraft-the-vanishing-of-frederick-valentich-over-bass-strait-5ec44c3ae533" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40georgek2928/its-not-an-aircraft-the-vanishing-of-frederick-valentich-over-bass-strait-5ec44c3ae533</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“It&#x27;s Not an Aircraft”: The Vanishing of Frederick Valentich...In that interpretation, Valentich wasn&#x27;t being stalked by a craft...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: military-airshows.co.uk  
-   Link: <a href="https://www.military-airshows.co.uk/unex12.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.military-airshows.co.uk/unex12.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frederick Valentich UFO Incident - Unexplained...Frederick Valentich UFO Incident - Unexplained, UFO, Aliens, Mysteries...</p></details>
+   Link:<a href="https://www.military-airshows.co.uk/unex12.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.military-airshows.co.uk/unex12.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frederick Valentich UFO Incident - Unexplained...Frederick Valentich UFO Incident - Unexplained, UFO, Aliens, Mysteries...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: fearoflanding.com  
    Title: the alien abduction of frederick valentich  
-   Link: <a href="https://fearoflanding.com/accidents/accident-reports/the-alien-abduction-of-frederick-valentich/" target="_blank" rel="noopener noreferrer nofollow">https://fearoflanding.com/accidents/accident-reports/the-alien-abduction-of-frederick-valentich/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 May 2014 — Frederick Valentich&#x27;s father joined the Victoria UFO Research Centre and continued to hope that his son was alive and abduct...</p></details>
+   Link:<a href="https://fearoflanding.com/accidents/accident-reports/the-alien-abduction-of-frederick-valentich/" target="_blank" rel="noopener noreferrer nofollow">https://fearoflanding.com/accidents/accident-reports/the-alien-abduction-of-frederick-valentich/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 May 2014 — Frederick Valentich&#x27;s father joined the Victoria UFO Research Centre and continued to hope that his son was alive and abduct...</p></details>
    Published: May 2014  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DX6uHUwDuXj/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DX6uHUwDuXj/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bass Strait. The official crash explanation is...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DX6uHUwDuXj/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DX6uHUwDuXj/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bass Strait. The official crash explanation is...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: snopes.com  
    Title: frederick valentich ufo disappearance  
-   Link: <a href="https://www.snopes.com/articles/383824/frederick-valentich-ufo-disappearance/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/articles/383824/frederick-valentich-ufo-disappearance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frederick Valentich&#x27;s &#x27;UFO&#x27; Sighting and Disappearance3 Dec 2021 — According to Australia&#x27;s Department of Transport official report on th...</p></details>
+   Link:<a href="https://www.snopes.com/articles/383824/frederick-valentich-ufo-disappearance/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/articles/383824/frederick-valentich-ufo-disappearance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frederick Valentich&#x27;s &#x27;UFO&#x27; Sighting and Disappearance3 Dec 2021 — According to Australia&#x27;s Department of Transport official report on th...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=W9hyfPpfL1k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W9hyfPpfL1k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pilot Who Vanished After Reporting a UFO - Fred Valentich...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=W9hyfPpfL1k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W9hyfPpfL1k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pilot Who Vanished After Reporting a UFO - Fred Valentich...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nicap.org  
    Title: 14.1 haines norman  
-   Link: <a href="https://www.nicap.org/reports/14.1_haines_norman.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/14.1_haines_norman.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Valentich Disappearance: New Evidence and a...by RF HAINES · 2000 · Cited by 6 — Abstract—This paper presents new evidence regarding the...</p></details>
+   Link:<a href="https://www.nicap.org/reports/14.1_haines_norman.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/14.1_haines_norman.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Valentich Disappearance: New Evidence and a...by RF HAINES · 2000 · Cited by 6 — Abstract—This paper presents new evidence regarding the...</p></details>

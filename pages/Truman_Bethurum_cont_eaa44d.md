@@ -758,255 +758,255 @@ image: /assets/images/Truman_Bethurum_cont_eaa44d-overview-social.jpg
 
 ## What Bethurum said happened
 
-Truman Bethurum, a working man variously described in later sources as a truck driver, heavy-equipment operator, or roadwork employee, claimed that his first encounter occurred in the early hours of 28 July 1952 near Mormon Mesa in the Nevada desert. In the version summarised by Jerome Clark’s *Extraordinary Encounters*, Bethurum said he met eight small men of “Latin” appearance, was led to a nearby saucer, and met Aura Rhanes, the craft’s female captain. The saucer and its crew were said to come from Clarion, a peaceful utopian world supposedly hidden from human view because it was always on the far side of the Moon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Extraordinary Encounters</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Extraordinary Encounters</span></span></span>
+Truman Bethurum, a working man variously described in later sources as a truck driver, heavy-equipment operator, or roadwork employee, claimed that his first encounter occurred in the early hours of 28 July 1952 near Mormon Mesa in the Nevada desert. In the version summarised by Jerome Clark’s *Extraordinary Encounters*, Bethurum said he met eight small men of “Latin” appearance, was led to a nearby saucer, and met Aura Rhanes, the craft’s female captain. The saucer and its crew were said to come from Clarion, a peaceful utopian world supposedly hidden from human view because it was always on the far side of the Moon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Extraordinary Encounters</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Extraordinary Encounters</span></span></span>
 
 <img src="{{ "/assets/images/Truman_Bethurum_cont_eaa44d-overview.webp" | relative_url }}" alt="Overview image for Truman Bethurum contact 1954" loading="eager" decoding="sync" fetchpriority="high">
-The narrative had the familiar texture of early 1950s contactee claims: the visitors looked broadly human, their society was morally superior to Earth’s, and their interest in humanity was linked to anxiety about nuclear war. Bethurum’s alleged craft was often described in later summaries as a huge, burnished-metal disc, and his published story framed the experience as a personal, factual encounter rather than fiction. A later bibliographic record in a defence-linked UFO bibliography summarised *Aboard a Flying Saucer* as a 1954, 192-page account of alleged contact with a saucer crew from Clarion at Mormon Mesa during eleven visits between July and November 1952. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Extraordinary Encounters</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Extraordinary Encounters</span></span></span>
+The narrative had the familiar texture of early 1950s contactee claims: the visitors looked broadly human, their society was morally superior to Earth’s, and their interest in humanity was linked to anxiety about nuclear war. Bethurum’s alleged craft was often described in later summaries as a huge, burnished-metal disc, and his published story framed the experience as a personal, factual encounter rather than fiction. A later bibliographic record in a defence-linked UFO bibliography summarised *Aboard a Flying Saucer* as a 1954, 192-page account of alleged contact with a saucer crew from Clarion at Mormon Mesa during eleven visits between July and November 1952.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Extraordinary Encounters</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Extraordinary Encounters</span></span></span>
 
-The human centre of the story was Aura Rhanes. Clark’s entry on her describes Bethurum’s first sight of her inside the craft, her small stature, olive complexion, distinctive clothing, and repeated conversations with him. The same account says Bethurum claimed eleven meetings between July and November 1952, with Rhanes revealing her name only on the third encounter, dated 18 August. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Extraordinary Encounters</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Extraordinary Encounters</span></span></span>
+The human centre of the story was Aura Rhanes. Clark’s entry on her describes Bethurum’s first sight of her inside the craft, her small stature, olive complexion, distinctive clothing, and repeated conversations with him. The same account says Bethurum claimed eleven meetings between July and November 1952, with Rhanes revealing her name only on the third encounter, dated 18 August.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Extraordinary Encounters</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Extraordinary Encounters</span></span></span>
 
 ## How the story became a 1954 case
 
-Although the alleged encounters began in 1952, the case became a public 1954 matter because of publication, lectures, and official paperwork. Bethurum’s story appeared in shorter form in *Saucers* magazine in 1953 and then in book form as *Aboard a Flying Saucer*, published in Los Angeles by DeVorss in 1954. Clark identifies the 1953 article as “I Was Inside a Flying Saucer” and lists the 1954 book as a key source for the Bethurum entry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Extraordinary Encounters</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Extraordinary Encounters</span></span></span>
+Although the alleged encounters began in 1952, the case became a public 1954 matter because of publication, lectures, and official paperwork. Bethurum’s story appeared in shorter form in *Saucers* magazine in 1953 and then in book form as *Aboard a Flying Saucer*, published in Los Angeles by DeVorss in 1954. Clark identifies the 1953 article as “I Was Inside a Flying Saucer” and lists the 1954 book as a key source for the Bethurum entry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Extraordinary Encounters</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Extraordinary Encounters</span></span></span>
 
-The FBI file gives a useful snapshot of the story’s public promotion in mid-1954. A 22 July 1954 memorandum from the Special Agent in Charge at Cincinnati to the FBI Director carried the subject line “Truman Bethurum; Flying Discs; Miscellaneous — Information Concerning (Espionage)”. It referred back to June 1954 correspondence and attached material about information supplied by Thomas Eickhoff, an Ohio man who had contacted authorities after seeing an advertisement for a programme about the “real flying saucer story”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/truman-bethurum/Truman%20Bethurum%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-snippet">Open source on fbi.gov.</span></span></span>
+The FBI file gives a useful snapshot of the story’s public promotion in mid-1954. A 22 July 1954 memorandum from the Special Agent in Charge at Cincinnati to the FBI Director carried the subject line “Truman Bethurum; Flying Discs; Miscellaneous — Information Concerning (Espionage)”. It referred back to June 1954 correspondence and attached material about information supplied by Thomas Eickhoff, an Ohio man who had contacted authorities after seeing an advertisement for a programme about the “real flying saucer story”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/truman-bethurum/Truman%20Bethurum%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-snippet">Open source on fbi.gov.</span></span></span>
 
-The advertised Cincinnati event was not presented in the FBI file as an Air Force investigation of a landing site. It was a public programme, with tickets reportedly sold for two dollars each, involving Bethurum and George Hunt Williamson. Eickhoff told the FBI that his concern was conditional: if the story were true, it should be publicised widely; if false, he thought the promoters might be defrauding the public. This is an important distinction. The official interest visible in the file was not confirmation of a spacecraft but concern over a promoted claim, possible fraud, and the way such claims might affect the public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/truman-bethurum/Truman%20Bethurum%20Part%2001%20%28Final%29/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">— Federal Bureau of Investigation</span><span class="citation-popover-snippet">— Federal Bureau of Investigation</span></span></span>
+The advertised Cincinnati event was not presented in the FBI file as an Air Force investigation of a landing site. It was a public programme, with tickets reportedly sold for two dollars each, involving Bethurum and George Hunt Williamson. Eickhoff told the FBI that his concern was conditional: if the story were true, it should be publicised widely; if false, he thought the promoters might be defrauding the public. This is an important distinction. The official interest visible in the file was not confirmation of a spacecraft but concern over a promoted claim, possible fraud, and the way such claims might affect the public.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/truman-bethurum/Truman%20Bethurum%20Part%2001%20%28Final%29/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">— Federal Bureau of Investigation</span><span class="citation-popover-snippet">— Federal Bureau of Investigation</span></span></span>
 
 <img src="{{ "/assets/images/Truman_Bethurum_cont_eaa44d-Illustration-1-dark.svg" | relative_url }}" alt="Truman Bethurum contact 1954 illustration 1" data-theme-src-dark="{{ "/assets/images/Truman_Bethurum_cont_eaa44d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Truman_Bethurum_cont_eaa44d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the FBI material actually shows
 
-The FBI file is one of the strongest documentary anchors for the 1954 public phase, but it does not validate Bethurum’s extraterrestrial claims. It shows that the Bureau received and recorded information about planned public appearances, advertisements, promoters, and concerns raised by a member of the public. It also shows that parts of the matter were routed under broad categories that included flying discs and miscellaneous information concerning espionage, reflecting Cold War-era administrative caution rather than proof of a security threat from Clarion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/search?SearchableText=flying+saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-snippet">Open source on fbi.gov.</span></span></span>
+The FBI file is one of the strongest documentary anchors for the 1954 public phase, but it does not validate Bethurum’s extraterrestrial claims. It shows that the Bureau received and recorded information about planned public appearances, advertisements, promoters, and concerns raised by a member of the public. It also shows that parts of the matter were routed under broad categories that included flying discs and miscellaneous information concerning espionage, reflecting Cold War-era administrative caution rather than proof of a security threat from Clarion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/search?SearchableText=flying+saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-snippet">Open source on fbi.gov.</span></span></span>
 
-Eickhoff told the FBI he had read Donald Keyhoe’s *Flying Saucers from Outer Space* and George Adamski’s *Flying Saucers Have Landed*, and that he believed reputable commentators had discussed flying saucers despite Air Force denials. He also reported contacting Air Force personnel at Wright-Patterson Air Force Base and being told there was no such thing as a flying saucer and that the Air Force could take no action against Bethurum or Williamson. The FBI file records these as Eickhoff’s statements, not as independent verification of the underlying contact story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/search?SearchableText=flying+saucers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-snippet">Open source on fbi.gov.</span></span></span>
+Eickhoff told the FBI he had read Donald Keyhoe’s *Flying Saucers from Outer Space* and George Adamski’s *Flying Saucers Have Landed*, and that he believed reputable commentators had discussed flying saucers despite Air Force denials. He also reported contacting Air Force personnel at Wright-Patterson Air Force Base and being told there was no such thing as a flying saucer and that the Air Force could take no action against Bethurum or Williamson. The FBI file records these as Eickhoff’s statements, not as independent verification of the underlying contact story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/search?SearchableText=flying+saucers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-snippet">Open source on fbi.gov.</span></span></span>
 
-The file also places Bethurum in a network of saucer-era publications and promoters. It mentions *Valor* magazine, Soul Craft Press, William Dudley Pelley, George Hunt Williamson, and planned meetings intended to give the story national attention. This setting matters because Bethurum’s case was not an isolated police-style incident report; it was part of the mid-century contactee circuit where lectures, magazines, books, metaphysical ideas, and UFO enthusiasm overlapped. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Project Blue Book (UFO</span><span class="citation-popover-snippet">Project Blue Book (UFO</span></span></span>
+The file also places Bethurum in a network of saucer-era publications and promoters. It mentions *Valor* magazine, Soul Craft Press, William Dudley Pelley, George Hunt Williamson, and planned meetings intended to give the story national attention. This setting matters because Bethurum’s case was not an isolated police-style incident report; it was part of the mid-century contactee circuit where lectures, magazines, books, metaphysical ideas, and UFO enthusiasm overlapped.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Project Blue Book (UFO</span><span class="citation-popover-snippet">Project Blue Book (UFO</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BfLSclIe9Zg" title="UFO Sightings Explained on 1950s TV Program &#x27;You Asked For It&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BfLSclIe9Zg" target="_blank" rel="noopener noreferrer">UFO Sightings Explained on 1950s TV Program &#x27;You Asked For It&#x27;</a></p><p class="youtube-embed-meta">Channel: You Asked For It &middot; Views: 822 &middot; Uploaded: February 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BfLSclIe9Zg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BfLSclIe9Zg">Open on YouTube</a></p></div></div></div>
 
 ## The evidence problem
 
-The strongest evidence for the Bethurum contact is testimony: Bethurum’s own repeated narrative, its appearance in UFO magazines, his 1954 book, and later retellings by UFO and contactee historians. That gives the case cultural and documentary existence, but not physical verification. The claim requires accepting that a large craft and crew repeatedly visited Mormon Mesa without leaving independently verified physical traces, photographs, official sensor records, or multiple neutral witnesses who could corroborate the encounters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Extraordinary Encounters</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Extraordinary Encounters</span></span></span>
+The strongest evidence for the Bethurum contact is testimony: Bethurum’s own repeated narrative, its appearance in UFO magazines, his 1954 book, and later retellings by UFO and contactee historians. That gives the case cultural and documentary existence, but not physical verification. The claim requires accepting that a large craft and crew repeatedly visited Mormon Mesa without leaving independently verified physical traces, photographs, official sensor records, or multiple neutral witnesses who could corroborate the encounters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Extraordinary Encounters</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Extraordinary Encounters</span></span></span>
 
-The most damaging specific weakness is Clarion itself. Bethurum’s planet was described as hidden from Earth because it was always beyond the Moon. That is not a small inconsistency; it is the central location claim. Even sympathetic histories tend to present it as part of the mythic or contactee structure rather than as a plausible astronomical proposition. Encyclopedia.com’s entry, drawing on reference literature on occultism and parapsychology, summarises the claim directly: Bethurum said Clarion was in the solar system but undiscovered because the Moon always hid it from Earth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/bethurum-truman-1898-1969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">bethurum truman 1898 1969</span><span class="citation-popover-snippet">bethurum truman 1898 1969</span></span></span>
+The most damaging specific weakness is Clarion itself. Bethurum’s planet was described as hidden from Earth because it was always beyond the Moon. That is not a small inconsistency; it is the central location claim. Even sympathetic histories tend to present it as part of the mythic or contactee structure rather than as a plausible astronomical proposition. Encyclopedia.com’s entry, drawing on reference literature on occultism and parapsychology, summarises the claim directly: Bethurum said Clarion was in the solar system but undiscovered because the Moon always hid it from Earth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/bethurum-truman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">bethurum truman</span><span class="citation-popover-snippet">bethurum truman</span></span></span>
 
-There were also missed opportunities for testable corroboration. Clark records that Bethurum refused a polygraph examination and declined to submit for scientific analysis a letter said to have been composed by Aura Rhanes, explaining that paper on Clarion was made from the same kind of trees as on Earth. Polygraphs are not definitive scientific proof, and a passed test would not have established extraterrestrial contact, but the refusal of even weak or indirect checks left the case almost entirely dependent on Bethurum’s credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Extraordinary Encounters</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Extraordinary Encounters</span></span></span>
+There were also missed opportunities for testable corroboration. Clark records that Bethurum refused a polygraph examination and declined to submit for scientific analysis a letter said to have been composed by Aura Rhanes, explaining that paper on Clarion was made from the same kind of trees as on Earth. Polygraphs are not definitive scientific proof, and a passed test would not have established extraterrestrial contact, but the refusal of even weak or indirect checks left the case almost entirely dependent on Bethurum’s credibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Extraordinary Encounters</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Extraordinary Encounters</span></span></span>
 
 <img src="{{ "/assets/images/Truman_Bethurum_cont_eaa44d-Illustration-2-dark.svg" | relative_url }}" alt="Truman Bethurum contact 1954 illustration 2" data-theme-src-dark="{{ "/assets/images/Truman_Bethurum_cont_eaa44d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Truman_Bethurum_cont_eaa44d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Credibility and competing readings
 
-Bethurum’s supporters and sympathetic chroniclers often treated him as sincere. Clark notes that Bryant and Helen Reeve, early chroniclers of the contactee subculture, were favourably impressed by what they saw as his “unimaginative sincerity”. That kind of judgement matters for understanding why the story had an audience: Bethurum did not present himself simply as a science-fiction writer, but as an ordinary man reporting extraordinary conversations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Extraordinary Encounters</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Extraordinary Encounters</span></span></span>
+Bethurum’s supporters and sympathetic chroniclers often treated him as sincere. Clark notes that Bryant and Helen Reeve, early chroniclers of the contactee subculture, were favourably impressed by what they saw as his “unimaginative sincerity”. That kind of judgement matters for understanding why the story had an audience: Bethurum did not present himself simply as a science-fiction writer, but as an ordinary man reporting extraordinary conversations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Extraordinary Encounters</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Extraordinary Encounters</span></span></span>
 
-Sceptics saw something different. Clark reports that *Saucer News* editor James W. Moseley judged Bethurum to be a liar motivated by believers’ money, and the FBI material shows that even people interested in flying saucers worried about fraud if the story proved false. The public-meeting context sharpened those concerns because Bethurum’s story was not merely being told privately; it was being advertised, ticketed, and positioned for wider public attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Extraordinary Encounters</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Extraordinary Encounters</span></span></span>
+Sceptics saw something different. Clark reports that *Saucer News* editor James W. Moseley judged Bethurum to be a liar motivated by believers’ money, and the FBI material shows that even people interested in flying saucers worried about fraud if the story proved false. The public-meeting context sharpened those concerns because Bethurum’s story was not merely being told privately; it was being advertised, ticketed, and positioned for wider public attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Extraordinary Encounters</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Extraordinary Encounters</span></span></span>
 
-A third reading is cultural rather than simply “true” or “fraudulent”. Bethurum’s claims fit the early contactee pattern: human-like visitors, moral advice, atomic-age anxiety, and a utopian world contrasted with troubled Earth. This does not prove he invented the story knowingly, but it does show that the content was highly legible to 1950s saucer audiences. In that sense, the case belongs naturally beside sibling contactee-era branches such as George Adamski and George Hunt Williamson, while still remaining distinct in its own imagery of Aura Rhanes, Clarion, and the repeated Mormon Mesa meetings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://audioboom.com/posts/8372629-bethurum-part-2-ufos-and-the-occult" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audioboom.com">[Audioboom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audioboom.com</span><span class="citation-popover-title">8372629 bethurum part 2 ufos and the occult</span><span class="citation-popover-snippet">8372629 bethurum part 2 ufos and the occult</span></span></span>
+A third reading is cultural rather than simply “true” or “fraudulent”. Bethurum’s claims fit the early contactee pattern: human-like visitors, moral advice, atomic-age anxiety, and a utopian world contrasted with troubled Earth. This does not prove he invented the story knowingly, but it does show that the content was highly legible to 1950s saucer audiences. In that sense, the case belongs naturally beside sibling contactee-era branches such as George Adamski and George Hunt Williamson, while still remaining distinct in its own imagery of Aura Rhanes, Clarion, and the repeated Mormon Mesa meetings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://audioboom.com/posts/8372629-bethurum-part-2-ufos-and-the-occult" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audioboom.com">[Audioboom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audioboom.com</span><span class="citation-popover-title">8372629 bethurum part 2 ufos and the occult</span><span class="citation-popover-snippet">8372629 bethurum part 2 ufos and the occult</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JHeZjJgO9Ns" title="UFO Project Blue Book at National Archives Museum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer">UFO Project Blue Book at National Archives Museum</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 352.6K &middot; Uploaded: December 2019 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JHeZjJgO9Ns">Open on YouTube</a></p></div></div></div>
 
 ## Official investigation versus official validation
 
-The existence of an FBI file should not be confused with government validation of Bethurum’s account. The file shows information collection and correspondence around public claims, not a finding that Bethurum boarded an extraterrestrial craft. The broader Air Force context also points in the opposite direction: the official Project Blue Book programme investigated UFO reports from 1947 to 1969, later reporting 12,618 sightings, of which 701 remained unidentified; its termination rested on reviews including the University of Colorado study and the National Academy of Sciences review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The existence of an FBI file should not be confused with government validation of Bethurum’s account. The file shows information collection and correspondence around public claims, not a finding that Bethurum boarded an extraterrestrial craft. The broader Air Force context also points in the opposite direction: the official Project Blue Book programme investigated UFO reports from 1947 to 1969, later reporting 12,618 sightings, of which 701 remained unidentified; its termination rested on reviews including the University of Colorado study and the National Academy of Sciences review.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Bethurum’s case is therefore better read as an officially noticed contactee claim than an officially supported UFO incident. The FBI paperwork is valuable because it fixes dates, names, venues, and concerns around the 1954 promotion of the story. It does not supply the missing evidential pieces: no confirmed landing trace, no recovered artefact, no independent observation of Aura Rhanes, and no technical analysis of alleged Clarion material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-snippet">Open source on fbi.gov.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/truman-bethurum/Truman%20Bethurum%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-snippet">Open source on fbi.gov.</span></span></span>
+Bethurum’s case is therefore better read as an officially noticed contactee claim than an officially supported UFO incident. The FBI paperwork is valuable because it fixes dates, names, venues, and concerns around the 1954 promotion of the story. It does not supply the missing evidential pieces: no confirmed landing trace, no recovered artefact, no independent observation of Aura Rhanes, and no technical analysis of alleged Clarion material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-snippet">Open source on fbi.gov.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/truman-bethurum/Truman%20Bethurum%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-snippet">Open source on fbi.gov.</span></span></span>
 
 <img src="{{ "/assets/images/Truman_Bethurum_cont_eaa44d-Illustration-3-dark.svg" | relative_url }}" alt="Truman Bethurum contact 1954 illustration 3" data-theme-src-dark="{{ "/assets/images/Truman_Bethurum_cont_eaa44d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Truman_Bethurum_cont_eaa44d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case still matters
 
-The Bethurum contact remains historically useful because it captures the transition from “flying saucer sighting” to “contactee narrative”. In a sighting case, the central question is often what an object in the sky might have been. In Bethurum’s case, the claim expands into biography, personality, lectures, books, metaphysical messaging, and social consequences. Even his personal life became entangled with the story: Clark records that his wife Mary divorced him on grounds connected to Aura Rhanes, a detail that later writers have often cited because it shows how fully the narrative entered Bethurum’s public and private identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Extraordinary Encounters</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Extraordinary Encounters</span></span></span>
+The Bethurum contact remains historically useful because it captures the transition from “flying saucer sighting” to “contactee narrative”. In a sighting case, the central question is often what an object in the sky might have been. In Bethurum’s case, the claim expands into biography, personality, lectures, books, metaphysical messaging, and social consequences. Even his personal life became entangled with the story: Clark records that his wife Mary divorced him on grounds connected to Aura Rhanes, a detail that later writers have often cited because it shows how fully the narrative entered Bethurum’s public and private identity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Extraordinary Encounters</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Extraordinary Encounters</span></span></span>
 
 The case also shows how thin evidence can still produce a durable legend. Bethurum offered a memorable cast, a precise desert setting, repeated meetings, a named female captain, and a planet with a simple explanatory hook. Those features made the story easy to retell. They did not make it evidentially strong. For a modern reader, the most defensible conclusion is that Truman Bethurum became an important 1950s contactee figure through the 1954 publication and promotion of *Aboard a Flying Saucer*, while the underlying claim of repeated physical contact with visitors from Clarion remains unsupported by reliable, independent evidence.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g_sXydyZwDs" title="Rural UFO Encounters That Defy Logic | UFO Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g_sXydyZwDs" target="_blank" rel="noopener noreferrer">Rural UFO Encounters That Defy Logic | UFO Files</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 128.2K &middot; Uploaded: May 2026 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g_sXydyZwDs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g_sXydyZwDs">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in the Bethurum Case?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in the Bethurum Case?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Profiles the Bethurum contactee case objectively, summarizing the Aura Rhanes claims and the early 1950s contactee movement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Profiles the Bethurum contactee case objectively, summarizing the Aura Rhanes claims and the early 1950s contactee movement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Contextualizes the Bethurum contactee narrative within the broader history of modern UFO folklore and cultural myth-building.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contextualizes the Bethurum contactee narrative within the broader history of modern UFO folklore and cultural myth-building.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches investigative standards to differentiate between genuine sightings and fabricated, publicity-driven narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches investigative standards to differentiate between genuine sightings and fabricated, publicity-driven narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Explains the institutional context behind how UFO claims were processed during the height of the 1950s contactee craze.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the institutional context behind how UFO claims were processed during the height of the 1950s contactee craze.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/ecf1364ac1fcde60335d.jpg' | relative_url }}" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/ecf1364ac1fcde60335d.jpg' | relative_url }}" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="truman-bethurum-contact-1954-what-really-happened-in-the-bethurum-case-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1022,7 +1022,7 @@ The case also shows how thin evidence can still produce a durable legend. Bethur
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1042,7 +1042,7 @@ The case also shows how thin evidence can still produce a durable legend. Bethur
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1074,7 +1074,7 @@ The case also shows how thin evidence can still produce a durable legend. Bethur
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1126,7 +1126,7 @@ The case also shows how thin evidence can still produce a durable legend. Bethur
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1171,7 +1171,7 @@ The case also shows how thin evidence can still produce a durable legend. Bethur
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1212,148 +1212,148 @@ The case also shows how thin evidence can still produce a durable legend. Bethur
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Extraordinary Encounters"  
-   Link: <a href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/truman-bethurum/Truman%20Bethurum%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/truman-bethurum/Truman%20Bethurum%20Part%2001%20%28Final%29/at_download/file</a>  
+   Link:<a href="https://vault.fbi.gov/truman-bethurum/Truman%20Bethurum%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/truman-bethurum/Truman%20Bethurum%20Part%2001%20%28Final%29/at_download/file</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
    Title: DTIC AD0688332 djvu.txt  
-   Link: <a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: vault.fbi.gov  
    Title: — Federal Bureau of Investigation  
-   Link: <a href="https://vault.fbi.gov/truman-bethurum/Truman%20Bethurum%20Part%2001%20%28Final%29/view" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/truman-bethurum/Truman%20Bethurum%20Part%2001%20%28Final%29/view</a>  
+   Link:<a href="https://vault.fbi.gov/truman-bethurum/Truman%20Bethurum%20Part%2001%20%28Final%29/view" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/truman-bethurum/Truman%20Bethurum%20Part%2001%20%28Final%29/view</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: encyclopedia.com  
    Title: bethurum truman 1898 1969  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/bethurum-truman-1898-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/bethurum-truman-1898-1969</a>  
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/bethurum-truman" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/bethurum-truman</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: audioboom.com  
    Title: 8372629 bethurum part 2 ufos and the occult  
-   Link: <a href="https://audioboom.com/posts/8372629-bethurum-part-2-ufos-and-the-occult" target="_blank" rel="noopener noreferrer nofollow">https://audioboom.com/posts/8372629-bethurum-part-2-ufos-and-the-occult</a>  
+   Link:<a href="https://audioboom.com/posts/8372629-bethurum-part-2-ufos-and-the-occult" target="_blank" rel="noopener noreferrer nofollow">https://audioboom.com/posts/8372629-bethurum-part-2-ufos-and-the-occult</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/details/messagesfrompeop0000beth" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/messagesfrompeop0000beth</a>  
+   Link:<a href="https://archive.org/details/messagesfrompeop0000beth" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/messagesfrompeop0000beth</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ia802901.us.archive.org  
    Title: Extraordinary Encounters  
-   Link: <a href="https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf</a>  
+   Link:<a href="https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
+   Link:<a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archive.org  
    Title: Project Blue Book Indexes  
-   Link: <a href="https://archive.org/details/ProjectBlueBookIndexes" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/ProjectBlueBookIndexes</a>  
+   Link:<a href="https://archive.org/details/ProjectBlueBookIndexes" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/ProjectBlueBookIndexes</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/search?SearchableText=flying+saucer" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/search?SearchableText=flying+saucer</a>  
+   Link:<a href="https://vault.fbi.gov/search?SearchableText=flying+saucer" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/search?SearchableText=flying+saucer</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/search?SearchableText=flying+saucers" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/search?SearchableText=flying+saucers</a>  
+   Link:<a href="https://vault.fbi.gov/search?SearchableText=flying+saucers" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/search?SearchableText=flying+saucers</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: vault.fbi.gov  
    Title: Project Blue Book (UFO)  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: audioboom.com  
    Title: 8364857 aboard a flying saucer part 1  
-   Link: <a href="https://audioboom.com/posts/8364857-aboard-a-flying-saucer-part-1" target="_blank" rel="noopener noreferrer nofollow">https://audioboom.com/posts/8364857-aboard-a-flying-saucer-part-1</a>  
+   Link:<a href="https://audioboom.com/posts/8364857-aboard-a-flying-saucer-part-1" target="_blank" rel="noopener noreferrer nofollow">https://audioboom.com/posts/8364857-aboard-a-flying-saucer-part-1</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Truman Bethurum  
-   Link: <a href="https://en.wikipedia.org/wiki/Truman_Bethurum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Truman_Bethurum</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Truman_Bethurum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Truman_Bethurum</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Flying saucer  
-   Link: <a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theironskeptic.com  
-   Link: <a href="https://www.theironskeptic.com/articles/clarion/clarion.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.theironskeptic.com/articles/clarion/clarion.htm</a>  
+   Link:<a href="https://www.theironskeptic.com/articles/clarion/clarion.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.theironskeptic.com/articles/clarion/clarion.htm</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=BfLSclIe9Zg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BfLSclIe9Zg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Man From Venus and the Alien Contactee George Adamski...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BfLSclIe9Zg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BfLSclIe9Zg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Man From Venus and the Alien Contactee George Adamski...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: biblio.com  
-   Link: <a href="https://www.biblio.com/book/aboard-flying-saucer-fiction-true-personal/d/1341391054?srsltid=AfmBOoqVIGBykQK50K4THivixXcTaJfh7sL0EBwRo-_zAUbdP9oIw08W" target="_blank" rel="noopener noreferrer nofollow">https://www.biblio.com/book/aboard-flying-saucer-fiction-true-personal/d/1341391054?srsltid=AfmBOoqVIGBykQK50K4THivixXcTaJfh7sL0EBwRo-_zAUbdP9oIw08W</a>  
+   Link:<a href="https://www.biblio.com/book/aboard-flying-saucer-fiction-true-personal/d/1341391054?srsltid=AfmBOoqVIGBykQK50K4THivixXcTaJfh7sL0EBwRo-_zAUbdP9oIw08W" target="_blank" rel="noopener noreferrer nofollow">https://www.biblio.com/book/aboard-flying-saucer-fiction-true-personal/d/1341391054?srsltid=AfmBOoqVIGBykQK50K4THivixXcTaJfh7sL0EBwRo-_zAUbdP9oIw08W</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: biblio.com  
-   Link: <a href="https://www.biblio.com/book/aboard-flying-saucer-fiction-true-personal/d/1341391054?srsltid=AfmBOoquWszJglugXtYxWUC9kZss2VGCnLQW7Hdr_7OfGSJ-yHQpeiQz" target="_blank" rel="noopener noreferrer nofollow">https://www.biblio.com/book/aboard-flying-saucer-fiction-true-personal/d/1341391054?srsltid=AfmBOoquWszJglugXtYxWUC9kZss2VGCnLQW7Hdr_7OfGSJ-yHQpeiQz</a>  
+   Link:<a href="https://www.biblio.com/book/aboard-flying-saucer-fiction-true-personal/d/1341391054?srsltid=AfmBOoquWszJglugXtYxWUC9kZss2VGCnLQW7Hdr_7OfGSJ-yHQpeiQz" target="_blank" rel="noopener noreferrer nofollow">https://www.biblio.com/book/aboard-flying-saucer-fiction-true-personal/d/1341391054?srsltid=AfmBOoquWszJglugXtYxWUC9kZss2VGCnLQW7Hdr_7OfGSJ-yHQpeiQz</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: biblio.com  
-   Link: <a href="https://www.biblio.com/book/aboard-flying-saucer-fiction-true-personal/d/1341391054?srsltid=AfmBOoorx16kX5RnbmbswGDL_cqZKq1zJi-kkEeINXtk1I_3UhMIrWnN" target="_blank" rel="noopener noreferrer nofollow">https://www.biblio.com/book/aboard-flying-saucer-fiction-true-personal/d/1341391054?srsltid=AfmBOoorx16kX5RnbmbswGDL_cqZKq1zJi-kkEeINXtk1I_3UhMIrWnN</a>  
+   Link:<a href="https://www.biblio.com/book/aboard-flying-saucer-fiction-true-personal/d/1341391054?srsltid=AfmBOoorx16kX5RnbmbswGDL_cqZKq1zJi-kkEeINXtk1I_3UhMIrWnN" target="_blank" rel="noopener noreferrer nofollow">https://www.biblio.com/book/aboard-flying-saucer-fiction-true-personal/d/1341391054?srsltid=AfmBOoorx16kX5RnbmbswGDL_cqZKq1zJi-kkEeINXtk1I_3UhMIrWnN</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: biblio.com  
-   Link: <a href="https://www.biblio.com/book/aboard-flying-saucer-fiction-true-personal/d/1341391054?srsltid=AfmBOoqT9L2ywyxSY4b8C5Arm5iGul-am_dbXLHoKCd6HUVuDuSXOcVp" target="_blank" rel="noopener noreferrer nofollow">https://www.biblio.com/book/aboard-flying-saucer-fiction-true-personal/d/1341391054?srsltid=AfmBOoqT9L2ywyxSY4b8C5Arm5iGul-am_dbXLHoKCd6HUVuDuSXOcVp</a>  
+   Link:<a href="https://www.biblio.com/book/aboard-flying-saucer-fiction-true-personal/d/1341391054?srsltid=AfmBOoqT9L2ywyxSY4b8C5Arm5iGul-am_dbXLHoKCd6HUVuDuSXOcVp" target="_blank" rel="noopener noreferrer nofollow">https://www.biblio.com/book/aboard-flying-saucer-fiction-true-personal/d/1341391054?srsltid=AfmBOoqT9L2ywyxSY4b8C5Arm5iGul-am_dbXLHoKCd6HUVuDuSXOcVp</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: abebooks.co.uk  
-   Link: <a href="https://www.abebooks.co.uk/first-edition/Aboard-Flying-Saucer-Truman-Bethurum-First/32079000400/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/first-edition/Aboard-Flying-Saucer-Truman-Bethurum-First/32079000400/bd</a>  
+   Link:<a href="https://www.abebooks.co.uk/first-edition/Aboard-Flying-Saucer-Truman-Bethurum-First/32079000400/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/first-edition/Aboard-Flying-Saucer-Truman-Bethurum-First/32079000400/bd</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: amazon.com  
-   Link: <a href="https://www.amazon.com/Aboard-Flying-Saucer-Truman-Bethurum/dp/B000NQNPSA" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Aboard-Flying-Saucer-Truman-Bethurum/dp/B000NQNPSA</a>  
+   Link:<a href="https://www.amazon.com/Aboard-Flying-Saucer-Truman-Bethurum/dp/B000NQNPSA" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Aboard-Flying-Saucer-Truman-Bethurum/dp/B000NQNPSA</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Aboard-Flying-Saucer-Bethurum-Clarion-ebook/dp/B008AD4MMG" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Aboard-Flying-Saucer-Bethurum-Clarion-ebook/dp/B008AD4MMG</a>
+   Link:<a href="https://www.amazon.co.uk/Aboard-Flying-Saucer-Bethurum-Clarion-ebook/dp/B008AD4MMG" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Aboard-Flying-Saucer-Bethurum-Clarion-ebook/dp/B008AD4MMG</a>

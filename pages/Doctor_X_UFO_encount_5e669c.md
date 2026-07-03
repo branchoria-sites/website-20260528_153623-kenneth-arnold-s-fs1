@@ -758,267 +758,267 @@ image: /assets/images/Doctor_X_UFO_encount_5e669c-overview-social.jpg
 
 ## What was reported that night?
 
-Most accounts place the episode in the early hours around 3:45–4:05 a.m., after the doctor was awakened by his young child during stormy weather. He reportedly saw flashes without thunder, then observed two luminous objects over the valley from his house. The objects were described as disc-like or elliptical, with pale upper sections, reddish lower sections, protruding “antennae”, and cylindrical beams illuminating the mist or ground below. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Le cas du docteur X</span><span class="citation-popover-snippet">Le cas du docteur X</span></span></span>
+Most accounts place the episode in the early hours around 3:45–4:05 a.m., after the doctor was awakened by his young child during stormy weather. He reportedly saw flashes without thunder, then observed two luminous objects over the valley from his house. The objects were described as disc-like or elliptical, with pale upper sections, reddish lower sections, protruding “antennae”, and cylindrical beams illuminating the mist or ground below.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Le cas du docteur X</span><span class="citation-popover-snippet">Le cas du docteur X</span></span></span>
 
 <img src="{{ "/assets/images/Doctor_X_UFO_encount_5e669c-overview.webp" | relative_url }}" alt="Overview image for Doctor X UFO encounter 1968" loading="eager" decoding="sync" fetchpriority="high">
-The most distinctive part of the [sighting]({{ 'sighting/' | relative_url }}) is the claimed “fusion” of the two objects. According to the standard narrative, the two beams overlapped, the protrusions touched, the flashing ceased, and the two craft appeared to merge into one object. The single object then approached, tilted vertically or exposed its underside, swept a white beam across the house and the witness’s face, and vanished after a loud report, leaving a pale cloud or thread-like luminous trace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Le cas du docteur X</span><span class="citation-popover-snippet">Le cas du docteur X</span></span></span>
+The most distinctive part of the [sighting]({{ 'sighting/' | relative_url }}) is the claimed “fusion” of the two objects. According to the standard narrative, the two beams overlapped, the protrusions touched, the flashing ceased, and the two craft appeared to merge into one object. The single object then approached, tilted vertically or exposed its underside, swept a white beam across the house and the witness’s face, and vanished after a loud report, leaving a pale cloud or thread-like luminous trace.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Le cas du docteur X</span><span class="citation-popover-snippet">Le cas du docteur X</span></span></span>
 
-The doctor then reportedly checked the kitchen clock, made notes and sketches, and woke his wife. His wife’s role is important but limited: she did not witness the objects themselves in the main accounts, but she is said to have noticed immediate changes in his walking and leg condition after he described the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkanomalous.com/drx-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkanomalous.com">[Think Anomalous]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkanomalous.com</span><span class="citation-popover-title">Think Anomalous The Strange Case of Dr. X: UFOs and &quot;Miracle&quot; Healings</span><span class="citation-popover-snippet">The Strange Case of Dr X Think Anomalous The Strange Case of Dr X: UFOs and &#x27;Miracle&#x27; Healings Think Anomalous</span></span></span>
+The doctor then reportedly checked the kitchen clock, made notes and sketches, and woke his wife. His wife’s role is important but limited: she did not witness the objects themselves in the main accounts, but she is said to have noticed immediate changes in his walking and leg condition after he described the event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkanomalous.com/drx-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkanomalous.com">[Think Anomalous]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkanomalous.com</span><span class="citation-popover-title">Think Anomalous The Strange Case of Dr. X: UFOs and &quot;Miracle&quot; Healings</span><span class="citation-popover-snippet">The Strange Case of Dr X Think Anomalous The Strange Case of Dr X: UFOs and &#x27;Miracle&#x27; Healings Think Anomalous</span></span></span>
 
 ## Why the “healing” claim became central
 
-The case became famous because the UFO sighting was followed by claims of sudden physical improvement. The doctor was said to have had a recent leg wound and haematoma from chopping wood, as well as older partial paralysis or impaired mobility from a wartime injury connected with the Algerian War. After the encounter, the wound swelling and pain were said to have disappeared, and the older mobility problem allegedly did not return. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Le cas du docteur X</span><span class="citation-popover-snippet">Le cas du docteur X</span></span></span>
+The case became famous because the UFO sighting was followed by claims of sudden physical improvement. The doctor was said to have had a recent leg wound and haematoma from chopping wood, as well as older partial paralysis or impaired mobility from a wartime injury connected with the Algerian War. After the encounter, the wound swelling and pain were said to have disappeared, and the older mobility problem allegedly did not return.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Le cas du docteur X</span><span class="citation-popover-snippet">Le cas du docteur X</span></span></span>
 
-That claim is striking, but it is also where the evidential problem becomes sharp. The report rests on testimony, later inspection, and investigator accounts rather than publicly available before-and-after clinical records. Aimé Michel, the French UFO writer who investigated the case, reportedly visited within days, interviewed the couple, inspected the witness’s legs, and noted that only a faint sign of the recent injury remained. That is stronger than a late campfire story, but it is not the same as independent medical documentation under controlled conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkanomalous.com/drx-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkanomalous.com">[Think Anomalous]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkanomalous.com</span><span class="citation-popover-title">Think Anomalous The Strange Case of Dr. X: UFOs and &quot;Miracle&quot; Healings</span><span class="citation-popover-snippet">The Strange Case of Dr X Think Anomalous The Strange Case of Dr X: UFOs and &#x27;Miracle&#x27; Healings Think Anomalous</span></span></span>
+That claim is striking, but it is also where the evidential problem becomes sharp. The report rests on testimony, later inspection, and investigator accounts rather than publicly available before-and-after clinical records. Aimé Michel, the French UFO writer who investigated the case, reportedly visited within days, interviewed the couple, inspected the witness’s legs, and noted that only a faint sign of the recent injury remained. That is stronger than a late campfire story, but it is not the same as independent medical documentation under controlled conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkanomalous.com/drx-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkanomalous.com">[Think Anomalous]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkanomalous.com</span><span class="citation-popover-title">Think Anomalous The Strange Case of Dr. X: UFOs and &quot;Miracle&quot; Healings</span><span class="citation-popover-snippet">The Strange Case of Dr X Think Anomalous The Strange Case of Dr X: UFOs and &#x27;Miracle&#x27; Healings Think Anomalous</span></span></span>
 
 <img src="{{ "/assets/images/Doctor_X_UFO_encount_5e669c-Illustration-1-dark.svg" | relative_url }}" alt="Doctor X UFO encounter 1968 illustration 1" data-theme-src-dark="{{ "/assets/images/Doctor_X_UFO_encount_5e669c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Doctor_X_UFO_encount_5e669c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The recurring triangle: the case’s strangest physical claim
 
-A second bodily claim soon overtook the healing story: a red triangular mark reportedly appeared around the doctor’s navel after the encounter. Accounts say abdominal cramps and itching preceded the mark, that a dermatologist examined it without finding an ordinary explanation, and that the doctor did not initially tell the dermatologist about the UFO claim. A similar mark was later reported on the child. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Le cas du docteur X</span><span class="citation-popover-snippet">Le cas du docteur X</span></span></span>
+A second bodily claim soon overtook the healing story: a red triangular mark reportedly appeared around the doctor’s navel after the encounter. Accounts say abdominal cramps and itching preceded the mark, that a dermatologist examined it without finding an ordinary explanation, and that the doctor did not initially tell the dermatologist about the UFO claim. A similar mark was later reported on the child.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Le cas du docteur X</span><span class="citation-popover-snippet">Le cas du docteur X</span></span></span>
 
-Later retellings say the triangle recurred for years, sometimes appearing annually or periodically, lasting two or three days before fading. RR0’s case summary says the mark was filmed in 1986 by Jean-Yves Casgha’s team and that the phenomenon was later shown on the French television programme *Mystères*. The French National Audiovisual Institute catalogue confirms that a 10 December 1993 episode included “Le Triangle du docteur X”, with the doctor’s face hidden, a reconstruction of the sighting, and close-up footage of a red triangle forming around his navel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Le cas du docteur X</span><span class="citation-popover-snippet">Le cas du docteur X</span></span></span>
+Later retellings say the triangle recurred for years, sometimes appearing annually or periodically, lasting two or three days before fading. RR0’s case summary says the mark was filmed in 1986 by Jean-Yves Casgha’s team and that the phenomenon was later shown on the French television programme *Mystères*. The French National Audiovisual Institute catalogue confirms that a 10 December 1993 episode included “Le Triangle du docteur X”, with the doctor’s face hidden, a reconstruction of the sighting, and close-up footage of a red triangle forming around his navel.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Le cas du docteur X</span><span class="citation-popover-snippet">Le cas du docteur X</span></span></span>
 
-The triangle is therefore not merely a written claim; it became a visual media claim. But the evidential value remains uncertain. Television footage can document that a mark was visible, not by itself what caused it, whether it was spontaneous, or whether normal dermatological, vascular, allergic, psychosomatic, or artificial explanations were excluded under controlled observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalogue.ina.fr/doc/TV-RADIO/DA_CPA93012369/Mysteres%2B_%2Bemission%2Bdu%2B10%2Bdecembre%2B1993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalogue.ina.fr">[catalogue.ina.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalogue.ina.fr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The triangle is therefore not merely a written claim; it became a visual media claim. But the evidential value remains uncertain. Television footage can document that a mark was visible, not by itself what caused it, whether it was spontaneous, or whether normal dermatological, vascular, allergic, psychosomatic, or artificial explanations were excluded under controlled observation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalogue.ina.fr/doc/TV-RADIO/DA_CPA93012369/Mysteres%2B_%2Bemission%2Bdu%2B10%2Bdecembre%2B1993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalogue.ina.fr">[catalogue.ina.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalogue.ina.fr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6F2C-4IL5f4" title="Legendary UFO Expert Jacques Valle Details Overlooked UFO Sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6F2C-4IL5f4" target="_blank" rel="noopener noreferrer">Legendary UFO Expert Jacques Valle Details Overlooked UFO Sightings</a></p><p class="youtube-embed-meta">Channel: JRE Clips &middot; Views: 885.4K &middot; Uploaded: March 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6F2C-4IL5f4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6F2C-4IL5f4">Open on YouTube</a></p></div></div></div>
 
 ## Who investigated, and what records exist?
 
-The main early investigator was Aimé Michel, who published the case in *Flying Saucer Review* in 1969 and returned to it in 1971. Later writers, including Jacques Vallée, helped make the case known outside France. RR0’s bibliography also lists *Inforespace*, Michel Figuet’s French close-encounter catalogue, Michel’s investigation file, Vallée’s *Le Collège Invisible*, and later French paranormal or UFO media treatments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkanomalous.com/drx-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkanomalous.com">[Think Anomalous]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkanomalous.com</span><span class="citation-popover-title">Think Anomalous The Strange Case of Dr. X: UFOs and &quot;Miracle&quot; Healings</span><span class="citation-popover-snippet">The Strange Case of Dr X Think Anomalous The Strange Case of Dr X: UFOs and &#x27;Miracle&#x27; Healings Think Anomalous</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[2RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Le cas du docteur X</span><span class="citation-popover-snippet">Le cas du docteur X</span></span></span>
+The main early investigator was Aimé Michel, who published the case in *Flying Saucer Review* in 1969 and returned to it in 1971. Later writers, including Jacques Vallée, helped make the case known outside France. RR0’s bibliography also lists *Inforespace*, Michel Figuet’s French close-encounter catalogue, Michel’s investigation file, Vallée’s *Le Collège Invisible*, and later French paranormal or UFO media treatments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkanomalous.com/drx-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkanomalous.com">[Think Anomalous]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkanomalous.com</span><span class="citation-popover-title">Think Anomalous The Strange Case of Dr. X: UFOs and &quot;Miracle&quot; Healings</span><span class="citation-popover-snippet">The Strange Case of Dr X Think Anomalous The Strange Case of Dr X: UFOs and &#x27;Miracle&#x27; Healings Think Anomalous</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[2RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Le cas du docteur X</span><span class="citation-popover-snippet">Le cas du docteur X</span></span></span>
 
-The strongest record category is therefore not official documentation but ufological documentation: early notes, sketches, investigator interviews, retrospective summaries, and later television material. The doctor’s anonymity protects the witness from publicity but weakens independent verification: readers cannot easily check his professional identity, medical history, full dermatological record, or local corroboration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Le cas du docteur X</span><span class="citation-popover-snippet">Le cas du docteur X</span></span></span>
+The strongest record category is therefore not official documentation but ufological documentation: early notes, sketches, investigator interviews, retrospective summaries, and later television material. The doctor’s anonymity protects the witness from publicity but weakens independent verification: readers cannot easily check his professional identity, medical history, full dermatological record, or local corroboration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Le cas du docteur X</span><span class="citation-popover-snippet">Le cas du docteur X</span></span></span>
 
-No strong evidence found in the current public record shows that the case was investigated by GEIPAN or its predecessor as an official French state case. That absence matters because GEIPAN, created by CNES in 1977, is France’s public body for collecting, analysing, archiving and publishing UAP reports; the Doctor X event predates it by nearly a decade. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+No strong evidence found in the current public record shows that the case was investigated by GEIPAN or its predecessor as an official French state case. That absence matters because GEIPAN, created by CNES in 1977, is France’s public body for collecting, analysing, archiving and publishing UAP reports; the Doctor X event predates it by nearly a decade.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 <img src="{{ "/assets/images/Doctor_X_UFO_encount_5e669c-Illustration-2-dark.svg" | relative_url }}" alt="Doctor X UFO encounter 1968 illustration 2" data-theme-src-dark="{{ "/assets/images/Doctor_X_UFO_encount_5e669c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Doctor_X_UFO_encount_5e669c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What makes the witness credible — and what does not?
 
-The case’s credibility begins with the witness profile. A physician or stomatology specialist is not automatically a more accurate observer of aerial phenomena, but such a witness is more likely than average to understand bodily symptoms and to describe them coherently. The reported immediate written notes and drawings also help, because they reduce the risk that every detail was invented years later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Le cas du docteur X</span><span class="citation-popover-snippet">Le cas du docteur X</span></span></span>
+The case’s credibility begins with the witness profile. A physician or stomatology specialist is not automatically a more accurate observer of aerial phenomena, but such a witness is more likely than average to understand bodily symptoms and to describe them coherently. The reported immediate written notes and drawings also help, because they reduce the risk that every detail was invented years later.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Le cas du docteur X</span><span class="citation-popover-snippet">Le cas du docteur X</span></span></span>
 
-The corroboration is mixed. The wife reportedly corroborated the doctor’s condition and behaviour after the event, not the aerial objects. The child’s excitement before the sighting and later triangle claims are intriguing, but a toddler is not an independent technical witness. Later investigators and television crews may have documented the mark, but they entered the story after the interpretive frame already existed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkanomalous.com/drx-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkanomalous.com">[Think Anomalous]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkanomalous.com</span><span class="citation-popover-title">Think Anomalous The Strange Case of Dr. X: UFOs and &quot;Miracle&quot; Healings</span><span class="citation-popover-snippet">The Strange Case of Dr X Think Anomalous The Strange Case of Dr X: UFOs and &#x27;Miracle&#x27; Healings Think Anomalous</span></span></span>
+The corroboration is mixed. The wife reportedly corroborated the doctor’s condition and behaviour after the event, not the aerial objects. The child’s excitement before the sighting and later triangle claims are intriguing, but a toddler is not an independent technical witness. Later investigators and television crews may have documented the mark, but they entered the story after the interpretive frame already existed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkanomalous.com/drx-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkanomalous.com">[Think Anomalous]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkanomalous.com</span><span class="citation-popover-title">Think Anomalous The Strange Case of Dr. X: UFOs and &quot;Miracle&quot; Healings</span><span class="citation-popover-snippet">The Strange Case of Dr X Think Anomalous The Strange Case of Dr X: UFOs and &#x27;Miracle&#x27; Healings Think Anomalous</span></span></span>
 
-The case also accumulated increasingly extraordinary follow-on claims: memory disruption, sleep-talking, coincidences, electrical anomalies, levitation, and later experiences reported in Bernard Bidault’s 2003 interview. These additions may interest readers of “high strangeness” UFO literature, but they also make the case harder to evaluate because they move it farther from a bounded sighting report into a long-running personal paranormal narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkanomalous.com/drx-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkanomalous.com">[Think Anomalous]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkanomalous.com</span><span class="citation-popover-title">Think Anomalous The Strange Case of Dr. X: UFOs and &quot;Miracle&quot; Healings</span><span class="citation-popover-snippet">The Strange Case of Dr X Think Anomalous The Strange Case of Dr X: UFOs and &#x27;Miracle&#x27; Healings Think Anomalous</span></span></span>
+The case also accumulated increasingly extraordinary follow-on claims: memory disruption, sleep-talking, coincidences, electrical anomalies, levitation, and later experiences reported in Bernard Bidault’s 2003 interview. These additions may interest readers of “high strangeness” UFO literature, but they also make the case harder to evaluate because they move it farther from a bounded sighting report into a long-running personal paranormal narrative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkanomalous.com/drx-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkanomalous.com">[Think Anomalous]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkanomalous.com</span><span class="citation-popover-title">Think Anomalous The Strange Case of Dr. X: UFOs and &quot;Miracle&quot; Healings</span><span class="citation-popover-snippet">The Strange Case of Dr X Think Anomalous The Strange Case of Dr X: UFOs and &#x27;Miracle&#x27; Healings Think Anomalous</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BVH9wu28yEQ" title="The Strange Case of Dr X: UFOs and &quot;Miracle&quot; Healings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BVH9wu28yEQ" target="_blank" rel="noopener noreferrer">The Strange Case of Dr X: UFOs and &quot;Miracle&quot; Healings</a></p><p class="youtube-embed-meta">Channel: Think Anomalous &middot; Views: 86.7K &middot; Uploaded: April 2019 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BVH9wu28yEQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BVH9wu28yEQ">Open on YouTube</a></p></div></div></div>
 
 ## Plausible interpretations
 
-A restrained reading separates three questions: did the doctor experience something unusual, did the reported bodily effects occur as described, and were those effects caused by an external anomalous object? The first is plausible as testimony; the second is possible but poorly documented in public medical terms; the third is the least established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Le cas du docteur X</span><span class="citation-popover-snippet">Le cas du docteur X</span></span></span>
+A restrained reading separates three questions: did the doctor experience something unusual, did the reported bodily effects occur as described, and were those effects caused by an external anomalous object? The first is plausible as testimony; the second is possible but poorly documented in public medical terms; the third is the least established.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Le cas du docteur X</span><span class="citation-popover-snippet">Le cas du docteur X</span></span></span>
 
-The UFO-leaning interpretation treats the case as a rare close encounter with physiological effects. In that frame, the sudden healing, the recurring triangle, the child’s reported mark, and the long-term psychological changes are not side details but central evidence that the phenomenon interacted with the witness. Think Anomalous summarises the case in exactly that tradition, presenting it as one of the better-known UFO “healing” narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkanomalous.com/drx-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkanomalous.com">[Think Anomalous]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkanomalous.com</span><span class="citation-popover-title">Think Anomalous The Strange Case of Dr. X: UFOs and &quot;Miracle&quot; Healings</span><span class="citation-popover-snippet">The Strange Case of Dr X Think Anomalous The Strange Case of Dr X: UFOs and &#x27;Miracle&#x27; Healings Think Anomalous</span></span></span>
+The UFO-leaning interpretation treats the case as a rare close encounter with physiological effects. In that frame, the sudden healing, the recurring triangle, the child’s reported mark, and the long-term psychological changes are not side details but central evidence that the phenomenon interacted with the witness. Think Anomalous summarises the case in exactly that tradition, presenting it as one of the better-known UFO “healing” narratives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkanomalous.com/drx-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkanomalous.com">[Think Anomalous]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkanomalous.com</span><span class="citation-popover-title">Think Anomalous The Strange Case of Dr. X: UFOs and &quot;Miracle&quot; Healings</span><span class="citation-popover-snippet">The Strange Case of Dr X Think Anomalous The Strange Case of Dr X: UFOs and &#x27;Miracle&#x27; Healings Think Anomalous</span></span></span>
 
-The sceptical interpretation is more cautious. Éric Maillot’s 1993 Cercle Zététique article, cited in RR0’s bibliography and indexed under the title “Le cas du Dr X: deux ovnis pour un stigmate”, treated the case as a target for debunking rather than as proof of an anomalous event. Search excerpts from the article indicate that it challenged the significance of the doctor’s difficult sleep, pain, and related circumstances, though the original page was not fully retrievable during this pass. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Le cas du docteur X</span><span class="citation-popover-snippet">Le cas du docteur X</span></span></span>
+The sceptical interpretation is more cautious. Éric Maillot’s 1993 Cercle Zététique article, cited in RR0’s bibliography and indexed under the title “Le cas du Dr X: deux ovnis pour un stigmate”, treated the case as a target for debunking rather than as proof of an anomalous event. Search excerpts from the article indicate that it challenged the significance of the doctor’s difficult sleep, pain, and related circumstances, though the original page was not fully retrievable during this pass.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Le cas du docteur X</span><span class="citation-popover-snippet">Le cas du docteur X</span></span></span>
 
-A middle position is that the case is valuable as an experience report but not as proof of alien technology. It may document a dramatic personal event shaped by illness, shock, sleep disruption, storm conditions, memory effects, psychosomatic processes, suggestibility, later reinforcement, or some still-unidentified stimulus. That does not require dismissing the witness as dishonest; it does require resisting a leap from “unexplained in the available record” to “extraterrestrial craft”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkanomalous.com/drx-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkanomalous.com">[Think Anomalous]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkanomalous.com</span><span class="citation-popover-title">Think Anomalous The Strange Case of Dr. X: UFOs and &quot;Miracle&quot; Healings</span><span class="citation-popover-snippet">The Strange Case of Dr X Think Anomalous The Strange Case of Dr X: UFOs and &#x27;Miracle&#x27; Healings Think Anomalous</span></span></span>
+A middle position is that the case is valuable as an experience report but not as proof of alien technology. It may document a dramatic personal event shaped by illness, shock, sleep disruption, storm conditions, memory effects, psychosomatic processes, suggestibility, later reinforcement, or some still-unidentified stimulus. That does not require dismissing the witness as dishonest; it does require resisting a leap from “unexplained in the available record” to “extraterrestrial craft”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkanomalous.com/drx-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkanomalous.com">[Think Anomalous]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkanomalous.com</span><span class="citation-popover-title">Think Anomalous The Strange Case of Dr. X: UFOs and &quot;Miracle&quot; Healings</span><span class="citation-popover-snippet">The Strange Case of Dr X Think Anomalous The Strange Case of Dr X: UFOs and &#x27;Miracle&#x27; Healings Think Anomalous</span></span></span>
 
 <img src="{{ "/assets/images/Doctor_X_UFO_encount_5e669c-Illustration-3-dark.svg" | relative_url }}" alt="Doctor X UFO encounter 1968 illustration 3" data-theme-src-dark="{{ "/assets/images/Doctor_X_UFO_encount_5e669c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Doctor_X_UFO_encount_5e669c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How it fits the UFO literature of the period
 
-The Doctor X case emerged at a time when UFO research was divided between catalogue-building, physical-trace investigation, contactee narratives, and a growing debate about whether UFOs were best understood as spacecraft, misidentifications, psychological events, folklore-like experiences, or a mixture of categories. Jacques Vallée’s work is relevant here because he argued that modern UFO reports often resemble older folklore and visionary traditions rather than fitting neatly into a simple extraterrestrial-vehicle model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.france-catholique.fr/les-ovnis-et-l-irrationnel.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: france-catholique.fr">[France Catholique]</a><span class="citation-popover" role="note"><span class="citation-popover-source">france-catholique.fr</span><span class="citation-popover-title">France Catholique LES OVNIS ET L’IRRATIONNEL</span><span class="citation-popover-snippet">France Catholique LES OVNIS ET L’IRRATIONNEL</span></span></span>
+The Doctor X case emerged at a time when UFO research was divided between catalogue-building, physical-trace investigation, contactee narratives, and a growing debate about whether UFOs were best understood as spacecraft, misidentifications, psychological events, folklore-like experiences, or a mixture of categories. Jacques Vallée’s work is relevant here because he argued that modern UFO reports often resemble older folklore and visionary traditions rather than fitting neatly into a simple extraterrestrial-vehicle model.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.france-catholique.fr/les-ovnis-et-l-irrationnel.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: france-catholique.fr">[France Catholique]</a><span class="citation-popover" role="note"><span class="citation-popover-source">france-catholique.fr</span><span class="citation-popover-title">France Catholique LES OVNIS ET L’IRRATIONNEL</span><span class="citation-popover-snippet">France Catholique LES OVNIS ET L’IRRATIONNEL</span></span></span>
 
-The wider official climate was sceptical. The United States’ Condon Report, released around the same period, concluded that UFO study had not added to scientific knowledge and did not justify further extensive investigation in expectation of scientific advance. That report was not about Doctor X, but it helps explain why a case built on anonymous testimony, medical effects and paranormal sequelae would struggle to gain mainstream scientific traction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/1725090" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">UFO Study: Condon Group Finds No Evidence of Visits</span><span class="citation-popover-snippet">UFO Study: Condon Group Finds No Evidence of Visits</span></span></span>
+The wider official climate was sceptical. The United States’ Condon Report, released around the same period, concluded that UFO study had not added to scientific knowledge and did not justify further extensive investigation in expectation of scientific advance. That report was not about Doctor X, but it helps explain why a case built on anonymous testimony, medical effects and paranormal sequelae would struggle to gain mainstream scientific traction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/1725090" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">UFO Study: Condon Group Finds No Evidence of Visits</span><span class="citation-popover-snippet">UFO Study: Condon Group Finds No Evidence of Visits</span></span></span>
 
-In France, systematic official handling of UAP reports came later through CNES structures beginning in 1977. Modern GEIPAN’s public mission is to collect, investigate and archive UAP reports, but Doctor X belongs mainly to pre-GEIPAN private ufology rather than to a transparent official case file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+In France, systematic official handling of UAP reports came later through CNES structures beginning in 1977. Modern GEIPAN’s public mission is to collect, investigate and archive UAP reports, but Doctor X belongs mainly to pre-GEIPAN private ufology rather than to a transparent official case file.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5H_O5NzjWgk" title="Jacques Vallée - Astronomer, Author, UFOlogist || That UFO Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5H_O5NzjWgk" target="_blank" rel="noopener noreferrer">Jacques Vallée - Astronomer, Author, UFOlogist || That UFO Podcast</a></p><p class="youtube-embed-meta">Channel: That UFO Podcast &middot; Views: 30.1K &middot; Uploaded: October 2022 &middot; Length: 1 hour 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5H_O5NzjWgk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5H_O5NzjWgk">Open on YouTube</a></p></div></div></div>
 
 ## Best assessment
 
-The Doctor X encounter is a significant UFO case because it is early, detailed, medically framed, and unusually rich in alleged after-effects. It has more structure than many anecdotal UFO stories: a named investigative tradition, reported early notes and drawings, a family setting, later visual documentation of the triangle claim, and repeated discussion by major French and international UFO writers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Le cas du docteur X</span><span class="citation-popover-snippet">Le cas du docteur X</span></span></span>
+The Doctor X encounter is a significant UFO case because it is early, detailed, medically framed, and unusually rich in alleged after-effects. It has more structure than many anecdotal UFO stories: a named investigative tradition, reported early notes and drawings, a family setting, later visual documentation of the triangle claim, and repeated discussion by major French and international UFO writers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Le cas du docteur X</span><span class="citation-popover-snippet">Le cas du docteur X</span></span></span>
 
-It is not, however, a clean evidential case. The main aerial observation appears to have had one adult witness. The medical claims are not supported in the public record by independently verifiable clinical files. The recurring triangle was reportedly observed and filmed, but not demonstrated under conditions that would rule out ordinary dermatological or behavioural explanations. The later accumulation of paranormal claims makes the narrative more memorable, but not more scientifically secure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalogue.ina.fr/doc/TV-RADIO/DA_CPA93012369/Mysteres%2B_%2Bemission%2Bdu%2B10%2Bdecembre%2B1993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalogue.ina.fr">[catalogue.ina.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalogue.ina.fr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+It is not, however, a clean evidential case. The main aerial observation appears to have had one adult witness. The medical claims are not supported in the public record by independently verifiable clinical files. The recurring triangle was reportedly observed and filmed, but not demonstrated under conditions that would rule out ordinary dermatological or behavioural explanations. The later accumulation of paranormal claims makes the narrative more memorable, but not more scientifically secure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalogue.ina.fr/doc/TV-RADIO/DA_CPA93012369/Mysteres%2B_%2Bemission%2Bdu%2B10%2Bdecembre%2B1993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalogue.ina.fr">[catalogue.ina.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalogue.ina.fr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The fairest conclusion is that Doctor X remains an unresolved, testimony-led close-encounter case rather than a proven UFO healing event. Its enduring value is as a case study in how witness credibility, bodily claims, anonymity, investigator belief, media presentation and missing documentation can all coexist in one puzzling report.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Doctor X Witness More Than Lights?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Doctor X Witness More Than Lights?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Profiles the anonymous French physician (Doctor X) encounter, documenting the 1968 timeline and subsequent secondary investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Profiles the anonymous French physician (Doctor X) encounter, documenting the 1968 timeline and subsequent secondary investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Places the Doctor X report within the larger history of French close-encounter sightings, analyzing the reliability of high-profile witne...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places the Doctor X report within the larger history of French close-encounter sightings, analyzing the reliability of high-profile witne...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches investigative skills to identify forensic limitations when cases are primarily built on notes and subjective drawings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches investigative skills to identify forensic limitations when cases are primarily built on notes and subjective drawings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Documents how official intelligence bureaus index and analyze sightings that rely heavily on civilian, non-instrument-based reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents how official intelligence bureaus index and analyze sightings that rely heavily on civilian, non-instrument-based reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-doctor-x-witness-more-than-lights-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-doctor-x-witness-more-than-lights-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1034,7 +1034,7 @@ The fairest conclusion is that Doctor X remains an unresolved, testimony-led clo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1054,7 +1054,7 @@ The fairest conclusion is that Doctor X remains an unresolved, testimony-led clo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1086,7 +1086,7 @@ The fairest conclusion is that Doctor X remains an unresolved, testimony-led clo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1138,7 +1138,7 @@ The fairest conclusion is that Doctor X remains an unresolved, testimony-led clo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1183,7 +1183,7 @@ The fairest conclusion is that Doctor X remains an unresolved, testimony-led clo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1224,141 +1224,141 @@ The fairest conclusion is that Doctor X remains an unresolved, testimony-led clo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: rr0.org  
    Title: Le cas du docteur X  
-   Link: <a href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/</a>  
+   Link:<a href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: catalogue.ina.fr  
-   Link: <a href="https://catalogue.ina.fr/doc/TV-RADIO/DA_CPA93012369/Mysteres%2B_%2Bemission%2Bdu%2B10%2Bdecembre%2B1993" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.ina.fr/doc/TV-RADIO/DA_CPA93012369/Mysteres%2B_%2Bemission%2Bdu%2B10%2Bdecembre%2B1993</a>  
+   Link:<a href="https://catalogue.ina.fr/doc/TV-RADIO/DA_CPA93012369/Mysteres%2B_%2Bemission%2Bdu%2B10%2Bdecembre%2B1993" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.ina.fr/doc/TV-RADIO/DA_CPA93012369/Mysteres%2B_%2Bemission%2Bdu%2B10%2Bdecembre%2B1993</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: france-catholique.fr  
    Title: France Catholique LES OVNIS ET L’IRRATIONNEL  
-   Link: <a href="https://www.france-catholique.fr/les-ovnis-et-l-irrationnel.html" target="_blank" rel="noopener noreferrer nofollow">https://www.france-catholique.fr/les-ovnis-et-l-irrationnel.html</a>  
+   Link:<a href="https://www.france-catholique.fr/les-ovnis-et-l-irrationnel.html" target="_blank" rel="noopener noreferrer nofollow">https://www.france-catholique.fr/les-ovnis-et-l-irrationnel.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cnes.fr  
-   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
+   Link:<a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: jstor.org  
    Title: UFO Study: Condon Group Finds No Evidence of Visits  
-   Link: <a href="https://www.jstor.org/stable/1725090" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1725090</a>  
+   Link:<a href="https://www.jstor.org/stable/1725090" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1725090</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/UFO_Waves.__An_International_Bibliography__November__1___2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/UFO_Waves.__An_International_Bibliography__November__1___2015.pdf</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/UFO_Waves.__An_International_Bibliography__November__1___2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/UFO_Waves.__An_International_Bibliography__November__1___2015.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/Questionnaire%20terre-R5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Questionnaire%20terre-R5.pdf</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/Questionnaire%20terre-R5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Questionnaire%20terre-R5.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cnes-geipan.fr  
    Title: stat poher 71  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/stat_poher_71.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/stat_poher_71.pdf</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/stat_poher_71.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/stat_poher_71.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58792</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58792</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/58791" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58791</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58791" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58791</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/details/flyingsaucersstr0000aime" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/flyingsaucersstr0000aime</a>  
+   Link:<a href="https://archive.org/details/flyingsaucersstr0000aime" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/flyingsaucersstr0000aime</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archive.org  
    Title: UFOmania No 55 djvu.txt  
-   Link: <a href="https://archive.org/stream/UFOmania_No_55/UFOmania_No_55_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UFOmania_No_55/UFOmania_No_55_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/UFOmania_No_55/UFOmania_No_55_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UFOmania_No_55/UFOmania_No_55_djvu.txt</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Legendary UFO Expert Jacques Valle Details Overlooked UFO Sightings  
-   Link: <a href="https://www.youtube.com/watch?v=6F2C-4IL5f4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6F2C-4IL5f4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques Vallée - Astronomer, Author, UFOlogist || That UFO Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6F2C-4IL5f4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6F2C-4IL5f4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques Vallée - Astronomer, Author, UFOlogist || That UFO Podcast...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Jacques Vallée  
-   Link: <a href="https://www.youtube.com/watch?v=5H_O5NzjWgk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5H_O5NzjWgk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strange Case of Dr X Think Anomalous The Strange Case of Dr X: UFOs and &quot;Miracle&quot; Healings Think Anomalous...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5H_O5NzjWgk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5H_O5NzjWgk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Strange Case of Dr X Think Anomalous The Strange Case of Dr X: UFOs and &quot;Miracle&quot; Healings Think Anomalous...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thinkanomalous.com  
    Title: Think Anomalous The Strange Case of Dr. X: UFOs and "Miracle" Healings  
-   Link: <a href="https://www.thinkanomalous.com/drx-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkanomalous.com/drx-ufo.html</a>  
+   Link:<a href="https://www.thinkanomalous.com/drx-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkanomalous.com/drx-ufo.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: amazon.nl  
    Title: Flying Saucer Review  
-   Link: <a href="https://www.amazon.nl/-/en/Charles-Bowen-ebook/dp/B01M6WZJOZ" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/-/en/Charles-Bowen-ebook/dp/B01M6WZJOZ</a>  
+   Link:<a href="https://www.amazon.nl/-/en/Charles-Bowen-ebook/dp/B01M6WZJOZ" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/-/en/Charles-Bowen-ebook/dp/B01M6WZJOZ</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scifihistory.net  
    Title: November 19  
-   Link: <a href="https://www.scifihistory.net/november-19.html" target="_blank" rel="noopener noreferrer nofollow">https://www.scifihistory.net/november-19.html</a>  
+   Link:<a href="https://www.scifihistory.net/november-19.html" target="_blank" rel="noopener noreferrer nofollow">https://www.scifihistory.net/november-19.html</a>  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Implications of UFO Phenomena with Jacques Vallée  
-   Link: <a href="https://www.youtube.com/watch?v=6We0GMqqoko" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6We0GMqqoko</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Legendary UFO Expert Jacques Valle Details Overlooked UFO Sightings...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6We0GMqqoko" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6We0GMqqoko</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Legendary UFO Expert Jacques Valle Details Overlooked UFO Sightings...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Strange Case of Dr X: UFOs and "Miracle" Healings  
-   Link: <a href="https://www.youtube.com/watch?v=BVH9wu28yEQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BVH9wu28yEQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Double UFO Encounter Heals Man&#x27;s Wounded Leg...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BVH9wu28yEQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BVH9wu28yEQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Double UFO Encounter Heals Man&#x27;s Wounded Leg...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dondammassa.com  
-   Link: <a href="https://www.dondammassa.com/znourse.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.dondammassa.com/znourse.htm</a>  
+   Link:<a href="https://www.dondammassa.com/znourse.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.dondammassa.com/znourse.htm</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cliniquedessoinsdelapalmeraie/posts/cadavre-extraterrestre-rectal-pouvez-vous-rep%C3%A9rer-lobjet-ceci-est-une-radio-actu/2273789942770553/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cliniquedessoinsdelapalmeraie/posts/cadavre-extraterrestre-rectal-pouvez-vous-rep%C3%A9rer-lobjet-ceci-est-une-radio-actu/2273789942770553/</a>  
+   Link:<a href="https://www.facebook.com/cliniquedessoinsdelapalmeraie/posts/cadavre-extraterrestre-rectal-pouvez-vous-rep%C3%A9rer-lobjet-ceci-est-une-radio-actu/2273789942770553/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cliniquedessoinsdelapalmeraie/posts/cadavre-extraterrestre-rectal-pouvez-vous-rep%C3%A9rer-lobjet-ceci-est-une-radio-actu/2273789942770553/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report</a>  
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/</a>  
+   Link:<a href="https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CollectiveEvolutionPage/posts/dr-jacques-vallee-holds-a-masters-degree-in-astrophysics-and-a-phd-in-computer-s/1356970593143350/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CollectiveEvolutionPage/posts/dr-jacques-vallee-holds-a-masters-degree-in-astrophysics-and-a-phd-in-computer-s/1356970593143350/</a>  
+   Link:<a href="https://www.facebook.com/CollectiveEvolutionPage/posts/dr-jacques-vallee-holds-a-masters-degree-in-astrophysics-and-a-phd-in-computer-s/1356970593143350/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CollectiveEvolutionPage/posts/dr-jacques-vallee-holds-a-masters-degree-in-astrophysics-and-a-phd-in-computer-s/1356970593143350/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object</a>  
+   Link:<a href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/UFOSCEPTICISME/posts/4353437421469614/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/UFOSCEPTICISME/posts/4353437421469614/</a>  
+   Link:<a href="https://www.facebook.com/groups/UFOSCEPTICISME/posts/4353437421469614/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/UFOSCEPTICISME/posts/4353437421469614/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: abebooks.co.uk  
-   Link: <a href="https://www.abebooks.co.uk/Final-Report-Scientific-Study-Unidentified-Flying/30913372731/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/Final-Report-Scientific-Study-Unidentified-Flying/30913372731/bd</a>
+   Link:<a href="https://www.abebooks.co.uk/Final-Report-Scientific-Study-Unidentified-Flying/30913372731/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/Final-Report-Scientific-Study-Unidentified-Flying/30913372731/bd</a>

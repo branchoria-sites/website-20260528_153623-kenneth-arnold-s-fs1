@@ -763,39 +763,39 @@ Its importance is not that it proves a UFO explanation. It does not. Its importa
 <img src="{{ "/assets/images/CashLandrum_incident_7ad7d9-overview.webp" | relative_url }}" alt="Overview image for Cash Landrum incident 1980" loading="eager" decoding="sync" fetchpriority="high">
 ## What the witnesses said happened that night
 
-The core account places Cash, Vickie Landrum and Colby Landrum on Farm-to-Market Road 1485 between New Caney and Huffman, Texas, at roughly 9.00 to 9.30 pm on 29 December 1980. In the August 1981 Bergstrom Air Force Base interview, Cash described the location in that general corridor and said they had been returning after a failed attempt to attend bingo and a stop at a restaurant near Highway 59 and FM 1485. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Transcript, Cash-Landrum Interview</span><span class="citation-popover-snippet">Transcript, Cash-Landrum Interview</span></span></span>
+The core account places Cash, Vickie Landrum and Colby Landrum on Farm-to-Market Road 1485 between New Caney and Huffman, Texas, at roughly 9.00 to 9.30 pm on 29 December 1980. In the August 1981 Bergstrom Air Force Base interview, Cash described the location in that general corridor and said they had been returning after a failed attempt to attend bingo and a stop at a restaurant near Highway 59 and FM 1485.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Transcript, Cash-Landrum Interview</span><span class="citation-popover-snippet">Transcript, Cash-Landrum Interview</span></span></span>
 
-The object was later described as a large diamond-shaped craft hovering low over or near the road, emitting flames downward and producing intense heat. In the familiar retelling, Cash got out of the car while Vickie and Colby stayed closer to or inside it; the witnesses then saw numerous helicopters, some described as tandem-rotor Chinook-type aircraft, apparently moving around the object. Cash told Air Force interviewers that she counted twenty-three helicopters and claimed they bore “United States Air Force” markings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cufon-o.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">CUFO N &quot;Other Files&quot; Directory CASH</span><span class="citation-popover-snippet">CUFO N &quot;Other Files&quot; Directory CASH</span></span></span>
+The object was later described as a large diamond-shaped craft hovering low over or near the road, emitting flames downward and producing intense heat. In the familiar retelling, Cash got out of the car while Vickie and Colby stayed closer to or inside it; the witnesses then saw numerous helicopters, some described as tandem-rotor Chinook-type aircraft, apparently moving around the object. Cash told Air Force interviewers that she counted twenty-three helicopters and claimed they bore “United States Air Force” markings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cufon-o.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">CUFO N &quot;Other Files&quot; Directory CASH</span><span class="citation-popover-snippet">CUFO N &quot;Other Files&quot; Directory CASH</span></span></span>
 
-The case’s emotional force comes from the detail of fear and heat. Vickie Landrum, a religious woman, later said she tried to calm Colby by framing the object in Christian terms; in the Bergstrom transcript she recalled telling him to look for “Jesus” inside it while he screamed and cried. That detail is often used both ways: by proponents as a sign of raw, unrehearsed panic, and by sceptics as a reminder that the witnesses were interpreting a confusing event under acute stress. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Transcript, Cash-Landrum Interview</span><span class="citation-popover-snippet">Transcript, Cash-Landrum Interview</span></span></span>
+The case’s emotional force comes from the detail of fear and heat. Vickie Landrum, a religious woman, later said she tried to calm Colby by framing the object in Christian terms; in the Bergstrom transcript she recalled telling him to look for “Jesus” inside it while he screamed and cried. That detail is often used both ways: by proponents as a sign of raw, unrehearsed panic, and by sceptics as a reminder that the witnesses were interpreting a confusing event under acute stress.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlani.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Transcript, Cash-Landrum Interview</span><span class="citation-popover-snippet">Transcript, Cash-Landrum Interview</span></span></span>
 
 <img src="{{ "/assets/images/CashLandrum_incident_7ad7d9-Illustration-1-dark.svg" | relative_url }}" alt="Cash Landrum incident 1980 illustration 1" data-theme-src-dark="{{ "/assets/images/CashLandrum_incident_7ad7d9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/CashLandrum_incident_7ad7d9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The injury claims made the case unusually serious
 
-The witnesses did not merely report seeing a strange object. They said the encounter was followed by illness: nausea, diarrhoea, weakness, eye irritation, burns or burn-like skin effects, blistering, hair loss and later medical complications. Cash was said to have been the most badly affected, consistent with the claim that she spent more time outside the car and closer to the heat source. The CUFON transcript’s editorial introduction reflects the pro-UFO framing of the case, calling it a “classic UFO sighting/physical trace” case and stressing that the witnesses’ suffering was real, while also presenting the official denials as central to the mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cufon-o.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">CUFO N &quot;Other Files&quot; Directory CASH</span><span class="citation-popover-snippet">CUFO N &quot;Other Files&quot; Directory CASH</span></span></span>
+The witnesses did not merely report seeing a strange object. They said the encounter was followed by illness: nausea, diarrhoea, weakness, eye irritation, burns or burn-like skin effects, blistering, hair loss and later medical complications. Cash was said to have been the most badly affected, consistent with the claim that she spent more time outside the car and closer to the heat source. The CUFON transcript’s editorial introduction reflects the pro-UFO framing of the case, calling it a “classic UFO sighting/physical trace” case and stressing that the witnesses’ suffering was real, while also presenting the official denials as central to the mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cufon-o.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">CUFO N &quot;Other Files&quot; Directory CASH</span><span class="citation-popover-snippet">CUFO N &quot;Other Files&quot; Directory CASH</span></span></span>
 
-The medical issue is where the case becomes hardest to assess. Some investigators and media presentations described the symptoms as resembling radiation sickness. Later medical and sceptical reviews challenged that label. Gary P. Posner’s chapter on the case argues that the pattern of signs and symptoms gives strong reasons to doubt ionising radiation as the cause, especially because the rapid onset and severity claimed in some accounts would imply a dose that should have been fatal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness from a Close Encounter?</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness from a Close Encounter?</span></span></span>
+The medical issue is where the case becomes hardest to assess. Some investigators and media presentations described the symptoms as resembling radiation sickness. Later medical and sceptical reviews challenged that label. Gary P. Posner’s chapter on the case argues that the pattern of signs and symptoms gives strong reasons to doubt ionising radiation as the cause, especially because the rapid onset and severity claimed in some accounts would imply a dose that should have been fatal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Legendary Cash-Landrum Case: Radiation Sickness from a Close Encounter?</span><span class="citation-popover-snippet">The Legendary Cash-Landrum Case: Radiation Sickness from a Close Encounter?</span></span></span>
 
-That distinction matters. “Radiation” is often used loosely in popular UFO writing, but ionising radiation is a specific category capable of damaging tissue and DNA in particular ways. Heat, ultraviolet light, infrared energy, microwave exposure, chemical irritation, infection, autoimmune disease, or an unrelated illness can produce some superficially similar symptoms without proving a nuclear or radioactive exposure. Posner’s review notes, for example, that Cash’s hospital records as later summarised by John Schuessler included cellulitis and swelling of the scalp, face and eyelids, little if any hair loss on admission, later alopecia, and no explicit hospital record stating treatment for radioactive burns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That distinction matters. “Radiation” is often used loosely in popular UFO writing, but ionising radiation is a specific category capable of damaging tissue and DNA in particular ways. Heat, ultraviolet light, infrared energy, microwave exposure, chemical irritation, infection, autoimmune disease, or an unrelated illness can produce some superficially similar symptoms without proving a nuclear or radioactive exposure. Posner’s review notes, for example, that Cash’s hospital records as later summarised by John Schuessler included cellulitis and swelling of the scalp, face and eyelids, little if any hair loss on admission, later alopecia, and no explicit hospital record stating treatment for radioactive burns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RVeOy9W8EUE" title="Terrifying Texas UFO Encounter - The Cash Landrum Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RVeOy9W8EUE" target="_blank" rel="noopener noreferrer">Terrifying Texas UFO Encounter - The Cash Landrum Incident</a></p><p class="youtube-embed-meta">Channel: Scary Mysteries &middot; Views: 48.5K &middot; Uploaded: June 2024 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RVeOy9W8EUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RVeOy9W8EUE">Open on YouTube</a></p></div></div></div>
 
 ## What investigators could and could not verify
 
-The most important official checks did not confirm the UFO claim, but they also did not produce a neat alternative explanation. Texas health officials investigated the possibility of residual radiation at the alleged scene. Curt Collins’ review of the Texas Department of Health material reports that Charles Russ Meyer examined the roadway on 16 September 1981, took soil samples, and found no residual traces of radiation. The same account says the department offered to have doctors examine the witnesses and their medical records, but that offer was not accepted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2019/03/the-us-governments-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines: The US Government’s Cash-Landrum UFO Investigations</span><span class="citation-popover-snippet">Blue Blurry Lines: The US Government’s Cash-Landrum UFO Investigations</span></span></span>
+The most important official checks did not confirm the UFO claim, but they also did not produce a neat alternative explanation. Texas health officials investigated the possibility of residual radiation at the alleged scene. Curt Collins’ review of the Texas Department of Health material reports that Charles Russ Meyer examined the roadway on 16 September 1981, took soil samples, and found no residual traces of radiation. The same account says the department offered to have doctors examine the witnesses and their medical records, but that offer was not accepted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2019/03/the-us-governments-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines: The US Government’s Cash-Landrum UFO Investigations</span><span class="citation-popover-snippet">Blue Blurry Lines: The US Government’s Cash-Landrum UFO Investigations</span></span></span>
 
-That result does not absolutely rule out every possible exposure. Some types of radiation or heat exposure would not necessarily leave persistent radioactive contamination at the roadside. But the negative soil-sample result weakens the claim that the scene retained radioactive trace evidence months later, and the missed opportunity for an independent medical-record review remains one of the case’s major evidential gaps. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span><span class="citation-popover-snippet">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span></span></span>
+That result does not absolutely rule out every possible exposure. Some types of radiation or heat exposure would not necessarily leave persistent radioactive contamination at the roadside. But the negative soil-sample result weakens the claim that the scene retained radioactive trace evidence months later, and the missed opportunity for an independent medical-record review remains one of the case’s major evidential gaps.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span><span class="citation-popover-snippet">Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files</span></span></span>
 
-The helicopter claim triggered another line of inquiry. The Army Inspector General investigation, assigned to Lt Col George Sarran, was not a full UFO investigation in the broad sense; according to Collins’ summary, its mission was to determine whether Army helicopters were involved. Sarran reportedly contacted UFO investigators and military medical advisers, checked relevant helicopter units and even considered civilian helicopter fleets, but did not locate helicopters that could be tied to the sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2020/12/40-years-and-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">40 years and cash landrum ufo case</span><span class="citation-popover-snippet">40 years and cash landrum ufo case</span></span></span>
+The helicopter claim triggered another line of inquiry. The Army Inspector General investigation, assigned to Lt Col George Sarran, was not a full UFO investigation in the broad sense; according to Collins’ summary, its mission was to determine whether Army helicopters were involved. Sarran reportedly contacted UFO investigators and military medical advisers, checked relevant helicopter units and even considered civilian helicopter fleets, but did not locate helicopters that could be tied to the sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2020/12/40-years-and-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">40 years and cash landrum ufo case</span><span class="citation-popover-snippet">40 years and cash landrum ufo case</span></span></span>
 
 This leaves a frustrating split. Witness testimony points strongly, in their minds, towards government involvement because of the helicopters. The documentary record, as available through later summaries and released files, does not establish that those helicopters were present, military-operated, or connected with the object.
 
 <img src="{{ "/assets/images/CashLandrum_incident_7ad7d9-Illustration-2-dark.svg" | relative_url }}" alt="Cash Landrum incident 1980 illustration 2" data-theme-src-dark="{{ "/assets/images/CashLandrum_incident_7ad7d9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/CashLandrum_incident_7ad7d9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The lawsuit turned the UFO story into an evidence test
 
-Cash and Landrum eventually pursued a legal claim against the federal government, reportedly seeking $20 million. The path to that claim ran through political and military channels: in the Bergstrom interview, Cash said Senator Lloyd Bentsen’s office had directed her to the Judge Advocate or Claims Office at Bergstrom Air Force Base because of the reported helicopters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cufon-o.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">CUFO N &quot;Other Files&quot; Directory CASH</span><span class="citation-popover-snippet">CUFO N &quot;Other Files&quot; Directory CASH</span></span></span>
+Cash and Landrum eventually pursued a legal claim against the federal government, reportedly seeking $20 million. The path to that claim ran through political and military channels: in the Bergstrom interview, Cash said Senator Lloyd Bentsen’s office had directed her to the Judge Advocate or Claims Office at Bergstrom Air Force Base because of the reported helicopters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cufon-o.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">CUFO N &quot;Other Files&quot; Directory CASH</span><span class="citation-popover-snippet">CUFO N &quot;Other Files&quot; Directory CASH</span></span></span>
 
-The legal issue was narrower than the public mystery. A court did not have to decide what the object was in an ultimate cosmic sense. It had to decide whether there was enough evidence to hold the United States government responsible. Accounts of the case report that officials from agencies including NASA and military branches were involved in the proceedings or inquiries, and that the case was dismissed on 21 August 1986 after the plaintiffs failed to establish that the object or helicopters belonged to, or were operated by, the US government. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The legal issue was narrower than the public mystery. A court did not have to decide what the object was in an ultimate cosmic sense. It had to decide whether there was enough evidence to hold the United States government responsible. Accounts of the case report that officials from agencies including NASA and military branches were involved in the proceedings or inquiries, and that the case was dismissed on 21 August 1986 after the plaintiffs failed to establish that the object or helicopters belonged to, or were operated by, the US government.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 That dismissal is sometimes misunderstood. It was not proof that the witnesses lied, nor proof that nothing happened. It was a failure of proof on government responsibility. For a public-facing assessment of the case, that is a crucial distinction: the lawsuit raised the evidential standard and exposed the weakness of the documentary trail.
 
@@ -807,9 +807,9 @@ The Cash/Landrum incident remains compelling because neither side can reduce it 
 
 For proponents, the case has features that look stronger than an ordinary lights-in-the-sky report: multiple witnesses, a close-range event, alleged injuries, a child witness, a consistent broad narrative, and a major legal effort that would have exposed the women to scrutiny. The witnesses were not simply asking to be believed about an aerial light; they were saying they had been physically harmed.
 
-For sceptics, the weaknesses are equally central. Robert Sheaffer’s 2014 Skeptical Inquirer article argued that despite years of attention, there was no solid independent evidence substantiating the central claims. He highlighted problems around the precise location, physical trace claims, medical interpretation and the dependence of the case on later investigator narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
+For sceptics, the weaknesses are equally central. Robert Sheaffer’s 2014 Skeptical Inquirer article argued that despite years of attention, there was no solid independent evidence substantiating the central claims. He highlighted problems around the precise location, physical trace claims, medical interpretation and the dependence of the case on later investigator narratives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
 
-One of the most damaging uncertainties concerns the encounter site. Later accounts sometimes present a precise location, but the Bergstrom interview shows difficulty placing the event on a map, and Collins’ review of Texas health records quotes Schuessler telling officials that the witnesses could only describe the location generally as a straight portion of FM 1485 “between a beer joint and some kind of highway warning sign”. That matters because physical-trace cases depend heavily on knowing exactly where to test. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cufon-o.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">CUFO N &quot;Other Files&quot; Directory CASH</span><span class="citation-popover-snippet">CUFO N &quot;Other Files&quot; Directory CASH</span></span></span>
+One of the most damaging uncertainties concerns the encounter site. Later accounts sometimes present a precise location, but the Bergstrom interview shows difficulty placing the event on a map, and Collins’ review of Texas health records quotes Schuessler telling officials that the witnesses could only describe the location generally as a straight portion of FM 1485 “between a beer joint and some kind of highway warning sign”. That matters because physical-trace cases depend heavily on knowing exactly where to test.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cufon-o.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">CUFO N &quot;Other Files&quot; Directory CASH</span><span class="citation-popover-snippet">CUFO N &quot;Other Files&quot; Directory CASH</span></span></span>
 
 Another problem is the evolution of details. The famous diamond-shaped object is now inseparable from the case, but sceptical summaries note that early documented accounts were less definite about shape, with later interviews and drawings strengthening the “diamond” image. That does not automatically invalidate the testimony; memory often becomes more organised as people retell traumatic events. But it does reduce confidence in treating every later visual detail as a precise observation.
 
@@ -822,9 +822,9 @@ Three findings carry the most weight:
 
 **The testimony is serious but not independently decisive.** The witnesses described a dramatic event and repeated the broad story under questioning. Yet the case still depends heavily on witness memory, later investigator reconstruction and media retellings.
 
-**The radiation claim is weaker than the popular version suggests.** Medical reviewers have pointed out that the claimed timing and severity do not fit well with non-fatal ionising radiation sickness. Hospital-record summaries complicate the simpler story of immediate radioactive burns and massive hair loss. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gpposner.com">[gpposner.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gpposner.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**The radiation claim is weaker than the popular version suggests.** Medical reviewers have pointed out that the claimed timing and severity do not fit well with non-fatal ionising radiation sickness. Hospital-record summaries complicate the simpler story of immediate radioactive burns and massive hair loss.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gpposner.com">[gpposner.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gpposner.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**The official investigations found gaps, not confirmation.** Texas radiation checks found no residual radioactive material at the examined roadway, and the Army inquiry did not identify military helicopters involved in the event. Those negative results do not explain what the witnesses saw, but they do block the strongest government-liability version of the story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">whos who in cash landrum ufo case</span><span class="citation-popover-snippet">whos who in cash landrum ufo case</span></span></span>
+**The official investigations found gaps, not confirmation.** Texas radiation checks found no residual radioactive material at the examined roadway, and the Army inquiry did not identify military helicopters involved in the event. Those negative results do not explain what the witnesses saw, but they do block the strongest government-liability version of the story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[blueblurrylines.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">whos who in cash landrum ufo case</span><span class="citation-popover-snippet">whos who in cash landrum ufo case</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7V757DZ5Xwk" title="Cash-Landrum UFO Incident - The Unexplained [Episode 4]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7V757DZ5Xwk" target="_blank" rel="noopener noreferrer">Cash-Landrum UFO Incident - The Unexplained [Episode 4]</a></p><p class="youtube-embed-meta">Channel: Josh Snares &middot; Views: 9.1K &middot; Uploaded: July 2020 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7V757DZ5Xwk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7V757DZ5Xwk">Open on YouTube</a></p></div></div></div>
 
@@ -835,194 +835,194 @@ Within a Cash/Landrum case dossier, this incident belongs at the intersection of
 The incident remains memorable because the human story is strong: two women and a child on a dark Texas road, a terrifying light, heat, illness, years of frustration and a failed attempt to obtain legal redress. But the strongest reader-facing takeaway is more restrained than the legend. Something may have frightened the witnesses, and illness may have followed, but the public evidence does not establish that a radioactive UFO, secret military craft, or helicopter escort caused their suffering.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened on FM 1485?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened on FM 1485?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Provides critical baseline skills to help readers audit high-profile injury stories vs. alternative scientific explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides critical baseline skills to help readers audit high-profile injury stories vs. alternative scientific explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Analyzes why the historical Cash-Landrum legal petition stands out as a unique federal lawsuit regarding classified aerospace assets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Analyzes why the historical Cash-Landrum legal petition stands out as a unique federal lawsuit regarding classified aerospace assets.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Addresses the severe evidentiary pitfalls that arise when physical tracing maps and site checks remain incomplete.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses the severe evidentiary pitfalls that arise when physical tracing maps and site checks remain incomplete.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cash-Landrum UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cash-Landrum UFO Incident">The Cash-Landrum UFO Incident</a>
-        </h4>
-        <p class="fr-book-author">By John F. Schuessler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cash-Landrum UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cash-Landrum UFO Incident">The Cash-Landrum UFO Incident</a>
+</h4>
+<p class="fr-book-author">By John F. Schuessler</p>
         
-        <p class="fr-book-desc">Provides the complete foundational documentation of the FM 1485 encounter, the heat source, and the ensuing illness files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the complete foundational documentation of the FM 1485 encounter, the heat source, and the ensuing illness files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-on-fm-1485-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-on-fm-1485-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1038,7 +1038,7 @@ The incident remains memorable because the human story is strong: two women and 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1058,7 +1058,7 @@ The incident remains memorable because the human story is strong: two women and 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1090,7 +1090,7 @@ The incident remains memorable because the human story is strong: two women and 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1142,7 +1142,7 @@ The incident remains memorable because the human story is strong: two women and 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1187,7 +1187,7 @@ The incident remains memorable because the human story is strong: two women and 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1228,147 +1228,147 @@ The incident remains memorable because the human story is strong: two women and 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cufon.org  
    Title: Transcript, Cash-Landrum Interview  
-   Link: <a href="https://www.cufon.org/cufon/cashlani.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.pdf</a>  
+   Link:<a href="https://www.cufon.org/cufon/cashlani.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: zenodo.org  
    Title: The Legendary Cash-Landrum Case: Radiation Sickness from a Close Encounter?  
-   Link: <a href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581488</a>  
+   Link:<a href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581488</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: gpposner.com  
-   Link: <a href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gpposner.com/Cash-Landrum-chapter.pdf</a>  
+   Link:<a href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gpposner.com/Cash-Landrum-chapter.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
+   Link:<a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: blueblurrylines.com  
    Title: Blue Blurry Lines: The US Government’s Cash-Landrum UFO Investigations  
-   Link: <a href="https://www.blueblurrylines.com/2019/03/the-us-governments-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2019/03/the-us-governments-cash-landrum-ufo.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2019/03/the-us-governments-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2019/03/the-us-governments-cash-landrum-ufo.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: blueblurrylines.com  
    Title: Blue Blurry Lines: The Cash-Landrum Incident: The Suppressed Case Files  
-   Link: <a href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: blueblurrylines.com  
    Title: 40 years and cash landrum ufo case  
-   Link: <a href="https://www.blueblurrylines.com/2020/12/40-years-and-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2020/12/40-years-and-cash-landrum-ufo-case.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2020/12/40-years-and-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2020/12/40-years-and-cash-landrum-ufo-case.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: blueblurrylines.com  
    Title: whos who in cash landrum ufo case  
-   Link: <a href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2014/02/whos-who-in-cash-landrum-ufo-case.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2014/10/tv-takes-on-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2014/10/tv-takes-on-cash-landrum-ufo-case.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2014/10/tv-takes-on-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2014/10/tv-takes-on-cash-landrum-ufo-case.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: blueblurrylines.com  
    Title: cash landrum ufo disinformation rick  
-   Link: <a href="https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: blueblurrylines.com  
-   Link: <a href="https://www.blueblurrylines.com/2022/10/the-cash-landrum-ufo-1980s-recording-of.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/10/the-cash-landrum-ufo-1980s-recording-of.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2022/10/the-cash-landrum-ufo-1980s-recording-of.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/10/the-cash-landrum-ufo-1980s-recording-of.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: blueblurrylines.com  
    Title: ufo advocate betty cash  
-   Link: <a href="https://www.blueblurrylines.com/2022/09/ufo-advocate-betty-cash.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/09/ufo-advocate-betty-cash.html</a>  
+   Link:<a href="https://www.blueblurrylines.com/2022/09/ufo-advocate-betty-cash.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/09/ufo-advocate-betty-cash.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cufon.org  
    Title: CUFO N "Other Files" Directory CASH  
-   Link: <a href="https://www.cufon.org/cufon/cufon-o.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cufon-o.htm</a>  
+   Link:<a href="https://www.cufon.org/cufon/cufon-o.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cufon-o.htm</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Cash (2010 film)  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash_%282010_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash_%282010_film%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash_%282010_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash_%282010_film%29</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cash.app  
-   Link: <a href="https://cash.app/" target="_blank" rel="noopener noreferrer nofollow">https://cash.app/</a>  
+   Link:<a href="https://cash.app/" target="_blank" rel="noopener noreferrer nofollow">https://cash.app/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Cash-Landrum UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=7V757DZ5Xwk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7V757DZ5Xwk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7V757DZ5Xwk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7V757DZ5Xwk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
+   Link:<a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/channel/UC0eLBYhxW9HC0P9PXQ73mpQ/videos" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC0eLBYhxW9HC0P9PXQ73mpQ/videos</a>  
+   Link:<a href="https://www.youtube.com/channel/UC0eLBYhxW9HC0P9PXQ73mpQ/videos" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC0eLBYhxW9HC0P9PXQ73mpQ/videos</a>  
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident  
-   Link: <a href="https://www.youtube.com/watch?v=cFz7hXTJDkU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cFz7hXTJDkU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Incident - The Unexplained [Episode 4]...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cFz7hXTJDkU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cFz7hXTJDkU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Incident - The Unexplained [Episode 4]...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Terrifying Texas UFO Encounter  
-   Link: <a href="https://www.youtube.com/watch?v=RVeOy9W8EUE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RVeOy9W8EUE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RVeOy9W8EUE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RVeOy9W8EUE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYxao_8m1s5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYxao_8m1s5/</a>  
+   Link:<a href="https://www.instagram.com/p/DYxao_8m1s5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYxao_8m1s5/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYlWqK9uZYP/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYlWqK9uZYP/</a>  
+   Link:<a href="https://www.instagram.com/reel/DYlWqK9uZYP/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYlWqK9uZYP/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: tradingview.com  
-   Link: <a href="https://www.tradingview.com/news/urn%3Asummary_document_report%3Aquartr.com%3A3397500%3A0-acroud-revenue-and-profitability-surged-with-improved-cash-flow-and-lower-leverage-supporting-growth/" target="_blank" rel="noopener noreferrer nofollow">https://www.tradingview.com/news/urn%3Asummary_document_report%3Aquartr.com%3A3397500%3A0-acroud-revenue-and-profitability-surged-with-improved-cash-flow-and-lower-leverage-supporting-growth/</a>  
+   Link:<a href="https://www.tradingview.com/news/urn%3Asummary_document_report%3Aquartr.com%3A3397500%3A0-acroud-revenue-and-profitability-surged-with-improved-cash-flow-and-lower-leverage-supporting-growth/" target="_blank" rel="noopener noreferrer nofollow">https://www.tradingview.com/news/urn%3Asummary_document_report%3Aquartr.com%3A3397500%3A0-acroud-revenue-and-profitability-surged-with-improved-cash-flow-and-lower-leverage-supporting-growth/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYN04tcDEJ7/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYN04tcDEJ7/</a>  
+   Link:<a href="https://www.instagram.com/p/DYN04tcDEJ7/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYN04tcDEJ7/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/cash" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/cash</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/cash" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/cash</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: collinsdictionary.com  
-   Link: <a href="https://www.collinsdictionary.com/dictionary/english/cash" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/cash</a>  
+   Link:<a href="https://www.collinsdictionary.com/dictionary/english/cash" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/cash</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/720645112/CASH-LANDRUM-INCIDENT" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/720645112/CASH-LANDRUM-INCIDENT</a>  
+   Link:<a href="https://www.scribd.com/document/720645112/CASH-LANDRUM-INCIDENT" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/720645112/CASH-LANDRUM-INCIDENT</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DX30X3Ryd8f/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DX30X3Ryd8f/</a>
+   Link:<a href="https://www.instagram.com/reel/DX30X3Ryd8f/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DX30X3Ryd8f/</a>

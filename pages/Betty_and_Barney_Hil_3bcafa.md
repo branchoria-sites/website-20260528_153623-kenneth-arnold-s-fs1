@@ -758,35 +758,35 @@ image: /assets/images/Betty_and_Barney_Hil_3bcafa-overview-social.jpg
 
 ## What happened on Route 3?
 
-Betty and Barney Hill were returning from a trip to Canada when, according to their account, they noticed a bright object in the sky while driving south through northern New Hampshire. The Air Force information report attached to the case described the sighting as occurring between about midnight and 1 a.m. on 20 September, near Lincoln, New Hampshire, with the Hills reporting a single, brightly lit, cigar-shaped object seen from the car and through binoculars. The report records their description of a band of lights, a shape that appeared to change as “wings” or extensions came into view, red lights on the tips, no normal aircraft sound, and an apparent descent until the object seemed only “hundreds of feet” above their car. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/Abductions/1961_09_19_US_NH_White-Mountains_NICAP_Hill.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+Betty and Barney Hill were returning from a trip to Canada when, according to their account, they noticed a bright object in the sky while driving south through northern New Hampshire. The Air Force information report attached to the case described the sighting as occurring between about midnight and 1 a.m. on 20 September, near Lincoln, New Hampshire, with the Hills reporting a single, brightly lit, cigar-shaped object seen from the car and through binoculars. The report records their description of a band of lights, a shape that appeared to change as “wings” or extensions came into view, red lights on the tips, no normal aircraft sound, and an apparent descent until the object seemed only “hundreds of feet” above their car.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/Abductions/1961_09_19_US_NH_White-Mountains_NICAP_Hill.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
 <img src="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa-overview.webp" | relative_url }}" alt="Overview image for Betty and Barney Hill abduction 1961" loading="eager" decoding="sync" fetchpriority="high">
-The later, fuller version of the story is more dramatic. In that account, Barney stopped the car near Indian Head, looked through binoculars, and believed he saw figures inside a craft. The couple then drove on, heard unusual beeping or buzzing sounds, and later found themselves farther along the route with a period they could not account for. The University of New Hampshire’s guide to the Betty and Barney Hill Papers summarises the claim as a return home to Portsmouth with two missing hours, unexplained physical changes, and no memory of how those things had happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.unh.edu">[Library &#124; University of New Hampshire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.unh.edu</span><span class="citation-popover-title">betty barney hill papers 1961 2006</span><span class="citation-popover-snippet">betty barney hill papers 1961 2006</span></span></span>
+The later, fuller version of the story is more dramatic. In that account, Barney stopped the car near Indian Head, looked through binoculars, and believed he saw figures inside a craft. The couple then drove on, heard unusual beeping or buzzing sounds, and later found themselves farther along the route with a period they could not account for. The University of New Hampshire’s guide to the Betty and Barney Hill Papers summarises the claim as a return home to Portsmouth with two missing hours, unexplained physical changes, and no memory of how those things had happened.<span class="citation-chip-wrap"><a class="citation-chip" href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.unh.edu">[Library &#124; University of New Hampshire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.unh.edu</span><span class="citation-popover-title">betty barney hill papers</span><span class="citation-popover-snippet">betty barney hill papers</span></span></span>
 
 This distinction matters. The earliest official record is not a complete alien-abduction story. It is a troubling UFO sighting report, with some details that later proponents saw as significant and some gaps that officials found limiting. The abduction narrative became much more detailed after interviews, dreams, discussion with UFO investigators, and psychiatric hypnosis.
 
 ## Why the Hills were taken seriously
 
-The case did not begin as a tabloid stunt. The Hills were a married couple with public lives in Portsmouth: Betty was a social worker, Barney worked for the postal service, and both were active in civil rights and community organisations. The University of New Hampshire notes that both were members of the NAACP and a local Unitarian church, and that Barney served on a local board of the United States Civil Rights Commission. That background does not make their interpretation correct, but it helps explain why investigators did not dismiss them as attention-seekers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.unh.edu">[Library &#124; University of New Hampshire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.unh.edu</span><span class="citation-popover-title">betty barney hill papers 1961 2006</span><span class="citation-popover-snippet">betty barney hill papers 1961 2006</span></span></span>
+The case did not begin as a tabloid stunt. The Hills were a married couple with public lives in Portsmouth: Betty was a social worker, Barney worked for the postal service, and both were active in civil rights and community organisations. The University of New Hampshire notes that both were members of the NAACP and a local Unitarian church, and that Barney served on a local board of the United States Civil Rights Commission. That background does not make their interpretation correct, but it helps explain why investigators did not dismiss them as attention-seekers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.unh.edu">[Library &#124; University of New Hampshire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.unh.edu</span><span class="citation-popover-title">betty barney hill papers</span><span class="citation-popover-snippet">betty barney hill papers</span></span></span>
 
-The first major private UFO investigation came from Walter N. Webb, a Boston astronomer and member of the National Investigations Committee on Aerial Phenomena, known as NICAP. Webb’s later report says he interviewed the Hills for six hours on 21 October 1961 and was impressed by what he regarded as an honest, straightforward account of a frightening experience. His final report preserved the chronology, drawings, later hypnosis material, and Air Force correspondence, making the case unusually well documented compared with many UFO stories of the period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/Abductions/1961_09_19_US_NH_White-Mountains_NICAP_Hill.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+The first major private UFO investigation came from Walter N. Webb, a Boston astronomer and member of the National Investigations Committee on Aerial Phenomena, known as NICAP. Webb’s later report says he interviewed the Hills for six hours on 21 October 1961 and was impressed by what he regarded as an honest, straightforward account of a frightening experience. His final report preserved the chronology, drawings, later hypnosis material, and Air Force correspondence, making the case unusually well documented compared with many UFO stories of the period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/Abductions/1961_09_19_US_NH_White-Mountains_NICAP_Hill.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
-The Hills also reported circumstantial traces after the drive: Betty’s torn and stained dress, Barney’s scraped shoe, and a broken binocular strap. Those items are part of the reason the case retained its reputation as “documented”. The archive problem is that such traces are not self-explanatory. They show that objects existed and were preserved or described, not that they were caused by non-human beings. The UNH collection contains correspondence, journals, manuscripts, clippings, photographs, slides, DVDs, and artifacts connected with the case, including material later used by researchers and cultural historians. <span class="citation-chip-wrap"><a class="citation-chip" href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.unh.edu">[Library &#124; University of New Hampshire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.unh.edu</span><span class="citation-popover-title">betty barney hill papers 1961 2006</span><span class="citation-popover-snippet">betty barney hill papers 1961 2006</span></span></span>
+The Hills also reported circumstantial traces after the drive: Betty’s torn and stained dress, Barney’s scraped shoe, and a broken binocular strap. Those items are part of the reason the case retained its reputation as “documented”. The archive problem is that such traces are not self-explanatory. They show that objects existed and were preserved or described, not that they were caused by non-human beings. The UNH collection contains correspondence, journals, manuscripts, clippings, photographs, slides, DVDs, and artifacts connected with the case, including material later used by researchers and cultural historians.<span class="citation-chip-wrap"><a class="citation-chip" href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.unh.edu">[Library &#124; University of New Hampshire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.unh.edu</span><span class="citation-popover-title">betty barney hill papers</span><span class="citation-popover-snippet">betty barney hill papers</span></span></span>
 
 <img src="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa-Illustration-1-dark.svg" | relative_url }}" alt="Betty and Barney Hill abduction 1961 illustration 1" data-theme-src-dark="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Project Blue Book actually did with the case
 
-Project Blue Book was the United States Air Force programme that collected and evaluated UFO reports from 1947 to 1969. The National Archives states that the programme’s records were declassified and transferred for public research, and that Blue Book ended in 1969. Across the programme, 12,618 sightings were reported, 701 of which remained “unidentified”; the Air Force’s later fact sheet concluded that no investigated UFO showed evidence of a national-security threat, advanced technology beyond scientific knowledge, or extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+Project Blue Book was the United States Air Force programme that collected and evaluated UFO reports from 1947 to 1969. The National Archives states that the programme’s records were declassified and transferred for public research, and that Blue Book ended in 1969. Across the programme, 12,618 sightings were reported, 701 of which remained “unidentified”; the Air Force’s later fact sheet concluded that no investigated UFO showed evidence of a national-security threat, advanced technology beyond scientific knowledge, or extraterrestrial vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-The Hill case did enter this official system, but it did not emerge as official confirmation of an alien encounter. A 1965 Air Force letter to Boston Traveler reporter John Luttrell attached Information Report No. 100-1-61, prepared by Major Paul W. Henderson of the 100th Bomb Wing at Pease Air Force Base, and a Project Blue Book Office statement from 1963. The report preserved several striking claims, including the object’s apparent descent, changing appearance, and red-tipped extensions. The later Project Blue Book statement, however, classified the case as “insufficient data”, citing missing directional information and inconsistencies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/Abductions/1961_09_19_US_NH_White-Mountains_NICAP_Hill.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+The Hill case did enter this official system, but it did not emerge as official confirmation of an alien encounter. A 1965 Air Force letter to Boston Traveler reporter John Luttrell attached Information Report No. 100-1-61, prepared by Major Paul W. Henderson of the 100th Bomb Wing at Pease Air Force Base, and a Project Blue Book Office statement from 1963. The report preserved several striking claims, including the object’s apparent descent, changing appearance, and red-tipped extensions. The later Project Blue Book statement, however, classified the case as “insufficient data”, citing missing directional information and inconsistencies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/Abductions/1961_09_19_US_NH_White-Mountains_NICAP_Hill.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
 That official status is often misunderstood. “Insufficient data” does not mean “explained as aliens”, but neither does it mean “proved hoax”. It means the Air Force file, as evaluated, lacked enough reliable information for a firm identification. For a case dossier, the useful takeaway is that the Air Force record confirms an early report of an unusual sighting, not the later abduction interpretation.
 
 ## How hypnosis transformed the story
 
-The most famous details of the Hill case came after hypnosis sessions with Dr Benjamin Simon, a Boston psychiatrist. The Hills sought help because of anxiety, nightmares, and the unresolved “missing time” problem. Under hypnosis, they described being taken aboard a craft, separated, examined, and later returned. Betty described conversations with beings and a star map; Barney gave an emotionally intense account of being controlled or watched by eyes. John G. Fuller’s 1966 book, *The Interrupted Journey*, drew on the Hills’ story and Simon’s involvement, bringing the case to a wide public audience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010003-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
+The most famous details of the Hill case came after hypnosis sessions with Dr Benjamin Simon, a Boston psychiatrist. The Hills sought help because of anxiety, nightmares, and the unresolved “missing time” problem. Under hypnosis, they described being taken aboard a craft, separated, examined, and later returned. Betty described conversations with beings and a star map; Barney gave an emotionally intense account of being controlled or watched by eyes. John G. Fuller’s 1966 book, *The Interrupted Journey*, drew on the Hills’ story and Simon’s involvement, bringing the case to a wide public audience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010003-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
 
-Hypnosis is the central evidential weakness. Simon treated the material clinically rather than as proof of extraterrestrial contact, and later sceptical readings have treated the hypnotic sessions as a possible route by which dreams, fears, prior expectations, and suggestion could become vivid “memories”. Modern memory research supports caution here: recovered memories may sometimes correspond to real events, but they may also be inaccurate or mixed, and false-memory research has repeatedly shown that people can develop confident recollections of things that did not happen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6826861/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bps.org.uk/psychologist/recovered-and-false-memories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bps.org.uk">[British Psychological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bps.org.uk</span><span class="citation-popover-title">recovered and false memories</span><span class="citation-popover-snippet">recovered and false memories</span></span></span>
+Hypnosis is the central evidential weakness. Simon treated the material clinically rather than as proof of extraterrestrial contact, and later sceptical readings have treated the hypnotic sessions as a possible route by which dreams, fears, prior expectations, and suggestion could become vivid “memories”. Modern memory research supports caution here: recovered memories may sometimes correspond to real events, but they may also be inaccurate or mixed, and false-memory research has repeatedly shown that people can develop confident recollections of things that did not happen.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6826861/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bps.org.uk/psychologist/recovered-and-false-memories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bps.org.uk">[British Psychological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bps.org.uk</span><span class="citation-popover-title">recovered and false memories</span><span class="citation-popover-snippet">recovered and false memories</span></span></span>
 
 This does not require accusing the Hills of lying. A person can be sincere and still misremember, especially after stress, sleep deprivation, repeated retelling, dreams, and suggestive reconstruction. That is one reason the Hill case remains so contested: the witnesses appear to have been genuinely distressed, yet the mechanism that produced the most extraordinary details is one that modern readers should treat with care.
 
@@ -794,9 +794,9 @@ This does not require accusing the Hills of lying. A person can be sincere and s
 
 ## The star map and the Zeta Reticuli claim
 
-One of the case’s most memorable later elements was Betty Hill’s alleged star map. Under the abduction narrative, she said she had been shown a map aboard the craft. Years later, Marjorie Fish, an amateur astronomer, proposed that the pattern corresponded to nearby stars viewed from the Zeta Reticuli system. That interpretation gave the case one of its alternative names, the “Zeta Reticuli incident”, and helped move the story from a local New Hampshire mystery into broader UFO culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nicap.org/610919indianhead_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
+One of the case’s most memorable later elements was Betty Hill’s alleged star map. Under the abduction narrative, she said she had been shown a map aboard the craft. Years later, Marjorie Fish, an amateur astronomer, proposed that the pattern corresponded to nearby stars viewed from the Zeta Reticuli system. That interpretation gave the case one of its alternative names, the “Zeta Reticuli incident”, and helped move the story from a local New Hampshire mystery into broader UFO culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nicap.org/610919indianhead_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
-The problem is that the star-map argument depends heavily on selection, interpretation, and later astronomical data. Sceptical astronomical critiques argue that when the drawn connecting lines and assumptions are removed, the resemblance becomes weak, and that improved star-distance data undermined parts of the Fish interpretation. Even sources sympathetic to the UFO tradition often treat the star map as intriguing but not decisive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://armaghplanet.com/the-truth-about-zeta-reticuli.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armaghplanet.com">[Armagh Planetarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armaghplanet.com</span><span class="citation-popover-title">Armagh Planetarium The Truth About Zeta Reticuli</span><span class="citation-popover-snippet">Armagh Planetarium The Truth About Zeta Reticuli</span></span></span>
+The problem is that the star-map argument depends heavily on selection, interpretation, and later astronomical data. Sceptical astronomical critiques argue that when the drawn connecting lines and assumptions are removed, the resemblance becomes weak, and that improved star-distance data undermined parts of the Fish interpretation. Even sources sympathetic to the UFO tradition often treat the star map as intriguing but not decisive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://armaghplanet.com/the-truth-about-zeta-reticuli.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armaghplanet.com">[Armagh Planetarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armaghplanet.com</span><span class="citation-popover-title">Armagh Planetarium The Truth About Zeta Reticuli</span><span class="citation-popover-snippet">Armagh Planetarium The Truth About Zeta Reticuli</span></span></span>
 
 For evidence ranking, the star map sits below the early sighting report and witness chronology. It is a later interpretive layer, created through hypnotic recall and then matched retrospectively to astronomical catalogues. It shaped the case’s mythology more strongly than it strengthens the case as proof.
 
@@ -804,7 +804,7 @@ For evidence ranking, the star map sits below the early sighting report and witn
 
 The strongest sceptical accounts do not rest on a single dismissal. They combine several ordinary factors that could, together, produce an extraordinary narrative: a real light or lights misidentified in difficult night-driving conditions, emotional arousal, fatigue after a long trip, later dreams, and hypnotic reconstruction.
 
-One specific proposed explanation is that the Hills misidentified the aircraft warning beacon on Cannon Mountain. Writer James D. Macdonald, who examined the route and local sightlines, argues that the beacon’s appearance and disappearance from sections of Route 3 matches parts of the Hills’ reported experience. Robert Sheaffer, writing in *Skeptical Inquirer*, has similarly treated the case as a cautionary example involving sleep deprivation, expectation, and recovered-memory problems rather than a reliable alien-abduction report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://madhousemanor.com/2017/12/11/the-hill-case-part-3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: madhousemanor.com">[JAMES D. MACDONALD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">madhousemanor.com</span><span class="citation-popover-title">the hill case part 3</span><span class="citation-popover-snippet">the hill case part 3</span></span></span>
+One specific proposed explanation is that the Hills misidentified the aircraft warning beacon on Cannon Mountain. Writer James D. Macdonald, who examined the route and local sightlines, argues that the beacon’s appearance and disappearance from sections of Route 3 matches parts of the Hills’ reported experience. Robert Sheaffer, writing in *Skeptical Inquirer*, has similarly treated the case as a cautionary example involving sleep deprivation, expectation, and recovered-memory problems rather than a reliable alien-abduction report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://madhousemanor.com/2017/12/11/the-hill-case-part-3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: madhousemanor.com">[JAMES D. MACDONALD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">madhousemanor.com</span><span class="citation-popover-title">the hill case part 3</span><span class="citation-popover-snippet">the hill case part 3</span></span></span>
 
 The sceptical case is not perfect. A beacon explanation must account for why the Hills described motion, descent, binocular views, and later distress. But the believer’s case must account for an even harder problem: why the strongest abduction details emerged after dreams and hypnosis, why the physical traces are ambiguous, and why official investigation did not corroborate an extraordinary craft. On balance, the sceptical explanation has fewer evidential leaps, even if it does not explain every reported sensation neatly.
 
@@ -813,23 +813,23 @@ The sceptical case is not perfect. A beacon explanation must account for why the
 
 The Hill case has several pieces of evidence that remain worth taking seriously, but they carry different levels of force.
 
-The strongest evidence is documentary and chronological. The Hills made an early report to Pease Air Force Base; the case was recorded in Air Force material; Webb conducted a lengthy interview; and the later archive preserves a large paper trail. Those facts make the case historically important and unusually traceable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/Abductions/1961_09_19_US_NH_White-Mountains_NICAP_Hill.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.unh.edu">[Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.unh.edu</span><span class="citation-popover-title">betty barney hill papers 1961 2006</span><span class="citation-popover-snippet">betty barney hill papers 1961 2006</span></span></span> | University of New Hampshire
+The strongest evidence is documentary and chronological. The Hills made an early report to Pease Air Force Base; the case was recorded in Air Force material; Webb conducted a lengthy interview; and the later archive preserves a large paper trail. Those facts make the case historically important and unusually traceable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/Abductions/1961_09_19_US_NH_White-Mountains_NICAP_Hill.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.unh.edu">[Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.unh.edu</span><span class="citation-popover-title">betty barney hill papers</span><span class="citation-popover-snippet">betty barney hill papers</span></span></span> | University of New Hampshire
 
-The witness evidence is meaningful but limited. Betty and Barney appear to have been sincere, distressed, and not initially seeking mass publicity. Their civic reputations and reluctance to become public figures weigh against a simple hoax theory. Yet sincerity is not the same as accuracy, especially in a case whose most extraordinary claims depend on memory recovery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.unh.edu">[Library &#124; University of New Hampshire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.unh.edu</span><span class="citation-popover-title">betty barney hill papers 1961 2006</span><span class="citation-popover-snippet">betty barney hill papers 1961 2006</span></span></span>
+The witness evidence is meaningful but limited. Betty and Barney appear to have been sincere, distressed, and not initially seeking mass publicity. Their civic reputations and reluctance to become public figures weigh against a simple hoax theory. Yet sincerity is not the same as accuracy, especially in a case whose most extraordinary claims depend on memory recovery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.unh.edu">[Library &#124; University of New Hampshire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.unh.edu</span><span class="citation-popover-title">betty barney hill papers</span><span class="citation-popover-snippet">betty barney hill papers</span></span></span>
 
 The physical evidence is weak as proof. A torn dress, scraped shoes, a broken strap, stains, and reported marks on a car are potentially interesting, but none uniquely indicates abduction or non-human technology. Their value is mainly that they show why the Hills themselves felt something unusual had happened.
 
-The official evidence is often overstated. Project Blue Book records support the existence of a report and its classification as unresolved or insufficient, not the conclusion that the object was extraterrestrial. The National Archives’ summary of Blue Book’s broader conclusions is explicitly sceptical of extraterrestrial interpretations across the programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+The official evidence is often overstated. Project Blue Book records support the existence of a report and its classification as unresolved or insufficient, not the conclusion that the object was extraterrestrial. The National Archives’ summary of Blue Book’s broader conclusions is explicitly sceptical of extraterrestrial interpretations across the programme.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8c_owu5AFFI" title="Insane Alien Abduction Stories That Will Terrify You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8c_owu5AFFI" target="_blank" rel="noopener noreferrer">Insane Alien Abduction Stories That Will Terrify You</a></p><p class="youtube-embed-meta">Channel: The Infographics Show &middot; Views: 159.1K &middot; Uploaded: May 2024 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8c_owu5AFFI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8c_owu5AFFI">Open on YouTube</a></p></div></div></div>
 
 ## Why this case changed UFO culture
 
-Before the Hill case became famous, UFO stories were often centred on lights, discs, pilots, radar, military secrecy, or contactees who claimed friendly meetings with space beings. The Hill story helped shift attention towards involuntary abduction, bodily examination, memory gaps, and psychological aftermath. A recent American Historical Review notice describes the case as a foundational text in UFO studies: a point where extraterrestrial narratives moved from outer space into the “inner space” of bodies and psyches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/ahr/article-abstract/130/1/491/8069728" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Before the Hill case became famous, UFO stories were often centred on lights, discs, pilots, radar, military secrecy, or contactees who claimed friendly meetings with space beings. The Hill story helped shift attention towards involuntary abduction, bodily examination, memory gaps, and psychological aftermath. A recent American Historical Review notice describes the case as a foundational text in UFO studies: a point where extraterrestrial narratives moved from outer space into the “inner space” of bodies and psyches.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/ahr/article-abstract/130/1/491/8069728" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The case also gained force because of who the Hills were. Historian Matthew Bowman frames them not as fringe caricatures but as a Black man and white woman active in civil-rights liberalism at a moment of intense social strain in the United States. That does not prove the abduction occurred, but it changes the way the story should be read. It was not merely a monster tale; it was also a story told by an interracial couple navigating fear, authority, publicity, medicine, race, and belief in early-1960s America. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yalebooks.co.uk/book/9780300281859/the-abduction-of-betty-and-barney-hill/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yalebooks.co.uk">[Yale University Press London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yalebooks.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The case also gained force because of who the Hills were. Historian Matthew Bowman frames them not as fringe caricatures but as a Black man and white woman active in civil-rights liberalism at a moment of intense social strain in the United States. That does not prove the abduction occurred, but it changes the way the story should be read. It was not merely a monster tale; it was also a story told by an interracial couple navigating fear, authority, publicity, medicine, race, and belief in early-1960s America.<span class="citation-chip-wrap"><a class="citation-chip" href="https://yalebooks.co.uk/book/9780300281859/the-abduction-of-betty-and-barney-hill/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yalebooks.co.uk">[Yale University Press London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yalebooks.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The later public life of the case reinforced its influence. The Boston Traveler articles in 1965 brought the story into mass circulation; Fuller’s *The Interrupted Journey* made it a bestselling narrative; television and later UFO literature turned it into a reference point for nearly every subsequent abduction claim. New Hampshire’s historical marker and the UNH archive show how the case now functions as both local history and contested folklore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hmdb.org/m.asp?m=74571" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hmdb.org">[HMDB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hmdb.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nhpr.org/nh-news/2014-03-28/marking-history-the-betty-and-barney-hill-incident-in-lincoln" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhpr.org">[New Hampshire Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhpr.org</span><span class="citation-popover-title">marking history the betty and barney hill incident in lincoln</span><span class="citation-popover-snippet">marking history the betty and barney hill incident in lincoln</span></span></span>
+The later public life of the case reinforced its influence. The Boston Traveler articles in 1965 brought the story into mass circulation; Fuller’s *The Interrupted Journey* made it a bestselling narrative; television and later UFO literature turned it into a reference point for nearly every subsequent abduction claim. New Hampshire’s historical marker and the UNH archive show how the case now functions as both local history and contested folklore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hmdb.org/m.asp?m=74571" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hmdb.org">[HMDB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hmdb.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nhpr.org/nh-news/2014-03-28/marking-history-the-betty-and-barney-hill-incident-in-lincoln" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhpr.org">[New Hampshire Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhpr.org</span><span class="citation-popover-title">marking history the betty and barney hill incident in lincoln</span><span class="citation-popover-snippet">marking history the betty and barney hill incident in lincoln</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VkWs6J2vVLI" title="The very first Alien Abduction case in America" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VkWs6J2vVLI" target="_blank" rel="noopener noreferrer">The very first Alien Abduction case in America</a></p><p class="youtube-embed-meta">Channel: Motech &middot; Views: 6.9K &middot; Uploaded: August 2024 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VkWs6J2vVLI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VkWs6J2vVLI">Open on YouTube</a></p></div></div></div>
 
@@ -842,194 +842,194 @@ The case remains significant because it is not easily reduced to a joke or a sol
 <img src="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa-Illustration-3-dark.svg" | relative_url }}" alt="Betty and Barney Hill abduction 1961 illustration 3" data-theme-src-dark="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened to the Hills?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened to the Hills?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Interrupted Journey on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YjBqEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Interrupted Journey" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Interrupted Journey">The Interrupted Journey</a>
-        </h4>
-        <p class="fr-book-author">By John Fuller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Interrupted Journey on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YjBqEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Interrupted Journey" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Interrupted Journey">The Interrupted Journey</a>
+</h4>
+<p class="fr-book-author">By John Fuller</p>
         
-        <p class="fr-book-desc">The primary historical account documenting the Hills&#x27; 1961 sighting and their early reports of the missing hour on the New Hampshire road.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">The primary historical account documenting the Hills&#x27; 1961 sighting and their early reports of the missing hour on the New Hampshire road.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Catalogs the early military Blue Book information reports regarding the Hills&#x27; night drive through the White Mountains.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Catalogs the early military Blue Book information reports regarding the Hills&#x27; night drive through the White Mountains.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
-        </h4>
-        <p class="fr-book-author">By John E. Mack, Mack</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+</h4>
+<p class="fr-book-author">By John E. Mack, Mack</p>
         
-        <p class="fr-book-desc">Presents the comparative clinical background for abduction accounts, providing context for the Hills&#x27; original 1961 experience.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Presents the comparative clinical background for abduction accounts, providing context for the Hills&#x27; original 1961 experience.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Provides essential critical tools to evaluate why sincere, stressed eyewitnesses can generate highly detailed but historically unreliable...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides essential critical tools to evaluate why sincere, stressed eyewitnesses can generate highly detailed but historically unreliable...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Interrupted+Journey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Interrupted Journey</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Interrupted+Journey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Interrupted Journey</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Betty &amp; Barney Hill UFO Model With Stand | Replica UFO/UAP Model"><img src="https://i.ebayimg.com/images/g/q-EAAeSwVkVpYPVd/s-l225.jpg" alt="Listing image for Betty &amp; Barney Hill UFO Model With Stand | Replica UFO/UAP Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" target="_blank" rel="sponsored noopener noreferrer">Betty &amp; Barney Hill UFO Model With Stand | Replica UFO/UAP Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Betty Barney Hill UFO">Search <span data-ebay-domain-label>eBay.co.uk</span>: Betty Barney Hill UFO</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Betty &amp; Barney Hill UFO Model With Stand | Replica UFO/UAP Model"><img src="https://i.ebayimg.com/images/g/q-EAAeSwVkVpYPVd/s-l225.jpg" alt="Listing image for Betty &amp; Barney Hill UFO Model With Stand | Replica UFO/UAP Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" target="_blank" rel="sponsored noopener noreferrer">Betty &amp; Barney Hill UFO Model With Stand | Replica UFO/UAP Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Betty Barney Hill UFO">Search<span data-ebay-domain-label>eBay.co.uk</span>: Betty Barney Hill UFO</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible"><img src="https://i.ebayimg.com/images/g/URIAAeSwcg9qDEQ7/s-l225.jpg" alt="Listing image for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" target="_blank" rel="sponsored noopener noreferrer">Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Betty Barney Hill UFO">Search <span data-ebay-domain-label>eBay.co.uk</span>: Betty Barney Hill UFO</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible"><img src="https://i.ebayimg.com/images/g/URIAAeSwcg9qDEQ7/s-l225.jpg" alt="Listing image for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" target="_blank" rel="sponsored noopener noreferrer">Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Betty Barney Hill UFO">Search<span data-ebay-domain-label>eBay.co.uk</span>: Betty Barney Hill UFO</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Encounters at Indian Head: The Betty and Barney Hill UFO [Premium Leather Bound]"><img src="https://i.ebayimg.com/images/g/Qr8AAeSwgdNpfbXE/s-l225.jpg" alt="Listing image for Encounters at Indian Head: The Betty and Barney Hill UFO [Premium Leather Bound]" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" target="_blank" rel="sponsored noopener noreferrer">Encounters at Indian Head: The Betty and Barney Hill UFO [Premium Leather Bound]</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Betty Barney Hill UFO">Search <span data-ebay-domain-label>eBay.co.uk</span>: Betty Barney Hill UFO</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Encounters at Indian Head: The Betty and Barney Hill UFO [Premium Leather Bound]"><img src="https://i.ebayimg.com/images/g/Qr8AAeSwgdNpfbXE/s-l225.jpg" alt="Listing image for Encounters at Indian Head: The Betty and Barney Hill UFO [Premium Leather Bound]" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" target="_blank" rel="sponsored noopener noreferrer">Encounters at Indian Head: The Betty and Barney Hill UFO [Premium Leather Bound]</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Betty Barney Hill UFO">Search<span data-ebay-domain-label>eBay.co.uk</span>: Betty Barney Hill UFO</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Betty Barney Hill Hoodie Joe Rogan UFO hoodie jumper pullover"><img src="https://i.ebayimg.com/images/g/3wIAAeSwEOBp1EB1/s-l225.jpg" alt="Listing image for Betty Barney Hill Hoodie Joe Rogan UFO hoodie jumper pullover" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" target="_blank" rel="sponsored noopener noreferrer">Betty Barney Hill Hoodie Joe Rogan UFO hoodie jumper pullover</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Betty Barney Hill UFO">Search <span data-ebay-domain-label>eBay.co.uk</span>: Betty Barney Hill UFO</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Betty Barney Hill Hoodie Joe Rogan UFO hoodie jumper pullover"><img src="https://i.ebayimg.com/images/g/3wIAAeSwEOBp1EB1/s-l225.jpg" alt="Listing image for Betty Barney Hill Hoodie Joe Rogan UFO hoodie jumper pullover" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" target="_blank" rel="sponsored noopener noreferrer">Betty Barney Hill Hoodie Joe Rogan UFO hoodie jumper pullover</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Betty Barney Hill UFO">Search<span data-ebay-domain-label>eBay.co.uk</span>: Betty Barney Hill UFO</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Betty+Barney+Hill+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-the-hills-betty-barney-hill-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Betty Barney Hill UFO" data-ebay-reference="what-really-happened-to-the-hills-betty-barney-hill-ufo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1045,7 +1045,7 @@ The case remains significant because it is not easily reduced to a joke or a sol
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1065,7 +1065,7 @@ The case remains significant because it is not easily reduced to a joke or a sol
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1097,7 +1097,7 @@ The case remains significant because it is not easily reduced to a joke or a sol
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1149,7 +1149,7 @@ The case remains significant because it is not easily reduced to a joke or a sol
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1194,7 +1194,7 @@ The case remains significant because it is not easily reduced to a joke or a sol
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1235,166 +1235,166 @@ The case remains significant because it is not easily reduced to a joke or a sol
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cufos.org  
    Title: Center for UFO Studies  
-   Link: <a href="https://cufos.org/PDFs/Abductions/1961_09_19_US_NH_White-Mountains_NICAP_Hill.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/Abductions/1961_09_19_US_NH_White-Mountains_NICAP_Hill.pdf</a>  
+   Link:<a href="https://cufos.org/PDFs/Abductions/1961_09_19_US_NH_White-Mountains_NICAP_Hill.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/Abductions/1961_09_19_US_NH_White-Mountains_NICAP_Hill.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: library.unh.edu  
    Title: betty barney hill papers 1961 2006  
-   Link: <a href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006" target="_blank" rel="noopener noreferrer nofollow">https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006</a>  
+   Link:<a href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers" target="_blank" rel="noopener noreferrer nofollow">https://library.unh.edu/find/archives/collections/betty-barney-hill-papers</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nicap.org  
    Title: UFO Report  
-   Link: <a href="https://nicap.org/610919indianhead_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://nicap.org/610919indianhead_dir.htm</a>  
+   Link:<a href="https://nicap.org/610919indianhead_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://nicap.org/610919indianhead_dir.htm</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: yalebooks.yale.edu  
    Title: the alien abduction story of two civil rights activists  
-   Link: <a href="https://yalebooks.yale.edu/2025/04/18/the-alien-abduction-story-of-two-civil-rights-activists/" target="_blank" rel="noopener noreferrer nofollow">https://yalebooks.yale.edu/2025/04/18/the-alien-abduction-story-of-two-civil-rights-activists/</a>  
+   Link:<a href="https://yalebooks.yale.edu/2025/04/18/the-alien-abduction-story-of-two-civil-rights-activists/" target="_blank" rel="noopener noreferrer nofollow">https://yalebooks.yale.edu/2025/04/18/the-alien-abduction-story-of-two-civil-rights-activists/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: magazine.unh.edu  
    Title: Magazine An Extra(terrestrial) Special Collection  
-   Link: <a href="https://magazine.unh.edu/issue/spring-summer-2021/an-extraterrestrial-special-collection/" target="_blank" rel="noopener noreferrer nofollow">https://magazine.unh.edu/issue/spring-summer-2021/an-extraterrestrial-special-collection/</a>  
+   Link:<a href="https://magazine.unh.edu/issue/spring-summer-2021/an-extraterrestrial-special-collection/" target="_blank" rel="noopener noreferrer nofollow">https://magazine.unh.edu/issue/spring-summer-2021/an-extraterrestrial-special-collection/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010003-8" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010003-8</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010003-8" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010003-8</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: scholars.unh.edu  
    Title: faculty pubs  
-   Link: <a href="https://scholars.unh.edu/faculty_pubs/1006/" target="_blank" rel="noopener noreferrer nofollow">https://scholars.unh.edu/faculty_pubs/1006/</a>  
+   Link:<a href="https://scholars.unh.edu/faculty_pubs/1006/" target="_blank" rel="noopener noreferrer nofollow">https://scholars.unh.edu/faculty_pubs/1006/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6826861/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6826861/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6826861/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6826861/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: madhousemanor.com  
    Title: the hill case part 3  
-   Link: <a href="https://madhousemanor.com/2017/12/11/the-hill-case-part-3/" target="_blank" rel="noopener noreferrer nofollow">https://madhousemanor.com/2017/12/11/the-hill-case-part-3/</a>  
+   Link:<a href="https://madhousemanor.com/2017/12/11/the-hill-case-part-3/" target="_blank" rel="noopener noreferrer nofollow">https://madhousemanor.com/2017/12/11/the-hill-case-part-3/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/ahr/article-abstract/130/1/491/8069728" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/ahr/article-abstract/130/1/491/8069728</a>  
+   Link:<a href="https://academic.oup.com/ahr/article-abstract/130/1/491/8069728" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/ahr/article-abstract/130/1/491/8069728</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: hmdb.org  
-   Link: <a href="https://www.hmdb.org/m.asp?m=74571" target="_blank" rel="noopener noreferrer nofollow">https://www.hmdb.org/m.asp?m=74571</a>  
+   Link:<a href="https://www.hmdb.org/m.asp?m=74571" target="_blank" rel="noopener noreferrer nofollow">https://www.hmdb.org/m.asp?m=74571</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: scholars.unh.edu  
-   Link: <a href="https://scholars.unh.edu/cgi/viewcontent.cgi?article=2008&amp;context=faculty_pubs" target="_blank" rel="noopener noreferrer nofollow">https://scholars.unh.edu/cgi/viewcontent.cgi?article=2008&amp;context=faculty_pubs</a>  
+   Link:<a href="https://scholars.unh.edu/cgi/viewcontent.cgi?article=2008&amp;context=faculty_pubs" target="_blank" rel="noopener noreferrer nofollow">https://scholars.unh.edu/cgi/viewcontent.cgi?article=2008&amp;context=faculty_pubs</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010003-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010003-8.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010003-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010003-8.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: yalebooks.yale.edu  
    Title: the abduction of betty and barney hill  
-   Link: <a href="https://yalebooks.yale.edu/book/9780300281859/the-abduction-of-betty-and-barney-hill/" target="_blank" rel="noopener noreferrer nofollow">https://yalebooks.yale.edu/book/9780300281859/the-abduction-of-betty-and-barney-hill/</a>  
+   Link:<a href="https://yalebooks.yale.edu/book/9780300281859/the-abduction-of-betty-and-barney-hill/" target="_blank" rel="noopener noreferrer nofollow">https://yalebooks.yale.edu/book/9780300281859/the-abduction-of-betty-and-barney-hill/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/articles/hillzeta.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/articles/hillzeta.htm</a>  
+   Link:<a href="https://www.nicap.org/articles/hillzeta.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/articles/hillzeta.htm</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ia802901.us.archive.org  
    Title: Extraordinary Encounters  
-   Link: <a href="https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf</a>  
+   Link:<a href="https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/ahr/article-pdf/130/1/491/62401376/rhae641.pdf" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/ahr/article-pdf/130/1/491/62401376/rhae641.pdf</a>  
+   Link:<a href="https://academic.oup.com/ahr/article-pdf/130/1/491/62401376/rhae641.pdf" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/ahr/article-pdf/130/1/491/62401376/rhae641.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: bps.org.uk  
    Title: recovered and false memories  
-   Link: <a href="https://www.bps.org.uk/psychologist/recovered-and-false-memories" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/recovered-and-false-memories</a>  
+   Link:<a href="https://www.bps.org.uk/psychologist/recovered-and-false-memories" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/recovered-and-false-memories</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: armaghplanet.com  
    Title: Armagh Planetarium The Truth About Zeta Reticuli  
-   Link: <a href="https://armaghplanet.com/the-truth-about-zeta-reticuli.html" target="_blank" rel="noopener noreferrer nofollow">https://armaghplanet.com/the-truth-about-zeta-reticuli.html</a>  
+   Link:<a href="https://armaghplanet.com/the-truth-about-zeta-reticuli.html" target="_blank" rel="noopener noreferrer nofollow">https://armaghplanet.com/the-truth-about-zeta-reticuli.html</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: yalebooks.co.uk  
-   Link: <a href="https://yalebooks.co.uk/book/9780300281859/the-abduction-of-betty-and-barney-hill/" target="_blank" rel="noopener noreferrer nofollow">https://yalebooks.co.uk/book/9780300281859/the-abduction-of-betty-and-barney-hill/</a>  
+   Link:<a href="https://yalebooks.co.uk/book/9780300281859/the-abduction-of-betty-and-barney-hill/" target="_blank" rel="noopener noreferrer nofollow">https://yalebooks.co.uk/book/9780300281859/the-abduction-of-betty-and-barney-hill/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nhpr.org  
    Title: marking history the betty and barney hill incident in lincoln  
-   Link: <a href="https://www.nhpr.org/nh-news/2014-03-28/marking-history-the-betty-and-barney-hill-incident-in-lincoln" target="_blank" rel="noopener noreferrer nofollow">https://www.nhpr.org/nh-news/2014-03-28/marking-history-the-betty-and-barney-hill-incident-in-lincoln</a>  
+   Link:<a href="https://www.nhpr.org/nh-news/2014-03-28/marking-history-the-betty-and-barney-hill-incident-in-lincoln" target="_blank" rel="noopener noreferrer nofollow">https://www.nhpr.org/nh-news/2014-03-28/marking-history-the-betty-and-barney-hill-incident-in-lincoln</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cosmic-pancakes.com  
    Title: interrupted journey  
-   Link: <a href="https://www.cosmic-pancakes.com/blog/interrupted-journey" target="_blank" rel="noopener noreferrer nofollow">https://www.cosmic-pancakes.com/blog/interrupted-journey</a>  
+   Link:<a href="https://www.cosmic-pancakes.com/blog/interrupted-journey" target="_blank" rel="noopener noreferrer nofollow">https://www.cosmic-pancakes.com/blog/interrupted-journey</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: mcdemarco.net  
    Title: on cannon mountain  
-   Link: <a href="https://mcdemarco.net/blog/2007/09/21/on-cannon-mountain/" target="_blank" rel="noopener noreferrer nofollow">https://mcdemarco.net/blog/2007/09/21/on-cannon-mountain/</a>  
+   Link:<a href="https://mcdemarco.net/blog/2007/09/21/on-cannon-mountain/" target="_blank" rel="noopener noreferrer nofollow">https://mcdemarco.net/blog/2007/09/21/on-cannon-mountain/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: johnmorton.co.uk  
    Title: Recovered Memories  
-   Link: <a href="https://johnmorton.co.uk/wp-content/uploads/2014/11/1995-rm-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://johnmorton.co.uk/wp-content/uploads/2014/11/1995-rm-report.pdf</a>  
+   Link:<a href="https://johnmorton.co.uk/wp-content/uploads/2014/11/1995-rm-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://johnmorton.co.uk/wp-content/uploads/2014/11/1995-rm-report.pdf</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: The Abduction of Betty & Barney Hill  
-   Link: <a href="https://www.youtube.com/watch?v=V3MjsfuLGYw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V3MjsfuLGYw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Abduction of Betty and Barney Hill | Morbid | Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=V3MjsfuLGYw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V3MjsfuLGYw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Abduction of Betty and Barney Hill | Morbid | Podcast...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: The very first Alien Abduction case in America  
-   Link: <a href="https://www.youtube.com/watch?v=VkWs6J2vVLI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VkWs6J2vVLI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Betty Hill Abduction Case: Scientists Examine Her Dress For Alien DNA...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VkWs6J2vVLI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VkWs6J2vVLI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Betty Hill Abduction Case: Scientists Examine Her Dress For Alien DNA...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: The Abduction of Betty and Barney Hill | Morbid | Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=mymQcTWVC8w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mymQcTWVC8w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The very first Alien Abduction case in America...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mymQcTWVC8w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mymQcTWVC8w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The very first Alien Abduction case in America...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ExploringLegends/posts/a-little-betty-and-barney-hill-ufo-abduction-in-new-hampshire-recap-from-wickeds/1324981295661770/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ExploringLegends/posts/a-little-betty-and-barney-hill-ufo-abduction-in-new-hampshire-recap-from-wickeds/1324981295661770/</a>  
+   Link:<a href="https://www.facebook.com/ExploringLegends/posts/a-little-betty-and-barney-hill-ufo-abduction-in-new-hampshire-recap-from-wickeds/1324981295661770/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ExploringLegends/posts/a-little-betty-and-barney-hill-ufo-abduction-in-new-hampshire-recap-from-wickeds/1324981295661770/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/deepuniversee/posts/after-twenty-five-years-of-researching-alien-abduction-cases-gary-bates-uncovere/835265089271381/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/after-twenty-five-years-of-researching-alien-abduction-cases-gary-bates-uncovere/835265089271381/</a>  
+   Link:<a href="https://www.facebook.com/deepuniversee/posts/after-twenty-five-years-of-researching-alien-abduction-cases-gary-bates-uncovere/835265089271381/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/after-twenty-five-years-of-researching-alien-abduction-cases-gary-bates-uncovere/835265089271381/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: outdoors.org  
-   Link: <a href="https://www.outdoors.org/resources/amc-outdoors/history/the-story-of-betty-and-barney-hill/" target="_blank" rel="noopener noreferrer nofollow">https://www.outdoors.org/resources/amc-outdoors/history/the-story-of-betty-and-barney-hill/</a>  
+   Link:<a href="https://www.outdoors.org/resources/amc-outdoors/history/the-story-of-betty-and-barney-hill/" target="_blank" rel="noopener noreferrer nofollow">https://www.outdoors.org/resources/amc-outdoors/history/the-story-of-betty-and-barney-hill/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/f592721fbab32299245c74904fcb90686d749c6f" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/f592721fbab32299245c74904fcb90686d749c6f</a>  
+   Link:<a href="https://www.semanticscholar.org/paper/f592721fbab32299245c74904fcb90686d749c6f" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/f592721fbab32299245c74904fcb90686d749c6f</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated</a>  
+   Link:<a href="https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/348367194_Extraterrestrials_in_the_Stacks_An_Archivist%27s_Journey_with_Alien_Abduction_A_Stained_Blue_Dress_and_the_Betty_and_Barney_Hill_Collection" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/348367194_Extraterrestrials_in_the_Stacks_An_Archivist%27s_Journey_with_Alien_Abduction_A_Stained_Blue_Dress_and_the_Betty_and_Barney_Hill_Collection</a>  
+   Link:<a href="https://www.researchgate.net/publication/348367194_Extraterrestrials_in_the_Stacks_An_Archivist%27s_Journey_with_Alien_Abduction_A_Stained_Blue_Dress_and_the_Betty_and_Barney_Hill_Collection" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/348367194_Extraterrestrials_in_the_Stacks_An_Archivist%27s_Journey_with_Alien_Abduction_A_Stained_Blue_Dress_and_the_Betty_and_Barney_Hill_Collection</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: tripadvisor.co.uk  
-   Link: <a href="https://www.tripadvisor.co.uk/Attraction_Review-g46140-d8612098-Reviews-Betty_and_Barney_Hill_Incident_Historical_Marker-Lincoln_New_Hampshire.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Attraction_Review-g46140-d8612098-Reviews-Betty_and_Barney_Hill_Incident_Historical_Marker-Lincoln_New_Hampshire.html</a>
+   Link:<a href="https://www.tripadvisor.co.uk/Attraction_Review-g46140-d8612098-Reviews-Betty_and_Barney_Hill_Incident_Historical_Marker-Lincoln_New_Hampshire.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Attraction_Review-g46140-d8612098-Reviews-Betty_and_Barney_Hill_Incident_Historical_Marker-Lincoln_New_Hampshire.html</a>

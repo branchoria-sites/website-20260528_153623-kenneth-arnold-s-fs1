@@ -758,73 +758,73 @@ image: /assets/images/Kinross_incident_195_2ebd01-overview-social.jpg
 
 ## Introduction
 
-The most evidence-based reading is that Moncla and Wilson were almost certainly lost in an aviation accident during a Cold War air-defence intercept, probably ending in Lake Superior. The case remains unresolved because the aircraft was never conclusively found, the official C-47 identification has unresolved problems, and the radar story was later amplified into a UFO legend by writers and retellings that often added details not present in the strongest documentary record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[2openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
+The most evidence-based reading is that Moncla and Wilson were almost certainly lost in an aviation accident during a Cold War air-defence intercept, probably ending in Lake Superior. The case remains unresolved because the aircraft was never conclusively found, the official C-47 identification has unresolved problems, and the radar story was later amplified into a UFO legend by writers and retellings that often added details not present in the strongest documentary record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[2openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
 
 <img src="{{ "/assets/images/Kinross_incident_195_2ebd01-overview.webp" | relative_url }}" alt="Overview image for Kinross incident 1953" loading="eager" decoding="sync" fetchpriority="high">
 ## What happened on 23 November 1953?
 
-The incident took place during a period when North American air-defence radar stations were watching for unidentified aircraft, not merely for “flying saucers”. The key ground-control sites in the Kinross case included Calumet Air Force Station, with the Ground-Control Intercept callsign “PILLOW”, and Sault Ste. Marie Air Force Station, callsign “NAPLES”. Kinross Air Force Base supplied the interceptor aircraft, while Moncla and Wilson belonged to the 433rd Fighter Squadron from Truax Field, which was temporarily maintaining alert duties at Kinross because the local 438th Fighter Squadron was away for gunnery training. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
+The incident took place during a period when North American air-defence radar stations were watching for unidentified aircraft, not merely for “flying saucers”. The key ground-control sites in the Kinross case included Calumet Air Force Station, with the Ground-Control Intercept callsign “PILLOW”, and Sault Ste. Marie Air Force Station, callsign “NAPLES”. Kinross Air Force Base supplied the interceptor aircraft, while Moncla and Wilson belonged to the 433rd Fighter Squadron from Truax Field, which was temporarily maintaining alert duties at Kinross because the local 438th Fighter Squadron was away for gunnery training.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
 
-According to the reconstruction published by the Open Skies Project, drawing on official accident-report material and related records, the F-89C, serial number 51-5853A, had already flown earlier that day and was returned to number-one five-minute alert status after routine servicing. By evening, weather over eastern Lake Superior included layered cloud, scattered snow showers, and visibility that could drop sharply in snow. Those conditions matter because they reduce the likelihood of visual identification and complicate any later search for wreckage or survivors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
+According to the reconstruction published by the Open Skies Project, drawing on official accident-report material and related records, the F-89C, serial number 51-5853A, had already flown earlier that day and was returned to number-one five-minute alert status after routine servicing. By evening, weather over eastern Lake Superior included layered cloud, scattered snow showers, and visibility that could drop sharply in snow. Those conditions matter because they reduce the likelihood of visual identification and complicate any later search for wreckage or survivors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
 
-At about 6:17 pm, radar operators at Calumet detected an aircraft over Lake Superior. The target was believed to be a Royal Canadian Air Force C-47 Dakota, identified as VC-912, travelling from Winnipeg towards Sudbury, but it was reportedly treated as “Unknown” because it was around 30 miles off course. Kinross then scrambled the alert F-89C at 6:22 pm, with Moncla and Wilson using the callsign Avenger Red. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
+At about 6:17 pm, radar operators at Calumet detected an aircraft over Lake Superior. The target was believed to be a Royal Canadian Air Force C-47 Dakota, identified as VC-912, travelling from Winnipeg towards Sudbury, but it was reportedly treated as “Unknown” because it was around 30 miles off course. Kinross then scrambled the alert F-89C at 6:22 pm, with Moncla and Wilson using the callsign Avenger Red.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
 
-The intercept did not proceed smoothly. Radio reception between Avenger Red and ground control was poor, and the jet was transferred between NAPLES and PILLOW control. At 6:45 pm, Moncla reportedly asked whether the intercept should be called off because of poor radio signal, and was told to proceed at his discretion. Despite radio trouble, ground radar reportedly maintained a strong return from the F-89, along with its Identification Friend or Foe transponder signal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
+The intercept did not proceed smoothly. Radio reception between Avenger Red and ground control was poor, and the jet was transferred between NAPLES and PILLOW control. At 6:45 pm, Moncla reportedly asked whether the intercept should be called off because of poor radio signal, and was told to proceed at his discretion. Despite radio trouble, ground radar reportedly maintained a strong return from the F-89, along with its Identification Friend or Foe transponder signal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
 
-At 6:52 pm, Avenger Red was told the target was at its eleven o’clock position and ten miles away. At 6:55 pm, the F-89’s radar return and the unknown target converged into a single radar blip. Ground control expected the tracks to separate again, as might happen if the fighter had closed on the target or was flying close to it, but shortly afterwards Avenger Red’s IFF signal disappeared. Repeated radio calls went unanswered, and the last known position was given as 48.00N, 86.49W. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
+At 6:52 pm, Avenger Red was told the target was at its eleven o’clock position and ten miles away. At 6:55 pm, the F-89’s radar return and the unknown target converged into a single radar blip. Ground control expected the tracks to separate again, as might happen if the fighter had closed on the target or was flying close to it, but shortly afterwards Avenger Red’s IFF signal disappeared. Repeated radio calls went unanswered, and the last known position was given as 48.00N, 86.49W.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
 
 <img src="{{ "/assets/images/Kinross_incident_195_2ebd01-Illustration-1-dark.svg" | relative_url }}" alt="Kinross incident 1953 illustration 1" data-theme-src-dark="{{ "/assets/images/Kinross_incident_195_2ebd01-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kinross_incident_195_2ebd01-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the “merged blips” became the centre of the mystery
 
 The most famous detail in the Kinross incident is the [radar merge]({{ 'radar-merge/' | relative_url }}). In popular retellings, the two radar returns become one dot, the dot vanishes, and the reader is invited to infer collision, capture, or something stranger. That is too simple. In 1950s radar terms, two blips merging did not necessarily mean two aircraft physically touched. It could mean the radar could no longer distinguish two nearby targets because they were within the system’s range resolution.
 
-The Open Skies Project’s technical discussion identifies the Calumet radar environment as involving an AN/FPS-3 search radar and separate height-finder equipment, with the AN/FPS-3 capable of tracking targets at long range but not resolving two very close targets as precisely as a modern reader might imagine. Its range resolution is described as about half a mile, meaning two aircraft could appear as a single return while still being separated by a substantial distance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
+The Open Skies Project’s technical discussion identifies the Calumet radar environment as involving an AN/FPS-3 search radar and separate height-finder equipment, with the AN/FPS-3 capable of tracking targets at long range but not resolving two very close targets as precisely as a modern reader might imagine. Its range resolution is described as about half a mile, meaning two aircraft could appear as a single return while still being separated by a substantial distance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
 
-That point cuts both ways. It weakens the most dramatic UFO interpretation, because “merged on radar” is not proof of collision or absorption. But it also leaves the accident sequence uncertain, because if the F-89 descended, broke up, stalled, suffered engine trouble, or turned sharply near the target, the radar display alone may not have captured enough detail to reveal which of those happened. The disappearance of the IFF signal shortly after the merge is more serious evidence of an aircraft emergency, but it still does not identify the exact cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
+That point cuts both ways. It weakens the most dramatic UFO interpretation, because “merged on radar” is not proof of collision or absorption. But it also leaves the accident sequence uncertain, because if the F-89 descended, broke up, stalled, suffered engine trouble, or turned sharply near the target, the radar display alone may not have captured enough detail to reveal which of those happened. The disappearance of the IFF signal shortly after the merge is more serious evidence of an aircraft emergency, but it still does not identify the exact cause.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
 
 ## The official explanation and its weak points
 
-The official explanation associated with the accident report is that the unknown target was not an exotic craft but a Canadian C-47, and that the F-89 was lost during the intercept. Aviation Safety Network summarises the case as a missing USAF Northrop F-89C, serial 51-5853, with two fatalities, departing and intended to return to Kinross AFB, and notes that the USAF report identified the unknown target as a Canadian Air Force C-47 while Canadian authorities apparently had no record of the flight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation-safety.net/wikibase/161691" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[Aviation Safety Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The official explanation associated with the accident report is that the unknown target was not an exotic craft but a Canadian C-47, and that the F-89 was lost during the intercept. Aviation Safety Network summarises the case as a missing USAF Northrop F-89C, serial 51-5853, with two fatalities, departing and intended to return to Kinross AFB, and notes that the USAF report identified the unknown target as a Canadian Air Force C-47 while Canadian authorities apparently had no record of the flight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation-safety.net/wikibase/161691" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[Aviation Safety Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The C-47 explanation is plausible in broad shape: an air-defence system sees an aircraft that is not where it is expected to be, launches an interceptor, and the interceptor is lost in difficult weather over a huge lake. It is also less tidy than it first appears. One problem is route and destination. The official account’s reference to Sudbury is awkward because Sudbury’s commercial airport was not open until 1954, although the site may have had some emergency-landing relevance; the nearest Canadian military airfield was elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
+The C-47 explanation is plausible in broad shape: an air-defence system sees an aircraft that is not where it is expected to be, launches an interceptor, and the interceptor is lost in difficult weather over a huge lake. It is also less tidy than it first appears. One problem is route and destination. The official account’s reference to Sudbury is awkward because Sudbury’s commercial airport was not open until 1954, although the site may have had some emergency-landing relevance; the nearest Canadian military airfield was elsewhere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
 
-Another problem is the later recollection attributed to Gerald Fosberg, the pilot associated with the C-47 identification. In the Open Skies Project account, Fosberg’s letter recalled a night flight, a solid cloud deck below, clear sky above, and a ground station asking whether he had seen another aircraft’s lights after the interceptor had already been lost. He said he saw nothing. This broadly supports one part of the official story — that the C-47 crew did not see the F-89 — but it does not settle whether the C-47 was really 30 miles off course or whether it was the actual target Moncla was closing on. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
+Another problem is the later recollection attributed to Gerald Fosberg, the pilot associated with the C-47 identification. In the Open Skies Project account, Fosberg’s letter recalled a night flight, a solid cloud deck below, clear sky above, and a ground station asking whether he had seen another aircraft’s lights after the interceptor had already been lost. He said he saw nothing. This broadly supports one part of the official story — that the C-47 crew did not see the F-89 — but it does not settle whether the C-47 was really 30 miles off course or whether it was the actual target Moncla was closing on.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
 
-A further complication is that some later claims say the Royal Canadian Air Force denied having an aircraft involved. The strongest available accounts are more nuanced than that: they point to uncertainty over whether a Canadian aircraft was actually “intercepted”, and to the possibility that the C-47 was contacted only after the F-89 had disappeared. That distinction matters. A Canadian C-47 could have been in the broad region without its crew ever being aware of, or physically close to, the final moments of Avenger Red. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
+A further complication is that some later claims say the Royal Canadian Air Force denied having an aircraft involved. The strongest available accounts are more nuanced than that: they point to uncertainty over whether a Canadian aircraft was actually “intercepted”, and to the possibility that the C-47 was contacted only after the F-89 had disappeared. That distinction matters. A Canadian C-47 could have been in the broad region without its crew ever being aware of, or physically close to, the final moments of Avenger Red.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wZTYhwwq4tc" title="The Creepy Missing F-89 Pilot - The Kinross UFO Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wZTYhwwq4tc" target="_blank" rel="noopener noreferrer">The Creepy Missing F-89 Pilot - The Kinross UFO Incident</a></p><p class="youtube-embed-meta">Channel: Dark Docs &middot; Views: 1.3M &middot; Uploaded: February 2020 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wZTYhwwq4tc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wZTYhwwq4tc">Open on YouTube</a></p></div></div></div>
 
 ## The search: extensive, difficult, and inconclusive
 
-The search began quickly but under poor conditions. The USAF 49th Air Rescue Squadron contacted the Eastern Area Rescue Coordination Center in Ontario at about 10 pm, but severe weather delayed Canadian participation until the following morning. The US Coast Guard supplied an SA-16 aircraft and the cutter Woodrush, while additional USAF and RCAF aircraft later joined the search. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
+The search began quickly but under poor conditions. The USAF 49th Air Rescue Squadron contacted the Eastern Area Rescue Coordination Center in Ontario at about 10 pm, but severe weather delayed Canadian participation until the following morning. The US Coast Guard supplied an SA-16 aircraft and the cutter Woodrush, while additional USAF and RCAF aircraft later joined the search.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
 
-The search pattern was shaped by both the last known position and the assumption that a pilot in trouble might try to turn towards home. Aircraft searched lake and shoreline areas, but snow, low ceilings, icing, and poor visibility reduced the effectiveness of the effort. Public tips were investigated, including reported wreckage near Cut River Bridge and a possible crash site in Canadian wilderness, but searches found nothing conclusive. The main search was suspended on 28 November 1953 after teams reported covering most of the designated area without finding the aircraft or crew. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
+The search pattern was shaped by both the last known position and the assumption that a pilot in trouble might try to turn towards home. Aircraft searched lake and shoreline areas, but snow, low ceilings, icing, and poor visibility reduced the effectiveness of the effort. Public tips were investigated, including reported wreckage near Cut River Bridge and a possible crash site in Canadian wilderness, but searches found nothing conclusive. The main search was suspended on 28 November 1953 after teams reported covering most of the designated area without finding the aircraft or crew.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
 
 The absence of wreckage is one reason the case remains emotionally and evidentially powerful. Yet it is not, by itself, extraordinary. A fast military jet lost over Lake Superior in winter could break up, sink, scatter debris, or be missed by air searchers looking through snow and cloud. The key evidential gap is not merely “no wreckage”, but the combination of no wreckage, ambiguous radar data, a disputed target identification, and later contradictory storytelling.
 
 ## Aircraft, weather, and the ordinary hazards behind an extraordinary story
 
-The F-89C Scorpion was not a harmless background detail; it is central to the accident hypothesis. The Scorpion was an all-weather interceptor, but early F-89 variants had a troubled service history. The National Museum of the United States Air Force describes the F-89J on display as part of the Scorpion family, while historical summaries of the type note that the F-89 entered service in 1950 and that earlier models suffered engine and structural problems. National Museum of the U.S. Air Force <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198080/northrop-f-89j-scorpion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalmuseum.af.mil">[nationalmuseum.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalmuseum.af.mil</span><span class="citation-popover-title">northrop f 89j scorpion</span><span class="citation-popover-snippet">northrop f 89j scorpion</span></span></span>
+The F-89C Scorpion was not a harmless background detail; it is central to the accident hypothesis. The Scorpion was an all-weather interceptor, but early F-89 variants had a troubled service history. The National Museum of the United States Air Force describes the F-89J on display as part of the Scorpion family, while historical summaries of the type note that the F-89 entered service in 1950 and that earlier models suffered engine and structural problems. National Museum of the U.S. Air Force<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198080/northrop-f-89j-scorpion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalmuseum.af.mil">[nationalmuseum.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalmuseum.af.mil</span><span class="citation-popover-title">northrop f 89j scorpion</span><span class="citation-popover-snippet">northrop f 89j scorpion</span></span></span>
 
-The Open Skies Project’s technical section argues that the F-89C had known reliability and structural concerns. It describes earlier F-89 disintegrations, grounding of the type in September 1952, structural modifications, performance restrictions, and continuing concerns around engines and icing. It also notes other serious crashes close in time to the Kinross event, including another F-89C from the same wider Truax-based unit crashing near Madison, Wisconsin, on the same day. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
+The Open Skies Project’s technical section argues that the F-89C had known reliability and structural concerns. It describes earlier F-89 disintegrations, grounding of the type in September 1952, structural modifications, performance restrictions, and continuing concerns around engines and icing. It also notes other serious crashes close in time to the Kinross event, including another F-89C from the same wider Truax-based unit crashing near Madison, Wisconsin, on the same day.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
 
-That context does not prove Moncla’s aircraft failed mechanically. It does, however, make mechanical failure, loss of control, icing-related trouble, spatial disorientation, or a failed manoeuvre near the target much more credible than an interpretation based solely on the eerie image of two radar dots becoming one. The lack of a distress call is also not decisive: rapid failures, low-altitude descent, radio problems already reported during the intercept, or crew overload could all prevent a clear emergency transmission. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
+That context does not prove Moncla’s aircraft failed mechanically. It does, however, make mechanical failure, loss of control, icing-related trouble, spatial disorientation, or a failed manoeuvre near the target much more credible than an interpretation based solely on the eerie image of two radar dots becoming one. The lack of a distress call is also not decisive: rapid failures, low-altitude descent, radio problems already reported during the intercept, or crew overload could all prevent a clear emergency transmission.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
 
 <img src="{{ "/assets/images/Kinross_incident_195_2ebd01-Illustration-2-dark.svg" | relative_url }}" alt="Kinross incident 1953 illustration 2" data-theme-src-dark="{{ "/assets/images/Kinross_incident_195_2ebd01-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kinross_incident_195_2ebd01-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How a Cold War accident became a UFO case
 
-The Kinross incident did not become famous because the contemporary evidence clearly showed extraterrestrial involvement. It became a UFO case because an unidentified radar target, a vanished interceptor, and Cold War secrecy formed the ideal ingredients for later interpretation. Donald Keyhoe’s 1955 book, *The Flying Saucer Conspiracy*, played a major role in making the case part of UFO lore. Keyhoe was an influential early UFO writer who argued that the United States government was withholding information about flying saucers, and his book included the Kinross disappearance among cases that he saw through that lens. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Flying_Saucer_Conspiracy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Flying Saucer Conspiracy</span><span class="citation-popover-snippet">The Flying Saucer Conspiracy</span></span></span>
+The Kinross incident did not become famous because the contemporary evidence clearly showed extraterrestrial involvement. It became a UFO case because an unidentified radar target, a vanished interceptor, and Cold War secrecy formed the ideal ingredients for later interpretation. Donald Keyhoe’s 1955 book, *The Flying Saucer Conspiracy*, played a major role in making the case part of UFO lore. Keyhoe was an influential early UFO writer who argued that the United States government was withholding information about flying saucers, and his book included the Kinross disappearance among cases that he saw through that lens.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Flying_Saucer_Conspiracy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Flying Saucer Conspiracy</span><span class="citation-popover-snippet">The Flying Saucer Conspiracy</span></span></span>
 
-The problem is that some of the most memorable UFO-story details appear to depend on later retellings rather than on the best official documentation. The Open Skies Project notes that many articles incorrectly place the initial unknown aircraft over restricted airspace near the Soo Locks, while the official material instead points towards detection by Calumet and a track over Lake Superior. It also highlights that Keyhoe’s account diverges from the official report in important ways, including the claim that the merged radar return quickly disappeared from the scope. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
+The problem is that some of the most memorable UFO-story details appear to depend on later retellings rather than on the best official documentation. The Open Skies Project notes that many articles incorrectly place the initial unknown aircraft over restricted airspace near the Soo Locks, while the official material instead points towards detection by Calumet and a track over Lake Superior. It also highlights that Keyhoe’s account diverges from the official report in important ways, including the claim that the merged radar return quickly disappeared from the scope.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
 
-This does not mean every official statement should be accepted uncritically. It means that the UFO version must be held to the same standard as the official one. The alien-capture or collision interpretation depends heavily on reading the radar merge as a physical event, treating later narrative embellishments as evidence, and filling the absence of wreckage with speculation. The official aviation-accident interpretation has gaps, but it is better supported by the known setting: a difficult intercept, radio problems, poor weather, a problematic aircraft type, and a disappearance over deep cold water. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
+This does not mean every official statement should be accepted uncritically. It means that the UFO version must be held to the same standard as the official one. The alien-capture or collision interpretation depends heavily on reading the radar merge as a physical event, treating later narrative embellishments as evidence, and filling the absence of wreckage with speculation. The official aviation-accident interpretation has gaps, but it is better supported by the known setting: a difficult intercept, radio problems, poor weather, a problematic aircraft type, and a disappearance over deep cold water.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
 
 <img src="{{ "/assets/images/Kinross_incident_195_2ebd01-Illustration-3-dark.svg" | relative_url }}" alt="Kinross incident 1953 illustration 3" data-theme-src-dark="{{ "/assets/images/Kinross_incident_195_2ebd01-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kinross_incident_195_2ebd01-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Later “discoveries” and false leads
 
-The most credible later physical lead came in 1968, when aircraft wreckage was reportedly found near Cozen’s Cove and Alona Bay on the Ontario shore of Lake Superior. Contemporary newspaper accounts described what appeared to be part of a tail section, possibly from a high-performance military jet, but even those reports apparently ended by saying it later seemed unlikely to be from the missing F-89. The identification was never firmly established, and the present whereabouts of the debris are unclear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
+The most credible later physical lead came in 1968, when aircraft wreckage was reportedly found near Cozen’s Cove and Alona Bay on the Ontario shore of Lake Superior. Contemporary newspaper accounts described what appeared to be part of a tail section, possibly from a high-performance military jet, but even those reports apparently ended by saying it later seemed unlikely to be from the missing F-89. The identification was never firmly established, and the present whereabouts of the debris are unclear.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
 
-The most notorious false lead came in 2006, when a supposed Great Lakes Dive Company claimed to have found the F-89 on the lakebed, with a mysterious metallic object nearby. The claim spread through UFO and paranormal circles, but it collapsed under scrutiny: researchers could not verify the company, the named individual, or the alleged restricted recovery site, and the website disappeared. Local historical accounts and the Open Skies Project treat the episode as a hoax rather than a serious discovery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
+The most notorious false lead came in 2006, when a supposed Great Lakes Dive Company claimed to have found the F-89 on the lakebed, with a mysterious metallic object nearby. The claim spread through UFO and paranormal circles, but it collapsed under scrutiny: researchers could not verify the company, the named individual, or the alleged restricted recovery site, and the website disappeared. Local historical accounts and the Open Skies Project treat the episode as a hoax rather than a serious discovery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
 
 These later episodes show why the Kinross case is difficult to evaluate. Real gaps attract both sincere investigation and opportunistic myth-making. The 1968 debris story is potentially relevant but under-documented; the 2006 dive story is a cautionary example of how quickly a dramatic claim can become “evidence” in retellings before basic provenance has been checked.
 
@@ -832,203 +832,203 @@ These later episodes show why the Kinross case is difficult to evaluate. Real ga
 
 ## What is known, what is disputed, and what remains unresolved
 
-The strongest points are straightforward. Moncla and Wilson took off in an F-89C from Kinross on 23 November 1953 to identify an unknown radar target. The aircraft was guided by ground control, suffered poor radio conditions, converged on the target’s radar return, lost its IFF signal, and was not heard from again in any confirmed way. Search operations by American and Canadian assets failed to find the aircraft, the crew, or definitive wreckage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[2openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
+The strongest points are straightforward. Moncla and Wilson took off in an F-89C from Kinross on 23 November 1953 to identify an unknown radar target. The aircraft was guided by ground control, suffered poor radio conditions, converged on the target’s radar return, lost its IFF signal, and was not heard from again in any confirmed way. Search operations by American and Canadian assets failed to find the aircraft, the crew, or definitive wreckage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[2openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
 
-The disputed points are also clear. The identity and position of the C-47 remain contested; the official “off course” explanation is not fully reconciled with later Canadian-pilot recollections and destination questions. The alleged later radio transmission heard by Lieutenant Mingenbach and his radar observer is intriguing but ambiguous, lasting only a few seconds and producing no successful contact. The radar merge is real to the case narrative, but its meaning is often overstated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufobc.ca/kinross/otherAccounts/mingenbachsStatement.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufobc.ca">[2ufobc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufobc.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The disputed points are also clear. The identity and position of the C-47 remain contested; the official “off course” explanation is not fully reconciled with later Canadian-pilot recollections and destination questions. The alleged later radio transmission heard by Lieutenant Mingenbach and his radar observer is intriguing but ambiguous, lasting only a few seconds and producing no successful contact. The radar merge is real to the case narrative, but its meaning is often overstated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufobc.ca/kinross/otherAccounts/mingenbachsStatement.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufobc.ca">[2ufobc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufobc.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The unresolved core is narrower than many dramatic versions suggest: not “did a UFO abduct a jet?”, but “what caused Avenger Red to vanish immediately after or during its intercept attempt, and was the aircraft it intercepted really the C-47 identified in the official explanation?” On current public evidence, the most defensible answer is an unexplained military aviation loss, with mechanical failure, weather, intercept manoeuvring, radar limitations, or some combination of those factors more likely than an exotic explanation. The mystery persists because the decisive evidence — the aircraft itself, a confirmed debris trail, a full technical failure sequence, or an uncontested target identification — has never been recovered.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CPp9m09F04Q" title="Kinross Incident: Airmen &amp; Jet Go Missing in 1953 After UFO Encounter | Talking Strange" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CPp9m09F04Q" target="_blank" rel="noopener noreferrer">Kinross Incident: Airmen &amp; Jet Go Missing in 1953 After UFO Encounter | Talking Strange</a></p><p class="youtube-embed-meta">Channel: Den of Geek &middot; Views: 2.5K &middot; Uploaded: November 2023 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CPp9m09F04Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CPp9m09F04Q">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened Over Lake Superior?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened Over Lake Superior?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Examines the official intelligence logging files generated by ground-control intercept stations like Calumet and Sault Ste. Marie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the official intelligence logging files generated by ground-control intercept stations like Calumet and Sault Ste. Marie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides first-hand insight into how the Air Force program formally cataloged the convergence and disappearance of the F-89C Scorpion ove...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides first-hand insight into how the Air Force program formally cataloged the convergence and disappearance of the F-89C Scorpion ove...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Profiles the historical transformation of the Moncla and Wilson disappearance from a military tragedy into a durable UFO legend.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Profiles the historical transformation of the Moncla and Wilson disappearance from a military tragedy into a durable UFO legend.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Bristol+Fighter+in+Action+by+Peter+Cooksley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bristol Fighter in Action on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bristol+Fighter+in+Action+by+Peter+Cooksley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bristol Fighter in Action">Bristol Fighter in Action</a>
-        </h4>
-        <p class="fr-book-author">By Peter Cooksley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Bristol+Fighter+in+Action+by+Peter+Cooksley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bristol Fighter in Action on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bristol+Fighter+in+Action+by+Peter+Cooksley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bristol Fighter in Action">Bristol Fighter in Action</a>
+</h4>
+<p class="fr-book-author">By Peter Cooksley</p>
         
-        <p class="fr-book-desc">Provides structural details on the F-89C Scorpion interceptor, its radar observation components, and known mechanical vulnerabilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bristol+Fighter+in+Action+by+Peter+Cooksley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides structural details on the F-89C Scorpion interceptor, its radar observation components, and known mechanical vulnerabilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bristol+Fighter+in+Action+by+Peter+Cooksley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy Northrop F-89J Scorpion 1/72nd scale model kit. BNIB"><img src="{{ '/assets/images/marketplace-covers/8b36b8e18eaae2da422d.jpg' | relative_url }}" alt="Listing image for Academy Northrop F-89J Scorpion 1/72nd scale model kit. BNIB" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer">Academy Northrop F-89J Scorpion 1/72nd scale model kit. BNIB</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for F-89 Scorpion model">Search <span data-ebay-domain-label>eBay.co.uk</span>: F-89 Scorpion model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy Northrop F-89J Scorpion 1/72nd scale model kit. BNIB"><img src="{{ '/assets/images/marketplace-covers/8b36b8e18eaae2da422d.jpg' | relative_url }}" alt="Listing image for Academy Northrop F-89J Scorpion 1/72nd scale model kit. BNIB" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer">Academy Northrop F-89J Scorpion 1/72nd scale model kit. BNIB</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for F-89 Scorpion model">Search<span data-ebay-domain-label>eBay.co.uk</span>: F-89 Scorpion model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for W283 Revell Model Kit 4320 - Northrop F-89 D/J Scorpion - 1/72 - Pts Sealed"><img src="{{ '/assets/images/marketplace-covers/5f0b90e9d3f46e13b4a8.jpg' | relative_url }}" alt="Listing image for W283 Revell Model Kit 4320 - Northrop F-89 D/J Scorpion - 1/72 - Pts Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer">W283 Revell Model Kit 4320 - Northrop F-89 D/J Scorpion - 1/72 - Pts Sealed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for F-89 Scorpion model">Search <span data-ebay-domain-label>eBay.co.uk</span>: F-89 Scorpion model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for W283 Revell Model Kit 4320 - Northrop F-89 D/J Scorpion - 1/72 - Pts Sealed"><img src="{{ '/assets/images/marketplace-covers/5f0b90e9d3f46e13b4a8.jpg' | relative_url }}" alt="Listing image for W283 Revell Model Kit 4320 - Northrop F-89 D/J Scorpion - 1/72 - Pts Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer">W283 Revell Model Kit 4320 - Northrop F-89 D/J Scorpion - 1/72 - Pts Sealed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for F-89 Scorpion model">Search<span data-ebay-domain-label>eBay.co.uk</span>: F-89 Scorpion model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for W283 Revell Model Kit 4320 - Northrop F-89 D/J Scorpion - 1/72 - Pts Sealed"><img src="{{ '/assets/images/marketplace-covers/119f143e23ba4650d52c.jpg' | relative_url }}" alt="Listing image for W283 Revell Model Kit 4320 - Northrop F-89 D/J Scorpion - 1/72 - Pts Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer">W283 Revell Model Kit 4320 - Northrop F-89 D/J Scorpion - 1/72 - Pts Sealed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for F-89 Scorpion model">Search <span data-ebay-domain-label>eBay.co.uk</span>: F-89 Scorpion model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for W283 Revell Model Kit 4320 - Northrop F-89 D/J Scorpion - 1/72 - Pts Sealed"><img src="{{ '/assets/images/marketplace-covers/119f143e23ba4650d52c.jpg' | relative_url }}" alt="Listing image for W283 Revell Model Kit 4320 - Northrop F-89 D/J Scorpion - 1/72 - Pts Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer">W283 Revell Model Kit 4320 - Northrop F-89 D/J Scorpion - 1/72 - Pts Sealed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for F-89 Scorpion model">Search<span data-ebay-domain-label>eBay.co.uk</span>: F-89 Scorpion model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell 1/48 Model Aircraft Northrop F-89 Scorpion Kit 05650"><img src="{{ '/assets/images/marketplace-covers/be04d2f1f572386b95b3.jpg' | relative_url }}" alt="Listing image for Revell 1/48 Model Aircraft Northrop F-89 Scorpion Kit 05650" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer">Revell 1/48 Model Aircraft Northrop F-89 Scorpion Kit 05650</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for F-89 Scorpion model">Search <span data-ebay-domain-label>eBay.co.uk</span>: F-89 Scorpion model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell 1/48 Model Aircraft Northrop F-89 Scorpion Kit 05650"><img src="{{ '/assets/images/marketplace-covers/be04d2f1f572386b95b3.jpg' | relative_url }}" alt="Listing image for Revell 1/48 Model Aircraft Northrop F-89 Scorpion Kit 05650" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer">Revell 1/48 Model Aircraft Northrop F-89 Scorpion Kit 05650</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for F-89 Scorpion model">Search<span data-ebay-domain-label>eBay.co.uk</span>: F-89 Scorpion model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1044,7 +1044,7 @@ The unresolved core is narrower than many dramatic versions suggest: not “did 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1064,7 +1064,7 @@ The unresolved core is narrower than many dramatic versions suggest: not “did 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1096,7 +1096,7 @@ The unresolved core is narrower than many dramatic versions suggest: not “did 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1148,7 +1148,7 @@ The unresolved core is narrower than many dramatic versions suggest: not “did 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1193,7 +1193,7 @@ The unresolved core is narrower than many dramatic versions suggest: not “did 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1234,98 +1234,98 @@ The unresolved core is narrower than many dramatic versions suggest: not “did 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: openskiesproject.org  
    Title: Open Skies Project  
-   Link: <a href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.openskiesproject.org/news/kinross-incident</a>  
+   Link:<a href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.openskiesproject.org/news/kinross-incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aviation-safety.net  
-   Link: <a href="https://aviation-safety.net/wikibase/161691" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/161691</a>  
+   Link:<a href="https://aviation-safety.net/wikibase/161691" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/161691</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: The Flying Saucer Conspiracy  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Flying_Saucer_Conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Flying_Saucer_Conspiracy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Flying_Saucer_Conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Flying_Saucer_Conspiracy</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Northrop F-89 Scorpion  
-   Link: <a href="https://en.wikipedia.org/wiki/Northrop_F-89_Scorpion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Northrop_F-89_Scorpion</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Northrop_F-89_Scorpion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Northrop_F-89_Scorpion</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufobc.ca  
-   Link: <a href="https://www.ufobc.ca/kinross/otherAccounts/mingenbachsStatement.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufobc.ca/kinross/otherAccounts/mingenbachsStatement.html</a>  
+   Link:<a href="https://www.ufobc.ca/kinross/otherAccounts/mingenbachsStatement.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufobc.ca/kinross/otherAccounts/mingenbachsStatement.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Felix Moncla  
-   Link: <a href="https://en.wikipedia.org/wiki/Felix_Moncla" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Felix_Moncla</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Felix_Moncla" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Felix_Moncla</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Felix Moncla  
-   Link: <a href="https://vi.wikipedia.org/wiki/Felix_Moncla" target="_blank" rel="noopener noreferrer nofollow">https://vi.wikipedia.org/wiki/Felix_Moncla</a>  
+   Link:<a href="https://vi.wikipedia.org/wiki/Felix_Moncla" target="_blank" rel="noopener noreferrer nofollow">https://vi.wikipedia.org/wiki/Felix_Moncla</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Donald Keyhoe  
-   Link: <a href="https://en.wikipedia.org/wiki/Donald_Keyhoe" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Donald_Keyhoe</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Donald_Keyhoe" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Donald_Keyhoe</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aviation-safety.net  
-   Link: <a href="https://aviation-safety.net/asndb/type/no89" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/asndb/type/no89</a>  
+   Link:<a href="https://aviation-safety.net/asndb/type/no89" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/asndb/type/no89</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: history.com  
    Title: ufo fighter jet disappears over lake superior kinross incident  
-   Link: <a href="https://www.history.com/articles/ufo-fighter-jet-disappears-over-lake-superior-kinross-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-fighter-jet-disappears-over-lake-superior-kinross-incident</a>  
+   Link:<a href="https://www.history.com/articles/ufo-fighter-jet-disappears-over-lake-superior-kinross-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-fighter-jet-disappears-over-lake-superior-kinross-incident</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalmuseum.af.mil  
    Title: northrop f 89j scorpion  
-   Link: <a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198080/northrop-f-89j-scorpion/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198080/northrop-f-89j-scorpion/</a>  
+   Link:<a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198080/northrop-f-89j-scorpion/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198080/northrop-f-89j-scorpion/</a>  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Creepy Missing F-89 Pilot  
-   Link: <a href="https://www.youtube.com/watch?v=wZTYhwwq4tc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wZTYhwwq4tc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History of the Calumet Air Force Station and the Kinross Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wZTYhwwq4tc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wZTYhwwq4tc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History of the Calumet Air Force Station and the Kinross Incident...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: skytamer.com  
-   Link: <a href="https://www.skytamer.com/Northrop_1952_N-68_F-89D.html" target="_blank" rel="noopener noreferrer nofollow">https://www.skytamer.com/Northrop_1952_N-68_F-89D.html</a>  
+   Link:<a href="https://www.skytamer.com/Northrop_1952_N-68_F-89D.html" target="_blank" rel="noopener noreferrer nofollow">https://www.skytamer.com/Northrop_1952_N-68_F-89D.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Flying-Saucer-Conspiracy-Donald-Keyhoe/dp/B0007DQVJY" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Flying-Saucer-Conspiracy-Donald-Keyhoe/dp/B0007DQVJY</a>  
+   Link:<a href="https://www.amazon.co.uk/Flying-Saucer-Conspiracy-Donald-Keyhoe/dp/B0007DQVJY" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Flying-Saucer-Conspiracy-Donald-Keyhoe/dp/B0007DQVJY</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aircrashinvestigation/comments/1hdgasy/the_kinross_incident_one_of_canada_and_the_us_air/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aircrashinvestigation/comments/1hdgasy/the_kinross_incident_one_of_canada_and_the_us_air/</a>  
+   Link:<a href="https://www.reddit.com/r/aircrashinvestigation/comments/1hdgasy/the_kinross_incident_one_of_canada_and_the_us_air/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aircrashinvestigation/comments/1hdgasy/the_kinross_incident_one_of_canada_and_the_us_air/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/lamontatlarge/posts/this-man-chased-a-ufo-and-was-never-seen-again-part-1-ufo-storytelling-grave-gra/947402801634754/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lamontatlarge/posts/this-man-chased-a-ufo-and-was-never-seen-again-part-1-ufo-storytelling-grave-gra/947402801634754/</a>  
+   Link:<a href="https://www.facebook.com/lamontatlarge/posts/this-man-chased-a-ufo-and-was-never-seen-again-part-1-ufo-storytelling-grave-gra/947402801634754/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lamontatlarge/posts/this-man-chased-a-ufo-and-was-never-seen-again-part-1-ufo-storytelling-grave-gra/947402801634754/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/VisitKeweenaw/posts/today-is-world-ufo-day-kinross-incident-over-65-years-ago-off-the-coast-of-the-k/10156952094420081/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VisitKeweenaw/posts/today-is-world-ufo-day-kinross-incident-over-65-years-ago-off-the-coast-of-the-k/10156952094420081/</a>  
+   Link:<a href="https://www.facebook.com/VisitKeweenaw/posts/today-is-world-ufo-day-kinross-incident-over-65-years-ago-off-the-coast-of-the-k/10156952094420081/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VisitKeweenaw/posts/today-is-world-ufo-day-kinross-incident-over-65-years-ago-off-the-coast-of-the-k/10156952094420081/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AFmuseum/posts/view-this-historic-photo-of-the-northrop-f-89j-scorpion-at-the-museums-previous-/1091112453048639/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AFmuseum/posts/view-this-historic-photo-of-the-northrop-f-89j-scorpion-at-the-museums-previous-/1091112453048639/</a>  
+   Link:<a href="https://www.facebook.com/AFmuseum/posts/view-this-historic-photo-of-the-northrop-f-89j-scorpion-at-the-museums-previous-/1091112453048639/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AFmuseum/posts/view-this-historic-photo-of-the-northrop-f-89j-scorpion-at-the-museums-previous-/1091112453048639/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/urducoverofficial/posts/where-did-the-canadian-pilot-suddenly-disappear-the-mysterious-lake-superior-f-8/1290599589871947/?locale=af_ZA" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/urducoverofficial/posts/where-did-the-canadian-pilot-suddenly-disappear-the-mysterious-lake-superior-f-8/1290599589871947/?locale=af_ZA</a>  
+   Link:<a href="https://www.facebook.com/urducoverofficial/posts/where-did-the-canadian-pilot-suddenly-disappear-the-mysterious-lake-superior-f-8/1290599589871947/?locale=af_ZA" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/urducoverofficial/posts/where-did-the-canadian-pilot-suddenly-disappear-the-mysterious-lake-superior-f-8/1290599589871947/?locale=af_ZA</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DKcuSclNnGg/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DKcuSclNnGg/</a>  
+   Link:<a href="https://www.instagram.com/reel/DKcuSclNnGg/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DKcuSclNnGg/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: shortform.com  
-   Link: <a href="https://www.shortform.com/podcast/episode/conspiracy-theories-2025-05-21-episode-summary-the-kinross-incident-did-a-ufo-abduct-an-entire-jet" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/conspiracy-theories-2025-05-21-episode-summary-the-kinross-incident-did-a-ufo-abduct-an-entire-jet</a>
+   Link:<a href="https://www.shortform.com/podcast/episode/conspiracy-theories-2025-05-21-episode-summary-the-kinross-incident-did-a-ufo-abduct-an-entire-jet" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/conspiracy-theories-2025-05-21-episode-summary-the-kinross-incident-did-a-ufo-abduct-an-entire-jet</a>

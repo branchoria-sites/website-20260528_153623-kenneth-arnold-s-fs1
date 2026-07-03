@@ -758,46 +758,46 @@ image: /assets/images/SpaurNeff_Ravenna_si_4977ac-overview-social.jpg
 
 ## What reportedly happened before dawn near Ravenna
 
-The core incident began in the early morning of Sunday, 17 April 1966, near Ravenna and Mantua, Ohio. Portage County Deputy Sheriff Dale Spaur and fellow officer Wilbur Neff were on duty when they reported seeing a luminous object. Later retellings and local accounts describe the officers as checking an abandoned vehicle near U.S. Route 224 when they heard a humming sound and saw a bright object above or near the trees. Spaur’s later description, as preserved in local coverage, was of something roughly “40 feet across” and close enough to illuminate the area beneath it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/the-portager/seeing-a-ufo-ruined-dale-spaurs-life-f86bab152368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Seeing a UFO ruined Dale Spaur’s life &#124; by Ben Wolford &#124; The Portager &#124; Medium</span><span class="citation-popover-snippet">Seeing a UFO ruined Dale Spaur’s life &#124; by Ben Wolford &#124; The Portager &#124; Medium...</span></span></span>
+The core incident began in the early morning of Sunday, 17 April 1966, near Ravenna and Mantua, Ohio. Portage County Deputy Sheriff Dale Spaur and fellow officer Wilbur Neff were on duty when they reported seeing a luminous object. Later retellings and local accounts describe the officers as checking an abandoned vehicle near U.S. Route 224 when they heard a humming sound and saw a bright object above or near the trees. Spaur’s later description, as preserved in local coverage, was of something roughly “40 feet across” and close enough to illuminate the area beneath it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/the-portager/seeing-a-ufo-ruined-dale-spaurs-life-f86bab152368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Seeing a UFO ruined Dale Spaur’s life &#124; by Ben Wolford &#124; The Portager &#124; Medium</span><span class="citation-popover-snippet">Seeing a UFO ruined Dale Spaur’s life &#124; by Ben Wolford &#124; The Portager &#124; Medium...</span></span></span>
 
 <img src="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-overview.webp" | relative_url }}" alt="Overview image for Spaur Neff Ravenna sighting 1966" loading="eager" decoding="sync" fetchpriority="high">
-The reported chase is what made the case famous. Spaur and Neff said they followed the object eastwards at high speed, eventually crossing from Ohio towards western Pennsylvania. A later Tribune Chronicle retrospective, summarising the contemporary local record, stated that Spaur and Neff chased the object for about an hour and a half from near Ravenna to Conway, Pennsylvania, and that Spaur reported speeds up to 103 miles per hour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tribtoday.com/news/local-news/2016/04/ufos-spotted-in-ravenna-in-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tribtoday.com">[tribtoday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tribtoday.com</span><span class="citation-popover-title">ufos spotted in ravenna in 1966</span><span class="citation-popover-snippet">ufos spotted in ravenna in 1966</span></span></span>
+The reported chase is what made the case famous. Spaur and Neff said they followed the object eastwards at high speed, eventually crossing from Ohio towards western Pennsylvania. A later Tribune Chronicle retrospective, summarising the contemporary local record, stated that Spaur and Neff chased the object for about an hour and a half from near Ravenna to Conway, Pennsylvania, and that Spaur reported speeds up to 103 miles per hour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tribtoday.com/news/local-news/2016/04/ufos-spotted-in-ravenna-in-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tribtoday.com">[tribtoday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tribtoday.com</span><span class="citation-popover-title">ufos spotted in ravenna in 1966</span><span class="citation-popover-snippet">ufos spotted in ravenna in 1966</span></span></span>
 
-The case did not rest on Spaur and Neff alone. Officer Wayne Huston of East Palestine, Ohio, is commonly identified as joining the pursuit near the Ohio-Pennsylvania border, and Mantua police chief Gerald Buchert was reported to have seen and photographed an object from Mantua. The Cleveland Scene’s 2004 reconstruction describes Buchert leaving his patrol, waking his wife, and photographing an object he believed resembled two saucers joined together; it also places Spaur, Neff, Huston and Pennsylvania officer Frank Panzanella in the later phase of the incident near Conway. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.clevescene.com/news/strangers-in-the-night-1485939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clevescene.com">[Cleveland Scene]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clevescene.com</span><span class="citation-popover-title">Cleveland Scene Strangers in the Night</span><span class="citation-popover-snippet">Cleveland Scene Strangers in the Night</span></span></span>
+The case did not rest on Spaur and Neff alone. Officer Wayne Huston of East Palestine, Ohio, is commonly identified as joining the pursuit near the Ohio-Pennsylvania border, and Mantua police chief Gerald Buchert was reported to have seen and photographed an object from Mantua. The Cleveland Scene’s 2004 reconstruction describes Buchert leaving his patrol, waking his wife, and photographing an object he believed resembled two saucers joined together; it also places Spaur, Neff, Huston and Pennsylvania officer Frank Panzanella in the later phase of the incident near Conway.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.clevescene.com/news/strangers-in-the-night-1485939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clevescene.com">[Cleveland Scene]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clevescene.com</span><span class="citation-popover-title">Cleveland Scene Strangers in the Night</span><span class="citation-popover-snippet">Cleveland Scene Strangers in the Night</span></span></span>
 
 ## Why the case became unusually hard to dismiss
 
-Many UFO reports are single-witness stories, but the Ravenna case acquired weight because the central witnesses were police officers acting in the course of duty. Their radio traffic, jurisdictional movement, and later media exposure gave the sighting a documentary footprint that was larger than a private anecdote. The National Archives confirms that Project Blue Book was the US Air Force’s official UFO investigation archive and that its records, including case files, were transferred for public research after the project closed in 1969. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+Many UFO reports are single-witness stories, but the Ravenna case acquired weight because the central witnesses were police officers acting in the course of duty. Their radio traffic, jurisdictional movement, and later media exposure gave the sighting a documentary footprint that was larger than a private anecdote. The National Archives confirms that Project Blue Book was the US Air Force’s official UFO investigation archive and that its records, including case files, were transferred for public research after the project closed in 1969.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-The Blue Book archive entry for the Ravenna-Mantua case lists it as case number 7104469, with 90 pages of material, dated 17 April 1966 and located at “Ravenna Mantua Ohio”. Its OCR summary records three strands in the Air Force conclusion: “PHOTO: (PROCESSING DEFECTS)”, “SATELLITE”, and “Astro (VENUS)”. That is important because the official answer was not simply “Venus”; it combined an explanation for photographs, an initial satellite interpretation, and an astronomical identification for what the officers were later thought to have followed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/12495" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Project Blue Book Archive1966-04-7104469-Ravenna-Mantua-Ohio (1966) - Blue Book Archive...</span></span></span>
+The Blue Book archive entry for the Ravenna-Mantua case lists it as case number 7104469, with 90 pages of material, dated 17 April 1966 and located at “Ravenna Mantua Ohio”. Its OCR summary records three strands in the Air Force conclusion: “PHOTO: (PROCESSING DEFECTS)”, “SATELLITE”, and “Astro (VENUS)”. That is important because the official answer was not simply “Venus”; it combined an explanation for photographs, an initial satellite interpretation, and an astronomical identification for what the officers were later thought to have followed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/12495" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Project Blue Book Archive1966-04-7104469-Ravenna-Mantua-Ohio (1966) - Blue Book Archive...</span></span></span>
 
 For readers trying to weigh the case, the most striking feature is the mismatch between categories of evidence. The eyewitness evidence points to proximity, structure, motion, and apparent manoeuvring. The official explanation points to known sky objects and flawed photographic material. Those are not just competing labels; they imply different kinds of event. Either the officers badly misread ordinary lights under stressful conditions, or the official reconstruction failed to account for key features of the testimony.
 
 <img src="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-1-dark.svg" | relative_url }}" alt="Spaur Neff Ravenna sighting 1966 illustration 1" data-theme-src-dark="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The official Air Force explanation
 
-Project Blue Book’s public and archival handling of the case placed it within the Air Force’s broader UFO evaluation system. The National Archives’ copy of the later Air Force fact sheet says Blue Book collected 12,618 sightings from 1947 to 1969, of which 701 remained “Unidentified”, and that the Air Force concluded there was no evidence that unidentified sightings represented a national-security threat, advanced technology beyond known science, or extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+Project Blue Book’s public and archival handling of the case placed it within the Air Force’s broader UFO evaluation system. The National Archives’ copy of the later Air Force fact sheet says Blue Book collected 12,618 sightings from 1947 to 1969, of which 701 remained “Unidentified”, and that the Air Force concluded there was no evidence that unidentified sightings represented a national-security threat, advanced technology beyond known science, or extraterrestrial vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-For Ravenna-Mantua specifically, the archived case page records the official explanation as a combination of photographic defects, satellite passage, and Venus. In Hector Quintanilla’s later manuscript, published through the Internet Archive, the former Blue Book chief wrote that he checked balloon launches, radar stations, super-pressure balloon activity, classified activity, satellites, and astronomical charts. He said those checks were negative except for satellites and the astronomical chart, and that “three visible satellites” and Venus were present when Spaur first reported the object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/12495" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Project Blue Book Archive1966-04-7104469-Ravenna-Mantua-Ohio (1966) - Blue Book Archive...</span></span></span>
+For Ravenna-Mantua specifically, the archived case page records the official explanation as a combination of photographic defects, satellite passage, and Venus. In Hector Quintanilla’s later manuscript, published through the Internet Archive, the former Blue Book chief wrote that he checked balloon launches, radar stations, super-pressure balloon activity, classified activity, satellites, and astronomical charts. He said those checks were negative except for satellites and the astronomical chart, and that “three visible satellites” and Venus were present when Spaur first reported the object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/12495" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Project Blue Book Archive1966-04-7104469-Ravenna-Mantua-Ohio (1966) - Blue Book Archive...</span></span></span>
 
-Quintanilla also acknowledged the social difficulty of the case. In his own account, he noted that the witnesses were police officers, that Ohio newspapers covered the story for days, and that Spaur, local officials and NICAP disliked the evaluation. He said political pressure led to a re-investigation interview at the Portage County courthouse, though he believed later inconsistencies did not change his original conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ufos-an-air-force-dilemma/quintanilla_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;UFO&#x27;s: An Air Force Dilemma</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;UFO&#x27;s: An Air Force Dilemma</span></span></span>
+Quintanilla also acknowledged the social difficulty of the case. In his own account, he noted that the witnesses were police officers, that Ohio newspapers covered the story for days, and that Spaur, local officials and NICAP disliked the evaluation. He said political pressure led to a re-investigation interview at the Portage County courthouse, though he believed later inconsistencies did not change his original conclusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ufos-an-air-force-dilemma/quintanilla_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;UFO&#x27;s: An Air Force Dilemma</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;UFO&#x27;s: An Air Force Dilemma</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9tws_LsIQkk" title="The Portage County Ohio UFO Chase &amp; Police Encounter in 1966 - FindingUFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9tws_LsIQkk" target="_blank" rel="noopener noreferrer">The Portage County Ohio UFO Chase &amp; Police Encounter in 1966 - FindingUFO</a></p><p class="youtube-embed-meta">Channel: FindingUFO &middot; Views: 16.7K &middot; Uploaded: September 2016 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9tws_LsIQkk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9tws_LsIQkk">Open on YouTube</a></p></div></div></div>
 
 ## Why many critics rejected the Venus-and-satellite answer
 
-The main objection is simple: the officers were not merely reporting a bright light low on the horizon. They described an object close to the ground, illuminating the area, making a humming sound, showing apparent structure, and moving in relation to their vehicle. A planet can be misperceived as moving when an observer is travelling, especially under stress and in darkness, but it cannot hover over a road, light the ground beneath it, or produce a local humming sound. That is why the official explanation has long been regarded by UFO researchers and some local witnesses as inadequate rather than merely unpopular. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/on-the-trail-of-the-saucers/the-ufo-chase-you-saw-in-close-encounters-649637923267" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Open source on medium.com.</span></span></span>
+The main objection is simple: the officers were not merely reporting a bright light low on the horizon. They described an object close to the ground, illuminating the area, making a humming sound, showing apparent structure, and moving in relation to their vehicle. A planet can be misperceived as moving when an observer is travelling, especially under stress and in darkness, but it cannot hover over a road, light the ground beneath it, or produce a local humming sound. That is why the official explanation has long been regarded by UFO researchers and some local witnesses as inadequate rather than merely unpopular.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/on-the-trail-of-the-saucers/the-ufo-chase-you-saw-in-close-encounters-649637923267" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Open source on medium.com.</span></span></span>
 
-A second problem is the multiple-witness narrative. Mantua police chief Gerald Buchert’s reported photographs, Huston’s involvement in the chase, and the radio-linked spread of the incident across jurisdictions made the event harder to reduce to a single mistaken observer. That does not prove the object was extraordinary, but it raises the evidential bar for any simple explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.clevescene.com/news/strangers-in-the-night-1485939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clevescene.com">[Cleveland Scene]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clevescene.com</span><span class="citation-popover-title">Cleveland Scene Strangers in the Night</span><span class="citation-popover-snippet">Cleveland Scene Strangers in the Night</span></span></span>
+A second problem is the multiple-witness narrative. Mantua police chief Gerald Buchert’s reported photographs, Huston’s involvement in the chase, and the radio-linked spread of the incident across jurisdictions made the event harder to reduce to a single mistaken observer. That does not prove the object was extraordinary, but it raises the evidential bar for any simple explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.clevescene.com/news/strangers-in-the-night-1485939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clevescene.com">[Cleveland Scene]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clevescene.com</span><span class="citation-popover-title">Cleveland Scene Strangers in the Night</span><span class="citation-popover-snippet">Cleveland Scene Strangers in the Night</span></span></span>
 
 The most defensible sceptical version is therefore not “the officers saw nothing unusual”. It is that a confusing sequence of observations may have been compressed into one dramatic pursuit: an initial misidentified light or satellite, followed by Venus, heightened by fatigue, pre-dawn visibility, vehicle motion, radio reinforcement, and public pressure. That explanation is plausible in broad psychological terms, but it still has to discount or reinterpret the witnesses’ claims of low altitude, structure, illumination, sound and apparent manoeuvring.
 
 <img src="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-2-dark.svg" | relative_url }}" alt="Spaur Neff Ravenna sighting 1966 illustration 2" data-theme-src-dark="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The photographs: intriguing, but not decisive
 
-The photographs associated with Mantua police chief Gerald Buchert are among the most discussed parts of the case, but they do not resolve it. The Blue Book archive’s summary explicitly labels the photo element as “processing defects”, meaning the Air Force did not treat the images as reliable physical evidence of an unknown object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/12495" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Project Blue Book Archive1966-04-7104469-Ravenna-Mantua-Ohio (1966) - Blue Book Archive...</span></span></span>
+The photographs associated with Mantua police chief Gerald Buchert are among the most discussed parts of the case, but they do not resolve it. The Blue Book archive’s summary explicitly labels the photo element as “processing defects”, meaning the Air Force did not treat the images as reliable physical evidence of an unknown object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/12495" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Project Blue Book Archive1966-04-7104469-Ravenna-Mantua-Ohio (1966) - Blue Book Archive...</span></span></span>
 
-Later local reporting continued to treat the Buchert photograph as an important unresolved artefact. The Cleveland Scene article describes Buchert taking a photograph before the object moved out of sight, while also reporting later disagreement over whether enhanced versions of the image should be dismissed as flaws or treated as suggestive evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.clevescene.com/news/strangers-in-the-night-1485939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clevescene.com">[Cleveland Scene]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clevescene.com</span><span class="citation-popover-title">Cleveland Scene Strangers in the Night</span><span class="citation-popover-snippet">Cleveland Scene Strangers in the Night</span></span></span>
+Later local reporting continued to treat the Buchert photograph as an important unresolved artefact. The Cleveland Scene article describes Buchert taking a photograph before the object moved out of sight, while also reporting later disagreement over whether enhanced versions of the image should be dismissed as flaws or treated as suggestive evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.clevescene.com/news/strangers-in-the-night-1485939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clevescene.com">[Cleveland Scene]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clevescene.com</span><span class="citation-popover-title">Cleveland Scene Strangers in the Night</span><span class="citation-popover-snippet">Cleveland Scene Strangers in the Night</span></span></span>
 
 The cautious conclusion is that the photographs add historical interest but not proof. Without an independently preserved negative, clear chain of custody, camera settings, exact timing, and expert analysis available in a transparent form, the image evidence cannot carry the case. It is best read as corroborative context for what Buchert said he saw, not as a stand-alone demonstration of a craft.
 
@@ -805,18 +805,18 @@ The cautious conclusion is that the photographs add historical interest but not 
 
 ## Witness credibility and human cost
 
-Spaur and Neff were not anonymous witnesses. They were working law-enforcement officers who had reputations to lose, and the case followed them publicly. The Portager’s 2018 retrospective quotes Spaur saying, months after the sighting, that if he could change one thing in his life it would be “the night we chased that damn thing”. The same account states that Neff also saw the object and that police radios across north-east Ohio and western Pennsylvania carried the incident as it unfolded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/on-the-trail-of-the-saucers/something-happened-to-dale-68c2ac39d5a8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Something Happened to Dale&#x27; &#124; Point of Contact JUST BEFORE DAWN on Sunday,</span><span class="citation-popover-snippet">Something Happened to Dale&#x27; &#124; Point of Contact JUST BEFORE DAWN on Sunday,</span></span></span>
+Spaur and Neff were not anonymous witnesses. They were working law-enforcement officers who had reputations to lose, and the case followed them publicly. The Portager’s 2018 retrospective quotes Spaur saying, months after the sighting, that if he could change one thing in his life it would be “the night we chased that damn thing”. The same account states that Neff also saw the object and that police radios across north-east Ohio and western Pennsylvania carried the incident as it unfolded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/on-the-trail-of-the-saucers/something-happened-to-dale-68c2ac39d5a8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Something Happened to Dale&#x27; &#124; Point of Contact JUST BEFORE DAWN on Sunday,</span><span class="citation-popover-snippet">Something Happened to Dale&#x27; &#124; Point of Contact JUST BEFORE DAWN on Sunday,</span></span></span>
 
 That human aftermath matters, but it must be handled carefully. A witness suffering ridicule or regret does not prove the sighting was extraordinary. It does, however, argue against the idea that the report was an easy publicity stunt. The men had professional and personal incentives to avoid becoming the faces of a national UFO story.
 
-The case also shows how quickly official explanations can become reputational judgements. Once the Air Force explanation reached the press, the practical public meaning was that trained officers had chased Venus or a satellite for many miles. Even if the Air Force intended a technical identification, the result was social humiliation for the witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ufos-an-air-force-dilemma/quintanilla_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;UFO&#x27;s: An Air Force Dilemma</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;UFO&#x27;s: An Air Force Dilemma</span></span></span>
+The case also shows how quickly official explanations can become reputational judgements. Once the Air Force explanation reached the press, the practical public meaning was that trained officers had chased Venus or a satellite for many miles. Even if the Air Force intended a technical identification, the result was social humiliation for the witnesses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ufos-an-air-force-dilemma/quintanilla_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;UFO&#x27;s: An Air Force Dilemma</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;UFO&#x27;s: An Air Force Dilemma</span></span></span>
 
 <img src="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-3-dark.svg" | relative_url }}" alt="Spaur Neff Ravenna sighting 1966 illustration 3" data-theme-src-dark="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What can and cannot be concluded
 
-The Ravenna sighting has enough documentation to be more than folklore. It has named witnesses, police involvement, local and national press attention, a Blue Book case file, an official explanation, and later historical reporting. It is also narrow enough that its main evidential tension is clear: the official explanation accounts for ordinary sky objects being present, while the witness reports describe behaviour and proximity that those objects do not naturally explain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/12495" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Project Blue Book Archive1966-04-7104469-Ravenna-Mantua-Ohio (1966) - Blue Book Archive...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+The Ravenna sighting has enough documentation to be more than folklore. It has named witnesses, police involvement, local and national press attention, a Blue Book case file, an official explanation, and later historical reporting. It is also narrow enough that its main evidential tension is clear: the official explanation accounts for ordinary sky objects being present, while the witness reports describe behaviour and proximity that those objects do not naturally explain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/12495" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Project Blue Book Archive1966-04-7104469-Ravenna-Mantua-Ohio (1966) - Blue Book Archive...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-What can be said with confidence is that Spaur and Neff reported a dramatic pre-dawn sighting and pursuit on 17 April 1966; that other officers and witnesses were drawn into the episode; that Blue Book classified the case through a mix of satellite, Venus and photographic-defect explanations; and that many later writers and local accounts found that conclusion unsatisfactory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tribtoday.com/news/local-news/2016/04/ufos-spotted-in-ravenna-in-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tribtoday.com">[tribtoday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tribtoday.com</span><span class="citation-popover-title">ufos spotted in ravenna in 1966</span><span class="citation-popover-snippet">ufos spotted in ravenna in 1966</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/12495" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Project Blue Book Archive1966-04-7104469-Ravenna-Mantua-Ohio (1966) - Blue Book Archive...</span></span></span>
+What can be said with confidence is that Spaur and Neff reported a dramatic pre-dawn sighting and pursuit on 17 April 1966; that other officers and witnesses were drawn into the episode; that Blue Book classified the case through a mix of satellite, Venus and photographic-defect explanations; and that many later writers and local accounts found that conclusion unsatisfactory.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tribtoday.com/news/local-news/2016/04/ufos-spotted-in-ravenna-in-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tribtoday.com">[tribtoday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tribtoday.com</span><span class="citation-popover-title">ufos spotted in ravenna in 1966</span><span class="citation-popover-snippet">ufos spotted in ravenna in 1966</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/12495" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Project Blue Book Archive1966-04-7104469-Ravenna-Mantua-Ohio (1966) - Blue Book Archive...</span></span></span>
 
 What cannot be said with confidence is that the case proves an extraterrestrial craft, secret military vehicle, or any single exotic explanation. The available public record is too dependent on witness testimony, contested photographs, retrospective reporting, and an official file whose conclusion is itself disputed. The best unresolved reading is that the Ravenna case remains a strong example of a documented, multi-witness UFO pursuit whose official explanation is possible in outline but weak against several of the most vivid reported details.
 
@@ -829,194 +829,194 @@ The lasting importance of the Ravenna sighting is not just that police officers 
 For a case dossier, the Spaur/Neff Ravenna sighting sits at the intersection of chronology, testimony, physical-documentary evidence, and official sceptical analysis. Its most useful lesson is not that every dramatic witness account should be accepted at face value, nor that every government explanation should be dismissed. It is that a credible assessment must keep the pieces separate: the chase narrative, the officer testimony, the Buchert photographs, the Blue Book file, Quintanilla’s later defence, and the continuing objections to Venus and satellite explanations. Only then does the case become something more valuable than a legend or a debunking slogan: a compact example of why some historical UFO reports remain genuinely difficult to close.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened During the Ravenna UFO Chase?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened During the Ravenna UFO Chase?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Establishes how the Air Force historically logged the 17 April 1966 Ohio alert files, checking witness testimonies against strategic reco...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Establishes how the Air Force historically logged the 17 April 1966 Ohio alert files, checking witness testimonies against strategic reco...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Documents the formal National Archives records detailing the official Blue Book classification disputes during the late 1960s.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents the formal National Archives records detailing the official Blue Book classification disputes during the late 1960s.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Contains the comprehensive case file details tracking Portage County deputies Dale Spaur and Wilbur Neff chasing a luminous object into P...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains the comprehensive case file details tracking Portage County deputies Dale Spaur and Wilbur Neff chasing a luminous object into P...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Teaches fundamental critical tools to distinguish credible official witness sincerity from absolute baseline perceptual accuracy errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches fundamental critical tools to distinguish credible official witness sincerity from absolute baseline perceptual accuracy errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/ecf1364ac1fcde60335d.jpg' | relative_url }}" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/ecf1364ac1fcde60335d.jpg' | relative_url }}" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spaur-neff-ravenna-sighting-1966-what-really-happened-during-the-ravenna-ufo-chase-ufo-art-print-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1032,7 +1032,7 @@ For a case dossier, the Spaur/Neff Ravenna sighting sits at the intersection of 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1052,7 +1052,7 @@ For a case dossier, the Spaur/Neff Ravenna sighting sits at the intersection of 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1084,7 +1084,7 @@ For a case dossier, the Spaur/Neff Ravenna sighting sits at the intersection of 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1136,7 +1136,7 @@ For a case dossier, the Spaur/Neff Ravenna sighting sits at the intersection of 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1181,7 +1181,7 @@ For a case dossier, the Spaur/Neff Ravenna sighting sits at the intersection of 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1222,130 +1222,130 @@ For a case dossier, the Spaur/Neff Ravenna sighting sits at the intersection of 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "UFO's: An Air Force Dilemma"  
-   Link: <a href="https://archive.org/stream/ufos-an-air-force-dilemma/quintanilla_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ufos-an-air-force-dilemma/quintanilla_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/ufos-an-air-force-dilemma/quintanilla_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ufos-an-air-force-dilemma/quintanilla_djvu.txt</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: medium.com  
    Title: Seeing a UFO ruined Dale Spaur’s life | by Ben Wolford | The Portager | Medium  
-   Link: <a href="https://medium.com/the-portager/seeing-a-ufo-ruined-dale-spaurs-life-f86bab152368" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-portager/seeing-a-ufo-ruined-dale-spaurs-life-f86bab152368</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Seeing a UFO ruined Dale Spaur’s life | by Ben Wolford | The Portager | Medium...</p></details>
+   Link:<a href="https://medium.com/the-portager/seeing-a-ufo-ruined-dale-spaurs-life-f86bab152368" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-portager/seeing-a-ufo-ruined-dale-spaurs-life-f86bab152368</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Seeing a UFO ruined Dale Spaur’s life | by Ben Wolford | The Portager | Medium...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: tribtoday.com  
    Title: ufos spotted in ravenna in 1966  
-   Link: <a href="https://www.tribtoday.com/news/local-news/2016/04/ufos-spotted-in-ravenna-in-1966/" target="_blank" rel="noopener noreferrer nofollow">https://www.tribtoday.com/news/local-news/2016/04/ufos-spotted-in-ravenna-in-1966/</a>  
+   Link:<a href="https://www.tribtoday.com/news/local-news/2016/04/ufos-spotted-in-ravenna-in-1966/" target="_blank" rel="noopener noreferrer nofollow">https://www.tribtoday.com/news/local-news/2016/04/ufos-spotted-in-ravenna-in-1966/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/reports2/660417portage.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports2/660417portage.htm</a>  
+   Link:<a href="https://www.nicap.org/reports2/660417portage.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports2/660417portage.htm</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: georgewbush-whitehouse.archives.gov  
    Title: gov1. Instructions  
-   Link: <a href="https://georgewbush-whitehouse.archives.gov/omb/procurement/fair/2004fair_spreadsheet.xls" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/omb/procurement/fair/2004fair_spreadsheet.xls</a>  
+   Link:<a href="https://georgewbush-whitehouse.archives.gov/omb/procurement/fair/2004fair_spreadsheet.xls" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/omb/procurement/fair/2004fair_spreadsheet.xls</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nicap.org  
    Title: 660417ravenna dir  
-   Link: <a href="https://www.nicap.org/660417ravenna_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/660417ravenna_dir.htm</a>  
+   Link:<a href="https://www.nicap.org/660417ravenna_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/660417ravenna_dir.htm</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/reports2/660417portage2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports2/660417portage2.htm</a>  
+   Link:<a href="https://www.nicap.org/reports2/660417portage2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports2/660417portage2.htm</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nicap.org  
    Title: Police Car Chase,  
-   Link: <a href="https://www.nicap.org/newsclippings/1966/1966_04_17_US_OH_Ravenna.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/newsclippings/1966/1966_04_17_US_OH_Ravenna.pdf</a>  
+   Link:<a href="https://www.nicap.org/newsclippings/1966/1966_04_17_US_OH_Ravenna.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/newsclippings/1966/1966_04_17_US_OH_Ravenna.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/on-the-trail-of-the-saucers/the-ufo-chase-you-saw-in-close-encounters-649637923267" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/the-ufo-chase-you-saw-in-close-encounters-649637923267</a>  
+   Link:<a href="https://medium.com/on-the-trail-of-the-saucers/the-ufo-chase-you-saw-in-close-encounters-649637923267" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/the-ufo-chase-you-saw-in-close-encounters-649637923267</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: medium.com  
    Title: 'Something Happened to Dale' | Point of Contact JUST BEFORE DAWN on Sunday,  
-   Link: <a href="https://medium.com/on-the-trail-of-the-saucers/something-happened-to-dale-68c2ac39d5a8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/something-happened-to-dale-68c2ac39d5a8</a>  
+   Link:<a href="https://medium.com/on-the-trail-of-the-saucers/something-happened-to-dale-68c2ac39d5a8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/something-happened-to-dale-68c2ac39d5a8</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: bluebookfiles.org  
-   Link: <a href="https://bluebookfiles.org/doc/12495" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/12495</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Archive1966-04-7104469-Ravenna-Mantua-Ohio (1966) - Blue Book Archive...</p></details>
+   Link:<a href="https://bluebookfiles.org/doc/12495" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/12495</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Archive1966-04-7104469-Ravenna-Mantua-Ohio (1966) - Blue Book Archive...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: clevescene.com  
    Title: Cleveland Scene Strangers in the Night  
-   Link: <a href="https://www.clevescene.com/news/strangers-in-the-night-1485939/" target="_blank" rel="noopener noreferrer nofollow">https://www.clevescene.com/news/strangers-in-the-night-1485939/</a>  
+   Link:<a href="https://www.clevescene.com/news/strangers-in-the-night-1485939/" target="_blank" rel="noopener noreferrer nofollow">https://www.clevescene.com/news/strangers-in-the-night-1485939/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: documents2.theblackvault.com  
-   Link: <a href="https://documents2.theblackvault.com/documents/projectbluebook/" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/projectbluebook/</a>  
+   Link:<a href="https://documents2.theblackvault.com/documents/projectbluebook/" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/projectbluebook/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/project</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/project</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: podcastufo.com  
-   Link: <a href="https://podcastufo.com/tag/neff/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/tag/neff/</a>  
+   Link:<a href="https://podcastufo.com/tag/neff/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/tag/neff/</a>  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: 10 Cases From Project Blue Book: The CIA's Hunt For UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OoKm417zKOA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Portage County UFO Chase 1966 The Portage County Ohio UFO Chase &amp; Police Encounter in 1966 - FindingUFO FindingUFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OoKm417zKOA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Portage County UFO Chase 1966 The Portage County Ohio UFO Chase &amp; Police Encounter in 1966 - FindingUFO FindingUFO...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/PDFs/Portage-County/1966_04_17_US_OH_Portage_County_Clips_Part2R.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/Portage-County/1966_04_17_US_OH_Portage_County_Clips_Part2R.pdf</a>  
+   Link:<a href="https://cufos.org/PDFs/Portage-County/1966_04_17_US_OH_Portage_County_Clips_Part2R.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/Portage-County/1966_04_17_US_OH_Portage_County_Clips_Part2R.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100053497023863/posts/newly-released-fbi-files-have-revealed-shocking-details-of-mysterious-four-foot-/1504250648034822/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100053497023863/posts/newly-released-fbi-files-have-revealed-shocking-details-of-mysterious-four-foot-/1504250648034822/</a>  
+   Link:<a href="https://www.facebook.com/100053497023863/posts/newly-released-fbi-files-have-revealed-shocking-details-of-mysterious-four-foot-/1504250648034822/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100053497023863/posts/newly-released-fbi-files-have-revealed-shocking-details-of-mysterious-four-foot-/1504250648034822/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/project" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/project</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/project" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/project</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10162198540191696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10162198540191696/</a>  
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10162198540191696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10162198540191696/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/lamontatlarge/posts/this-man-chased-a-ufo-and-was-never-seen-again/731064093268627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lamontatlarge/posts/this-man-chased-a-ufo-and-was-never-seen-again/731064093268627/</a>  
+   Link:<a href="https://www.facebook.com/lamontatlarge/posts/this-man-chased-a-ufo-and-was-never-seen-again/731064093268627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lamontatlarge/posts/this-man-chased-a-ufo-and-was-never-seen-again/731064093268627/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/rbhayespres/posts/today-is-worldufoday-this-ohio-ufo-story-is-featured-in-our-special-exhibit-ohio/1669018326619739/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rbhayespres/posts/today-is-worldufoday-this-ohio-ufo-story-is-featured-in-our-special-exhibit-ohio/1669018326619739/</a>  
+   Link:<a href="https://www.facebook.com/rbhayespres/posts/today-is-worldufoday-this-ohio-ufo-story-is-featured-in-our-special-exhibit-ohio/1669018326619739/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rbhayespres/posts/today-is-worldufoday-this-ohio-ufo-story-is-featured-in-our-special-exhibit-ohio/1669018326619739/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/23947083968293991/posts/26373317589003938/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/23947083968293991/posts/26373317589003938/</a>  
+   Link:<a href="https://www.facebook.com/groups/23947083968293991/posts/26373317589003938/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/23947083968293991/posts/26373317589003938/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/news/ufo-seen-over-beaver-county-225852230.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/ufo-seen-over-beaver-county-225852230.html</a>  
+   Link:<a href="https://www.aol.com/news/ufo-seen-over-beaver-county-225852230.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/ufo-seen-over-beaver-county-225852230.html</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: upload.wikimedia.org  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/9/9b/Project_Blue_Book_report_-_1966-04-7104469-Ravenna-Mantua-Ohio.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/9/9b/Project_Blue_Book_report_-_1966-04-7104469-Ravenna-Mantua-Ohio.pdf</a>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/9/9b/Project_Blue_Book_report_-_1966-04-7104469-Ravenna-Mantua-Ohio.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/9/9b/Project_Blue_Book_report_-_1966-04-7104469-Ravenna-Mantua-Ohio.pdf</a>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /salem-massachusetts-01ecd1-index/
 description: Focused pages that expand on Salem Massachusetts photograph 1952.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Salem_Massachusetts_01ecd1
 parent_title: Salem Massachusetts photograph 1952
@@ -16,7 +16,7 @@ parent_permalink: /salem-massachusetts-photograph-1952/
 
 # Explore Topics in Salem Massachusetts photograph 1952
 
-The following pages expand on the main **[Salem Massachusetts photograph 1952]({{ '/salem-massachusetts-photograph-1952/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Salem Massachusetts photograph 1952]({{ '/salem-massachusetts-photograph-1952/' | relative_url }})** page and cover its key branches in.
 
 - [Timeline]({{ '/timeline-ef521e/' | relative_url }})
 - [Blue Book]({{ '/blue-book-5db429/' | relative_url }})

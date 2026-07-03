@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /reinhold-schmidt-enc-731a71-index/
 description: Focused pages that expand on Reinhold Schmidt encounter 1957.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Reinhold_Schmidt_enc_731a71
 parent_title: Reinhold Schmidt encounter 1957
@@ -16,7 +16,7 @@ parent_permalink: /reinhold-schmidt-encounter-1957/
 
 # Explore Topics in Reinhold Schmidt encounter 1957
 
-The following pages expand on the main **[Reinhold Schmidt encounter 1957]({{ '/reinhold-schmidt-encounter-1957/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Reinhold Schmidt encounter 1957]({{ '/reinhold-schmidt-encounter-1957/' | relative_url }})** page and cover its key branches in.
 
 - [Fallout]({{ '/fallout/' | relative_url }})
 - [The Claim]({{ '/the-claim/' | relative_url }})

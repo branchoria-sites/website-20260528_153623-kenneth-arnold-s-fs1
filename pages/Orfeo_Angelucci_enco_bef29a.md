@@ -758,251 +758,251 @@ image: /assets/images/Orfeo_Angelucci_enco_bef29a-overview-social.jpg
 
 ## What Angelucci said happened
 
-Angelucci presented himself as an ordinary aircraft-plant worker rather than a professional occultist, scientist or military witness. The National Air and Space Museum summarises his background as a Lockheed worker in southern California who said the visitors “introduced themselves” in May 1952 while he was living around Los Angeles. In his own account, the first encounter happened late at night while he was driving home; he saw strange luminous objects and heard a reassuring voice before perceiving a male and female presence communicating telepathically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/study-flying-saucer-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Angelucci presented himself as an ordinary aircraft-plant worker rather than a professional occultist, scientist or military witness. The National Air and Space Museum summarises his background as a Lockheed worker in southern California who said the visitors “introduced themselves” in May 1952 while he was living around Los Angeles. In his own account, the first encounter happened late at night while he was driving home; he saw strange luminous objects and heard a reassuring voice before perceiving a male and female presence communicating telepathically.<span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/study-flying-saucer-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a-overview.webp" | relative_url }}" alt="Overview image for Orfeo Angelucci encounter 1955" loading="eager" decoding="sync" fetchpriority="high">
-The [first contact]({{ 'first-contact/' | relative_url }}) account is framed almost immediately as a mission story. The entities tell him that Earth has been watched for centuries, that humanity is passing through dangerous “growing pains”, and that he has been chosen as a humble messenger. The language is strikingly fraternal rather than hostile: the beings ask to be regarded as “older brothers”, claim kinship with Earth, and say they are limited by “cosmic law” from directly intervening in human affairs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The [first contact]({{ 'first-contact/' | relative_url }}) account is framed almost immediately as a mission story. The entities tell him that Earth has been watched for centuries, that humanity is passing through dangerous “growing pains”, and that he has been chosen as a humble messenger. The language is strikingly fraternal rather than hostile: the beings ask to be regarded as “older brothers”, claim kinship with Earth, and say they are limited by “cosmic law” from directly intervening in human affairs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A second major episode followed on 23 July 1952, again in the Los Angeles area. Angelucci said he walked near the Hyperion Avenue Freeway Bridge after feeling unwell, saw a luminous “igloo” or “soap bubble” craft, entered it, and found himself in a domed, mother-of-pearl interior. He claimed the craft took him more than a thousand miles from Earth, where he saw Earth from space and a large “mother ship”. The same episode includes both attempted technical description and intense spiritual experience: artificial gravity, magnetic power, crystal-like craft, cosmic records, sorrow for Earth, and a call for him to act as an emissary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A second major episode followed on 23 July 1952, again in the Los Angeles area. Angelucci said he walked near the Hyperion Avenue Freeway Bridge after feeling unwell, saw a luminous “igloo” or “soap bubble” craft, entered it, and found himself in a domed, mother-of-pearl interior. He claimed the craft took him more than a thousand miles from Earth, where he saw Earth from space and a large “mother ship”. The same episode includes both attempted technical description and intense spiritual experience: artificial gravity, magnetic power, crystal-like craft, cosmic records, sorrow for Earth, and a call for him to act as an emissary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A third important development came in early August 1952, when Angelucci said he met the being he called Neptune beneath the Hyperion bridge. In his telling, other people first saw a hovering green light near the Los Feliz Drive-In, though they disagreed about what it was. Soon afterwards, Angelucci claimed to encounter a tall, human-like figure in a seamless bluish uniform, with large expressive eyes and an appearance that seemed partly unstable, “as though” viewed through rippling water. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A third important development came in early August 1952, when Angelucci said he met the being he called Neptune beneath the Hyperion bridge. In his telling, other people first saw a hovering green light near the Los Feliz Drive-In, though they disagreed about what it was. Soon afterwards, Angelucci claimed to encounter a tall, human-like figure in a seamless bluish uniform, with large expressive eyes and an appearance that seemed partly unstable, “as though” viewed through rippling water.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a-Illustration-1-dark.svg" | relative_url }}" alt="Orfeo Angelucci encounter 1955 illustration 1" data-theme-src-dark="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1955 book turned private claims into public contactee lore
 
-*The Secret of the Saucers* fixed the Angelucci narrative in its classic form. The Sacred Texts archive lists the book as by Orfeo M. Angelucci, edited by Ray Palmer, and dated 1955; its own introduction notes Palmer’s importance in earlier flying-saucer publishing and the Shaver mystery milieu. This matters because the book is not just a raw witness statement. It is a crafted contactee text, shaped for a readership already familiar with flying saucers, hidden worlds, mystical revelation and pulp-science speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+*The Secret of the Saucers* fixed the Angelucci narrative in its classic form. The Sacred Texts archive lists the book as by Orfeo M. Angelucci, edited by Ray Palmer, and dated 1955; its own introduction notes Palmer’s importance in earlier flying-saucer publishing and the Shaver mystery milieu. This matters because the book is not just a raw witness statement. It is a crafted contactee text, shaped for a readership already familiar with flying saucers, hidden worlds, mystical revelation and pulp-science speculation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The book also shows how quickly Angelucci moved from witness to public lecturer. He describes telling his wife, revisiting the scene with his son, finding only tyre skid marks, and then initially keeping quiet beyond his family. Later, after further claimed experiences, he says newspapers mocked him as “The Saucer Man”, his family suffered embarrassment, and he began giving weekly talks to small groups before moving meetings to the Los Feliz Club House and then the Hollywood Hotel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The book also shows how quickly Angelucci moved from witness to public lecturer. He describes telling his wife, revisiting the scene with his son, finding only tyre skid marks, and then initially keeping quiet beyond his family. Later, after further claimed experiences, he says newspapers mocked him as “The Saucer Man”, his family suffered embarrassment, and he began giving weekly talks to small groups before moving meetings to the Los Feliz Club House and then the Hollywood Hotel.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-By the Hollywood convention section of the book, Angelucci is no longer an isolated experiencer. He places himself among named 1950s saucer figures such as George Van Tassel, George Adamski, Truman Bethurum, Frank Scully and Donald Keyhoe. That network is important for evaluating the case: Angelucci’s story developed inside a lively saucer subculture in which public talks, magazines, conventions and mutually reinforcing claims helped build an audience for contactee narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+By the Hollywood convention section of the book, Angelucci is no longer an isolated experiencer. He places himself among named 1950s saucer figures such as George Van Tassel, George Adamski, Truman Bethurum, Frank Scully and Donald Keyhoe. That network is important for evaluating the case: Angelucci’s story developed inside a lively saucer subculture in which public talks, magazines, conventions and mutually reinforcing claims helped build an audience for contactee narratives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HPDbZYvNROM" title="Orfeo M Angelucci Travelling In A Disk From Another World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HPDbZYvNROM" target="_blank" rel="noopener noreferrer">Orfeo M Angelucci Travelling In A Disk From Another World</a></p><p class="youtube-embed-meta">Channel: Brian Scott &middot; Views: 20.2K &middot; Uploaded: October 2021 &middot; Length: 1 hour 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HPDbZYvNROM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HPDbZYvNROM">Open on YouTube</a></p></div></div></div>
 
 ## Why the case is weak as physical evidence
 
-The evidential core is thin. The strongest available source for the case is Angelucci’s own published testimony, supplemented by later summaries. There is no robust chain of physical evidence, no recoverable object, no official case file confirming the extraordinary elements, and no independent technical record showing a craft, journey into space, or extraterrestrial communication. Even the one minor physical trace he mentions after the first encounter — tyre skid marks on loose dirt — only supports that his car may have braked or skidded, not that a saucer or alien contact occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The evidential core is thin. The strongest available source for the case is Angelucci’s own published testimony, supplemented by later summaries. There is no robust chain of physical evidence, no recoverable object, no official case file confirming the extraordinary elements, and no independent technical record showing a craft, journey into space, or extraterrestrial communication. Even the one minor physical trace he mentions after the first encounter — tyre skid marks on loose dirt — only supports that his car may have braked or skidded, not that a saucer or alien contact occurred.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The reported multi-witness element is also limited. In the August episode, Angelucci says several people saw a fuzzy green light, but the witnesses in the narrative apparently suggested ordinary explanations such as a helicopter or street lamp before the light moved and vanished. That is not useless as historical testimony, but it is weak corroboration: the account comes through Angelucci’s own book, the witnesses are not presented as independent investigators, and the sighting does not independently verify Neptune, the spacecraft interior, or the cosmological message. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The reported multi-witness element is also limited. In the August episode, Angelucci says several people saw a fuzzy green light, but the witnesses in the narrative apparently suggested ordinary explanations such as a helicopter or street lamp before the light moved and vanished. That is not useless as historical testimony, but it is weak corroboration: the account comes through Angelucci’s own book, the witnesses are not presented as independent investigators, and the sighting does not independently verify Neptune, the spacecraft interior, or the cosmological message.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The broader official context does not strengthen the claim. The US Air Force’s later Project Blue Book fact sheet says the Air Force investigated UFO reports from 1947 to 1969, recorded 12,618 sightings, and concluded that no investigated UFO showed evidence of being an extraterrestrial vehicle or a threat to national security. This does not specifically “solve” Angelucci’s story, but it frames the period: official investigations did collect and evaluate UFO reports, yet the Air Force did not publicly validate contactee claims of the kind Angelucci made. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+The broader official context does not strengthen the claim. The US Air Force’s later Project Blue Book fact sheet says the Air Force investigated UFO reports from 1947 to 1969, recorded 12,618 sightings, and concluded that no investigated UFO showed evidence of being an extraterrestrial vehicle or a threat to national security. This does not specifically “solve” Angelucci’s story, but it frames the period: official investigations did collect and evaluate UFO reports, yet the Air Force did not publicly validate contactee claims of the kind Angelucci made.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
 <img src="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a-Illustration-2-dark.svg" | relative_url }}" alt="Orfeo Angelucci encounter 1955 illustration 2" data-theme-src-dark="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the story still matters
 
-Angelucci’s encounter is historically valuable because it shows how the early UFO phenomenon could become a spiritual vocation. His visitors do not simply pilot a machine; they diagnose humanity’s moral failure. They warn that material knowledge has outpaced brotherly love, refuse to give destructive scientific secrets, speak of Jesus in cosmic terms, and present illness, suffering and human conflict as part of a spiritual drama. In other words, the case is not just “a man saw a saucer”; it is a salvation narrative written in flying-saucer language. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Angelucci’s encounter is historically valuable because it shows how the early UFO phenomenon could become a spiritual vocation. His visitors do not simply pilot a machine; they diagnose humanity’s moral failure. They warn that material knowledge has outpaced brotherly love, refuse to give destructive scientific secrets, speak of Jesus in cosmic terms, and present illness, suffering and human conflict as part of a spiritual drama. In other words, the case is not just “a man saw a saucer”; it is a salvation narrative written in flying-saucer language.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That blend helps explain why some readers found Angelucci sincere even if they did not accept the literal claims. The National Air and Space Museum notes that few take the claims seriously, but that his story has been regarded by some as among the more moving and sincere contactee accounts. The emotional structure is plain in the book itself: humiliation, family strain, self-doubt, a need to testify, and an insistence that ridicule was part of the burden of being chosen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/study-flying-saucer-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That blend helps explain why some readers found Angelucci sincere even if they did not accept the literal claims. The National Air and Space Museum notes that few take the claims seriously, but that his story has been regarded by some as among the more moving and sincere contactee accounts. The emotional structure is plain in the book itself: humiliation, family strain, self-doubt, a need to testify, and an insistence that ridicule was part of the burden of being chosen.<span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/study-flying-saucer-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The case also sits naturally beside sibling contactee cases from the same period, especially George Adamski, George Van Tassel, Daniel Fry and Truman Bethurum. What distinguishes Angelucci is the intensity of the mystical and psychological content. His saucers are not merely vehicles from Venus or another planet; they are instruments of moral instruction, cosmic record-keeping and spiritual awakening. Later summaries of the [contactee era]({{ 'contactee-era/' | relative_url }}) often treat him as one of the figures whose claims helped shift some UFO belief from “nuts-and-bolts” aerial mystery into new religious and metaphysical territory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/angelucci-orfeo-1912-1993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">angelucci orfeo 1912 1993</span><span class="citation-popover-snippet">angelucci orfeo 1912 1993</span></span></span>
+The case also sits naturally beside sibling contactee cases from the same period, especially George Adamski, George Van Tassel, Daniel Fry and Truman Bethurum. What distinguishes Angelucci is the intensity of the mystical and psychological content. His saucers are not merely vehicles from Venus or another planet; they are instruments of moral instruction, cosmic record-keeping and spiritual awakening. Later summaries of the [contactee era]({{ 'contactee-era/' | relative_url }}) often treat him as one of the figures whose claims helped shift some UFO belief from “nuts-and-bolts” aerial mystery into new religious and metaphysical territory.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/angelucci-orfeo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">angelucci orfeo</span><span class="citation-popover-snippet">angelucci orfeo</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ASnRs1ri44o" title="Carl Jung on UFOs: A Modern Myth of Hope and Fear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ASnRs1ri44o" target="_blank" rel="noopener noreferrer">Carl Jung on UFOs: A Modern Myth of Hope and Fear</a></p><p class="youtube-embed-meta">Channel: Eternalised &middot; Views: 233.3K &middot; Uploaded: July 2024 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ASnRs1ri44o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ASnRs1ri44o">Open on YouTube</a></p></div></div></div>
 
 ## The strongest sceptical reading
 
-The most economical sceptical reading is that Angelucci’s account was a sincere or semi-sincere visionary narrative shaped by the cultural atmosphere of early 1950s America. The timing is significant: the modern flying-saucer wave had begun in 1947, southern California had become a major saucer-culture setting, and July 1952 brought intense national UFO attention. Angelucci’s own book says newspaper reports of “flying saucers over Los Angeles” renewed his conviction that he knew the secret of the phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most economical sceptical reading is that Angelucci’s account was a sincere or semi-sincere visionary narrative shaped by the cultural atmosphere of early 1950s America. The timing is significant: the modern flying-saucer wave had begun in 1947, southern California had become a major saucer-culture setting, and July 1952 brought intense national UFO attention. Angelucci’s own book says newspaper reports of “flying saucers over Los Angeles” renewed his conviction that he knew the secret of the phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This does not require assuming deliberate fraud. The text itself contains repeated references to illness, exhaustion, altered consciousness, dreamlike states, telepathy, overwhelming emotion and fear that others would think him mentally unwell. A sceptical analysis can therefore separate sincerity from reliability: Angelucci may have experienced something subjectively powerful while still being a poor source for claims about spacecraft, extraterrestrial beings, or journeys beyond Earth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This does not require assuming deliberate fraud. The text itself contains repeated references to illness, exhaustion, altered consciousness, dreamlike states, telepathy, overwhelming emotion and fear that others would think him mentally unwell. A sceptical analysis can therefore separate sincerity from reliability: Angelucci may have experienced something subjectively powerful while still being a poor source for claims about spacecraft, extraterrestrial beings, or journeys beyond Earth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The Jungian and cultural reading also has weight. Later summaries note that Carl Jung discussed Angelucci’s account in *Flying Saucers: A Modern Myth of Things Seen in the Skies*, treating saucers as psychologically meaningful modern myths rather than simply asking whether each report was literally true. In that frame, Angelucci’s case is important because it dramatises hope, fear, apocalypse, rescue, chosen messengers and cosmic brotherhood — themes that were highly resonant in the atomic age. <span class="citation-chip-wrap"><a class="citation-chip" href="https://api.pageplace.de/preview/DT0400.9781317531609_A30905432/preview-9781317531609_A30905432.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.pageplace.de">[PagePlace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.pageplace.de</span><span class="citation-popover-title">Page Place Flying Saucers: A modern myth of things seen in the sky</span><span class="citation-popover-snippet">Page Place Flying Saucers: A modern myth of things seen in the sky</span></span></span>
+The Jungian and cultural reading also has weight. Later summaries note that Carl Jung discussed Angelucci’s account in *Flying Saucers: A Modern Myth of Things Seen in the Skies*, treating saucers as psychologically meaningful modern myths rather than simply asking whether each report was literally true. In that frame, Angelucci’s case is important because it dramatises hope, fear, apocalypse, rescue, chosen messengers and cosmic brotherhood — themes that were highly resonant in the atomic age.<span class="citation-chip-wrap"><a class="citation-chip" href="https://api.pageplace.de/preview/DT0400.9781317531609_A30905432/preview-9781317531609_A30905432.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.pageplace.de">[PagePlace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.pageplace.de</span><span class="citation-popover-title">Page Place Flying Saucers: A modern myth of things seen in the sky</span><span class="citation-popover-snippet">Page Place Flying Saucers: A modern myth of things seen in the sky</span></span></span>
 
 <img src="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a-Illustration-3-dark.svg" | relative_url }}" alt="Orfeo Angelucci encounter 1955 illustration 3" data-theme-src-dark="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What remains unresolved
 
-The unresolved part of the Angelucci case is not a hidden technical mystery so much as a historical and psychological one. There is no strong public evidence that an extraterrestrial craft appeared to him, carried him into space, or introduced him to Neptune. But there is evidence that he told the story publicly, absorbed ridicule, entered the 1950s contactee circuit, and produced one of the era’s more elaborate spiritual saucer narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/study-flying-saucer-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The unresolved part of the Angelucci case is not a hidden technical mystery so much as a historical and psychological one. There is no strong public evidence that an extraterrestrial craft appeared to him, carried him into space, or introduced him to Neptune. But there is evidence that he told the story publicly, absorbed ridicule, entered the 1950s contactee circuit, and produced one of the era’s more elaborate spiritual saucer narratives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/study-flying-saucer-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For a case dossier, the fairest assessment is therefore layered. As a physical UFO case, it is weak: mostly single-witness testimony, late literary presentation, no durable artefact, and no strong independent corroboration. As a cultural document, it is unusually rich: an aircraft worker in Cold War Los Angeles turns saucer sightings into a message of cosmic kinship, moral reform and apocalyptic warning. That makes the Orfeo Angelucci encounter less persuasive as proof of alien contact than as a key example of how 1950s UFO belief could become a modern visionary religion.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Bcygm-tyAqQ" title="Following the Tracks of Orfeo Angelucci" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Bcygm-tyAqQ" target="_blank" rel="noopener noreferrer">Following the Tracks of Orfeo Angelucci</a></p><p class="youtube-embed-meta">Channel: SAUCERIAN PUBLISHER &middot; Views: 77 &middot; Uploaded: March 2021 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Bcygm-tyAqQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Bcygm-tyAqQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Angelucci&#x27;s Saucer Story Evidence or Revelation?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Angelucci&#x27;s Saucer Story Evidence or Revelation?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Profiles the Angelucci encounter, documenting the 1955 contactee claims and subsequent secondary investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Profiles the Angelucci encounter, documenting the 1955 contactee claims and subsequent secondary investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Places the Angelucci report within the larger history of contactee movements, analyzing the reliability of his spiritual witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places the Angelucci report within the larger history of contactee movements, analyzing the reliability of his spiritual witness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches investigative skills to identify forensic limitations when cases are primarily built on subjective religious claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches investigative skills to identify forensic limitations when cases are primarily built on subjective religious claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Documents how official intelligence bureaus index and analyze sightings that rely heavily on civilian, non-instrument-based spiritual rep...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents how official intelligence bureaus index and analyze sightings that rely heavily on civilian, non-instrument-based spiritual rep...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX"><img src="https://i.ebayimg.com/images/g/8-MAAOSwdn5n1ZJ8/s-l225.jpg" alt="Listing image for ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX"><img src="https://i.ebayimg.com/images/g/8-MAAOSwdn5n1ZJ8/s-l225.jpg" alt="Listing image for ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia"><img src="https://i.ebayimg.com/images/g/hHsAAeSw3GJpJve3/s-l225.jpg" alt="Listing image for Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia"><img src="https://i.ebayimg.com/images/g/hHsAAeSw3GJpJve3/s-l225.jpg" alt="Listing image for Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Mayan Jungle Desktop Model ! (D)"><img src="https://i.ebayimg.com/images/g/yOIAAeSwliRoEc-g/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Mayan Jungle Desktop Model ! (D)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Mayan Jungle Desktop Model ! (D)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Mayan Jungle Desktop Model ! (D)"><img src="https://i.ebayimg.com/images/g/yOIAAeSwliRoEc-g/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Mayan Jungle Desktop Model ! (D)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Mayan Jungle Desktop Model ! (D)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Desktop Model ! (B)"><img src="https://i.ebayimg.com/images/g/rYEAAeSwX3lnzul9/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Desktop Model ! (B)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Desktop Model ! (B)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Desktop Model ! (B)"><img src="https://i.ebayimg.com/images/g/rYEAAeSwX3lnzul9/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Desktop Model ! (B)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Desktop Model ! (B)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-angelucci-s-saucer-story-evidence-or-revelation-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1018,7 +1018,7 @@ For a case dossier, the fairest assessment is therefore layered. As a physical U
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1038,7 +1038,7 @@ For a case dossier, the fairest assessment is therefore layered. As a physical U
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1070,7 +1070,7 @@ For a case dossier, the fairest assessment is therefore layered. As a physical U
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1122,7 +1122,7 @@ For a case dossier, the fairest assessment is therefore layered. As a physical U
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1167,7 +1167,7 @@ For a case dossier, the fairest assessment is therefore layered. As a physical U
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1208,181 +1208,181 @@ For a case dossier, the fairest assessment is therefore layered. As a physical U
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/sos/index.htm</a>  
+   Link:<a href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/sos/index.htm</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/sos/sos03.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/sos/sos03.htm</a>  
+   Link:<a href="https://sacred-texts.com/ufo/sos/sos03.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/sos/sos03.htm</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/sos/sos04.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/sos/sos04.htm</a>  
+   Link:<a href="https://sacred-texts.com/ufo/sos/sos04.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/sos/sos04.htm</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/sos/sos05.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/sos/sos05.htm</a>  
+   Link:<a href="https://sacred-texts.com/ufo/sos/sos05.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/sos/sos05.htm</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/sos/sos09.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/sos/sos09.htm</a>  
+   Link:<a href="https://sacred-texts.com/ufo/sos/sos09.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/sos/sos09.htm</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: encyclopedia.com  
    Title: angelucci orfeo 1912 1993  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/angelucci-orfeo-1912-1993" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/angelucci-orfeo-1912-1993</a>  
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/angelucci-orfeo" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/angelucci-orfeo</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "David Jacobs The UFO Controversy In America"  
-   Link: <a href="https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America_djvu.txt</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: api.pageplace.de  
    Title: Page Place Flying Saucers: A modern myth of things seen in the sky  
-   Link: <a href="https://api.pageplace.de/preview/DT0400.9781317531609_A30905432/preview-9781317531609_A30905432.pdf" target="_blank" rel="noopener noreferrer nofollow">https://api.pageplace.de/preview/DT0400.9781317531609_A30905432/preview-9781317531609_A30905432.pdf</a>  
+   Link:<a href="https://api.pageplace.de/preview/DT0400.9781317531609_A30905432/preview-9781317531609_A30905432.pdf" target="_blank" rel="noopener noreferrer nofollow">https://api.pageplace.de/preview/DT0400.9781317531609_A30905432/preview-9781317531609_A30905432.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
+   Link:<a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archive.org  
    Title: DTIC AD0688332 djvu.txt  
-   Link: <a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/Dreamland_201801/Dreamland_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Dreamland_201801/Dreamland_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/Dreamland_201801/Dreamland_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Dreamland_201801/Dreamland_djvu.txt</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ia803206.us.archive.org  
    Title: David Jacobs The UFO Controversy In America  
-   Link: <a href="https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf</a>  
+   Link:<a href="https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archive.org  
    Title: Encyclopediaof Occultismand Parapsychology1 djvu.txt  
-   Link: <a href="https://archive.org/stream/Grimoires_201812/EncyclopediaofOccultismandParapsychology1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Grimoires_201812/EncyclopediaofOccultismandParapsychology1_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/Grimoires_201812/EncyclopediaofOccultismandParapsychology1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Grimoires_201812/EncyclopediaofOccultismandParapsychology1_djvu.txt</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: airandspace.si.edu  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/study-flying-saucer-sightings" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/study-flying-saucer-sightings</a>  
+   Link:<a href="https://airandspace.si.edu/stories/editorial/study-flying-saucer-sightings" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/study-flying-saucer-sightings</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Orfeo Angelucci  
-   Link: <a href="https://en.wikipedia.org/wiki/Orfeo_Angelucci" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Orfeo_Angelucci</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Orfeo_Angelucci" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Orfeo_Angelucci</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: scribd.com  
    Title: Orfeo Angelucci | PDF | Ufo Related Phenomena | Ufology Alien Magic  
-   Link: <a href="https://www.scribd.com/document/800711656/orfeo-angelucci" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/800711656/orfeo-angelucci</a>  
+   Link:<a href="https://www.scribd.com/document/800711656/orfeo-angelucci" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/800711656/orfeo-angelucci</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: books.google.com  
    Title: The Secret of the Saucers  
-   Link: <a href="https://books.google.com/books/about/The_Secret_of_the_Saucers.html?id=bC_w0AEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Secret_of_the_Saucers.html?id=bC_w0AEACAAJ</a>  
+   Link:<a href="https://books.google.com/books/about/The_Secret_of_the_Saucers.html?id=bC_w0AEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Secret_of_the_Saucers.html?id=bC_w0AEACAAJ</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: x.com  
    Title: ""Orfeo Angelucci""  
-   Link: <a href="https://x.com/search?f=tweets&amp;q=%22Orfeo+Angelucci%22&amp;src=typd&amp;vertical=default" target="_blank" rel="noopener noreferrer nofollow">https://x.com/search?f=tweets&amp;q=%22Orfeo+Angelucci%22&amp;src=typd&amp;vertical=default</a>  
+   Link:<a href="https://x.com/search?f=tweets&amp;q=%22Orfeo+Angelucci%22&amp;src=typd&amp;vertical=default" target="_blank" rel="noopener noreferrer nofollow">https://x.com/search?f=tweets&amp;q=%22Orfeo+Angelucci%22&amp;src=typd&amp;vertical=default</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: parnassusbooks.net  
-   Link: <a href="https://parnassusbooks.net/book/9798565486018" target="_blank" rel="noopener noreferrer nofollow">https://parnassusbooks.net/book/9798565486018</a>  
+   Link:<a href="https://parnassusbooks.net/book/9798565486018" target="_blank" rel="noopener noreferrer nofollow">https://parnassusbooks.net/book/9798565486018</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Orfeo M Angelucci Travelling In A Disk From Another World  
-   Link: <a href="https://www.youtube.com/watch?v=HPDbZYvNROM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HPDbZYvNROM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of the Saucers. By Ofreo M. Angelucci. Audiobook...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HPDbZYvNROM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HPDbZYvNROM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of the Saucers. By Ofreo M. Angelucci. Audiobook...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Real People Who Were Born On Other Planets  
-   Link: <a href="https://www.youtube.com/watch?v=SLrJ486VVGg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SLrJ486VVGg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>George Adamski: Alien Contactee! - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SLrJ486VVGg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SLrJ486VVGg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George Adamski: Alien Contactee! - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: maryevans.com  
-   Link: <a href="https://www.maryevans.com/contributors/com/orfeo-angelucci-45394982.html" target="_blank" rel="noopener noreferrer nofollow">https://www.maryevans.com/contributors/com/orfeo-angelucci-45394982.html</a>  
+   Link:<a href="https://www.maryevans.com/contributors/com/orfeo-angelucci-45394982.html" target="_blank" rel="noopener noreferrer nofollow">https://www.maryevans.com/contributors/com/orfeo-angelucci-45394982.html</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/BUCK-NELSONS-TRIP-MARS-VENUS/dp/195508713X" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/BUCK-NELSONS-TRIP-MARS-VENUS/dp/195508713X</a>  
+   Link:<a href="https://www.amazon.co.uk/BUCK-NELSONS-TRIP-MARS-VENUS/dp/195508713X" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/BUCK-NELSONS-TRIP-MARS-VENUS/dp/195508713X</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: amazon.co.jp  
-   Link: <a href="https://www.amazon.co.jp/-/en/Buck-Nelsons-Trip-Mars-Venus/dp/195508713X" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.jp/-/en/Buck-Nelsons-Trip-Mars-Venus/dp/195508713X</a>  
+   Link:<a href="https://www.amazon.co.jp/-/en/Buck-Nelsons-Trip-Mars-Venus/dp/195508713X" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.jp/-/en/Buck-Nelsons-Trip-Mars-Venus/dp/195508713X</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: ebay.co.uk  
-   Link: <a href="https://www.ebay.co.uk/itm/157529253692" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.co.uk/itm/157529253692</a>  
+   Link:<a href="https://www.ebay.co.uk/itm/157529253692" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.co.uk/itm/157529253692</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: indigo.ca  
-   Link: <a href="https://www.indigo.ca/products/buck-nelsons-trip-to-mars-moon-venus" target="_blank" rel="noopener noreferrer nofollow">https://www.indigo.ca/products/buck-nelsons-trip-to-mars-moon-venus</a>  
+   Link:<a href="https://www.indigo.ca/products/buck-nelsons-trip-to-mars-moon-venus" target="_blank" rel="noopener noreferrer nofollow">https://www.indigo.ca/products/buck-nelsons-trip-to-mars-moon-venus</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/FLYING-SAUCERS-Modern-Things-Skies-ebook/dp/B0C411SPV6" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/FLYING-SAUCERS-Modern-Things-Skies-ebook/dp/B0C411SPV6</a>
+   Link:<a href="https://www.amazon.co.uk/FLYING-SAUCERS-Modern-Things-Skies-ebook/dp/B0C411SPV6" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/FLYING-SAUCERS-Modern-Things-Skies-ebook/dp/B0C411SPV6</a>

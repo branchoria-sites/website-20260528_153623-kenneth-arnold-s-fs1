@@ -795,194 +795,194 @@ Researchers interested in historical UFO cases or photographic evidence analysis
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v9wUHdXmgQU" title="1952 UFO Sighting is Oldest Caught on Camera | The Proof Is Out There (Season 4) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v9wUHdXmgQU" target="_blank" rel="noopener noreferrer">1952 UFO Sighting is Oldest Caught on Camera | The Proof Is Out There (Season 4) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 84.7K &middot; Uploaded: October 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v9wUHdXmgQU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v9wUHdXmgQU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did the Salem UFO Photo Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did the Salem UFO Photo Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Documents how institutions balance sensor-data analysis against official government UAP classification protocols.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents how institutions balance sensor-data analysis against official government UAP classification protocols.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Reviews how military analysts historically scrutinized photography against sensor reports, a process that continues today.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reviews how military analysts historically scrutinized photography against sensor reports, a process that continues today.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Presents an objective file entry on the Salem photograph, summarizing the Coast Guard details and the historical technical status of the...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Presents an objective file entry on the Salem photograph, summarizing the Coast Guard details and the historical technical status of the...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches the methodology used to audit early photographic footage, explaining common sources of optical artifacts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches the methodology used to audit early photographic footage, explaining common sources of optical artifacts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Antonia Ellis 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/2847c8ac5f521e77be42.jpg' | relative_url }}" alt="Listing image for UFO (TV) Antonia Ellis 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Antonia Ellis 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Antonia Ellis 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/2847c8ac5f521e77be42.jpg' | relative_url }}" alt="Listing image for UFO (TV) Antonia Ellis 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Antonia Ellis 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Harry Baird, Gabrielle Drake 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/4c3880f38b00ff87477b.jpg' | relative_url }}" alt="Listing image for UFO (TV) Harry Baird, Gabrielle Drake 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Harry Baird, Gabrielle Drake 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Harry Baird, Gabrielle Drake 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/4c3880f38b00ff87477b.jpg' | relative_url }}" alt="Listing image for UFO (TV) Harry Baird, Gabrielle Drake 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Harry Baird, Gabrielle Drake 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/bd6934eaba82fb5a9f41.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/bd6934eaba82fb5a9f41.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/a5f58c820be9e212e78d.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/a5f58c820be9e212e78d.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="salem-massachusetts-photograph-1952-what-did-the-salem-ufo-photo-really-show-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -998,7 +998,7 @@ Researchers interested in historical UFO cases or photographic evidence analysis
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1018,7 +1018,7 @@ Researchers interested in historical UFO cases or photographic evidence analysis
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1050,7 +1050,7 @@ Researchers interested in historical UFO cases or photographic evidence analysis
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1102,7 +1102,7 @@ Researchers interested in historical UFO cases or photographic evidence analysis
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1147,7 +1147,7 @@ Researchers interested in historical UFO cases or photographic evidence analysis
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1188,114 +1188,114 @@ Researchers interested in historical UFO cases or photographic evidence analysis
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: theufodatabase.com  
    Title: 1952 salem ufo photo  
-   Link: <a href="https://theufodatabase.com/incidents/1952-salem-ufo-photo" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/incidents/1952-salem-ufo-photo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Database1952 Salem UFO Photo | The UFO Database...</p></details>
+   Link:<a href="https://theufodatabase.com/incidents/1952-salem-ufo-photo" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/incidents/1952-salem-ufo-photo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Database1952 Salem UFO Photo | The UFO Database...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/bluebookpics1501.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bluebookpics1501.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: Project Blue Book case 1501, Salem, July 16, 1952...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/htm/bluebookpics1501.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bluebookpics1501.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: Project Blue Book case 1501, Salem, July 16, 1952...</p></details>
    Published: July 16, 1952  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/item/2007680837/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/item/2007680837/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressFirst daylight photo of - what are they? | Library of CongressJuly 16, 1952...</p></details>
+   Link:<a href="https://www.loc.gov/item/2007680837/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/item/2007680837/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressFirst daylight photo of - what are they? | Library of CongressJuly 16, 1952...</p></details>
    Published: July 16, 1952  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: saucerco.com  
    Title: Saucer The Salem UFO – Saucer  
-   Link: <a href="https://saucerco.com/blogs/saucer-encounters/the-salem-ufo" target="_blank" rel="noopener noreferrer nofollow">https://saucerco.com/blogs/saucer-encounters/the-salem-ufo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SaucerThe Salem UFO – SaucerJuly 16, 2022...</p></details>
+   Link:<a href="https://saucerco.com/blogs/saucer-encounters/the-salem-ufo" target="_blank" rel="noopener noreferrer nofollow">https://saucerco.com/blogs/saucer-encounters/the-salem-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SaucerThe Salem UFO – SaucerJuly 16, 2022...</p></details>
    Published: July 16, 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: alienresearch.cn  
    Title: 地外文明研究- ALIENRESEARCH TOP 100 UFO CASEs  
-   Link: <a href="https://alienresearch.cn/top-100-ufo-cases/" target="_blank" rel="noopener noreferrer nofollow">https://alienresearch.cn/top-100-ufo-cases/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>地外文明研究- ALIENRESEARCH TOP 100 UFO CASEsJuly 14, 2022...</p></details>
+   Link:<a href="https://alienresearch.cn/top-100-ufo-cases/" target="_blank" rel="noopener noreferrer nofollow">https://alienresearch.cn/top-100-ufo-cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>地外文明研究- ALIENRESEARCH TOP 100 UFO CASEsJuly 14, 2022...</p></details>
    Published: July 14, 2022  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arewealoneinthisuniverse.fandom.com  
    Title: 1952 UFO Wave  
-   Link: <a href="https://arewealoneinthisuniverse.fandom.com/wiki/1952_UFO_Wave" target="_blank" rel="noopener noreferrer nofollow">https://arewealoneinthisuniverse.fandom.com/wiki/1952_UFO_Wave</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>fandom.com1952 UFO Wave | Are_We_Alone Wiki | Fandom1952 UFO WAVE Edit * Edit source * History * Purge * Talk (0) A famous photo taken in...</p></details>
+   Link:<a href="https://arewealoneinthisuniverse.fandom.com/wiki/1952_UFO_Wave" target="_blank" rel="noopener noreferrer nofollow">https://arewealoneinthisuniverse.fandom.com/wiki/1952_UFO_Wave</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fandom.com1952 UFO Wave | Are_We_Alone Wiki | Fandom1952 UFO WAVE Edit * Edit source * History * Purge * Talk (0) A famous photo taken in...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theufodatabase.com  
    Title: Salem UFO | The UFO Database  
-   Link: <a href="https://theufodatabase.com/photos/salem-ufo" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/photos/salem-ufo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alpert, a photographer with the U.S. Coast Guard, took a famous photograph of four bright objects in a &quot;V&quot; formation in...</p></details>
+   Link:<a href="https://theufodatabase.com/photos/salem-ufo" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/photos/salem-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alpert, a photographer with the U.S. Coast Guard, took a famous photograph of four bright objects in a &quot;V&quot; formation in...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: beforeitsnews.com  
-   Link: <a href="https://beforeitsnews.com/paranormal/2026/05/incredible-alien-craft-photo-from-salem-massachusetts-2571243.html" target="_blank" rel="noopener noreferrer nofollow">https://beforeitsnews.com/paranormal/2026/05/incredible-alien-craft-photo-from-salem-massachusetts-2571243.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 7, 2026 — By World UFO Photos Contributor profile | More stories Story Views Now: | Last hour: | Last 24 hours: | Total: | INCREDIBLE...</p></details>
+   Link:<a href="https://beforeitsnews.com/paranormal/2026/05/incredible-alien-craft-photo-from-salem-massachusetts-2571243.html" target="_blank" rel="noopener noreferrer nofollow">https://beforeitsnews.com/paranormal/2026/05/incredible-alien-craft-photo-from-salem-massachusetts-2571243.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 7, 2026 — By World UFO Photos Contributor profile | More stories Story Views Now: | Last hour: | Last 24 hours: | Total: | INCREDIBLE...</p></details>
    Published: May 7, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gettyimages.com.mx  
    Title: 12.690 fotos de stock, fotos en alta resolución e imágenes sobre Ufo Photos  
-   Link: <a href="https://www.gettyimages.com.mx/fotos/ufo-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com.mx/fotos/ufo-photos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Getty Images* [Input: Busca las mejores fotos e imágenes] Imágenes * Imágenes y vídeos de Creative * Imágenes * Creative * Editorial * Ví...</p></details>
+   Link:<a href="https://www.gettyimages.com.mx/fotos/ufo-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com.mx/fotos/ufo-photos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Getty Images* [Input: Busca las mejores fotos e imágenes] Imágenes * Imágenes y vídeos de Creative * Imágenes * Creative * Editorial * Ví...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: commons.wikimedia.org  
    Title: File:Old Classical and High School, Broad Street, Salem, MA 54365938883.jpg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AOld_Classical_and_High_School%2C_Broad_Street%2C_Salem%2C_MA_-_54365938883.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AOld_Classical_and_High_School%2C_Broad_Street%2C_Salem%2C_MA_-_54365938883.jpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Old Classical and High School, Broad Street, Salem, MA - 54365938883.jpg - Wikimedia CommonsJuly 18, 2024 — FILE:OLD CL...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AOld_Classical_and_High_School%2C_Broad_Street%2C_Salem%2C_MA_-_54365938883.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AOld_Classical_and_High_School%2C_Broad_Street%2C_Salem%2C_MA_-_54365938883.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Old Classical and High School, Broad Street, Salem, MA - 54365938883.jpg - Wikimedia CommonsJuly 18, 2024 — FILE:OLD CL...</p></details>
    Published: July 18, 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: gettyimages.com.br  
    Title: 12.626 Ufo Photos Fotos de stock, imagens de alta resolução e imagens  
-   Link: <a href="https://www.gettyimages.com.br/fotos/ufo-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com.br/fotos/ufo-photos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Getty Images12.626 UFO PHOTOS IMAGENS E FOTOS DE STOCK Ver vídeos de ufo photos [Input][Input] Pesquise 12.626 fotos e imagens disponívei...</p></details>
+   Link:<a href="https://www.gettyimages.com.br/fotos/ufo-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com.br/fotos/ufo-photos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Getty Images12.626 UFO PHOTOS IMAGENS E FOTOS DE STOCK Ver vídeos de ufo photos [Input][Input] Pesquise 12.626 fotos e imagens disponívei...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: commons.wikimedia.org  
    Title: File:American Glue Factory Floating Tank (53003341775).jpg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AAmerican_Glue_Factory_Floating_Tank_%2853003341775%29.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AAmerican_Glue_Factory_Floating_Tank_%2853003341775%29.jpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:American Glue Factory Floating Tank (53003341775).jpg - Wikimedia CommonsJune 26, 2023 — FILE:AMERICAN GLUE FACTORY FLO...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AAmerican_Glue_Factory_Floating_Tank_%2853003341775%29.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AAmerican_Glue_Factory_Floating_Tank_%2853003341775%29.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:American Glue Factory Floating Tank (53003341775).jpg - Wikimedia CommonsJune 26, 2023 — FILE:AMERICAN GLUE FACTORY FLO...</p></details>
    Published: June 26, 2023  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: commons.wikimedia.org  
    Title: File:American Glue Factory Floating Tank (53003461163).jpg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AAmerican_Glue_Factory_Floating_Tank_%2853003461163%29.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AAmerican_Glue_Factory_Floating_Tank_%2853003461163%29.jpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:American Glue Factory Floating Tank (53003461163).jpg - Wikimedia CommonsJune 26, 2023 — FILE:AMERICAN GLUE FACTORY FLO...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AAmerican_Glue_Factory_Floating_Tank_%2853003461163%29.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AAmerican_Glue_Factory_Floating_Tank_%2853003461163%29.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:American Glue Factory Floating Tank (53003461163).jpg - Wikimedia CommonsJune 26, 2023 — FILE:AMERICAN GLUE FACTORY FLO...</p></details>
    Published: June 26, 2023  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: commons.wikimedia.org  
    Title: Other resolutions: 297 × 240 pixels | 593 × 480 pi  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AHawthorne_Hotel_%2851691063078%29.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AHawthorne_Hotel_%2851691063078%29.jpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Hawthorne Hotel (51691063078).jpg - Wikimedia CommonsNovember 19, 2021 — FILE:HAWTHORNE HOTEL (51691063078).JPG * File...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AHawthorne_Hotel_%2851691063078%29.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AHawthorne_Hotel_%2851691063078%29.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Hawthorne Hotel (51691063078).jpg - Wikimedia CommonsNovember 19, 2021 — FILE:HAWTHORNE HOTEL (51691063078).JPG * File...</p></details>
    Published: November 19, 2021  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: commons.wikimedia.org  
    Title: Other resolutions: 192 × 240 pixels | 383 × 48  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ADowntown_Salem%2C_1985_%2849497052108%29.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ADowntown_Salem%2C_1985_%2849497052108%29.jpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Downtown Salem, 1985 (49497052108).jpg - Wikimedia CommonsFebruary 6, 2020 — FILE:DOWNTOWN SALEM, 1985 (49497052108).JP...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ADowntown_Salem%2C_1985_%2849497052108%29.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ADowntown_Salem%2C_1985_%2849497052108%29.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Downtown Salem, 1985 (49497052108).jpg - Wikimedia CommonsFebruary 6, 2020 — FILE:DOWNTOWN SALEM, 1985 (49497052108).JP...</p></details>
    Published: February 6, 2020  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: commons.wikimedia.org  
    Title: File:Downtown Salem, 1985 (49497698781).jpg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ADowntown_Salem%2C_1985_%2849497698781%29.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ADowntown_Salem%2C_1985_%2849497698781%29.jpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Downtown Salem, 1985 (49497698781).jpg - Wikimedia CommonsFebruary 6, 2020 — FILE:DOWNTOWN SALEM, 1985 (49497698781).JP...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ADowntown_Salem%2C_1985_%2849497698781%29.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ADowntown_Salem%2C_1985_%2849497698781%29.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Downtown Salem, 1985 (49497698781).jpg - Wikimedia CommonsFebruary 6, 2020 — FILE:DOWNTOWN SALEM, 1985 (49497698781).JP...</p></details>
    Published: February 6, 2020  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: eldritchoculum.com  
    Title: Salem UFO Sighting Original Photograph, c  
-   Link: <a href="https://www.eldritchoculum.com/inventory/p/salem-ufo-sighting-original-photograph-c-1952" target="_blank" rel="noopener noreferrer nofollow">https://www.eldritchoculum.com/inventory/p/salem-ufo-sighting-original-photograph-c-1952</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1952 — ELDRITCH OCULUM ANTIQUARIANImage: 22.png Image: IMG_5574.jpeg Image: IMG_5563.jpeg Image: IMG_5568.jpeg [Button: ] [Button: ] Imag...</p></details>
+   Link:<a href="https://www.eldritchoculum.com/inventory/p/salem-ufo-sighting-original-photograph-c-1952" target="_blank" rel="noopener noreferrer nofollow">https://www.eldritchoculum.com/inventory/p/salem-ufo-sighting-original-photograph-c-1952</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1952 — ELDRITCH OCULUM ANTIQUARIANImage: 22.png Image: IMG_5574.jpeg Image: IMG_5563.jpeg Image: IMG_5568.jpeg [Button: ] [Button: ] Imag...</p></details>

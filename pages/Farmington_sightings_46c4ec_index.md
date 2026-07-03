@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /farmington-sightings-46c4ec-index/
 description: Focused pages that expand on Farmington sightings 1950.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Farmington_sightings_46c4ec
 parent_title: Farmington sightings 1950
@@ -16,7 +16,7 @@ parent_permalink: /farmington-sightings-1950/
 
 # Explore Topics in Farmington sightings 1950
 
-The following pages expand on the main **[Farmington sightings 1950]({{ '/farmington-sightings-1950/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Farmington sightings 1950]({{ '/farmington-sightings-1950/' | relative_url }})** page and cover its key branches in.
 
 - [Witnesses]({{ '/witnesses-b905da/' | relative_url }})
 - [Timeline]({{ '/timeline-869a4b/' | relative_url }})

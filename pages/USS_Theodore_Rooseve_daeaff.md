@@ -758,24 +758,24 @@ image: /assets/images/USS_Theodore_Rooseve_daeaff-overview-social.jpg
 
 ## What the “Go Fast” Video Shows and How It Was Captured
 
-In **early 2015**, while operating off the **eastern seaboard of the United States near Florida**, an F/A‑18 Super Hornet assigned to the carrier strike group of **the USS *Theodore Roosevelt*** captured a brief infrared video showing a small object moving rapidly near what appears to be the ocean surface. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iufodb.com/gofast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iufodb.com">[Internet UFO Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iufodb.com</span><span class="citation-popover-snippet">Internet UFO DatabaseGoFast UFO Video 2015June 30, 2024...</span><span class="citation-popover-meta">Published: June 30, 2024</span></span></span>
+In **early 2015**, while operating off the **eastern seaboard of the United States near Florida**, an F/A‑18 Super Hornet assigned to the carrier strike group of **the USS *Theodore Roosevelt*** captured a brief infrared video showing a small object moving rapidly near what appears to be the ocean surface.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iufodb.com/gofast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iufodb.com">[Internet UFO Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iufodb.com</span><span class="citation-popover-snippet">Internet UFO DatabaseGoFast UFO Video 2015June 30, 2024...</span><span class="citation-popover-meta">Published: June 30, 2024</span></span></span>
 
 <img src="{{ "/assets/images/USS_Theodore_Rooseve_daeaff-overview.webp" | relative_url }}" alt="Overview image for USS Theodore Roosevelt Go Fast video 2015" loading="eager" decoding="sync" fetchpriority="high">
-* The video was recorded using the aircraft’s **AN/ASQ‑228 Advanced Targeting Forward‑Looking Infrared (ATFLIR) pod**, a sensor system that displays infrared imagery along with telemetry such as range and angle to the target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodisclosure.us/gofast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodisclosure.us">[ufodisclosure.us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodisclosure.us</span><span class="citation-popover-title">Navy Go Fast Video</span><span class="citation-popover-snippet">Navy Go Fast Video</span></span></span>
-* Though it lasts only a few dozen seconds, it clearly shows a small, bright point of infrared contrast moving horizontally across the screen while aircraft telemetry and instrument data update in real time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iufodb.com/gofast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iufodb.com">[Internet UFO Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iufodb.com</span><span class="citation-popover-snippet">Internet UFO DatabaseGoFast UFO Video 2015June 30, 2024...</span><span class="citation-popover-meta">Published: June 30, 2024</span></span></span>
-* The name “Go Fast” comes from early media usage, reflecting the initial impression that the object was racing just above the water’s surface. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theufodatabase.com/[timeline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufodatabase.com">[The UFO Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufodatabase.com</span><span class="citation-popover-title">The UFO Database&quot;GOFAST&quot; UFO Video &#124; The UFO Database</span><span class="citation-popover-snippet">The UFO Database&quot;GOFAST&quot; UFO Video &#124; The UFO Database</span></span></span>
+* The video was recorded using the aircraft’s **AN/ASQ‑228 Advanced Targeting Forward‑Looking Infrared (ATFLIR) pod**, a sensor system that displays infrared imagery along with telemetry such as range and angle to the target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodisclosure.us/gofast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodisclosure.us">[ufodisclosure.us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodisclosure.us</span><span class="citation-popover-title">Navy Go Fast Video</span><span class="citation-popover-snippet">Navy Go Fast Video</span></span></span>
+* Though it lasts only a few dozen seconds, it clearly shows a small, bright point of infrared contrast moving horizontally across the screen while aircraft telemetry and instrument data update in real time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iufodb.com/gofast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iufodb.com">[Internet UFO Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iufodb.com</span><span class="citation-popover-snippet">Internet UFO DatabaseGoFast UFO Video 2015June 30, 2024...</span><span class="citation-popover-meta">Published: June 30, 2024</span></span></span>
+* The name “Go Fast” comes from early media usage, reflecting the initial impression that the object was racing just above the water’s surface.<span class="citation-chip-wrap"><a class="citation-chip" href="https://theufodatabase.com/[timeline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufodatabase.com">[The UFO Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufodatabase.com</span><span class="citation-popover-title">The UFO Database&quot;GOFAST&quot; UFO Video &#124; The UFO Database</span><span class="citation-popover-snippet">The UFO Database&quot;GOFAST&quot; UFO Video &#124; The UFO Database</span></span></span>
 
-This clip is one of three widely publicised U.S. Navy UAP videos released to the public following Department of Defense review, alongside the *Gimbal* and *FLIR1* (“Tic Tac”) videos. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
+This clip is one of three widely publicised U.S. Navy UAP videos released to the public following Department of Defense review, alongside the *Gimbal* and *FLIR1* (“Tic Tac”) videos.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
 
 <img src="{{ "/assets/images/USS_Theodore_Rooseve_daeaff-Illustration-1-dark.svg" | relative_url }}" alt="USS Theodore Roosevelt Go Fast video 2015 illustration 1" data-theme-src-dark="{{ "/assets/images/USS_Theodore_Rooseve_daeaff-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Theodore_Rooseve_daeaff-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official Release and Government Context
 
-Although the encounter occurred in 2015, **the Pentagon did not publicly release the video until 2020**, as part of a broader transparency initiative involving military UAP footage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mick_West" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mick West</span><span class="citation-popover-snippet">Mick West</span></span></span>
+Although the encounter occurred in 2015, **the Pentagon did not publicly release the video until 2020**, as part of a broader transparency initiative involving military UAP footage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mick_West" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mick West</span><span class="citation-popover-snippet">Mick West</span></span></span>
 
-* The recordings were originally shared with the press by private and media intermediaries, including *To The Stars Academy of Arts & Science*, before formal DoD acknowledgment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
-* In April 2020, the Department of Defense confirmed that these types of infrared clips were authentic recordings from Navy aircraft but did not ascribe them to any known phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mick_West" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mick West</span><span class="citation-popover-snippet">Mick West</span></span></span>
+* The recordings were originally shared with the press by private and media intermediaries, including *To The Stars Academy of Arts & Science*, before formal DoD acknowledgment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
+* In April 2020, the Department of Defense confirmed that these types of infrared clips were authentic recordings from Navy aircraft but did not ascribe them to any known phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mick_West" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mick West</span><span class="citation-popover-snippet">Mick West</span></span></span>
 
-In the government’s own terminology, these clips document **unidentified aerial phenomena (UAP)** — a neutral term used by the U.S. military to describe airborne objects that cannot be immediately explained by conventional aircraft, atmospheric phenomena, sensor errors, or other ordinary causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mick_West" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mick West</span><span class="citation-popover-snippet">Mick West</span></span></span>
+In the government’s own terminology, these clips document **unidentified aerial phenomena (UAP)** — a neutral term used by the U.S. military to describe airborne objects that cannot be immediately explained by conventional aircraft, atmospheric phenomena, sensor errors, or other ordinary causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mick_West" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mick West</span><span class="citation-popover-snippet">Mick West</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O5-qNdQi10k" title="Pentagon releases newly declassified UFO files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O5-qNdQi10k" target="_blank" rel="noopener noreferrer">Pentagon releases newly declassified UFO files</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 90.5K &middot; Uploaded: May 2026 &middot; Length: 1 minute 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O5-qNdQi10k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O5-qNdQi10k">Open on YouTube</a></p></div></div></div>
 
@@ -783,18 +783,18 @@ In the government’s own terminology, these clips document **unidentified aeria
 
 Despite early sensationalisation in popular media and UFO‑related communities, **official analysis and independent experts have offered more prosaic interpretations**:
 
-* In a **2025 report by the Pentagon’s All‑domain Anomaly Resolution Office (AARO)**, analysts concluded that the object in the *Go Fast* footage **did not exhibit anomalous flight characteristics** when properly interpreted. The office attributed its apparent high speed and low altitude to **motion [parallax]({{ 'parallax/' | relative_url }})**, an optical effect in which relative motion between a camera and an object creates an illusion of extreme velocity and proximity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">“The object&#x27;s apparent high speed is</span><span class="citation-popover-snippet">Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...February 13, 2025 — “AARO assesses with high confidence that the object did not...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
-* According to the AARO assessment, the object was likely much higher — perhaps around **13,000 feet above the ocean surface** — and had a speed (once adjusted for winds and viewing geometry) consistent with ordinary airborne objects such as weather balloons or other slow‑moving aerial devices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">“The object&#x27;s apparent high speed is</span><span class="citation-popover-snippet">Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...February 13, 2025 — “AARO assesses with high confidence that the object did not...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
-* Veteran sceptical investigator **Mick West** and other analysts have used trigonometry and camera geometry modelling tools to support the parallax explanation, showing how fast‑moving jets with locked tracking cameras can create the visual impression of rapid, low‑altitude motion even when the target is distant and slow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mick_West" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mick West</span><span class="citation-popover-snippet">Mick West</span></span></span>
+* In a **2025 report by the Pentagon’s All‑domain Anomaly Resolution Office (AARO)**, analysts concluded that the object in the *Go Fast* footage **did not exhibit anomalous flight characteristics** when properly interpreted. The office attributed its apparent high speed and low altitude to **motion [parallax]({{ 'parallax/' | relative_url }})**, an optical effect in which relative motion between a camera and an object creates an illusion of extreme velocity and proximity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">“The object&#x27;s apparent high speed is</span><span class="citation-popover-snippet">Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...February 13, 2025 — “AARO assesses with high confidence that the object did not...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
+* According to the AARO assessment, the object was likely much higher — perhaps around **13,000 feet above the ocean surface** — and had a speed (once adjusted for winds and viewing geometry) consistent with ordinary airborne objects such as weather balloons or other slow‑moving aerial devices.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">“The object&#x27;s apparent high speed is</span><span class="citation-popover-snippet">Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...February 13, 2025 — “AARO assesses with high confidence that the object did not...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
+* Veteran sceptical investigator **Mick West** and other analysts have used trigonometry and camera geometry modelling tools to support the parallax explanation, showing how fast‑moving jets with locked tracking cameras can create the visual impression of rapid, low‑altitude motion even when the target is distant and slow.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mick_West" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mick West</span><span class="citation-popover-snippet">Mick West</span></span></span>
 
 These analytic interpretations do **not claim to resolve every aspect** of the underlying UAP issue, but in *Go Fast*’s case they emphasise how sensor perspective, aircraft motion, and limited raw data can affect judgments about an object’s behaviour.
 
 <img src="{{ "/assets/images/USS_Theodore_Rooseve_daeaff-Illustration-2-dark.svg" | relative_url }}" alt="USS Theodore Roosevelt Go Fast video 2015 illustration 2" data-theme-src-dark="{{ "/assets/images/USS_Theodore_Rooseve_daeaff-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Theodore_Rooseve_daeaff-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Competing Perceptions: Witness Accounts and Public Debate
 
-When the *Go Fast* video first circulated in public channels such as news outlets in 2017–2018, many readers perceived it as evidence of anomalous, fast‑moving craft defying conventional explanation. Some military personnel and ex‑pilots cited a series of unexplained sightings off the USS *Theodore Roosevelt* during 2014–2015, describing UAP contacts they could neither identify nor correlate with known technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theufodatabase.com/[timeline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufodatabase.com">[The UFO Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufodatabase.com</span><span class="citation-popover-title">The UFO Database&quot;GOFAST&quot; UFO Video &#124; The UFO Database</span><span class="citation-popover-snippet">The UFO Database&quot;GOFAST&quot; UFO Video &#124; The UFO Database</span></span></span>
+When the *Go Fast* video first circulated in public channels such as news outlets in 2017–2018, many readers perceived it as evidence of anomalous, fast‑moving craft defying conventional explanation. Some military personnel and ex‑pilots cited a series of unexplained sightings off the USS *Theodore Roosevelt* during 2014–2015, describing UAP contacts they could neither identify nor correlate with known technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://theufodatabase.com/[timeline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufodatabase.com">[The UFO Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufodatabase.com</span><span class="citation-popover-title">The UFO Database&quot;GOFAST&quot; UFO Video &#124; The UFO Database</span><span class="citation-popover-snippet">The UFO Database&quot;GOFAST&quot; UFO Video &#124; The UFO Database</span></span></span>
 
-However, **no official military declaration has endorsed an extraterrestrial or unconventional technology interpretation**, and DoD leaders emphasise a lack of definitive evidence for anything beyond unidentified sensor targets. In congressional testimony, Pentagon UAP officials clarified that while some historical cases remain unresolved, **no verified evidence exists linking any UAP to extraterrestrial activity or non‑terrestrial technology**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">We do have some very anomalous objects,&quot; he said</span><span class="citation-popover-snippet">Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...November 19, 2024 — 19 Nov 2024 — Kosloski noted that his office does no...</span><span class="citation-popover-meta">Published: November 19, 2024</span></span></span>
+However, **no official military declaration has endorsed an extraterrestrial or unconventional technology interpretation**, and DoD leaders emphasise a lack of definitive evidence for anything beyond unidentified sensor targets. In congressional testimony, Pentagon UAP officials clarified that while some historical cases remain unresolved, **no verified evidence exists linking any UAP to extraterrestrial activity or non‑terrestrial technology**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">We do have some very anomalous objects,&quot; he said</span><span class="citation-popover-snippet">Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...November 19, 2024 — 19 Nov 2024 — Kosloski noted that his office does no...</span><span class="citation-popover-meta">Published: November 19, 2024</span></span></span>
 
 Critics also point out that limited metadata, compressed public releases, and the lack of full telemetry — which would allow precise three‑dimensional reconstructions — constrain both sceptical and pro‑anomaly claims. Indeed, while *Go Fast* remains an intriguing example of how modern military sensors capture ambiguous data, the interpretation of what it depicts varies significantly by analytical framework.
 
@@ -806,246 +806,246 @@ Critics also point out that limited metadata, compressed public releases, and th
 
 The *Go Fast* incident occupies a notable place in the broader UAP discourse for several reasons:
 
-* **It is one of the few military‑recorded UAP videos declassified and confirmed by the U.S. government**, lending it credibility compared with unauthorised civilian videos. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mick_West" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mick West</span><span class="citation-popover-snippet">Mick West</span></span></span>
-* It illustrates how **modern airborne infrared sensors, perspective effects, and human perception interact** to produce visually striking but potentially misleading footage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">“The object&#x27;s apparent high speed is</span><span class="citation-popover-snippet">Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...February 13, 2025 — “AARO assesses with high confidence that the object did not...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
+* **It is one of the few military‑recorded UAP videos declassified and confirmed by the U.S. government**, lending it credibility compared with unauthorised civilian videos.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mick_West" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mick West</span><span class="citation-popover-snippet">Mick West</span></span></span>
+* It illustrates how **modern airborne infrared sensors, perspective effects, and human perception interact** to produce visually striking but potentially misleading footage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">“The object&#x27;s apparent high speed is</span><span class="citation-popover-snippet">Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...February 13, 2025 — “AARO assesses with high confidence that the object did not...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
 * The debate over its interpretation reflects a key tension in UAP discussions: the balance between treating military sensor data seriously and applying rigorous analytical methods to avoid premature conclusions about exotic phenomena.
 
-In this way, the *Go Fast* video remains a reference point in conversations about how military data should inform public understanding of unexplained aerial encounters — not because it proves a specific extraordinary claim, but because it exemplifies both the **challenges and limits of interpreting complex sensor imagery** without full context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">“The object&#x27;s apparent high speed is</span><span class="citation-popover-snippet">Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...February 13, 2025 — “AARO assesses with high confidence that the object did not...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
+In this way, the *Go Fast* video remains a reference point in conversations about how military data should inform public understanding of unexplained aerial encounters — not because it proves a specific extraordinary claim, but because it exemplifies both the **challenges and limits of interpreting complex sensor imagery** without full context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">“The object&#x27;s apparent high speed is</span><span class="citation-popover-snippet">Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...February 13, 2025 — “AARO assesses with high confidence that the object did not...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
 
 <img src="{{ "/assets/images/USS_Theodore_Rooseve_daeaff-Illustration-3-dark.svg" | relative_url }}" alt="USS Theodore Roosevelt Go Fast video 2015 illustration 3" data-theme-src-dark="{{ "/assets/images/USS_Theodore_Rooseve_daeaff-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Theodore_Rooseve_daeaff-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did the Go Fast Video Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did the Go Fast Video Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Details the 2015 encounter, the sensor-imaging reports, and the ongoing debate surrounding UAP footage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details the 2015 encounter, the sensor-imaging reports, and the ongoing debate surrounding UAP footage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Details Ruppelt&#x27;s investigative notes on imaging incidents and explains why they remain major files in the UAP era.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details Ruppelt&#x27;s investigative notes on imaging incidents and explains why they remain major files in the UAP era.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches methodologies to evaluate cases based on clustered imaging reports and assess competing natural explanations like light reflections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches methodologies to evaluate cases based on clustered imaging reports and assess competing natural explanations like light reflections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Provides institutional background on how government investigative bureaus managed the public relations and intelligence workload during s...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides institutional background on how government investigative bureaus managed the public relations and intelligence workload during s...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufodisclosure.us  
    Title: Navy Go Fast Video  
-   Link: <a href="https://ufodisclosure.us/gofast/" target="_blank" rel="noopener noreferrer nofollow">https://ufodisclosure.us/gofast/</a>  
+   Link:<a href="https://ufodisclosure.us/gofast/" target="_blank" rel="noopener noreferrer nofollow">https://ufodisclosure.us/gofast/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: “The object's apparent high speed is  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...February 13, 2025 — “AARO assesses with high confidence that the object did not...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...February 13, 2025 — “AARO assesses with high confidence that the object did not...</p></details>
    Published: February 13, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Mick West  
-   Link: <a href="https://en.wikipedia.org/wiki/Mick_West" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mick_West</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mick_West" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mick_West</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: space.com  
    Title: "We do have some very anomalous objects," he said  
-   Link: <a href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...November 19, 2024 — 19 Nov 2024 — Kosloski noted that his office does no...</p></details>
+   Link:<a href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...November 19, 2024 — 19 Nov 2024 — Kosloski noted that his office does no...</p></details>
    Published: November 19, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: uapdiscovery.discourse.group  
    Title: Fighter pilots fro  
-   Link: <a href="https://uapdiscovery.discourse.group/t/navy-go-fast-video/59" target="_blank" rel="noopener noreferrer nofollow">https://uapdiscovery.discourse.group/t/navy-go-fast-video/59</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy GO FAST Video - UAP Case Analysis - UAP Discovery ForumMarch 14, 2025 — NAVY GO FAST VIDEO UAP Case Analysis uap, ufo, aviation, nav...</p></details>
+   Link:<a href="https://uapdiscovery.discourse.group/t/navy-go-fast-video/59" target="_blank" rel="noopener noreferrer nofollow">https://uapdiscovery.discourse.group/t/navy-go-fast-video/59</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy GO FAST Video - UAP Case Analysis - UAP Discovery ForumMarch 14, 2025 — NAVY GO FAST VIDEO UAP Case Analysis uap, ufo, aviation, nav...</p></details>
    Published: March 14, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufodisclosure.us  
-   Link: <a href="https://ufodisclosure.us/gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://ufodisclosure.us/gimbal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Roosevelt VideoGIMBAL – USS ROOSEVELT VIDEO USS Roosevelt “Gimbal” Navy Video During 2014–2015, fighter pilots associated with the US...</p></details>
+   Link:<a href="https://ufodisclosure.us/gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://ufodisclosure.us/gimbal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Roosevelt VideoGIMBAL – USS ROOSEVELT VIDEO USS Roosevelt “Gimbal” Navy Video During 2014–2015, fighter pilots associated with the US...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: iufodb.com  
-   Link: <a href="https://www.iufodb.com/gofast/" target="_blank" rel="noopener noreferrer nofollow">https://www.iufodb.com/gofast/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet UFO DatabaseGoFast UFO Video 2015June 30, 2024...</p></details>
+   Link:<a href="https://www.iufodb.com/gofast/" target="_blank" rel="noopener noreferrer nofollow">https://www.iufodb.com/gofast/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet UFO DatabaseGoFast UFO Video 2015June 30, 2024...</p></details>
    Published: June 30, 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theufodatabase.com  
    Title: The UFO Database"GOFAST" UFO Video | The UFO Database  
-   Link: <a href="https://theufodatabase.com/[timeline" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/[timeline</a>  
+   Link:<a href="https://theufodatabase.com/[timeline" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/[timeline</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theufodatabase.com  
    Title: The UFO Database USS Theodore Roosevelt UAPs | The UFO Database  
-   Link: <a href="https://theufodatabase.com/incidents/uss-theodore-roosevelt-uap-videos" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/incidents/uss-theodore-roosevelt-uap-videos</a>  
+   Link:<a href="https://theufodatabase.com/incidents/uss-theodore-roosevelt-uap-videos" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/incidents/uss-theodore-roosevelt-uap-videos</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: iufodb.com  
-   Link: <a href="https://www.iufodb.com/gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.iufodb.com/gimbal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Video 2015June 30, 2024 — GIMBAL UFO VIDEO 2015 Updated: 2026-04-29T02:17:21.000:00...</p></details>
+   Link:<a href="https://www.iufodb.com/gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.iufodb.com/gimbal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Video 2015June 30, 2024 — GIMBAL UFO VIDEO 2015 Updated: 2026-04-29T02:17:21.000:00...</p></details>
    Published: June 30, 2024  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theufodatabase.com  
    Title: Navy off the coast of Florida, aboard a Navy fighter jet f  
-   Link: <a href="https://theufodatabase.com/videos/uss-roosevelt-gofast-incident-video" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/videos/uss-roosevelt-gofast-incident-video</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Roosevelt &#x27;GoFast&#x27; UFO: Declassified Video | The UFO DatabaseUSS ROOSEVELT &#x27;GOFAST&#x27; UFO: DECLASSIFIED VIDEO IMAGE: SHARE YouTube vide...</p></details>
+   Link:<a href="https://theufodatabase.com/videos/uss-roosevelt-gofast-incident-video" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/videos/uss-roosevelt-gofast-incident-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Roosevelt &#x27;GoFast&#x27; UFO: Declassified Video | The UFO DatabaseUSS ROOSEVELT &#x27;GOFAST&#x27; UFO: DECLASSIFIED VIDEO IMAGE: SHARE YouTube vide...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theufodatabase.com  
    Title: uss roosevelt gimbal incident video  
-   Link: <a href="https://theufodatabase.com/videos/uss-roosevelt-gimbal-incident-video" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/videos/uss-roosevelt-gimbal-incident-video</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Roosevelt &#x27;Gimbal&#x27; UFO: Declassified Video | The UFO DatabaseUSS ROOSEVELT &#x27;GIMBAL&#x27; UFO: DECLASSIFIED VIDEO IMAGE: SHARE YouTube vide...</p></details>
+   Link:<a href="https://theufodatabase.com/videos/uss-roosevelt-gimbal-incident-video" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/videos/uss-roosevelt-gimbal-incident-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Roosevelt &#x27;Gimbal&#x27; UFO: Declassified Video | The UFO DatabaseUSS ROOSEVELT &#x27;GIMBAL&#x27; UFO: DECLASSIFIED VIDEO IMAGE: SHARE YouTube vide...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theufodatabase.com  
    Title: uss theodore roosevelt incident gofast video screenshot  
-   Link: <a href="https://theufodatabase.com/photos/uss-theodore-roosevelt-incident-gofast-video-screenshot" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/photos/uss-theodore-roosevelt-incident-gofast-video-screenshot</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Screenshot of &quot;GoFast&quot; video | The UFO DatabaseSCREENSHOT OF &quot;GOFAST&quot; VIDEO IMAGE: SHARE Image: Screenshot of Screenshot of the &quot;GoFast&quot;...</p></details>
+   Link:<a href="https://theufodatabase.com/photos/uss-theodore-roosevelt-incident-gofast-video-screenshot" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/photos/uss-theodore-roosevelt-incident-gofast-video-screenshot</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Screenshot of &quot;GoFast&quot; video | The UFO DatabaseSCREENSHOT OF &quot;GOFAST&quot; VIDEO IMAGE: SHARE Image: Screenshot of Screenshot of the &quot;GoFast&quot;...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ufotransparency.com  
-   Link: <a href="https://ufotransparency.com/files/decade-2020s-aaro-gofast-case-resolution-2025-aaro-gofast-case-resolution-card-methodology-final" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-gofast-case-resolution-2025-aaro-gofast-case-resolution-card-methodology-final</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense · 2025 · UFO TransparencyFebruary 6, 2025 — [Button: ✕]← FilesDisclosure Index/01 US DISCLOSURE/FILES/2020S/AARO Re...</p></details>
+   Link:<a href="https://ufotransparency.com/files/decade-2020s-aaro-gofast-case-resolution-2025-aaro-gofast-case-resolution-card-methodology-final" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-gofast-case-resolution-2025-aaro-gofast-case-resolution-card-methodology-final</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense · 2025 · UFO TransparencyFebruary 6, 2025 — [Button: ✕]← FilesDisclosure Index/01 US DISCLOSURE/FILES/2020S/AARO Re...</p></details>
    Published: February 6, 2025  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: the pentagon released what it says are never before seen files on ufos and vario  
-   Link: <a href="https://www.facebook.com/cnn/posts/the-pentagon-released-what-it-says-are-never-before-seen-files-on-ufos-and-vario/1353011790024802/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/the-pentagon-released-what-it-says-are-never-before-seen-files-on-ufos-and-vario/1353011790024802/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon released what it says are &quot;never-beforeIn 2014 and 2015, fighter pilots on the USS Theodore Roosevelt off the east coast rec...</p></details>
+   Link:<a href="https://www.facebook.com/cnn/posts/the-pentagon-released-what-it-says-are-never-before-seen-files-on-ufos-and-vario/1353011790024802/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/the-pentagon-released-what-it-says-are-never-before-seen-files-on-ufos-and-vario/1353011790024802/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon released what it says are &quot;never-beforeIn 2014 and 2015, fighter pilots on the USS Theodore Roosevelt off the east coast rec...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: thebaynet.com  
    Title: pentagons latest uap report sheds light on anomalies but questions remain  
-   Link: <a href="https://thebaynet.com/pentagons-latest-uap-report-sheds-light-on-anomalies-but-questions-remain/" target="_blank" rel="noopener noreferrer nofollow">https://thebaynet.com/pentagons-latest-uap-report-sheds-light-on-anomalies-but-questions-remain/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s Latest UAP Report Sheds Light On Anomalies...20 Nov 2024 — Another case, the 2016 “GOFAST” video recorded by a Navy fighter j...</p></details>
+   Link:<a href="https://thebaynet.com/pentagons-latest-uap-report-sheds-light-on-anomalies-but-questions-remain/" target="_blank" rel="noopener noreferrer nofollow">https://thebaynet.com/pentagons-latest-uap-report-sheds-light-on-anomalies-but-questions-remain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s Latest UAP Report Sheds Light On Anomalies...20 Nov 2024 — Another case, the 2016 “GOFAST” video recorded by a Navy fighter j...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: newspaceeconomy.ca  
    Title: the go fast incident a detailed analysis of the 2015 navy uap encounter  
-   Link: <a href="https://newspaceeconomy.ca/2025/12/07/the-go-fast-incident-a-detailed-analysis-of-the-2015-navy-uap-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/12/07/the-go-fast-incident-a-detailed-analysis-of-the-2015-navy-uap-encounter/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Go Fast Incident: A Detailed Analysis of the 2015 Navy UAP Encounter - New Space EconomyMay 20, 2026 — THE GO FAST INCIDENT: A DETAIL...</p></details>
+   Link:<a href="https://newspaceeconomy.ca/2025/12/07/the-go-fast-incident-a-detailed-analysis-of-the-2015-navy-uap-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/12/07/the-go-fast-incident-a-detailed-analysis-of-the-2015-navy-uap-encounter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Go Fast Incident: A Detailed Analysis of the 2015 Navy UAP Encounter - New Space EconomyMay 20, 2026 — THE GO FAST INCIDENT: A DETAIL...</p></details>
    Published: May 20, 2026  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: history.com  
    Title: US S Roosevelt 'Go Fast' UFO: Declassified Video | HISTORYOfficial U.S  
-   Link: <a href="https://www.history.com/videos/uss-roosevelt-gofast-ufo-declassified-video" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/uss-roosevelt-gofast-ufo-declassified-video</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy video of a 2015 UFO encounter, taken aboard a Navy fighter jet from the nuclear aircraft carrier USS Theodore Roosevelt, off the eas...</p></details>
+   Link:<a href="https://www.history.com/videos/uss-roosevelt-gofast-ufo-declassified-video" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/uss-roosevelt-gofast-ufo-declassified-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy video of a 2015 UFO encounter, taken aboard a Navy fighter jet from the nuclear aircraft carrier USS Theodore Roosevelt, off the eas...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: commons.wikimedia.org  
    Title: File:Go Fast Official USG Footage of UAP for Public Release.webm  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AGo_Fast_Official_USG_Footage_of_UAP_for_Public_Release.webm?uselang=zh" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AGo_Fast_Official_USG_Footage_of_UAP_for_Public_Release.webm?uselang=zh</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Go Fast Official USG Footage of UAP for Public Release.webm - Wikimedia CommonsJanuary 21, 2015 — FILE:GO FAST OFFICIAL...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AGo_Fast_Official_USG_Footage_of_UAP_for_Public_Release.webm?uselang=zh" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AGo_Fast_Official_USG_Footage_of_UAP_for_Public_Release.webm?uselang=zh</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Go Fast Official USG Footage of UAP for Public Release.webm - Wikimedia CommonsJanuary 21, 2015 — FILE:GO FAST OFFICIAL...</p></details>
    Published: January 21, 2015  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: aviationpros.com  
-   Link: <a href="https://www.aviationpros.com/aircraft/defense/news/21225042/those-amazing-navy-ufo-videos-may-have-down-to-earth-explanations-skeptics-contend" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationpros.com/aircraft/defense/news/21225042/those-amazing-navy-ufo-videos-may-have-down-to-earth-explanations-skeptics-contend</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Go Fast was shot from a Navy jet operating off the coast of Florida with the aircraft car...</p></details>
+   Link:<a href="https://www.aviationpros.com/aircraft/defense/news/21225042/those-amazing-navy-ufo-videos-may-have-down-to-earth-explanations-skeptics-contend" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationpros.com/aircraft/defense/news/21225042/those-amazing-navy-ufo-videos-may-have-down-to-earth-explanations-skeptics-contend</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Go Fast was shot from a Navy jet operating off the coast of Florida with the aircraft car...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CBSMiami/posts/the-pentagon-office-investigating-ufos-or-what-the-government-calls-unidentified/1092596395568184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSMiami/posts/the-pentagon-office-investigating-ufos-or-what-the-government-calls-unidentified/1092596395568184/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t off the east coast of Florida in 2016 and became known as the &quot;GOFAST&quot; video when it...</p></details>
+   Link:<a href="https://www.facebook.com/CBSMiami/posts/the-pentagon-office-investigating-ufos-or-what-the-government-calls-unidentified/1092596395568184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSMiami/posts/the-pentagon-office-investigating-ufos-or-what-the-government-calls-unidentified/1092596395568184/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t off the east coast of Florida in 2016 and became known as the &quot;GOFAST&quot; video when it...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nypost.com  
    Title: pentagon claims to debunk famous gofast ufo radar video  
-   Link: <a href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon claims to debunk famous &#x27;GOFAST&#x27; UFO radar...20 Nov 2024 — The Pentagon announced they solved one of the most famous UFO videos...</p></details>
+   Link:<a href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon claims to debunk famous &#x27;GOFAST&#x27; UFO radar...20 Nov 2024 — The Pentagon announced they solved one of the most famous UFO videos...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cbsnews.com  
    Title: pentagon solves 1 ufo mystery still probing other cases  
-   Link: <a href="https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon solves 1 UFO mystery but still probing cases of &quot;...20 Nov 2024 — Director of Pentagon office probing UFOs showed Congress thre...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon solves 1 UFO mystery but still probing cases of &quot;...20 Nov 2024 — Director of Pentagon office probing UFOs showed Congress thre...</p></details>

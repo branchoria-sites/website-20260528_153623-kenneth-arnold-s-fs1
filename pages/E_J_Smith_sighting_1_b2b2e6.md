@@ -758,45 +758,45 @@ image: /assets/images/E_J_Smith_sighting_1_b2b2e6-overview-social.jpg
 
 ## What Smith and the Flight 105 crew said they saw
 
-The sighting took place during the national wave of “flying disc” reports that followed Kenneth Arnold’s 24 June 1947 report near Mount Rainier. HistoryLink, a Washington state history resource, summarises the wider moment: Arnold’s story made national headlines, and by early July newspapers and authorities were being inundated with claims from the Pacific Northwest and beyond. Smith’s report entered that atmosphere on the evening of 4 July, when United Air Lines Flight 105 left Boise bound for Pendleton, Oregon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/file/2067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[historylink.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-title">Flying Saucers in Washington</span><span class="citation-popover-snippet">Flying Saucers in Washington</span></span></span>
+The sighting took place during the national wave of “flying disc” reports that followed Kenneth Arnold’s 24 June 1947 report near Mount Rainier. HistoryLink, a Washington state history resource, summarises the wider moment: Arnold’s story made national headlines, and by early July newspapers and authorities were being inundated with claims from the Pacific Northwest and beyond. Smith’s report entered that atmosphere on the evening of 4 July, when United Air Lines Flight 105 left Boise bound for Pendleton, Oregon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/file/2067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[historylink.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-title">Flying Saucers in Washington</span><span class="citation-popover-snippet">Flying Saucers in Washington</span></span></span>
 
 <img src="{{ "/assets/images/E_J_Smith_sighting_1_b2b2e6-overview.webp" | relative_url }}" alt="Overview image for E J Smith sighting 1947" loading="eager" decoding="sync" fetchpriority="high">
-The central account is fairly consistent across later summaries and case files. Flight 105, a Douglas DC-3, departed Boise at about 9:04 p.m. Mountain Standard Time. About eight minutes after take-off, First Officer Ralph Stevens noticed lights or objects ahead and, believing they might be aircraft, blinked the airliner’s landing lights. Captain E. J. Smith then observed the objects with him. The first group was described as four or five objects, with one larger than the others, followed by a second group of four. Smith and Stevens described them cautiously rather than with a polished “spacecraft” narrative: they were thin, smooth underneath, rougher-looking on top, and not easy to size because distance and altitude were uncertain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flight 105 UFO sighting</span><span class="citation-popover-snippet">Flight 105 UFO sighting</span></span></span>
+The central account is fairly consistent across later summaries and case files. Flight 105, a Douglas DC-3, departed Boise at about 9:04 p.m. Mountain Standard Time. About eight minutes after take-off, First Officer Ralph Stevens noticed lights or objects ahead and, believing they might be aircraft, blinked the airliner’s landing lights. Captain E. J. Smith then observed the objects with him. The first group was described as four or five objects, with one larger than the others, followed by a second group of four. Smith and Stevens described them cautiously rather than with a polished “spacecraft” narrative: they were thin, smooth underneath, rougher-looking on top, and not easy to size because distance and altitude were uncertain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flight 105 UFO sighting</span><span class="citation-popover-snippet">Flight 105 UFO sighting</span></span></span>
 
-Marty Morrow’s role is important because she was not simply a later rumour attached to the story. Smith called her forward from the cabin, and she reportedly confirmed the observation from the cockpit area. The passengers did not see the objects, which Smith attributed to the angle of view: the objects were mostly ahead of the aircraft rather than visible from the passenger windows. The crew attempted corroboration by radioing Ontario, Oregon, and another United flight in the region, but neither confirmed the objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flying saucer</span><span class="citation-popover-snippet">Flying saucer</span></span></span>
+Marty Morrow’s role is important because she was not simply a later rumour attached to the story. Smith called her forward from the cabin, and she reportedly confirmed the observation from the cockpit area. The passengers did not see the objects, which Smith attributed to the angle of view: the objects were mostly ahead of the aircraft rather than visible from the passenger windows. The crew attempted corroboration by radioing Ontario, Oregon, and another United flight in the region, but neither confirmed the objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flying saucer</span><span class="citation-popover-snippet">Flying saucer</span></span></span>
 
-A declassified case-file summary reproduced by NICAP gives the official case skeleton in unusually compact form: “Incident No. 10”, Boise, Idaho, 4 July 1947, with an airline pilot and crew reporting two groups of objects, five and four in number, “thin and smooth on the bottom” and “rough on top”, silhouetted against sunset and flying in loose formation for about forty-five miles. That file also records the official Air Materiel Command view that the sighting occurred at sunset, when illusory effects are likely, and that the objects could have been ordinary aircraft, balloons, birds, or pure illusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/470704emmett_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">470704emmett docs</span><span class="citation-popover-snippet">470704emmett docs</span></span></span>
+A declassified case-file summary reproduced by NICAP gives the official case skeleton in unusually compact form: “Incident No. 10”, Boise, Idaho, 4 July 1947, with an airline pilot and crew reporting two groups of objects, five and four in number, “thin and smooth on the bottom” and “rough on top”, silhouetted against sunset and flying in loose formation for about forty-five miles. That file also records the official Air Materiel Command view that the sighting occurred at sunset, when illusory effects are likely, and that the objects could have been ordinary aircraft, balloons, birds, or pure illusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/470704emmett_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">470704emmett docs</span><span class="citation-popover-snippet">470704emmett docs</span></span></span>
 
 ## Why this case carried more weight than many 1947 reports
 
-Smith’s sighting gained influence because of who reported it and when. Many 1947 stories were fragmentary, anonymous, joking, or second-hand. By contrast, this case involved a named airline captain, a named first officer, and a named stewardess in the course of a scheduled flight. Project 1947’s reproduction of James E. McDonald’s 1968 congressional statement argues that Smith was considered reliable by United Air Lines colleagues and that the sighting was treated with more seriousness than most reports appearing in the press at the same time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/ual105.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Smith’s sighting gained influence because of who reported it and when. Many 1947 stories were fragmentary, anonymous, joking, or second-hand. By contrast, this case involved a named airline captain, a named first officer, and a named stewardess in the course of a scheduled flight. Project 1947’s reproduction of James E. McDonald’s 1968 congressional statement argues that Smith was considered reliable by United Air Lines colleagues and that the sighting was treated with more seriousness than most reports appearing in the press at the same time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/ual105.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The timing also mattered. Smith had reportedly been sceptical of “flying saucer” stories before his own sighting. NICAP’s case summary recounts that, before boarding, someone asked whether the crew had seen any saucers; Smith reportedly replied that he would believe them when he saw them. That anecdote does not prove the objects were extraordinary, but it helps explain why later UFO writers found the case persuasive: Smith was not presented as someone already eager to confirm Arnold’s report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/470704emmett_e.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+The timing also mattered. Smith had reportedly been sceptical of “flying saucer” stories before his own sighting. NICAP’s case summary recounts that, before boarding, someone asked whether the crew had seen any saucers; Smith reportedly replied that he would believe them when he saw them. That anecdote does not prove the objects were extraordinary, but it helps explain why later UFO writers found the case persuasive: Smith was not presented as someone already eager to confirm Arnold’s report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/470704emmett_e.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-Kenneth Arnold himself quickly became linked to the case. Newspapers photographed Arnold with Smith and Stevens “comparing notes”, and Arnold later treated Smith’s account as vindication of his own earlier sighting. The link is useful but also risky: it connects two central branches of the 1947 flying-disc story, yet it can encourage readers to treat separate cases as mutually confirming when each still depends on its own evidence. The Idaho Statesman reportedly retraced the Flight 105 route with Arnold and its aviation editor and saw nothing unusual, a reminder that the later reconstruction did not reproduce the sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Maury_Island_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Maury Island incident</span><span class="citation-popover-snippet">Maury Island incident</span></span></span>
+Kenneth Arnold himself quickly became linked to the case. Newspapers photographed Arnold with Smith and Stevens “comparing notes”, and Arnold later treated Smith’s account as vindication of his own earlier sighting. The link is useful but also risky: it connects two central branches of the 1947 flying-disc story, yet it can encourage readers to treat separate cases as mutually confirming when each still depends on its own evidence. The Idaho Statesman reportedly retraced the Flight 105 route with Arnold and its aviation editor and saw nothing unusual, a reminder that the later reconstruction did not reproduce the sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Maury_Island_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Maury Island incident</span><span class="citation-popover-snippet">Maury Island incident</span></span></span>
 
 <img src="{{ "/assets/images/E_J_Smith_sighting_1_b2b2e6-Illustration-1-dark.svg" | relative_url }}" alt="E J Smith sighting 1947 illustration 1" data-theme-src-dark="{{ "/assets/images/E_J_Smith_sighting_1_b2b2e6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/E_J_Smith_sighting_1_b2b2e6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the official record actually supports
 
-The official record supports the existence of a reported sighting by the Flight 105 crew; it does not support a confident identification of what they saw. The reproduced case-file material classed the event as involving an airline pilot and crew, two groups of objects, sunset conditions, and insufficient information. It also preserved a more cautious internal astronomical note: there appeared to be no astronomical explanation, but changes in visibility at sunset, possible other aircraft, and illusion were considered; the note concluded that no logical explanation seemed possible at that time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/470704emmett_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">470704emmett docs</span><span class="citation-popover-snippet">470704emmett docs</span></span></span>
+The official record supports the existence of a reported sighting by the Flight 105 crew; it does not support a confident identification of what they saw. The reproduced case-file material classed the event as involving an airline pilot and crew, two groups of objects, sunset conditions, and insufficient information. It also preserved a more cautious internal astronomical note: there appeared to be no astronomical explanation, but changes in visibility at sunset, possible other aircraft, and illusion were considered; the note concluded that no logical explanation seemed possible at that time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/470704emmett_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">470704emmett docs</span><span class="citation-popover-snippet">470704emmett docs</span></span></span>
 
-That distinction matters. The Air Materiel Command wording was not a solved-case demonstration in the modern forensic sense. It was a range of plausible mundane categories offered under poor evidential conditions. The official assessment leaned sceptical, especially because sunset can distort contrast, distance, and apparent motion, but the file did not present recovered material, photographs, radar tracks, or independent ground confirmation that would settle the matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/470704emmett_e.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+That distinction matters. The Air Materiel Command wording was not a solved-case demonstration in the modern forensic sense. It was a range of plausible mundane categories offered under poor evidential conditions. The official assessment leaned sceptical, especially because sunset can distort contrast, distance, and apparent motion, but the file did not present recovered material, photographs, radar tracks, or independent ground confirmation that would settle the matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/470704emmett_e.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-The broader United States Air Force context also matters. The Air Force investigated UFO reports from 1947 to 1969 under programmes later associated with Project Blue Book; the National Archives records 12,618 reported sightings in the Blue Book era, with 701 remaining “unidentified”. The Air Force’s final public position was that no investigated UFO showed evidence of a national-security threat, advanced unknown technology, or extraterrestrial vehicles. Those later conclusions do not individually explain Smith’s sighting, but they frame how the military ultimately treated cases of this kind: as reports to be logged, assessed for security implications, and usually attributed to misidentification or insufficient data rather than exotic craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">the ufo files extract</span><span class="citation-popover-snippet">the ufo files extract</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">unidentified flying objects and air force project blue book</span></span></span>
+The broader United States Air Force context also matters. The Air Force investigated UFO reports from 1947 to 1969 under programmes later associated with Project Blue Book; the National Archives records 12,618 reported sightings in the Blue Book era, with 701 remaining “unidentified”. The Air Force’s final public position was that no investigated UFO showed evidence of a national-security threat, advanced unknown technology, or extraterrestrial vehicles. Those later conclusions do not individually explain Smith’s sighting, but they frame how the military ultimately treated cases of this kind: as reports to be logged, assessed for security implications, and usually attributed to misidentification or insufficient data rather than exotic craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">the ufo files extract</span><span class="citation-popover-snippet">the ufo files extract</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">unidentified flying objects and air force project blue book</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/01sVLTO8xmo" title="24th June 1947: The first widely-reported UFO sighting was made by private pilot Kenneth Arnold" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=01sVLTO8xmo" target="_blank" rel="noopener noreferrer">24th June 1947: The first widely-reported UFO sighting was made by private pilot Kenneth Arnold</a></p><p class="youtube-embed-meta">Channel: HistoryPod &middot; Views: 22.6K &middot; Uploaded: June 2021 &middot; Length: 2 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=01sVLTO8xmo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=01sVLTO8xmo">Open on YouTube</a></p></div></div></div>
 
 ## The strongest and weakest parts of the evidence
 
-The strongest part of the E. J. Smith case is the witness profile. Smith and Stevens were professional aviators, familiar with aircraft, lights, and cockpit judgement. Morrow’s reported corroboration adds a third crew witness. The sighting was not a fleeting one-second flash; accounts usually give a duration around ten to fifteen minutes, long enough for the crew to watch, discuss, call Morrow, and attempt radio checks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/ual105.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Wikipedia The weakest part is the absence of hard corroboration. There were no known photographs taken from Flight 105 <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flight 105 UFO sighting</span><span class="citation-popover-snippet">Flight 105 UFO sighting</span></span></span>, no radar data cited in the case summaries, no recovered object, and no confirmation from the Ontario tower or another nearby United flight. The passengers did not provide independent observation. The descriptions also contain uncertainty on key variables: size, distance, altitude, and exact shape. Smith’s own caution — that they could not say for sure whether the objects were saucer-like or oval — is one of the most valuable details in the record because it resists later overconfident retellings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
+The strongest part of the E. J. Smith case is the witness profile. Smith and Stevens were professional aviators, familiar with aircraft, lights, and cockpit judgement. Morrow’s reported corroboration adds a third crew witness. The sighting was not a fleeting one-second flash; accounts usually give a duration around ten to fifteen minutes, long enough for the crew to watch, discuss, call Morrow, and attempt radio checks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/ual105.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Wikipedia The weakest part is the absence of hard corroboration. There were no known photographs taken from Flight 105<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flight 105 UFO sighting</span><span class="citation-popover-snippet">Flight 105 UFO sighting</span></span></span>, no radar data cited in the case summaries, no recovered object, and no confirmation from the Ontario tower or another nearby United flight. The passengers did not provide independent observation. The descriptions also contain uncertainty on key variables: size, distance, altitude, and exact shape. Smith’s own caution — that they could not say for sure whether the objects were saucer-like or oval — is one of the most valuable details in the record because it resists later overconfident retellings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
 
-The sunset setting cuts both ways. It made the objects easier to silhouette, which may explain why the crew noticed shape and grouping. But sunset also creates exactly the conditions in which distance, relative motion, reflection, and contrast can mislead trained observers. The official file’s emphasis on sunset is therefore not a casual dismissal; it addresses a real weakness in visual-only aerial observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/470704emmett_e.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+The sunset setting cuts both ways. It made the objects easier to silhouette, which may explain why the crew noticed shape and grouping. But sunset also creates exactly the conditions in which distance, relative motion, reflection, and contrast can mislead trained observers. The official file’s emphasis on sunset is therefore not a casual dismissal; it addresses a real weakness in visual-only aerial observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/470704emmett_e.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
 ## Competing interpretations
 
-The conventional explanation is that the Flight 105 crew probably misidentified ordinary objects under difficult viewing conditions. The official list — aircraft, balloons, birds, or illusion — is broad, but each category addresses a different evidential gap: aircraft could explain formation and apparent motion; balloons could explain drifting objects; birds could explain grouped silhouettes; illusion could explain apparent speed, disappearance, or changes in formation at sunset. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/470704emmett_e.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+The conventional explanation is that the Flight 105 crew probably misidentified ordinary objects under difficult viewing conditions. The official list — aircraft, balloons, birds, or illusion — is broad, but each category addresses a different evidential gap: aircraft could explain formation and apparent motion; balloons could explain drifting objects; birds could explain grouped silhouettes; illusion could explain apparent speed, disappearance, or changes in formation at sunset.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/470704emmett_e.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-The pro-UFO interpretation stresses that professional pilots watched the objects for several minutes, could not catch up with them, and did not see normal aircraft features such as wings or tails. James McDonald later treated the case as significant because of clear weather, multiple witnesses, experienced observers, and the reported duration. He also noted Smith’s reluctance to speculate about origin, which makes the case stronger as testimony but weaker as a claim about extraterrestrial or technological identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/ual105.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The pro-UFO interpretation stresses that professional pilots watched the objects for several minutes, could not catch up with them, and did not see normal aircraft features such as wings or tails. James McDonald later treated the case as significant because of clear weather, multiple witnesses, experienced observers, and the reported duration. He also noted Smith’s reluctance to speculate about origin, which makes the case stronger as testimony but weaker as a claim about extraterrestrial or technological identity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/ual105.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A middle position is the most defensible on the public record: the sighting is historically important and genuinely unresolved as a witness report, but it is not strong physical evidence for extraordinary craft. It shows that the 1947 wave included some competent, named witnesses who saw things they could not identify. It does not show what those things were.
 
@@ -804,294 +804,294 @@ A middle position is the most defensible on the public record: the sighting is h
 
 ## How the sighting connects to the wider 1947 dossier
 
-The Smith case belongs beside the Kenneth Arnold sighting, the early press “flying saucer” wave, the Roswell announcement and retraction, and the Maury Island affair, but it should not be blended with them. HistoryLink notes that Arnold and Smith later became involved in investigating the Maury Island claims, which the FBI-linked narrative later treated as fabricated, with alleged debris reduced to pumice and scrap metal. That later episode affected the folklore around Smith and Arnold, but it is not evidence for what Flight 105 saw on 4 July. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/file/2067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[historylink.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-title">Flying Saucers in Washington</span><span class="citation-popover-snippet">Flying Saucers in Washington</span></span></span>
+The Smith case belongs beside the Kenneth Arnold sighting, the early press “flying saucer” wave, the Roswell announcement and retraction, and the Maury Island affair, but it should not be blended with them. HistoryLink notes that Arnold and Smith later became involved in investigating the Maury Island claims, which the FBI-linked narrative later treated as fabricated, with alleged debris reduced to pumice and scrap metal. That later episode affected the folklore around Smith and Arnold, but it is not evidence for what Flight 105 saw on 4 July.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/file/2067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[historylink.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-title">Flying Saucers in Washington</span><span class="citation-popover-snippet">Flying Saucers in Washington</span></span></span>
 
-The case also illustrates how quickly 1947 reports moved between observation, press amplification, military concern, and popular mythology. Newspapers had a powerful appetite for “saucers”; officials were already receiving many reports; and named pilots such as Smith gave the story a seriousness that anonymous sightings lacked. The Spokesman-Review’s retrospective timeline places Smith’s report among the notable incidents of the era and notes that he told reporters he had been sceptical before seeing the discs himself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spokesman.com/stories/2020/jun/23/ufos-over-washington-first-report-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spokesman.com">[Spokesman-Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spokesman.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The case also illustrates how quickly 1947 reports moved between observation, press amplification, military concern, and popular mythology. Newspapers had a powerful appetite for “saucers”; officials were already receiving many reports; and named pilots such as Smith gave the story a seriousness that anonymous sightings lacked. The Spokesman-Review’s retrospective timeline places Smith’s report among the notable incidents of the era and notes that he told reporters he had been sceptical before seeing the discs himself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spokesman.com/stories/2020/jun/23/ufos-over-washington-first-report-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spokesman.com">[Spokesman-Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spokesman.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For a case dossier, the cleanest reading is therefore narrow and disciplined: E. J. Smith’s sighting is the Flight 105 crew report near Boise and Emmett, Idaho, on 4 July 1947. Its evidential value rests on credible aviation witnesses and contemporaneous documentation. Its limitations are equally clear: no instrument record, no physical evidence, no passenger corroboration, and no definitive official explanation. That is why it remains one of the more interesting early UFO reports — not because it proves an exotic answer, but because it shows how a serious unsolved observation could emerge inside a noisy, media-driven national wave.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ap0whDDDU1Y" title="Where Did The Term &#x27;Flying Saucer&#x27; Come From? | Mossback&#x27;s Northwest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ap0whDDDU1Y" target="_blank" rel="noopener noreferrer">Where Did The Term &#x27;Flying Saucer&#x27; Come From? | Mossback&#x27;s Northwest</a></p><p class="youtube-embed-meta">Channel: Cascade PBS &middot; Views: 1.9K &middot; Uploaded: July 2019 &middot; Length: 4 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ap0whDDDU1Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ap0whDDDU1Y">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened on United Flight 105 in 1947?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened on United Flight 105 in 1947?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Contains direct first-hand archival details regarding Captain E.J. Smith&#x27;s iconic 15-minute Boise flight encounter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains direct first-hand archival details regarding Captain E.J. Smith&#x27;s iconic 15-minute Boise flight encounter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
-        </h4>
-        <p class="fr-book-author">By Guy Lawson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+</h4>
+<p class="fr-book-author">By Guy Lawson</p>
         
-        <p class="fr-book-desc">Evaluates the historical value of professional commercial aviator testimonies under strict engineering frameworks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Evaluates the historical value of professional commercial aviator testimonies under strict engineering frameworks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Details how Air Materiel Command processed Flight 105 data records against competing military balloon and bird models.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details how Air Materiel Command processed Flight 105 data records against competing military balloon and bird models.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Breaks down how the Kenneth Arnold headline craze of June 1947 primed the Pacific Northwest region for subsequent visual reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Breaks down how the Kenneth Arnold headline craze of June 1947 primed the Pacific Northwest region for subsequent visual reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Flight 105 UFO sighting  
-   Link: <a href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flight_105_UFO_sighting</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flight_105_UFO_sighting</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nicap.org  
    Title: 470704emmett docs  
-   Link: <a href="https://www.nicap.org/docs/470704emmett_docs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/470704emmett_docs.pdf</a>  
+   Link:<a href="https://www.nicap.org/docs/470704emmett_docs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/470704emmett_docs.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/reports/470704emmett_e.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/470704emmett_e.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/470704emmett_e.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/470704emmett_e.htm</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: historylink.org  
    Title: Flying Saucers in Washington  
-   Link: <a href="https://www.historylink.org/file/2067" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/file/2067</a>  
+   Link:<a href="https://www.historylink.org/file/2067" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/file/2067</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/fig/ual105.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/ual105.htm</a>  
+   Link:<a href="https://www.project1947.com/fig/ual105.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/ual105.htm</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: spokesman.com  
-   Link: <a href="https://www.spokesman.com/stories/2020/jun/23/ufos-over-washington-first-report-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://www.spokesman.com/stories/2020/jun/23/ufos-over-washington-first-report-flying-saucers/</a>  
+   Link:<a href="https://www.spokesman.com/stories/2020/jun/23/ufos-over-washington-first-report-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://www.spokesman.com/stories/2020/jun/23/ufos-over-washington-first-report-flying-saucers/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Flying saucer  
-   Link: <a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Maury Island incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Maury_Island_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Maury_Island_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Maury_Island_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Maury_Island_incident</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: 1947 flying disc craze  
-   Link: <a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: The Report on Unidentified Flying Objects  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: time.graphics  
-   Link: <a href="https://time.graphics/event/10182928" target="_blank" rel="noopener noreferrer nofollow">https://time.graphics/event/10182928</a>  
+   Link:<a href="https://time.graphics/event/10182928" target="_blank" rel="noopener noreferrer nofollow">https://time.graphics/event/10182928</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: project blue book looking to the film record  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/</a>  
+   Link:<a href="https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: aliens at the archives  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/</a>  
+   Link:<a href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: prologue.blogs.archives.gov  
    Title: invasion of privacy  
-   Link: <a href="https://prologue.blogs.archives.gov/2018/04/09/invasion-of-privacy/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/09/invasion-of-privacy/</a>  
+   Link:<a href="https://prologue.blogs.archives.gov/2018/04/09/invasion-of-privacy/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/09/invasion-of-privacy/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: prologue.blogs.archives.gov  
-   Link: <a href="https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf</a>  
+   Link:<a href="https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archives.gov  
    Title: textual and microfilm  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/citizen-archivist/missions" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/citizen-archivist/missions</a>  
+   Link:<a href="https://www.archives.gov/citizen-archivist/missions" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/citizen-archivist/missions</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archives.gov  
    Title: nr20 19  
-   Link: <a href="https://www.archives.gov/press/press-releases/2020/nr20-19" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/press/press-releases/2020/nr20-19</a>  
+   Link:<a href="https://www.archives.gov/press/press-releases/2020/nr20-19" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/press/press-releases/2020/nr20-19</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: vault.fbi.gov  
    Title: Project Blue Book (UFO)  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: douglasdc3.com  
-   Link: <a href="https://www.douglasdc3.com/dc3ufo/dc3ufo.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.douglasdc3.com/dc3ufo/dc3ufo.htm</a>  
+   Link:<a href="https://www.douglasdc3.com/dc3ufo/dc3ufo.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.douglasdc3.com/dc3ufo/dc3ufo.htm</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: history.com  
    Title: s most infamous ufo sightings  
-   Link: <a href="https://www.history.com/articles/historys-most-infamous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/historys-most-infamous-ufo-sightings</a>  
+   Link:<a href="https://www.history.com/articles/historys-most-infamous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/historys-most-infamous-ufo-sightings</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=01sVLTO8xmo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=01sVLTO8xmo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=01sVLTO8xmo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=01sVLTO8xmo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia...</p></details>
    Published: June 1947  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: arewealoneinthisuniverse.fandom.com  
    Title: Flight 105 UFO sighting  
-   Link: <a href="https://arewealoneinthisuniverse.fandom.com/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://arewealoneinthisuniverse.fandom.com/wiki/Flight_105_UFO_sighting</a>  
+   Link:<a href="https://arewealoneinthisuniverse.fandom.com/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://arewealoneinthisuniverse.fandom.com/wiki/Flight_105_UFO_sighting</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: spacedoutclassroom.com  
    Title: flight 105  
-   Link: <a href="https://spacedoutclassroom.com/tag/flight-105/" target="_blank" rel="noopener noreferrer nofollow">https://spacedoutclassroom.com/tag/flight-105/</a>  
+   Link:<a href="https://spacedoutclassroom.com/tag/flight-105/" target="_blank" rel="noopener noreferrer nofollow">https://spacedoutclassroom.com/tag/flight-105/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: the ufo files extract  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Kenneth Arnold and the First UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=qdXNAOxs6mo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qdXNAOxs6mo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>24th June 1947: The first widely-reported UFO sighting was made by private pilot Kenneth Arnold...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qdXNAOxs6mo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qdXNAOxs6mo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>24th June 1947: The first widely-reported UFO sighting was made by private pilot Kenneth Arnold...</p></details>
    Published: June 1947  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: Where Did The Term 'Flying Saucer' Come From? | Mossback's Northwest  
-   Link: <a href="https://www.youtube.com/watch?v=ap0whDDDU1Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ap0whDDDU1Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified The 1947 FBI Flying Disc Files Part 1...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ap0whDDDU1Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ap0whDDDU1Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified The 1947 FBI Flying Disc Files Part 1...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: feralhouse.com  
-   Link: <a href="https://feralhouse.com/wp/wp-content/uploads/2013/11/JFKUFO-Excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://feralhouse.com/wp/wp-content/uploads/2013/11/JFKUFO-Excerpt.pdf</a>  
+   Link:<a href="https://feralhouse.com/wp/wp-content/uploads/2013/11/JFKUFO-Excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://feralhouse.com/wp/wp-content/uploads/2013/11/JFKUFO-Excerpt.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/</a>  
+   Link:<a href="https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/smithsonianmagazine/posts/as-technologies-of-flight-evolve-so-do-the-descriptions-of-unidentified-flying-o/1336095551715965/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/smithsonianmagazine/posts/as-technologies-of-flight-evolve-so-do-the-descriptions-of-unidentified-flying-o/1336095551715965/</a>  
+   Link:<a href="https://www.facebook.com/smithsonianmagazine/posts/as-technologies-of-flight-evolve-so-do-the-descriptions-of-unidentified-flying-o/1336095551715965/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/smithsonianmagazine/posts/as-technologies-of-flight-evolve-so-do-the-descriptions-of-unidentified-flying-o/1336095551715965/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCArchive/posts/onthisday-1954-british-airline-pilot-captain-james-howard-and-his-crew-reported-/486815347076731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/posts/onthisday-1954-british-airline-pilot-captain-james-howard-and-his-crew-reported-/486815347076731/</a>  
+   Link:<a href="https://www.facebook.com/BBCArchive/posts/onthisday-1954-british-airline-pilot-captain-james-howard-and-his-crew-reported-/486815347076731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/posts/onthisday-1954-british-airline-pilot-captain-james-howard-and-his-crew-reported-/486815347076731/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/Portals/1/documents/2021SAF/03_Mar/Constituent_Response_Guide_117th_Congress.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/Portals/1/documents/2021SAF/03_Mar/Constituent_Response_Guide_117th_Congress.pdf</a>  
+   Link:<a href="https://www.af.mil/Portals/1/documents/2021SAF/03_Mar/Constituent_Response_Guide_117th_Congress.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/Portals/1/documents/2021SAF/03_Mar/Constituent_Response_Guide_117th_Congress.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/Portals/1/documents/2024SAF/DAF_CRG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/Portals/1/documents/2024SAF/DAF_CRG.pdf</a>  
+   Link:<a href="https://www.af.mil/Portals/1/documents/2024SAF/DAF_CRG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/Portals/1/documents/2024SAF/DAF_CRG.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/IdahoWeatherWatchers/posts/1427498764605435/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/IdahoWeatherWatchers/posts/1427498764605435/</a>  
+   Link:<a href="https://www.facebook.com/groups/IdahoWeatherWatchers/posts/1427498764605435/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/IdahoWeatherWatchers/posts/1427498764605435/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/</a>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/</a>

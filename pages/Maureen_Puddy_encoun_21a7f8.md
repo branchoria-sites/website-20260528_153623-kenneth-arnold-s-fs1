@@ -758,33 +758,33 @@ image: /assets/images/Maureen_Puddy_encoun_21a7f8-overview-social.jpg
 
 ## Why the 1973 episode starts in 1972
 
-The most careful open-source treatment of the case comes from Australian UFO researcher Keith Basterfield’s 2012 cold-case review, which drew on interviews with investigators Garry Little and Bill Stapleton and on Royal Australian Air Force files later available through the National Archives of Australia. That review gives the first incident as 3 July 1972, not 5 July as some later retellings state. It identifies Puddy as a 37-year-old housewife from Rye, Victoria, driving a 1963 Holden station wagon near Mooraduc Road between Frankston and Dromana after visiting her son in hospital. <span class="citation-chip-wrap"><a class="citation-chip" href="https://malcolmnicholson.wordpress.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malcolmnicholson.wordpress.com">[ufos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malcolmnicholson.wordpress.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most careful open-source treatment of the case comes from Australian UFO researcher Keith Basterfield’s 2012 cold-case review, which drew on interviews with investigators Garry Little and Bill Stapleton and on Royal Australian Air Force files later available through the National Archives of Australia. That review gives the first incident as 3 July 1972, not 5 July as some later retellings state. It identifies Puddy as a 37-year-old housewife from Rye, Victoria, driving a 1963 Holden station wagon near Mooraduc Road between Frankston and Dromana after visiting her son in hospital.<span class="citation-chip-wrap"><a class="citation-chip" href="https://malcolmnicholson.wordpress.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malcolmnicholson.wordpress.com">[ufos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malcolmnicholson.wordpress.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Maureen_Puddy_encoun_21a7f8-overview.webp" | relative_url }}" alt="Overview image for Maureen Puddy encounter 1973" loading="eager" decoding="sync" fetchpriority="high">
-In her RAAF form, Puddy described an exceptionally bright, iridescent blue light above or near the car, a hovering object with no obvious propulsion, and a light sound similar to a lift. The report placed the object roughly near the Mooraduc level crossing and gave a duration of 15 to 20 minutes. Basterfield’s summary of the RAAF file says Puddy reported the incident to Rosebud police and then to the RAAF, which sent her a form she completed and returned. <span class="citation-chip-wrap"><a class="citation-chip" href="https://malcolmnicholson.wordpress.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malcolmnicholson.wordpress.com">[ufos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malcolmnicholson.wordpress.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+In her RAAF form, Puddy described an exceptionally bright, iridescent blue light above or near the car, a hovering object with no obvious propulsion, and a light sound similar to a lift. The report placed the object roughly near the Mooraduc level crossing and gave a duration of 15 to 20 minutes. Basterfield’s summary of the RAAF file says Puddy reported the incident to Rosebud police and then to the RAAF, which sent her a form she completed and returned.<span class="citation-chip-wrap"><a class="citation-chip" href="https://malcolmnicholson.wordpress.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malcolmnicholson.wordpress.com">[ufos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malcolmnicholson.wordpress.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The official-file material does not prove the object was extraordinary, but it matters because it anchors the story in contemporary documentation rather than later folklore. The RAAF unit evaluation, as summarised by Basterfield, recorded no military or civilian aircraft in the area at the time, and noted a meteorological balloon launch from RAAF Laverton at 2300 hours, after the reported event time. A handwritten note by Flight Officer R. O. Gibbs also stated that no military helicopter was operating and that checks had been made with civil aviation and local helicopter operators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://malcolmnicholson.wordpress.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malcolmnicholson.wordpress.com">[ufos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malcolmnicholson.wordpress.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The official-file material does not prove the object was extraordinary, but it matters because it anchors the story in contemporary documentation rather than later folklore. The RAAF unit evaluation, as summarised by Basterfield, recorded no military or civilian aircraft in the area at the time, and noted a meteorological balloon launch from RAAF Laverton at 2300 hours, after the reported event time. A handwritten note by Flight Officer R. O. Gibbs also stated that no military helicopter was operating and that checks had been made with civil aviation and local helicopter operators.<span class="citation-chip-wrap"><a class="citation-chip" href="https://malcolmnicholson.wordpress.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malcolmnicholson.wordpress.com">[ufos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malcolmnicholson.wordpress.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6LNnWxi_lw4" title="UFOs or PILOT error? | The Disappearance of Frederick Valentich" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6LNnWxi_lw4" target="_blank" rel="noopener noreferrer">UFOs or PILOT error? | The Disappearance of Frederick Valentich</a></p><p class="youtube-embed-meta">Channel: Bearing Unknown &middot; Views: 2.1K &middot; Uploaded: December 2025 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6LNnWxi_lw4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6LNnWxi_lw4">Open on YouTube</a></p></div></div></div>
 
 ## The second July incident added the “message”
 
-The second reported encounter, on 25 July 1972, is the bridge between the aerial-sighting case and the later 1973 contact claim. Puddy again said she was travelling home from hospital near the same location at about the same time when blue light lit the road. This time, she reported that the car engine cut out, the car glided to the roadside, and the steering, brakes and gears would not respond normally, while the lights remained on. <span class="citation-chip-wrap"><a class="citation-chip" href="https://malcolmnicholson.wordpress.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malcolmnicholson.wordpress.com">[ufos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malcolmnicholson.wordpress.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The second reported encounter, on 25 July 1972, is the bridge between the aerial-sighting case and the later 1973 contact claim. Puddy again said she was travelling home from hospital near the same location at about the same time when blue light lit the road. This time, she reported that the car engine cut out, the car glided to the roadside, and the steering, brakes and gears would not respond normally, while the lights remained on.<span class="citation-chip-wrap"><a class="citation-chip" href="https://malcolmnicholson.wordpress.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malcolmnicholson.wordpress.com">[ufos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malcolmnicholson.wordpress.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The unusual feature was the voice. According to Basterfield’s reconstruction, Puddy later said the voice seemed to be inside her head and spoke in “perfect English”, telling her that her tests would be negative, that she should tell the media, and that there was no need to panic. After the message, the car allegedly restarted by itself and the object was gone. She again went to Rosebud police and called the RAAF, which sent another form. <span class="citation-chip-wrap"><a class="citation-chip" href="https://malcolmnicholson.wordpress.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malcolmnicholson.wordpress.com">[ufos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malcolmnicholson.wordpress.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The unusual feature was the voice. According to Basterfield’s reconstruction, Puddy later said the voice seemed to be inside her head and spoke in “perfect English”, telling her that her tests would be negative, that she should tell the media, and that there was no need to panic. After the message, the car allegedly restarted by itself and the object was gone. She again went to Rosebud police and called the RAAF, which sent another form.<span class="citation-chip-wrap"><a class="citation-chip" href="https://malcolmnicholson.wordpress.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malcolmnicholson.wordpress.com">[ufos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malcolmnicholson.wordpress.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The RAAF file entry for this second report, as quoted in the cold-case review, treated Puddy’s report together with reports from Beale and Toal witnesses on the same night. Puddy’s form gave 25 July 1972, about 9.15 pm, a fine night, a blue light above the car, no obvious propulsion, no sound, and an object that “just vanished”. Basterfield also records other reports from that evening: Mr and Mrs Beale at Main Ridge reported a high-speed light and power fluctuation; Mr and Mrs Toal at Montrose reported a blue-white object or glow; and the “man with cow” near Mooraduc Road was said to have seen a blue light, although he was apparently not interviewed directly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://malcolmnicholson.wordpress.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malcolmnicholson.wordpress.com">[ufos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malcolmnicholson.wordpress.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The RAAF file entry for this second report, as quoted in the cold-case review, treated Puddy’s report together with reports from Beale and Toal witnesses on the same night. Puddy’s form gave 25 July 1972, about 9.15 pm, a fine night, a blue light above the car, no obvious propulsion, no sound, and an object that “just vanished”. Basterfield also records other reports from that evening: Mr and Mrs Beale at Main Ridge reported a high-speed light and power fluctuation; Mr and Mrs Toal at Montrose reported a blue-white object or glow; and the “man with cow” near Mooraduc Road was said to have seen a blue light, although he was apparently not interviewed directly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://malcolmnicholson.wordpress.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malcolmnicholson.wordpress.com">[ufos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malcolmnicholson.wordpress.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Those surrounding reports are important but limited. They may support the idea that something visible was in the sky over parts of Victoria that night. They do not, by themselves, verify Puddy’s stopped-car experience, the interior voice, or any later entity claim.
 
 <img src="{{ "/assets/images/Maureen_Puddy_encoun_21a7f8-Illustration-1-dark.svg" | relative_url }}" alt="Maureen Puddy encounter 1973 illustration 1" data-theme-src-dark="{{ "/assets/images/Maureen_Puddy_encoun_21a7f8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maureen_Puddy_encoun_21a7f8-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What reportedly happened at the “meeting place” in 1973
 
-Around 22 February 1973, Puddy reportedly heard the voice again and felt compelled to return to the place of contact. Unable to reach Little and Stapleton, she contacted another UFO group, and two investigators arranged to meet her at the site. The investigators are widely identified as Judith Magee and Paul Norman of the Victorian UFO Research Society; Basterfield’s catalogue of Australian abduction cases also names them as the two people present during the later “mental” abduction account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://malcolmnicholson.wordpress.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malcolmnicholson.wordpress.com">[ufos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malcolmnicholson.wordpress.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Around 22 February 1973, Puddy reportedly heard the voice again and felt compelled to return to the place of contact. Unable to reach Little and Stapleton, she contacted another UFO group, and two investigators arranged to meet her at the site. The investigators are widely identified as Judith Magee and Paul Norman of the Victorian UFO Research Society; Basterfield’s catalogue of Australian abduction cases also names them as the two people present during the later “mental” abduction account.<span class="citation-chip-wrap"><a class="citation-chip" href="https://malcolmnicholson.wordpress.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malcolmnicholson.wordpress.com">[ufos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malcolmnicholson.wordpress.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-On the way to the site, Puddy said a man appeared in the passenger seat of her car. She described him as having long blond hair and wearing a pale, satin-like ski suit. She also said the headlights of oncoming cars shone through him, a detail that makes the report difficult to treat as a normal physical passenger claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://malcolmnicholson.wordpress.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malcolmnicholson.wordpress.com">[ufos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malcolmnicholson.wordpress.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+On the way to the site, Puddy said a man appeared in the passenger seat of her car. She described him as having long blond hair and wearing a pale, satin-like ski suit. She also said the headlights of oncoming cars shone through him, a detail that makes the report difficult to treat as a normal physical passenger claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://malcolmnicholson.wordpress.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malcolmnicholson.wordpress.com">[ufos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malcolmnicholson.wordpress.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-At the site, the investigators sat with her in the car. Puddy said the man appeared outside the vehicle and seemed to beckon, but the investigators could not see him. She then entered what Basterfield calls a trance-like state, held an investigator’s hand, and described no longer being in the car but in a round, well-lit room with the 1.6-metre “man” and a strange object or machine. She became distressed because she could see no doors or windows, then woke from the state and reportedly could not remember what she had just described. <span class="citation-chip-wrap"><a class="citation-chip" href="https://malcolmnicholson.wordpress.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malcolmnicholson.wordpress.com">[ufos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malcolmnicholson.wordpress.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+At the site, the investigators sat with her in the car. Puddy said the man appeared outside the vehicle and seemed to beckon, but the investigators could not see him. She then entered what Basterfield calls a trance-like state, held an investigator’s hand, and described no longer being in the car but in a round, well-lit room with the 1.6-metre “man” and a strange object or machine. She became distressed because she could see no doors or windows, then woke from the state and reportedly could not remember what she had just described.<span class="citation-chip-wrap"><a class="citation-chip" href="https://malcolmnicholson.wordpress.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malcolmnicholson.wordpress.com">[ufos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malcolmnicholson.wordpress.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That is the core reason the case remains discussed: the investigators were present for Puddy’s distress and verbal description, but not for the alleged environment she described. The event is therefore not a witnessed abduction in the ordinary sense. It is a witnessed altered-state episode with abduction-like content.
 
@@ -792,26 +792,26 @@ That is the core reason the case remains discussed: the investigators were prese
 
 ## What the evidence can and cannot carry
 
-The strongest parts of the case are not the most dramatic parts. They are the dated RAAF forms, the police and RAAF reporting sequence, the internal consistency of the Mooraduc Road setting, and the existence of at least some same-night reports of blue lights or related phenomena on 25 July. Basterfield’s later catalogue places the Puddy case in the Australian abduction literature, but summarises the 1973 event carefully: the investigators reported that Puddy lapsed into unconsciousness and verbally described the experience; they did not report seeing the craft, entity or room. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kbabduct0505.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Open source on project1947.com.</span></span></span>
+The strongest parts of the case are not the most dramatic parts. They are the dated RAAF forms, the police and RAAF reporting sequence, the internal consistency of the Mooraduc Road setting, and the existence of at least some same-night reports of blue lights or related phenomena on 25 July. Basterfield’s later catalogue places the Puddy case in the Australian abduction literature, but summarises the 1973 event carefully: the investigators reported that Puddy lapsed into unconsciousness and verbally described the experience; they did not report seeing the craft, entity or room.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/kbcat/kbabduct0505.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Open source on project1947.com.</span></span></span>
 
 The weakest parts are the claims that require the largest leap: a non-human entity appearing only to Puddy, a car passenger visible to her but apparently transparent to outside light, and a shift into a round room while her body remained in the car. These details are significant as testimony, but they do not have independent physical support. No trace evidence, medical evidence, photographs, instrument readings or directly interviewed independent witness to the entity appear in the accessible record.
 
-The case also has a dating and retelling problem. Many popular summaries give 5 July 1972 and sometimes describe Puddy as 27, while the RAAF-file-based reconstruction gives 3 July and identifies her as 37. For a serious case page, the file-based version should be preferred, while noting that older magazine retellings and later internet summaries have introduced inconsistencies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://malcolmnicholson.wordpress.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malcolmnicholson.wordpress.com">[ufos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malcolmnicholson.wordpress.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The case also has a dating and retelling problem. Many popular summaries give 5 July 1972 and sometimes describe Puddy as 27, while the RAAF-file-based reconstruction gives 3 July and identifies her as 37. For a serious case page, the file-based version should be preferred, while noting that older magazine retellings and later internet summaries have introduced inconsistencies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://malcolmnicholson.wordpress.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malcolmnicholson.wordpress.com">[ufos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malcolmnicholson.wordpress.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Maureen_Puddy_encoun_21a7f8-Illustration-2-dark.svg" | relative_url }}" alt="Maureen Puddy encounter 1973 illustration 2" data-theme-src-dark="{{ "/assets/images/Maureen_Puddy_encoun_21a7f8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maureen_Puddy_encoun_21a7f8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Competing interpretations
 
-A literal extraterrestrial reading treats the [1972 sightings]({{ '1972-sightings/' | relative_url }}) as close-range craft encounters and the 1973 episode as a form of contact or “mental abduction”. This interpretation gains some force from Puddy’s apparently prompt reporting, the RAAF file material, and the reports of blue lights from other witnesses on 25 July. It is also helped by the investigators’ view that Puddy appeared genuinely frightened rather than simply performing a story. Jerome Clark’s encyclopaedic entry notes Basterfield’s later judgement that those who interviewed Puddy considered her normal and healthy, and that the series of events puzzled her rather than bringing obvious benefit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Extraordinary Encounters</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Extraordinary Encounters</span></span></span>
+A literal extraterrestrial reading treats the [1972 sightings]({{ '1972-sightings/' | relative_url }}) as close-range craft encounters and the 1973 episode as a form of contact or “mental abduction”. This interpretation gains some force from Puddy’s apparently prompt reporting, the RAAF file material, and the reports of blue lights from other witnesses on 25 July. It is also helped by the investigators’ view that Puddy appeared genuinely frightened rather than simply performing a story. Jerome Clark’s encyclopaedic entry notes Basterfield’s later judgement that those who interviewed Puddy considered her normal and healthy, and that the series of events puzzled her rather than bringing obvious benefit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Extraordinary Encounters</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Extraordinary Encounters</span></span></span>
 
-A more cautious interpretation separates the case into layers. The July 1972 events may have involved an unidentified light or object, perhaps with some conventional explanation not recovered from the surviving material. The 25 July vehicle-stop and voice claim is harder to verify. The February 1973 event, because the investigators saw Puddy’s behaviour but not her entity or surroundings, fits more naturally with an altered state of consciousness, dissociation, hallucination, or a psychologically mediated experience than with a fully external abduction. Clark summarises this sceptical value directly: Puddy’s case has been cited as evidence that some experiences believed to be objective may instead be subjective, perhaps occurring in altered states. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Extraordinary Encounters</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Extraordinary Encounters</span></span></span>
+A more cautious interpretation separates the case into layers. The July 1972 events may have involved an unidentified light or object, perhaps with some conventional explanation not recovered from the surviving material. The 25 July vehicle-stop and voice claim is harder to verify. The February 1973 event, because the investigators saw Puddy’s behaviour but not her entity or surroundings, fits more naturally with an altered state of consciousness, dissociation, hallucination, or a psychologically mediated experience than with a fully external abduction. Clark summarises this sceptical value directly: Puddy’s case has been cited as evidence that some experiences believed to be objective may instead be subjective, perhaps occurring in altered states.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Extraordinary Encounters</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Extraordinary Encounters</span></span></span>
 
-Basterfield himself later used the case in a clinical and psychodynamic context. In a 1994 Journal of Near-Death Studies comment, he wrote that Puddy lapsed into unconsciousness in the presence of two UFO researchers and described being in a room with an entity, while also noting major life stresses at the time: an invalid husband, a son in hospital, and concern that she herself might have a brain tumour. His broader point was not that such witnesses should be ridiculed, but that investigators and therapists should put the experiencer’s well-being ahead of proving or disproving the phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digital.library.unt.edu/ark%3A/67531/metadc799126/m2/1/high_res_d/vol12-no4-225.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital.library.unt.edu">[UNT Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital.library.unt.edu</span><span class="citation-popover-title">Digital Library</span><span class="citation-popover-snippet">Digital Library</span></span></span>
+Basterfield himself later used the case in a clinical and psychodynamic context. In a 1994 Journal of Near-Death Studies comment, he wrote that Puddy lapsed into unconsciousness in the presence of two UFO researchers and described being in a room with an entity, while also noting major life stresses at the time: an invalid husband, a son in hospital, and concern that she herself might have a brain tumour. His broader point was not that such witnesses should be ridiculed, but that investigators and therapists should put the experiencer’s well-being ahead of proving or disproving the phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digital.library.unt.edu/ark%3A/67531/metadc799126/m2/1/high_res_d/vol12-no4-225.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital.library.unt.edu">[UNT Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital.library.unt.edu</span><span class="citation-popover-title">Digital Library</span><span class="citation-popover-snippet">Digital Library</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LzOQ5S_wPAk" title="The Chilling PARANORMAL CASE of Maureen Puddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LzOQ5S_wPAk" target="_blank" rel="noopener noreferrer">The Chilling PARANORMAL CASE of Maureen Puddy</a></p><p class="youtube-embed-meta">Channel: Weird World &middot; Views: 21.3K &middot; Uploaded: June 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LzOQ5S_wPAk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LzOQ5S_wPAk">Open on YouTube</a></p></div></div></div>
 
 ## The fairest assessment
 
-The Maureen Puddy encounter is best treated as a layered case rather than a single event. The July 1972 UFO reports have a stronger documentary base than many popular UFO stories because Puddy reported them to police and the RAAF, and because the RAAF paperwork records details such as time, location, weather, aircraft checks and the witness’s own description. The 25 July incident also has partial contextual support from other blue-light reports, though not enough to confirm the stopped-car and voice elements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://malcolmnicholson.wordpress.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malcolmnicholson.wordpress.com">[ufos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malcolmnicholson.wordpress.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Scientific Research <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufos-scientificresearch.blogspot.com/2012/10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific Research Unidentified Anomalous Phenomena</span></span></span>
+The Maureen Puddy encounter is best treated as a layered case rather than a single event. The July 1972 UFO reports have a stronger documentary base than many popular UFO stories because Puddy reported them to police and the RAAF, and because the RAAF paperwork records details such as time, location, weather, aircraft checks and the witness’s own description. The 25 July incident also has partial contextual support from other blue-light reports, though not enough to confirm the stopped-car and voice elements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://malcolmnicholson.wordpress.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malcolmnicholson.wordpress.com">[ufos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malcolmnicholson.wordpress.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Scientific Research<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufos-scientificresearch.blogspot.com/2012/10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific Research Unidentified Anomalous Phenomena</span></span></span>
 
 The February 1973 “meeting place” episode is evidentially different. It is valuable precisely because it was partly observed: two investigators were present to witness Puddy’s distress, altered state and verbal narration. But the content of that narration — the entity, the room, the machine, the absence of doors and windows — was not shared by the observers. That makes the episode one of the more interesting Australian UFO-contact cases, but it also makes it a poor candidate for a straightforward physical-abduction claim.
 
@@ -820,194 +820,194 @@ Its lasting importance is not that it proves alien contact. It is that it sits a
 <img src="{{ "/assets/images/Maureen_Puddy_encoun_21a7f8-Illustration-3-dark.svg" | relative_url }}" alt="Maureen Puddy encounter 1973 illustration 3" data-theme-src-dark="{{ "/assets/images/Maureen_Puddy_encoun_21a7f8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maureen_Puddy_encoun_21a7f8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened on Mooraduc Road?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened on Mooraduc Road?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Profiles the 1972–73 Mornington Peninsula events, detailing the blue disc-like object sightings and the subsequent car stalls.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Profiles the 1972–73 Mornington Peninsula events, detailing the blue disc-like object sightings and the subsequent car stalls.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines the 1973 &#x27;meeting place&#x27; sequence where investigators were present but failed to see the round room or humanoid Puddy described.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the 1973 &#x27;meeting place&#x27; sequence where investigators were present but failed to see the round room or humanoid Puddy described.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xq1vfWIiV1IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xq1vfWIiV1IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
         
-        <p class="fr-book-desc">Breaks down why uncorroborated internal voice claims must face rigorous psychological rather than physical extraterrestrial readings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Breaks down why uncorroborated internal voice claims must face rigorous psychological rather than physical extraterrestrial readings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Provides essential context on Royal Australian Air Force (RAAF) tracking protocols and National Archives of Australia documentation trails.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides essential context on Royal Australian Air Force (RAAF) tracking protocols and National Archives of Australia documentation trails.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="maureen-puddy-encounter-1973-what-really-happened-on-mooraduc-road-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1023,7 +1023,7 @@ Its lasting importance is not that it proves alien contact. It is that it sits a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1043,7 +1043,7 @@ Its lasting importance is not that it proves alien contact. It is that it sits a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1075,7 +1075,7 @@ Its lasting importance is not that it proves alien contact. It is that it sits a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1127,7 +1127,7 @@ Its lasting importance is not that it proves alien contact. It is that it sits a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1172,7 +1172,7 @@ Its lasting importance is not that it proves alien contact. It is that it sits a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1213,133 +1213,133 @@ Its lasting importance is not that it proves alien contact. It is that it sits a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/kbcat/kbabduct0505.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbabduct0505.htm</a>  
+   Link:<a href="https://www.project1947.com/kbcat/kbabduct0505.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbabduct0505.htm</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Extraordinary Encounters"  
-   Link: <a href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ia802901.us.archive.org  
-   Link: <a href="https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf</a>  
+   Link:<a href="https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: digital.library.unt.edu  
    Title: Digital Library  
-   Link: <a href="https://digital.library.unt.edu/ark%3A/67531/metadc799126/m2/1/high_res_d/vol12-no4-225.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digital.library.unt.edu/ark%3A/67531/metadc799126/m2/1/high_res_d/vol12-no4-225.pdf</a>  
+   Link:<a href="https://digital.library.unt.edu/ark%3A/67531/metadc799126/m2/1/high_res_d/vol12-no4-225.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digital.library.unt.edu/ark%3A/67531/metadc799126/m2/1/high_res_d/vol12-no4-225.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: project1947.com  
    Title: “Unusual Aerial Sightings”  
-   Link: <a href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kb_uasgov.htm</a>  
+   Link:<a href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kb_uasgov.htm</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: project1947.com  
    Title: Keith Basterfield  
-   Link: <a href="https://www.project1947.com/kbcat/kbmoreintoz.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbmoreintoz.htm</a>  
+   Link:<a href="https://www.project1947.com/kbcat/kbmoreintoz.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbmoreintoz.htm</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: digital.library.unt.edu  
-   Link: <a href="https://digital.library.unt.edu/ark%3A/67531/metadc799401/m1/29/" target="_blank" rel="noopener noreferrer nofollow">https://digital.library.unt.edu/ark%3A/67531/metadc799401/m1/29/</a>  
+   Link:<a href="https://digital.library.unt.edu/ark%3A/67531/metadc799401/m1/29/" target="_blank" rel="noopener noreferrer nofollow">https://digital.library.unt.edu/ark%3A/67531/metadc799401/m1/29/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: digital.library.unt.edu  
    Title: vol12 no4  
-   Link: <a href="https://digital.library.unt.edu/ark%3A/67531/metadc799401/m2/1/high_res_d/vol12-no4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digital.library.unt.edu/ark%3A/67531/metadc799401/m2/1/high_res_d/vol12-no4.pdf</a>  
+   Link:<a href="https://digital.library.unt.edu/ark%3A/67531/metadc799401/m2/1/high_res_d/vol12-no4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digital.library.unt.edu/ark%3A/67531/metadc799401/m2/1/high_res_d/vol12-no4.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archive.org  
    Title: Full text of "Maji  
-   Link: <a href="https://archive.org/stream/majiall337/ExtraordinaryEncounters_AnEncyclopediaOfExtraterrestrialsAndOtherworldlyBeings_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/majiall337/ExtraordinaryEncounters_AnEncyclopediaOfExtraterrestrialsAndOtherworldlyBeings_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/majiall337/ExtraordinaryEncounters_AnEncyclopediaOfExtraterrestrialsAndOtherworldlyBeings_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/majiall337/ExtraordinaryEncounters_AnEncyclopediaOfExtraterrestrialsAndOtherworldlyBeings_djvu.txt</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ia600600.us.archive.org  
    Title: UFOs The Definitive Casebook LQ2  
-   Link: <a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
+   Link:<a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufo.se  
-   Link: <a href="https://www.ufo.se/index.php?catid=76%3Aartiklar-och-reportage&amp;id=1359%3Aar-vi-ombordtagna&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo.se/index.php?catid=76%3Aartiklar-och-reportage&amp;id=1359%3Aar-vi-ombordtagna&amp;option=com_content&amp;view=article</a>  
+   Link:<a href="https://www.ufo.se/index.php?catid=76%3Aartiklar-och-reportage&amp;id=1359%3Aar-vi-ombordtagna&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo.se/index.php?catid=76%3Aartiklar-och-reportage&amp;id=1359%3Aar-vi-ombordtagna&amp;option=com_content&amp;view=article</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: UFOs Scientific Research Unidentified Anomalous Phenomena  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2012/10/" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2012/10/</a>  
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2012/10/" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2012/10/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Maureen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Maureen</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Maureen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Maureen</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: digitized australian uap related  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2024/07/digitized-australian-uap-related.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2024/07/digitized-australian-uap-related.html</a>  
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2024/07/digitized-australian-uap-related.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2024/07/digitized-australian-uap-related.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: committee members of vfsrsvufors 1959  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2017/11/committee-members-of-vfsrsvufors-1959.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2017/11/committee-members-of-vfsrsvufors-1959.html</a>  
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2017/11/committee-members-of-vfsrsvufors-1959.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2017/11/committee-members-of-vfsrsvufors-1959.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ufos-scientificresearch.blogspot.com  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2015/08/" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2015/08/</a>  
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2015/08/" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2015/08/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ufos-scientificresearch.blogspot.com  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2011/02/" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2011/02/</a>  
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2011/02/" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2011/02/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ufos-scientificresearch.blogspot.com  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2017/11/" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2017/11/</a>  
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2017/11/" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2017/11/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: malcolmnicholson.wordpress.com  
-   Link: <a href="https://malcolmnicholson.wordpress.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://malcolmnicholson.wordpress.com/category/ufos/</a>  
+   Link:<a href="https://malcolmnicholson.wordpress.com/category/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://malcolmnicholson.wordpress.com/category/ufos/</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: UFOs or PILOT error? | The Disappearance of Frederick Valentich  
-   Link: <a href="https://www.youtube.com/watch?v=6LNnWxi_lw4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6LNnWxi_lw4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart reveals the night that convinced him to investigate UFOs | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6LNnWxi_lw4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6LNnWxi_lw4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart reveals the night that convinced him to investigate UFOs | Reality Check...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=VuCPbavls0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VuCPbavls0U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Melbourne UFO Mystery: 50 Years On | Studio 10...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VuCPbavls0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VuCPbavls0U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Melbourne UFO Mystery: 50 Years On | Studio 10...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/313205355_Psychosocial_characteristics_of_abductees_Results_from_the_CUFOS_abduction_project" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313205355_Psychosocial_characteristics_of_abductees_Results_from_the_CUFOS_abduction_project</a>  
+   Link:<a href="https://www.researchgate.net/publication/313205355_Psychosocial_characteristics_of_abductees_Results_from_the_CUFOS_abduction_project" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313205355_Psychosocial_characteristics_of_abductees_Results_from_the_CUFOS_abduction_project</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/43296592/Alien_abduction_experience_definition_neurobiological_profiles_clinical_contexts_and_therapeutic_approaches" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43296592/Alien_abduction_experience_definition_neurobiological_profiles_clinical_contexts_and_therapeutic_approaches</a>  
+   Link:<a href="https://www.academia.edu/43296592/Alien_abduction_experience_definition_neurobiological_profiles_clinical_contexts_and_therapeutic_approaches" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43296592/Alien_abduction_experience_definition_neurobiological_profiles_clinical_contexts_and_therapeutic_approaches</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2017%20No.%203%20May-June%201992.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2017%20No.%203%20May-June%201992.pdf</a>  
+   Link:<a href="https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2017%20No.%203%20May-June%201992.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2017%20No.%203%20May-June%201992.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: codigooculto.com  
-   Link: <a href="https://codigooculto.com/extraterrestre/entidad-alienigena-psiquica-australia/" target="_blank" rel="noopener noreferrer nofollow">https://codigooculto.com/extraterrestre/entidad-alienigena-psiquica-australia/</a>  
+   Link:<a href="https://codigooculto.com/extraterrestre/entidad-alienigena-psiquica-australia/" target="_blank" rel="noopener noreferrer nofollow">https://codigooculto.com/extraterrestre/entidad-alienigena-psiquica-australia/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: johnemackinstitute.org  
-   Link: <a href="https://johnemackinstitute.org/media/French_Christopher_2005_Psychological_and_parapsychological_aspects_of_the_alien_contact_experience.pdf" target="_blank" rel="noopener noreferrer nofollow">https://johnemackinstitute.org/media/French_Christopher_2005_Psychological_and_parapsychological_aspects_of_the_alien_contact_experience.pdf</a>  
+   Link:<a href="https://johnemackinstitute.org/media/French_Christopher_2005_Psychological_and_parapsychological_aspects_of_the_alien_contact_experience.pdf" target="_blank" rel="noopener noreferrer nofollow">https://johnemackinstitute.org/media/French_Christopher_2005_Psychological_and_parapsychological_aspects_of_the_alien_contact_experience.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Paul-Rogers-12/publication/45637819_Individuals_Who_Report_Being_Abducted_by_Aliens_Investigating_the_Differences_in_Fantasy_Proneness_Emotional_Intelligence_and_the_Big_Five_Personality_Factors/links/66042abdb839e05a209d2890/Individuals-Who-Report-Being-Abducted-by-Aliens-Investigating-the-Differences-in-Fantasy-Proneness-Emotional-Intelligence-and-the-Big-Five-Personality-Factors.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Paul-Rogers-12/publication/45637819_Individuals_Who_Report_Being_Abducted_by_Aliens_Investigating_the_Differences_in_Fantasy_Proneness_Emotional_Intelligence_and_the_Big_Five_Personality_Factors/links/66042abdb839e05a209d2890/Individuals-Who-Report-Being-Abducted-by-Aliens-Investigating-the-Differences-in-Fantasy-Proneness-Emotional-Intelligence-and-the-Big-Five-Personality-Factors.pdf</a>  
+   Link:<a href="https://www.researchgate.net/profile/Paul-Rogers-12/publication/45637819_Individuals_Who_Report_Being_Abducted_by_Aliens_Investigating_the_Differences_in_Fantasy_Proneness_Emotional_Intelligence_and_the_Big_Five_Personality_Factors/links/66042abdb839e05a209d2890/Individuals-Who-Report-Being-Abducted-by-Aliens-Investigating-the-Differences-in-Fantasy-Proneness-Emotional-Intelligence-and-the-Big-Five-Personality-Factors.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Paul-Rogers-12/publication/45637819_Individuals_Who_Report_Being_Abducted_by_Aliens_Investigating_the_Differences_in_Fantasy_Proneness_Emotional_Intelligence_and_the_Big_Five_Personality_Factors/links/66042abdb839e05a209d2890/Individuals-Who-Report-Being-Abducted-by-Aliens-Investigating-the-Differences-in-Fantasy-Proneness-Emotional-Intelligence-and-the-Big-Five-Personality-Factors.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: collinsdictionary.com  
-   Link: <a href="https://www.collinsdictionary.com/dictionary/english/maureen" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/maureen</a>  
+   Link:<a href="https://www.collinsdictionary.com/dictionary/english/maureen" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/maureen</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ancestry.com  
-   Link: <a href="https://www.ancestry.com/first-name-meaning/maureen" target="_blank" rel="noopener noreferrer nofollow">https://www.ancestry.com/first-name-meaning/maureen</a>
+   Link:<a href="https://www.ancestry.com/first-name-meaning/maureen" target="_blank" rel="noopener noreferrer nofollow">https://www.ancestry.com/first-name-meaning/maureen</a>

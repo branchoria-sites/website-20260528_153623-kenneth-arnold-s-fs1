@@ -248,14 +248,14 @@ image: /assets/images/Greenhaw_encounter_1_a4bc62_greenhaw_witness_caed22-Illust
 
 ## Introduction
 
-The Falkville “Metal Man” case depends heavily on one person: police chief Jeff Greenhaw. That is both the story’s greatest strength and its biggest weakness. In October 1973, Greenhaw claimed he encountered and photographed a strange metallic figure after responding to a late-night report of a landed UFO near Falkville, Alabama. Because he was a serving police chief rather than a self-described contactee or fringe enthusiast, many readers have treated his testimony as unusually credible. Yet the entire episode also rests on an isolated account with limited corroboration, ambiguous photographs and a chain of events that sceptics believe points more naturally towards a prank or misidentification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">falkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</span></span></span>
+The Falkville “Metal Man” case depends heavily on one person: police chief Jeff Greenhaw. That is both the story’s greatest strength and its biggest weakness. In October 1973, Greenhaw claimed he encountered and photographed a strange metallic figure after responding to a late-night report of a landed UFO near Falkville, Alabama. Because he was a serving police chief rather than a self-described contactee or fringe enthusiast, many readers have treated his testimony as unusually credible. Yet the entire episode also rests on an isolated account with limited corroboration, ambiguous photographs and a chain of events that sceptics believe points more naturally towards a prank or misidentification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">falkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</span></span></span>
 
 <img src="{{ "/assets/images/Greenhaw_encounter_1_a4bc62_greenhaw_witness_caed22-Illustration-1-dark.svg" | relative_url }}" alt="Greenhaw illustration 1" data-theme-src-dark="{{ "/assets/images/Greenhaw_encounter_1_a4bc62_greenhaw_witness_caed22-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Greenhaw_encounter_1_a4bc62_greenhaw_witness_caed22-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The credibility problem is not simply whether Greenhaw lied. A more difficult question runs through the case: could a sincere witness with professional authority still have misread a strange situation under poor conditions? The answer matters because the Falkville incident is often cited as evidence that trained officials sometimes report extraordinary encounters. At the same time, even UFO investigators who accepted that Greenhaw probably believed what he saw later argued that the “Metal Man” itself was likely a hoax. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">falkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</span></span></span>
+The credibility problem is not simply whether Greenhaw lied. A more difficult question runs through the case: could a sincere witness with professional authority still have misread a strange situation under poor conditions? The answer matters because the Falkville incident is often cited as evidence that trained officials sometimes report extraordinary encounters. At the same time, even UFO investigators who accepted that Greenhaw probably believed what he saw later argued that the “Metal Man” itself was likely a hoax.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">falkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</span></span></span>
 
 ## The Call That Sent Greenhaw Into the Field
 
-The encounter began with a phone call from an unidentified woman who reportedly claimed that a spacecraft had landed near her property. Greenhaw later said he was off duty at home when the report came in and that he responded alone, carrying both his revolver and a Polaroid camera. The anonymous caller was never publicly identified, and no independently verified witness emerged to confirm the alleged landed craft. That absence matters because it means the entire known sequence begins and ends with Greenhaw’s account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://new-cryptozoology.fandom.com/wiki/Metal_Man_of_Falkville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: new-cryptozoology.fandom.com">[new-cryptozoology.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">new-cryptozoology.fandom.com</span><span class="citation-popover-title">Metal Man of Falkville &#124; New Cryptozoology Wiki</span><span class="citation-popover-snippet">On the soft, autumn evening of October 17, 1973, Jeff Greenhaw, then 26-year old chief of police of Falkville, Alabama, was just se...</span><span class="citation-popover-meta">Published: October 17, 1973</span></span></span>
+The encounter began with a phone call from an unidentified woman who reportedly claimed that a spacecraft had landed near her property. Greenhaw later said he was off duty at home when the report came in and that he responded alone, carrying both his revolver and a Polaroid camera. The anonymous caller was never publicly identified, and no independently verified witness emerged to confirm the alleged landed craft. That absence matters because it means the entire known sequence begins and ends with Greenhaw’s account.<span class="citation-chip-wrap"><a class="citation-chip" href="https://new-cryptozoology.fandom.com/wiki/Metal_Man_of_Falkville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: new-cryptozoology.fandom.com">[new-cryptozoology.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">new-cryptozoology.fandom.com</span><span class="citation-popover-title">Metal Man of Falkville &#124; New Cryptozoology Wiki</span><span class="citation-popover-snippet">On the soft, autumn evening of October 17, 1973, Jeff Greenhaw, then 26-year old chief of police of Falkville, Alabama, was just se...</span><span class="citation-popover-meta">Published: October 17, 1973</span></span></span>
 
 This missing first witness creates a structural weakness in the case. If the caller genuinely saw something unusual, her testimony could have strengthened the chronology and established that Greenhaw was reacting to an external event rather than inventing one. Instead, researchers are left with a single narrative thread:
 
@@ -268,15 +268,15 @@ This missing first witness creates a structural weakness in the case. If the cal
 
 </div>
 
-No physical evidence from the supposed landing site was ever publicly documented. There were no radar confirmations, multiple police units, recovered materials or independently verified tracks tied conclusively to the figure. The case therefore shifted almost immediately from a UFO-landing report into a witness-credibility dispute centred on Greenhaw himself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">falkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</span></span></span>
+No physical evidence from the supposed landing site was ever publicly documented. There were no radar confirmations, multiple police units, recovered materials or independently verified tracks tied conclusively to the figure. The case therefore shifted almost immediately from a UFO-landing report into a witness-credibility dispute centred on Greenhaw himself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">falkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</span></span></span>
 
-The conditions also favoured confusion. The encounter occurred at night on rural roads illuminated mainly by vehicle headlights and camera flash. Greenhaw described the figure as reflective, smooth and difficult to interpret visually. In exactly those conditions, reflective clothing, aluminium-coated fabric or emergency gear can appear highly unnatural in photographs and brief glimpses. Later sceptical interpretations repeatedly focused on this point. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">falkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</span></span></span>
+The conditions also favoured confusion. The encounter occurred at night on rural roads illuminated mainly by vehicle headlights and camera flash. Greenhaw described the figure as reflective, smooth and difficult to interpret visually. In exactly those conditions, reflective clothing, aluminium-coated fabric or emergency gear can appear highly unnatural in photographs and brief glimpses. Later sceptical interpretations repeatedly focused on this point.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">falkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</span></span></span>
 
 ## Why His Police Badge Gave the Story Weight
 
-Greenhaw’s profession is the main reason the Falkville case survived in UFO literature. Law-enforcement witnesses are often treated as more dependable because their work supposedly trains them to observe carefully, write reports and distinguish ordinary events from suspicious ones. In 1973, Greenhaw was also young and newly appointed, which made the incident feel less like a rehearsed publicity stunt and more like a local official unexpectedly caught inside a bizarre story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cullmantribune.com">[The Cullman Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cullmantribune.com</span><span class="citation-popover-title">do you believe in the metal man</span><span class="citation-popover-snippet">The Cullman TribuneDo you believe in the Metal Man?10 Jul 2021 — On an October night in 1973, the young Falkville Chief of Police, Jeff G...</span></span></span>
+Greenhaw’s profession is the main reason the Falkville case survived in UFO literature. Law-enforcement witnesses are often treated as more dependable because their work supposedly trains them to observe carefully, write reports and distinguish ordinary events from suspicious ones. In 1973, Greenhaw was also young and newly appointed, which made the incident feel less like a rehearsed publicity stunt and more like a local official unexpectedly caught inside a bizarre story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cullmantribune.com">[The Cullman Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cullmantribune.com</span><span class="citation-popover-title">do you believe in the metal man</span><span class="citation-popover-snippet">The Cullman TribuneDo you believe in the Metal Man?10 Jul 2021 — On an October night in 1973, the young Falkville Chief of Police, Jeff G...</span></span></span>
 
-That status influenced media treatment almost immediately. A random civilian claiming to see a metallic humanoid might have been ignored outside local gossip. A police chief with photographs became national copy during the wider 1973 UFO wave in the United States. The timing is important. October 1973 already featured intense public interest in UFO stories, including the Pascagoula abduction case in Mississippi. Falkville entered an atmosphere where extraordinary reports travelled quickly through newspapers and television. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.wikipedia.org/wiki/Homme_de_m%C3%A9tal_de_Falkville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Homme de métal de Falkville</span><span class="citation-popover-snippet">Homme de métal de Falkville</span></span></span>
+That status influenced media treatment almost immediately. A random civilian claiming to see a metallic humanoid might have been ignored outside local gossip. A police chief with photographs became national copy during the wider 1973 UFO wave in the United States. The timing is important. October 1973 already featured intense public interest in UFO stories, including the Pascagoula abduction case in Mississippi. Falkville entered an atmosphere where extraordinary reports travelled quickly through newspapers and television.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.wikipedia.org/wiki/Homme_de_m%C3%A9tal_de_Falkville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Homme de métal de Falkville</span><span class="citation-popover-snippet">Homme de métal de Falkville</span></span></span>
 
 But professional status can also distort perception after the fact. Once Greenhaw publicly committed himself to the encounter, backing away became personally and professionally difficult. He had effectively certified the event through his office. If he later admitted uncertainty, critics could interpret that as incompetence or dishonesty. The badge that initially strengthened the case may therefore have locked him into defending it.
 
@@ -286,9 +286,9 @@ Another complication is that being a police officer does not automatically make 
 
 ## The Photographs Helped — and Hurt — His Credibility
 
-Greenhaw’s four Polaroid photographs remain the core physical evidence. Without them, the Falkville case would probably have faded into the mass of 1970s humanoid stories. The images gave the public something concrete to examine and helped create the enduring “Metal Man” identity associated with the encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">falkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</span></span></span>
+Greenhaw’s four Polaroid photographs remain the core physical evidence. Without them, the Falkville case would probably have faded into the mass of 1970s humanoid stories. The images gave the public something concrete to examine and helped create the enduring “Metal Man” identity associated with the encounter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">falkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</span></span></span>
 
-Yet the photographs are also the strongest argument against interpreting the case as extraterrestrial. The figure appears humanoid, upright and costume-like. Critics quickly argued that the images resembled a person wearing reflective material rather than a non-human entity. NICAP’s later archived commentary bluntly stated that the incident was “most assuredly” a hoax, though not necessarily perpetrated by Greenhaw himself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">falkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</span></span></span>
+Yet the photographs are also the strongest argument against interpreting the case as extraterrestrial. The figure appears humanoid, upright and costume-like. Critics quickly argued that the images resembled a person wearing reflective material rather than a non-human entity. NICAP’s later archived commentary bluntly stated that the incident was “most assuredly” a hoax, though not necessarily perpetrated by Greenhaw himself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">falkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</span></span></span>
 
 Several sceptical explanations circulated over time:
 
@@ -316,7 +316,7 @@ The most balanced interpretations separate two different questions:
 
 Those questions are often wrongly collapsed into one.
 
-Even sceptical investigators have sometimes argued that Greenhaw probably believed his own story. NICAP’s archived assessment suggested the incident may have been “a hoax on” Greenhaw rather than “by” him. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">falkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</span></span></span> That distinction matters because it preserves the possibility that an honest witness encountered a staged prank under confusing conditions.
+Even sceptical investigators have sometimes argued that Greenhaw probably believed his own story. NICAP’s archived assessment suggested the incident may have been “a hoax on” Greenhaw rather than “by” him.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">falkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</span></span></span> That distinction matters because it preserves the possibility that an honest witness encountered a staged prank under confusing conditions.
 
 There are reasons some researchers hesitate to accuse Greenhaw directly of fabrication:
 
@@ -331,18 +331,18 @@ There are reasons some researchers hesitate to accuse Greenhaw directly of fabri
 
 At the same time, sincerity is not proof of accuracy. Witnesses can honestly misinterpret events, especially under stress, darkness and expectation. The broader 1973 UFO climate may also have primed Greenhaw to frame an ambiguous encounter in extraordinary terms.
 
-Another unresolved issue is motive. If the event was a hoax, who staged it and why? Some later rumours suggested local hostility towards Greenhaw and claimed pranksters wanted to embarrass him, though those stories remain difficult to verify conclusively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.wikipedia.org/wiki/Homme_de_m%C3%A9tal_de_Falkville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Homme de métal de Falkville</span><span class="citation-popover-snippet">Homme de métal de Falkville</span></span></span> The lack of a confirmed hoaxer keeps the case open enough for believers to argue that conventional explanations remain incomplete.
+Another unresolved issue is motive. If the event was a hoax, who staged it and why? Some later rumours suggested local hostility towards Greenhaw and claimed pranksters wanted to embarrass him, though those stories remain difficult to verify conclusively.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.wikipedia.org/wiki/Homme_de_m%C3%A9tal_de_Falkville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Homme de métal de Falkville</span><span class="citation-popover-snippet">Homme de métal de Falkville</span></span></span> The lack of a confirmed hoaxer keeps the case open enough for believers to argue that conventional explanations remain incomplete.
 
 ## Ridicule, Firing and the Cost of Reporting
 
-One reason the Falkville case continues to attract attention is the personal fallout that followed. Greenhaw said the encounter transformed his life in destructive ways. Reports over the years describe him becoming the target of ridicule after the photographs circulated nationally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://metacast.app/podcast/mostly-true-alien-stories/jM1Brt2V/the-falkville-metal-man---alabama-s-strangest-alien-encounter/ppwB9dkV" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metacast.app">[Metacast: podcast app with transcripts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metacast.app</span><span class="citation-popover-title">podcast app with transcripts The Falkville Metal Man</span><span class="citation-popover-snippet">podcast app with transcriptsThe Falkville Metal Man - Alabama&#x27;s Strangest Alien...16 Apr 2025 — So despite his solid reputatio...</span></span></span>
+One reason the Falkville case continues to attract attention is the personal fallout that followed. Greenhaw said the encounter transformed his life in destructive ways. Reports over the years describe him becoming the target of ridicule after the photographs circulated nationally.<span class="citation-chip-wrap"><a class="citation-chip" href="https://metacast.app/podcast/mostly-true-alien-stories/jM1Brt2V/the-falkville-metal-man---alabama-s-strangest-alien-encounter/ppwB9dkV" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metacast.app">[Metacast: podcast app with transcripts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metacast.app</span><span class="citation-popover-title">podcast app with transcripts The Falkville Metal Man</span><span class="citation-popover-snippet">podcast app with transcriptsThe Falkville Metal Man - Alabama&#x27;s Strangest Alien...16 Apr 2025 — So despite his solid reputatio...</span></span></span>
 
 The social consequences became part of the mythology of the case:
 
 * He reportedly received threatening phone calls and letters.
 * His reputation in the town deteriorated.
 * He lost his position as police chief within weeks.
-* His home later burned in a suspicious fire according to later retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.xaluannews.com/modules.php?file=article&amp;name=News&amp;sid=3312874" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: xaluannews.com">[Xã Luận Tin Nóng]</a><span class="citation-popover" role="note"><span class="citation-popover-source">xaluannews.com</span><span class="citation-popover-title">Xã Luận Tin Nóng The Alien Encounter Of Police Chief Greenhaw</span><span class="citation-popover-snippet">Xã Luận Tin NóngThe Alien Encounter Of Police Chief Greenhaw - Xã LuậnNovember 10, 2021 — 11 Oct 2021 — A few days after revealing their...</span><span class="citation-popover-meta">Published: November 10, 2021</span></span></span>
+* His home later burned in a suspicious fire according to later retellings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.xaluannews.com/modules.php?file=article&amp;name=News&amp;sid=3312874" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: xaluannews.com">[Xã Luận Tin Nóng]</a><span class="citation-popover" role="note"><span class="citation-popover-source">xaluannews.com</span><span class="citation-popover-title">Xã Luận Tin Nóng The Alien Encounter Of Police Chief Greenhaw</span><span class="citation-popover-snippet">Xã Luận Tin NóngThe Alien Encounter Of Police Chief Greenhaw - Xã LuậnNovember 10, 2021 — 11 Oct 2021 — A few days after revealing their...</span><span class="citation-popover-meta">Published: November 10, 2021</span></span></span>
 
 Believers often present this aftermath as evidence that Greenhaw had no reason to invent the story. From that perspective, he sacrificed stability and credibility by speaking publicly. The argument is simple: people seeking fame usually do not choose a path ending in humiliation and unemployment.
 
@@ -356,201 +356,201 @@ The firing itself is also less straightforward than some paranormal retellings s
 
 The Greenhaw case survives because it sits in an uncomfortable middle ground. The evidence is too weak to establish an extraterrestrial encounter, yet strange enough to resist clean closure. The photographs exist. The witness was real. The chronology is documented. But none of those points resolve the deeper question of what actually happened on the road outside Falkville.
 
-For sceptics, the credibility problem is decisive. The anonymous caller, the lack of corroboration, the costume-like appearance of the figure and the weakness of the photographic evidence all point towards a mundane explanation amplified by the 1973 UFO panic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">falkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</span></span></span>
+For sceptics, the credibility problem is decisive. The anonymous caller, the lack of corroboration, the costume-like appearance of the figure and the weakness of the photographic evidence all point towards a mundane explanation amplified by the 1973 UFO panic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">falkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</span></span></span>
 
 For believers, Greenhaw remains compelling precisely because he does not fit the stereotype of a flamboyant UFO prophet. He was a local police chief who appeared reluctant, embarrassed and personally damaged by the experience. That human dimension keeps the story emotionally persuasive even when the evidence itself remains thin.
 
 The enduring tension in the Falkville case is therefore not whether Jeff Greenhaw existed or whether he took photographs. It is whether professional sincerity should count as evidence when the underlying event remains impossible to verify.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Jeff Greenhaw a Reliable Witness?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Jeff Greenhaw a Reliable Witness?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides the complete background on Jeff Greenhaw&#x27;s 17 October 1973 patrol records and the anonymous woman&#x27;s field landing notification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the complete background on Jeff Greenhaw&#x27;s 17 October 1973 patrol records and the anonymous woman&#x27;s field landing notification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
-        </h4>
-        <p class="fr-book-author">By Guy Lawson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+</h4>
+<p class="fr-book-author">By Guy Lawson</p>
         
-        <p class="fr-book-desc">Examines the severe professional costs, community ridicule, and subsequent dismissal suffered by officials who log exotic anomalies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the severe professional costs, community ridicule, and subsequent dismissal suffered by officials who log exotic anomalies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Details why professional training and community status do not exempt a human brain from common misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details why professional training and community status do not exempt a human brain from common misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Deconstructs how an entirely sincere official witness can still be thoroughly deceived by a coordinated roadside practical prank.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Deconstructs how an entirely sincere official witness can still be thoroughly deceived by a coordinated roadside practical prank.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-jeff-greenhaw-a-reliable-witness-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ The enduring tension in the Falkville case is therefore not whether Jeff Greenha
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ The enduring tension in the Falkville case is therefore not whether Jeff Greenha
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ The enduring tension in the Falkville case is therefore not whether Jeff Greenha
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ The enduring tension in the Falkville case is therefore not whether Jeff Greenha
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ The enduring tension in the Falkville case is therefore not whether Jeff Greenha
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,104 +756,104 @@ The enduring tension in the Falkville case is therefore not whether Jeff Greenha
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/falkville731017dir.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>falkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</p></details>
+   Link:<a href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/falkville731017dir.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>falkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: new-cryptozoology.fandom.com  
    Title: Metal Man of Falkville | New Cryptozoology Wiki  
-   Link: <a href="https://new-cryptozoology.fandom.com/wiki/Metal_Man_of_Falkville" target="_blank" rel="noopener noreferrer nofollow">https://new-cryptozoology.fandom.com/wiki/Metal_Man_of_Falkville</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On the soft, autumn evening of October 17, 1973, Jeff Greenhaw, then 26-year old chief of police of Falkville, Alabama, was just se...</p></details>
+   Link:<a href="https://new-cryptozoology.fandom.com/wiki/Metal_Man_of_Falkville" target="_blank" rel="noopener noreferrer nofollow">https://new-cryptozoology.fandom.com/wiki/Metal_Man_of_Falkville</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On the soft, autumn evening of October 17, 1973, Jeff Greenhaw, then 26-year old chief of police of Falkville, Alabama, was just se...</p></details>
    Published: October 17, 1973  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Homme de métal de Falkville  
-   Link: <a href="https://fr.wikipedia.org/wiki/Homme_de_m%C3%A9tal_de_Falkville" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Homme_de_m%C3%A9tal_de_Falkville</a>  
+   Link:<a href="https://fr.wikipedia.org/wiki/Homme_de_m%C3%A9tal_de_Falkville" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Homme_de_m%C3%A9tal_de_Falkville</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: metacast.app  
    Title: podcast app with transcripts The Falkville Metal Man  
-   Link: <a href="https://metacast.app/podcast/mostly-true-alien-stories/jM1Brt2V/the-falkville-metal-man---alabama-s-strangest-alien-encounter/ppwB9dkV" target="_blank" rel="noopener noreferrer nofollow">https://metacast.app/podcast/mostly-true-alien-stories/jM1Brt2V/the-falkville-metal-man---alabama-s-strangest-alien-encounter/ppwB9dkV</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>podcast app with transcriptsThe Falkville Metal Man - Alabama&#x27;s Strangest Alien...16 Apr 2025 — So despite his solid reputatio...</p></details>
+   Link:<a href="https://metacast.app/podcast/mostly-true-alien-stories/jM1Brt2V/the-falkville-metal-man---alabama-s-strangest-alien-encounter/ppwB9dkV" target="_blank" rel="noopener noreferrer nofollow">https://metacast.app/podcast/mostly-true-alien-stories/jM1Brt2V/the-falkville-metal-man---alabama-s-strangest-alien-encounter/ppwB9dkV</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>podcast app with transcriptsThe Falkville Metal Man - Alabama&#x27;s Strangest Alien...16 Apr 2025 — So despite his solid reputatio...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cryptidz.fandom.com  
    Title: Metal Man  
-   Link: <a href="https://cryptidz.fandom.com/wiki/Metal_Man" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Metal_Man</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Man | Cryptid Wiki - FandomWhen the authorities got involved, the chief Jeff Greenhaw didn&#x27;t see a space ship, but instead something he w...</p></details>
+   Link:<a href="https://cryptidz.fandom.com/wiki/Metal_Man" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Metal_Man</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Man | Cryptid Wiki - FandomWhen the authorities got involved, the chief Jeff Greenhaw didn&#x27;t see a space ship, but instead something he w...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cullmantribune.com  
    Title: do you believe in the metal man  
-   Link: <a href="https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow">https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cullman TribuneDo you believe in the Metal Man?10 Jul 2021 — On an October night in 1973, the young Falkville Chief of Police, Jeff G...</p></details>
+   Link:<a href="https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow">https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cullman TribuneDo you believe in the Metal Man?10 Jul 2021 — On an October night in 1973, the young Falkville Chief of Police, Jeff G...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: xaluannews.com  
    Title: Xã Luận Tin Nóng The Alien Encounter Of Police Chief Greenhaw  
-   Link: <a href="https://www.xaluannews.com/modules.php?file=article&amp;name=News&amp;sid=3312874" target="_blank" rel="noopener noreferrer nofollow">https://www.xaluannews.com/modules.php?file=article&amp;name=News&amp;sid=3312874</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Xã Luận Tin NóngThe Alien Encounter Of Police Chief Greenhaw - Xã LuậnNovember 10, 2021 — 11 Oct 2021 — A few days after revealing their...</p></details>
+   Link:<a href="https://www.xaluannews.com/modules.php?file=article&amp;name=News&amp;sid=3312874" target="_blank" rel="noopener noreferrer nofollow">https://www.xaluannews.com/modules.php?file=article&amp;name=News&amp;sid=3312874</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Xã Luận Tin NóngThe Alien Encounter Of Police Chief Greenhaw - Xã LuậnNovember 10, 2021 — 11 Oct 2021 — A few days after revealing their...</p></details>
    Published: November 10, 2021  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/e8aq57/jeff_greenhaw_the_officer_who_snapped_a_photo_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/e8aq57/jeff_greenhaw_the_officer_who_snapped_a_photo_of/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>n aliens land in his town, he decided to investigate, sensibly taking his gun...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/e8aq57/jeff_greenhaw_the_officer_who_snapped_a_photo_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/e8aq57/jeff_greenhaw_the_officer_who_snapped_a_photo_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n aliens land in his town, he decided to investigate, sensibly taking his gun...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: These images were taken by police chief Jeff Greenhaw  
-   Link: <a href="https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1357301373072701/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1357301373072701/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Greenhaw received a call from an anonymous woman around 10pm; she reported seeing a UFO fall and crash on the property of a man named Bob...</p></details>
+   Link:<a href="https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1357301373072701/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1357301373072701/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Greenhaw received a call from an anonymous woman around 10pm; she reported seeing a UFO fall and crash on the property of a man named Bob...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DQbPh8SEQZr/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQbPh8SEQZr/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in a reflective suit, possibly collecting data before vanishing into...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DQbPh8SEQZr/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQbPh8SEQZr/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in a reflective suit, possibly collecting data before vanishing into...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: 51st anniversary of the Falkville Metal Man [photos](&#123;&#123; 'photos-86a63a/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1g5wbgc/51st_anniversary_of_the_falkville_metal_man/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1g5wbgc/51st_anniversary_of_the_falkville_metal_man/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is...The Falkville Metal Man story originates from an incident on October 17, 1973, when Police Chief Jeff Greenhaw of Falkville, A...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1g5wbgc/51st_anniversary_of_the_falkville_metal_man/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1g5wbgc/51st_anniversary_of_the_falkville_metal_man/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is...The Falkville Metal Man story originates from an incident on October 17, 1973, when Police Chief Jeff Greenhaw of Falkville, A...</p></details>
    Published: October 17, 1973  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: He went to the scene and saw a figure standing there.Read more  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/10uof12/the_falkville_metal_man_in_1973_jeff_greenhaw/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/10uof12/the_falkville_metal_man_in_1973_jeff_greenhaw/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Falkville Metal Man — In 1973, Jeff Greenhaw...In 1973, Jeff Greenhaw, Falkville Chief of Police, received a call about a UFO in a f...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/10uof12/the_falkville_metal_man_in_1973_jeff_greenhaw/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/10uof12/the_falkville_metal_man_in_1973_jeff_greenhaw/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Falkville Metal Man — In 1973, Jeff Greenhaw...In 1973, Jeff Greenhaw, Falkville Chief of Police, received a call about a UFO in a f...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: shadowfrequencypodcast.com  
    Title: the alabama metal man 1973  
-   Link: <a href="https://www.shadowfrequencypodcast.com/the-alabama-metal-man-1973/" target="_blank" rel="noopener noreferrer nofollow">https://www.shadowfrequencypodcast.com/the-alabama-metal-man-1973/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alabama Metal Man (1973)25 Oct 2025 — On October 17, 1973, Falkville Police Chief Jeff Greenhaw captured four Polaroids of a gleaming...</p></details>
+   Link:<a href="https://www.shadowfrequencypodcast.com/the-alabama-metal-man-1973/" target="_blank" rel="noopener noreferrer nofollow">https://www.shadowfrequencypodcast.com/the-alabama-metal-man-1973/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Alabama Metal Man (1973)25 Oct 2025 — On October 17, 1973, Falkville Police Chief Jeff Greenhaw captured four Polaroids of a gleaming...</p></details>
    Published: October 17, 1973  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/episode/0iM3U7GTIAzFDP4bURg9xI" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/0iM3U7GTIAzFDP4bURg9xI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.com#18: Falkville Metal Man - The Cryptonaut PodcastIn October of 1973 the police chief of Falkville, Alabama Jeff Greenhaw inves...</p></details>
+   Link:<a href="https://open.spotify.com/episode/0iM3U7GTIAzFDP4bURg9xI" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/0iM3U7GTIAzFDP4bURg9xI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.com#18: Falkville Metal Man - The Cryptonaut PodcastIn October of 1973 the police chief of Falkville, Alabama Jeff Greenhaw inves...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: podscripts.co  
    Title: This Paranormal Life  
-   Link: <a href="https://podscripts.co/podcasts/this-paranormal-life/407-the-mystery-of-the-metal-man" target="_blank" rel="noopener noreferrer nofollow">https://podscripts.co/podcasts/this-paranormal-life/407-the-mystery-of-the-metal-man</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>#407 The Mystery of The Metal Man...25 Feb 2025 — In 1973, a young Falkville Chief of Police, Jeff Greenhaw was called out to investigat...</p></details>
+   Link:<a href="https://podscripts.co/podcasts/this-paranormal-life/407-the-mystery-of-the-metal-man" target="_blank" rel="noopener noreferrer nofollow">https://podscripts.co/podcasts/this-paranormal-life/407-the-mystery-of-the-metal-man</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#407 The Mystery of The Metal Man...25 Feb 2025 — In 1973, a young Falkville Chief of Police, Jeff Greenhaw was called out to investigat...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: strangeco.blogspot.com  
    Title: jeff and metal man  
-   Link: <a href="https://strangeco.blogspot.com/2025/01/jeff-and-metal-man.html" target="_blank" rel="noopener noreferrer nofollow">https://strangeco.blogspot.com/2025/01/jeff-and-metal-man.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jeff and the Metal Man13 Jan 2025 — The bemused cop took out his Polaroid camera and snapped a few photos of the figure. As he did so, Me...</p></details>
+   Link:<a href="https://strangeco.blogspot.com/2025/01/jeff-and-metal-man.html" target="_blank" rel="noopener noreferrer nofollow">https://strangeco.blogspot.com/2025/01/jeff-and-metal-man.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jeff and the Metal Man13 Jan 2025 — The bemused cop took out his Polaroid camera and snapped a few photos of the figure. As he did so, Me...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: staticradio.com  
-   Link: <a href="https://www.staticradio.com/2025/11/27/falkville-metal-man-with-jokester-joe/" target="_blank" rel="noopener noreferrer nofollow">https://www.staticradio.com/2025/11/27/falkville-metal-man-with-jokester-joe/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Falkville Metal Man with Jokester Joe | Static Radio27 Nov 2025 — Falkville Metal Man, a UFO story involving a police chief named Jeff Gr...</p></details>
+   Link:<a href="https://www.staticradio.com/2025/11/27/falkville-metal-man-with-jokester-joe/" target="_blank" rel="noopener noreferrer nofollow">https://www.staticradio.com/2025/11/27/falkville-metal-man-with-jokester-joe/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Falkville Metal Man with Jokester Joe | Static Radio27 Nov 2025 — Falkville Metal Man, a UFO story involving a police chief named Jeff Gr...</p></details>

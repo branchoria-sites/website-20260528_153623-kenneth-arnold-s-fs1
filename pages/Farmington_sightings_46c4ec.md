@@ -764,22 +764,22 @@ According to contemporary newspaper reporting and later retellings, the core sig
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* **Appeared in large numbers**, with some contemporary estimates suggesting several hundred seen at once. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/1950-the-farmington-ufo-armada/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1950 the farmington ufo armada</span><span class="citation-popover-snippet">Think About It Docs1950: The Farmington UFO ArmadaMay 10, 2013...</span><span class="citation-popover-meta">Published: May 10, 2013</span></span></span>
-* **Moved rapidly and manoeuvred in ways atypical of conventional aircraft**, such as sudden directional changes or right‑angle turns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/1950-the-farmington-ufo-armada/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1950 the farmington ufo armada</span><span class="citation-popover-snippet">Think About It Docs1950: The Farmington UFO ArmadaMay 10, 2013...</span><span class="citation-popover-meta">Published: May 10, 2013</span></span></span>
-* Were observed by a broad cross‑section of the community, including civilians on Main Street, business owners, and local officials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unexplained-mysteries.com/news/335563/farmington-mass-ufo-sighting-marks-70-years" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained-mysteries.com">[unexplained-mysteries.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-title">Farmington mass UFO sighting marks 70 years &#124; Unexplained Mysteries</span><span class="citation-popover-snippet">Farmington mass UFO sighting marks 70 years &#124; Unexplained Mysteries</span></span></span>
+* **Appeared in large numbers**, with some contemporary estimates suggesting several hundred seen at once.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/1950-the-farmington-ufo-armada/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1950 the farmington ufo armada</span><span class="citation-popover-snippet">Think About It Docs1950: The Farmington UFO ArmadaMay 10, 2013...</span><span class="citation-popover-meta">Published: May 10, 2013</span></span></span>
+* **Moved rapidly and manoeuvred in ways atypical of conventional aircraft**, such as sudden directional changes or right‑angle turns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/1950-the-farmington-ufo-armada/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1950 the farmington ufo armada</span><span class="citation-popover-snippet">Think About It Docs1950: The Farmington UFO ArmadaMay 10, 2013...</span><span class="citation-popover-meta">Published: May 10, 2013</span></span></span>
+* Were observed by a broad cross‑section of the community, including civilians on Main Street, business owners, and local officials.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unexplained-mysteries.com/news/335563/farmington-mass-ufo-sighting-marks-70-years" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained-mysteries.com">[unexplained-mysteries.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-title">Farmington mass UFO sighting marks 70 years &#124; Unexplained Mysteries</span><span class="citation-popover-snippet">Farmington mass UFO sighting marks 70 years &#124; Unexplained Mysteries</span></span></span>
 
 </div>
 
-Clayton J. Boddy, then business manager of the *Farmington Daily Times* and a former Army engineer, was quoted in the local press saying that objects appeared “all of a sudden” in the morning sky and that “there appeared to be about 500 of them”. Boddy and others asserted the formations flew at altitudes they estimated well above typical aircraft and at high speeds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/1950-the-farmington-ufo-armada/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1950 the farmington ufo armada</span><span class="citation-popover-snippet">Think About It Docs1950: The Farmington UFO ArmadaMay 10, 2013...</span><span class="citation-popover-meta">Published: May 10, 2013</span></span></span>
+Clayton J. Boddy, then business manager of the *Farmington Daily Times* and a former Army engineer, was quoted in the local press saying that objects appeared “all of a sudden” in the morning sky and that “there appeared to be about 500 of them”. Boddy and others asserted the formations flew at altitudes they estimated well above typical aircraft and at high speeds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/1950-the-farmington-ufo-armada/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1950 the farmington ufo armada</span><span class="citation-popover-snippet">Think About It Docs1950: The Farmington UFO ArmadaMay 10, 2013...</span><span class="citation-popover-meta">Published: May 10, 2013</span></span></span>
 
-Eyewitness accounts collected years later by UFO historians include recollections from individuals who were children at the time, describing shifting formations of points or discs in the sky and repeated sightings over the course of days. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theufochronicles.com/2015/12/eyewitness-account-of-1950-farmington.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[theufochronicles.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">eyewitness account of 1950 farmington</span><span class="citation-popover-snippet">UFO ArmadaDecember 13, 2015...</span><span class="citation-popover-meta">Published: December 13, 2015</span></span></span>
+Eyewitness accounts collected years later by UFO historians include recollections from individuals who were children at the time, describing shifting formations of points or discs in the sky and repeated sightings over the course of days.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theufochronicles.com/2015/12/eyewitness-account-of-1950-farmington.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[theufochronicles.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">eyewitness account of 1950 farmington</span><span class="citation-popover-snippet">UFO ArmadaDecember 13, 2015...</span><span class="citation-popover-meta">Published: December 13, 2015</span></span></span>
 
 <img src="{{ "/assets/images/Farmington_sightings_46c4ec-Illustration-1-dark.svg" | relative_url }}" alt="Farmington sightings 1950 illustration 1" data-theme-src-dark="{{ "/assets/images/Farmington_sightings_46c4ec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Farmington_sightings_46c4ec-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Contemporary Coverage and Documentation
 
-At the time, the *Farmington Daily Times* ran headlines about the sightings, and regional interest was significant enough that magazines such as *True Magazine* reportedly took notice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theufochronicles.com/2013/03/true-magazine-tasked-to-investigate-new.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[theufochronicles.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">true magazine tasked to investigate new</span><span class="citation-popover-snippet">True Magazine&#x27; Tasked To Investigate New Mexico Town&#x27;s Mass Daylight UFO Sighting &#124; UFO CHRONICLE 3-21-1950March 21, 1950...</span><span class="citation-popover-meta">Published: March 21, 1950</span></span></span> A reprint of the March 18, 1950 news article *HUGE ‘SAUCER’ ARMADA JOLTS FARMINGTON* conveys the sense of a community buzzing with eyewitness reports and the newspaper office inundated with calls from residents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theufochronicles.com/2007/05/huge-saucer-armada-jolts-farmington.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[theufochronicles.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">huge saucer armada jolts farmington</span><span class="citation-popover-snippet">HUGE &#x27;SAUCER&#x27; ARMADA JOLTS FARMINGTONMarch 18, 1950...</span><span class="citation-popover-meta">Published: March 18, 1950</span></span></span>
+At the time, the *Farmington Daily Times* ran headlines about the sightings, and regional interest was significant enough that magazines such as *True Magazine* reportedly took notice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theufochronicles.com/2013/03/true-magazine-tasked-to-investigate-new.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[theufochronicles.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">true magazine tasked to investigate new</span><span class="citation-popover-snippet">True Magazine&#x27; Tasked To Investigate New Mexico Town&#x27;s Mass Daylight UFO Sighting &#124; UFO CHRONICLE 3-21-1950March 21, 1950...</span><span class="citation-popover-meta">Published: March 21, 1950</span></span></span> A reprint of the March 18, 1950 news article *HUGE ‘SAUCER’ ARMADA JOLTS FARMINGTON* conveys the sense of a community buzzing with eyewitness reports and the newspaper office inundated with calls from residents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theufochronicles.com/2007/05/huge-saucer-armada-jolts-farmington.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[theufochronicles.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">huge saucer armada jolts farmington</span><span class="citation-popover-snippet">HUGE &#x27;SAUCER&#x27; ARMADA JOLTS FARMINGTONMarch 18, 1950...</span><span class="citation-popover-meta">Published: March 18, 1950</span></span></span>
 
-Despite this flurry of local documentation, **there is no widely acknowledged official photographic archive or government‑released visual evidence directly tied to Farmington itself** from that period that survives in major archives. UFO enthusiasts circulate some historical images alleged to be connected with the event, but their provenance and direct linkage to Farmington remain contested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=40I1C0a7KI8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube UFO Over Farmington, New Mexico</span><span class="citation-popover-snippet">UFO Over Farmington, New Mexico March 17, 1950 - YouTubeOctober 10, 2013...</span><span class="citation-popover-meta">Published: March 17, 1950</span></span></span>
+Despite this flurry of local documentation, **there is no widely acknowledged official photographic archive or government‑released visual evidence directly tied to Farmington itself** from that period that survives in major archives. UFO enthusiasts circulate some historical images alleged to be connected with the event, but their provenance and direct linkage to Farmington remain contested.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=40I1C0a7KI8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube UFO Over Farmington, New Mexico</span><span class="citation-popover-snippet">UFO Over Farmington, New Mexico March 17, 1950 - YouTubeOctober 10, 2013...</span><span class="citation-popover-meta">Published: March 17, 1950</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/40I1C0a7KI8" title="UFO Over Farmington, New Mexico March 17, 1950" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=40I1C0a7KI8" target="_blank" rel="noopener noreferrer">UFO Over Farmington, New Mexico March 17, 1950</a></p><p class="youtube-embed-meta">Channel: OpenMindsTV &middot; Views: 17.7K &middot; Uploaded: October 2013 &middot; Length: 3 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=40I1C0a7KI8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=40I1C0a7KI8">Open on YouTube</a></p></div></div></div>
 
@@ -789,13 +789,13 @@ In the decades since 1950, interpretations of the Farmington sightings have dive
 
 **1. UFO/UAP proponents:**
 
-Many who study post‑war UFO history regard Farmington as one of the more striking mass sightings, noting the repeated daytime reports, large number of witnesses, and descriptions of unusual motion. Some researchers have connected the event to other 1950s Southwest sightings and speculate about unexplained aerial phenomena across the region. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.davidmarlerufo.com/farmington-nm-1950" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: davidmarlerufo.com">[davidmarlerufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">davidmarlerufo.com</span><span class="citation-popover-title">farmington nm 1950</span><span class="citation-popover-snippet">farmington nm 1950</span></span></span>
+Many who study post‑war UFO history regard Farmington as one of the more striking mass sightings, noting the repeated daytime reports, large number of witnesses, and descriptions of unusual motion. Some researchers have connected the event to other 1950s Southwest sightings and speculate about unexplained aerial phenomena across the region.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.davidmarlerufo.com/farmington-nm-1950" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: davidmarlerufo.com">[davidmarlerufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">davidmarlerufo.com</span><span class="citation-popover-title">farmington nm 1950</span><span class="citation-popover-snippet">farmington nm 1950</span></span></span>
 
 **2. Contemporary official [explanations]({{ 'explanations-a12ff1/' | relative_url }}):**
 
-While there is no widely cited formal U.S. Air Force Project Blue Book file specifically dedicated to Farmington in declassified archives, broader documentation from 1950 shows that military interest in unidentified aerial phenomena was active at the time. In other parts of New Mexico around 1948–1950, declassified Department of War files note hundreds of reported sightings of “green orbs,” “discs,” and fireballs near military facilities (though these records are general and not explicitly Farmington town reports). <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufo-declassified.com/documents/release-02-file-003-dow-uap-d017-uap-reported-at-sandia-base-1948-1950" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-declassified.com">[UFO Declassified]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-declassified.com</span><span class="citation-popover-title">UFO Declassified DOW-UAP-D017</span><span class="citation-popover-snippet">UFO DeclassifiedDOW-UAP-D017 - UAP Reported at Sandia Base, 1948-1950 &#124; UFO DeclassifiedMay 22, 2026...</span><span class="citation-popover-meta">Published: May 22, 2026</span></span></span>
+While there is no widely cited formal U.S. Air Force Project Blue Book file specifically dedicated to Farmington in declassified archives, broader documentation from 1950 shows that military interest in unidentified aerial phenomena was active at the time. In other parts of New Mexico around 1948–1950, declassified Department of War files note hundreds of reported sightings of “green orbs,” “discs,” and fireballs near military facilities (though these records are general and not explicitly Farmington town reports).<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufo-declassified.com/documents/release-02-file-003-dow-uap-d017-uap-reported-at-sandia-base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-declassified.com">[UFO Declassified]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-declassified.com</span><span class="citation-popover-title">UFO Declassified DOW-UAP-D017</span><span class="citation-popover-snippet">UFO DeclassifiedDOW-UAP-D017 - UAP Reported at Sandia Base, 1948-1950 &#124; UFO DeclassifiedMay 22, 2026...</span><span class="citation-popover-meta">Published: May 22, 2026</span></span></span>
 
-Unexplained Mysteries, a long‑running compilation of anomalous cases, summarises that **an official conclusion at the time attributed some of the Farmington reports to fragments of a high‑altitude U.S. Navy Skyhook balloon**, a type of research balloon used in atmospheric studies and stratospheric sampling. This explanation suggests that what many residents saw may have been balloon debris or related artefacts rather than anomalous craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unexplained-mysteries.com/news/335563/farmington-mass-ufo-sighting-marks-70-years" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained-mysteries.com">[unexplained-mysteries.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-title">Farmington mass UFO sighting marks 70 years &#124; Unexplained Mysteries</span><span class="citation-popover-snippet">Farmington mass UFO sighting marks 70 years &#124; Unexplained Mysteries</span></span></span>
+Unexplained Mysteries, a long‑running compilation of anomalous cases, summarises that **an official conclusion at the time attributed some of the Farmington reports to fragments of a high‑altitude U.S. Navy Skyhook balloon**, a type of research balloon used in atmospheric studies and stratospheric sampling. This explanation suggests that what many residents saw may have been balloon debris or related artefacts rather than anomalous craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unexplained-mysteries.com/news/335563/farmington-mass-ufo-sighting-marks-70-years" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained-mysteries.com">[unexplained-mysteries.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-title">Farmington mass UFO sighting marks 70 years &#124; Unexplained Mysteries</span><span class="citation-popover-snippet">Farmington mass UFO sighting marks 70 years &#124; Unexplained Mysteries</span></span></span>
 
 **3. Skeptical analyses:**
 
@@ -809,7 +809,7 @@ Skeptics point to the lack of surviving, verifiable physical evidence—such as 
 
 </div>
 
-While these explanations cannot be confirmed retroactively, the absence of definitive photographic, radar, or declassified investigative records linked solely to Farmington tempers claims of extraordinary technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unexplained-mysteries.com/news/335563/farmington-mass-ufo-sighting-marks-70-years" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained-mysteries.com">[unexplained-mysteries.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-title">Farmington mass UFO sighting marks 70 years &#124; Unexplained Mysteries</span><span class="citation-popover-snippet">Farmington mass UFO sighting marks 70 years &#124; Unexplained Mysteries</span></span></span>
+While these explanations cannot be confirmed retroactively, the absence of definitive photographic, radar, or declassified investigative records linked solely to Farmington tempers claims of extraordinary technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unexplained-mysteries.com/news/335563/farmington-mass-ufo-sighting-marks-70-years" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained-mysteries.com">[unexplained-mysteries.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-title">Farmington mass UFO sighting marks 70 years &#124; Unexplained Mysteries</span><span class="citation-popover-snippet">Farmington mass UFO sighting marks 70 years &#124; Unexplained Mysteries</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_jov2cEVuhw" title="Lecture on UFO Mass Sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_jov2cEVuhw" target="_blank" rel="noopener noreferrer">Lecture on UFO Mass Sighting</a></p><p class="youtube-embed-meta">Channel: KOAT &middot; Views: 2.7K &middot; Uploaded: December 2015 &middot; Length: 1 minute 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_jov2cEVuhw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_jov2cEVuhw">Open on YouTube</a></p></div></div></div>
 
@@ -820,201 +820,201 @@ While these explanations cannot be confirmed retroactively, the absence of defin
 
 The Farmington sightings are remembered locally and within UFO enthusiast communities as a notable mass sighting event from the early post‑war period. Its status as a **multi‑day, daytime mass sighting** sets it apart from many other reports that are limited to single observers or brief nocturnal flashes.
 
-Over the years, recollections from surviving witnesses, presentations at UFO conferences, and occasional online discussions have kept the narrative alive, though mainstream historical and scientific treatment of the case remains limited. There is no consensus explanation that reconciles all eyewitness testimonies with definitive empirical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unexplained-mysteries.com/news/335563/farmington-mass-ufo-sighting-marks-70-years" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained-mysteries.com">[unexplained-mysteries.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-title">Farmington mass UFO sighting marks 70 years &#124; Unexplained Mysteries</span><span class="citation-popover-snippet">Farmington mass UFO sighting marks 70 years &#124; Unexplained Mysteries</span></span></span>
+Over the years, recollections from surviving witnesses, presentations at UFO conferences, and occasional online discussions have kept the narrative alive, though mainstream historical and scientific treatment of the case remains limited. There is no consensus explanation that reconciles all eyewitness testimonies with definitive empirical evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unexplained-mysteries.com/news/335563/farmington-mass-ufo-sighting-marks-70-years" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained-mysteries.com">[unexplained-mysteries.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-title">Farmington mass UFO sighting marks 70 years &#124; Unexplained Mysteries</span><span class="citation-popover-snippet">Farmington mass UFO sighting marks 70 years &#124; Unexplained Mysteries</span></span></span>
 
-In UFO historiography, the Farmington event occupies a niche as **a dramatic and densely witnessed historical sighting with contrasting interpretations**, illustrating broader themes in mid‑20th‑century anomalous aerial reports: enthusiastic local coverage, community memory, and the challenge of reconciling eyewitness testimony with conventional explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Farmington%2C_New_Mexico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Farmington, New Mexico</span><span class="citation-popover-snippet">Farmington, New Mexico</span></span></span>
+In UFO historiography, the Farmington event occupies a niche as **a dramatic and densely witnessed historical sighting with contrasting interpretations**, illustrating broader themes in mid‑20th‑century anomalous aerial reports: enthusiastic local coverage, community memory, and the challenge of reconciling eyewitness testimony with conventional explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Farmington%2C_New_Mexico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Farmington, New Mexico</span><span class="citation-popover-snippet">Farmington, New Mexico</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jUzzNL6iCUg" title="Ultimate 1950s Flying Saucer, UFO, and Alien Encounter Movies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jUzzNL6iCUg" target="_blank" rel="noopener noreferrer">Ultimate 1950s Flying Saucer, UFO, and Alien Encounter Movies</a></p><p class="youtube-embed-meta">Channel: RerunZone &middot; Views: 135.6K &middot; Uploaded: February 2025 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jUzzNL6iCUg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jUzzNL6iCUg">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened Over Farmington?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened Over Farmington?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides an objective history of the 1950 Farmington armada, comparing witness claims against contemporary media reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides an objective history of the 1950 Farmington armada, comparing witness claims against contemporary media reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Documents how the Air Force handled mass sighting reports and public panic waves during the early UFO era.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents how the Air Force handled mass sighting reports and public panic waves during the early UFO era.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches forensic methodologies to evaluate mass sighting reports and identify signs of social contagion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches forensic methodologies to evaluate mass sighting reports and identify signs of social contagion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Provides institutional background on how 1950s investigative bureaus indexed and eventually debunked mass aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides institutional background on how 1950s investigative bureaus indexed and eventually debunked mass aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-farmington-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-farmington-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1030,7 +1030,7 @@ In UFO historiography, the Farmington event occupies a niche as **a dramatic and
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1050,7 +1050,7 @@ In UFO historiography, the Farmington event occupies a niche as **a dramatic and
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1082,7 +1082,7 @@ In UFO historiography, the Farmington event occupies a niche as **a dramatic and
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1134,7 +1134,7 @@ In UFO historiography, the Farmington event occupies a niche as **a dramatic and
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1179,7 +1179,7 @@ In UFO historiography, the Farmington event occupies a niche as **a dramatic and
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1220,142 +1220,142 @@ In UFO historiography, the Farmington event occupies a niche as **a dramatic and
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Farmington, New Mexico  
-   Link: <a href="https://en.wikipedia.org/wiki/Farmington%2C_New_Mexico" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Farmington%2C_New_Mexico</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Farmington%2C_New_Mexico" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Farmington%2C_New_Mexico</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: unexplained-mysteries.com  
    Title: Farmington mass UFO sighting marks 70 years | Unexplained Mysteries  
-   Link: <a href="https://www.unexplained-mysteries.com/news/335563/farmington-mass-ufo-sighting-marks-70-years" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/news/335563/farmington-mass-ufo-sighting-marks-70-years</a>  
+   Link:<a href="https://www.unexplained-mysteries.com/news/335563/farmington-mass-ufo-sighting-marks-70-years" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/news/335563/farmington-mass-ufo-sighting-marks-70-years</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: theufochronicles.com  
    Title: eyewitness account of 1950 farmington  
-   Link: <a href="https://www.theufochronicles.com/2015/12/eyewitness-account-of-1950-farmington.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2015/12/eyewitness-account-of-1950-farmington.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ArmadaDecember 13, 2015...</p></details>
+   Link:<a href="https://www.theufochronicles.com/2015/12/eyewitness-account-of-1950-farmington.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2015/12/eyewitness-account-of-1950-farmington.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ArmadaDecember 13, 2015...</p></details>
    Published: December 13, 2015  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: theufochronicles.com  
    Title: true magazine tasked to investigate new  
-   Link: <a href="https://www.theufochronicles.com/2013/03/true-magazine-tasked-to-investigate-new.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2013/03/true-magazine-tasked-to-investigate-new.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;True Magazine&#x27; Tasked To Investigate New Mexico Town&#x27;s Mass Daylight UFO Sighting | UFO CHRONICLE 3-21-1950March 21, 1950...</p></details>
+   Link:<a href="https://www.theufochronicles.com/2013/03/true-magazine-tasked-to-investigate-new.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2013/03/true-magazine-tasked-to-investigate-new.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;True Magazine&#x27; Tasked To Investigate New Mexico Town&#x27;s Mass Daylight UFO Sighting | UFO CHRONICLE 3-21-1950March 21, 1950...</p></details>
    Published: March 21, 1950  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: theufochronicles.com  
    Title: huge saucer armada jolts farmington  
-   Link: <a href="https://www.theufochronicles.com/2007/05/huge-saucer-armada-jolts-farmington.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2007/05/huge-saucer-armada-jolts-farmington.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HUGE &#x27;SAUCER&#x27; ARMADA JOLTS FARMINGTONMarch 18, 1950...</p></details>
+   Link:<a href="https://www.theufochronicles.com/2007/05/huge-saucer-armada-jolts-farmington.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2007/05/huge-saucer-armada-jolts-farmington.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HUGE &#x27;SAUCER&#x27; ARMADA JOLTS FARMINGTONMarch 18, 1950...</p></details>
    Published: March 18, 1950  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: You Tube UFO Over Farmington, New Mexico  
-   Link: <a href="https://www.youtube.com/watch?v=40I1C0a7KI8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=40I1C0a7KI8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Over Farmington, New Mexico March 17, 1950 - YouTubeOctober 10, 2013...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=40I1C0a7KI8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=40I1C0a7KI8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Over Farmington, New Mexico March 17, 1950 - YouTubeOctober 10, 2013...</p></details>
    Published: March 17, 1950  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: davidmarlerufo.com  
    Title: farmington nm 1950  
-   Link: <a href="https://www.davidmarlerufo.com/farmington-nm-1950" target="_blank" rel="noopener noreferrer nofollow">https://www.davidmarlerufo.com/farmington-nm-1950</a>  
+   Link:<a href="https://www.davidmarlerufo.com/farmington-nm-1950" target="_blank" rel="noopener noreferrer nofollow">https://www.davidmarlerufo.com/farmington-nm-1950</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufo-declassified.com  
    Title: UFO Declassified DOW-UAP-D017  
-   Link: <a href="https://ufo-declassified.com/documents/release-02-file-003-dow-uap-d017-uap-reported-at-sandia-base-1948-1950" target="_blank" rel="noopener noreferrer nofollow">https://ufo-declassified.com/documents/release-02-file-003-dow-uap-d017-uap-reported-at-sandia-base-1948-1950</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO DeclassifiedDOW-UAP-D017 - UAP Reported at Sandia Base, 1948-1950 | UFO DeclassifiedMay 22, 2026...</p></details>
+   Link:<a href="https://ufo-declassified.com/documents/release-02-file-003-dow-uap-d017-uap-reported-at-sandia-base" target="_blank" rel="noopener noreferrer nofollow">https://ufo-declassified.com/documents/release-02-file-003-dow-uap-d017-uap-reported-at-sandia-base</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO DeclassifiedDOW-UAP-D017 - UAP Reported at Sandia Base, 1948-1950 | UFO DeclassifiedMay 22, 2026...</p></details>
    Published: May 22, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theufochronicles.com  
    Title: Mc Laughlin, USN True Magazine / The Farmingt  
-   Link: <a href="https://www.theufochronicles.com/2013/04/scientists-tracked-flying-saucer-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2013/04/scientists-tracked-flying-saucer-ufo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists Tracked Flying Saucer [UFO] Over New Mexico | UFO CHRONICLE | 2-22-1950February 22, 1950 — SCIENTISTS TRACKED FLYING SAUCER [U...</p></details>
+   Link:<a href="https://www.theufochronicles.com/2013/04/scientists-tracked-flying-saucer-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2013/04/scientists-tracked-flying-saucer-ufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists Tracked Flying Saucer [UFO] Over New Mexico | UFO CHRONICLE | 2-22-1950February 22, 1950 — SCIENTISTS TRACKED FLYING SAUCER [U...</p></details>
    Published: February 22, 1950  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Lecture on UFO Mass Sighting  
-   Link: <a href="https://www.youtube.com/watch?v=_jov2cEVuhw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_jov2cEVuhw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Montana Film: The First Recorded UFO Sighting in the US...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_jov2cEVuhw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_jov2cEVuhw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Montana Film: The First Recorded UFO Sighting in the US...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Montana Film: The First Recorded UFO Sighting in the US  
-   Link: <a href="https://www.youtube.com/watch?v=DJ2vKHj8rVM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DJ2vKHj8rVM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal Into The Night | 1950 Egg Shape UFO | 1950 Airline Pilot UFO Sighting...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DJ2vKHj8rVM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DJ2vKHj8rVM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal Into The Night | 1950 Egg Shape UFO | 1950 Airline Pilot UFO Sighting...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WVwguA4Omks" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WVwguA4Omks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY of UFOs - Episode 2 - The 1940s and 1950s - The Roswell Incident and Project Blue Book...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WVwguA4Omks" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WVwguA4Omks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY of UFOs - Episode 2 - The 1940s and 1950s - The Roswell Incident and Project Blue Book...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: HISTORY of UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=5xoYR0YjGh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5xoYR0YjGh8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate 1950s Flying Saucer, UFO, and Alien Encounter Movies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5xoYR0YjGh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5xoYR0YjGh8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate 1950s Flying Saucer, UFO, and Alien Encounter Movies...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=jUzzNL6iCUg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jUzzNL6iCUg</a>  
+   Link:<a href="https://www.youtube.com/watch?v=jUzzNL6iCUg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jUzzNL6iCUg</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thinkaboutitdocs.com  
    Title: 1950 the farmington ufo armada  
-   Link: <a href="https://www.thinkaboutitdocs.com/1950-the-farmington-ufo-armada/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1950-the-farmington-ufo-armada/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Think About It Docs1950: The Farmington UFO ArmadaMay 10, 2013...</p></details>
+   Link:<a href="https://www.thinkaboutitdocs.com/1950-the-farmington-ufo-armada/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1950-the-farmington-ufo-armada/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Think About It Docs1950: The Farmington UFO ArmadaMay 10, 2013...</p></details>
    Published: May 10, 2013  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: spookyvalley.web.app  
    Title: Farmington UFO Armada  
-   Link: <a href="https://spookyvalley.web.app/events/1950-farmington-armada/" target="_blank" rel="noopener noreferrer nofollow">https://spookyvalley.web.app/events/1950-farmington-armada/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The local newspaper estimated up to 500 objects swarmed overhead in formations unlike any aircraf...</p></details>
+   Link:<a href="https://spookyvalley.web.app/events/1950-farmington-armada/" target="_blank" rel="noopener noreferrer nofollow">https://spookyvalley.web.app/events/1950-farmington-armada/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The local newspaper estimated up to 500 objects swarmed overhead in formations unlike any aircraf...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: countdowntodisclosure.com  
    Title: farmington ufo armada 1950 hundreds of discs witnessed over new mexico  
-   Link: <a href="https://countdowntodisclosure.com/articles/farmington-ufo-armada-1950-hundreds-of-discs-witnessed-over-new-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://countdowntodisclosure.com/articles/farmington-ufo-armada-1950-hundreds-of-discs-witnessed-over-new-mexico/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Farmington UFO Armada 1950: Hundreds of Discs Witnessed Over New Mexico – Countdown to DisclosureMarch 17, 1950 — UFO Events // Mar 17, 1...</p></details>
+   Link:<a href="https://countdowntodisclosure.com/articles/farmington-ufo-armada-1950-hundreds-of-discs-witnessed-over-new-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://countdowntodisclosure.com/articles/farmington-ufo-armada-1950-hundreds-of-discs-witnessed-over-new-mexico/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Farmington UFO Armada 1950: Hundreds of Discs Witnessed Over New Mexico – Countdown to DisclosureMarch 17, 1950 — UFO Events // Mar 17, 1...</p></details>
    Published: March 17, 1950  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: mysterylores.com  
-   Link: <a href="https://mysterylores.com/news/historic-farmington-new-mexico-ufo-sighting-1950/" target="_blank" rel="noopener noreferrer nofollow">https://mysterylores.com/news/historic-farmington-new-mexico-ufo-sighting-1950/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Historic 1950 UFO Sighting That Shocked Farmington, NM: MysteryLoresApril 28, 2025 — In 1950, over 100 unidentified flying objects w...</p></details>
+   Link:<a href="https://mysterylores.com/news/historic-farmington-new-mexico-ufo-sighting-1950/" target="_blank" rel="noopener noreferrer nofollow">https://mysterylores.com/news/historic-farmington-new-mexico-ufo-sighting-1950/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Historic 1950 UFO Sighting That Shocked Farmington, NM: MysteryLoresApril 28, 2025 — In 1950, over 100 unidentified flying objects w...</p></details>
    Published: April 28, 2025  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: unidentifiedphenomena.com  
    Title: the farmington saucer armada incident 1950  
-   Link: <a href="https://unidentifiedphenomena.com/incidents/the-farmington-saucer-armada-incident-1950/" target="_blank" rel="noopener noreferrer nofollow">https://unidentifiedphenomena.com/incidents/the-farmington-saucer-armada-incident-1950/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Farmington Saucer Armada Incident (1950) – Unidentified PhenomenaFebruary 14, 2023 — THE FARMINGTON SAUCER ARMADA INCIDENT (1950) Feb...</p></details>
+   Link:<a href="https://unidentifiedphenomena.com/incidents/the-farmington-saucer-armada-incident-1950/" target="_blank" rel="noopener noreferrer nofollow">https://unidentifiedphenomena.com/incidents/the-farmington-saucer-armada-incident-1950/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Farmington Saucer Armada Incident (1950) – Unidentified PhenomenaFebruary 14, 2023 — THE FARMINGTON SAUCER ARMADA INCIDENT (1950) Feb...</p></details>
    Published: February 14, 2023  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: mysterylores.com  
    Title: ufo sighting farmington new mexico 1950  
-   Link: <a href="https://mysterylores.com/news/ufo-sighting-farmington-new-mexico-1950/" target="_blank" rel="noopener noreferrer nofollow">https://mysterylores.com/news/ufo-sighting-farmington-new-mexico-1950/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unforgettable UFO Encounter: Farmington, 1950 Shines Bright: MysteryLoresJune 26, 2025 — SPECTACULAR FARMINGTON UFO SIGHTING | UNFORGETT...</p></details>
+   Link:<a href="https://mysterylores.com/news/ufo-sighting-farmington-new-mexico-1950/" target="_blank" rel="noopener noreferrer nofollow">https://mysterylores.com/news/ufo-sighting-farmington-new-mexico-1950/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unforgettable UFO Encounter: Farmington, 1950 Shines Bright: MysteryLoresJune 26, 2025 — SPECTACULAR FARMINGTON UFO SIGHTING | UNFORGETT...</p></details>
    Published: June 26, 2025  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: thelivingsky.com  
    Title: 1950 farmington new mexico armada  
-   Link: <a href="https://thelivingsky.com/1950-farmington-new-mexico-armada/" target="_blank" rel="noopener noreferrer nofollow">https://thelivingsky.com/1950-farmington-new-mexico-armada/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1950, Farmington, New Mexico Armada – The Living SkyJanuary 12, 2016 — 1950, FARMINGTON, NEW MEXICO ARMADA Image Scott January 12, 2016 J...</p></details>
+   Link:<a href="https://thelivingsky.com/1950-farmington-new-mexico-armada/" target="_blank" rel="noopener noreferrer nofollow">https://thelivingsky.com/1950-farmington-new-mexico-armada/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1950, Farmington, New Mexico Armada – The Living SkyJanuary 12, 2016 — 1950, FARMINGTON, NEW MEXICO ARMADA Image Scott January 12, 2016 J...</p></details>
    Published: January 12, 2016  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: koat.com  
    Title: Sixty-five years later  
-   Link: <a href="https://www.koat.com/article/witness-recalls-1950-farmington-ufo-armada/5068732" target="_blank" rel="noopener noreferrer nofollow">https://www.koat.com/article/witness-recalls-1950-farmington-ufo-armada/5068732</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Witness recalls 1950 Farmington UFO ArmadaDecember 13, 2015 — WITNESS RECALLS 1950 FARMINGTON UFO ARMADA HUNDREDS OF PEOPLE OBSERVED OBJE...</p></details>
+   Link:<a href="https://www.koat.com/article/witness-recalls-1950-farmington-ufo-armada/5068732" target="_blank" rel="noopener noreferrer nofollow">https://www.koat.com/article/witness-recalls-1950-farmington-ufo-armada/5068732</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Witness recalls 1950 Farmington UFO ArmadaDecember 13, 2015 — WITNESS RECALLS 1950 FARMINGTON UFO ARMADA HUNDREDS OF PEOPLE OBSERVED OBJE...</p></details>
    Published: December 13, 2015

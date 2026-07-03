@@ -758,255 +758,255 @@ image: /assets/images/Eagle_River_encounte_9b53c8-overview-social.jpg
 
 ## Introduction
 
-The Eagle River encounter of 18 April 1961 is one of the strangest small UFO cases in the Project [Blue Book]({{ 'blue-book-8b589b/' | relative_url }}) era: a rural Wisconsin man, Joe Simonton, said a shiny craft hovered near his farmhouse, three short humanoid occupants asked him for water, and one handed him several small pancake-like cakes. The case matters less because it proves anything exotic, and more because it compresses the central UFO problem into one vivid episode: a seemingly sincere single witness, a physical sample that could be tested, official involvement, local testimony about [the witness]({{ 'the-witness/' | relative_url }})’s character, and an explanation that many readers find psychologically possible but evidentially incomplete. The strongest conclusion is cautious: the “pancakes” were ordinary terrestrial food material, the sighting itself was not independently corroborated, and Project Blue Book recorded the case as hallucination, but the witness’s sincerity and the odd specificity of the account kept it alive in UFO literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://s3.us-west-1.wasabisys.com/bfs-website2023/Documents%20%26%20Resources/Aliens/Dimensions_%20%20A%20Casebook%20of%20Alien%20Contact%20-%20Jacques%20Vallee%20-%20151%20pages.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3.us-west-1.wasabisys.com">[2s3.us-west-1.wasabisys.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3.us-west-1.wasabisys.com</span><span class="citation-popover-title">Dimensions A Casebook of Alien Contact Jacques Vallee 151 pages</span><span class="citation-popover-snippet">Dimensions A Casebook of Alien Contact Jacques Vallee 151 pages</span></span></span>
+The Eagle River encounter of 18 April 1961 is one of the strangest small UFO cases in the Project [Blue Book]({{ 'blue-book-8b589b/' | relative_url }}) era: a rural Wisconsin man, Joe Simonton, said a shiny craft hovered near his farmhouse, three short humanoid occupants asked him for water, and one handed him several small pancake-like cakes. The case matters less because it proves anything exotic, and more because it compresses the central UFO problem into one vivid episode: a seemingly sincere single witness, a physical sample that could be tested, official involvement, local testimony about [the witness]({{ 'the-witness/' | relative_url }})’s character, and an explanation that many readers find psychologically possible but evidentially incomplete. The strongest conclusion is cautious: the “pancakes” were ordinary terrestrial food material, the sighting itself was not independently corroborated, and Project Blue Book recorded the case as hallucination, but the witness’s sincerity and the odd specificity of the account kept it alive in UFO literature.<span class="citation-chip-wrap"><a class="citation-chip" href="https://s3.us-west-1.wasabisys.com/bfs-website2023/Documents%20%26%20Resources/Aliens/Dimensions_%20%20A%20Casebook%20of%20Alien%20Contact%20-%20Jacques%20Vallee%20-%20151%20pages.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3.us-west-1.wasabisys.com">[2s3.us-west-1.wasabisys.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3.us-west-1.wasabisys.com</span><span class="citation-popover-title">Dimensions A Casebook of Alien Contact Jacques Vallee 151 pages</span><span class="citation-popover-snippet">Dimensions A Casebook of Alien Contact Jacques Vallee 151 pages</span></span></span>
 
 <img src="{{ "/assets/images/Eagle_River_encounte_9b53c8-overview.webp" | relative_url }}" alt="Overview image for Eagle River encounter 1961" loading="eager" decoding="sync" fetchpriority="high">
 ## What Simonton said happened
 
-According to later summaries drawing on the case record and contemporary UFO publications, Simonton was a plumber, handyman and part-time chicken farmer living near Eagle River, Wisconsin. Around 11 a.m., he reportedly heard a loud or unusual sound outside, looked out, and saw a shiny metallic object descend near his house. He described its form as resembling two bowls or plates joined together, about 30 feet across and roughly 12 feet high in some retellings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcastufo.com/pancakes-from-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Pancakes From the UFO – Podcast UFO</span><span class="citation-popover-snippet">Pancakes From the UFO – Podcast UFO</span></span></span>
+According to later summaries drawing on the case record and contemporary UFO publications, Simonton was a plumber, handyman and part-time chicken farmer living near Eagle River, Wisconsin. Around 11 a.m., he reportedly heard a loud or unusual sound outside, looked out, and saw a shiny metallic object descend near his house. He described its form as resembling two bowls or plates joined together, about 30 feet across and roughly 12 feet high in some retellings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcastufo.com/pancakes-from-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Pancakes From the UFO – Podcast UFO</span><span class="citation-popover-snippet">Pancakes From the UFO – Podcast UFO</span></span></span>
 
-The most memorable part of the story was not the object but the exchange. Simonton said a hatch opened and a short, dark-haired humanoid gestured as if asking for water. Simonton filled a metallic jug and returned it. He then noticed another occupant apparently cooking on a flameless grill inside the craft. When Simonton showed interest in the food, one of the occupants handed him several small cakes, later described as perforated, rubbery or cardboard-like, before the craft departed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcastufo.com/tag/joe-simonton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Joe Simonton</span><span class="citation-popover-snippet">Joe Simonton</span></span></span>
+The most memorable part of the story was not the object but the exchange. Simonton said a hatch opened and a short, dark-haired humanoid gestured as if asking for water. Simonton filled a metallic jug and returned it. He then noticed another occupant apparently cooking on a flameless grill inside the craft. When Simonton showed interest in the food, one of the occupants handed him several small cakes, later described as perforated, rubbery or cardboard-like, before the craft departed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcastufo.com/tag/joe-simonton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Joe Simonton</span><span class="citation-popover-snippet">Joe Simonton</span></span></span>
 
-The account has small variations across sources, including Simonton’s age and the number of cakes retained, eaten or passed on. That variation is important: this is not a case with multiple independent witnesses giving matching sworn testimony. It is a single-witness narrative filtered through local officials, UFO organisations, Air Force inquiry, later authors and popular retellings. Still, the core sequence remains stable: noise, hovering craft, water request, cooking activity, pancake-like food, rapid departure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcastufo.com/pancakes-from-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Pancakes From the UFO – Podcast UFO</span><span class="citation-popover-snippet">Pancakes From the UFO – Podcast UFO</span></span></span>
+The account has small variations across sources, including Simonton’s age and the number of cakes retained, eaten or passed on. That variation is important: this is not a case with multiple independent witnesses giving matching sworn testimony. It is a single-witness narrative filtered through local officials, UFO organisations, Air Force inquiry, later authors and popular retellings. Still, the core sequence remains stable: noise, hovering craft, water request, cooking activity, pancake-like food, rapid departure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcastufo.com/pancakes-from-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Pancakes From the UFO – Podcast UFO</span><span class="citation-popover-snippet">Pancakes From the UFO – Podcast UFO</span></span></span>
 
 <img src="{{ "/assets/images/Eagle_River_encounte_9b53c8-Illustration-1-dark.svg" | relative_url }}" alt="Eagle River encounter 1961 illustration 1" data-theme-src-dark="{{ "/assets/images/Eagle_River_encounte_9b53c8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eagle_River_encounte_9b53c8-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the “pancakes” became the centre of the case
 
-Most UFO reports leave no testable object behind. Eagle River stood out because Simonton produced food-like material. Vilas County Judge Franklin Carter, who knew Simonton and was interested in UFOs, became an early intermediary, and one sample entered the orbit of the National Investigations Committee on Aerial Phenomena, known as NICAP. The case quickly became awkward for serious UFO advocates because it was simultaneously intriguing, physical and easy to ridicule. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcastufo.com/tag/joe-simonton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Joe Simonton</span><span class="citation-popover-snippet">Joe Simonton</span></span></span>
+Most UFO reports leave no testable object behind. Eagle River stood out because Simonton produced food-like material. Vilas County Judge Franklin Carter, who knew Simonton and was interested in UFOs, became an early intermediary, and one sample entered the orbit of the National Investigations Committee on Aerial Phenomena, known as NICAP. The case quickly became awkward for serious UFO advocates because it was simultaneously intriguing, physical and easy to ridicule.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcastufo.com/tag/joe-simonton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Joe Simonton</span><span class="citation-popover-snippet">Joe Simonton</span></span></span>
 
-The material did not test as alien, unknown or chemically remarkable. Project Blue Book-related accounts state that a sample was analysed through the U.S. Department of Health, Education and Welfare’s Food and Drug Laboratory, which found ordinary ingredients: fat, starch, buckwheat hulls, wheat bran and soybean hulls, with normal bacteria and radiation readings. Jacques Vallée’s published discussion quotes the Air Force-linked result as concluding that the material was an ordinary pancake of terrestrial origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://s3.us-west-1.wasabisys.com/bfs-website2023/Documents%20%26%20Resources/Aliens/Dimensions_%20%20A%20Casebook%20of%20Alien%20Contact%20-%20Jacques%20Vallee%20-%20151%20pages.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3.us-west-1.wasabisys.com">[s3.us-west-1.wasabisys.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3.us-west-1.wasabisys.com</span><span class="citation-popover-title">Dimensions A Casebook of Alien Contact Jacques Vallee 151 pages</span><span class="citation-popover-snippet">Dimensions A Casebook of Alien Contact Jacques Vallee 151 pages</span></span></span>
+The material did not test as alien, unknown or chemically remarkable. Project Blue Book-related accounts state that a sample was analysed through the U.S. Department of Health, Education and Welfare’s Food and Drug Laboratory, which found ordinary ingredients: fat, starch, buckwheat hulls, wheat bran and soybean hulls, with normal bacteria and radiation readings. Jacques Vallée’s published discussion quotes the Air Force-linked result as concluding that the material was an ordinary pancake of terrestrial origin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://s3.us-west-1.wasabisys.com/bfs-website2023/Documents%20%26%20Resources/Aliens/Dimensions_%20%20A%20Casebook%20of%20Alien%20Contact%20-%20Jacques%20Vallee%20-%20151%20pages.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3.us-west-1.wasabisys.com">[s3.us-west-1.wasabisys.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3.us-west-1.wasabisys.com</span><span class="citation-popover-title">Dimensions A Casebook of Alien Contact Jacques Vallee 151 pages</span><span class="citation-popover-snippet">Dimensions A Casebook of Alien Contact Jacques Vallee 151 pages</span></span></span>
 
-This result cuts both ways. For sceptics, it strongly weakens the idea of extraterrestrial food or advanced technology: the one physical artefact looked like an ordinary buckwheat-type pancake. For believers or more speculative interpreters, it does not by itself prove hoax, because a mundane object could still have been involved in an unusual event. For a public evidence page, however, the tested sample is best treated as a negative physical finding: it supports no exotic claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcastufo.com/tag/joe-simonton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Joe Simonton</span><span class="citation-popover-snippet">Joe Simonton</span></span></span>
+This result cuts both ways. For sceptics, it strongly weakens the idea of extraterrestrial food or advanced technology: the one physical artefact looked like an ordinary buckwheat-type pancake. For believers or more speculative interpreters, it does not by itself prove hoax, because a mundane object could still have been involved in an unusual event. For a public evidence page, however, the tested sample is best treated as a negative physical finding: it supports no exotic claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcastufo.com/tag/joe-simonton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Joe Simonton</span><span class="citation-popover-snippet">Joe Simonton</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MaKZPy9NPYk" title="We Found Missing Evidence from the Weirdest UFO Encounter | Episode 21 | Haunted Objects Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MaKZPy9NPYk" target="_blank" rel="noopener noreferrer">We Found Missing Evidence from the Weirdest UFO Encounter | Episode 21 | Haunted Objects Podcast</a></p><p class="youtube-embed-meta">Channel: Planet Weird &middot; Views: 92.7K &middot; Uploaded: July 2024 &middot; Length: 1 hour 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MaKZPy9NPYk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MaKZPy9NPYk">Open on YouTube</a></p></div></div></div>
 
 ## How Project Blue Book handled the report
 
-Project Blue Book was the U.S. Air Force’s formal UFO investigation programme, headquartered at Wright-Patterson Air Force Base, and it investigated UFO reports from 1947 to 1969. The Air Force later stated that Blue Book collected 12,618 reports, with 701 remaining unidentified when the programme ended; the National Archives notes that the declassified records are available for examination and that the project closed in 1969. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Project Blue Book was the U.S. Air Force’s formal UFO investigation programme, headquartered at Wright-Patterson Air Force Base, and it investigated UFO reports from 1947 to 1969. The Air Force later stated that Blue Book collected 12,618 reports, with 701 remaining unidentified when the programme ended; the National Archives notes that the declassified records are available for examination and that the project closed in 1969.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The Eagle River case reached Blue Book through a chain of concern about publicity and NICAP’s possible use of the case. Robert Friend, then associated with Blue Book leadership, contacted J. Allen Hynek, the astronomer who served as a scientific consultant to the Air Force’s UFO work. Hynek went to Wisconsin with graduate students, interviewed Simonton, and obtained a sample for analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcastufo.com/tag/joe-simonton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Joe Simonton</span><span class="citation-popover-snippet">Joe Simonton</span></span></span>
+The Eagle River case reached Blue Book through a chain of concern about publicity and NICAP’s possible use of the case. Robert Friend, then associated with Blue Book leadership, contacted J. Allen Hynek, the astronomer who served as a scientific consultant to the Air Force’s UFO work. Hynek went to Wisconsin with graduate students, interviewed Simonton, and obtained a sample for analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcastufo.com/tag/joe-simonton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Joe Simonton</span><span class="citation-popover-snippet">Joe Simonton</span></span></span>
 
-The official conclusion was not “unexplained”. The Project Blue Book record card is reported as classifying Simonton’s sighting as “hallucination”, while the food sample was treated as ordinary terrestrial material. That conclusion is understandable given the case’s weaknesses: one witness, no confirmed landing trace, no second observer of the craft, and a physical sample that did not test unusually. It also left a lingering dissatisfaction, because “hallucination” explains the narrative but not, on its own, why Simonton had the pancake material at hand unless he had made, acquired or already possessed it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcastufo.com/tag/joe-simonton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Joe Simonton</span><span class="citation-popover-snippet">Joe Simonton</span></span></span>
+The official conclusion was not “unexplained”. The Project Blue Book record card is reported as classifying Simonton’s sighting as “hallucination”, while the food sample was treated as ordinary terrestrial material. That conclusion is understandable given the case’s weaknesses: one witness, no confirmed landing trace, no second observer of the craft, and a physical sample that did not test unusually. It also left a lingering dissatisfaction, because “hallucination” explains the narrative but not, on its own, why Simonton had the pancake material at hand unless he had made, acquired or already possessed it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcastufo.com/tag/joe-simonton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Joe Simonton</span><span class="citation-popover-snippet">Joe Simonton</span></span></span>
 
 <img src="{{ "/assets/images/Eagle_River_encounte_9b53c8-Illustration-2-dark.svg" | relative_url }}" alt="Eagle River encounter 1961 illustration 2" data-theme-src-dark="{{ "/assets/images/Eagle_River_encounte_9b53c8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eagle_River_encounte_9b53c8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Witness credibility: sincere does not mean verified
 
-A key reason Eagle River survives in UFO catalogues is that investigators and local observers did not simply dismiss Simonton as an obvious fraud. Hynek reportedly found that local people treated him as respected, and Vallée’s account says a sheriff who had known him for years thought Simonton believed what he was saying and spoke sensibly about the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcastufo.com/tag/joe-simonton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Joe Simonton</span><span class="citation-popover-snippet">Joe Simonton</span></span></span>
+A key reason Eagle River survives in UFO catalogues is that investigators and local observers did not simply dismiss Simonton as an obvious fraud. Hynek reportedly found that local people treated him as respected, and Vallée’s account says a sheriff who had known him for years thought Simonton believed what he was saying and spoke sensibly about the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcastufo.com/tag/joe-simonton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Joe Simonton</span><span class="citation-popover-snippet">Joe Simonton</span></span></span>
 
-That kind of character evidence is relevant, but it has limits. It can reduce the likelihood of a crude publicity hoax, especially since Simonton appears not to have benefited comfortably from the attention. It cannot establish that the event occurred as described. Honest people can misperceive, dream while awake, confabulate after an unusual experience, or become caught in a story that hardens through retelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://s3.us-west-1.wasabisys.com/bfs-website2023/Documents%20%26%20Resources/Aliens/Dimensions_%20%20A%20Casebook%20of%20Alien%20Contact%20-%20Jacques%20Vallee%20-%20151%20pages.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3.us-west-1.wasabisys.com">[s3.us-west-1.wasabisys.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3.us-west-1.wasabisys.com</span><span class="citation-popover-title">Dimensions A Casebook of Alien Contact Jacques Vallee 151 pages</span><span class="citation-popover-snippet">Dimensions A Casebook of Alien Contact Jacques Vallee 151 pages</span></span></span>
+That kind of character evidence is relevant, but it has limits. It can reduce the likelihood of a crude publicity hoax, especially since Simonton appears not to have benefited comfortably from the attention. It cannot establish that the event occurred as described. Honest people can misperceive, dream while awake, confabulate after an unusual experience, or become caught in a story that hardens through retelling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://s3.us-west-1.wasabisys.com/bfs-website2023/Documents%20%26%20Resources/Aliens/Dimensions_%20%20A%20Casebook%20of%20Alien%20Contact%20-%20Jacques%20Vallee%20-%20151%20pages.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3.us-west-1.wasabisys.com">[s3.us-west-1.wasabisys.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3.us-west-1.wasabisys.com</span><span class="citation-popover-title">Dimensions A Casebook of Alien Contact Jacques Vallee 151 pages</span><span class="citation-popover-snippet">Dimensions A Casebook of Alien Contact Jacques Vallee 151 pages</span></span></span>
 
-The case therefore sits in a common UFO evidential middle ground. It is not strong enough for a factual claim of alien contact, but it is too humanly specific to be dismissed as merely a joke. A fair assessment separates two questions: whether Simonton was sincere, and whether the described craft and occupants were objectively present. The evidence is stronger for the first than for the second. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcastufo.com/tag/joe-simonton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Joe Simonton</span><span class="citation-popover-snippet">Joe Simonton</span></span></span>
+The case therefore sits in a common UFO evidential middle ground. It is not strong enough for a factual claim of alien contact, but it is too humanly specific to be dismissed as merely a joke. A fair assessment separates two questions: whether Simonton was sincere, and whether the described craft and occupants were objectively present. The evidence is stronger for the first than for the second.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcastufo.com/tag/joe-simonton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Joe Simonton</span><span class="citation-popover-snippet">Joe Simonton</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PXw0AN9S_5A" title="WEIRD WISCONSIN: Eagle River &amp; Joe Simonton&#x27;s BIZARRE UFO Pancakes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PXw0AN9S_5A" target="_blank" rel="noopener noreferrer">WEIRD WISCONSIN: Eagle River &amp; Joe Simonton&#x27;s BIZARRE UFO Pancakes</a></p><p class="youtube-embed-meta">Channel: SightseeingSally &middot; Views: 7.2K &middot; Uploaded: September 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PXw0AN9S_5A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PXw0AN9S_5A">Open on YouTube</a></p></div></div></div>
 
 ## Competing interpretations
 
-The extraterrestrial reading treats the case as a low-key contact encounter: occupants in a physical craft needed water, exchanged food and left. Its strongest point is the witness’s consistency and the existence of a sample. Its weakest point is that the sample was ordinary, the craft was not independently witnessed, and the behaviour looks oddly domestic rather than technologically or scientifically meaningful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcastufo.com/tag/joe-simonton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Joe Simonton</span><span class="citation-popover-snippet">Joe Simonton</span></span></span>
+The extraterrestrial reading treats the case as a low-key contact encounter: occupants in a physical craft needed water, exchanged food and left. Its strongest point is the witness’s consistency and the existence of a sample. Its weakest point is that the sample was ordinary, the craft was not independently witnessed, and the behaviour looks oddly domestic rather than technologically or scientifically meaningful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcastufo.com/tag/joe-simonton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Joe Simonton</span><span class="citation-popover-snippet">Joe Simonton</span></span></span>
 
-The official/sceptical reading is that Simonton experienced some kind of hallucination, waking dream or misperception, with [the pancakes]({{ 'the-pancakes/' | relative_url }}) being ordinary food. That interpretation fits the single-witness nature of the report and the laboratory finding. Its weak spot is explanatory completeness: unless Simonton knowingly or unknowingly already had the cakes, the psychological account still needs a mundane path for the physical objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcastufo.com/tag/joe-simonton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Joe Simonton</span><span class="citation-popover-snippet">Joe Simonton</span></span></span>
+The official/sceptical reading is that Simonton experienced some kind of hallucination, waking dream or misperception, with [the pancakes]({{ 'the-pancakes/' | relative_url }}) being ordinary food. That interpretation fits the single-witness nature of the report and the laboratory finding. Its weak spot is explanatory completeness: unless Simonton knowingly or unknowingly already had the cakes, the psychological account still needs a mundane path for the physical objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcastufo.com/tag/joe-simonton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Joe Simonton</span><span class="citation-popover-snippet">Joe Simonton</span></span></span>
 
-A third interpretation, associated especially with Jacques Vallée’s broader treatment of UFO cases, reads Eagle River less as a spacecraft report and more as a modern folklore event. Vallée compared the water-and-food exchange with older stories of supernatural visitors, fairy food and ritual hospitality, arguing that the case’s meaning lies partly in its symbolic structure rather than in a straightforward engineering claim about a spacecraft. This does not prove the event was paranormal; it reframes why such a strange, rural and almost comic report became memorable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://s3.us-west-1.wasabisys.com/bfs-website2023/Documents%20%26%20Resources/Aliens/Dimensions_%20%20A%20Casebook%20of%20Alien%20Contact%20-%20Jacques%20Vallee%20-%20151%20pages.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3.us-west-1.wasabisys.com">[s3.us-west-1.wasabisys.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3.us-west-1.wasabisys.com</span><span class="citation-popover-title">Dimensions A Casebook of Alien Contact Jacques Vallee 151 pages</span><span class="citation-popover-snippet">Dimensions A Casebook of Alien Contact Jacques Vallee 151 pages</span></span></span>
+A third interpretation, associated especially with Jacques Vallée’s broader treatment of UFO cases, reads Eagle River less as a spacecraft report and more as a modern folklore event. Vallée compared the water-and-food exchange with older stories of supernatural visitors, fairy food and ritual hospitality, arguing that the case’s meaning lies partly in its symbolic structure rather than in a straightforward engineering claim about a spacecraft. This does not prove the event was paranormal; it reframes why such a strange, rural and almost comic report became memorable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://s3.us-west-1.wasabisys.com/bfs-website2023/Documents%20%26%20Resources/Aliens/Dimensions_%20%20A%20Casebook%20of%20Alien%20Contact%20-%20Jacques%20Vallee%20-%20151%20pages.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3.us-west-1.wasabisys.com">[s3.us-west-1.wasabisys.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3.us-west-1.wasabisys.com</span><span class="citation-popover-title">Dimensions A Casebook of Alien Contact Jacques Vallee 151 pages</span><span class="citation-popover-snippet">Dimensions A Casebook of Alien Contact Jacques Vallee 151 pages</span></span></span>
 
 <img src="{{ "/assets/images/Eagle_River_encounte_9b53c8-Illustration-3-dark.svg" | relative_url }}" alt="Eagle River encounter 1961 illustration 3" data-theme-src-dark="{{ "/assets/images/Eagle_River_encounte_9b53c8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eagle_River_encounte_9b53c8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the case can and cannot support
 
-The Eagle River encounter can support a narrow historical claim: in April 1961, Joe Simonton reported an unusual close encounter near Eagle River, Wisconsin; the case attracted local, UFO-organisation and Air Force attention; a food-like sample was analysed; and Project Blue Book treated the sighting as hallucination while the sample was judged ordinary. Those claims are well anchored in the available case literature and official Blue Book context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Eagle River encounter can support a narrow historical claim: in April 1961, Joe Simonton reported an unusual close encounter near Eagle River, Wisconsin; the case attracted local, UFO-organisation and Air Force attention; a food-like sample was analysed; and Project Blue Book treated the sighting as hallucination while the sample was judged ordinary. Those claims are well anchored in the available case literature and official Blue Book context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-It cannot support a strong claim of alien visitation. There is no reliable chain of multiple witnesses, no surviving extraordinary material result, no confirmed landing trace, and no official finding that the object was genuinely unidentified in the strong sense. The strongest physical evidence points downwards, towards ordinary food chemistry, not upwards towards an exotic origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcastufo.com/tag/joe-simonton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Joe Simonton</span><span class="citation-popover-snippet">Joe Simonton</span></span></span>
+It cannot support a strong claim of alien visitation. There is no reliable chain of multiple witnesses, no surviving extraordinary material result, no confirmed landing trace, and no official finding that the object was genuinely unidentified in the strong sense. The strongest physical evidence points downwards, towards ordinary food chemistry, not upwards towards an exotic origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcastufo.com/tag/joe-simonton/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">Joe Simonton</span><span class="citation-popover-snippet">Joe Simonton</span></span></span>
 
 The enduring value of the case is evidential and cultural. It is a useful sibling case for comparison with other close-encounter reports because it shows how one piece of physical evidence can both intensify interest and weaken an extraordinary claim once tested. It also shows why “credible witness” is not the same as “confirmed event”: sincerity, social reputation and vivid detail can make a report worth preserving without making it proven.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a7MmWf8f_wc" title="Mindless Banter 139: Joe Simonton &amp; the Alien Pancakes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a7MmWf8f_wc" target="_blank" rel="noopener noreferrer">Mindless Banter 139: Joe Simonton &amp; the Alien Pancakes</a></p><p class="youtube-embed-meta">Channel: Casual Preppers Podcast &middot; Views: 360 &middot; Uploaded: January 2026 &middot; Length: 37 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a7MmWf8f_wc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a7MmWf8f_wc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Pancakes Make This UFO Case Stranger?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Pancakes Make This UFO Case Stranger?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Details the formal involvement of Project Blue Book investigators in mapping rural Wisconsin sightings during the early 1960s wave.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details the formal involvement of Project Blue Book investigators in mapping rural Wisconsin sightings during the early 1960s wave.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Establishes how the Air Force managed single-witness reports that provided physical samples for chemical analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Establishes how the Air Force managed single-witness reports that provided physical samples for chemical analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Profiles the Eagle River encounter, reviewing Joe Simonton&#x27;s background, the dual-bowl craft, and the pancake sample exchange.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Profiles the Eagle River encounter, reviewing Joe Simonton&#x27;s background, the dual-bowl craft, and the pancake sample exchange.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Evaluates how laboratory tracking separates mundane food material from extraordinary claims independently of witness sincerity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Evaluates how laboratory tracking separates mundane food material from extraordinary claims independently of witness sincerity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-pancakes-make-this-ufo-case-stranger-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1022,7 +1022,7 @@ The enduring value of the case is evidential and cultural. It is a useful siblin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1042,7 +1042,7 @@ The enduring value of the case is evidential and cultural. It is a useful siblin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1074,7 +1074,7 @@ The enduring value of the case is evidential and cultural. It is a useful siblin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1126,7 +1126,7 @@ The enduring value of the case is evidential and cultural. It is a useful siblin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1171,7 +1171,7 @@ The enduring value of the case is evidential and cultural. It is a useful siblin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1212,93 +1212,93 @@ The enduring value of the case is evidential and cultural. It is a useful siblin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: podcastufo.com  
    Title: Pancakes From the UFO – Podcast UFO  
-   Link: <a href="https://podcastufo.com/pancakes-from-the-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/pancakes-from-the-ufo/</a>  
+   Link:<a href="https://podcastufo.com/pancakes-from-the-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/pancakes-from-the-ufo/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: s3.us-west-1.wasabisys.com  
    Title: Dimensions A Casebook of Alien Contact Jacques Vallee 151 pages  
-   Link: <a href="https://s3.us-west-1.wasabisys.com/bfs-website2023/Documents%20%26%20Resources/Aliens/Dimensions_%20%20A%20Casebook%20of%20Alien%20Contact%20-%20Jacques%20Vallee%20-%20151%20pages.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.us-west-1.wasabisys.com/bfs-website2023/Documents%20%26%20Resources/Aliens/Dimensions_%20%20A%20Casebook%20of%20Alien%20Contact%20-%20Jacques%20Vallee%20-%20151%20pages.pdf</a>  
+   Link:<a href="https://s3.us-west-1.wasabisys.com/bfs-website2023/Documents%20%26%20Resources/Aliens/Dimensions_%20%20A%20Casebook%20of%20Alien%20Contact%20-%20Jacques%20Vallee%20-%20151%20pages.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.us-west-1.wasabisys.com/bfs-website2023/Documents%20%26%20Resources/Aliens/Dimensions_%20%20A%20Casebook%20of%20Alien%20Contact%20-%20Jacques%20Vallee%20-%20151%20pages.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: podcastufo.com  
    Title: Joe Simonton  
-   Link: <a href="https://podcastufo.com/tag/joe-simonton/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/tag/joe-simonton/</a>  
+   Link:<a href="https://podcastufo.com/tag/joe-simonton/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/tag/joe-simonton/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Joe Simonton and the UFO Pancakes: A Detailed Review  
-   Link: <a href="https://www.youtube.com/watch?v=0h3jKq3W_60" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0h3jKq3W_60</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: The Eagle River Encounter Analysis...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0h3jKq3W_60" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0h3jKq3W_60</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: The Eagle River Encounter Analysis...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: discogs.com  
-   Link: <a href="https://www.discogs.com/group/thread/679596?srsltid=AfmBOooPTJXigTD04iRDqSND41g1NJ0SFlrN0ZuPte_SmYAcEz6jvZUQ" target="_blank" rel="noopener noreferrer nofollow">https://www.discogs.com/group/thread/679596?srsltid=AfmBOooPTJXigTD04iRDqSND41g1NJ0SFlrN0ZuPte_SmYAcEz6jvZUQ</a>  
+   Link:<a href="https://www.discogs.com/group/thread/679596?srsltid=AfmBOooPTJXigTD04iRDqSND41g1NJ0SFlrN0ZuPte_SmYAcEz6jvZUQ" target="_blank" rel="noopener noreferrer nofollow">https://www.discogs.com/group/thread/679596?srsltid=AfmBOooPTJXigTD04iRDqSND41g1NJ0SFlrN0ZuPte_SmYAcEz6jvZUQ</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: discogs.com  
-   Link: <a href="https://www.discogs.com/group/thread/679596?srsltid=AfmBOoqkDjB2hXxwsqgUb_VQ8yFvKIXAcDVN5ib1QJUcTi0xpU12TaCK" target="_blank" rel="noopener noreferrer nofollow">https://www.discogs.com/group/thread/679596?srsltid=AfmBOoqkDjB2hXxwsqgUb_VQ8yFvKIXAcDVN5ib1QJUcTi0xpU12TaCK</a>  
+   Link:<a href="https://www.discogs.com/group/thread/679596?srsltid=AfmBOoqkDjB2hXxwsqgUb_VQ8yFvKIXAcDVN5ib1QJUcTi0xpU12TaCK" target="_blank" rel="noopener noreferrer nofollow">https://www.discogs.com/group/thread/679596?srsltid=AfmBOoqkDjB2hXxwsqgUb_VQ8yFvKIXAcDVN5ib1QJUcTi0xpU12TaCK</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: governmentattic.org  
-   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
+   Link:<a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ufoevidence.org  
-   Link: <a href="https://www.ufoevidence.org/cases/case708.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case708.htm</a>  
+   Link:<a href="https://www.ufoevidence.org/cases/case708.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case708.htm</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/14raafw/joe_simontons_grey_alien_encounter_who_said_he/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/14raafw/joe_simontons_grey_alien_encounter_who_said_he/</a>  
+   Link:<a href="https://www.reddit.com/r/StrangeEarth/comments/14raafw/joe_simontons_grey_alien_encounter_who_said_he/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/14raafw/joe_simontons_grey_alien_encounter_who_said_he/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/1953dh5/joe_simontons_grey_alien_encounter_who_said_he/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/1953dh5/joe_simontons_grey_alien_encounter_who_said_he/</a>  
+   Link:<a href="https://www.reddit.com/r/StrangeEarth/comments/1953dh5/joe_simontons_grey_alien_encounter_who_said_he/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/1953dh5/joe_simontons_grey_alien_encounter_who_said_he/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/UnexplainedMysteriousUniverse/posts/joseph-simonton-holding-a-pancake-that-he-received-as-a-gift-from-the-aliens-who/975568021241292/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnexplainedMysteriousUniverse/posts/joseph-simonton-holding-a-pancake-that-he-received-as-a-gift-from-the-aliens-who/975568021241292/</a>
+   Link:<a href="https://www.facebook.com/UnexplainedMysteriousUniverse/posts/joseph-simonton-holding-a-pancake-that-he-received-as-a-gift-from-the-aliens-who/975568021241292/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnexplainedMysteriousUniverse/posts/joseph-simonton-holding-a-pancake-that-he-received-as-a-gift-from-the-aliens-who/975568021241292/</a>

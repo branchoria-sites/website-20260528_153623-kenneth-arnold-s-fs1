@@ -758,33 +758,33 @@ image: /assets/images/Belgium_radarvisual_58866e-overview-social.jpg
 
 ## What was reported in late 1989?
 
-The commonly cited start of the Belgian wave is 29 November 1989, when gendarmes and other witnesses in the Eupen area reported unusual lights and, in some accounts, a dark triangular object. Later summaries describe the broader wave as lasting through 1989 and 1990, but the initial shape of the story was formed by these eastern Belgian sightings: slow movement, bright lights, occasional hovering, little noise, and a triangular or platform-like form. A sceptical reconstruction by Wim Van Utrecht notes that the Eupen story was picked up by Belgian media the following day and that investigators from SOBEPS, Belgium’s main civilian UFO organisation at the time, soon entered the region to collect additional reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caelestia.be/article05.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caelestia.be">[caelestia.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caelestia.be</span><span class="citation-popover-title">CAELESTI A Triangles over Belgium</span><span class="citation-popover-snippet">CAELESTI A Triangles over Belgium</span></span></span>
+The commonly cited start of the Belgian wave is 29 November 1989, when gendarmes and other witnesses in the Eupen area reported unusual lights and, in some accounts, a dark triangular object. Later summaries describe the broader wave as lasting through 1989 and 1990, but the initial shape of the story was formed by these eastern Belgian sightings: slow movement, bright lights, occasional hovering, little noise, and a triangular or platform-like form. A sceptical reconstruction by Wim Van Utrecht notes that the Eupen story was picked up by Belgian media the following day and that investigators from SOBEPS, Belgium’s main civilian UFO organisation at the time, soon entered the region to collect additional reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caelestia.be/article05.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caelestia.be">[caelestia.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caelestia.be</span><span class="citation-popover-title">CAELESTI A Triangles over Belgium</span><span class="citation-popover-snippet">CAELESTI A Triangles over Belgium</span></span></span>
 
 <img src="{{ "/assets/images/Belgium_radarvisual_58866e-overview.webp" | relative_url }}" alt="Overview image for Belgium radarvisual sightings 1989" loading="eager" decoding="sync" fetchpriority="high">
-The witness core is more interesting than a simple rumour chain because it includes police officers and repeated reports from different locations. Van Utrecht’s account says the officers were in contact with Eupen headquarters during the incident, that a dispatcher and other patrols also reported unusual observations, and that roughly 150 accounts were gathered for that night. Several witnesses reportedly mentioned a turbine-like or ventilator-like sound, a detail that complicates later portrayals of the object as entirely silent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caelestia.be/article05ad.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caelestia.be">[caelestia.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caelestia.be</span><span class="citation-popover-snippet">Open source on caelestia.be.</span></span></span>
+The witness core is more interesting than a simple rumour chain because it includes police officers and repeated reports from different locations. Van Utrecht’s account says the officers were in contact with Eupen headquarters during the incident, that a dispatcher and other patrols also reported unusual observations, and that roughly 150 accounts were gathered for that night. Several witnesses reportedly mentioned a turbine-like or ventilator-like sound, a detail that complicates later portrayals of the object as entirely silent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caelestia.be/article05ad.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caelestia.be">[caelestia.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caelestia.be</span><span class="citation-popover-snippet">Open source on caelestia.be.</span></span></span>
 
-At the same time, the first night already shows a major problem for interpretation: descriptions changed or became more elaborate as accounts circulated. Van Utrecht highlights differences between earlier descriptions of a point of light over the Gileppe area and later accounts involving thin reddish beams, “fire balls”, a triangular silhouette, and lit window-like features. That does not prove fabrication, but it does show why chronology matters: later testimony can preserve genuine memory, but it can also absorb press framing, investigator questions, and the expectations created by earlier reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caelestia.be/article05b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caelestia.be">[caelestia.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caelestia.be</span><span class="citation-popover-title">T riangle s ove r B elgiu m</span><span class="citation-popover-snippet">T riangle s ove r B elgiu m</span></span></span>
+At the same time, the first night already shows a major problem for interpretation: descriptions changed or became more elaborate as accounts circulated. Van Utrecht highlights differences between earlier descriptions of a point of light over the Gileppe area and later accounts involving thin reddish beams, “fire balls”, a triangular silhouette, and lit window-like features. That does not prove fabrication, but it does show why chronology matters: later testimony can preserve genuine memory, but it can also absorb press framing, investigator questions, and the expectations created by earlier reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caelestia.be/article05b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caelestia.be">[caelestia.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caelestia.be</span><span class="citation-popover-title">T riangle s ove r B elgiu m</span><span class="citation-popover-snippet">T riangle s ove r B elgiu m</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6zikRBV8DwQ" title="Episode 337 LIVE: The Belgian UFO Wave" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6zikRBV8DwQ" target="_blank" rel="noopener noreferrer">Episode 337 LIVE: The Belgian UFO Wave</a></p><p class="youtube-embed-meta">Channel: 13 O&#x27;Clock Podcast &middot; Views: 2.7K &middot; Uploaded: February 2023 &middot; Length: 2 hours 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6zikRBV8DwQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6zikRBV8DwQ">Open on YouTube</a></p></div></div></div>
 
 ## Why did the case become a radar/visual landmark?
 
-The Belgian case became famous not simply because civilians reported triangular objects, but because the Belgian Air Force later documented a radar-linked interception attempt on the night of 30–31 March 1990. The Air Force report attributed to Major Lambrechts says the March incident was based on reports from Air Force units and gendarmerie patrols south of the Brussels–Tirlemont line, and that the visual and radar observations were considered sufficient to scramble two F-16 fighters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/belrap01.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span>
+The Belgian case became famous not simply because civilians reported triangular objects, but because the Belgian Air Force later documented a radar-linked interception attempt on the night of 30–31 March 1990. The Air Force report attributed to Major Lambrechts says the March incident was based on reports from Air Force units and gendarmerie patrols south of the Brussels–Tirlemont line, and that the visual and radar observations were considered sufficient to scramble two F-16 fighters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/belrap01.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span>
 
-Before that night, the Air Force had received a number of witness reports from December 1989 onward, but its radar stations had not been able to confirm the visual observations and interceptors had not established the presence of a UFO. This distinction is crucial: the famous March scramble was exceptional within the wave, not representative of every 1989 sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/be/29nov1989eupenskepticsprinty.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span>
+Before that night, the Air Force had received a number of witness reports from December 1989 onward, but its radar stations had not been able to confirm the visual observations and interceptors had not established the presence of a UFO. This distinction is crucial: the famous March scramble was exceptional within the wave, not representative of every 1989 sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/be/29nov1989eupenskepticsprinty.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span>
 
-The March chronology, as reproduced in the Lambrechts report, begins around 23:00 local time when the Glons Control Reporting Centre received a call about three unusual lights near Thorembais-Gembloux. A Wavre gendarmerie patrol was asked to confirm the sighting, and later reports from the same chronology describe radar contacts, confirmation from Semmerzake, the scramble order, and nine attempted interceptions by two F-16s. The pilots reportedly had brief radar contacts and short lock-ons, but no visual contact with the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/belrap01.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span>
+The March chronology, as reproduced in the Lambrechts report, begins around 23:00 local time when the Glons Control Reporting Centre received a call about three unusual lights near Thorembais-Gembloux. A Wavre gendarmerie patrol was asked to confirm the sighting, and later reports from the same chronology describe radar contacts, confirmation from Semmerzake, the scramble order, and nine attempted interceptions by two F-16s. The pilots reportedly had brief radar contacts and short lock-ons, but no visual contact with the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/belrap01.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span>
 
-A separate English summary signed by Wilfried De Brouwer, then a senior Belgian Air Force officer, says the Air Force excluded some conventional explanations for the March event, including balloons, ultralight aircraft, remotely piloted vehicles, ordinary aircraft including stealth aircraft, laser projections, and mirages. It also states that two F-16s were scrambled after police confirmation and radar detection, and that no visual contact was established by either pilot. <span class="citation-chip-wrap"><a class="citation-chip" href="https://irdial.com/triangle_1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irdial.com">[irdial.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irdial.com</span><span class="citation-popover-title">Belgian Air Force UFO Report and Conclusions</span><span class="citation-popover-snippet">Belgian Air Force UFO Report and Conclusions</span></span></span>
+A separate English summary signed by Wilfried De Brouwer, then a senior Belgian Air Force officer, says the Air Force excluded some conventional explanations for the March event, including balloons, ultralight aircraft, remotely piloted vehicles, ordinary aircraft including stealth aircraft, laser projections, and mirages. It also states that two F-16s were scrambled after police confirmation and radar detection, and that no visual contact was established by either pilot.<span class="citation-chip-wrap"><a class="citation-chip" href="https://irdial.com/triangle_1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irdial.com">[irdial.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irdial.com</span><span class="citation-popover-title">Belgian Air Force UFO Report and Conclusions</span><span class="citation-popover-snippet">Belgian Air Force UFO Report and Conclusions</span></span></span>
 
 <img src="{{ "/assets/images/Belgium_radarvisual_58866e-Illustration-1-dark.svg" | relative_url }}" alt="Belgium radarvisual sightings 1989 illustration 1" data-theme-src-dark="{{ "/assets/images/Belgium_radarvisual_58866e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belgium_radarvisual_58866e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the strongest evidence does — and does not — show
 
-The strongest evidence is the combination of multiple witness reports, police involvement, and a military response. The Lambrechts chronology is especially valuable because it gives times, locations, Air Force units, gendarmerie observations, weather conditions, and the limits of the record. It notes clear visibility, a largely clear sky, light temperature inversions, and the absence of photographs or film from ground observers because suitable equipment was unavailable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/be/29nov1989eupenskepticsprinty.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span>
+The strongest evidence is the combination of multiple witness reports, police involvement, and a military response. The Lambrechts chronology is especially valuable because it gives times, locations, Air Force units, gendarmerie observations, weather conditions, and the limits of the record. It notes clear visibility, a largely clear sky, light temperature inversions, and the absence of photographs or film from ground observers because suitable equipment was unavailable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/be/29nov1989eupenskepticsprinty.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span>
 
-The official material also keeps the strongest claim narrower than many retellings. The Air Force could not identify the nature or origin of the phenomena, but that is not the same as saying it demonstrated an exotic craft. The summary signed by De Brouwer states that the Air Force was unable to identify the phenomena and believed it had enough elements to exclude several ordinary explanations; it does not establish a physical vehicle of unknown origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://irdial.com/triangle_1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irdial.com">[irdial.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irdial.com</span><span class="citation-popover-title">Belgian Air Force UFO Report and Conclusions</span><span class="citation-popover-snippet">Belgian Air Force UFO Report and Conclusions</span></span></span>
+The official material also keeps the strongest claim narrower than many retellings. The Air Force could not identify the nature or origin of the phenomena, but that is not the same as saying it demonstrated an exotic craft. The summary signed by De Brouwer states that the Air Force was unable to identify the phenomena and believed it had enough elements to exclude several ordinary explanations; it does not establish a physical vehicle of unknown origin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://irdial.com/triangle_1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irdial.com">[irdial.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irdial.com</span><span class="citation-popover-title">Belgian Air Force UFO Report and Conclusions</span><span class="citation-popover-snippet">Belgian Air Force UFO Report and Conclusions</span></span></span>
 
-The UK National Archives’ UFO release guide shows how the case travelled beyond Belgium: British files include Belgian material, a 1993 Belgian Air Force statement sent to the UK Ministry of Defence, and an account from De Brouwer saying F-16 pilots obtained radar “lock-ons” but could not explain the phenomena. The same guide notes that the UK Ministry of Defence was not informed at the time and concluded there was no threat to the UK. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
+The UK National Archives’ UFO release guide shows how the case travelled beyond Belgium: British files include Belgian material, a 1993 Belgian Air Force statement sent to the UK Ministry of Defence, and an account from De Brouwer saying F-16 pilots obtained radar “lock-ons” but could not explain the phenomena. The same guide notes that the UK Ministry of Defence was not informed at the time and concluded there was no threat to the UK.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
 The case therefore sits in a middle category. It has more documentary structure than many UFO reports, but the documents do not remove ambiguity. Radar contacts were brief and intermittent; the F-16 pilots did not see the object; and the visual reports were not accompanied by reliable contemporaneous imagery. Those weaknesses matter because the claimed object’s most dramatic behaviour depends heavily on interpreting radar returns as a solid target.
 
@@ -794,22 +794,22 @@ The case therefore sits in a middle category. It has more documentary structure 
 
 For many people, the Belgian wave became inseparable from the famous Petit-Rechain photograph: a dark triangular form with bright corner lights and a central light. It was widely reproduced and treated by some UFO writers as a major image from the wave. That made its later collapse especially damaging to the popular version of the case.
 
-In July 2011, Reuters reported that the Belgian photograph known worldwide as the Petit-Rechain UFO image had been a trick made with a piece of polystyrene. The man identified as Patrick told RTL that he and others had made the model, painted it, suspended it, and photographed it, later saying they had fooled people with little more than polystyrene. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/lifestyle/le-mystre-de-lovni-du-petit-rechain-lev-vingt-ans-aprs-idUSPAE76Q0P5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Le mystère de l&#x27;ovni du &quot;Petit-Rechain&quot; levé vingt ans après &#124; Reuters</span><span class="citation-popover-snippet">Le mystère de l&#x27;ovni du &quot;Petit-Rechain&quot; levé vingt ans après &#124; Reuters</span></span></span>
+In July 2011, Reuters reported that the Belgian photograph known worldwide as the Petit-Rechain UFO image had been a trick made with a piece of polystyrene. The man identified as Patrick told RTL that he and others had made the model, painted it, suspended it, and photographed it, later saying they had fooled people with little more than polystyrene.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/lifestyle/le-mystre-de-lovni-du-petit-rechain-lev-vingt-ans-aprs-idUSPAE76Q0P5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Le mystère de l&#x27;ovni du &quot;Petit-Rechain&quot; levé vingt ans après &#124; Reuters</span><span class="citation-popover-snippet">Le mystère de l&#x27;ovni du &quot;Petit-Rechain&quot; levé vingt ans après &#124; Reuters</span></span></span>
 
-Le Parisien’s report gave a similar account: the triangular object with lights was a suspended polystyrene model, and the joke lasted about 21 years. The article also noted that the picture had been examined by various people over the years without the hoax being exposed, which is a useful caution about treating photographic “analysis” as decisive when an image lacks background, scale, distance, and provenance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leparisien.fr/societe/le-celebre-ovni-de-petit-rechain-etait-une-supercherie-26-07-2011-1546020.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leparisien.fr">[leparisien.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leparisien.fr</span><span class="citation-popover-title">Le célèbre OVNI de Petit-Rechain était une supercherie</span><span class="citation-popover-snippet">Le célèbre OVNI de Petit-Rechain était une supercherie</span></span></span>
+Le Parisien’s report gave a similar account: the triangular object with lights was a suspended polystyrene model, and the joke lasted about 21 years. The article also noted that the picture had been examined by various people over the years without the hoax being exposed, which is a useful caution about treating photographic “analysis” as decisive when an image lacks background, scale, distance, and provenance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leparisien.fr/societe/le-celebre-ovni-de-petit-rechain-etait-une-supercherie-26-07-2011-1546020.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leparisien.fr">[leparisien.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leparisien.fr</span><span class="citation-popover-title">Le célèbre OVNI de Petit-Rechain était une supercherie</span><span class="citation-popover-snippet">Le célèbre OVNI de Petit-Rechain était une supercherie</span></span></span>
 
-The photograph’s failure does not automatically disprove the original 1989 witness reports or the March 1990 radar incident. Even Robert Sheaffer’s sceptical treatment in Skeptical Inquirer acknowledged that Belgian UFOlogist Patrick Ferryn argued the bogus photo did not invalidate the wave itself. But Sheaffer’s larger point is hard to avoid: the confession removed the most famous supposed photographic evidence attached to thousands of reported sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JF-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">SI JF 12</span><span class="citation-popover-snippet">SI JF 12</span></span></span>
+The photograph’s failure does not automatically disprove the original 1989 witness reports or the March 1990 radar incident. Even Robert Sheaffer’s sceptical treatment in Skeptical Inquirer acknowledged that Belgian UFOlogist Patrick Ferryn argued the bogus photo did not invalidate the wave itself. But Sheaffer’s larger point is hard to avoid: the confession removed the most famous supposed photographic evidence attached to thousands of reported sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JF-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">SI JF 12</span><span class="citation-popover-snippet">SI JF 12</span></span></span>
 
 <img src="{{ "/assets/images/Belgium_radarvisual_58866e-Illustration-2-dark.svg" | relative_url }}" alt="Belgium radarvisual sightings 1989 illustration 2" data-theme-src-dark="{{ "/assets/images/Belgium_radarvisual_58866e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belgium_radarvisual_58866e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The main sceptical explanations
 
 The sceptical case is not one explanation but a bundle of more limited explanations. Some sightings may have been aircraft, helicopters, celestial objects, ground lights, searchlights, or misperceived ordinary stimuli. Some reports may have been shaped by social contagion after press coverage. Some radar data may have reflected atmospheric or technical effects rather than a structured object.
 
-The social-contagion argument is strongest for the wave as a wave. Van Utrecht’s account emphasises that SOBEPS rapidly became the central collector of reports, that media coverage repeatedly publicised the phenomenon and the organisation’s contact route, and that SOBEPS collected about 2,000 accounts over two years, of which roughly 450 received some form of investigation. That volume is impressive, but it also creates conditions in which people are primed to watch the sky and interpret ambiguous lights through the triangular-UFO template. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caelestia.be/article05.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caelestia.be">[caelestia.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caelestia.be</span><span class="citation-popover-title">CAELESTI A Triangles over Belgium</span><span class="citation-popover-snippet">CAELESTI A Triangles over Belgium</span></span></span>
+The social-contagion argument is strongest for the wave as a wave. Van Utrecht’s account emphasises that SOBEPS rapidly became the central collector of reports, that media coverage repeatedly publicised the phenomenon and the organisation’s contact route, and that SOBEPS collected about 2,000 accounts over two years, of which roughly 450 received some form of investigation. That volume is impressive, but it also creates conditions in which people are primed to watch the sky and interpret ambiguous lights through the triangular-UFO template.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caelestia.be/article05.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caelestia.be">[caelestia.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caelestia.be</span><span class="citation-popover-title">CAELESTI A Triangles over Belgium</span><span class="citation-popover-snippet">CAELESTI A Triangles over Belgium</span></span></span>
 
-The radar-sceptical argument is strongest for the F-16 chase. A search result for Tim Printy’s “Belgium 1990: A Case for Radar-Visual UFOs?” identifies it as a sceptical analysis updated in 2009, and later summaries of the sceptical position argue that some supposed locks were likely radar artefacts or mutual F-16 contacts rather than a single extraordinary target. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astronomyufo.com/UFO/Belg.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyufo.com">[astronomyufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyufo.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The radar-sceptical argument is strongest for the F-16 chase. A search result for Tim Printy’s “Belgium 1990: A Case for Radar-Visual UFOs?” identifies it as a sceptical analysis updated in 2009, and later summaries of the sceptical position argue that some supposed locks were likely radar artefacts or mutual F-16 contacts rather than a single extraordinary target.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astronomyufo.com/UFO/Belg.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyufo.com">[astronomyufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyufo.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A technical caution is also warranted: radar can detect things that are not aircraft. Clear-air Bragg scatter is a recognised atmospheric radar phenomenon, with NOAA-linked research describing echo returns from clear-air Bragg scatter and explaining that it is caused by turbulent inhomogeneities associated with refractivity gradients. That does not prove Bragg scatter caused the Belgian returns, but it shows why “radar contact” is not automatically equivalent to “solid craft”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://repository.library.noaa.gov/view/noaa/32330/noaa_32330_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.library.noaa.gov">[NOAA Institutional Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.library.noaa.gov</span><span class="citation-popover-title">noaa 32330 DS1</span><span class="citation-popover-snippet">noaa 32330 DS1</span></span></span>
+A technical caution is also warranted: radar can detect things that are not aircraft. Clear-air Bragg scatter is a recognised atmospheric radar phenomenon, with NOAA-linked research describing echo returns from clear-air Bragg scatter and explaining that it is caused by turbulent inhomogeneities associated with refractivity gradients. That does not prove Bragg scatter caused the Belgian returns, but it shows why “radar contact” is not automatically equivalent to “solid craft”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://repository.library.noaa.gov/view/noaa/32330/noaa_32330_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.library.noaa.gov">[NOAA Institutional Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.library.noaa.gov</span><span class="citation-popover-title">noaa 32330 DS1</span><span class="citation-popover-snippet">noaa 32330 DS1</span></span></span>
 
 The sceptical case is weaker when it tries to flatten all reports into one cause. The late-1989 sightings did not all occur under identical conditions, and police witnesses deserve more careful treatment than anonymous after-the-fact rumours. A fair reading is that the Belgian wave probably mixed several categories of observation: some ordinary misidentifications, some reports reshaped by media attention, some hoaxes or weak evidence, and a smaller residue of better-attested observations that remain uncertain.
 
@@ -819,203 +819,203 @@ The sceptical case is weaker when it tries to flatten all reports into one cause
 
 The unresolved part is not “aliens versus hoax”. The better question is narrower: whether the best 1989 visual reports and the 1990 radar/visual episode point to a single extraordinary object, several unrelated stimuli, or a feedback loop in which real lights, ordinary aircraft, radar quirks, and human interpretation reinforced one another.
 
-The 1989 Eupen-area reports remain notable because they include named police participation, repeated communications, and multiple local witnesses. Yet the account also contains description drift, limited physical evidence, and no dependable imagery. The March 1990 Air Force episode remains notable because it produced military documentation and radar-linked action; yet the pilots saw nothing, the radar contacts were brief, and the most dramatic performance claims rest on readings that can be challenged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://irdial.com/triangle_1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irdial.com">[2irdial.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irdial.com</span><span class="citation-popover-title">Belgian Air Force UFO Report and Conclusions</span><span class="citation-popover-snippet">Belgian Air Force UFO Report and Conclusions</span></span></span>
+The 1989 Eupen-area reports remain notable because they include named police participation, repeated communications, and multiple local witnesses. Yet the account also contains description drift, limited physical evidence, and no dependable imagery. The March 1990 Air Force episode remains notable because it produced military documentation and radar-linked action; yet the pilots saw nothing, the radar contacts were brief, and the most dramatic performance claims rest on readings that can be challenged.<span class="citation-chip-wrap"><a class="citation-chip" href="https://irdial.com/triangle_1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irdial.com">[2irdial.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irdial.com</span><span class="citation-popover-title">Belgian Air Force UFO Report and Conclusions</span><span class="citation-popover-snippet">Belgian Air Force UFO Report and Conclusions</span></span></span>
 
-The Petit-Rechain hoax also changes the way the whole case should be read. It does not erase the Air Force report or the police testimony, but it demonstrates how easily a visually powerful artefact can become the public face of a case before its provenance is secure. For a case dossier, the photograph belongs in a sibling branch on photographic evidence and hoaxes, while the 1989 police and civilian reports should be evaluated separately from it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/lifestyle/le-mystre-de-lovni-du-petit-rechain-lev-vingt-ans-aprs-idUSPAE76Q0P5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Le mystère de l&#x27;ovni du &quot;Petit-Rechain&quot; levé vingt ans après &#124; Reuters</span><span class="citation-popover-snippet">Le mystère de l&#x27;ovni du &quot;Petit-Rechain&quot; levé vingt ans après &#124; Reuters</span></span></span>
+The Petit-Rechain hoax also changes the way the whole case should be read. It does not erase the Air Force report or the police testimony, but it demonstrates how easily a visually powerful artefact can become the public face of a case before its provenance is secure. For a case dossier, the photograph belongs in a sibling branch on photographic evidence and hoaxes, while the 1989 police and civilian reports should be evaluated separately from it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/lifestyle/le-mystre-de-lovni-du-petit-rechain-lev-vingt-ans-aprs-idUSPAE76Q0P5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Le mystère de l&#x27;ovni du &quot;Petit-Rechain&quot; levé vingt ans après &#124; Reuters</span><span class="citation-popover-snippet">Le mystère de l&#x27;ovni du &quot;Petit-Rechain&quot; levé vingt ans après &#124; Reuters</span></span></span>
 
 The most defensible conclusion is modest: Belgium’s 1989 radar/visual sightings are among the more documented European UFO waves, especially because of the later Air Force involvement, but the evidence does not justify treating the case as proven exotic technology. Its continuing value is as a case study in how witness credibility, official uncertainty, radar interpretation, media amplification, and later debunking can all coexist in the same historical incident.
 
 <img src="{{ "/assets/images/Belgium_radarvisual_58866e-Illustration-3-dark.svg" | relative_url }}" alt="Belgium radarvisual sightings 1989 illustration 3" data-theme-src-dark="{{ "/assets/images/Belgium_radarvisual_58866e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belgium_radarvisual_58866e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened Over Belgium?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened Over Belgium?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides the most objective, detailed archival summary of the Belgian wave, weighing police reports against later hoax admissions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the most objective, detailed archival summary of the Belgian wave, weighing police reports against later hoax admissions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Offers the historical and sociological framework for comparing the Belgian wave against earlier European reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers the historical and sociological framework for comparing the Belgian wave against earlier European reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
-        </h4>
-        <p class="fr-book-author">By Guy Lawson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+</h4>
+<p class="fr-book-author">By Guy Lawson</p>
         
-        <p class="fr-book-desc">Contains critical military and aviation perspectives on the 1990 F-16 radar scramble event, providing necessary context beyond the initia...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains critical military and aviation perspectives on the 1990 F-16 radar scramble event, providing necessary context beyond the initia...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Explains how mass sightings, once featured in headlines, undergo social reinforcement that obscures original, more mundane evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how mass sightings, once featured in headlines, undergo social reinforcement that obscures original, more mundane evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-belgium-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-over-belgium-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1031,7 +1031,7 @@ The most defensible conclusion is modest: Belgium’s 1989 radar/visual sighting
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1051,7 +1051,7 @@ The most defensible conclusion is modest: Belgium’s 1989 radar/visual sighting
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1083,7 +1083,7 @@ The most defensible conclusion is modest: Belgium’s 1989 radar/visual sighting
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1135,7 +1135,7 @@ The most defensible conclusion is modest: Belgium’s 1989 radar/visual sighting
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1180,7 +1180,7 @@ The most defensible conclusion is modest: Belgium’s 1989 radar/visual sighting
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1221,146 +1221,146 @@ The most defensible conclusion is modest: Belgium’s 1989 radar/visual sighting
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: caelestia.be  
    Title: CAELESTI A Triangles over Belgium  
-   Link: <a href="https://www.caelestia.be/article05.html" target="_blank" rel="noopener noreferrer nofollow">https://www.caelestia.be/article05.html</a>  
+   Link:<a href="https://www.caelestia.be/article05.html" target="_blank" rel="noopener noreferrer nofollow">https://www.caelestia.be/article05.html</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/belrap01.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/belrap01.htm</a>  
+   Link:<a href="https://ufologie.patrickgross.org/htm/belrap01.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/belrap01.htm</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: irdial.com  
    Title: Belgian Air Force UFO Report and Conclusions  
-   Link: <a href="https://irdial.com/triangle_1.htm" target="_blank" rel="noopener noreferrer nofollow">https://irdial.com/triangle_1.htm</a>  
+   Link:<a href="https://irdial.com/triangle_1.htm" target="_blank" rel="noopener noreferrer nofollow">https://irdial.com/triangle_1.htm</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reuters.com  
    Title: Le mystère de l'ovni du "Petit-Rechain" levé vingt ans après | Reuters  
-   Link: <a href="https://www.reuters.com/article/lifestyle/le-mystre-de-lovni-du-petit-rechain-lev-vingt-ans-aprs-idUSPAE76Q0P5/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/lifestyle/le-mystre-de-lovni-du-petit-rechain-lev-vingt-ans-aprs-idUSPAE76Q0P5/</a>  
+   Link:<a href="https://www.reuters.com/article/lifestyle/le-mystre-de-lovni-du-petit-rechain-lev-vingt-ans-aprs-idUSPAE76Q0P5/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/lifestyle/le-mystre-de-lovni-du-petit-rechain-lev-vingt-ans-aprs-idUSPAE76Q0P5/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: leparisien.fr  
    Title: Le célèbre OVNI de Petit-Rechain était une supercherie  
-   Link: <a href="https://www.leparisien.fr/societe/le-celebre-ovni-de-petit-rechain-etait-une-supercherie-26-07-2011-1546020.php" target="_blank" rel="noopener noreferrer nofollow">https://www.leparisien.fr/societe/le-celebre-ovni-de-petit-rechain-etait-une-supercherie-26-07-2011-1546020.php</a>  
+   Link:<a href="https://www.leparisien.fr/societe/le-celebre-ovni-de-petit-rechain-etait-une-supercherie-26-07-2011-1546020.php" target="_blank" rel="noopener noreferrer nofollow">https://www.leparisien.fr/societe/le-celebre-ovni-de-petit-rechain-etait-une-supercherie-26-07-2011-1546020.php</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: skepticalinquirer.org  
    Title: SI JF 12  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JF-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JF-12.pdf</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JF-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JF-12.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: astronomyufo.com  
-   Link: <a href="https://www.astronomyufo.com/UFO/Belg.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/Belg.htm</a>  
+   Link:<a href="https://www.astronomyufo.com/UFO/Belg.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/Belg.htm</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: repository.library.noaa.gov  
    Title: noaa 32330 DS1  
-   Link: <a href="https://repository.library.noaa.gov/view/noaa/32330/noaa_32330_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/32330/noaa_32330_DS1.pdf</a>  
+   Link:<a href="https://repository.library.noaa.gov/view/noaa/32330/noaa_32330_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/32330/noaa_32330_DS1.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: caelestia.be  
-   Link: <a href="https://www.caelestia.be/article05ad.html" target="_blank" rel="noopener noreferrer nofollow">https://www.caelestia.be/article05ad.html</a>  
+   Link:<a href="https://www.caelestia.be/article05ad.html" target="_blank" rel="noopener noreferrer nofollow">https://www.caelestia.be/article05ad.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: caelestia.be  
    Title: T riangle s ove r B elgiu m  
-   Link: <a href="https://www.caelestia.be/article05b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.caelestia.be/article05b.html</a>  
+   Link:<a href="https://www.caelestia.be/article05b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.caelestia.be/article05b.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/be/29nov1989eupenskepticsprinty.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/be/29nov1989eupenskepticsprinty.htm</a>  
+   Link:<a href="https://ufologie.patrickgross.org/be/29nov1989eupenskepticsprinty.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/be/29nov1989eupenskepticsprinty.htm</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: repository.library.noaa.gov  
    Title: noaa 11266 DS1  
-   Link: <a href="https://repository.library.noaa.gov/view/noaa/11266/noaa_11266_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/11266/noaa_11266_DS1.pdf</a>  
+   Link:<a href="https://repository.library.noaa.gov/view/noaa/11266/noaa_11266_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/11266/noaa_11266_DS1.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: psl.noaa.gov  
    Title: WRM 2001  
-   Link: <a href="https://psl.noaa.gov/psd3/multi/ocean/img/WRM_2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psl.noaa.gov/psd3/multi/ocean/img/WRM_2001.pdf</a>  
+   Link:<a href="https://psl.noaa.gov/psd3/multi/ocean/img/WRM_2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psl.noaa.gov/psd3/multi/ocean/img/WRM_2001.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: repository.library.noaa.gov  
    Title: noaa 32462 DS1  
-   Link: <a href="https://repository.library.noaa.gov/view/noaa/32462/noaa_32462_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/32462/noaa_32462_DS1.pdf</a>  
+   Link:<a href="https://repository.library.noaa.gov/view/noaa/32462/noaa_32462_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/32462/noaa_32462_DS1.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nssl.noaa.gov  
-   Link: <a href="https://www.nssl.noaa.gov/publications/books/Errata_2nd_edition_3rd_and_4th_prt_nc.doc" target="_blank" rel="noopener noreferrer nofollow">https://www.nssl.noaa.gov/publications/books/Errata_2nd_edition_3rd_and_4th_prt_nc.doc</a>  
+   Link:<a href="https://www.nssl.noaa.gov/publications/books/Errata_2nd_edition_3rd_and_4th_prt_nc.doc" target="_blank" rel="noopener noreferrer nofollow">https://www.nssl.noaa.gov/publications/books/Errata_2nd_edition_3rd_and_4th_prt_nc.doc</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Belgium" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belgium</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Belgium" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belgium</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
    Title: ufo reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=SbQhrIRCs-c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SbQhrIRCs-c</a>  
+   Link:<a href="https://www.youtube.com/watch?v=SbQhrIRCs-c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SbQhrIRCs-c</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_Y_jzbQc-bE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_Y_jzbQc-bE</a>  
+   Link:<a href="https://www.youtube.com/watch?v=_Y_jzbQc-bE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_Y_jzbQc-bE</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/belgian" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/belgian</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/belgian" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/belgian</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: gymglish.com  
-   Link: <a href="https://www.gymglish.com/en/gymglish/english-translation/belgian" target="_blank" rel="noopener noreferrer nofollow">https://www.gymglish.com/en/gymglish/english-translation/belgian</a>  
+   Link:<a href="https://www.gymglish.com/en/gymglish/english-translation/belgian" target="_blank" rel="noopener noreferrer nofollow">https://www.gymglish.com/en/gymglish/english-translation/belgian</a>  
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Analysis of the Belgian UFO Wave  
-   Link: <a href="https://www.youtube.com/watch?v=jW0iP632x6I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jW0iP632x6I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos provide eyewitness accounts, archival reporting, and technical discussions regarding the 1989–1990 Belgium radar and visual...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jW0iP632x6I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jW0iP632x6I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These videos provide eyewitness accounts, archival reporting, and technical discussions regarding the 1989–1990 Belgium radar and visual...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/4321342/The_Beginning_of_the_Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/4321342/The_Beginning_of_the_Belgian_UFO_wave</a>  
+   Link:<a href="https://www.academia.edu/4321342/The_Beginning_of_the_Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/4321342/The_Beginning_of_the_Belgian_UFO_wave</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/yahuahkingdom/posts/1307786983068056/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/yahuahkingdom/posts/1307786983068056/</a>  
+   Link:<a href="https://www.facebook.com/groups/yahuahkingdom/posts/1307786983068056/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/yahuahkingdom/posts/1307786983068056/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/Belgian" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/Belgian</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/Belgian" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/Belgian</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: collinsdictionary.com  
-   Link: <a href="https://www.collinsdictionary.com/dictionary/english/belgian" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/belgian</a>  
+   Link:<a href="https://www.collinsdictionary.com/dictionary/english/belgian" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/belgian</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/dictionary/Belgian" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/dictionary/Belgian</a>  
+   Link:<a href="https://www.britannica.com/dictionary/Belgian" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/dictionary/Belgian</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/7mlcfu/clearer_banned_footage_of_the_phoenix_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/7mlcfu/clearer_banned_footage_of_the_phoenix_lights/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/7mlcfu/clearer_banned_footage_of_the_phoenix_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/7mlcfu/clearer_banned_footage_of_the_phoenix_lights/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: x.com  
-   Link: <a href="https://x.com/rosscoulthart/status/1863796156301803656" target="_blank" rel="noopener noreferrer nofollow">https://x.com/rosscoulthart/status/1863796156301803656</a>  
+   Link:<a href="https://x.com/rosscoulthart/status/1863796156301803656" target="_blank" rel="noopener noreferrer nofollow">https://x.com/rosscoulthart/status/1863796156301803656</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/extraterrestrial-contacts-the-roswell-foil-ufos-and-how-they-alter-our-understanding-of-the-modern-world-0936618132-9780936618135.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/extraterrestrial-contacts-the-roswell-foil-ufos-and-how-they-alter-our-understanding-of-the-modern-world-0936618132-9780936618135.html</a>  
+   Link:<a href="https://dokumen.pub/extraterrestrial-contacts-the-roswell-foil-ufos-and-how-they-alter-our-understanding-of-the-modern-world-0936618132-9780936618135.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/extraterrestrial-contacts-the-roswell-foil-ufos-and-how-they-alter-our-understanding-of-the-modern-world-0936618132-9780936618135.html</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RTLTVI/videos/ils-ont-trouv%C3%A9-une-photo-des-ovnis-deupen-%EF%B8%8F-ovnis-le-myst%C3%A8re-belge-cest-sur-rtl-/1263776849174481/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RTLTVI/videos/ils-ont-trouv%C3%A9-une-photo-des-ovnis-deupen-%EF%B8%8F-ovnis-le-myst%C3%A8re-belge-cest-sur-rtl-/1263776849174481/</a>
+   Link:<a href="https://www.facebook.com/RTLTVI/videos/ils-ont-trouv%C3%A9-une-photo-des-ovnis-deupen-%EF%B8%8F-ovnis-le-myst%C3%A8re-belge-cest-sur-rtl-/1263776849174481/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RTLTVI/videos/ils-ont-trouv%C3%A9-une-photo-des-ovnis-deupen-%EF%B8%8F-ovnis-le-myst%C3%A8re-belge-cest-sur-rtl-/1263776849174481/</a>

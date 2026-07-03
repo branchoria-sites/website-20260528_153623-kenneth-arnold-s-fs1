@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /tully-saucer-nest-in-b9d0b0-index/
 description: Focused pages that expand on Tully saucer nest incident 1966.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Tully_saucer_nest_in_b9d0b0
 parent_title: Tully saucer nest incident 1966
@@ -16,7 +16,7 @@ parent_permalink: /tully-saucer-nest-incident-1966/
 
 # Explore Topics in Tully saucer nest incident 1966
 
-The following pages expand on the main **[Tully saucer nest incident 1966]({{ '/tully-saucer-nest-incident-1966/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Tully saucer nest incident 1966]({{ '/tully-saucer-nest-incident-1966/' | relative_url }})** page and cover its key branches in.
 
 - [Witness Account]({{ '/witness-account-ac0adc/' | relative_url }})
 - [Physical Trace]({{ '/physical-trace/' | relative_url }})

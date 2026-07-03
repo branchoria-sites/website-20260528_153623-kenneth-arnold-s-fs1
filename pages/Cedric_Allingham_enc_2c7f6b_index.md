@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /cedric-allingham-enc-2c7f6b-index/
 description: Focused pages that expand on Cedric Allingham encounter 1954.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Cedric_Allingham_enc_2c7f6b
 parent_title: Cedric Allingham encounter 1954
@@ -16,7 +16,7 @@ parent_permalink: /cedric-allingham-encounter-1954/
 
 # Explore Topics in Cedric Allingham encounter 1954
 
-The following pages expand on the main **[Cedric Allingham encounter 1954]({{ '/cedric-allingham-encounter-1954/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Cedric Allingham encounter 1954]({{ '/cedric-allingham-encounter-1954/' | relative_url }})** page and cover its key branches in.
 
 - [Evidence Trail]({{ '/evidence-trail/' | relative_url }})
 - [The Claim]({{ '/the-claim-db591c/' | relative_url }})

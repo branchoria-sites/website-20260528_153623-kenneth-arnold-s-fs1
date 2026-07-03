@@ -758,29 +758,29 @@ image: /assets/images/USS_Theodore_Rooseve_a4867d-overview-social.jpg
 
 ## What the Gimbal clip actually shows
 
-The official public version of Gimbal is a short infrared video labelled by the US military as “GIMBAL - UAP”. DVIDS, the US military’s public imagery platform, lists it as a Naval Air Systems Command courtesy video, with a stated length of 00:00:34 and a “Date Taken” field of 1 January 2015. That exact date should be treated cautiously as public metadata rather than a fully explained operational chronology; other accounts and technical discussions generally place the event in January 2015 off the US east coast, often near Florida or Jacksonville. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/956955/gimbal-uap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics UFO Navy &#124; UFO Videos &#124; Navy Officially Releases UFO Videos</span><span class="citation-popover-snippet">Popular Mechanics UFO Navy &#124; UFO Videos &#124; Navy Officially Releases UFO Videos</span></span></span>
+The official public version of Gimbal is a short infrared video labelled by the US military as “GIMBAL - UAP”. DVIDS, the US military’s public imagery platform, lists it as a Naval Air Systems Command courtesy video, with a stated length of 00:00:34 and a “Date Taken” field of 1 January 2015. That exact date should be treated cautiously as public metadata rather than a fully explained operational chronology; other accounts and technical discussions generally place the event in January 2015 off the US east coast, often near Florida or Jacksonville.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/956955/gimbal-uap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics UFO Navy &#124; UFO Videos &#124; Navy Officially Releases UFO Videos</span><span class="citation-popover-snippet">Popular Mechanics UFO Navy &#124; UFO Videos &#124; Navy Officially Releases UFO Videos</span></span></span>
 
 <img src="{{ "/assets/images/USS_Theodore_Rooseve_a4867d-overview.webp" | relative_url }}" alt="Overview image for USS Theodore Roosevelt Gimbal video 2015" loading="eager" decoding="sync" fetchpriority="high">
-In the clip, a small hot object is tracked by the aircraft’s sensor. The cockpit audio is part of why the video became famous: the aircrew comment that the object appears to rotate and refer to other objects “going against the wind”. Because the footage is thermal imagery, the shape on screen is not necessarily the physical outline of a craft. It is a sensor image shaped by heat, optics, tracking, contrast processing, distance, and camera movement. That distinction matters because many popular retellings treat the image as if it were a daylight photograph of a solid object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">UFOs regularly spotted in restricted U.S. airspace, report on the phenomena due next month - 60 Minutes - CBS News...</span></span></span>
+In the clip, a small hot object is tracked by the aircraft’s sensor. The cockpit audio is part of why the video became famous: the aircrew comment that the object appears to rotate and refer to other objects “going against the wind”. Because the footage is thermal imagery, the shape on screen is not necessarily the physical outline of a craft. It is a sensor image shaped by heat, optics, tracking, contrast processing, distance, and camera movement. That distinction matters because many popular retellings treat the image as if it were a daylight photograph of a solid object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">UFOs regularly spotted in restricted U.S. airspace, report on the phenomena due next month - 60 Minutes - CBS News...</span></span></span>
 
-The video is closely linked to the Roosevelt carrier strike group’s 2014-2015 encounters, but it should not be blended carelessly with the Nimitz “Tic Tac” case from 2004 or the separate “Go Fast” video. Gimbal and Go Fast are sibling Roosevelt-era cases; they involve the same broad east-coast training environment and similar public-release history, but each has its own evidential limits and technical issues. Popular Mechanics reported that Gimbal and Go Fast were captured in January 2015 by an F/A-18F using the Raytheon AN/ASQ-228 Advanced Targeting Forward-Looking Infrared pod. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics UFO Navy &#124; UFO Videos &#124; Navy Officially Releases UFO Videos</span><span class="citation-popover-snippet">Popular Mechanics UFO Navy &#124; UFO Videos &#124; Navy Officially Releases UFO Videos</span></span></span>
+The video is closely linked to the Roosevelt carrier strike group’s 2014-2015 encounters, but it should not be blended carelessly with the Nimitz “Tic Tac” case from 2004 or the separate “Go Fast” video. Gimbal and Go Fast are sibling Roosevelt-era cases; they involve the same broad east-coast training environment and similar public-release history, but each has its own evidential limits and technical issues. Popular Mechanics reported that Gimbal and Go Fast were captured in January 2015 by an F/A-18F using the Raytheon AN/ASQ-228 Advanced Targeting Forward-Looking Infrared pod.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics UFO Navy &#124; UFO Videos &#124; Navy Officially Releases UFO Videos</span><span class="citation-popover-snippet">Popular Mechanics UFO Navy &#124; UFO Videos &#124; Navy Officially Releases UFO Videos</span></span></span>
 
 ## How the video entered the public record
 
-Gimbal became widely known through the wave of reporting that began in late 2017 around the Pentagon’s Advanced Aerospace Threat Identification Program and Navy UAP videos. The clips circulated publicly before the Department of Defense formally authorised their release. In September 2019, Navy spokesperson Joseph Gradisher confirmed to Time that the three widely shared videos showed “unidentified aerial phenomena”, while also stressing that the footage had not originally been authorised for public release and that the Navy’s concern was framed around safety and security in military training ranges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5680192/navy-confirms-ufo-videos-real/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Gimbal became widely known through the wave of reporting that began in late 2017 around the Pentagon’s Advanced Aerospace Threat Identification Program and Navy UAP videos. The clips circulated publicly before the Department of Defense formally authorised their release. In September 2019, Navy spokesperson Joseph Gradisher confirmed to Time that the three widely shared videos showed “unidentified aerial phenomena”, while also stressing that the footage had not originally been authorised for public release and that the Navy’s concern was framed around safety and security in military training ranges.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5680192/navy-confirms-ufo-videos-real/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The Department of Defense formally released the three historical Navy videos in April 2020. Its statement was deliberately limited: after review, the department said the unclassified videos did not reveal sensitive capabilities or systems, and it released them to clear up whether the footage in circulation was real or whether more complete public versions existed. Crucially, the statement said the aerial phenomena in the videos remained characterised as “unidentified”, not that they were extraordinary, alien, or technologically impossible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(#endnote-2 "Snippet: Statement by the Department of Defense on the Release of Historical Navy Videos > U.S. Department of War > Release | U.S. Department of War")
+The Department of Defense formally released the three historical Navy videos in April 2020. Its statement was deliberately limited: after review, the department said the unclassified videos did not reveal sensitive capabilities or systems, and it released them to clear up whether the footage in circulation was real or whether more complete public versions existed. Crucially, the statement said the aerial phenomena in the videos remained characterised as “unidentified”, not that they were extraordinary, alien, or technologically impossible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(#endnote-2 "Snippet: Statement by the Department of Defense on the Release of Historical Navy Videos > U.S. Department of War > Release | U.S. Department of War")
 
-AARO, the All-domain Anomaly Resolution Office, now lists the Gimbal video under official UAP imagery as “NAVAIR - FOIA: Unresolved Case: GIMBAL Video”, describing it as video of a US Navy F/A-18 crew’s encounter with an unexplained anomalous phenomenon. That is the strongest current official status: authenticated, publicly released, and unresolved in the public-facing record. It is not a public finding that the object demonstrated non-human technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
+AARO, the All-domain Anomaly Resolution Office, now lists the Gimbal video under official UAP imagery as “NAVAIR - FOIA: Unresolved Case: GIMBAL Video”, describing it as video of a US Navy F/A-18 crew’s encounter with an unexplained anomalous phenomenon. That is the strongest current official status: authenticated, publicly released, and unresolved in the public-facing record. It is not a public finding that the object demonstrated non-human technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
 
 <img src="{{ "/assets/images/USS_Theodore_Rooseve_a4867d-Illustration-1-dark.svg" | relative_url }}" alt="USS Theodore Roosevelt Gimbal video 2015 illustration 1" data-theme-src-dark="{{ "/assets/images/USS_Theodore_Rooseve_a4867d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Theodore_Rooseve_a4867d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why pilots took it seriously
 
-The Gimbal video would be much less important if it were only a blurry clip without human context. Its significance comes partly from the testimony of aviators associated with the Roosevelt-era sightings. Former Navy pilot Ryan Graves told CBS’s 60 Minutes that his F/A-18F squadron began seeing UAP in restricted airspace southeast of Virginia Beach in 2014 after a radar upgrade made it possible to detect and then cue infrared sensors onto objects. Graves framed the issue as a security risk, not as a claim of alien visitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">UFOs regularly spotted in restricted U.S. airspace, report on the phenomena due next month - 60 Minutes - CBS News...</span></span></span>
+The Gimbal video would be much less important if it were only a blurry clip without human context. Its significance comes partly from the testimony of aviators associated with the Roosevelt-era sightings. Former Navy pilot Ryan Graves told CBS’s 60 Minutes that his F/A-18F squadron began seeing UAP in restricted airspace southeast of Virginia Beach in 2014 after a radar upgrade made it possible to detect and then cue infrared sensors onto objects. Graves framed the issue as a security risk, not as a claim of alien visitation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">UFOs regularly spotted in restricted U.S. airspace, report on the phenomena due next month - 60 Minutes - CBS News...</span></span></span>
 
-CBS’s account tied the Gimbal footage to Graves’s squadron, describing it as captured off Jacksonville, Florida in 2015. Graves told 60 Minutes the clip was “difficult” to explain and pointed to features such as apparent rotation, altitude, and propulsion uncertainty, while also saying he did not know what it was. That caution is important: the witness case is not simply “pilots saw aliens”; it is that trained military aviators and their systems encountered something they could not confidently identify in a controlled training environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">UFOs regularly spotted in restricted U.S. airspace, report on the phenomena due next month - 60 Minutes - CBS News...</span></span></span>
+CBS’s account tied the Gimbal footage to Graves’s squadron, describing it as captured off Jacksonville, Florida in 2015. Graves told 60 Minutes the clip was “difficult” to explain and pointed to features such as apparent rotation, altitude, and propulsion uncertainty, while also saying he did not know what it was. That caution is important: the witness case is not simply “pilots saw aliens”; it is that trained military aviators and their systems encountered something they could not confidently identify in a controlled training environment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">UFOs regularly spotted in restricted U.S. airspace, report on the phenomena due next month - 60 Minutes - CBS News...</span></span></span>
 
-The witness layer also includes claims beyond the public 34-second clip. A 2023 technical preprint by Yannick Peings and Marik von Rennenkampff summarised pilot-linked claims that the object was within 10 nautical miles, appeared on radar to stop and reverse direction with no turn radius, and was associated with a formation of four to six other unknown objects. Those claims, if correct, would make the event more anomalous than the public video alone can establish. But they also depend on information that is not fully available for independent public verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The witness layer also includes claims beyond the public 34-second clip. A 2023 technical preprint by Yannick Peings and Marik von Rennenkampff summarised pilot-linked claims that the object was within 10 nautical miles, appeared on radar to stop and reverse direction with no turn radius, and was associated with a formation of four to six other unknown objects. Those claims, if correct, would make the event more anomalous than the public video alone can establish. But they also depend on information that is not fully available for independent public verification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kZyNMqcpFm8" title="Unidentified: Naval Pilots Witness UFOs (Season 1) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kZyNMqcpFm8" target="_blank" rel="noopener noreferrer">Unidentified: Naval Pilots Witness UFOs (Season 1) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 1.9M &middot; Uploaded: September 2019 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kZyNMqcpFm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kZyNMqcpFm8">Open on YouTube</a></p></div></div></div>
 
@@ -788,16 +788,16 @@ The witness layer also includes claims beyond the public 34-second clip. A 2023 
 
 The public clip proves less than many dramatic retellings imply. It establishes that a Navy aircraft’s infrared targeting system tracked something the crew could not immediately identify, and that the crew perceived the situation as unusual. It also preserves sensor-display information that analysts can use to infer possible geometry, line of sight and camera behaviour. It does not, by itself, establish the object’s range, size, exact speed, full flight path, origin, or physical shape.
 
-That limitation is not a minor technicality. In infrared targeting footage, an unresolved distant aircraft, a glare pattern, or a small object at an uncertain distance can look far more dramatic than it is. The 2021 ODNI preliminary UAP assessment made this broader point about UAP data: the available reporting was largely inconclusive, sensor vantage points and sensor types strongly affect interpretation, and optical sensors may provide some information about shape and structure while radio-frequency sensors are more useful for velocity and range. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
+That limitation is not a minor technicality. In infrared targeting footage, an unresolved distant aircraft, a glare pattern, or a small object at an uncertain distance can look far more dramatic than it is. The 2021 ODNI preliminary UAP assessment made this broader point about UAP data: the available reporting was largely inconclusive, sensor vantage points and sensor types strongly affect interpretation, and optical sensors may provide some information about shape and structure while radio-frequency sensors are more useful for velocity and range.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
 
-The ODNI report also noted that many UAP reports involved multiple sensors and that some incidents appeared to show unusual movement or flight characteristics, but it did not publicly resolve Gimbal. It identified one UAP report with high confidence as a deflating balloon and said the others in its limited dataset lacked enough information for specific attribution. That broader official pattern fits Gimbal: serious enough to remain in the file, but too thin in the public record to support a definitive exotic conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
+The ODNI report also noted that many UAP reports involved multiple sensors and that some incidents appeared to show unusual movement or flight characteristics, but it did not publicly resolve Gimbal. It identified one UAP report with high confidence as a deflating balloon and said the others in its limited dataset lacked enough information for specific attribution. That broader official pattern fits Gimbal: serious enough to remain in the file, but too thin in the public record to support a definitive exotic conclusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
 
 <img src="{{ "/assets/images/USS_Theodore_Rooseve_a4867d-Illustration-2-dark.svg" | relative_url }}" alt="USS Theodore Roosevelt Gimbal video 2015 illustration 2" data-theme-src-dark="{{ "/assets/images/USS_Theodore_Rooseve_a4867d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Theodore_Rooseve_a4867d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The main sceptical explanation: glare and the camera gimbal
 
-The most developed sceptical interpretation is that Gimbal shows infrared glare from a distant conventional aircraft, probably viewed from behind or near-behind, with the apparent rotation caused by the gimbal-mounted camera system rather than by the object itself. Mick West, a prominent UFO video analyst and sceptical investigator, has argued that the shape resembles engine glare rather than a visible craft, and that camera de-rotation mechanisms associated with “gimbal roll” can make glare rotate in the way seen in the clip. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most developed sceptical interpretation is that Gimbal shows infrared glare from a distant conventional aircraft, probably viewed from behind or near-behind, with the apparent rotation caused by the gimbal-mounted camera system rather than by the object itself. Mick West, a prominent UFO video analyst and sceptical investigator, has argued that the shape resembles engine glare rather than a visible craft, and that camera de-rotation mechanisms associated with “gimbal roll” can make glare rotate in the way seen in the clip.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This explanation has real strengths. It directly addresses the most eye-catching visual feature: the rotation. It also explains why the apparent object looks like a featureless blob rather than a clearly resolved aircraft, and why the “aura” or outline around it may be an image-processing effect rather than a physical field or envelope. Leonard David’s summary of West’s position quotes the core claim plainly: the Gimbal object is probably a plane, the visible form is infrared engine glare larger than the plane itself, and the rotation is an artefact of the camera system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[Leonard David]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">Leonard David Debunking Navy “UFO” Videos</span><span class="citation-popover-snippet">Leonard David Debunking Navy “UFO” Videos</span></span></span>
+This explanation has real strengths. It directly addresses the most eye-catching visual feature: the rotation. It also explains why the apparent object looks like a featureless blob rather than a clearly resolved aircraft, and why the “aura” or outline around it may be an image-processing effect rather than a physical field or envelope. Leonard David’s summary of West’s position quotes the core claim plainly: the Gimbal object is probably a plane, the visible form is infrared engine glare larger than the plane itself, and the rotation is an artefact of the camera system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[Leonard David]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">Leonard David Debunking Navy “UFO” Videos</span><span class="citation-popover-snippet">Leonard David Debunking Navy “UFO” Videos</span></span></span>
 
 The sceptical case does not need to prove that every pilot statement is wrong. It only needs to show that the public video, taken alone, is compatible with a mundane object and optical artefacts. That is a narrower but powerful point. If the most spectacular visual feature can be produced by the sensor system, then the video becomes weak evidence for extraordinary flight, even if the broader encounter remains unexplained.
 
@@ -805,284 +805,284 @@ The sceptical case does not need to prove that every pilot statement is wrong. I
 
 ## The unresolved counterargument: context outside the clip
 
-The counterargument is that Gimbal should not be judged solely as a 34-second internet video. Supporters of a more anomalous reading point to the surrounding witness claims, radar context, and reports of additional objects. The Peings and von Rennenkampff preprint attempts to reconstruct possible flight paths from the video and argues that, at the range reportedly given by aviators, the object’s motion could match witness descriptions of a rapid reversal and a vertical U-turn. It also explicitly discusses the alternative jet-glare hypothesis, which makes the paper useful as a map of the dispute rather than a settled answer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The counterargument is that Gimbal should not be judged solely as a 34-second internet video. Supporters of a more anomalous reading point to the surrounding witness claims, radar context, and reports of additional objects. The Peings and von Rennenkampff preprint attempts to reconstruct possible flight paths from the video and argues that, at the range reportedly given by aviators, the object’s motion could match witness descriptions of a rapid reversal and a vertical U-turn. It also explicitly discusses the alternative jet-glare hypothesis, which makes the paper useful as a map of the dispute rather than a settled answer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The key unresolved issue is range. If the object were close, the implied motion could be highly unusual. If it were much farther away, the same angular motion in the video could be compatible with an ordinary aircraft trajectory. Publicly available versions of the clip do not supply enough independent range data to settle that question. This is why Gimbal remains more resistant than simple “it is obviously a saucer” or “it is obviously nothing” framings allow.
 
-There is also a provenance gap. Officials have authenticated the video and listed it as unresolved, but they have not released the full package of radar data, sensor logs, longer footage, pilot reports, or classified analysis that would allow an outside technical community to test the case from end to end. The ODNI report’s wider warning about limited and inconsistent UAP reporting applies directly here: without standardised, complete, multi-sensor records, a case can remain unresolved for evidential reasons rather than because it is inherently exotic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
+There is also a provenance gap. Officials have authenticated the video and listed it as unresolved, but they have not released the full package of radar data, sensor logs, longer footage, pilot reports, or classified analysis that would allow an outside technical community to test the case from end to end. The ODNI report’s wider warning about limited and inconsistent UAP reporting applies directly here: without standardised, complete, multi-sensor records, a case can remain unresolved for evidential reasons rather than because it is inherently exotic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
 
 <img src="{{ "/assets/images/USS_Theodore_Rooseve_a4867d-Illustration-3-dark.svg" | relative_url }}" alt="USS Theodore Roosevelt Gimbal video 2015 illustration 3" data-theme-src-dark="{{ "/assets/images/USS_Theodore_Rooseve_a4867d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Theodore_Rooseve_a4867d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Best current assessment
 
-The safest evidence-based assessment is that Gimbal is an authentic US Navy UAP video from the Roosevelt-era encounters, publicly recognised by the US government and still unresolved in AARO’s public imagery catalogue. It is a legitimate case for studying military sensor interpretation, airspace security, pilot reporting, and the limits of short infrared clips. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+The safest evidence-based assessment is that Gimbal is an authentic US Navy UAP video from the Roosevelt-era encounters, publicly recognised by the US government and still unresolved in AARO’s public imagery catalogue. It is a legitimate case for studying military sensor interpretation, airspace security, pilot reporting, and the limits of short infrared clips.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
-The public video alone is not strong evidence of non-human technology. Its most memorable feature, the apparent rotation, has a plausible optical explanation involving infrared glare and the mechanics of a gimbal-mounted targeting pod. That sceptical explanation weakens the video as standalone proof of extraordinary flight, especially because distance, object identity and full sensor context are not publicly nailed down. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The public video alone is not strong evidence of non-human technology. Its most memorable feature, the apparent rotation, has a plausible optical explanation involving infrared glare and the mechanics of a gimbal-mounted targeting pod. That sceptical explanation weakens the video as standalone proof of extraordinary flight, especially because distance, object identity and full sensor context are not publicly nailed down.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 At the same time, it is too strong to say the entire event has been publicly solved. The official record still treats Gimbal as unresolved, and witness-linked claims about radar behaviour and additional objects remain outside what independent analysts can fully test from the released clip. The most honest conclusion is therefore mixed: Gimbal is a real and important military UAP record, but the released video is ambiguous, technically vulnerable to mundane interpretation, and insufficient on its own to carry the extraordinary claims often attached to it.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wCT3HdHokaw" title="Gimbal UFO incident | Ryan Graves and Lex Fridman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wCT3HdHokaw" target="_blank" rel="noopener noreferrer">Gimbal UFO incident | Ryan Graves and Lex Fridman</a></p><p class="youtube-embed-meta">Channel: Lex Clips &middot; Views: 96.8K &middot; Uploaded: August 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wCT3HdHokaw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wCT3HdHokaw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Does the Gimbal Video Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Does the Gimbal Video Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Details the incident and Ruppelt&#x27;s investigative notes that form the basis for the Blue Book classification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details the incident and Ruppelt&#x27;s investigative notes that form the basis for the Blue Book classification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Profiles the Roosevelt incident, contrasting physical trace claims against the official military assessment of an unidentified object.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Profiles the Roosevelt incident, contrasting physical trace claims against the official military assessment of an unidentified object.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches methodology for evaluating cases that sit between dramatic eyewitness testimony and forensic &#x27;unidentified&#x27; verdicts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches methodology for evaluating cases that sit between dramatic eyewitness testimony and forensic &#x27;unidentified&#x27; verdicts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Documents how intelligence units handled 2010s cases that were eventually deemed inconclusive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents how intelligence units handled 2010s cases that were eventually deemed inconclusive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: defense.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release | U.S. Department of War...</p></details>
+   Link:<a href="https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release | U.S. Department of War...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cbsnews.com  
    Title: CBS News  
-   Link: <a href="https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs regularly spotted in restricted U.S. airspace, report on the phenomena due next month - 60 Minutes - CBS News...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs regularly spotted in restricted U.S. airspace, report on the phenomena due next month - 60 Minutes - CBS News...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: time.com  
-   Link: <a href="https://time.com/5680192/navy-confirms-ufo-videos-real/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5680192/navy-confirms-ufo-videos-real/</a>  
+   Link:<a href="https://time.com/5680192/navy-confirms-ufo-videos-real/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5680192/navy-confirms-ufo-videos-real/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.08773</a>  
+   Link:<a href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.08773</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dni.gov  
    Title: Director of National Intelligence  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: media.defense.gov  
    Title: fy20 industrial capabilities report  
-   Link: <a href="https://media.defense.gov/2021/Jan/14/2002565311/-1/-1/0/fy20-industrial-capabilities-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jan/14/2002565311/-1/-1/0/fy20-industrial-capabilities-report.pdf</a>  
+   Link:<a href="https://media.defense.gov/2021/Jan/14/2002565311/-1/-1/0/fy20-industrial-capabilities-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jan/14/2002565311/-1/-1/0/fy20-industrial-capabilities-report.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: comptroller.defense.gov  
    Title: RDTE Vol3 OSD RDTE PB20 Justification Book  
-   Link: <a href="https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2020/budget_justification/pdfs/03_RDT_and_E/RDTE_Vol3_OSD_RDTE_PB20_Justification_Book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2020/budget_justification/pdfs/03_RDT_and_E/RDTE_Vol3_OSD_RDTE_PB20_Justification_Book.pdf</a>  
+   Link:<a href="https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2020/budget_justification/pdfs/03_RDT_and_E/RDTE_Vol3_OSD_RDTE_PB20_Justification_Book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2020/budget_justification/pdfs/03_RDT_and_E/RDTE_Vol3_OSD_RDTE_PB20_Justification_Book.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: comptroller.defense.gov  
    Title: OSD PB2024  
-   Link: <a href="https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2024/budget_justification/pdfs/03_RDT_and_E/OSD_PB2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2024/budget_justification/pdfs/03_RDT_and_E/OSD_PB2024.pdf</a>  
+   Link:<a href="https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2024/budget_justification/pdfs/03_RDT_and_E/OSD_PB2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2024/budget_justification/pdfs/03_RDT_and_E/OSD_PB2024.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: comptroller.defense.gov  
    Title: PB17 OSD 0400D Master J Book Final  
-   Link: <a href="https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2017/budget_justification/pdfs/03_RDT_and_E/PB17_OSD_0400D_Master_J-Book_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2017/budget_justification/pdfs/03_RDT_and_E/PB17_OSD_0400D_Master_J-Book_Final.pdf</a>  
+   Link:<a href="https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2017/budget_justification/pdfs/03_RDT_and_E/PB17_OSD_0400D_Master_J-Book_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2017/budget_justification/pdfs/03_RDT_and_E/PB17_OSD_0400D_Master_J-Book_Final.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: comptroller.defense.gov  
    Title: DARPA 0400D RDTE MasterJustificationBook Defense Advanced Research Project  
-   Link: <a href="https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2017/budget_justification/pdfs/03_RDT_and_E/DARPA_0400D_RDTE_MasterJustificationBook_Defense_Advanced_Research_Project.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2017/budget_justification/pdfs/03_RDT_and_E/DARPA_0400D_RDTE_MasterJustificationBook_Defense_Advanced_Research_Project.pdf</a>  
+   Link:<a href="https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2017/budget_justification/pdfs/03_RDT_and_E/DARPA_0400D_RDTE_MasterJustificationBook_Defense_Advanced_Research_Project.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2017/budget_justification/pdfs/03_RDT_and_E/DARPA_0400D_RDTE_MasterJustificationBook_Defense_Advanced_Research_Project.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: media.defense.gov  
-   Link: <a href="https://media.defense.gov/2023/Nov/28/2003348086/-1/-1/0/AF_SBIR_241_DP2_v2.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2023/Nov/28/2003348086/-1/-1/0/AF_SBIR_241_DP2_v2.PDF</a>  
+   Link:<a href="https://media.defense.gov/2023/Nov/28/2003348086/-1/-1/0/AF_SBIR_241_DP2_v2.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2023/Nov/28/2003348086/-1/-1/0/AF_SBIR_241_DP2_v2.PDF</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: comptroller.defense.gov  
    Title: A 10601111D8Z GICUR R 2(co) R 2a Feb 2004  
-   Link: <a href="https://comptroller.defense.gov/Portals/45/documents/defbudget/fy2005/budget_justification/pdfs/03_RDT_and_E/OSD_BA1/A-10601111D8Z_GICUR__R-2%28co%29_R-2a__Feb_2004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.defense.gov/Portals/45/documents/defbudget/fy2005/budget_justification/pdfs/03_RDT_and_E/OSD_BA1/A-10601111D8Z_GICUR__R-2%28co%29_R-2a__Feb_2004.pdf</a>  
+   Link:<a href="https://comptroller.defense.gov/Portals/45/documents/defbudget/fy2005/budget_justification/pdfs/03_RDT_and_E/OSD_BA1/A-10601111D8Z_GICUR__R-2%28co%29_R-2a__Feb_2004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.defense.gov/Portals/45/documents/defbudget/fy2005/budget_justification/pdfs/03_RDT_and_E/OSD_BA1/A-10601111D8Z_GICUR__R-2%28co%29_R-2a__Feb_2004.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: comptroller.defense.gov  
    Title: Defense Advanced Research Projects Agency PB 2014  
-   Link: <a href="https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2014/budget_justification/pdf/03_RDT_and_E/Defense_Advanced_Research_Projects_Agency_PB_2014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2014/budget_justification/pdf/03_RDT_and_E/Defense_Advanced_Research_Projects_Agency_PB_2014.pdf</a>  
+   Link:<a href="https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2014/budget_justification/pdf/03_RDT_and_E/Defense_Advanced_Research_Projects_Agency_PB_2014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2014/budget_justification/pdf/03_RDT_and_E/Defense_Advanced_Research_Projects_Agency_PB_2014.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: comptroller.defense.gov  
    Title: RDTE DAs Vol 3A of 5 OSD FY19PB RDTE Exhibits BA1 3  
-   Link: <a href="https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/RDTE_DAs_Vol_3A_of_5_OSD_FY19PB-RDTE_Exhibits_BA1-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/RDTE_DAs_Vol_3A_of_5_OSD_FY19PB-RDTE_Exhibits_BA1-3.pdf</a>  
+   Link:<a href="https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/RDTE_DAs_Vol_3A_of_5_OSD_FY19PB-RDTE_Exhibits_BA1-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/RDTE_DAs_Vol_3A_of_5_OSD_FY19PB-RDTE_Exhibits_BA1-3.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: history.com  
    Title: uss roosevelt gofast ufo declassified video  
-   Link: <a href="https://www.history.com/videos/uss-roosevelt-gofast-ufo-declassified-video" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/uss-roosevelt-gofast-ufo-declassified-video</a>  
+   Link:<a href="https://www.history.com/videos/uss-roosevelt-gofast-ufo-declassified-video" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/uss-roosevelt-gofast-ufo-declassified-video</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: history.com  
    Title: navy confirms ufo videos real  
-   Link: <a href="https://www.history.com/articles/navy-confirms-ufo-videos-real" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/navy-confirms-ufo-videos-real</a>  
+   Link:<a href="https://www.history.com/articles/navy-confirms-ufo-videos-real" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/navy-confirms-ufo-videos-real</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: secnav.navy.mil  
    Title: mil UF O_Redacted  
-   Link: <a href="https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/UAP%20DOCUMENTS/UFO_Redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/UAP%20DOCUMENTS/UFO_Redacted.pdf</a>  
+   Link:<a href="https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/UAP%20DOCUMENTS/UFO_Redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/UAP%20DOCUMENTS/UFO_Redacted.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: military.com  
    Title: ufo videos are footage real unidentified objects us navy acknowledges  
-   Link: <a href="https://www.military.com/daily-news/2019/09/18/ufo-videos-are-footage-real-unidentified-objects-us-navy-acknowledges.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2019/09/18/ufo-videos-are-footage-real-unidentified-objects-us-navy-acknowledges.html</a>  
+   Link:<a href="https://www.military.com/daily-news/2019/09/18/ufo-videos-are-footage-real-unidentified-objects-us-navy-acknowledges.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2019/09/18/ufo-videos-are-footage-real-unidentified-objects-us-navy-acknowledges.html</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/956955/gimbal-uap" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/956955/gimbal-uap</a>  
+   Link:<a href="https://www.dvidshub.net/video/956955/gimbal-uap" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/956955/gimbal-uap</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: popularmechanics.com  
    Title: Popular Mechanics UFO Navy | UFO Videos | Navy Officially Releases UFO Videos  
-   Link: <a href="https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/</a>  
+   Link:<a href="https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why</a>  
+   Link:<a href="https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: leonarddavid.com  
    Title: Leonard David Debunking Navy “UFO” Videos  
-   Link: <a href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/debunking-navy-ufo-videos/</a>  
+   Link:<a href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/debunking-navy-ufo-videos/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cbsnews.com  
    Title: pentagon solves 1 ufo mystery still probing other cases  
-   Link: <a href="https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/</a>  
+   Link:<a href="https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pocketmags.com  
-   Link: <a href="https://pocketmags.com/us/skeptic-magazine/272/articles/the-gimbal-video?srsltid=AfmBOoqaL8O-V-bxuupHFaU17HfoHwWXye-RnMf35pflT2X8UeIih28i" target="_blank" rel="noopener noreferrer nofollow">https://pocketmags.com/us/skeptic-magazine/272/articles/the-gimbal-video?srsltid=AfmBOoqaL8O-V-bxuupHFaU17HfoHwWXye-RnMf35pflT2X8UeIih28i</a>  
+   Link:<a href="https://pocketmags.com/us/skeptic-magazine/272/articles/the-gimbal-video?srsltid=AfmBOoqaL8O-V-bxuupHFaU17HfoHwWXye-RnMf35pflT2X8UeIih28i" target="_blank" rel="noopener noreferrer nofollow">https://pocketmags.com/us/skeptic-magazine/272/articles/the-gimbal-video?srsltid=AfmBOoqaL8O-V-bxuupHFaU17HfoHwWXye-RnMf35pflT2X8UeIih28i</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Watch: UAP videos declassified by Pentagon and played in Congress  
-   Link: <a href="https://www.youtube.com/watch?v=m-lj46iSCEU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m-lj46iSCEU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Raytheon ATFLIR expert discusses Navy gimbal UFO/UAP video with Mick West...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=m-lj46iSCEU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m-lj46iSCEU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Raytheon ATFLIR expert discusses Navy gimbal UFO/UAP video with Mick West...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Raytheon ATFLIR expert discusses Navy gimbal UFO/UAP video with Mick West  
-   Link: <a href="https://www.youtube.com/watch?v=FGHeu5GeR-0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FGHeu5GeR-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness UFO Encounters | Ryan Graves (Ep. 334)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FGHeu5GeR-0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FGHeu5GeR-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness UFO Encounters | Ryan Graves (Ep. 334)...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Gn6jTF3fMho" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gn6jTF3fMho</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP videos declassified by Pentagon and played in Congress...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Gn6jTF3fMho" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gn6jTF3fMho</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP videos declassified by Pentagon and played in Congress...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UAP/comments/14w1uxd/has_there_been_a_response_to_the_mick_west_videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UAP/comments/14w1uxd/has_there_been_a_response_to_the_mick_west_videos/</a>  
+   Link:<a href="https://www.reddit.com/r/UAP/comments/14w1uxd/has_there_been_a_response_to_the_mick_west_videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UAP/comments/14w1uxd/has_there_been_a_response_to_the_mick_west_videos/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/atomicmuseum.vegas/posts/joseph-gradisher-official-spokesperson-for-the-deputy-chief-of-naval-operations-/10156106489031910/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/atomicmuseum.vegas/posts/joseph-gradisher-official-spokesperson-for-the-deputy-chief-of-naval-operations-/10156106489031910/</a>  
+   Link:<a href="https://www.facebook.com/atomicmuseum.vegas/posts/joseph-gradisher-official-spokesperson-for-the-deputy-chief-of-naval-operations-/10156106489031910/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/atomicmuseum.vegas/posts/joseph-gradisher-official-spokesperson-for-the-deputy-chief-of-naval-operations-/10156106489031910/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/15fznjb/just_watched_mick_west_debunk_the_gimbal_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15fznjb/just_watched_mick_west_debunk_the_gimbal_video/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/15fznjb/just_watched_mick_west_debunk_the_gimbal_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15fznjb/just_watched_mick_west_debunk_the_gimbal_video/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/14m3ki7/last_9_seconds_of_the_gimbal_video_stabilised_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14m3ki7/last_9_seconds_of_the_gimbal_video_stabilised_to/</a>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/14m3ki7/last_9_seconds_of_the_gimbal_video_stabilised_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14m3ki7/last_9_seconds_of_the_gimbal_video_stabilised_to/</a>

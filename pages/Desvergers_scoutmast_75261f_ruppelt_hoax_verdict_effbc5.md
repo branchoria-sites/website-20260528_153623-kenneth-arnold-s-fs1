@@ -242,16 +242,16 @@ image: /assets/images/Desvergers_scoutmast_75261f_ruppelt_hoax_verdict_effbc5-Il
 
 ## Introduction
 
-Edward J. Ruppelt’s judgement on the Desvergers scoutmaster sighting did not rest on a clean scientific explanation of every burn mark, damaged object or witness statement. Instead, his conclusion evolved into a broader assessment of credibility. By the time he later called the incident “the best hoax in UFO history,” he had become less impressed by the physical traces and more suspicious of Dunham “Sonny” Desvergers himself: his changing claims, publicity-seeking behaviour, exaggerations and questionable personal background. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bhoax.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Best Hoax in UFO History?All in all, the physical evidence was at best inconclusive--so far. Ruppelt seems to have left Florida incl...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/shg/condon/s5chap02.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[2project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">S. Desvergers in Fonda, which Ruppelt, (1956) has called the &quot;best hoax in UFO history.&quot; It is also...Read more...</span></span></span>
+Edward J. Ruppelt’s judgement on the Desvergers scoutmaster sighting did not rest on a clean scientific explanation of every burn mark, damaged object or witness statement. Instead, his conclusion evolved into a broader assessment of credibility. By the time he later called the incident “the best hoax in UFO history,” he had become less impressed by the physical traces and more suspicious of Dunham “Sonny” Desvergers himself: his changing claims, publicity-seeking behaviour, exaggerations and questionable personal background.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bhoax.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Best Hoax in UFO History?All in all, the physical evidence was at best inconclusive--so far. Ruppelt seems to have left Florida incl...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/shg/condon/s5chap02.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[2project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">S. Desvergers in Fonda, which Ruppelt, (1956) has called the &quot;best hoax in UFO history.&quot; It is also...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Desvergers_scoutmast_75261f_ruppelt_hoax_verdict_effbc5-Illustration-1-dark.svg" | relative_url }}" alt="Hoax Verdict illustration 1" data-theme-src-dark="{{ "/assets/images/Desvergers_scoutmast_75261f_ruppelt_hoax_verdict_effbc5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Desvergers_scoutmast_75261f_ruppelt_hoax_verdict_effbc5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters because the Desvergers case remains unusual even among classic Project Blue Book investigations. The Air Force never fully demonstrated how every reported effect was produced. Yet Ruppelt still decided the core story was unreliable. For believers, this leaves room for arguing that an unexplained event was unfairly dismissed. For sceptics, the case illustrates how apparently dramatic evidence can collapse once the central witness loses credibility.
 
 ## Why Ruppelt Changed His Mind
 
-When Ruppelt first learned of the incident in August 1952, he treated it as a potentially major UFO case. The report included frightened witnesses, police involvement within hours, visible burns, singed hair, damaged clothing and physical traces in the palmetto scrub. According to his own later account, the initial military telegram even described Desvergers as a respectable and dependable local citizen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bhoax.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Best Hoax in UFO History?All in all, the physical evidence was at best inconclusive--so far. Ruppelt seems to have left Florida incl...</span></span></span>
+When Ruppelt first learned of the incident in August 1952, he treated it as a potentially major UFO case. The report included frightened witnesses, police involvement within hours, visible burns, singed hair, damaged clothing and physical traces in the palmetto scrub. According to his own later account, the initial military telegram even described Desvergers as a respectable and dependable local citizen.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bhoax.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Best Hoax in UFO History?All in all, the physical evidence was at best inconclusive--so far. Ruppelt seems to have left Florida incl...</span></span></span>
 
-The shift came gradually rather than instantly. Ruppelt admitted that the physical evidence was difficult to dismiss outright. Investigators examined Desvergers’ cap and machete, inspected the site and considered whether a flare, electrical discharge or deliberate trick could explain the injuries and traces. Yet the deeper investigators looked into Desvergers himself, the less confidence they had in the reliability of his narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bhoax.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Best Hoax in UFO History?All in all, the physical evidence was at best inconclusive--so far. Ruppelt seems to have left Florida incl...</span></span></span>
+The shift came gradually rather than instantly. Ruppelt admitted that the physical evidence was difficult to dismiss outright. Investigators examined Desvergers’ cap and machete, inspected the site and considered whether a flare, electrical discharge or deliberate trick could explain the injuries and traces. Yet the deeper investigators looked into Desvergers himself, the less confidence they had in the reliability of his narrative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bhoax.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Best Hoax in UFO History?All in all, the physical evidence was at best inconclusive--so far. Ruppelt seems to have left Florida incl...</span></span></span>
 
 Ruppelt’s later writing makes clear that he separated two questions:
 
@@ -266,7 +266,7 @@ That distinction explains why the case occupies such an awkward place in UFO lit
 
 ### Exaggeration and shifting details
 
-One of the recurring problems noted by Ruppelt was embellishment. Desvergers’ account became increasingly dramatic as the story spread through newspapers and UFO circles. The alleged craft, the heat effects and the “red mist” elements were retold in ways that sometimes expanded beyond the earliest statements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bhoax.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Best Hoax in UFO History?All in all, the physical evidence was at best inconclusive--so far. Ruppelt seems to have left Florida incl...</span></span></span>
+One of the recurring problems noted by Ruppelt was embellishment. Desvergers’ account became increasingly dramatic as the story spread through newspapers and UFO circles. The alleged craft, the heat effects and the “red mist” elements were retold in ways that sometimes expanded beyond the earliest statements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bhoax.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Best Hoax in UFO History?All in all, the physical evidence was at best inconclusive--so far. Ruppelt seems to have left Florida incl...</span></span></span>
 
 This mattered because Blue Book investigators depended heavily on witness consistency. In cases with little hard evidence, internal coherence often became the deciding factor. Once investigators suspected exaggeration, every unexplained detail became less persuasive.
 
@@ -276,15 +276,15 @@ Ruppelt appears to have concluded that Desvergers had a tendency to dramatise ev
 
 ### Publicity and commercial behaviour
 
-Another major turning point was Desvergers’ apparent enthusiasm for publicity. Later summaries of the case note that he pursued media attention aggressively and even employed promotional help after the incident gained national notice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bhoax.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Best Hoax in UFO History?All in all, the physical evidence was at best inconclusive--so far. Ruppelt seems to have left Florida incl...</span></span></span>
+Another major turning point was Desvergers’ apparent enthusiasm for publicity. Later summaries of the case note that he pursued media attention aggressively and even employed promotional help after the incident gained national notice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bhoax.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Best Hoax in UFO History?All in all, the physical evidence was at best inconclusive--so far. Ruppelt seems to have left Florida incl...</span></span></span>
 
-For Ruppelt, this was damaging because it created an obvious incentive structure. A witness who gained attention, interviews and status from a UFO encounter could no longer be treated as a neutral observer. In his memoirs, Ruppelt repeatedly expressed suspicion toward witnesses who appeared eager to profit socially or financially from sensational claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Report on Unidentified Flying ObjectsThe whole Maury Island Mystery was a hoax. The first, possibly the second-best...</span></span></span>
+For Ruppelt, this was damaging because it created an obvious incentive structure. A witness who gained attention, interviews and status from a UFO encounter could no longer be treated as a neutral observer. In his memoirs, Ruppelt repeatedly expressed suspicion toward witnesses who appeared eager to profit socially or financially from sensational claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Report on Unidentified Flying ObjectsThe whole Maury Island Mystery was a hoax. The first, possibly the second-best...</span></span></span>
 
 The Desvergers case arrived during the enormous 1952 UFO wave, when newspapers were already hungry for flying saucer stories. In that environment, investigators worried constantly about copycats, pranksters and people seeking notoriety.
 
 ### Questions about Desvergers’ background
 
-Later retellings of the case often mention that investigators uncovered troubling information about Desvergers’ personal history, including references to criminal or disciplinary issues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.denofgeek.com/tv/project-blue-book-season-1-episode-7-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: denofgeek.com">[Den of Geek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">denofgeek.com</span><span class="citation-popover-title">project blue book season 1 episode 7 review</span><span class="citation-popover-snippet">There was even some physical evidence at the scene in the form of singed grass. However, in the...</span></span></span>
+Later retellings of the case often mention that investigators uncovered troubling information about Desvergers’ personal history, including references to criminal or disciplinary issues.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.denofgeek.com/tv/project-blue-book-season-1-episode-7-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: denofgeek.com">[Den of Geek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">denofgeek.com</span><span class="citation-popover-title">project blue book season 1 episode 7 review</span><span class="citation-popover-snippet">There was even some physical evidence at the scene in the form of singed grass. However, in the...</span></span></span>
 
 The exact importance of these discoveries is debated. Some writers argue that they unfairly poisoned the investigation by turning attention toward character rather than evidence. Others argue that witness reliability is central in any case where the key observations depend almost entirely on one person’s account.
 
@@ -296,7 +296,7 @@ What is clear is that Ruppelt eventually regarded Desvergers as an unreliable wi
 
 A striking feature of the case is that Ruppelt did not portray the accompanying Boy Scouts as deliberate participants in a hoax. This point is often overlooked in simplified retellings.
 
-The boys did report seeing unusual lights and a reddish glow from the woods, and they appeared genuinely frightened when they sought help from nearby residents and police. However, their observations were limited. They did not accompany Desvergers into the palmetto thicket and never claimed to have seen the object at close range in the detailed way he described it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/ufo-encounter-florida-desvergers-scoutmaster-burned" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">This Scoutmaster Had a Run-in with a UFO</span><span class="citation-popover-snippet">The Kids Saw...23 Aug 2018 — “Sonny” DesVergers emerged burned and barely coherent from a dense palmetto grove in the South Florida Ever...</span></span></span>
+The boys did report seeing unusual lights and a reddish glow from the woods, and they appeared genuinely frightened when they sought help from nearby residents and police. However, their observations were limited. They did not accompany Desvergers into the palmetto thicket and never claimed to have seen the object at close range in the detailed way he described it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/ufo-encounter-florida-desvergers-scoutmaster-burned" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">This Scoutmaster Had a Run-in with a UFO</span><span class="citation-popover-snippet">The Kids Saw...23 Aug 2018 — “Sonny” DesVergers emerged burned and barely coherent from a dense palmetto grove in the South Florida Ever...</span></span></span>
 
 That difference was crucial.
 
@@ -327,9 +327,9 @@ Reports associated with the case included:
 * Damage to his cap.
 * Burned or scorched vegetation.
 * Claims of unusual heat effects.
-* Soil and plant anomalies discussed in later UFO literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bhoax.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Best Hoax in UFO History?All in all, the physical evidence was at best inconclusive--so far. Ruppelt seems to have left Florida incl...</span></span></span> Listverse Ruppelt acknowledged that the evidence was not neatly explained. Critics of the hoax conclusion point out that investigators never conclusive <span class="citation-chip-wrap"><a class="citation-chip" href="https://listverse.com/2015/05/20/10-ufos-that-allegedly-left-physical-evidence-behind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: listverse.com">[listverse.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">listverse.com</span><span class="citation-popover-title">10 ufos that allegedly left physical evidence behind</span><span class="citation-popover-snippet">20 May 2015 — Either Desvergers told the truth, somewhat embellished, or he managed to pull off a hoax that left one of the best investig...</span><span class="citation-popover-meta">Published: May 2015</span></span></span> ly demonstrated how Desvergers produced all the effects if the incident was staged.
+* Soil and plant anomalies discussed in later UFO literature.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bhoax.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Best Hoax in UFO History?All in all, the physical evidence was at best inconclusive--so far. Ruppelt seems to have left Florida incl...</span></span></span> Listverse Ruppelt acknowledged that the evidence was not neatly explained. Critics of the hoax conclusion point out that investigators never conclusive<span class="citation-chip-wrap"><a class="citation-chip" href="https://listverse.com/2015/05/20/10-ufos-that-allegedly-left-physical-evidence-behind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: listverse.com">[listverse.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">listverse.com</span><span class="citation-popover-title">10 ufos that allegedly left physical evidence behind</span><span class="citation-popover-snippet">20 May 2015 — Either Desvergers told the truth, somewhat embellished, or he managed to pull off a hoax that left one of the best investig...</span><span class="citation-popover-meta">Published: May 2015</span></span></span> ly demonstrated how Desvergers produced all the effects if the incident was staged.
 
-One proposed explanation involved a flare. Yet investigators reportedly found no convincing flare remnants, and some observers argued that a flare in dry palmetto growth should have caused a more substantial fire. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bhoax.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Best Hoax in UFO History?All in all, the physical evidence was at best inconclusive--so far. Ruppelt seems to have left Florida incl...</span></span></span>
+One proposed explanation involved a flare. Yet investigators reportedly found no convincing flare remnants, and some observers argued that a flare in dry palmetto growth should have caused a more substantial fire.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bhoax.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Best Hoax in UFO History?All in all, the physical evidence was at best inconclusive--so far. Ruppelt seems to have left Florida incl...</span></span></span>
 
 This unresolved residue is one reason the case survived in UFO history long after many simpler reports were forgotten. A straightforward fabrication would normally leave a cleaner explanatory trail.
 
@@ -347,7 +347,7 @@ Sceptical interpretations emphasise:
 * His apparent appetite for publicity.
 * Questions about his background.
 * The lack of independent close-range witnesses.
-* The possibility that some injuries and traces were self-inflicted or staged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bhoax.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Best Hoax in UFO History?All in all, the physical evidence was at best inconclusive--so far. Ruppelt seems to have left Florida incl...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.seniorennet.be/peter2011/archief.php?startdatum=1580511600&amp;stopdatum=1583017200" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.seniorennet.be">[SeniorenNet Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.seniorennet.be</span><span class="citation-popover-snippet">SeniorenNet BlogsUFO&#x27;S of UAP&#x27;S, ASTRONOMIE, RUIMTEVAART...Red flags started going up when DesVergers began drumming up media attention...</span></span></span>
+* The possibility that some injuries and traces were self-inflicted or staged.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bhoax.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Best Hoax in UFO History?All in all, the physical evidence was at best inconclusive--so far. Ruppelt seems to have left Florida incl...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.seniorennet.be/peter2011/archief.php?startdatum=1580511600&amp;stopdatum=1583017200" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.seniorennet.be">[SeniorenNet Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.seniorennet.be</span><span class="citation-popover-snippet">SeniorenNet BlogsUFO&#x27;S of UAP&#x27;S, ASTRONOMIE, RUIMTEVAART...Red flags started going up when DesVergers began drumming up media attention...</span></span></span>
 
 More sympathetic interpretations focus on:
 
@@ -356,7 +356,7 @@ More sympathetic interpretations focus on:
 * The rapid police response.
 * Contemporary reports that Desvergers appeared genuinely terrified.
 * Physical effects that investigators never fully reproduced or explained.
-* The reluctance of some investigators to dismiss the evidence immediately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/ufo-encounter-florida-desvergers-scoutmaster-burned" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">This Scoutmaster Had a Run-in with a UFO</span><span class="citation-popover-snippet">The Kids Saw...23 Aug 2018 — “Sonny” DesVergers emerged burned and barely coherent from a dense palmetto grove in the South Florida Ever...</span></span></span>
+* The reluctance of some investigators to dismiss the evidence immediately.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/ufo-encounter-florida-desvergers-scoutmaster-burned" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">This Scoutmaster Had a Run-in with a UFO</span><span class="citation-popover-snippet">The Kids Saw...23 Aug 2018 — “Sonny” DesVergers emerged burned and barely coherent from a dense palmetto grove in the South Florida Ever...</span></span></span>
 
 </div>
 
@@ -367,203 +367,203 @@ This tension explains why the case still appears in discussions of “high-stran
 
 Ruppelt’s famous phrase — “the best hoax in UFO history” — is often quoted as though it settled the matter conclusively. In reality, the wording reflects a more nuanced position.
 
-He did not claim to possess a complete reconstruction proving exactly how Desvergers staged every detail. Rather, he believed the overall balance of evidence pointed toward deception because the principal witness no longer seemed trustworthy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Report on Unidentified Flying ObjectsThe whole Maury Island Mystery was a hoax. The first, possibly the second-best...</span></span></span>
+He did not claim to possess a complete reconstruction proving exactly how Desvergers staged every detail. Rather, he believed the overall balance of evidence pointed toward deception because the principal witness no longer seemed trustworthy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Report on Unidentified Flying ObjectsThe whole Maury Island Mystery was a hoax. The first, possibly the second-best...</span></span></span>
 
-That approach was consistent with Ruppelt’s broader investigative style. Unlike some later Blue Book personnel, he was not known primarily as a reflexive debunker. Even sympathetic historians of Project Blue Book usually describe him as relatively open-minded compared with later Air Force administrators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">The Report on Unidentified Flying ObjectsIn 1960, Ruppelt authored a second edition in which he reported being &quot;positive&quot; that UFOs do...</span></span></span>
+That approach was consistent with Ruppelt’s broader investigative style. Unlike some later Blue Book personnel, he was not known primarily as a reflexive debunker. Even sympathetic historians of Project Blue Book usually describe him as relatively open-minded compared with later Air Force administrators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">The Report on Unidentified Flying ObjectsIn 1960, Ruppelt authored a second edition in which he reported being &quot;positive&quot; that UFOs do...</span></span></span>
 
 Precisely because Ruppelt initially took the case seriously, his eventual rejection carried unusual weight. Yet the Desvergers sighting also demonstrates the limits of credibility-based conclusions. If the witness is unreliable but the evidence remains partly unexplained, the case can remain permanently suspended between “unsolved” and “probably fraudulent.”
 
 That unresolved middle ground is why the Desvergers incident still occupies a distinctive place in UFO history more than seventy years later.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did Ruppelt Call It a Hoax?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did Ruppelt Call It a Hoax?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Details his first-hand involvement, investigative conclusions, and his formal &#x27;best hoax&#x27; verdict reached during Project Blue Book.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details his first-hand involvement, investigative conclusions, and his formal &#x27;best hoax&#x27; verdict reached during Project Blue Book.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Summarizes the controversy behind the hoax verdict and the fallout for UFO literature when witnesses are exposed as unreliable.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Summarizes the controversy behind the hoax verdict and the fallout for UFO literature when witnesses are exposed as unreliable.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches investigative methodology for analyzing credibility issues, contradictions, and publicity incentives in paranormal testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches investigative methodology for analyzing credibility issues, contradictions, and publicity incentives in paranormal testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Provides institutional background on how 1950s investigative bureaus indexed and eventually rejected fabricated sighting claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides institutional background on how 1950s investigative bureaus indexed and eventually rejected fabricated sighting claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/HvAAAOSw08Vk5SIm/s-l225.jpg" alt="Listing image for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/HvAAAOSw08Vk5SIm/s-l225.jpg" alt="Listing image for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed."><img src="https://i.ebayimg.com/images/g/GWYAAeSwgidpwAEt/s-l225.jpg" alt="Listing image for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed."><img src="https://i.ebayimg.com/images/g/GWYAAeSwgidpwAEt/s-l225.jpg" alt="Listing image for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/MykAAOSwkRVk5Rd3/s-l225.jpg" alt="Listing image for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/MykAAOSwkRVk5Rd3/s-l225.jpg" alt="Listing image for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55"><img src="https://i.ebayimg.com/images/g/2G0AAOSwjIpgTIcl/s-l225.jpg" alt="Listing image for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID"><img src="https://i.ebayimg.com/images/g/2G0AAOSwjIpgTIcl/s-l225.jpg" alt="Listing image for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-ruppelt-call-it-a-hoax-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="why-did-ruppelt-call-it-a-hoax-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -579,7 +579,7 @@ That unresolved middle ground is why the Desvergers incident still occupies a di
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -599,7 +599,7 @@ That unresolved middle ground is why the Desvergers incident still occupies a di
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -631,7 +631,7 @@ That unresolved middle ground is why the Desvergers incident still occupies a di
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -683,7 +683,7 @@ That unresolved middle ground is why the Desvergers incident still occupies a di
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -728,7 +728,7 @@ That unresolved middle ground is why the Desvergers incident still occupies a di
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -769,128 +769,128 @@ That unresolved middle ground is why the Desvergers incident still occupies a di
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/bhoax.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bhoax.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Best Hoax in UFO History?All in all, the physical evidence was at best inconclusive--so far. Ruppelt seems to have left Florida incl...</p></details>
+   Link:<a href="https://www.nicap.org/bhoax.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bhoax.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best Hoax in UFO History?All in all, the physical evidence was at best inconclusive--so far. Ruppelt seems to have left Florida incl...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/shg/condon/s5chap02.html" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/shg/condon/s5chap02.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>S. Desvergers in Fonda, which Ruppelt, (1956) has called the &quot;best hoax in UFO history.&quot; It is also...Read more...</p></details>
+   Link:<a href="https://www.project1947.com/shg/condon/s5chap02.html" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/shg/condon/s5chap02.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>S. Desvergers in Fonda, which Ruppelt, (1956) has called the &quot;best hoax in UFO history.&quot; It is also...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Report on Unidentified Flying ObjectsThe whole Maury Island Mystery was a hoax. The first, possibly the second-best...</p></details>
+   Link:<a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Report on Unidentified Flying ObjectsThe whole Maury Island Mystery was a hoax. The first, possibly the second-best...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: listverse.com  
    Title: 10 ufos that allegedly left physical evidence behind  
-   Link: <a href="https://listverse.com/2015/05/20/10-ufos-that-allegedly-left-physical-evidence-behind/" target="_blank" rel="noopener noreferrer nofollow">https://listverse.com/2015/05/20/10-ufos-that-allegedly-left-physical-evidence-behind/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>20 May 2015 — Either Desvergers told the truth, somewhat embellished, or he managed to pull off a hoax that left one of the best investig...</p></details>
+   Link:<a href="https://listverse.com/2015/05/20/10-ufos-that-allegedly-left-physical-evidence-behind/" target="_blank" rel="noopener noreferrer nofollow">https://listverse.com/2015/05/20/10-ufos-that-allegedly-left-physical-evidence-behind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 May 2015 — Either Desvergers told the truth, somewhat embellished, or he managed to pull off a hoax that left one of the best investig...</p></details>
    Published: May 2015  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: history.com  
    Title: This Scoutmaster Had a Run-in with a UFO  
-   Link: <a href="https://www.history.com/articles/ufo-encounter-florida-desvergers-scoutmaster-burned" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-encounter-florida-desvergers-scoutmaster-burned</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kids Saw...23 Aug 2018 — “Sonny” DesVergers emerged burned and barely coherent from a dense palmetto grove in the South Florida Ever...</p></details>
+   Link:<a href="https://www.history.com/articles/ufo-encounter-florida-desvergers-scoutmaster-burned" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-encounter-florida-desvergers-scoutmaster-burned</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kids Saw...23 Aug 2018 — “Sonny” DesVergers emerged burned and barely coherent from a dense palmetto grove in the South Florida Ever...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: blog.seniorennet.be  
-   Link: <a href="https://blog.seniorennet.be/peter2011/archief.php?startdatum=1580511600&amp;stopdatum=1583017200" target="_blank" rel="noopener noreferrer nofollow">https://blog.seniorennet.be/peter2011/archief.php?startdatum=1580511600&amp;stopdatum=1583017200</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SeniorenNet BlogsUFO&#x27;S of UAP&#x27;S, ASTRONOMIE, RUIMTEVAART...Red flags started going up when DesVergers began drumming up media attention...</p></details>
+   Link:<a href="https://blog.seniorennet.be/peter2011/archief.php?startdatum=1580511600&amp;stopdatum=1583017200" target="_blank" rel="noopener noreferrer nofollow">https://blog.seniorennet.be/peter2011/archief.php?startdatum=1580511600&amp;stopdatum=1583017200</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SeniorenNet BlogsUFO&#x27;S of UAP&#x27;S, ASTRONOMIE, RUIMTEVAART...Red flags started going up when DesVergers began drumming up media attention...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: The Report on Unidentified Flying Objects  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsIn 1960, Ruppelt authored a second edition in which he reported being &quot;positive&quot; that UFOs do...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsIn 1960, Ruppelt authored a second edition in which he reported being &quot;positive&quot; that UFOs do...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: denofgeek.com  
    Title: project blue book season 1 episode 7 review  
-   Link: <a href="https://www.denofgeek.com/tv/project-blue-book-season-1-episode-7-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.denofgeek.com/tv/project-blue-book-season-1-episode-7-review/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>There was even some physical evidence at the scene in the form of singed grass. However, in the...</p></details>
+   Link:<a href="https://www.denofgeek.com/tv/project-blue-book-season-1-episode-7-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.denofgeek.com/tv/project-blue-book-season-1-episode-7-review/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There was even some physical evidence at the scene in the form of singed grass. However, in the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.howstuffworks.com  
    Title: How Stuff Works Project Blue Book  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government2.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-government2.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book - Aliens &amp; UFOsProject Blue Book involved investigators from the United States Air Force who investigated reports of UFO sighti...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government2.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-government2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book - Aliens &amp; UFOsProject Blue Book involved investigators from the United States Air Force who investigated reports of UFO sighti...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.reddit.com/r/ProjectBlueBookTV/comments/as78qf/project_blue_book_episode_7_the_scoutmaster/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ProjectBlueBookTV/comments/as78qf/project_blue_book_episode_7_the_scoutmaster/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 7 &#x27;The Scoutmaster&#x27;The actual case involving the Scoutmaster was deemed a hoax, but called &quot;the best hoax in history&quot; by the chie...</p></details>
+   Link:<a href="https://www.reddit.com/r/ProjectBlueBookTV/comments/as78qf/project_blue_book_episode_7_the_scoutmaster/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ProjectBlueBookTV/comments/as78qf/project_blue_book_episode_7_the_scoutmaster/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 7 &#x27;The Scoutmaster&#x27;The actual case involving the Scoutmaster was deemed a hoax, but called &quot;the best hoax in history&quot; by the chie...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/cu31924020130369/cu31924020130369_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/cu31924020130369/cu31924020130369_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;A treatise on the law of evidenceFull text of &quot;A treatise on the law of evidence; being a consideration of the nature and g...</p></details>
+   Link:<a href="https://archive.org/stream/cu31924020130369/cu31924020130369_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/cu31924020130369/cu31924020130369_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;A treatise on the law of evidenceFull text of &quot;A treatise on the law of evidence; being a consideration of the nature and g...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/caribbean-women-and-their-art-an-encyclopedia-ebooknbsped-1538117207-9781538117200.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/caribbean-women-and-their-art-an-encyclopedia-ebooknbsped-1538117207-9781538117200.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Caribbean Women and Their Art: An Encyclopedia [eBook...DUNHAM, KATHERINE (June 22, 1909–May 21, 2006) An American dancer, choreographer...</p></details>
+   Link:<a href="https://dokumen.pub/caribbean-women-and-their-art-an-encyclopedia-ebooknbsped-1538117207-9781538117200.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/caribbean-women-and-their-art-an-encyclopedia-ebooknbsped-1538117207-9781538117200.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Caribbean Women and Their Art: An Encyclopedia [eBook...DUNHAM, KATHERINE (June 22, 1909–May 21, 2006) An American dancer, choreographer...</p></details>
    Published: June 22, 1909  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aiptcomics.com  
    Title: the scoutmaster encounter of project blue book the best hoax in ufo history  
-   Link: <a href="https://aiptcomics.com/2019/02/24/the-scoutmaster-encounter-of-project-blue-book-the-best-hoax-in-ufo-history/" target="_blank" rel="noopener noreferrer nofollow">https://aiptcomics.com/2019/02/24/the-scoutmaster-encounter-of-project-blue-book-the-best-hoax-in-ufo-history/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The scoutmaster encounter of &#x27;Project Blue Book&#x27;24 Feb 2019 — The scoutmaster encounter of &#x27;Project Blue Book&#x27;: &#x27;The best hoax in UFO. Th...</p></details>
+   Link:<a href="https://aiptcomics.com/2019/02/24/the-scoutmaster-encounter-of-project-blue-book-the-best-hoax-in-ufo-history/" target="_blank" rel="noopener noreferrer nofollow">https://aiptcomics.com/2019/02/24/the-scoutmaster-encounter-of-project-blue-book-the-best-hoax-in-ufo-history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The scoutmaster encounter of &#x27;Project Blue Book&#x27;24 Feb 2019 — The scoutmaster encounter of &#x27;Project Blue Book&#x27;: &#x27;The best hoax in UFO. Th...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: UFOs are REAL book declassified  
-   Link: <a href="http://www.youtube.com/watch?v=GbbGF3-D-c0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=GbbGF3-D-c0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sonny Desvergers Scoutmaster UFO case Scoutmaster Sonny DesVergers got burned by a UFO, encounter remembered by eyewitness Chuck Stevens...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=GbbGF3-D-c0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=GbbGF3-D-c0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sonny Desvergers Scoutmaster UFO case Scoutmaster Sonny DesVergers got burned by a UFO, encounter remembered by eyewitness Chuck Stevens...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: in 1952 these historic ufo images were captured theproofisoutthere  
-   Link: <a href="https://www.facebook.com/TheUnXplainedZone/posts/in-1952-these-historic-ufo-images-were-captured-theproofisoutthere/1112363341093097/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/posts/in-1952-these-historic-ufo-images-were-captured-theproofisoutthere/1112363341093097/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1952, these historic UFO images were captured....Two grainy black-and-white photographs capture a fleeting moment in the skies — a cl...</p></details>
+   Link:<a href="https://www.facebook.com/TheUnXplainedZone/posts/in-1952-these-historic-ufo-images-were-captured-theproofisoutthere/1112363341093097/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/posts/in-1952-these-historic-ufo-images-were-captured-theproofisoutthere/1112363341093097/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1952, these historic UFO images were captured....Two grainy black-and-white photographs capture a fleeting moment in the skies — a cl...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24030427/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24030427/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>analysis of false and misleading claims in...by AE Faerber · 2014 · Cited by 133 — Potentially misleading claims are prevalent throughou...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/24030427/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24030427/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>analysis of false and misleading claims in...by AE Faerber · 2014 · Cited by 133 — Potentially misleading claims are prevalent throughou...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: exonews.org  
    Title: This Scoutmaster Had a Run-in with a UFO  
-   Link: <a href="https://exonews.org/this-scoutmaster-had-a-run-in-with-a-ufo-the-kids-saw-it-too/" target="_blank" rel="noopener noreferrer nofollow">https://exonews.org/this-scoutmaster-had-a-run-in-with-a-ufo-the-kids-saw-it-too/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kids Saw...4 Sept 2018 — Ruppelt, chief UFO investigator for the U.S. Air Force, would later label the event “the best hoax in UFO h...</p></details>
+   Link:<a href="https://exonews.org/this-scoutmaster-had-a-run-in-with-a-ufo-the-kids-saw-it-too/" target="_blank" rel="noopener noreferrer nofollow">https://exonews.org/this-scoutmaster-had-a-run-in-with-a-ufo-the-kids-saw-it-too/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kids Saw...4 Sept 2018 — Ruppelt, chief UFO investigator for the U.S. Air Force, would later label the event “the best hoax in UFO h...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: osi.af.mil  
    Title: project blue book part 1 ufo reports  
-   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book Part 1 (UFO Reports)6 Aug 2020 — Dr. J. Allen Hynek worked with the U.S. Air Force, leading investigations of UFO sightings und...</p></details>
+   Link:<a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book Part 1 (UFO Reports)6 Aug 2020 — Dr. J. Allen Hynek worked with the U.S. Air Force, leading investigations of UFO sightings und...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/beanpicker1968pomp/beanpicker1968pomp_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/beanpicker1968pomp/beanpicker1968pomp_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>thy—74,88,102,211. Devlin, Barbara—184...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/beanpicker1968pomp/beanpicker1968pomp_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/beanpicker1968pomp/beanpicker1968pomp_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>thy—74,88,102,211. Devlin, Barbara—184...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>credible UFO sightings got reported, the more the...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>credible UFO sightings got reported, the more the...</p></details>

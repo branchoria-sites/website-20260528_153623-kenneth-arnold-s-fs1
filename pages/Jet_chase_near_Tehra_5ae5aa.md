@@ -758,270 +758,270 @@ image: /assets/images/Jet_chase_near_Tehra_5ae5aa-overview-social.jpg
 
 ## What happened over Tehran?
 
-The official U.S. cable says the incident began at about 12:30 a.m. on 19 September 1976, when several citizens in the Shemiran area reported strange objects in the sky. Some described a bird-like object; others compared it to a helicopter with a light, although the report says no helicopters were airborne at that time. After initially treating the reports as likely stars, the responsible officer looked for himself, saw an unusually bright object, and decided to scramble an F-4 from Shahrokhi Air Base to investigate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">us gov iran case</span><span class="citation-popover-snippet">us gov iran case</span></span></span>
+The official U.S. cable says the incident began at about 12:30 a.m. on 19 September 1976, when several citizens in the Shemiran area reported strange objects in the sky. Some described a bird-like object; others compared it to a helicopter with a light, although the report says no helicopters were airborne at that time. After initially treating the reports as likely stars, the responsible officer looked for himself, saw an unusually bright object, and decided to scramble an F-4 from Shahrokhi Air Base to investigate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">us gov iran case</span><span class="citation-popover-snippet">us gov iran case</span></span></span>
 
 <img src="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa-overview.webp" | relative_url }}" alt="Overview image for Jet chase near Tehran Iran 1976" loading="eager" decoding="sync" fetchpriority="high">
-The first F-4 took off at about 1:30 a.m. and flew towards a point roughly 40 nautical miles north of Tehran. According to the cable, the object was bright enough to be seen from 70 miles away. When the aircraft closed to about 25 nautical miles, the pilot reported losing instrumentation and UHF/intercom communications. He broke off the intercept and returned towards Shahrokhi; the report says the instruments and communications came back after the aircraft turned away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/joint_chiefs_staff_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">joint chiefs staff report</span><span class="citation-popover-snippet">joint chiefs staff report</span></span></span>
+The first F-4 took off at about 1:30 a.m. and flew towards a point roughly 40 nautical miles north of Tehran. According to the cable, the object was bright enough to be seen from 70 miles away. When the aircraft closed to about 25 nautical miles, the pilot reported losing instrumentation and UHF/intercom communications. He broke off the intercept and returned towards Shahrokhi; the report says the instruments and communications came back after the aircraft turned away.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/joint_chiefs_staff_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">joint chiefs staff report</span><span class="citation-popover-snippet">joint chiefs staff report</span></span></span>
 
-A second F-4 was launched at about 1:40 a.m. This aircraft’s back-seater reportedly obtained radar lock at 27 nautical miles, with the object at the 12 o’clock high position and a closing speed of about 150 nautical miles per hour. As the fighter closed to 25 nautical miles, the object was said to move away and maintain that separation. The radar return was described as comparable to a Boeing 707 tanker, while the visible object was too bright for its body to be clearly seen and appeared as rapidly alternating blue, green, red and orange strobe lights in a rectangular pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Open source on nsa.gov.</span></span></span>
+A second F-4 was launched at about 1:40 a.m. This aircraft’s back-seater reportedly obtained radar lock at 27 nautical miles, with the object at the 12 o’clock high position and a closing speed of about 150 nautical miles per hour. As the fighter closed to 25 nautical miles, the object was said to move away and maintain that separation. The radar return was described as comparable to a Boeing 707 tanker, while the visible object was too bright for its body to be clearly seen and appeared as rapidly alternating blue, green, red and orange strobe lights in a rectangular pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Open source on nsa.gov.</span></span></span>
 
-The most dramatic part of the report concerns a smaller bright object allegedly emerging from the primary object and heading towards the second F-4. The pilot reportedly tried to fire an AIM-9 missile, but at that moment the weapons-control panel went off and communications were lost. The pilot then turned and made a negative-G dive; the smaller object was reported to fall in behind the aircraft before returning to the primary object. Shortly afterwards, another object was said to descend towards the ground, lighting an area of roughly two to three kilometres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">us gov iran case</span><span class="citation-popover-snippet">us gov iran case</span></span></span>
+The most dramatic part of the report concerns a smaller bright object allegedly emerging from the primary object and heading towards the second F-4. The pilot reportedly tried to fire an AIM-9 missile, but at that moment the weapons-control panel went off and communications were lost. The pilot then turned and made a negative-G dive; the smaller object was reported to fall in behind the aircraft before returning to the primary object. Shortly afterwards, another object was said to descend towards the ground, lighting an area of roughly two to three kilometres.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">us gov iran case</span><span class="citation-popover-snippet">us gov iran case</span></span></span>
 
 <img src="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa-Illustration-1-dark.svg" | relative_url }}" alt="Jet chase near Tehran Iran 1976 illustration 1" data-theme-src-dark="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case is treated as unusually strong
 
-The Tehran case has a stronger documentary spine than many UFO reports. The key primary source is not a late television retelling but a contemporaneous U.S. military-intelligence message, distributed through official channels after interviews and reporting by U.S. personnel in Iran. Bruce Maccabee’s later reconstruction identifies Lt. Col. Olin Mooy of the U.S. Military Assistance and Advisory Group as the officer whose teletype account became the core official document. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/760919_tehran_Maccabee_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">IRANIAN JET CASE</span><span class="citation-popover-snippet">IRANIAN JET CASE</span></span></span>
+The Tehran case has a stronger documentary spine than many UFO reports. The key primary source is not a late television retelling but a contemporaneous U.S. military-intelligence message, distributed through official channels after interviews and reporting by U.S. personnel in Iran. Bruce Maccabee’s later reconstruction identifies Lt. Col. Olin Mooy of the U.S. Military Assistance and Advisory Group as the officer whose teletype account became the core official document.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/760919_tehran_Maccabee_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">IRANIAN JET CASE</span><span class="citation-popover-snippet">IRANIAN JET CASE</span></span></span>
 
-The case also has multiple witness categories rather than a single observer. The source trail includes civilian callers, the Mehrabad tower, Iranian military commanders, two F-4 crews, and at least one reported nearby civil-airliner radio failure. A later Defence Intelligence Agency evaluation, quoted in Maccabee’s compilation, called it an “outstanding report” and listed features that made it valuable for study: multiple viewpoints, credible witnesses, radar-visual correlation, electromagnetic effects reported by more than one aircraft, and unusual manoeuvrability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/760919tehran_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+The case also has multiple witness categories rather than a single observer. The source trail includes civilian callers, the Mehrabad tower, Iranian military commanders, two F-4 crews, and at least one reported nearby civil-airliner radio failure. A later Defence Intelligence Agency evaluation, quoted in Maccabee’s compilation, called it an “outstanding report” and listed features that made it valuable for study: multiple viewpoints, credible witnesses, radar-visual correlation, electromagnetic effects reported by more than one aircraft, and unusual manoeuvrability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/760919tehran_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-Those strengths should not be overstated. The available public record is still mostly a chain of reports about observations, not the raw technical evidence itself. The public does not have the original radar recording, cockpit audio, complete aircraft-maintenance files, confirmed radiation-test results, or a recovered physical object. That means the case is well documented as a report of an extraordinary encounter, but not proven as an extraordinary craft. The difference is central to assessing it fairly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/760919tehran_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">760919tehran rep</span><span class="citation-popover-snippet">760919tehran rep</span></span></span>
+Those strengths should not be overstated. The available public record is still mostly a chain of reports about observations, not the raw technical evidence itself. The public does not have the original radar recording, cockpit audio, complete aircraft-maintenance files, confirmed radiation-test results, or a recovered physical object. That means the case is well documented as a report of an extraordinary encounter, but not proven as an extraordinary craft. The difference is central to assessing it fairly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/760919tehran_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">760919tehran rep</span><span class="citation-popover-snippet">760919tehran rep</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_jDjxWkNde4" title="1976 Tehran UFO Incident - Military Jets Chase UFO Over Iran | Richard Dolan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_jDjxWkNde4" target="_blank" rel="noopener noreferrer">1976 Tehran UFO Incident - Military Jets Chase UFO Over Iran | Richard Dolan</a></p><p class="youtube-embed-meta">Channel: 4biddenknowledge Podcast Network &middot; Views: 5.9K &middot; Uploaded: January 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_jDjxWkNde4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_jDjxWkNde4">Open on YouTube</a></p></div></div></div>
 
 ## The evidence that carries the most weight
 
-The strongest element is the convergence between visual claims and reported aircraft effects. The first F-4 reportedly lost communications and instruments near the object, regained them when withdrawing, and the second F-4 later reported a weapons-panel failure and communications loss while reacting to the smaller object. The cable also reports interference during the second aircraft’s return and says a civil airliner in the same vicinity experienced communications failure without seeing anything. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/joint_chiefs_staff_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">joint chiefs staff report</span><span class="citation-popover-snippet">joint chiefs staff report</span></span></span>
+The strongest element is the convergence between visual claims and reported aircraft effects. The first F-4 reportedly lost communications and instruments near the object, regained them when withdrawing, and the second F-4 later reported a weapons-panel failure and communications loss while reacting to the smaller object. The cable also reports interference during the second aircraft’s return and says a civil airliner in the same vicinity experienced communications failure without seeing anything.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/joint_chiefs_staff_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">joint chiefs staff report</span><span class="citation-popover-snippet">joint chiefs staff report</span></span></span>
 
-The radar claim is also important, but it is not as clean as it first appears. The report says the second aircraft’s back-seater achieved radar lock at 27 nautical miles and that the return was comparable to a Boeing 707 tanker. Maccabee’s later analysis leans heavily on that point, arguing that if the lock persisted for many seconds it would be hard to dismiss as a momentary ground return. Yet the public record still relies on description rather than preserved radar data, so the radar point is powerful as testimony but limited as independently testable evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Open source on nsa.gov.</span></span></span>
+The radar claim is also important, but it is not as clean as it first appears. The report says the second aircraft’s back-seater achieved radar lock at 27 nautical miles and that the return was comparable to a Boeing 707 tanker. Maccabee’s later analysis leans heavily on that point, arguing that if the lock persisted for many seconds it would be hard to dismiss as a momentary ground return. Yet the public record still relies on description rather than preserved radar data, so the radar point is powerful as testimony but limited as independently testable evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Open source on nsa.gov.</span></span></span>
 
-The “landing” or descent claim is weaker. The cable says a descending object appeared to come down gently and cast bright light over a wide area; the next day, a helicopter search reportedly found no obvious trace at the presumed site, though a beeper signal was detected near a small house whose occupants described a loud noise and bright light. The same passage says aircraft and the area were to be checked for possible radiation, but Maccabee notes no further U.S. Air Force memoranda on the case are publicly available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/760919tehran_NICAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+The “landing” or descent claim is weaker. The cable says a descending object appeared to come down gently and cast bright light over a wide area; the next day, a helicopter search reportedly found no obvious trace at the presumed site, though a beeper signal was detected near a small house whose occupants described a loud noise and bright light. The same passage says aircraft and the area were to be checked for possible radiation, but Maccabee notes no further U.S. Air Force memoranda on the case are publicly available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/760919tehran_NICAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
 <img src="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa-Illustration-2-dark.svg" | relative_url }}" alt="Jet chase near Tehran Iran 1976 illustration 2" data-theme-src-dark="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where sceptical explanations bite
 
-The best sceptical readings do not need to claim that everyone invented the story. They argue that an initial celestial or atmospheric sighting, pilot stress, equipment faults, and later embellishment could have combined into a more dramatic narrative. Philip J. Klass, a prominent UFO sceptic, argued that the initial object was probably astronomical, often summarised as Jupiter, and that aircraft equipment problems and misinterpretation of radar behaviour could explain much of the case. Brian Dunning’s Skeptoid treatment similarly frames the event as aircraft chasing celestial objects while suffering equipment failures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bootcampmilitaryfitnessinstitute.com/2021/09/12/what-was-the-tehran-ufo-incident-1976/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bootcampmilitaryfitnessinstitute.com">[Boot Camp &amp; Military Fitness Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bootcampmilitaryfitnessinstitute.com</span><span class="citation-popover-title">what was the tehran ufo incident 1976</span><span class="citation-popover-snippet">what was the tehran ufo incident 1976</span></span></span>
+The best sceptical readings do not need to claim that everyone invented the story. They argue that an initial celestial or atmospheric sighting, pilot stress, equipment faults, and later embellishment could have combined into a more dramatic narrative. Philip J. Klass, a prominent UFO sceptic, argued that the initial object was probably astronomical, often summarised as Jupiter, and that aircraft equipment problems and misinterpretation of radar behaviour could explain much of the case. Brian Dunning’s Skeptoid treatment similarly frames the event as aircraft chasing celestial objects while suffering equipment failures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bootcampmilitaryfitnessinstitute.com/2021/09/12/what-was-the-tehran-ufo-incident-1976/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bootcampmilitaryfitnessinstitute.com">[Boot Camp &amp; Military Fitness Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bootcampmilitaryfitnessinstitute.com</span><span class="citation-popover-title">what was the tehran ufo incident 1976</span><span class="citation-popover-snippet">what was the tehran ufo incident 1976</span></span></span>
 
-This line of explanation has real force because several key elements are vulnerable. Bright celestial objects can be misjudged at night, especially when observers lack distance cues. Aircraft malfunctions can occur without exotic causes. Radar modes and operator interpretation can produce misleading impressions. The case also passed through newspapers, interviews and UFO-investigator reconstructions, creating room for conflation between the narrower official cable and more elaborate later accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bootcampmilitaryfitnessinstitute.com/2021/09/12/what-was-the-tehran-ufo-incident-1976/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bootcampmilitaryfitnessinstitute.com">[Boot Camp &amp; Military Fitness Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bootcampmilitaryfitnessinstitute.com</span><span class="citation-popover-title">what was the tehran ufo incident 1976</span><span class="citation-popover-snippet">what was the tehran ufo incident 1976</span></span></span>
+This line of explanation has real force because several key elements are vulnerable. Bright celestial objects can be misjudged at night, especially when observers lack distance cues. Aircraft malfunctions can occur without exotic causes. Radar modes and operator interpretation can produce misleading impressions. The case also passed through newspapers, interviews and UFO-investigator reconstructions, creating room for conflation between the narrower official cable and more elaborate later accounts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bootcampmilitaryfitnessinstitute.com/2021/09/12/what-was-the-tehran-ufo-incident-1976/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bootcampmilitaryfitnessinstitute.com">[Boot Camp &amp; Military Fitness Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bootcampmilitaryfitnessinstitute.com</span><span class="citation-popover-title">what was the tehran ufo incident 1976</span><span class="citation-popover-snippet">what was the tehran ufo incident 1976</span></span></span>
 
-However, sceptical accounts also have to explain why trained aircrew, tower personnel and military commanders treated the event as serious in real time, and why the official cable describes repeated proximity-linked equipment effects rather than a single unreliable aircraft. Maccabee’s reconstruction records that Westinghouse avionics personnel later found no permanent faults in the aircraft systems, which can be read in two ways: either there was no lasting technical evidence of a special external cause, or the reported failures were transient and therefore unusually difficult to prove afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/760919_tehran_Maccabee_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">IRANIAN JET CASE</span><span class="citation-popover-snippet">IRANIAN JET CASE</span></span></span>
+However, sceptical accounts also have to explain why trained aircrew, tower personnel and military commanders treated the event as serious in real time, and why the official cable describes repeated proximity-linked equipment effects rather than a single unreliable aircraft. Maccabee’s reconstruction records that Westinghouse avionics personnel later found no permanent faults in the aircraft systems, which can be read in two ways: either there was no lasting technical evidence of a special external cause, or the reported failures were transient and therefore unusually difficult to prove afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/760919_tehran_Maccabee_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">IRANIAN JET CASE</span><span class="citation-popover-snippet">IRANIAN JET CASE</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jxbXb0qNcQo" title="Top 10 Things Pilots Saw Mid Flight That Made No Sense" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jxbXb0qNcQo" target="_blank" rel="noopener noreferrer">Top 10 Things Pilots Saw Mid Flight That Made No Sense</a></p><p class="youtube-embed-meta">Channel: MostAmazingTop10 &middot; Views: 9.8K &middot; Uploaded: May 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jxbXb0qNcQo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jxbXb0qNcQo">Open on YouTube</a></p></div></div></div>
 
 ## What later reconstructions add and distort
 
-Later UFO literature gives the case much of its public shape. Maccabee’s 2006 report is valuable because it collates the official teletype, press reports, and interviews, including the role of Mehrabad tower supervisor Hossain Pirouzi. It also clearly states that part of the reconstruction rests on interviews conducted months after the incident and supplied by reporter Bob Pratt, then a UFO investigator for the National Enquirer. That makes the report useful, but not equivalent to a complete official investigation file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/760919tehran_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+Later UFO literature gives the case much of its public shape. Maccabee’s 2006 report is valuable because it collates the official teletype, press reports, and interviews, including the role of Mehrabad tower supervisor Hossain Pirouzi. It also clearly states that part of the reconstruction rests on interviews conducted months after the incident and supplied by reporter Bob Pratt, then a UFO investigator for the National Enquirer. That makes the report useful, but not equivalent to a complete official investigation file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/760919tehran_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-The Center for UFO Studies summarises the case as a radar-visual incident with electromagnetic effects, naming the air-traffic and military participants and describing the first and second F-4 intercepts. This kind of specialist UFO archive is helpful for orientation, but it also reflects the case’s established UFO-literature framing, where the most anomalous interpretation is often given more narrative weight than the uncertainties. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/types-of-ufos/radar-and-radar-visual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Radar and Radar-Visual</span><span class="citation-popover-snippet">Center for UFO Studies Radar and Radar-Visual</span></span></span>
+The Center for UFO Studies summarises the case as a radar-visual incident with electromagnetic effects, naming the air-traffic and military participants and describing the first and second F-4 intercepts. This kind of specialist UFO archive is helpful for orientation, but it also reflects the case’s established UFO-literature framing, where the most anomalous interpretation is often given more narrative weight than the uncertainties.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/types-of-ufos/radar-and-radar-visual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Radar and Radar-Visual</span><span class="citation-popover-snippet">Center for UFO Studies Radar and Radar-Visual</span></span></span>
 
-Recent public summaries, including Enigma Labs and The Black Vault, show why the case remains prominent: it is readable, dramatic, and supported by declassified material. They also show a risk common to famous UFO cases: once a case becomes a canonical example, each retelling can add confidence while the underlying public evidence remains largely the same. The responsible reading is therefore to separate the original cable, later interviews, newspaper reports, and modern summaries rather than treating them as one seamless evidentiary block. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/the-1976-iran-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the 1976 iran incident</span><span class="citation-popover-snippet">the 1976 iran incident</span></span></span>
+Recent public summaries, including Enigma Labs and The Black Vault, show why the case remains prominent: it is readable, dramatic, and supported by declassified material. They also show a risk common to famous UFO cases: once a case becomes a canonical example, each retelling can add confidence while the underlying public evidence remains largely the same. The responsible reading is therefore to separate the original cable, later interviews, newspaper reports, and modern summaries rather than treating them as one seamless evidentiary block.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/the-1976-iran-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the 1976 iran incident</span><span class="citation-popover-snippet">the 1976 iran incident</span></span></span>
 
 <img src="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa-Illustration-3-dark.svg" | relative_url }}" alt="Jet chase near Tehran Iran 1976 illustration 3" data-theme-src-dark="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What can and cannot be concluded
 
-The safest conclusion is that something unusual was reported and taken seriously by Iranian and U.S.-linked military channels. The official record supports a real scramble by Iranian F-4s, visual reports of a bright object or objects, a claimed airborne radar lock, and reported communications, instrumentation and weapons-control anomalies. These claims are not merely internet folklore; they appear in declassified documentation and in later specialist analyses built around that documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Open source on nsa.gov.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Open source on nsa.gov.</span></span></span>
+The safest conclusion is that something unusual was reported and taken seriously by Iranian and U.S.-linked military channels. The official record supports a real scramble by Iranian F-4s, visual reports of a bright object or objects, a claimed airborne radar lock, and reported communications, instrumentation and weapons-control anomalies. These claims are not merely internet folklore; they appear in declassified documentation and in later specialist analyses built around that documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Open source on nsa.gov.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Open source on nsa.gov.</span></span></span>
 
-The case does not, however, prove an extraterrestrial vehicle, a hostile craft, or a new technology. The missing pieces are too important: no original radar tapes, no confirmed physical debris, no published radiation results, no complete maintenance record tying malfunctions to an external cause, and no definitive official explanation. The incident is best classified as unresolved in the evidential sense: strong enough to resist easy dismissal, but too incomplete to support the most dramatic claims often attached to it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/760919tehran_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">760919tehran rep</span><span class="citation-popover-snippet">760919tehran rep</span></span></span>
+The case does not, however, prove an extraterrestrial vehicle, a hostile craft, or a new technology. The missing pieces are too important: no original radar tapes, no confirmed physical debris, no published radiation results, no complete maintenance record tying malfunctions to an external cause, and no definitive official explanation. The incident is best classified as unresolved in the evidential sense: strong enough to resist easy dismissal, but too incomplete to support the most dramatic claims often attached to it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/760919tehran_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">760919tehran rep</span><span class="citation-popover-snippet">760919tehran rep</span></span></span>
 
 For a case dossier, the Tehran jet chase belongs beside sibling branches on witness credibility, radar-visual cases, electromagnetic-interference claims, and sceptical astronomy-based explanations. Its lasting value is not that it settles the UFO question, but that it shows why some cases remain contested: the record is better than folklore, weaker than proof, and full of details that matter only when chronology, source provenance and technical limitations are kept separate.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DhmnQyDdpzI" title="The Tehran 1976 UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DhmnQyDdpzI" target="_blank" rel="noopener noreferrer">The Tehran 1976 UFO</a></p><p class="youtube-embed-meta">Channel: Skeptoid Media &middot; Views: 921 &middot; Uploaded: May 2018 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DhmnQyDdpzI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DhmnQyDdpzI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened Over Tehran?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened Over Tehran?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
-        </h4>
-        <p class="fr-book-author">By Guy Lawson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+</h4>
+<p class="fr-book-author">By Guy Lawson</p>
         
-        <p class="fr-book-desc">Features intensive analysis of the declassified U.S. military-intelligence cable and the scrambled F-4 Phantom II interception sequence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Features intensive analysis of the declassified U.S. military-intelligence cable and the scrambled F-4 Phantom II interception sequence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Reviews the Tehran jet chase, tracking the Imperial Iranian Air Force commander logs, radar contact points, and system failure claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reviews the Tehran jet chase, tracking the Imperial Iranian Air Force commander logs, radar contact points, and system failure claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Provides structural context on how the Defense Intelligence Agency logged and routed the Shahrokhi Air Base fighter logs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides structural context on how the Defense Intelligence Agency logged and routed the Shahrokhi Air Base fighter logs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Addresses why inconsistent later retellings by flight crew members naturally inflate ordinary sky lights into extraordinary encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses why inconsistent later retellings by flight crew members naturally inflate ordinary sky lights into extraordinary encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nsa.gov  
    Title: us gov iran case  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nsa.gov  
    Title: joint chiefs staff report  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/joint_chiefs_staff_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/joint_chiefs_staff_report.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/joint_chiefs_staff_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/joint_chiefs_staff_report.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nicap.org  
    Title: IRANIAN JET CASE  
-   Link: <a href="https://www.nicap.org/reports/760919_tehran_Maccabee_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/760919_tehran_Maccabee_report.pdf</a>  
+   Link:<a href="https://www.nicap.org/reports/760919_tehran_Maccabee_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/760919_tehran_Maccabee_report.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: skeptoid.com  
-   Link: <a href="https://skeptoid.com/episodes/315" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/315</a>  
+   Link:<a href="https://skeptoid.com/episodes/315" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/315</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: enigmalabs.io  
    Title: Enigma Labs | Report a UFO sighting Tehran Incident | Enigma Labs  
-   Link: <a href="https://enigmalabs.io/library/931061e0-3eb3-497f-8535-a62aea968217" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/931061e0-3eb3-497f-8535-a62aea968217</a>  
+   Link:<a href="https://enigmalabs.io/library/931061e0-3eb3-497f-8535-a62aea968217" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/931061e0-3eb3-497f-8535-a62aea968217</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/</a>  
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/760919tehran_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/760919tehran_dir.htm</a>  
+   Link:<a href="https://www.nicap.org/760919tehran_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/760919tehran_dir.htm</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nicap.org  
    Title: 760919tehran rep  
-   Link: <a href="https://www.nicap.org/reports/760919tehran_rep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/760919tehran_rep.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/760919tehran_rep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/760919tehran_rep.htm</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/reports/760919tehran_NICAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/760919tehran_NICAP.pdf</a>  
+   Link:<a href="https://www.nicap.org/reports/760919tehran_NICAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/760919tehran_NICAP.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: skeptoid.com  
-   Link: <a href="https://skeptoid.com/episodes/358" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/358</a>  
+   Link:<a href="https://skeptoid.com/episodes/358" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/358</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theblackvault.com  
    Title: the 1976 iran incident  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-1976-iran-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-1976-iran-incident/</a>  
+   Link:<a href="https://www.theblackvault.com/casefiles/the-1976-iran-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-1976-iran-incident/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: bootcampmilitaryfitnessinstitute.com  
    Title: what was the tehran ufo incident 1976  
-   Link: <a href="https://bootcampmilitaryfitnessinstitute.com/2021/09/12/what-was-the-tehran-ufo-incident-1976/" target="_blank" rel="noopener noreferrer nofollow">https://bootcampmilitaryfitnessinstitute.com/2021/09/12/what-was-the-tehran-ufo-incident-1976/</a>  
+   Link:<a href="https://bootcampmilitaryfitnessinstitute.com/2021/09/12/what-was-the-tehran-ufo-incident-1976/" target="_blank" rel="noopener noreferrer nofollow">https://bootcampmilitaryfitnessinstitute.com/2021/09/12/what-was-the-tehran-ufo-incident-1976/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cufos.org  
    Title: Center for UFO Studies Radar and Radar-Visual  
-   Link: <a href="https://cufos.org/types-of-ufos/radar-and-radar-visual/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/types-of-ufos/radar-and-radar-visual/</a>  
+   Link:<a href="https://cufos.org/types-of-ufos/radar-and-radar-visual/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/types-of-ufos/radar-and-radar-visual/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/06935701" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06935701</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/06935701" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06935701</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/06741356" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741356</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/06741356" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741356</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/06984637" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06984637</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/06984637" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06984637</a>  
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=j7SPXwnnNYk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j7SPXwnnNYk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1976 Tehran UFO Incident and Crypt of Civilization - 500 Open Tabs Episode 15...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=j7SPXwnnNYk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j7SPXwnnNYk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1976 Tehran UFO Incident and Crypt of Civilization - 500 Open Tabs Episode 15...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: مستند پرنده های ناشناس در آسمان تهران  
-   Link: <a href="https://www.youtube.com/watch?v=t8ufOwyJvu0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t8ufOwyJvu0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ارتش شاهنشاهی در جدال با فرازمینی ها || مستند کامل رویارویی ارتش با یوفو در تهران 1355...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t8ufOwyJvu0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t8ufOwyJvu0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ارتش شاهنشاهی در جدال با فرازمینی ها || مستند کامل رویارویی ارتش با یوفو در تهران 1355...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: UFO Attacks Iranian Fighter Jets? An Incident Covered Up for 20 Years!  
-   Link: <a href="https://www.youtube.com/watch?v=B2u_aNn1_W8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B2u_aNn1_W8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Things Pilots Saw Mid Flight That Made No Sense...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=B2u_aNn1_W8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B2u_aNn1_W8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Things Pilots Saw Mid Flight That Made No Sense...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/0005516652" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005516652</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/0005516652" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005516652</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Top 10 Things Pilots Saw Mid Flight That Made No Sense  
-   Link: <a href="https://www.youtube.com/watch?v=jxbXb0qNcQo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jxbXb0qNcQo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>مستند پرنده های ناشناس در آسمان تهران - شهریور ۱۳۵۵...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jxbXb0qNcQo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jxbXb0qNcQo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>مستند پرنده های ناشناس در آسمان تهران - شهریور ۱۳۵۵...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: war.gov  
    Title: Opentaught the proper reactions in the event an aircraft encounters a UFO. I  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/deepuniversee/posts/former-british-government-ufo-investigator-nick-pope-spent-years-examining-class/955080860623136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/former-british-government-ufo-investigator-nick-pope-spent-years-examining-class/955080860623136/</a>  
+   Link:<a href="https://www.facebook.com/deepuniversee/posts/former-british-government-ufo-investigator-nick-pope-spent-years-examining-class/955080860623136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/former-british-government-ufo-investigator-nick-pope-spent-years-examining-class/955080860623136/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/1ykbq4/til_an_iranian_fighter_attempted_to_down_a_ufo_he/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/1ykbq4/til_an_iranian_fighter_attempted_to_down_a_ufo_he/</a>  
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/1ykbq4/til_an_iranian_fighter_attempted_to_down_a_ufo_he/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/1ykbq4/til_an_iranian_fighter_attempted_to_down_a_ufo_he/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/attachments/omni-with-iran-f4-article-oberg-pdf.59596/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/attachments/omni-with-iran-f4-article-oberg-pdf.59596/</a>  
+   Link:<a href="https://www.metabunk.org/attachments/omni-with-iran-f4-article-oberg-pdf.59596/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/attachments/omni-with-iran-f4-article-oberg-pdf.59596/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/EconomicTimes/posts/-watch-pentagon-ufo-files-reveal-mysterious-uap-formations-over-iran-%EF%B8%8F/1475995904556313/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EconomicTimes/posts/-watch-pentagon-ufo-files-reveal-mysterious-uap-formations-over-iran-%EF%B8%8F/1475995904556313/</a>
+   Link:<a href="https://www.facebook.com/EconomicTimes/posts/-watch-pentagon-ufo-files-reveal-mysterious-uap-formations-over-iran-%EF%B8%8F/1475995904556313/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EconomicTimes/posts/-watch-pentagon-ufo-files-reveal-mysterious-uap-formations-over-iran-%EF%B8%8F/1475995904556313/</a>

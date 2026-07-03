@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /valensole-incident-1-63f5cf-index/
 description: Focused pages that expand on Valensole incident 1965.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Valensole_incident_1_63f5cf
 parent_title: Valensole incident 1965
@@ -16,7 +16,7 @@ parent_permalink: /valensole-incident-1965/
 
 # Explore Topics in Valensole incident 1965
 
-The following pages expand on the main **[Valensole incident 1965]({{ '/valensole-incident-1965/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Valensole incident 1965]({{ '/valensole-incident-1965/' | relative_url }})** page and cover its key branches in.
 
 - [Ground Traces]({{ '/ground-traces/' | relative_url }})
 - [Explanations]({{ '/explanations-325d4f/' | relative_url }})

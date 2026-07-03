@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /flight-19-incident-1-5cc889-index/
 description: Focused pages that expand on Flight 19 incident 1945.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Flight_19_incident_1_5cc889
 parent_title: Flight 19 incident 1945
@@ -16,7 +16,7 @@ parent_permalink: /flight-19-incident-1945/
 
 # Explore Topics in Flight 19 incident 1945
 
-The following pages expand on the main **[Flight 19 incident 1945]({{ '/flight-19-incident-1945/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Flight 19 incident 1945]({{ '/flight-19-incident-1945/' | relative_url }})** page and cover its key branches in.
 
 - [Official Record]({{ '/official-record/' | relative_url }})
 - [Rescue Plane]({{ '/rescue-plane/' | relative_url }})

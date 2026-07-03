@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /larson-abduction-nea-e9683a-index/
 description: Focused pages that expand on Larson abduction near Fargo 1975.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Larson_abduction_nea_e9683a
 parent_title: Larson abduction near Fargo 1975
@@ -16,7 +16,7 @@ parent_permalink: /larson-abduction-near-fargo-1975/
 
 # Explore Topics in Larson abduction near Fargo 1975
 
-The following pages expand on the main **[Larson abduction near Fargo 1975]({{ '/larson-abduction-near-fargo-1975/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Larson abduction near Fargo 1975]({{ '/larson-abduction-near-fargo-1975/' | relative_url }})** page and cover its key branches in.
 
 - [Hypnosis]({{ '/hypnosis-dc4a64/' | relative_url }})
 - [I 94 Timeline]({{ '/i-94-timeline/' | relative_url }})

@@ -247,11 +247,11 @@ In the broader context of the Farmington sightings of March 1950 — where resid
 <img src="{{ "/assets/images/Farmington_sightings_46c4ec_skyhook_skeptical_de_a1a4a1-Illustration-1-dark.svg" | relative_url }}" alt="Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/Farmington_sightings_46c4ec_skyhook_skeptical_de_a1a4a1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Farmington_sightings_46c4ec_skyhook_skeptical_de_a1a4a1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Skyhook Balloon Hypothesis
 
-In the late 1940s and early 1950s, the United States Navy and Office of Naval Research flew large plastic **Skyhook balloons** for atmospheric research and instrument carriage at very high altitudes. These balloons, developed by Otto Winzen and partners, were often huge — hundreds of feet across when fully expanded — and could carry scientific payloads into the stratosphere. Because of their size, shape, and reflective materials, they sometimes appeared as bright, disc‑like objects silhouetted against the sky, especially when sunlight caught their surfaces at the right angle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Skyhook_balloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Skyhook balloon</span><span class="citation-popover-snippet">Skyhook balloon</span></span></span>
+In the late 1940s and early 1950s, the United States Navy and Office of Naval Research flew large plastic **Skyhook balloons** for atmospheric research and instrument carriage at very high altitudes. These balloons, developed by Otto Winzen and partners, were often huge — hundreds of feet across when fully expanded — and could carry scientific payloads into the stratosphere. Because of their size, shape, and reflective materials, they sometimes appeared as bright, disc‑like objects silhouetted against the sky, especially when sunlight caught their surfaces at the right angle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Skyhook_balloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Skyhook balloon</span><span class="citation-popover-snippet">Skyhook balloon</span></span></span>
 
-Sceptics and early UFO investigators noted that similar balloon flights were frequently contemporaneous with UFO reports in the late 1940s and early 1950s. For example, Skyhooks were implicated in the well‑known 1948 **Mantell incident**, where a pilot chasing an unidentified object later identified by investigators as a Skyhook balloon lost his life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/the-mantell-incident-a-case-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">UFO Insight The Mantell Incident</span><span class="citation-popover-snippet">UFO InsightThe Mantell Incident - UFO InsightMarch 3, 2019...</span><span class="citation-popover-meta">Published: March 3, 2019</span></span></span>
+Sceptics and early UFO investigators noted that similar balloon flights were frequently contemporaneous with UFO reports in the late 1940s and early 1950s. For example, Skyhooks were implicated in the well‑known 1948 **Mantell incident**, where a pilot chasing an unidentified object later identified by investigators as a Skyhook balloon lost his life.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/the-mantell-incident-a-case-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">UFO Insight The Mantell Incident</span><span class="citation-popover-snippet">UFO InsightThe Mantell Incident - UFO InsightMarch 3, 2019...</span><span class="citation-popover-meta">Published: March 3, 2019</span></span></span>
 
-A particularly graphic version of the balloon hypothesis appears in ***The Report on Unidentified Flying Objects***, the 1953 U.S. Air Force textbook compiled by Brad‑ schwab Ruppelt and others. It recounts an explanation that on March 17 1950, a Skyhook balloon launched from Holloman Air Force Base — not far from Farmington — might have become brittle in the extremely cold stratosphere and burst. According to this account, the resulting plastic fragments could have fallen and been carried by wind, creating the illusion of many small saucer‑like objects drifting down through the sky, lighting up under the sun. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 6</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 6 - Wikisource, the free online library...</span></span></span>
+A particularly graphic version of the balloon hypothesis appears in ***The Report on Unidentified Flying Objects***, the 1953 U.S. Air Force textbook compiled by Brad‑ schwab Ruppelt and others. It recounts an explanation that on March 17 1950, a Skyhook balloon launched from Holloman Air Force Base — not far from Farmington — might have become brittle in the extremely cold stratosphere and burst. According to this account, the resulting plastic fragments could have fallen and been carried by wind, creating the illusion of many small saucer‑like objects drifting down through the sky, lighting up under the sun.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 6</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 6 - Wikisource, the free online library...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QYNcUVZRv2A" title="Before Roswell There was Farmington: The Untold Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QYNcUVZRv2A" target="_blank" rel="noopener noreferrer">Before Roswell There was Farmington: The Untold Story</a></p><p class="youtube-embed-meta">Channel: Motech &middot; Views: 6.4K &middot; Uploaded: November 2024 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QYNcUVZRv2A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QYNcUVZRv2A">Open on YouTube</a></p></div></div></div>
 
@@ -259,20 +259,20 @@ A particularly graphic version of the balloon hypothesis appears in ***The Repor
 
 While the Skyhook balloon explanation was presented by some official authors and sceptics, it **has never been established by direct evidence to account for the Farmington reports**. As critics have pointed out, the narrative stretches the known behaviour of these balloons in several ways. Highlights of the sceptical debate include:
 
-* **Temporal fit:** The Farmington sightings reportedly spanned *several consecutive days*, whereas a shattered balloon or its fragments would likely be a more transient visual phenomenon associated with a specific launch or break‑up event. Some researchers argue that a single balloon break‑up cannot adequately explain repeated sightings across multiple days, especially at distant locations beyond Holloman. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.davidmarlerufo.com/farmington-nm-1950" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: davidmarlerufo.com">[David Marler UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">davidmarlerufo.com</span><span class="citation-popover-title">farmington nm 1950</span><span class="citation-popover-snippet">David Marler UFOFarmington NM 1950...</span></span></span>
-* **Quantity and motion:** Witness accounts, as reconstructed, described scores to hundreds of objects in the sky, sometimes reported as moving with apparent coordinated motion or changing formations. A loose field of reflective fragments — or a solitary high‑altitude balloon — would likely generate far more random, slow drifts rather than cohesive patterns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://countdowntodisclosure.com/articles/farmington-ufo-armada-1950-hundreds-of-discs-witnessed-over-new-mexico/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countdowntodisclosure.com">[Countdown to Disclosure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countdowntodisclosure.com</span><span class="citation-popover-title">farmington ufo armada 1950 hundreds of discs witnessed over new mexico</span><span class="citation-popover-snippet">Countdown to DisclosureFarmington UFO Armada 1950: Hundreds of Discs Witnessed Over New Mexico – Countdown to DisclosureMarch 17, 1950...</span><span class="citation-popover-meta">Published: March 17, 1950</span></span></span>
-* **Lack of contemporaneous documentation:** Critics emphasise the absence of identified primary source material (e.g., Air Force flight records, contemporaneous weather balloon launch logs, or recovered debris) explicitly linking a Skyhook event to the precise times and locations of the Farmington observations. Later summaries that invoke the balloon hypothesis often derive from secondary or retrospective accounts rather than contemporaneous military documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://countdowntodisclosure.com/articles/farmington-ufo-armada-1950-hundreds-of-discs-witnessed-over-new-mexico/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countdowntodisclosure.com">[Countdown to Disclosure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countdowntodisclosure.com</span><span class="citation-popover-title">farmington ufo armada 1950 hundreds of discs witnessed over new mexico</span><span class="citation-popover-snippet">Countdown to DisclosureFarmington UFO Armada 1950: Hundreds of Discs Witnessed Over New Mexico – Countdown to DisclosureMarch 17, 1950...</span><span class="citation-popover-meta">Published: March 17, 1950</span></span></span>
+* **Temporal fit:** The Farmington sightings reportedly spanned *several consecutive days*, whereas a shattered balloon or its fragments would likely be a more transient visual phenomenon associated with a specific launch or break‑up event. Some researchers argue that a single balloon break‑up cannot adequately explain repeated sightings across multiple days, especially at distant locations beyond Holloman.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.davidmarlerufo.com/farmington-nm-1950" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: davidmarlerufo.com">[David Marler UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">davidmarlerufo.com</span><span class="citation-popover-title">farmington nm 1950</span><span class="citation-popover-snippet">David Marler UFOFarmington NM 1950...</span></span></span>
+* **Quantity and motion:** Witness accounts, as reconstructed, described scores to hundreds of objects in the sky, sometimes reported as moving with apparent coordinated motion or changing formations. A loose field of reflective fragments — or a solitary high‑altitude balloon — would likely generate far more random, slow drifts rather than cohesive patterns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://countdowntodisclosure.com/articles/farmington-ufo-armada-1950-hundreds-of-discs-witnessed-over-new-mexico/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countdowntodisclosure.com">[Countdown to Disclosure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countdowntodisclosure.com</span><span class="citation-popover-title">farmington ufo armada 1950 hundreds of discs witnessed over new mexico</span><span class="citation-popover-snippet">Countdown to DisclosureFarmington UFO Armada 1950: Hundreds of Discs Witnessed Over New Mexico – Countdown to DisclosureMarch 17, 1950...</span><span class="citation-popover-meta">Published: March 17, 1950</span></span></span>
+* **Lack of contemporaneous documentation:** Critics emphasise the absence of identified primary source material (e.g., Air Force flight records, contemporaneous weather balloon launch logs, or recovered debris) explicitly linking a Skyhook event to the precise times and locations of the Farmington observations. Later summaries that invoke the balloon hypothesis often derive from secondary or retrospective accounts rather than contemporaneous military documentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://countdowntodisclosure.com/articles/farmington-ufo-armada-1950-hundreds-of-discs-witnessed-over-new-mexico/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countdowntodisclosure.com">[Countdown to Disclosure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countdowntodisclosure.com</span><span class="citation-popover-title">farmington ufo armada 1950 hundreds of discs witnessed over new mexico</span><span class="citation-popover-snippet">Countdown to DisclosureFarmington UFO Armada 1950: Hundreds of Discs Witnessed Over New Mexico – Countdown to DisclosureMarch 17, 1950...</span><span class="citation-popover-meta">Published: March 17, 1950</span></span></span>
 
-Some UFO researchers thus argue that the balloon hypothesis was promulgated as a “conventional cover story” during an era of considerable public anxiety about unidentified aerial sightings, reflecting a broader pattern where official explanations lean toward mundane causes in the absence of definitive military disclosure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.davidmarlerufo.com/farmington-nm-1950" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: davidmarlerufo.com">[David Marler UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">davidmarlerufo.com</span><span class="citation-popover-title">farmington nm 1950</span><span class="citation-popover-snippet">David Marler UFOFarmington NM 1950...</span></span></span>
+Some UFO researchers thus argue that the balloon hypothesis was promulgated as a “conventional cover story” during an era of considerable public anxiety about unidentified aerial sightings, reflecting a broader pattern where official explanations lean toward mundane causes in the absence of definitive military disclosure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.davidmarlerufo.com/farmington-nm-1950" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: davidmarlerufo.com">[David Marler UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">davidmarlerufo.com</span><span class="citation-popover-title">farmington nm 1950</span><span class="citation-popover-snippet">David Marler UFOFarmington NM 1950...</span></span></span>
 
 <img src="{{ "/assets/images/Farmington_sightings_46c4ec_skyhook_skeptical_de_a1a4a1-Illustration-2-dark.svg" | relative_url }}" alt="Explanations illustration 2" data-theme-src-dark="{{ "/assets/images/Farmington_sightings_46c4ec_skyhook_skeptical_de_a1a4a1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Farmington_sightings_46c4ec_skyhook_skeptical_de_a1a4a1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Weather, Perception, and Social Amplification
 
-The sceptical debate over the Skyhook explanation sits alongside other **non‑exotic interpretations** offered to account for elements of the Farmington reports without resorting to extraterrestrial hypotheses. These include misidentifications of known aircraft, optical phenomena in the atmosphere, birds or insects reflecting sunlight, and perceptual errors amplified through social contagion — a process by which one observer’s interpretation influences others. <span class="citation-chip-wrap"><a class="citation-chip" href="https://countdowntodisclosure.com/articles/farmington-ufo-armada-1950-hundreds-of-discs-witnessed-over-new-mexico/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countdowntodisclosure.com">[Countdown to Disclosure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countdowntodisclosure.com</span><span class="citation-popover-title">farmington ufo armada 1950 hundreds of discs witnessed over new mexico</span><span class="citation-popover-snippet">Countdown to DisclosureFarmington UFO Armada 1950: Hundreds of Discs Witnessed Over New Mexico – Countdown to DisclosureMarch 17, 1950...</span><span class="citation-popover-meta">Published: March 17, 1950</span></span></span>
+The sceptical debate over the Skyhook explanation sits alongside other **non‑exotic interpretations** offered to account for elements of the Farmington reports without resorting to extraterrestrial hypotheses. These include misidentifications of known aircraft, optical phenomena in the atmosphere, birds or insects reflecting sunlight, and perceptual errors amplified through social contagion — a process by which one observer’s interpretation influences others.<span class="citation-chip-wrap"><a class="citation-chip" href="https://countdowntodisclosure.com/articles/farmington-ufo-armada-1950-hundreds-of-discs-witnessed-over-new-mexico/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countdowntodisclosure.com">[Countdown to Disclosure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countdowntodisclosure.com</span><span class="citation-popover-title">farmington ufo armada 1950 hundreds of discs witnessed over new mexico</span><span class="citation-popover-snippet">Countdown to DisclosureFarmington UFO Armada 1950: Hundreds of Discs Witnessed Over New Mexico – Countdown to DisclosureMarch 17, 1950...</span><span class="citation-popover-meta">Published: March 17, 1950</span></span></span>
 
-For example, scholars of early UFO psychology noted that large collective sightings often involve an initial ambiguous stimulus (natural or man‑made), which becomes shaped by local conversation, newspaper reporting, and community attention. As details circulate, the mental image of what was seen can shift from a few bright points to “hundreds of objects” and from static glints to suggested manoeuvres — all without necessitating unknown technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://countdowntodisclosure.com/articles/farmington-ufo-armada-1950-hundreds-of-discs-witnessed-over-new-mexico/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countdowntodisclosure.com">[Countdown to Disclosure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countdowntodisclosure.com</span><span class="citation-popover-title">farmington ufo armada 1950 hundreds of discs witnessed over new mexico</span><span class="citation-popover-snippet">Countdown to DisclosureFarmington UFO Armada 1950: Hundreds of Discs Witnessed Over New Mexico – Countdown to DisclosureMarch 17, 1950...</span><span class="citation-popover-meta">Published: March 17, 1950</span></span></span>
+For example, scholars of early UFO psychology noted that large collective sightings often involve an initial ambiguous stimulus (natural or man‑made), which becomes shaped by local conversation, newspaper reporting, and community attention. As details circulate, the mental image of what was seen can shift from a few bright points to “hundreds of objects” and from static glints to suggested manoeuvres — all without necessitating unknown technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://countdowntodisclosure.com/articles/farmington-ufo-armada-1950-hundreds-of-discs-witnessed-over-new-mexico/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countdowntodisclosure.com">[Countdown to Disclosure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countdowntodisclosure.com</span><span class="citation-popover-title">farmington ufo armada 1950 hundreds of discs witnessed over new mexico</span><span class="citation-popover-snippet">Countdown to DisclosureFarmington UFO Armada 1950: Hundreds of Discs Witnessed Over New Mexico – Countdown to DisclosureMarch 17, 1950...</span><span class="citation-popover-meta">Published: March 17, 1950</span></span></span>
 
-The Skyhook balloon explanation, in this context, is part of a class of high‑altitude observational errors and misidentifications (including weather balloons and even parhelia) that have accounted for many mid‑century UFO reports when cross‑checked with empirical atmospheric and flight data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flying saucer</span><span class="citation-popover-snippet">Flying saucer</span></span></span>
+The Skyhook balloon explanation, in this context, is part of a class of high‑altitude observational errors and misidentifications (including weather balloons and even parhelia) that have accounted for many mid‑century UFO reports when cross‑checked with empirical atmospheric and flight data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flying saucer</span><span class="citation-popover-snippet">Flying saucer</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/obbA4XmfmG8" title="Project Moby Dick (1952)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=obbA4XmfmG8" target="_blank" rel="noopener noreferrer">Project Moby Dick (1952)</a></p><p class="youtube-embed-meta">Channel: AIRBOYD &middot; Views: 7.1K &middot; Uploaded: August 2012 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=obbA4XmfmG8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=obbA4XmfmG8">Open on YouTube</a></p></div></div></div>
 
@@ -290,199 +290,199 @@ Despite the longevity of the Skyhook balloon hypothesis, no **single conventiona
 
 </div>
 
-In scholarly sceptical analysis, the tentative consensus is that a combination of ordinary atmospheric, man‑made, and perceptual factors — rather than a single exotic technology — most likely underlies the Farmington reports, with the Skyhook balloon explanation representing one among several competing mundane hypotheses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://countdowntodisclosure.com/articles/farmington-ufo-armada-1950-hundreds-of-discs-witnessed-over-new-mexico/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countdowntodisclosure.com">[Countdown to Disclosure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countdowntodisclosure.com</span><span class="citation-popover-title">farmington ufo armada 1950 hundreds of discs witnessed over new mexico</span><span class="citation-popover-snippet">Countdown to DisclosureFarmington UFO Armada 1950: Hundreds of Discs Witnessed Over New Mexico – Countdown to DisclosureMarch 17, 1950...</span><span class="citation-popover-meta">Published: March 17, 1950</span></span></span>
+In scholarly sceptical analysis, the tentative consensus is that a combination of ordinary atmospheric, man‑made, and perceptual factors — rather than a single exotic technology — most likely underlies the Farmington reports, with the Skyhook balloon explanation representing one among several competing mundane hypotheses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://countdowntodisclosure.com/articles/farmington-ufo-armada-1950-hundreds-of-discs-witnessed-over-new-mexico/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countdowntodisclosure.com">[Countdown to Disclosure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countdowntodisclosure.com</span><span class="citation-popover-title">farmington ufo armada 1950 hundreds of discs witnessed over new mexico</span><span class="citation-popover-snippet">Countdown to DisclosureFarmington UFO Armada 1950: Hundreds of Discs Witnessed Over New Mexico – Countdown to DisclosureMarch 17, 1950...</span><span class="citation-popover-meta">Published: March 17, 1950</span></span></span>
 
 <img src="{{ "/assets/images/Farmington_sightings_46c4ec_skyhook_skeptical_de_a1a4a1-Illustration-3-dark.svg" | relative_url }}" alt="Explanations illustration 3" data-theme-src-dark="{{ "/assets/images/Farmington_sightings_46c4ec_skyhook_skeptical_de_a1a4a1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Farmington_sightings_46c4ec_skyhook_skeptical_de_a1a4a1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could Balloons Explain the Armada?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could Balloons Explain the Armada?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Contains direct summaries of the Skyhook balloon research program and how its high-altitude platforms often triggered UFO sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains direct summaries of the Skyhook balloon research program and how its high-altitude platforms often triggered UFO sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Profiles the Skyhook balloon hypothesis, examining how scientific atmospheric balloons were documented against mass-sighting claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Profiles the Skyhook balloon hypothesis, examining how scientific atmospheric balloons were documented against mass-sighting claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches forensic methodologies to distinguish standard research balloons from anomalous craft reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches forensic methodologies to distinguish standard research balloons from anomalous craft reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Reviews the standards applied by military investigative bodies when checking high-altitude balloon sightings vs. UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reviews the standards applied by military investigative bodies when checking high-altitude balloon sightings vs. UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="explanations-a12ff1-could-balloons-explain-the-armada-farmington-sightings-1950-ufo-poster-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -498,7 +498,7 @@ In scholarly sceptical analysis, the tentative consensus is that a combination o
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -518,7 +518,7 @@ In scholarly sceptical analysis, the tentative consensus is that a combination o
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -550,7 +550,7 @@ In scholarly sceptical analysis, the tentative consensus is that a combination o
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -602,7 +602,7 @@ In scholarly sceptical analysis, the tentative consensus is that a combination o
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -647,7 +647,7 @@ In scholarly sceptical analysis, the tentative consensus is that a combination o
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -688,105 +688,105 @@ In scholarly sceptical analysis, the tentative consensus is that a combination o
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Skyhook balloon  
-   Link: <a href="https://en.wikipedia.org/wiki/Skyhook_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skyhook_balloon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Skyhook_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skyhook_balloon</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: en.wikisource.org  
    Title: The Report on Unidentified Flying Objects/Chapter 6  
-   Link: <a href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_6" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying Objects/Chapter 6 - Wikisource, the free online library...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_6" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying Objects/Chapter 6 - Wikisource, the free online library...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: davidmarlerufo.com  
    Title: farmington nm 1950  
-   Link: <a href="https://www.davidmarlerufo.com/farmington-nm-1950" target="_blank" rel="noopener noreferrer nofollow">https://www.davidmarlerufo.com/farmington-nm-1950</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>David Marler UFOFarmington NM 1950...</p></details>
+   Link:<a href="https://www.davidmarlerufo.com/farmington-nm-1950" target="_blank" rel="noopener noreferrer nofollow">https://www.davidmarlerufo.com/farmington-nm-1950</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Marler UFOFarmington NM 1950...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Flying saucer  
-   Link: <a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: time.com  
-   Link: <a href="https://time.com/archive/6608795/an-astronomers-explanation-those-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6608795/an-astronomers-explanation-those-flying-saucers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>aunching of a big “sky hook” balloon. They appear as roundish...Read more...</p></details>
+   Link:<a href="https://time.com/archive/6608795/an-astronomers-explanation-those-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6608795/an-astronomers-explanation-those-flying-saucers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aunching of a big “sky hook” balloon. They appear as roundish...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufoinsight.com  
    Title: UFO Insight The Mantell Incident  
-   Link: <a href="https://www.ufoinsight.com/the-mantell-incident-a-case-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/the-mantell-incident-a-case-study/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightThe Mantell Incident - UFO InsightMarch 3, 2019...</p></details>
+   Link:<a href="https://www.ufoinsight.com/the-mantell-incident-a-case-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/the-mantell-incident-a-case-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightThe Mantell Incident - UFO InsightMarch 3, 2019...</p></details>
    Published: March 3, 2019  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: countdowntodisclosure.com  
    Title: farmington ufo armada 1950 hundreds of discs witnessed over new mexico  
-   Link: <a href="https://countdowntodisclosure.com/articles/farmington-ufo-armada-1950-hundreds-of-discs-witnessed-over-new-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://countdowntodisclosure.com/articles/farmington-ufo-armada-1950-hundreds-of-discs-witnessed-over-new-mexico/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Countdown to DisclosureFarmington UFO Armada 1950: Hundreds of Discs Witnessed Over New Mexico – Countdown to DisclosureMarch 17, 1950...</p></details>
+   Link:<a href="https://countdowntodisclosure.com/articles/farmington-ufo-armada-1950-hundreds-of-discs-witnessed-over-new-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://countdowntodisclosure.com/articles/farmington-ufo-armada-1950-hundreds-of-discs-witnessed-over-new-mexico/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Countdown to DisclosureFarmington UFO Armada 1950: Hundreds of Discs Witnessed Over New Mexico – Countdown to DisclosureMarch 17, 1950...</p></details>
    Published: March 17, 1950  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufoinsight.com  
    Title: The Farmington, New Mexico UFO Armada Case  
-   Link: <a href="https://www.ufoinsight.com/ufos/sightings/new-mexico-ufo-armada-case" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/new-mexico-ufo-armada-case</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightJune 10, 2019 — THE FARMINGTON, NEW MEXICO UFO ARMADA CASE By Marcus Lowth Image: Published Date June 10, 2019 Image: Last Upd...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/sightings/new-mexico-ufo-armada-case" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/new-mexico-ufo-armada-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightJune 10, 2019 — THE FARMINGTON, NEW MEXICO UFO ARMADA CASE By Marcus Lowth Image: Published Date June 10, 2019 Image: Last Upd...</p></details>
    Published: June 10, 2019  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/cache/epub/66639/pg66639-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/66639/pg66639-images.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The World of Flying SaucersUFO Reports and the Air Force. Most flying-saucer reports have come from reliable citizens who have seen somet...</p></details>
+   Link:<a href="https://www.gutenberg.org/cache/epub/66639/pg66639-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/66639/pg66639-images.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The World of Flying SaucersUFO Reports and the Air Force. Most flying-saucer reports have come from reliable citizens who have seen somet...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: handprint.com  
-   Link: <a href="https://www.handprint.com/UFO/UFO.html" target="_blank" rel="noopener noreferrer nofollow">https://www.handprint.com/UFO/UFO.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO as wildlifeThe prevailing theory in ufology is that (1) is an interstellar spacecraft technology, and (2) are aliens. Those are compl...</p></details>
+   Link:<a href="https://www.handprint.com/UFO/UFO.html" target="_blank" rel="noopener noreferrer nofollow">https://www.handprint.com/UFO/UFO.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO as wildlifeThe prevailing theory in ufology is that (1) is an interstellar spacecraft technology, and (2) are aliens. Those are compl...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: downloads.cs.stanford.edu  
-   Link: <a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>born became states including american... dr. manager references pennsylvania scored legal seat italy god better... ufo neoclassical envi...</p></details>
+   Link:<a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>born became states including american... dr. manager references pennsylvania scored legal seat italy god better... ufo neoclassical envi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/150258691719744/posts/8468799559865574/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/150258691719744/posts/8468799559865574/</a>  
+   Link:<a href="https://www.facebook.com/groups/150258691719744/posts/8468799559865574/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/150258691719744/posts/8468799559865574/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RuppeltDecember 18, 2005 — The first reports were made at 10:15A.M.; then for an hour the air was full of flying saucers. Estimates of th...</p></details>
+   Link:<a href="https://www.gutenberg.org/cache/epub/17346/pg17346.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RuppeltDecember 18, 2005 — The first reports were made at 10:15A.M.; then for an hour the air was full of flying saucers. Estimates of th...</p></details>
    Published: December 18, 2005  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: everything.explained.today  
-   Link: <a href="https://everything.explained.today/Project_Skyhook/" target="_blank" rel="noopener noreferrer nofollow">https://everything.explained.today/Project_Skyhook/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Winzen and General Mills, Inc. They were used by the United States Navy Office of Naval Research (ONR) in...</p></details>
+   Link:<a href="https://everything.explained.today/Project_Skyhook/" target="_blank" rel="noopener noreferrer nofollow">https://everything.explained.today/Project_Skyhook/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Winzen and General Mills, Inc. They were used by the United States Navy Office of Naval Research (ONR) in...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: skeptic.org.uk  
    Title: The Secrets of Area 51: classified balloons and flying saucers  
-   Link: <a href="https://www.skeptic.org.uk/2002/07/the-secrets-of-area-51-classified-balloons-and-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.org.uk/2002/07/the-secrets-of-area-51-classified-balloons-and-flying-saucers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The SkepticJuly 1, 2002 — THE SECRETS OF AREA 51: CLASSIFIED BALLOONS AND FLYING SAUCERS By David Hambling 1st July 2002 AUTHOR David Ham...</p></details>
+   Link:<a href="https://www.skeptic.org.uk/2002/07/the-secrets-of-area-51-classified-balloons-and-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.org.uk/2002/07/the-secrets-of-area-51-classified-balloons-and-flying-saucers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The SkepticJuly 1, 2002 — THE SECRETS OF AREA 51: CLASSIFIED BALLOONS AND FLYING SAUCERS By David Hambling 1st July 2002 AUTHOR David Ham...</p></details>
    Published: July 1, 2002  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: wyominghistoryday.org  
-   Link: <a href="https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/ufo-enigma-definitive-explanation-ufo-phenomenon-donald-h-menzel-and" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/ufo-enigma-definitive-explanation-ufo-phenomenon-donald-h-menzel-and</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Menzel was skeptic of UFOs and wrote three books to debunk UFOs. Ernest...Read more...</p></details>
+   Link:<a href="https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/ufo-enigma-definitive-explanation-ufo-phenomenon-donald-h-menzel-and" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/ufo-enigma-definitive-explanation-ufo-phenomenon-donald-h-menzel-and</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Menzel was skeptic of UFOs and wrote three books to debunk UFOs. Ernest...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sacred-texts.com  
    Title: The Report on Unidentified Flying Objects: Chapter Six  
-   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo08.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo08.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>T... | Internet Sacred Text Archivep. 76 flight path. They would dart in and out and seemed to avoid collisions only by inches. There was...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/rufo/rufo08.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo08.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>T... | Internet Sacred Text Archivep. 76 flight path. They would dart in and out and seemed to avoid collisions only by inches. There was...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction. THREE UFO sightings by United States astronauts Bor- man and McDivitt are now officially admitted as un-.Read more...</p></details>
+   Link:<a href="https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction. THREE UFO sightings by United States astronauts Bor- man and McDivitt are now officially admitted as un-.Read more...</p></details>

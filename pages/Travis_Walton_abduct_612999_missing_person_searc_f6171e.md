@@ -242,45 +242,45 @@ image: /assets/images/Travis_Walton_abduct_612999_missing_person_searc_f6171e-Il
 
 ## Introduction
 
-The Travis Walton case became nationally famous because it was not initially handled as a UFO story. It began as a missing-person emergency in the forests near Heber, Arizona, after six logging crew members returned without a co-worker and offered an extraordinary explanation for his disappearance. For several days in November 1975, local law enforcement treated the matter as a possible fatal accident or homicide. Deputies organised searches through the Turkey Springs area, questioned the crew intensively and explored whether the UFO account concealed a violent crime. That official response remains one of the strongest reasons the case still attracts attention: unlike many later alien-abduction claims, Walton’s absence triggered real police procedures, search operations and investigative pressure before the story entered popular culture. At the same time, sceptics argue that none of those official actions proved an abduction occurred; they only proved that a man genuinely went missing for several days. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kjzz.org/the-show/2025-07-03/his-arizona-ufo-abduction-story-became-legend-after-50-years-hes-sick-of-attempts-to-debunk-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kjzz.org">[KJZZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kjzz.org</span><span class="citation-popover-title">His Arizona UFO abduction story became legend</span><span class="citation-popover-snippet">After 50...3 Jul 2025 — Arizona was the site of one of the most famous reported UFO abductions. In 1975, Travis Walton was working on a...</span></span></span>
+The Travis Walton case became nationally famous because it was not initially handled as a UFO story. It began as a missing-person emergency in the forests near Heber, Arizona, after six logging crew members returned without a co-worker and offered an extraordinary explanation for his disappearance. For several days in November 1975, local law enforcement treated the matter as a possible fatal accident or homicide. Deputies organised searches through the Turkey Springs area, questioned the crew intensively and explored whether the UFO account concealed a violent crime. That official response remains one of the strongest reasons the case still attracts attention: unlike many later alien-abduction claims, Walton’s absence triggered real police procedures, search operations and investigative pressure before the story entered popular culture. At the same time, sceptics argue that none of those official actions proved an abduction occurred; they only proved that a man genuinely went missing for several days.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kjzz.org/the-show/2025-07-03/his-arizona-ufo-abduction-story-became-legend-after-50-years-hes-sick-of-attempts-to-debunk-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kjzz.org">[KJZZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kjzz.org</span><span class="citation-popover-title">His Arizona UFO abduction story became legend</span><span class="citation-popover-snippet">After 50...3 Jul 2025 — Arizona was the site of one of the most famous reported UFO abductions. In 1975, Travis Walton was working on a...</span></span></span>
 
 <img src="{{ "/assets/images/Travis_Walton_abduct_612999_missing_person_searc_f6171e-Illustration-1-dark.svg" | relative_url }}" alt="Search illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Walton_abduct_612999_missing_person_searc_f6171e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Walton_abduct_612999_missing_person_searc_f6171e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## From vanished worker to possible crime
 
-On the evening of 5 November 1975, forestry crew chief Michael Rogers reported Walton missing to the Navajo County Sheriff’s Office after the crew claimed to have encountered a bright aerial object in the Apache-Sitgreaves National Forests. According to the men’s account, Walton left the truck, approached the light and disappeared after being struck by a beam-like flash. The remaining workers fled in panic, then returned to the site and said he was gone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_Walton_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis Walton incident</span><span class="citation-popover-snippet">Travis Walton incident</span></span></span>
+On the evening of 5 November 1975, forestry crew chief Michael Rogers reported Walton missing to the Navajo County Sheriff’s Office after the crew claimed to have encountered a bright aerial object in the Apache-Sitgreaves National Forests. According to the men’s account, Walton left the truck, approached the light and disappeared after being struck by a beam-like flash. The remaining workers fled in panic, then returned to the site and said he was gone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_Walton_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis Walton incident</span><span class="citation-popover-snippet">Travis Walton incident</span></span></span>
 
-For investigators, the immediate problem was straightforward: a 22-year-old man had vanished in remote woodland, and the only [witnesses]({{ 'witnesses-0bd763/' | relative_url }}) were the six men who had last seen him alive. Sheriff Marlin Gillespie and deputies did not initially approach the case as confirmation of extraterrestrial activity. They approached it as a potential criminal investigation. The crew’s account sounded implausible, and officers had to consider whether the UFO story was a cover narrative for assault, manslaughter or murder. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_%28band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis (band</span><span class="citation-popover-snippet">Travis (band)Travis are a Scottish rock band formed in Glasgow in 1990, and composed of Fran Healy (lead vocals, rhythm guitar), Dougi...</span></span></span>
+For investigators, the immediate problem was straightforward: a 22-year-old man had vanished in remote woodland, and the only [witnesses]({{ 'witnesses-0bd763/' | relative_url }}) were the six men who had last seen him alive. Sheriff Marlin Gillespie and deputies did not initially approach the case as confirmation of extraterrestrial activity. They approached it as a potential criminal investigation. The crew’s account sounded implausible, and officers had to consider whether the UFO story was a cover narrative for assault, manslaughter or murder.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_%28band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis (band</span><span class="citation-popover-snippet">Travis (band)Travis are a Scottish rock band formed in Glasgow in 1990, and composed of Fran Healy (lead vocals, rhythm guitar), Dougi...</span></span></span>
 
-Reports from the period describe officers meeting the crew the same night and returning with some of them to the Turkey Springs area to search the site. The atmosphere quickly became strained. Some crew members reportedly refused to go back into the woods after dark, while others accompanied deputies to retrace the route. Search efforts continued into the night before being paused until morning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_Walton_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis Walton incident</span><span class="citation-popover-snippet">Travis Walton incident</span></span></span>
+Reports from the period describe officers meeting the crew the same night and returning with some of them to the Turkey Springs area to search the site. The atmosphere quickly became strained. Some crew members reportedly refused to go back into the woods after dark, while others accompanied deputies to retrace the route. Search efforts continued into the night before being paused until morning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_Walton_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis Walton incident</span><span class="citation-popover-snippet">Travis Walton incident</span></span></span>
 
-One reason the case gained credibility in the public imagination was that the witnesses subjected themselves to official scrutiny almost immediately. The crew did not simply disappear or avoid contact with police after making their claim. Instead, they were repeatedly questioned while Walton remained missing. That sequence gave the story a procedural seriousness many UFO accounts lack. Even critics of the abduction narrative generally acknowledge that the disappearance itself was treated as genuine by authorities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_%28band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis (band</span><span class="citation-popover-snippet">Travis (band)Travis are a Scottish rock band formed in Glasgow in 1990, and composed of Fran Healy (lead vocals, rhythm guitar), Dougi...</span></span></span>
+One reason the case gained credibility in the public imagination was that the witnesses subjected themselves to official scrutiny almost immediately. The crew did not simply disappear or avoid contact with police after making their claim. Instead, they were repeatedly questioned while Walton remained missing. That sequence gave the story a procedural seriousness many UFO accounts lack. Even critics of the abduction narrative generally acknowledge that the disappearance itself was treated as genuine by authorities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_%28band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis (band</span><span class="citation-popover-snippet">Travis (band)Travis are a Scottish rock band formed in Glasgow in 1990, and composed of Fran Healy (lead vocals, rhythm guitar), Dougi...</span></span></span>
 
-The investigation also became entangled with the Walton family’s pre-existing interest in UFOs. Accounts later cited by sceptical writers claimed deputies were surprised by how calmly some family members reacted to the disappearance and by comments suggesting the family already believed UFO involvement was possible. Critics such as Philip J. Klass later argued that these reactions raised doubts about the spontaneity of the event. Believers counter that unusual reactions under stress prove little and that retrospective sceptical interpretation often overstates ambiguous details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_%28band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis (band</span><span class="citation-popover-snippet">Travis (band)Travis are a Scottish rock band formed in Glasgow in 1990, and composed of Fran Healy (lead vocals, rhythm guitar), Dougi...</span></span></span>
+The investigation also became entangled with the Walton family’s pre-existing interest in UFOs. Accounts later cited by sceptical writers claimed deputies were surprised by how calmly some family members reacted to the disappearance and by comments suggesting the family already believed UFO involvement was possible. Critics such as Philip J. Klass later argued that these reactions raised doubts about the spontaneity of the event. Believers counter that unusual reactions under stress prove little and that retrospective sceptical interpretation often overstates ambiguous details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_%28band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis (band</span><span class="citation-popover-snippet">Travis (band)Travis are a Scottish rock band formed in Glasgow in 1990, and composed of Fran Healy (lead vocals, rhythm guitar), Dougi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NB0RA6dnYKs" title="Alien Abduction Story Analysis | Travis Walton / Joe Rogan Interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NB0RA6dnYKs" target="_blank" rel="noopener noreferrer">Alien Abduction Story Analysis | Travis Walton / Joe Rogan Interview</a></p><p class="youtube-embed-meta">Channel: Dr. Todd Grande &middot; Views: 371.9K &middot; Uploaded: February 2021 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NB0RA6dnYKs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NB0RA6dnYKs">Open on YouTube</a></p></div></div></div>
 
 ## Search parties in the Turkey Springs area
 
-The physical search became central to the case because investigators expected that, if the UFO story were false, evidence of an accident or attack might still be found nearby. Search parties combed forest roads and surrounding woodland in the Turkey Springs region during the days after Walton vanished. Contemporary and later summaries describe volunteer teams, deputies and helicopter assistance being used during the operation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_%28band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis (band</span><span class="citation-popover-snippet">Travis (band)Travis are a Scottish rock band formed in Glasgow in 1990, and composed of Fran Healy (lead vocals, rhythm guitar), Dougi...</span></span></span>
+The physical search became central to the case because investigators expected that, if the UFO story were false, evidence of an accident or attack might still be found nearby. Search parties combed forest roads and surrounding woodland in the Turkey Springs region during the days after Walton vanished. Contemporary and later summaries describe volunteer teams, deputies and helicopter assistance being used during the operation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_%28band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis (band</span><span class="citation-popover-snippet">Travis (band)Travis are a Scottish rock band formed in Glasgow in 1990, and composed of Fran Healy (lead vocals, rhythm guitar), Dougi...</span></span></span>
 
 The search produced no confirmed trace of Walton. No body, blood evidence, damaged clothing or obvious signs of a struggle were publicly identified. That absence became important to both sides of the later debate.
 
-Supporters of Walton’s account argued that the failed search strengthened the mystery. If the crew had harmed him nearby, they argued, searchers should eventually have discovered physical evidence or contradictions in the men’s stories. The continued inability to locate Walton helped believers portray the disappearance as something beyond an ordinary crime or accident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_%28band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis (band</span><span class="citation-popover-snippet">Travis (band)Travis are a Scottish rock band formed in Glasgow in 1990, and composed of Fran Healy (lead vocals, rhythm guitar), Dougi...</span></span></span>
+Supporters of Walton’s account argued that the failed search strengthened the mystery. If the crew had harmed him nearby, they argued, searchers should eventually have discovered physical evidence or contradictions in the men’s stories. The continued inability to locate Walton helped believers portray the disappearance as something beyond an ordinary crime or accident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_%28band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis (band</span><span class="citation-popover-snippet">Travis (band)Travis are a Scottish rock band formed in Glasgow in 1990, and composed of Fran Healy (lead vocals, rhythm guitar), Dougi...</span></span></span>
 
-Sceptics interpreted the same lack of evidence differently. Critics argued that a missing-person search failing to locate someone in remote woodland does not support extraterrestrial explanations. Instead, they suggested Walton may simply have hidden voluntarily while the story developed. Later sceptical theories proposed possible hiding locations in the forest area and argued that the search itself may not have covered every relevant structure or lookout point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_%28band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis (band</span><span class="citation-popover-snippet">Travis (band)Travis are a Scottish rock band formed in Glasgow in 1990, and composed of Fran Healy (lead vocals, rhythm guitar), Dougi...</span></span></span>
+Sceptics interpreted the same lack of evidence differently. Critics argued that a missing-person search failing to locate someone in remote woodland does not support extraterrestrial explanations. Instead, they suggested Walton may simply have hidden voluntarily while the story developed. Later sceptical theories proposed possible hiding locations in the forest area and argued that the search itself may not have covered every relevant structure or lookout point.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_%28band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis (band</span><span class="citation-popover-snippet">Travis (band)Travis are a Scottish rock band formed in Glasgow in 1990, and composed of Fran Healy (lead vocals, rhythm guitar), Dougi...</span></span></span>
 
-The timing of the search also became controversial. Some reports indicate Walton’s mother believed early on that further local searching would be useless because she thought he was no longer in the area. Sheriff Gillespie reportedly suspended volunteers at one stage before renewed complaints from Rogers and Walton’s brother Duane led to additional searches, including helicopter support. Critics saw these shifting attitudes as suspicious; supporters saw them as the emotional reactions of frightened relatives confronting an incomprehensible event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_%28band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis (band</span><span class="citation-popover-snippet">Travis (band)Travis are a Scottish rock band formed in Glasgow in 1990, and composed of Fran Healy (lead vocals, rhythm guitar), Dougi...</span></span></span>
+The timing of the search also became controversial. Some reports indicate Walton’s mother believed early on that further local searching would be useless because she thought he was no longer in the area. Sheriff Gillespie reportedly suspended volunteers at one stage before renewed complaints from Rogers and Walton’s brother Duane led to additional searches, including helicopter support. Critics saw these shifting attitudes as suspicious; supporters saw them as the emotional reactions of frightened relatives confronting an incomprehensible event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_%28band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis (band</span><span class="citation-popover-snippet">Travis (band)Travis are a Scottish rock band formed in Glasgow in 1990, and composed of Fran Healy (lead vocals, rhythm guitar), Dougi...</span></span></span>
 
-Media attention escalated rapidly while Walton was still missing. Newspapers across the United States and abroad began reporting the case within days. That transformed a local search operation into a public spectacle before investigators had reached any firm conclusion. Once the story entered the press as a “UFO disappearance”, every later police action was interpreted through that lens. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_%28band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis (band</span><span class="citation-popover-snippet">Travis (band)Travis are a Scottish rock band formed in Glasgow in 1990, and composed of Fran Healy (lead vocals, rhythm guitar), Dougi...</span></span></span>
+Media attention escalated rapidly while Walton was still missing. Newspapers across the United States and abroad began reporting the case within days. That transformed a local search operation into a public spectacle before investigators had reached any firm conclusion. Once the story entered the press as a “UFO disappearance”, every later police action was interpreted through that lens.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_%28band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis (band</span><span class="citation-popover-snippet">Travis (band)Travis are a Scottish rock band formed in Glasgow in 1990, and composed of Fran Healy (lead vocals, rhythm guitar), Dougi...</span></span></span>
 
 <img src="{{ "/assets/images/Travis_Walton_abduct_612999_missing_person_searc_f6171e-Illustration-2-dark.svg" | relative_url }}" alt="Search illustration 2" data-theme-src-dark="{{ "/assets/images/Travis_Walton_abduct_612999_missing_person_searc_f6171e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Walton_abduct_612999_missing_person_searc_f6171e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the official response still matters
 
-The official reaction matters because it shaped how later generations interpreted the Walton case. In many UFO narratives, investigators only become involved after a claimant has already built a story around unexplained memories or alleged “missing time”. Here, law enforcement involvement came first. Officers had to respond to an apparently real disappearance in real time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_%28band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis (band</span><span class="citation-popover-snippet">Travis (band)Travis are a Scottish rock band formed in Glasgow in 1990, and composed of Fran Healy (lead vocals, rhythm guitar), Dougi...</span></span></span>
+The official reaction matters because it shaped how later generations interpreted the Walton case. In many UFO narratives, investigators only become involved after a claimant has already built a story around unexplained memories or alleged “missing time”. Here, law enforcement involvement came first. Officers had to respond to an apparently real disappearance in real time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_%28band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis (band</span><span class="citation-popover-snippet">Travis (band)Travis are a Scottish rock band formed in Glasgow in 1990, and composed of Fran Healy (lead vocals, rhythm guitar), Dougi...</span></span></span>
 
-That distinction is why even sceptics often treat the Walton incident differently from more weakly documented abduction claims. The witnesses filed reports immediately, remained identifiable and faced police questioning while under suspicion themselves. The missing-person phase therefore created a documentary trail that later researchers could examine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_%28band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis (band</span><span class="citation-popover-snippet">Travis (band)Travis are a Scottish rock band formed in Glasgow in 1990, and composed of Fran Healy (lead vocals, rhythm guitar), Dougi...</span></span></span>
+That distinction is why even sceptics often treat the Walton incident differently from more weakly documented abduction claims. The witnesses filed reports immediately, remained identifiable and faced police questioning while under suspicion themselves. The missing-person phase therefore created a documentary trail that later researchers could examine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_%28band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis (band</span><span class="citation-popover-snippet">Travis (band)Travis are a Scottish rock band formed in Glasgow in 1990, and composed of Fran Healy (lead vocals, rhythm guitar), Dougi...</span></span></span>
 
-The investigation also explains why polygraph examinations became so important to the case’s mythology. Arizona Department of Public Safety examiners questioned the crew primarily to determine whether they had harmed Walton, not whether aliens existed. According to widely repeated accounts, most of the men were judged truthful when denying involvement in violence against Walton, while one result was considered inconclusive. Believers later framed these tests as validation of the UFO story itself, but sceptics note that the original investigative purpose was narrower. <span class="citation-chip-wrap"><a class="citation-chip" href="https://michaelshermer.com/articles/travis-waltons-alien-abduction-lie-detection-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michaelshermer.com">[Michael Shermer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michaelshermer.com</span><span class="citation-popover-title">travis waltons alien abduction lie detection test</span><span class="citation-popover-snippet">In both cases, the power of deception and self-deception is all we need to understand what really happened in...Read more...</span></span></span>
+The investigation also explains why polygraph examinations became so important to the case’s mythology. Arizona Department of Public Safety examiners questioned the crew primarily to determine whether they had harmed Walton, not whether aliens existed. According to widely repeated accounts, most of the men were judged truthful when denying involvement in violence against Walton, while one result was considered inconclusive. Believers later framed these tests as validation of the UFO story itself, but sceptics note that the original investigative purpose was narrower.<span class="citation-chip-wrap"><a class="citation-chip" href="https://michaelshermer.com/articles/travis-waltons-alien-abduction-lie-detection-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michaelshermer.com">[Michael Shermer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michaelshermer.com</span><span class="citation-popover-title">travis waltons alien abduction lie detection test</span><span class="citation-popover-snippet">In both cases, the power of deception and self-deception is all we need to understand what really happened in...Read more...</span></span></span>
 
 This distinction is frequently misunderstood. The official inquiry did not conclude that extraterrestrials abducted Walton. Nor did it officially authenticate the crew’s interpretation of what they saw. The search and questioning established only a smaller set of facts:
 
@@ -290,7 +290,7 @@ This distinction is frequently misunderstood. The official inquiry did not concl
 * Authorities initially treated the matter seriously as a possible crime.
 * Search operations failed to locate him during the disappearance.
 * Investigators could not prove the crew had killed or concealed him.
-* Walton later reappeared alive after several days away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Travis_Walton_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis Walton incident</span><span class="citation-popover-snippet">Travis Walton incident</span></span></span>
+* Walton later reappeared alive after several days away.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Travis_Walton_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis Walton incident</span><span class="citation-popover-snippet">Travis Walton incident</span></span></span>
 
 </div>
 
@@ -302,207 +302,207 @@ Those facts are significant, but they stop short of confirming the larger abduct
 
 ## What official action did and did not prove
 
-The missing-person investigation remains one of the strongest pillars supporting the case’s long survival in UFO culture. It gave the story institutional weight. A sheriff’s office, deputies, search teams and state examiners all became part of the public record. That is very different from a purely anecdotal encounter reported years later without documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_%28band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis (band</span><span class="citation-popover-snippet">Travis (band)Travis are a Scottish rock band formed in Glasgow in 1990, and composed of Fran Healy (lead vocals, rhythm guitar), Dougi...</span></span></span>
+The missing-person investigation remains one of the strongest pillars supporting the case’s long survival in UFO culture. It gave the story institutional weight. A sheriff’s office, deputies, search teams and state examiners all became part of the public record. That is very different from a purely anecdotal encounter reported years later without documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_%28band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis (band</span><span class="citation-popover-snippet">Travis (band)Travis are a Scottish rock band formed in Glasgow in 1990, and composed of Fran Healy (lead vocals, rhythm guitar), Dougi...</span></span></span>
 
-Yet the same official record also places limits on what can honestly be claimed. No police report concluded that a spacecraft abducted Walton. No physical evidence publicly demonstrated non-human involvement. The investigation’s inability to solve the disappearance in ordinary terms left room for extraordinary interpretations, but it did not establish them as fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_%28band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis (band</span><span class="citation-popover-snippet">Travis (band)Travis are a Scottish rock band formed in Glasgow in 1990, and composed of Fran Healy (lead vocals, rhythm guitar), Dougi...</span></span></span>
+Yet the same official record also places limits on what can honestly be claimed. No police report concluded that a spacecraft abducted Walton. No physical evidence publicly demonstrated non-human involvement. The investigation’s inability to solve the disappearance in ordinary terms left room for extraordinary interpretations, but it did not establish them as fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_%28band%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis (band</span><span class="citation-popover-snippet">Travis (band)Travis are a Scottish rock band formed in Glasgow in 1990, and composed of Fran Healy (lead vocals, rhythm guitar), Dougi...</span></span></span>
 
-Sceptical writers have repeatedly argued that the strongest feature of the case is the disappearance itself, not the alien explanation attached to it. Michael Shermer and Philip J. Klass both emphasised that a real missing-person search can coexist with deception, self-deception or staged events. They also argued that later publicity, media deals and disputed polygraph narratives complicated the reliability of retrospective accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://michaelshermer.com/articles/travis-waltons-alien-abduction-lie-detection-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michaelshermer.com">[Michael Shermer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michaelshermer.com</span><span class="citation-popover-title">travis waltons alien abduction lie detection test</span><span class="citation-popover-snippet">In both cases, the power of deception and self-deception is all we need to understand what really happened in...Read more...</span></span></span>
+Sceptical writers have repeatedly argued that the strongest feature of the case is the disappearance itself, not the alien explanation attached to it. Michael Shermer and Philip J. Klass both emphasised that a real missing-person search can coexist with deception, self-deception or staged events. They also argued that later publicity, media deals and disputed polygraph narratives complicated the reliability of retrospective accounts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://michaelshermer.com/articles/travis-waltons-alien-abduction-lie-detection-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michaelshermer.com">[Michael Shermer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michaelshermer.com</span><span class="citation-popover-title">travis waltons alien abduction lie detection test</span><span class="citation-popover-snippet">In both cases, the power of deception and self-deception is all we need to understand what really happened in...Read more...</span></span></span>
 
-Supporters answer that the pressure of a live police investigation would have made a coordinated hoax extremely risky. In their view, maintaining consistent stories under immediate suspicion, combined with Walton’s unexplained absence, separates the case from routine UFO folklore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/travis-walton-abduction?srsltid=AfmBOoqmmVbaaVeXkyN0eXEjj0mWwCmz-gsNg0Qmg7YLmbb1A62q0jtJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hangar1publishing.com">[Hangar1publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hangar1publishing.com</span><span class="citation-popover-snippet">A hovering disc. A beam of light. And a man missing for five days. Discover why the Travis Walton case remains UFO history&#x27;s most credible...</span></span></span>
+Supporters answer that the pressure of a live police investigation would have made a coordinated hoax extremely risky. In their view, maintaining consistent stories under immediate suspicion, combined with Walton’s unexplained absence, separates the case from routine UFO folklore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/travis-walton-abduction?srsltid=AfmBOoqmmVbaaVeXkyN0eXEjj0mWwCmz-gsNg0Qmg7YLmbb1A62q0jtJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hangar1publishing.com">[Hangar1publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hangar1publishing.com</span><span class="citation-popover-snippet">A hovering disc. A beam of light. And a man missing for five days. Discover why the Travis Walton case remains UFO history&#x27;s most credible...</span></span></span>
 
 That unresolved tension is precisely why the missing-person phase remains the core of the Travis Walton story. The official response did not validate alien abduction, but it did transform the incident from a private claim into a documented public event with legal, investigative and social consequences. Fifty years later, the debate still turns on the same question investigators faced in November 1975: what explains a disappearance that law enforcement could neither fully solve nor fully dismiss?
 
 <img src="{{ "/assets/images/Travis_Walton_abduct_612999_missing_person_searc_f6171e-Illustration-3-dark.svg" | relative_url }}" alt="Search illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Walton_abduct_612999_missing_person_searc_f6171e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Walton_abduct_612999_missing_person_searc_f6171e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Missing Person Search Mattered. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Missing Person Search Mattered. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yKo_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fire in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Travis Walton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yKo_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fire in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
+</h4>
+<p class="fr-book-author">By Travis Walton</p>
         
-        <p class="fr-book-desc">Details his sudden return at a Heber phone booth and his memories of the physical search parties deployed in the woods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details his sudden return at a Heber phone booth and his memories of the physical search parties deployed in the woods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Details the institutional paper trail of the missing-person emergency before the event entered modern popular culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details the institutional paper trail of the missing-person emergency before the event entered modern popular culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
-        </h4>
-        <p class="fr-book-author">By Philip J. Klass</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
+</h4>
+<p class="fr-book-author">By Philip J. Klass</p>
         
-        <p class="fr-book-desc">Examines how Sheriff Marlin Gillespie investigated the case as a possible cover story for a homicide or violent logging accident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how Sheriff Marlin Gillespie investigated the case as a possible cover story for a homicide or violent logging accident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alien Abduction Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y1C4MgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alien Abduction Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alien Abduction Files">The Alien Abduction Files</a>
-        </h4>
-        <p class="fr-book-author">By Kathleen Marden, Denise Stoner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alien Abduction Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y1C4MgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alien Abduction Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alien Abduction Files">The Alien Abduction Files</a>
+</h4>
+<p class="fr-book-author">By Kathleen Marden, Denise Stoner</p>
         
-        <p class="fr-book-desc">Tracks the five-day Turkey Springs area ground sweep parameters, detailing the immediate involvement of local search teams.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Tracks the five-day Turkey Springs area ground sweep parameters, detailing the immediate involvement of local search teams.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fire+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fire in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fire+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fire in the Sky</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/95ac8da83b6974679bd3.jpg' | relative_url }}" alt="Listing image for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo forest poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo forest poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/95ac8da83b6974679bd3.jpg' | relative_url }}" alt="Listing image for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo forest poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo forest poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest Road Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b3277119b8894617b37d.jpg' | relative_url }}" alt="Listing image for UFO Over Forest Road Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest Road Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo forest poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo forest poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest Road Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b3277119b8894617b37d.jpg' | relative_url }}" alt="Listing image for UFO Over Forest Road Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest Road Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo forest poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo forest poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo forest poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo forest poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo forest poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo forest poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo forest poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo forest poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo forest poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo forest poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+forest+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo forest poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="search-why-the-missing-person-search-mattered-travis-walton-abduction-1975-ufo-forest-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -518,7 +518,7 @@ That unresolved tension is precisely why the missing-person phase remains the co
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -538,7 +538,7 @@ That unresolved tension is precisely why the missing-person phase remains the co
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -570,7 +570,7 @@ That unresolved tension is precisely why the missing-person phase remains the co
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -622,7 +622,7 @@ That unresolved tension is precisely why the missing-person phase remains the co
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -667,7 +667,7 @@ That unresolved tension is precisely why the missing-person phase remains the co
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -708,85 +708,85 @@ That unresolved tension is precisely why the missing-person phase remains the co
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Travis Walton incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Travis_Walton_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Travis_Walton_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Travis_Walton_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Travis_Walton_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: kjzz.org  
    Title: His Arizona UFO abduction story became legend  
-   Link: <a href="https://www.kjzz.org/the-show/2025-07-03/his-arizona-ufo-abduction-story-became-legend-after-50-years-hes-sick-of-attempts-to-debunk-it" target="_blank" rel="noopener noreferrer nofollow">https://www.kjzz.org/the-show/2025-07-03/his-arizona-ufo-abduction-story-became-legend-after-50-years-hes-sick-of-attempts-to-debunk-it</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>After 50...3 Jul 2025 — Arizona was the site of one of the most famous reported UFO abductions. In 1975, Travis Walton was working on a...</p></details>
+   Link:<a href="https://www.kjzz.org/the-show/2025-07-03/his-arizona-ufo-abduction-story-became-legend-after-50-years-hes-sick-of-attempts-to-debunk-it" target="_blank" rel="noopener noreferrer nofollow">https://www.kjzz.org/the-show/2025-07-03/his-arizona-ufo-abduction-story-became-legend-after-50-years-hes-sick-of-attempts-to-debunk-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>After 50...3 Jul 2025 — Arizona was the site of one of the most famous reported UFO abductions. In 1975, Travis Walton was working on a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/travis-walton-abduction?srsltid=AfmBOoqmmVbaaVeXkyN0eXEjj0mWwCmz-gsNg0Qmg7YLmbb1A62q0jtJ" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/travis-walton-abduction?srsltid=AfmBOoqmmVbaaVeXkyN0eXEjj0mWwCmz-gsNg0Qmg7YLmbb1A62q0jtJ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A hovering disc. A beam of light. And a man missing for five days. Discover why the Travis Walton case remains UFO history&#x27;s most credible...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/travis-walton-abduction?srsltid=AfmBOoqmmVbaaVeXkyN0eXEjj0mWwCmz-gsNg0Qmg7YLmbb1A62q0jtJ" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/travis-walton-abduction?srsltid=AfmBOoqmmVbaaVeXkyN0eXEjj0mWwCmz-gsNg0Qmg7YLmbb1A62q0jtJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A hovering disc. A beam of light. And a man missing for five days. Discover why the Travis Walton case remains UFO history&#x27;s most credible...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Travis (band)  
-   Link: <a href="https://en.wikipedia.org/wiki/Travis_%28band%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Travis_%28band%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis (band)Travis are a Scottish rock band formed in Glasgow in 1990, and composed of Fran Healy (lead vocals, rhythm guitar), Dougi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Travis_%28band%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Travis_%28band%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Travis (band)Travis are a Scottish rock band formed in Glasgow in 1990, and composed of Fran Healy (lead vocals, rhythm guitar), Dougi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: michaelshermer.com  
    Title: travis waltons alien abduction lie detection test  
-   Link: <a href="https://michaelshermer.com/articles/travis-waltons-alien-abduction-lie-detection-test/" target="_blank" rel="noopener noreferrer nofollow">https://michaelshermer.com/articles/travis-waltons-alien-abduction-lie-detection-test/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In both cases, the power of deception and self-deception is all we need to understand what really happened in...Read more...</p></details>
+   Link:<a href="https://michaelshermer.com/articles/travis-waltons-alien-abduction-lie-detection-test/" target="_blank" rel="noopener noreferrer nofollow">https://michaelshermer.com/articles/travis-waltons-alien-abduction-lie-detection-test/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In both cases, the power of deception and self-deception is all we need to understand what really happened in...Read more...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: leifericksonwriting.com  
-   Link: <a href="https://leifericksonwriting.com/travis-walton-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://leifericksonwriting.com/travis-walton-abduction/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Walton AbductionWalton underwent polygraphs, passing some and failing others. [Skeptics](&amp;#123;&amp;#123; &#x27;skeptics-b8ebac/&#x27; | relative_url &amp;#125;&amp;#125;) and believers alike discredit these as clai...</p></details>
+   Link:<a href="https://leifericksonwriting.com/travis-walton-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://leifericksonwriting.com/travis-walton-abduction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Walton AbductionWalton underwent polygraphs, passing some and failing others. [Skeptics](&amp;#123;&amp;#123; &#x27;skeptics-b8ebac/&#x27; | relative_url &amp;#125;&amp;#125;) and believers alike discredit these as clai...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/375602394/Travis-Walton-Part-1-MUFON-Case-File" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/375602394/Travis-Walton-Part-1-MUFON-Case-File</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Walton Part 1 MUFON Case File | PDF | PolygraphTravis Walton Part 1 MUFON Case File - Free download as PDF File (.pdf), Text File...</p></details>
+   Link:<a href="https://www.scribd.com/document/375602394/Travis-Walton-Part-1-MUFON-Case-File" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/375602394/Travis-Walton-Part-1-MUFON-Case-File</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Walton Part 1 MUFON Case File | PDF | PolygraphTravis Walton Part 1 MUFON Case File - Free download as PDF File (.pdf), Text File...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DN1Pfbq5EUb/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DN1Pfbq5EUb/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>He says 50 years ago, he was abducted by aliens in the Arizona Desert and taken aboard a craft. Would you swear to...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DN1Pfbq5EUb/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DN1Pfbq5EUb/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He says 50 years ago, he was abducted by aliens in the Arizona Desert and taken aboard a craft. Would you swear to...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DSX0NxpCRDR/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSX0NxpCRDR/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>For five days, Travis Walton was missing. No body. No evidence. No explanation. Then he reappeared. Disoriented...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DSX0NxpCRDR/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSX0NxpCRDR/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For five days, Travis Walton was missing. No body. No evidence. No explanation. Then he reappeared. Disoriented...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1jf9rsm/travis_walton_passed_5_lie_detector_tests_is_his/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1jf9rsm/travis_walton_passed_5_lie_detector_tests_is_his/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>earned that Walton dictated to the examiner what questions would...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1jf9rsm/travis_walton_passed_5_lie_detector_tests_is_his/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1jf9rsm/travis_walton_passed_5_lie_detector_tests_is_his/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>earned that Walton dictated to the examiner what questions would...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TravelChannel/posts/by-the-time-he-had-tested-all-of-us-he-seemed-to-be-a-believer-stream-the-all-ne/10160052216198851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TravelChannel/posts/by-the-time-he-had-tested-all-of-us-he-seemed-to-be-a-believer-stream-the-all-ne/10160052216198851/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ll the crew members passed polygraph tests (which are a poor...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/TravelChannel/posts/by-the-time-he-had-tested-all-of-us-he-seemed-to-be-a-believer-stream-the-all-ne/10160052216198851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TravelChannel/posts/by-the-time-he-had-tested-all-of-us-he-seemed-to-be-a-believer-stream-the-all-ne/10160052216198851/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ll the crew members passed polygraph tests (which are a poor...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40garethrhysdavies2/the-stars-in-our-lies-51eb309212f9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40garethrhysdavies2/the-stars-in-our-lies-51eb309212f9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e exception of Allen Dallis, the men passed the polygraph...Read more...</p></details>
+   Link:<a href="https://medium.com/%40garethrhysdavies2/the-stars-in-our-lies-51eb309212f9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40garethrhysdavies2/the-stars-in-our-lies-51eb309212f9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e exception of Allen Dallis, the men passed the polygraph...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: Travis Walton's Bizarre Alien Experience!On  
-   Link: <a href="https://www.facebook.com/KendallsPlace/posts/travis-waltons-bizarre-alien-experience/1364129282055963/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KendallsPlace/posts/travis-waltons-bizarre-alien-experience/1364129282055963/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 5, 1975, Walton was working with a logging crew in the Apache–Sitgreaves National Forest near Heber. As the crew was driving home...</p></details>
+   Link:<a href="https://www.facebook.com/KendallsPlace/posts/travis-waltons-bizarre-alien-experience/1364129282055963/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KendallsPlace/posts/travis-waltons-bizarre-alien-experience/1364129282055963/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 5, 1975, Walton was working with a logging crew in the Apache–Sitgreaves National Forest near Heber. As the crew was driving home...</p></details>
    Published: November 5, 1975  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/743210517/Travis-Walton-by-Georgia-Skeptics" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/743210517/Travis-Walton-by-Georgia-Skeptics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on a sample from Walton. Walton had claimed that he...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/743210517/Travis-Walton-by-Georgia-Skeptics" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/743210517/Travis-Walton-by-Georgia-Skeptics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on a sample from Walton. Walton had claimed that he...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: what actually happened to travis walton  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kywbnk/what_actually_happened_to_travis_walton/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kywbnk/what_actually_happened_to_travis_walton/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?Travis was found alive in Heber, Arizona on 11/10/1975, and was visibly malnourished, had 5 days of beard growth, and was at first compl...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kywbnk/what_actually_happened_to_travis_walton/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kywbnk/what_actually_happened_to_travis_walton/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?Travis was found alive in Heber, Arizona on 11/10/1975, and was visibly malnourished, had 5 days of beard growth, and was at first compl...</p></details>

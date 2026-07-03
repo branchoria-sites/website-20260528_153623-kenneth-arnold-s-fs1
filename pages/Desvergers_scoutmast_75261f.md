@@ -758,73 +758,73 @@ image: /assets/images/Desvergers_scoutmast_75261f-overview-social.jpg
 
 ## Introduction
 
-The case occurred during the huge 1952 UFO wave, the busiest year in Project Blue Book’s early records. A 1966 Air Force summary listed 1,501 reports for 1952, with 303 still marked unidentified at that compilation date, while the later National Archives summary says Project Blue Book as a whole recorded 12,618 sightings, 701 of which remained “unidentified.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">ESD Portal</span></span></span>
+The case occurred during the huge 1952 UFO wave, the busiest year in Project Blue Book’s early records. A 1966 Air Force summary listed 1,501 reports for 1952, with 303 still marked unidentified at that compilation date, while the later National Archives summary says Project Blue Book as a whole recorded 12,618 sightings, 701 of which remained “unidentified.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">ESD Portal</span></span></span>
 
 <img src="{{ "/assets/images/Desvergers_scoutmast_75261f-overview.webp" | relative_url }}" alt="Overview image for Desvergers scoutmaster sighting 1952" loading="eager" decoding="sync" fetchpriority="high">
 ## What Desvergers said happened that night
 
-According to Ruppelt’s account, Desvergers was driving several Boy Scouts home after a meeting when he noticed lights in the woods off a road inland from the coastal highway. He said he turned back, parked opposite the lights, and entered the scrub with a machete and two flashlights because the lights might have indicated a downed aircraft or someone in trouble. Ruppelt, then head of the Air Force UFO project, recorded that Desvergers gave a plausible reason for going in despite the danger of night-time palmetto thickets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+According to Ruppelt’s account, Desvergers was driving several Boy Scouts home after a meeting when he noticed lights in the woods off a road inland from the coastal highway. He said he turned back, parked opposite the lights, and entered the scrub with a machete and two flashlights because the lights might have indicated a downed aircraft or someone in trouble. Ruppelt, then head of the Air Force UFO project, recorded that Desvergers gave a plausible reason for going in despite the danger of night-time palmetto thickets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Inside the woods, Desvergers described heat, an odour, and a sense that the sky above him had been blocked by a large dark object. He said he then saw a circular, greyish craft with a dome, a thick rim and openings around the edge. In his account, a red ball emerged, expanded into a mist, and caused him to pass out after he shielded his face. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Inside the woods, Desvergers described heat, an odour, and a sense that the sky above him had been blocked by a large dark object. He said he then saw a circular, greyish craft with a dome, a thick rim and openings around the edge. In his account, a red ball emerged, expanded into a mist, and caused him to pass out after he shielded his face.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The Scouts’ reported role is important because they were not said to have seen the alleged craft at close range. They remained in or near the car, saw Desvergers’ flashlight moving in the woods, then reported seeing a red fiery effect around where he had gone. When he did not return, they ran to a nearby farmhouse for help, leading to the arrival of local law enforcement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Scouts’ reported role is important because they were not said to have seen the alleged craft at close range. They remained in or near the car, saw Desvergers’ flashlight moving in the woods, then reported seeing a red fiery effect around where he had gone. When he did not return, they ran to a nearby farmhouse for help, leading to the arrival of local law enforcement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-When Desvergers emerged, he was described as badly frightened and incoherent. Ruppelt records that a deputy said he had never seen anyone as scared in his years of law enforcement. At the sheriff’s office, Desvergers noticed burning sensations; investigators later noted minor burns or reddening on his arms and face, singed hair, and burn marks on his cap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+When Desvergers emerged, he was described as badly frightened and incoherent. Ruppelt records that a deputy said he had never seen anyone as scared in his years of law enforcement. At the sheriff’s office, Desvergers noticed burning sensations; investigators later noted minor burns or reddening on his arms and face, singed hair, and burn marks on his cap.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Desvergers_scoutmast_75261f-Illustration-1-dark.svg" | relative_url }}" alt="Desvergers scoutmaster sighting 1952 illustration 1" data-theme-src-dark="{{ "/assets/images/Desvergers_scoutmast_75261f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Desvergers_scoutmast_75261f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case initially looked stronger than a campfire story
 
-The early strength of the case was not that Desvergers gave a strange story; many UFO cases do. It was that the story arrived with apparently independent observers, rapid law-enforcement involvement, visible effects on Desvergers, and physical items that could be examined. Ruppelt says the first Air Force wire described the scoutmaster as a “solid citizen,” local police verified the story and the burns, and he immediately wanted a physical examination to prevent rumour replacing evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The early strength of the case was not that Desvergers gave a strange story; many UFO cases do. It was that the story arrived with apparently independent observers, rapid law-enforcement involvement, visible effects on Desvergers, and physical items that could be examined. Ruppelt says the first Air Force wire described the scoutmaster as a “solid citizen,” local police verified the story and the burns, and he immediately wanted a physical examination to prevent rumour replacing evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Project Blue Book’s investigators treated the case as potentially important. Ruppelt and colleagues travelled to Florida, brought a Geiger counter and camera, interviewed Desvergers, examined the site, and took the cap and machete for laboratory checks. That level of attention fits Project Blue Book’s stated purpose: to determine whether UFOs posed a security threat and whether reports showed unusual scientific or technological information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Project Blue Book’s investigators treated the case as potentially important. Ruppelt and colleagues travelled to Florida, brought a Geiger counter and camera, interviewed Desvergers, examined the site, and took the cap and machete for laboratory checks. That level of attention fits Project Blue Book’s stated purpose: to determine whether UFOs posed a security threat and whether reports showed unusual scientific or technological information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The flight surgeon’s findings cut both ways. Ruppelt says the doctor found minor burns on the arms and backs of the hands, possible burning inside the nostrils, and singed hair indicating flash heat. But the doctor also demonstrated that a small area of arm hair could be singed with a cigarette lighter and suggested checking Desvergers’ Marine records because “something didn’t ring true.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The flight surgeon’s findings cut both ways. Ruppelt says the doctor found minor burns on the arms and backs of the hands, possible burning inside the nostrils, and singed hair indicating flash heat. But the doctor also demonstrated that a small area of arm hair could be singed with a cigarette lighter and suggested checking Desvergers’ Marine records because “something didn’t ring true.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-At the scene, investigators found a flattened area where someone appeared to have lain down, a flashlight still burning in the grass, and no obvious matches, flare residue, lightning damage or radioactive reading. This did not prove a UFO had been present, but it left investigators without a simple piece of debris or staging material to explain the incident immediately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+At the scene, investigators found a flattened area where someone appeared to have lain down, a flashlight still burning in the grass, and no obvious matches, flare residue, lightning damage or radioactive reading. This did not prove a UFO had been present, but it left investigators without a simple piece of debris or staging material to explain the incident immediately.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eQ2blDpvuqg" title="Scoutmaster Sonny DesVergers got burned by a UFO, encounter remembered by eyewitness Chuck Stevens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eQ2blDpvuqg" target="_blank" rel="noopener noreferrer">Scoutmaster Sonny DesVergers got burned by a UFO, encounter remembered by eyewitness Chuck Stevens</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 20.4K &middot; Uploaded: August 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eQ2blDpvuqg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eQ2blDpvuqg">Open on YouTube</a></p></div></div></div>
 
 ## The cap, the grass roots and the problem of physical evidence
 
-The cap became one of the central pieces of physical evidence. An FBI memorandum dated 29 August 1952 states that the Air Force asked the Bureau to examine Desvergers’ cap after he reported that a 30-foot object had hovered over him and fired a red “blob” that caused him to lose consciousness. The FBI found no residue that would identify the material causing the burns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bluebook.one/case/62-HQ-83894/serial/e190d10e-ae61-4b33-8429-a2a394876c18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebook.one">[BlueBook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebook.one</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The cap became one of the central pieces of physical evidence. An FBI memorandum dated 29 August 1952 states that the Air Force asked the Bureau to examine Desvergers’ cap after he reported that a 30-foot object had hovered over him and fired a red “blob” that caused him to lose consciousness. The FBI found no residue that would identify the material causing the burns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bluebook.one/case/62-HQ-83894/serial/e190d10e-ae61-4b33-8429-a2a394876c18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebook.one">[BlueBook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebook.one</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The same FBI memorandum raised doubts about the cap’s fit with Desvergers’ story. It said the singeing was not uniform as would be expected from a single flash of flame, the front edge of the bill was more severely singed than other parts, and the pattern would not be expected if the source had been directly overhead. It also noted an absence of singeing under a fold, suggesting the cap might not have been worn when it was singed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bluebook.one/case/62-HQ-83894/serial/e190d10e-ae61-4b33-8429-a2a394876c18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebook.one">[BlueBook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebook.one</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The same FBI memorandum raised doubts about the cap’s fit with Desvergers’ story. It said the singeing was not uniform as would be expected from a single flash of flame, the front edge of the bill was more severely singed than other parts, and the pattern would not be expected if the source had been directly overhead. It also noted an absence of singeing under a fold, suggesting the cap might not have been worn when it was singed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bluebook.one/case/62-HQ-83894/serial/e190d10e-ae61-4b33-8429-a2a394876c18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebook.one">[BlueBook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebook.one</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Ruppelt’s published account adds another layer: the cap pattern suggested it was flat when scorched, while some small holes may have been made by an electrical spark. That is damaging to the literal version of Desvergers’ account, because a cap worn on a head under an overhead source should not necessarily show the same pattern as a flat cap exposed separately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Ruppelt’s published account adds another layer: the cap pattern suggested it was flat when scorched, while some small holes may have been made by an electrical spark. That is damaging to the literal version of Desvergers’ account, because a cap worn on a head under an overhead source should not necessarily show the same pattern as a flat cap exposed separately.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The grass roots were the best counterweight to the hoax conclusion. Ruppelt says the grass blades were not burned, but the roots were charred, and a lab reproduced the effect by heating sand and dirt to about 300°F beneath live grass clumps. He admitted that investigators had not found a practical field method for producing that result without bulky equipment or disturbing the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The grass roots were the best counterweight to the hoax conclusion. Ruppelt says the grass blades were not burned, but the roots were charred, and a lab reproduced the effect by heating sand and dirt to about 300°F beneath live grass clumps. He admitted that investigators had not found a practical field method for producing that result without bulky equipment or disturbing the ground.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The later Condon Report, the major University of Colorado UFO study published in the late 1960s, summarised the same tension: Desvergers emerged dazed with burned forearms and cap holes, and grass near the alleged saucer site was scorched at the roots but not on top; the report stated that how this happened was “not clear.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s5chap02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Sec V, Chapter 2: UFOs: 1947 - 1968...</span></span></span>
+The later Condon Report, the major University of Colorado UFO study published in the late 1960s, summarised the same tension: Desvergers emerged dazed with burned forearms and cap holes, and grass near the alleged saucer site was scorched at the roots but not on top; the report stated that how this happened was “not clear.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s5chap02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Sec V, Chapter 2: UFOs: 1947 - 1968...</span></span></span>
 
 <img src="{{ "/assets/images/Desvergers_scoutmast_75261f-Illustration-2-dark.svg" | relative_url }}" alt="Desvergers scoutmaster sighting 1952 illustration 2" data-theme-src-dark="{{ "/assets/images/Desvergers_scoutmast_75261f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Desvergers_scoutmast_75261f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Ruppelt called it a hoax anyway
 
-Ruppelt’s attitude shifted after the first investigation. He wrote that he initially thought Desvergers sounded convincing, passed a consistency test during questioning, and gave a story that “sounded good” to the Air Force team. The change came when newspaper coverage quoted Desvergers as implying that “high brass” knew what he had seen but could not reveal it without causing panic, and when Desvergers appeared to be positioning the story for publicity or money. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Ruppelt’s attitude shifted after the first investigation. He wrote that he initially thought Desvergers sounded convincing, passed a consistency test during questioning, and gave a story that “sounded good” to the Air Force team. The change came when newspaper coverage quoted Desvergers as implying that “high brass” knew what he had seen but could not reveal it without causing panic, and when Desvergers appeared to be positioning the story for publicity or money.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The second major problem was witness credibility. Ruppelt says investigators checked Desvergers’ military and reformatory records and found discrepancies between those records and what Desvergers had told them. On a return trip, they interviewed people who had known him and concluded that his reputation for tall tales seriously weakened the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The second major problem was witness credibility. Ruppelt says investigators checked Desvergers’ military and reformatory records and found discrepancies between those records and what Desvergers had told them. On a return trip, they interviewed people who had known him and concluded that his reputation for tall tales seriously weakened the case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The Scouts’ testimony also weakened under reconstruction. Ruppelt wrote that, under similar lighting conditions, investigators could not see a person silhouetted in the clearing from the car, even while standing on top of it. He said the boys became less certain about some details, although he did not think they had knowingly joined a hoax. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Scouts’ testimony also weakened under reconstruction. Ruppelt wrote that, under similar lighting conditions, investigators could not see a person silhouetted in the clearing from the car, even while standing on top of it. He said the boys became less certain about some details, although he did not think they had knowingly joined a hoax.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That distinction is crucial. Ruppelt did not argue that the Scouts were conspirators; his more cautious claim was that they had likely been impressed by a frightening situation and then remembered or interpreted more than they had actually seen. His final judgement rested on a credibility collapse around Desvergers, not on a complete physical reconstruction of the alleged hoax. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That distinction is crucial. Ruppelt did not argue that the Scouts were conspirators; his more cautious claim was that they had likely been impressed by a frightening situation and then remembered or interpreted more than they had actually seen. His final judgement rested on a credibility collapse around Desvergers, not on a complete physical reconstruction of the alleged hoax.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L7wVNu0fP28" title="Project Blue Book: Declassified – The True Story of The Scoutmaster | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L7wVNu0fP28" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified – The True Story of The Scoutmaster | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 40.5K &middot; Uploaded: March 2019 &middot; Length: 2 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L7wVNu0fP28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L7wVNu0fP28">Open on YouTube</a></p></div></div></div>
 
 ## What remains unresolved
 
-The strongest unresolved element is still the grass-root charring. A hoax explanation must account not only for the dramatic story and cap damage, but also for why grass roots were charred while the blades were not, without leaving obvious evidence of heating equipment or disturbance. Ruppelt himself conceded that this remained a mystery even after deciding the overall case was a hoax. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The strongest unresolved element is still the grass-root charring. A hoax explanation must account not only for the dramatic story and cap damage, but also for why grass roots were charred while the blades were not, without leaving obvious evidence of heating equipment or disturbance. Ruppelt himself conceded that this remained a mystery even after deciding the overall case was a hoax.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The cap evidence points in the opposite direction. The FBI’s laboratory comments do not read like confirmation of a downward blast from a hovering object; they highlight inconsistent singeing and a pattern suggesting the cap may not have been worn when scorched. That does not prove who burned it or how, but it makes the cap poor support for Desvergers’ precise account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bluebook.one/case/62-HQ-83894/serial/e190d10e-ae61-4b33-8429-a2a394876c18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebook.one">[BlueBook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebook.one</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The cap evidence points in the opposite direction. The FBI’s laboratory comments do not read like confirmation of a downward blast from a hovering object; they highlight inconsistent singeing and a pattern suggesting the cap may not have been worn when scorched. That does not prove who burned it or how, but it makes the cap poor support for Desvergers’ precise account.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bluebook.one/case/62-HQ-83894/serial/e190d10e-ae61-4b33-8429-a2a394876c18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebook.one">[BlueBook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebook.one</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The later witness material is intriguing but weaker. A 1997 Palm Beach Post account, reproduced in a case-history compilation, reported that two of the former Scouts still believed something strange had happened and did not think Desvergers faked it. The same account introduced Lyman Bradford, who said he had seen a separate craft as a child in 1952, but that memory surfaced decades later and included claims of confiscated photographs that were not matched to a known Blue Book file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/thescoutmasterstale.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">Saturday Night Uforia: The Scoutmaster&#x27;s Tale</span><span class="citation-popover-snippet">Saturday Night Uforia: The Scoutmaster&#x27;s Tale</span></span></span>
+The later witness material is intriguing but weaker. A 1997 Palm Beach Post account, reproduced in a case-history compilation, reported that two of the former Scouts still believed something strange had happened and did not think Desvergers faked it. The same account introduced Lyman Bradford, who said he had seen a separate craft as a child in 1952, but that memory surfaced decades later and included claims of confiscated photographs that were not matched to a known Blue Book file.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/thescoutmasterstale.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">Saturday Night Uforia: The Scoutmaster&#x27;s Tale</span><span class="citation-popover-snippet">Saturday Night Uforia: The Scoutmaster&#x27;s Tale</span></span></span>
 
-For a cautious reader, the case is therefore not neatly solved by either camp. It is not a strong “landed craft” case because the central adult witness had serious credibility problems and the cap evidence is awkward. It is also not a tidy debunking because the Air Force’s own lead investigator could not explain the grass-root charring and acknowledged that the best physical traces still favoured the witness more than he was comfortable with. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For a cautious reader, the case is therefore not neatly solved by either camp. It is not a strong “landed craft” case because the central adult witness had serious credibility problems and the cap evidence is awkward. It is also not a tidy debunking because the Air Force’s own lead investigator could not explain the grass-root charring and acknowledged that the best physical traces still favoured the witness more than he was comfortable with.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Desvergers_scoutmast_75261f-Illustration-3-dark.svg" | relative_url }}" alt="Desvergers scoutmaster sighting 1952 illustration 3" data-theme-src-dark="{{ "/assets/images/Desvergers_scoutmast_75261f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Desvergers_scoutmast_75261f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to read the Desvergers case today
 
-The most reliable reading is that the Desvergers sighting is a high-drama, low-certainty physical-trace case. It has contemporary official attention, laboratory examination, local witnesses and a memorable chronology; it does not have a clear photograph, recovered hardware, medical injury beyond minor burns, or a witness whose background survived scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bluebook.one/case/62-HQ-83894/serial/e190d10e-ae61-4b33-8429-a2a394876c18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebook.one">[BlueBook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebook.one</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most reliable reading is that the Desvergers sighting is a high-drama, low-certainty physical-trace case. It has contemporary official attention, laboratory examination, local witnesses and a memorable chronology; it does not have a clear photograph, recovered hardware, medical injury beyond minor burns, or a witness whose background survived scrutiny.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bluebook.one/case/62-HQ-83894/serial/e190d10e-ae61-4b33-8429-a2a394876c18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebook.one">[BlueBook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebook.one</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-It also shows how difficult “UFO evidence” can be when testimony and physical traces do not line up cleanly. Project Blue Book’s public framework separated reports into identified, insufficient data and unidentified categories, and the Air Force said an unidentified case was one where the information was enough to suggest a valid hypothesis but the description could not be correlated with known objects or phenomena. Desvergers was more troublesome than that neat scheme: investigators thought they understood the witness problem, but not all the traces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">ESD Portal</span></span></span>
+It also shows how difficult “UFO evidence” can be when testimony and physical traces do not line up cleanly. Project Blue Book’s public framework separated reports into identified, insufficient data and unidentified categories, and the Air Force said an unidentified case was one where the information was enough to suggest a valid hypothesis but the description could not be correlated with known objects or phenomena. Desvergers was more troublesome than that neat scheme: investigators thought they understood the witness problem, but not all the traces.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">ESD Portal</span></span></span>
 
 The case’s lasting value is not that it proves an extraterrestrial encounter. It is a useful sibling case for any wider 1952 UFO dossier because it forces the reader to separate several questions that are often blurred together: Did the boys see unusual lights? Did Desvergers experience real fear? Were the burns self-inflicted or accidental? Were the cap and grass traces produced by the same event? Did investigator distrust of the witness outrun the physical evidence, or did the physical evidence merely fail to rescue a collapsing story?
 
@@ -833,194 +833,194 @@ The fairest bottom line is close to Ruppelt’s own contradiction: he was convin
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w2-nJ1WUshQ" title="The 1955 Kelly-Hopkinsville alien invaders incident: “gun battle with &#x27;Little Men from Space&#x27;”" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w2-nJ1WUshQ" target="_blank" rel="noopener noreferrer">The 1955 Kelly-Hopkinsville alien invaders incident: “gun battle with &#x27;Little Men from Space&#x27;”</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 22.8K &middot; Uploaded: July 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w2-nJ1WUshQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w2-nJ1WUshQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was the Scoutmaster UFO Case a Hoax?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was the Scoutmaster UFO Case a Hoax?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Details the 1952 scoutmaster case and Ruppelt&#x27;s investigative notes that led to his &#x27;best hoax&#x27; verdict.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details the 1952 scoutmaster case and Ruppelt&#x27;s investigative notes that led to his &#x27;best hoax&#x27; verdict.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Profiles the Desvergers sighting, contrasting physical trace claims against the official military assessment of a fabrication.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Profiles the Desvergers sighting, contrasting physical trace claims against the official military assessment of a fabrication.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Documents how intelligence units handled early 1950s cases that were eventually deemed inconclusive or fabrications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents how intelligence units handled early 1950s cases that were eventually deemed inconclusive or fabrications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches methodology for evaluating cases that sit between dramatic eyewitness testimony and forensic &#x27;hoax&#x27; verdicts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches methodology for evaluating cases that sit between dramatic eyewitness testimony and forensic &#x27;hoax&#x27; verdicts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-scoutmaster-ufo-case-a-hoax-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1036,7 +1036,7 @@ The fairest bottom line is close to Ruppelt’s own contradiction: he was convin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1056,7 +1056,7 @@ The fairest bottom line is close to Ruppelt’s own contradiction: he was convin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1088,7 +1088,7 @@ The fairest bottom line is close to Ruppelt’s own contradiction: he was convin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1140,7 +1140,7 @@ The fairest bottom line is close to Ruppelt’s own contradiction: he was convin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1185,7 +1185,7 @@ The fairest bottom line is close to Ruppelt’s own contradiction: he was convin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1226,92 +1226,92 @@ The fairest bottom line is close to Ruppelt’s own contradiction: he was convin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
+   Link:<a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: esd.whs.mil  
    Title: ESD Portal  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives  
-   Link: <a href="https://www.archives.gov/files/citizen-archivist/images/05-17-2018-sightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/citizen-archivist/images/05-17-2018-sightings.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/citizen-archivist/images/05-17-2018-sightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/citizen-archivist/images/05-17-2018-sightings.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: bluebook.one  
-   Link: <a href="https://www.bluebook.one/case/62-HQ-83894/serial/e190d10e-ae61-4b33-8429-a2a394876c18" target="_blank" rel="noopener noreferrer nofollow">https://www.bluebook.one/case/62-HQ-83894/serial/e190d10e-ae61-4b33-8429-a2a394876c18</a>  
+   Link:<a href="https://www.bluebook.one/case/62-HQ-83894/serial/e190d10e-ae61-4b33-8429-a2a394876c18" target="_blank" rel="noopener noreferrer nofollow">https://www.bluebook.one/case/62-HQ-83894/serial/e190d10e-ae61-4b33-8429-a2a394876c18</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: files.ncas.org  
-   Link: <a href="https://files.ncas.org/condon/text/s5chap02.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s5chap02.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Sec V, Chapter 2: UFOs: 1947 - 1968...</p></details>
+   Link:<a href="https://files.ncas.org/condon/text/s5chap02.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s5chap02.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Sec V, Chapter 2: UFOs: 1947 - 1968...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: saturdaynightuforia.com  
    Title: Saturday Night Uforia: The Scoutmaster's Tale  
-   Link: <a href="https://www.saturdaynightuforia.com/html/articles/articlehtml/thescoutmasterstale.html" target="_blank" rel="noopener noreferrer nofollow">https://www.saturdaynightuforia.com/html/articles/articlehtml/thescoutmasterstale.html</a>  
+   Link:<a href="https://www.saturdaynightuforia.com/html/articles/articlehtml/thescoutmasterstale.html" target="_blank" rel="noopener noreferrer nofollow">https://www.saturdaynightuforia.com/html/articles/articlehtml/thescoutmasterstale.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: history.com  
    Title: ufo encounter florida desvergers scoutmaster burned  
-   Link: <a href="https://www.history.com/articles/ufo-encounter-florida-desvergers-scoutmaster-burned" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-encounter-florida-desvergers-scoutmaster-burned</a>  
+   Link:<a href="https://www.history.com/articles/ufo-encounter-florida-desvergers-scoutmaster-burned" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-encounter-florida-desvergers-scoutmaster-burned</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: podcastufo.com  
    Title: the best hoax in ufo history  
-   Link: <a href="https://podcastufo.com/the-best-hoax-in-ufo-history/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/the-best-hoax-in-ufo-history/</a>  
+   Link:<a href="https://podcastufo.com/the-best-hoax-in-ufo-history/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/the-best-hoax-in-ufo-history/</a>  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: He Got Too Close to a UFO… Then This Happened 🛸 #shorts  
-   Link: <a href="http://www.youtube.com/watch?v=fgqXFm9cgqg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=fgqXFm9cgqg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Sonny Desvergers&quot; scoutmaster UFO 1952 Scoutmaster Sonny DesVergers got burned by a UFO, encounter remembered by eyewitness Chuck Steven...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=fgqXFm9cgqg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=fgqXFm9cgqg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Sonny Desvergers&quot; scoutmaster UFO 1952 Scoutmaster Sonny DesVergers got burned by a UFO, encounter remembered by eyewitness Chuck Steven...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=w2-nJ1WUshQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=w2-nJ1WUshQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>He Got Too Close to a UFO… Then This Happened 🛸 #shorts...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=w2-nJ1WUshQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=w2-nJ1WUshQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He Got Too Close to a UFO… Then This Happened 🛸 #shorts...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=UdnbSoDaAqg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=UdnbSoDaAqg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1955 Kelly-Hopkinsville alien invaders incident: “gun battle with &#x27;Little Men from Space&#x27;”...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=UdnbSoDaAqg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=UdnbSoDaAqg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1955 Kelly-Hopkinsville alien invaders incident: “gun battle with &#x27;Little Men from Space&#x27;”...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=eQ2blDpvuqg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=eQ2blDpvuqg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1952: Scoutmaster Attacked by UFO...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=eQ2blDpvuqg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=eQ2blDpvuqg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1952: Scoutmaster Attacked by UFO...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/7482584/Project_Blue_Book_Archive" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/7482584/Project_Blue_Book_Archive</a>  
+   Link:<a href="https://www.academia.edu/7482584/Project_Blue_Book_Archive" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/7482584/Project_Blue_Book_Archive</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/392321734/A-Scoutmaster-s-Close-Encounter-With-a-UFO-and-a-Sinister-Red-Mist-HISTORY" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/392321734/A-Scoutmaster-s-Close-Encounter-With-a-UFO-and-a-Sinister-Red-Mist-HISTORY</a>  
+   Link:<a href="https://www.scribd.com/document/392321734/A-Scoutmaster-s-Close-Encounter-With-a-UFO-and-a-Sinister-Red-Mist-HISTORY" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/392321734/A-Scoutmaster-s-Close-Encounter-With-a-UFO-and-a-Sinister-Red-Mist-HISTORY</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood</a>  
+   Link:<a href="https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/centerforufostudies/posts/on-this-day-in-1952-august-19-1952-about-1000-pm-scoutmaster-dunham-sanborn-sonn/285150180901971/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/centerforufostudies/posts/on-this-day-in-1952-august-19-1952-about-1000-pm-scoutmaster-dunham-sanborn-sonn/285150180901971/</a>
+   Link:<a href="https://www.facebook.com/centerforufostudies/posts/on-this-day-in-1952-august-19-1952-about-1000-pm-scoutmaster-dunham-sanborn-sonn/285150180901971/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/centerforufostudies/posts/on-this-day-in-1952-august-19-1952-about-1000-pm-scoutmaster-dunham-sanborn-sonn/285150180901971/</a>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /boac-stratocruiser-s-01e20e-index/
 description: Focused pages that expand on BOAC stratocruiser sighting 1954.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: BOAC_stratocruiser_s_01e20e
 parent_title: BOAC stratocruiser sighting 1954
@@ -16,7 +16,7 @@ parent_permalink: /boac-stratocruiser-sighting-1954/
 
 # Explore Topics in BOAC stratocruiser sighting 1954
 
-The following pages expand on the main **[BOAC stratocruiser sighting 1954]({{ '/boac-stratocruiser-sighting-1954/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[BOAC stratocruiser sighting 1954]({{ '/boac-stratocruiser-sighting-1954/' | relative_url }})** page and cover its key branches in.
 
 - [Timeline]({{ '/timeline-49c35d/' | relative_url }})
 - [Witnesses]({{ '/witnesses-eac7bf/' | relative_url }})

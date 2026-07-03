@@ -242,12 +242,12 @@ image: /assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_photographic_566d83-Il
 
 ## Introduction
 
-The most direct physical record we have of the 1883 solar transits observed by **Jos A. y Bonilla** are the surviving photographs he took at the *Astronomical Observatory of Zacatecas*, Mexico, on 1213August1883. These wetplate images, published in the French astronomy journal *LAstronomie* in 1886, show dozens to hundreds of small dark shapes silhouetted against the bright solar disc. As historical artefacts they are significant: they corroborate that Bonilla did not merely *describe* an anomaly but *photographed* something crossing the Sun, and they stand among the earliest astronomical images used in later discussions about unidentified flying objects and unusual solar transits. Yet the photographs technical limitations, inconsistent preservation, and the ambiguity of what they record also illustrate the interpretive limits of nineteenthcentury solar photography. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bonilla_observation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonilla observation</span><span class="citation-popover-snippet">Bonilla observation</span></span></span>
+The most direct physical record we have of the 1883 solar transits observed by **Jos A. y Bonilla** are the surviving photographs he took at the *Astronomical Observatory of Zacatecas*, Mexico, on 1213August1883. These wetplate images, published in the French astronomy journal *LAstronomie* in 1886, show dozens to hundreds of small dark shapes silhouetted against the bright solar disc. As historical artefacts they are significant: they corroborate that Bonilla did not merely *describe* an anomaly but *photographed* something crossing the Sun, and they stand among the earliest astronomical images used in later discussions about unidentified flying objects and unusual solar transits. Yet the photographs technical limitations, inconsistent preservation, and the ambiguity of what they record also illustrate the interpretive limits of nineteenthcentury solar photography.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bonilla_observation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonilla observation</span><span class="citation-popover-snippet">Bonilla observation</span></span></span>
 
 <img src="{{ "/assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_photographic_566d83-Illustration-1-dark.svg" | relative_url }}" alt="Photographic Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_photographic_566d83-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_photographic_566d83-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Photographic Technology and Conditions
 
-Photographic astronomy in 1883 relied on the *wet collodion* process, which required applying a lightsensitive coating to a glass plate immediately before exposing it in the telescope and developing it soon after. Bonilla exposed his plates at very short timescalesoften cited as about **1/100second**to capture the very bright solar image and the fleeting silhouettes crossing its disc. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia-on-ipfs.org/wiki/Bonilla_observation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikipedia-on-ipfs.org">[Wikipedia on IPFS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikipedia-on-ipfs.org</span><span class="citation-popover-title">Wikipedia on IPFSBonilla observation</span><span class="citation-popover-snippet">Wikipedia on IPFSBonilla observation</span></span></span>
+Photographic astronomy in 1883 relied on the *wet collodion* process, which required applying a lightsensitive coating to a glass plate immediately before exposing it in the telescope and developing it soon after. Bonilla exposed his plates at very short timescalesoften cited as about **1/100second**to capture the very bright solar image and the fleeting silhouettes crossing its disc.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia-on-ipfs.org/wiki/Bonilla_observation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikipedia-on-ipfs.org">[Wikipedia on IPFS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikipedia-on-ipfs.org</span><span class="citation-popover-title">Wikipedia on IPFSBonilla observation</span><span class="citation-popover-snippet">Wikipedia on IPFSBonilla observation</span></span></span>
 
 These technical details shape both what the images *can* show and what they *cannot* resolve:
 
@@ -259,17 +259,17 @@ These technical details shape both what the images *can* show and what they *can
 
 </div>
 
-Photographs were reproduced in *LAstronomie* months or years later, making the surviving published images the primary descendants of the originals rather than intact negatives with documented provenance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.isaackoi.com/ufo-history/ufo/18830812-bonilla-photos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">18830812 bonilla photos</span><span class="citation-popover-snippet">Isaac Koi Archive1883.0812 Bonilla photos...</span></span></span>
+Photographs were reproduced in *LAstronomie* months or years later, making the surviving published images the primary descendants of the originals rather than intact negatives with documented provenance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.isaackoi.com/ufo-history/ufo/18830812-bonilla-photos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">18830812 bonilla photos</span><span class="citation-popover-snippet">Isaac Koi Archive1883.0812 Bonilla photos...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5dkZseelDN4" title="Top 10 Mysterious UFO Sightings - Fact or Fiction | Educational Videos by Mocomi Kids" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5dkZseelDN4" target="_blank" rel="noopener noreferrer">Top 10 Mysterious UFO Sightings - Fact or Fiction | Educational Videos by Mocomi Kids</a></p><p class="youtube-embed-meta">Channel: MocomiKids &middot; Views: 46.3K &middot; Uploaded: April 2014 &middot; Length: 2 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5dkZseelDN4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5dkZseelDN4">Open on YouTube</a></p></div></div></div>
 
 ## What the Images Show and Dont Show
 
-The surviving images unmistakably record small dark marks against the solar discBonilla himself counted **hundreds of objects** in his observations, and many plates show multiple specks or shapes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bonilla_observation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonilla observation</span><span class="citation-popover-snippet">Bonilla observation</span></span></span> Yet the photographic record by itself is ambiguous in several respects:
+The surviving images unmistakably record small dark marks against the solar discBonilla himself counted **hundreds of objects** in his observations, and many plates show multiple specks or shapes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bonilla_observation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonilla observation</span><span class="citation-popover-snippet">Bonilla observation</span></span></span> Yet the photographic record by itself is ambiguous in several respects:
 
 * **Silhouetted shapes only:** The plates do not capture illuminated features of the objects themselves; they are visible only because they block or absorb solar light. This means texture, surface detail, colour, and threedimensional form are absent from the evidence.
-* **No depth or distance cues:** A silhouette on the Suns disc does not indicate whether the object is in Earths atmosphere, near Earth, or far beyond. Parallax could, in theory, constrain distance if simultaneous observations existed from two widely separated observatories, but none were recorded during the 1883 event. This absence means the plates alone cannot determine the scale or location of the transiting bodies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discovermagazine.com/did-a-fragmenting-comet-nearly-hit-the-earth-in-1883-color-me-very-skeptical-23066" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovermagazine.com">[Discover Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovermagazine.com</span><span class="citation-popover-snippet">Discover MagazineDid a fragmenting comet nearly hit the Earth in 1883? Color me very skeptical &#124; Discover MagazineOctober 17, 2011...</span><span class="citation-popover-meta">Published: October 17, 2011</span></span></span>
-* **Ambiguous shapes:** Many of the silhouetted figures appear fuzzy or nebulous, which can result from optical aberrations, atmospheric seeing, or artefacts of the photographic process. Bonilla himself described some objects as misty, but the wetplate images do little to sharpen that characterization. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bonilla_observation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonilla observation</span><span class="citation-popover-snippet">Bonilla observation</span></span></span>
+* **No depth or distance cues:** A silhouette on the Suns disc does not indicate whether the object is in Earths atmosphere, near Earth, or far beyond. Parallax could, in theory, constrain distance if simultaneous observations existed from two widely separated observatories, but none were recorded during the 1883 event. This absence means the plates alone cannot determine the scale or location of the transiting bodies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discovermagazine.com/did-a-fragmenting-comet-nearly-hit-the-earth-in-1883-color-me-very-skeptical-23066" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovermagazine.com">[Discover Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovermagazine.com</span><span class="citation-popover-snippet">Discover MagazineDid a fragmenting comet nearly hit the Earth in 1883? Color me very skeptical &#124; Discover MagazineOctober 17, 2011...</span><span class="citation-popover-meta">Published: October 17, 2011</span></span></span>
+* **Ambiguous shapes:** Many of the silhouetted figures appear fuzzy or nebulous, which can result from optical aberrations, atmospheric seeing, or artefacts of the photographic process. Bonilla himself described some objects as misty, but the wetplate images do little to sharpen that characterization.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bonilla_observation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonilla observation</span><span class="citation-popover-snippet">Bonilla observation</span></span></span>
 
 Because of these limitations, the plates can be read as evidence that something crossed the solar disc as seen from Zacatecas at those times, but they are not definitive physical proof of the nature, origin, or scale of the objects.
 
@@ -280,8 +280,8 @@ The primary challenge when assessing the Bonilla photographs lies in what canand
 
 ### **Historical Interpretations from the Plates**
 
-* **Contemporary reaction:** When *LAstronomie* published Bonillas article in 1886, its editors expressed uncertainty about what the images showed. They suggested that the dark shapes could be mundane atmospheric bodiesbirds, insects, high dustor other neartelescope artefacts rather than true astronomical bodies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.isaackoi.com/ufo-history/ufo/18830812-bonilla-photos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">18830812 bonilla photos</span><span class="citation-popover-snippet">Isaac Koi Archive1883.0812 Bonilla photos...</span></span></span>
-* **Later scientific hypotheses:** Modern researchers analysed Bonillas counts and descriptions (but not the original plates themselves) and proposed that the photographed bodies might represent fragments of a highly fragmented comet passing very close to Earth. Using Bonillas counts, timing estimates, and assumptions about distances, these researchers calculated hypothetical dimensions and masses for such fragments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1110.2798" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Interpretation of the observations made in 1883 in Zacatecas (Mexico): A fragmented Comet that nearly hits the EarthOctober 12, 2011...</span><span class="citation-popover-meta">Published: October 12, 2011</span></span></span>
+* **Contemporary reaction:** When *LAstronomie* published Bonillas article in 1886, its editors expressed uncertainty about what the images showed. They suggested that the dark shapes could be mundane atmospheric bodiesbirds, insects, high dustor other neartelescope artefacts rather than true astronomical bodies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.isaackoi.com/ufo-history/ufo/18830812-bonilla-photos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">18830812 bonilla photos</span><span class="citation-popover-snippet">Isaac Koi Archive1883.0812 Bonilla photos...</span></span></span>
+* **Later scientific hypotheses:** Modern researchers analysed Bonillas counts and descriptions (but not the original plates themselves) and proposed that the photographed bodies might represent fragments of a highly fragmented comet passing very close to Earth. Using Bonillas counts, timing estimates, and assumptions about distances, these researchers calculated hypothetical dimensions and masses for such fragments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1110.2798" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Interpretation of the observations made in 1883 in Zacatecas (Mexico): A fragmented Comet that nearly hits the EarthOctober 12, 2011...</span><span class="citation-popover-meta">Published: October 12, 2011</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/noZk9lCAhEo" title="Astronomical Glass Plate Photographs (Presentation by Lindsay Smith Zrull, 12/8/2020)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=noZk9lCAhEo" target="_blank" rel="noopener noreferrer">Astronomical Glass Plate Photographs (Presentation by Lindsay Smith Zrull, 12/8/2020)</a></p><p class="youtube-embed-meta">Channel: CfA Library &middot; Views: 915 &middot; Uploaded: December 2020 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=noZk9lCAhEo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=noZk9lCAhEo">Open on YouTube</a></p></div></div></div>
 
@@ -289,193 +289,193 @@ The primary challenge when assessing the Bonilla photographs lies in what canand
 
 The photographic evidence alone has been a focal point for sceptical critique:
 
-* **Absence of corroboration:** No other observatorysuch as those in Puebla or Mexico Cityreported seeing similar transits on the same dates. This suggests that if the phenomena were distant solar system bodies, they might have been visible more widely; the fact that only Bonillas images exist argues for interpretations tied to local optical or atmospheric effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discovermagazine.com/did-a-fragmenting-comet-nearly-hit-the-earth-in-1883-color-me-very-skeptical-23066" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovermagazine.com">[Discover Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovermagazine.com</span><span class="citation-popover-snippet">Discover MagazineDid a fragmenting comet nearly hit the Earth in 1883? Color me very skeptical &#124; Discover MagazineOctober 17, 2011...</span><span class="citation-popover-meta">Published: October 17, 2011</span></span></span>
-* **Comet hypothesis weaknesses:** While the comet fragment hypothesis uses Bonillas observations to infer distances and sizes, critics emphasise that the images themselves do not demonstrate the presence of cometary tails, coma structure, or other characteristics typically evident in actual comet photography. The plates show dark silhouettes only, not the bright nebulosity associated with comets under visible light conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discovermagazine.com/did-a-fragmenting-comet-nearly-hit-the-earth-in-1883-color-me-very-skeptical-23066" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovermagazine.com">[Discover Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovermagazine.com</span><span class="citation-popover-snippet">Discover MagazineDid a fragmenting comet nearly hit the Earth in 1883? Color me very skeptical &#124; Discover MagazineOctober 17, 2011...</span><span class="citation-popover-meta">Published: October 17, 2011</span></span></span>
+* **Absence of corroboration:** No other observatorysuch as those in Puebla or Mexico Cityreported seeing similar transits on the same dates. This suggests that if the phenomena were distant solar system bodies, they might have been visible more widely; the fact that only Bonillas images exist argues for interpretations tied to local optical or atmospheric effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discovermagazine.com/did-a-fragmenting-comet-nearly-hit-the-earth-in-1883-color-me-very-skeptical-23066" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovermagazine.com">[Discover Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovermagazine.com</span><span class="citation-popover-snippet">Discover MagazineDid a fragmenting comet nearly hit the Earth in 1883? Color me very skeptical &#124; Discover MagazineOctober 17, 2011...</span><span class="citation-popover-meta">Published: October 17, 2011</span></span></span>
+* **Comet hypothesis weaknesses:** While the comet fragment hypothesis uses Bonillas observations to infer distances and sizes, critics emphasise that the images themselves do not demonstrate the presence of cometary tails, coma structure, or other characteristics typically evident in actual comet photography. The plates show dark silhouettes only, not the bright nebulosity associated with comets under visible light conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discovermagazine.com/did-a-fragmenting-comet-nearly-hit-the-earth-in-1883-color-me-very-skeptical-23066" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovermagazine.com">[Discover Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovermagazine.com</span><span class="citation-popover-snippet">Discover MagazineDid a fragmenting comet nearly hit the Earth in 1883? Color me very skeptical &#124; Discover MagazineOctober 17, 2011...</span><span class="citation-popover-meta">Published: October 17, 2011</span></span></span>
 
 <img src="{{ "/assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_photographic_566d83-Illustration-3-dark.svg" | relative_url }}" alt="Photographic Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_photographic_566d83-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jose_A_y_Bonilla_pho_27aa92_bonilla_photographic_566d83-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### **Photographic Evidence as Corroboration, Not Resolution**
 
-Perhaps the strongest conclusion about the 1883 photographs is that they **corroborate Bonillas visual reports**: someone with astronomical training observed something crossing the Sun and documented it visually and photographically. However, the plates on their own do *not* independently resolve what those objects were. They strengthen the historical record that an unusual observation occurred but do not, without supplementary data, allow confident scientific identification of the phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bonilla_observation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonilla observation</span><span class="citation-popover-snippet">Bonilla observation</span></span></span>
+Perhaps the strongest conclusion about the 1883 photographs is that they **corroborate Bonillas visual reports**: someone with astronomical training observed something crossing the Sun and documented it visually and photographically. However, the plates on their own do *not* independently resolve what those objects were. They strengthen the historical record that an unusual observation occurred but do not, without supplementary data, allow confident scientific identification of the phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bonilla_observation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonilla observation</span><span class="citation-popover-snippet">Bonilla observation</span></span></span>
 
 ## Conclusion
 
-The Bonilla photographs remain a fascinating early example of solar transit imaging, notable for recording many small silhouettes against the solar disc. Their value today lies less in what they conclusively *reveal* about the observed phenomena and more in how they document the event itself and the evolving interpretation of such data across decades. They vividly foreground the limits of nineteenthcentury solar photography: clear shapes against a bright disc, but no metrics for depth, scale, or physical nature. In the absence of contemporaneous corroborating observations or preserved original plates with detailed metadata, the Bonilla photographs are best understood as crucial but inherently ambiguous physical evidence of the 1883 solar transits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bonilla_observation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonilla observation</span><span class="citation-popover-snippet">Bonilla observation</span></span></span>
+The Bonilla photographs remain a fascinating early example of solar transit imaging, notable for recording many small silhouettes against the solar disc. Their value today lies less in what they conclusively *reveal* about the observed phenomena and more in how they document the event itself and the evolving interpretation of such data across decades. They vividly foreground the limits of nineteenthcentury solar photography: clear shapes against a bright disc, but no metrics for depth, scale, or physical nature. In the absence of contemporaneous corroborating observations or preserved original plates with detailed metadata, the Bonilla photographs are best understood as crucial but inherently ambiguous physical evidence of the 1883 solar transits.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bonilla_observation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonilla observation</span><span class="citation-popover-snippet">Bonilla observation</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nn4qdZCV3w0" title="Pentagon Just Released UFO Files. So Did 12 Civilizations Before Them" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nn4qdZCV3w0" target="_blank" rel="noopener noreferrer">Pentagon Just Released UFO Files. So Did 12 Civilizations Before Them</a></p><p class="youtube-embed-meta">Channel: The History Hub &middot; Views: 22.0K &middot; Uploaded: May 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nn4qdZCV3w0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nn4qdZCV3w0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do the 1883 Bonilla Photographs Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do the 1883 Bonilla Photographs Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides details on the 1883 photographic evidence, addressing the limitations of early plate technology versus modern analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides details on the 1883 photographic evidence, addressing the limitations of early plate technology versus modern analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Explains why the limitations of nineteenth-century photographic tech set hard limits on what can be interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why the limitations of nineteenth-century photographic tech set hard limits on what can be interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches investigative tools for evaluating vintage photographic plates against known imaging artifacts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches investigative tools for evaluating vintage photographic plates against known imaging artifacts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
-        </h4>
-        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+</h4>
+<p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
         
-        <p class="fr-book-desc">Discusses the history of photographic hoaxes and technical errors when evaluating early solar images.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses the history of photographic hoaxes and technical errors when evaluating early solar images.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sun+astronomy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sun astronomy poster -book -books" data-ebay-reference="photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sun Hot | Realistic Astronomy Solar Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c0312d827cbbc9d91f27.jpg' | relative_url }}" alt="Listing image for Sun Hot | Realistic Astronomy Solar Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sun+astronomy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sun astronomy poster -book -books" data-ebay-reference="photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo" target="_blank" rel="sponsored noopener noreferrer">Sun Hot | Realistic Astronomy Solar Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sun+astronomy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sun astronomy poster -book -books" data-ebay-reference="photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Sun astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Sun astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sun+astronomy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sun astronomy poster -book -books" data-ebay-reference="photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sun+astronomy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sun astronomy poster -book -books" data-ebay-reference="photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sun Hot | Realistic Astronomy Solar Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c0312d827cbbc9d91f27.jpg' | relative_url }}" alt="Listing image for Sun Hot | Realistic Astronomy Solar Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sun+astronomy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sun astronomy poster -book -books" data-ebay-reference="photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo" target="_blank" rel="sponsored noopener noreferrer">Sun Hot | Realistic Astronomy Solar Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sun+astronomy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sun astronomy poster -book -books" data-ebay-reference="photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Sun astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Sun astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sun+astronomy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sun astronomy poster -book -books" data-ebay-reference="photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sun+astronomy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sun astronomy poster -book -books" data-ebay-reference="photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy astrology zodiac map sun moon stars antique illustration poster print"><img src="{{ '/assets/images/marketplace-covers/3d0b48364a748fc26e56.jpg' | relative_url }}" alt="Listing image for Astronomy astrology zodiac map sun moon stars antique illustration poster print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sun+astronomy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sun astronomy poster -book -books" data-ebay-reference="photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo" target="_blank" rel="sponsored noopener noreferrer">Astronomy astrology zodiac map sun moon stars antique illustration poster print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sun+astronomy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sun astronomy poster -book -books" data-ebay-reference="photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Sun astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Sun astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sun+astronomy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sun astronomy poster -book -books" data-ebay-reference="photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sun+astronomy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sun astronomy poster -book -books" data-ebay-reference="photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy astrology zodiac map sun moon stars antique illustration poster print"><img src="{{ '/assets/images/marketplace-covers/3d0b48364a748fc26e56.jpg' | relative_url }}" alt="Listing image for Astronomy astrology zodiac map sun moon stars antique illustration poster print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sun+astronomy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sun astronomy poster -book -books" data-ebay-reference="photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo" target="_blank" rel="sponsored noopener noreferrer">Astronomy astrology zodiac map sun moon stars antique illustration poster print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sun+astronomy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sun astronomy poster -book -books" data-ebay-reference="photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Sun astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Sun astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sun+astronomy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sun astronomy poster -book -books" data-ebay-reference="photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sun+astronomy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sun astronomy poster -book -books" data-ebay-reference="photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy VINTAGE planet Jupiter Mars Saturn Moon Sun Comet 1800s poster print"><img src="{{ '/assets/images/marketplace-covers/d7faf3682eee6948fbd5.jpg' | relative_url }}" alt="Listing image for Astronomy VINTAGE planet Jupiter Mars Saturn Moon Sun Comet 1800s poster print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sun+astronomy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sun astronomy poster -book -books" data-ebay-reference="photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo" target="_blank" rel="sponsored noopener noreferrer">Astronomy VINTAGE planet Jupiter Mars Saturn Moon Sun Comet 1800s poster print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sun+astronomy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sun astronomy poster -book -books" data-ebay-reference="photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Sun astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Sun astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sun+astronomy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sun astronomy poster -book -books" data-ebay-reference="photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sun+astronomy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sun astronomy poster -book -books" data-ebay-reference="photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sun+astronomy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sun astronomy poster -book -books" data-ebay-reference="photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy VINTAGE planet Jupiter Mars Saturn Moon Sun Comet 1800s poster print"><img src="{{ '/assets/images/marketplace-covers/d7faf3682eee6948fbd5.jpg' | relative_url }}" alt="Listing image for Astronomy VINTAGE planet Jupiter Mars Saturn Moon Sun Comet 1800s poster print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sun+astronomy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sun astronomy poster -book -books" data-ebay-reference="photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo" target="_blank" rel="sponsored noopener noreferrer">Astronomy VINTAGE planet Jupiter Mars Saturn Moon Sun Comet 1800s poster print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sun+astronomy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sun astronomy poster -book -books" data-ebay-reference="photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Sun astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Sun astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sun+astronomy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sun astronomy poster -book -books" data-ebay-reference="photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sun+astronomy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sun astronomy poster -book -books" data-ebay-reference="photographic-evidence-what-do-the-1883-bonilla-photographs-show-jose-a-y-bonilla-photograph-1883-sun-astronomy-poster-bo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -491,7 +491,7 @@ The Bonilla photographs remain a fascinating early example of solar transit imag
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -511,7 +511,7 @@ The Bonilla photographs remain a fascinating early example of solar transit imag
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -543,7 +543,7 @@ The Bonilla photographs remain a fascinating early example of solar transit imag
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -595,7 +595,7 @@ The Bonilla photographs remain a fascinating early example of solar transit imag
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -640,7 +640,7 @@ The Bonilla photographs remain a fascinating early example of solar transit imag
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -681,102 +681,102 @@ The Bonilla photographs remain a fascinating early example of solar transit imag
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Bonilla observation  
-   Link: <a href="https://en.wikipedia.org/wiki/Bonilla_observation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bonilla_observation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bonilla_observation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bonilla_observation</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: en.wikipedia-on-ipfs.org  
    Title: Wikipedia on IPFSBonilla observation  
-   Link: <a href="https://en.wikipedia-on-ipfs.org/wiki/Bonilla_observation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia-on-ipfs.org/wiki/Bonilla_observation</a>  
+   Link:<a href="https://en.wikipedia-on-ipfs.org/wiki/Bonilla_observation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia-on-ipfs.org/wiki/Bonilla_observation</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1110.2798" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1110.2798</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Interpretation of the observations made in 1883 in Zacatecas (Mexico): A fragmented Comet that nearly hits the EarthOctober 12, 2011...</p></details>
+   Link:<a href="https://arxiv.org/abs/1110.2798" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1110.2798</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interpretation of the observations made in 1883 in Zacatecas (Mexico): A fragmented Comet that nearly hits the EarthOctober 12, 2011...</p></details>
    Published: October 12, 2011  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: isaackoi.com  
    Title: 18830812 bonilla photos  
-   Link: <a href="https://www.isaackoi.com/ufo-history/ufo/18830812-bonilla-photos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.isaackoi.com/ufo-history/ufo/18830812-bonilla-photos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Isaac Koi Archive1883.0812 Bonilla photos...</p></details>
+   Link:<a href="https://www.isaackoi.com/ufo-history/ufo/18830812-bonilla-photos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.isaackoi.com/ufo-history/ufo/18830812-bonilla-photos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Isaac Koi Archive1883.0812 Bonilla photos...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: discovermagazine.com  
-   Link: <a href="https://www.discovermagazine.com/did-a-fragmenting-comet-nearly-hit-the-earth-in-1883-color-me-very-skeptical-23066" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/did-a-fragmenting-comet-nearly-hit-the-earth-in-1883-color-me-very-skeptical-23066</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover MagazineDid a fragmenting comet nearly hit the Earth in 1883? Color me very skeptical | Discover MagazineOctober 17, 2011...</p></details>
+   Link:<a href="https://www.discovermagazine.com/did-a-fragmenting-comet-nearly-hit-the-earth-in-1883-color-me-very-skeptical-23066" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/did-a-fragmenting-comet-nearly-hit-the-earth-in-1883-color-me-very-skeptical-23066</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discover MagazineDid a fragmenting comet nearly hit the Earth in 1883? Color me very skeptical | Discover MagazineOctober 17, 2011...</p></details>
    Published: October 17, 2011  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: discovermagazine.com  
    Title: did a fragmenting comet nearly hit the earth in 1883 color me very skeptical  
-   Link: <a href="https://www.discovermagazine.com/the-sciences/did-a-fragmenting-comet-nearly-hit-the-earth-in-1883-color-me-very-skeptical" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/the-sciences/did-a-fragmenting-comet-nearly-hit-the-earth-in-1883-color-me-very-skeptical</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Color me very skeptical | Discover MagazineDID A FRAGMENTING COMET NEARLY HIT THE EARTH IN 1883? COLOR ME VERY SKEPTICAL Explore the skep...</p></details>
+   Link:<a href="https://www.discovermagazine.com/the-sciences/did-a-fragmenting-comet-nearly-hit-the-earth-in-1883-color-me-very-skeptical" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/the-sciences/did-a-fragmenting-comet-nearly-hit-the-earth-in-1883-color-me-very-skeptical</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Color me very skeptical | Discover MagazineDID A FRAGMENTING COMET NEARLY HIT THE EARTH IN 1883? COLOR ME VERY SKEPTICAL Explore the skep...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: scienceblogs.de  
-   Link: <a href="https://scienceblogs.de/astrodicticum-simplex/2011/10/18/die-geschichte-vom-grossen-kometen-der-1883-fast-die-menscheit-ausgeloscht-haben-soll/" target="_blank" rel="noopener noreferrer nofollow">https://scienceblogs.de/astrodicticum-simplex/2011/10/18/die-geschichte-vom-grossen-kometen-der-1883-fast-die-menscheit-ausgeloscht-haben-soll/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Die Geschichte vom groen Kometen der 1883 fast die Menscheit ausgelscht haben soll Astrodicticum SimplexOctober 18, 2011 DIE GESCHI...</p></details>
+   Link:<a href="https://scienceblogs.de/astrodicticum-simplex/2011/10/18/die-geschichte-vom-grossen-kometen-der-1883-fast-die-menscheit-ausgeloscht-haben-soll/" target="_blank" rel="noopener noreferrer nofollow">https://scienceblogs.de/astrodicticum-simplex/2011/10/18/die-geschichte-vom-grossen-kometen-der-1883-fast-die-menscheit-ausgeloscht-haben-soll/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Die Geschichte vom groen Kometen der 1883 fast die Menscheit ausgelscht haben soll Astrodicticum SimplexOctober 18, 2011 DIE GESCHI...</p></details>
    Published: October 18, 2011  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theklew.com  
    Title: Astronomer Photographs Objects Crossing in Front of The Moon the klew  
-   Link: <a href="https://theklew.com/ufosihaveknown/pre-1920/jose-bonillas-photo-of-objects-crossing-in-front-of-the-moon/" target="_blank" rel="noopener noreferrer nofollow">https://theklew.com/ufosihaveknown/pre-1920/jose-bonillas-photo-of-objects-crossing-in-front-of-the-moon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 12, 1883 ASTRONOMER PHOTOGRAPHS OBJECTS CROSSING IN FRONT OF THE MOON Aug 12 1883 August 12, 1883 &gt; On 12 August 1883, photograp...</p></details>
+   Link:<a href="https://theklew.com/ufosihaveknown/pre-1920/jose-bonillas-photo-of-objects-crossing-in-front-of-the-moon/" target="_blank" rel="noopener noreferrer nofollow">https://theklew.com/ufosihaveknown/pre-1920/jose-bonillas-photo-of-objects-crossing-in-front-of-the-moon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 12, 1883 ASTRONOMER PHOTOGRAPHS OBJECTS CROSSING IN FRONT OF THE MOON Aug 12 1883 August 12, 1883 &gt; On 12 August 1883, photograp...</p></details>
    Published: August 12, 1883  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=noZk9lCAhEo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=noZk9lCAhEo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Just Released UFO Files. So Did 12 Civilizations Before Them Pentagon Just Released UFO Files. So Did 12 Civilizations Before Th...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=noZk9lCAhEo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=noZk9lCAhEo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Just Released UFO Files. So Did 12 Civilizations Before Them Pentagon Just Released UFO Files. So Did 12 Civilizations Before Th...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wikihandbk.com  
    Title: :Bonilla observation /  
-   Link: <a href="https://wikihandbk.com/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%3ABonilla_observation" target="_blank" rel="noopener noreferrer nofollow">https://wikihandbk.com/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%3ABonilla_observation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BONILLA OBSERVATION:Jose Bonilla UFO observation 12 August 1883.jp...</p></details>
+   Link:<a href="https://wikihandbk.com/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%3ABonilla_observation" target="_blank" rel="noopener noreferrer nofollow">https://wikihandbk.com/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%3ABonilla_observation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BONILLA OBSERVATION:Jose Bonilla UFO observation 12 August 1883.jp...</p></details>
    Published: August 1883  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: thinkaboutitdocs.com  
    Title: 1883 zacatecas observatory mexico sighting  
-   Link: <a href="https://www.thinkaboutitdocs.com/1883-zacatecas-observatory-mexico-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1883-zacatecas-observatory-mexico-sighting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1883: Zacatecas Observatory, Mexico SightingApril 8, 2013 April 9, 2026 Think AboutIts 1883: ZACATECAS OBSERVATORY, MEXICO SIGHTING Orb...</p></details>
+   Link:<a href="https://www.thinkaboutitdocs.com/1883-zacatecas-observatory-mexico-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1883-zacatecas-observatory-mexico-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1883: Zacatecas Observatory, Mexico SightingApril 8, 2013 April 9, 2026 Think AboutIts 1883: ZACATECAS OBSERVATORY, MEXICO SIGHTING Orb...</p></details>
    Published: April 8, 2013  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ibtimes.com  
    Title: giant comet almost hit earth 1883 324469  
-   Link: <a href="https://www.ibtimes.com/giant-comet-almost-hit-earth-1883-324469" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.com/giant-comet-almost-hit-earth-1883-324469</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Giant Comet Almost Hit Earth in 1883 | IBTimesGIANT COMET ALMOST HIT EARTH IN 1883 RESEARCHERS EXAMINING HUNDRED YEAR OLD DATA FIND TROUB...</p></details>
+   Link:<a href="https://www.ibtimes.com/giant-comet-almost-hit-earth-1883-324469" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.com/giant-comet-almost-hit-earth-1883-324469</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Giant Comet Almost Hit Earth in 1883 | IBTimesGIANT COMET ALMOST HIT EARTH IN 1883 RESEARCHERS EXAMINING HUNDRED YEAR OLD DATA FIND TROUB...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: astropt.org  
    Title: 1 fotografia de OVNI era um cometa?  
-   Link: <a href="https://www.astropt.org/2011/10/22/1%C2%AA-fotografia-de-ovni-era-um-cometa/" target="_blank" rel="noopener noreferrer nofollow">https://www.astropt.org/2011/10/22/1%C2%AA-fotografia-de-ovni-era-um-cometa/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>* By Carlos Oliveira in Cometas, OVNIs A 12 de Agosto de 1883, o astrnomo Mexicano Jos Bonilla estava a observar o Sol a partir do Obse...</p></details>
+   Link:<a href="https://www.astropt.org/2011/10/22/1%C2%AA-fotografia-de-ovni-era-um-cometa/" target="_blank" rel="noopener noreferrer nofollow">https://www.astropt.org/2011/10/22/1%C2%AA-fotografia-de-ovni-era-um-cometa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>* By Carlos Oliveira in Cometas, OVNIs A 12 de Agosto de 1883, o astrnomo Mexicano Jos Bonilla estava a observar o Sol a partir do Obse...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archivo.eluniversal.com.mx  
    Title: eluniversal.com.mx El Universal  
-   Link: <a href="https://archivo.eluniversal.com.mx/articulos/66724.html" target="_blank" rel="noopener noreferrer nofollow">https://archivo.eluniversal.com.mx/articulos/66724.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Universal - - En 1883 mexicano capt cometa que casi choca con la TierraOctober 18, 2011 EN 1883 MEXICANO CAPT COMETA QUE CASI CHOCA C...</p></details>
+   Link:<a href="https://archivo.eluniversal.com.mx/articulos/66724.html" target="_blank" rel="noopener noreferrer nofollow">https://archivo.eluniversal.com.mx/articulos/66724.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Universal - - En 1883 mexicano capt cometa que casi choca con la TierraOctober 18, 2011 EN 1883 MEXICANO CAPT COMETA QUE CASI CHOCA C...</p></details>
    Published: October 18, 2011  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: handwiki.org  
    Title: Astronomy:Bonilla observation  
-   Link: <a href="https://handwiki.org/wiki/Astronomy%3ABonilla_observation" target="_blank" rel="noopener noreferrer nofollow">https://handwiki.org/wiki/Astronomy%3ABonilla_observation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 6, 2024 ASTRONOMY:BONILLA OBSERVATION From HandWiki [Input] Short description: 1883 astronomical event One of the phot...</p></details>
+   Link:<a href="https://handwiki.org/wiki/Astronomy%3ABonilla_observation" target="_blank" rel="noopener noreferrer nofollow">https://handwiki.org/wiki/Astronomy%3ABonilla_observation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 6, 2024 ASTRONOMY:BONILLA OBSERVATION From HandWiki [Input] Short description: 1883 astronomical event One of the phot...</p></details>
    Published: February 6, 2024  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: quantaboo.com  
    Title: O FENMENO INEXPLICVEL PER  
-   Link: <a href="https://quantaboo.com/misterio-no-seculo-xix-os-objetos-negros-que-cruzaram-o-sol-em-1883-953032" target="_blank" rel="noopener noreferrer nofollow">https://quantaboo.com/misterio-no-seculo-xix-os-objetos-negros-que-cruzaram-o-sol-em-1883-953032</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mistrio no Sculo XIX: Os Objetos Negros que Cruzaram o Sol em 1883 - QuantaBoo - O seu portal interdimensional de notcias!February 13...</p></details>
+   Link:<a href="https://quantaboo.com/misterio-no-seculo-xix-os-objetos-negros-que-cruzaram-o-sol-em-1883-953032" target="_blank" rel="noopener noreferrer nofollow">https://quantaboo.com/misterio-no-seculo-xix-os-objetos-negros-que-cruzaram-o-sol-em-1883-953032</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mistrio no Sculo XIX: Os Objetos Negros que Cruzaram o Sol em 1883 - QuantaBoo - O seu portal interdimensional de notcias!February 13...</p></details>

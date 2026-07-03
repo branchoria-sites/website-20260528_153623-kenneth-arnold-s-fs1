@@ -242,37 +242,37 @@ image: /assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Il
 
 ## Introduction
 
-On the *morning of 19 January 1966*, farmer **George Alfred Pedley**, then 28 and working near Horseshoe Lagoon on a sugar cane property near Tully in far north Queensland, reported an extraordinary sighting that would anchor the now‑famous *Tully “saucer nest” incident*. His firsthand observation of a strange object rising from a swampy lagoon, followed by his close inspection of unusual [physical traces]({{ 'physical-trace/' | relative_url }}), made his account the core eyewitness testimony in one of Australia’s most debated UFO cases. Pedley’s experience was documented contemporaneously by local police and later by the Royal Australian Air Force (RAAF), giving his testimony unusual evidential traction among UFO reports of the era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenightskyii.org/tully.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenightskyii.org">[The Night Sky II]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenightskyii.org</span><span class="citation-popover-title">The Night Sky IITully Flying Saucer Nest</span><span class="citation-popover-snippet">January 19, 1966...</span><span class="citation-popover-meta">Published: January 19, 1966</span></span></span>
+On the *morning of 19 January 1966*, farmer **George Alfred Pedley**, then 28 and working near Horseshoe Lagoon on a sugar cane property near Tully in far north Queensland, reported an extraordinary sighting that would anchor the now‑famous *Tully “saucer nest” incident*. His firsthand observation of a strange object rising from a swampy lagoon, followed by his close inspection of unusual [physical traces]({{ 'physical-trace/' | relative_url }}), made his account the core eyewitness testimony in one of Australia’s most debated UFO cases. Pedley’s experience was documented contemporaneously by local police and later by the Royal Australian Air Force (RAAF), giving his testimony unusual evidential traction among UFO reports of the era.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenightskyii.org/tully.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenightskyii.org">[The Night Sky II]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenightskyii.org</span><span class="citation-popover-title">The Night Sky IITully Flying Saucer Nest</span><span class="citation-popover-snippet">January 19, 1966...</span><span class="citation-popover-meta">Published: January 19, 1966</span></span></span>
 
 <img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-1-dark.svg" | relative_url }}" alt="Witness Account illustration 1" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Eyewitness Description of the Object
 
-At around **9:00 a.m.** on a clear, calm morning, Pedley was driving his tractor toward Horseshoe Lagoon on the neighbouring *Albert Pennisi* property when something in the environment caught his attention. He heard a *distinct hissing sound* above the tractor noise, momentarily thinking it might be a tyre problem. Before he could investigate further, he suddenly saw an object rise out of the swamp about **25 yards ahead of him**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenightskyii.org/tully.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenightskyii.org">[The Night Sky II]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenightskyii.org</span><span class="citation-popover-title">The Night Sky IITully Flying Saucer Nest</span><span class="citation-popover-snippet">January 19, 1966...</span><span class="citation-popover-meta">Published: January 19, 1966</span></span></span>
+At around **9:00 a.m.** on a clear, calm morning, Pedley was driving his tractor toward Horseshoe Lagoon on the neighbouring *Albert Pennisi* property when something in the environment caught his attention. He heard a *distinct hissing sound* above the tractor noise, momentarily thinking it might be a tyre problem. Before he could investigate further, he suddenly saw an object rise out of the swamp about **25 yards ahead of him**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenightskyii.org/tully.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenightskyii.org">[The Night Sky II]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenightskyii.org</span><span class="citation-popover-title">The Night Sky IITully Flying Saucer Nest</span><span class="citation-popover-snippet">January 19, 1966...</span><span class="citation-popover-meta">Published: January 19, 1966</span></span></span>
 
-According to Pedley’s description in the RAAF‑attached police report, the object was **large and saucer‑shaped**, with a dull **light grey, non‑reflective surface** and no discernible windows, portholes, or external features. The shape was described by the official file as looking “like two saucers, face to face.” It was first seen at roughly **30 feet above ground level**, ascended a further 30 feet while *spinning rapidly*, then tilted slightly and **departed at great speed, climbing at about 45 degrees** toward the south‑west. The total sighting lasted only a matter of seconds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">the 1966 tully saucer nest</span><span class="citation-popover-snippet">Think About It Docs1966: The Tully Saucer Nest...</span></span></span>
+According to Pedley’s description in the RAAF‑attached police report, the object was **large and saucer‑shaped**, with a dull **light grey, non‑reflective surface** and no discernible windows, portholes, or external features. The shape was described by the official file as looking “like two saucers, face to face.” It was first seen at roughly **30 feet above ground level**, ascended a further 30 feet while *spinning rapidly*, then tilted slightly and **departed at great speed, climbing at about 45 degrees** toward the south‑west. The total sighting lasted only a matter of seconds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">the 1966 tully saucer nest</span><span class="citation-popover-snippet">Think About It Docs1966: The Tully Saucer Nest...</span></span></span>
 
-Pedley told investigators he saw **no signs of life, no communications apparatus, and no exhaust or combustion effects** during the object’s brief flight. He emphasised the unusual calmness of the craft’s departure and the absence of any pronounced sound beyond the initial hiss. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">the 1966 tully saucer nest</span><span class="citation-popover-snippet">Think About It Docs1966: The Tully Saucer Nest...</span></span></span>
+Pedley told investigators he saw **no signs of life, no communications apparatus, and no exhaust or combustion effects** during the object’s brief flight. He emphasised the unusual calmness of the craft’s departure and the absence of any pronounced sound beyond the initial hiss.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">the 1966 tully saucer nest</span><span class="citation-popover-snippet">Think About It Docs1966: The Tully Saucer Nest...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8yxg5BCdAHQ" title="The Westall Encounter: Australia&#x27;s Most Profound UFO Sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8yxg5BCdAHQ" target="_blank" rel="noopener noreferrer">The Westall Encounter: Australia&#x27;s Most Profound UFO Sighting</a></p><p class="youtube-embed-meta">Channel: Decoding the Unknown &middot; Views: 285.1K &middot; Uploaded: January 2024 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8yxg5BCdAHQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8yxg5BCdAHQ">Open on YouTube</a></p></div></div></div>
 
 ## Immediate Actions and Reporting
 
-Pedley’s response to what he had seen was prompt and methodical. After the object vanished, he left his tractor and made his way toward the **exact spot where the object appeared to have risen** out of the lagoon. He recalled approaching through the tall swamp grasses to the lagoon’s edge and quickly noting something remarkable in the reeds and water. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">the 1966 tully saucer nest</span><span class="citation-popover-snippet">Think About It Docs1966: The Tully Saucer Nest...</span></span></span>
+Pedley’s response to what he had seen was prompt and methodical. After the object vanished, he left his tractor and made his way toward the **exact spot where the object appeared to have risen** out of the lagoon. He recalled approaching through the tall swamp grasses to the lagoon’s edge and quickly noting something remarkable in the reeds and water.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">the 1966 tully saucer nest</span><span class="citation-popover-snippet">Think About It Docs1966: The Tully Saucer Nest...</span></span></span>
 
-Instead of the dense reeds he had driven past earlier that morning, he found a **large circular area roughly 30 feet in diameter** where the water was clear of vegetation, and the surrounding reeds were lying flat on the surface in **a distinct, swirling, clockwise pattern**. Some reports also note nearby cane grass clipped close to water level — a detail Pedley shared with others soon after. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">the 1966 tully saucer nest</span><span class="citation-popover-snippet">Think About It Docs1966: The Tully Saucer Nest...</span></span></span>
+Instead of the dense reeds he had driven past earlier that morning, he found a **large circular area roughly 30 feet in diameter** where the water was clear of vegetation, and the surrounding reeds were lying flat on the surface in **a distinct, swirling, clockwise pattern**. Some reports also note nearby cane grass clipped close to water level — a detail Pedley shared with others soon after.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">the 1966 tully saucer nest</span><span class="citation-popover-snippet">Think About It Docs1966: The Tully Saucer Nest...</span></span></span>
 
-Pedley did not make an immediate media claim. He returned later in the day to the main township of **Tully** and reported the sighting to the local police at about **7:30 p.m.** that evening. The next morning, about **7 a.m. on 20 January**, **Sergeant A. V. Moylan** accompanied Pedley to the site. Moylan then contacted RAAF personnel at **Townsville** to request a formal sighting questionnaire and later collected samples of the flattened reeds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">the 1966 tully saucer nest</span><span class="citation-popover-snippet">Think About It Docs1966: The Tully Saucer Nest...</span></span></span>
+Pedley did not make an immediate media claim. He returned later in the day to the main township of **Tully** and reported the sighting to the local police at about **7:30 p.m.** that evening. The next morning, about **7 a.m. on 20 January**, **Sergeant A. V. Moylan** accompanied Pedley to the site. Moylan then contacted RAAF personnel at **Townsville** to request a formal sighting questionnaire and later collected samples of the flattened reeds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">the 1966 tully saucer nest</span><span class="citation-popover-snippet">Think About It Docs1966: The Tully Saucer Nest...</span></span></span>
 
-When pressed by the press in the days that followed, Pedley explained that he had *not* initially believed in flying saucers until that moment — a reflection he shared candidly with journalists: his experience had changed his view in a matter of minutes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">the 1966 tully saucer nest</span><span class="citation-popover-snippet">Think About It Docs1966: The Tully Saucer Nest...</span></span></span>
+When pressed by the press in the days that followed, Pedley explained that he had *not* initially believed in flying saucers until that moment — a reflection he shared candidly with journalists: his experience had changed his view in a matter of minutes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">the 1966 tully saucer nest</span><span class="citation-popover-snippet">Think About It Docs1966: The Tully Saucer Nest...</span></span></span>
 
 <img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-2-dark.svg" | relative_url }}" alt="Witness Account illustration 2" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Impact on Pedley and Local Community
 
-Pedley’s testimony and the trace evidence transformed what might have been a private sighting into a *regional spectacle*. Within days, local and international media had relayed the story of a daylight UFO sighting accompanied by a mysterious physical imprint — sometimes referred to as a “saucer nest.” Curious visitors and UFO enthusiasts descended on the area, walking through the farms and lagoon, photographing the site and discussing the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/cover-ups/the-tully-nest-affair" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">the tully nest affair</span><span class="citation-popover-snippet">UFO InsightThe Tully Nest Affair And The 1966 Wave Of UFO Sightings Across Australia - UFO InsightApril 26, 2022...</span><span class="citation-popover-meta">Published: April 26, 2022</span></span></span>
+Pedley’s testimony and the trace evidence transformed what might have been a private sighting into a *regional spectacle*. Within days, local and international media had relayed the story of a daylight UFO sighting accompanied by a mysterious physical imprint — sometimes referred to as a “saucer nest.” Curious visitors and UFO enthusiasts descended on the area, walking through the farms and lagoon, photographing the site and discussing the event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/cover-ups/the-tully-nest-affair" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">the tully nest affair</span><span class="citation-popover-snippet">UFO InsightThe Tully Nest Affair And The 1966 Wave Of UFO Sightings Across Australia - UFO InsightApril 26, 2022...</span><span class="citation-popover-meta">Published: April 26, 2022</span></span></span>
 
-For Pedley personally, the incident was a defining moment; he became closely associated with the event in both local memory and UFO literature. Friends and neighbours described him as a **hard‑working, practical farmer** whose account did not fit the stereotypical enthusiastic believer until the sighting itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">the 1966 tully saucer nest</span><span class="citation-popover-snippet">Think About It Docs1966: The Tully Saucer Nest...</span></span></span>
+For Pedley personally, the incident was a defining moment; he became closely associated with the event in both local memory and UFO literature. Friends and neighbours described him as a **hard‑working, practical farmer** whose account did not fit the stereotypical enthusiastic believer until the sighting itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">the 1966 tully saucer nest</span><span class="citation-popover-snippet">Think About It Docs1966: The Tully Saucer Nest...</span></span></span>
 
-The wider community’s reaction was mixed. Some locals accepted Pedley’s account without hesitation, while others suggested more mundane explanations such as whirlwinds, waterspouts, or natural reed disturbances. Nonetheless, Pedley’s consistent description — supported by documented reporting to authorities — kept the focus squarely on his experience as the primary eyewitness account at the heart of this incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">the 1966 tully saucer nest</span><span class="citation-popover-snippet">Think About It Docs1966: The Tully Saucer Nest...</span></span></span>
+The wider community’s reaction was mixed. Some locals accepted Pedley’s account without hesitation, while others suggested more mundane explanations such as whirlwinds, waterspouts, or natural reed disturbances. Nonetheless, Pedley’s consistent description — supported by documented reporting to authorities — kept the focus squarely on his experience as the primary eyewitness account at the heart of this incident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">the 1966 tully saucer nest</span><span class="citation-popover-snippet">Think About It Docs1966: The Tully Saucer Nest...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/s4TexE4dwos" title="Digging Up Unsolved UFO Mysteries | Close Encounters 109" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=s4TexE4dwos" target="_blank" rel="noopener noreferrer">Digging Up Unsolved UFO Mysteries | Close Encounters 109</a></p><p class="youtube-embed-meta">Channel: SpaceRip &middot; Views: 75.0K &middot; Uploaded: December 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=s4TexE4dwos" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=s4TexE4dwos">Open on YouTube</a></p></div></div></div>
 
@@ -280,199 +280,199 @@ The wider community’s reaction was mixed. Some locals accepted Pedley’s acco
 
 ## Lasting Significance of Pedley’s Testimony
 
-George Pedley’s eyewitness account remains the *foundation of the Tully “saucer nest” incident narrative*. Whether one views it as a genuine unexplained aerial encounter or a misinterpretation of natural phenomena, his description of the object, its movements, and the subsequent physical anomaly in the swamp make his report uniquely central among UFO sighting cases of the 1960s. Because his testimony was recorded contemporaneously with [physical trace]({{ 'physical-trace/' | relative_url }}) investigation and passed along official channels rather than only being shared in hindsight, Pedley’s experience continues to be referenced at the core of historical and sceptical analyses of the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">the 1966 tully saucer nest</span><span class="citation-popover-snippet">Think About It Docs1966: The Tully Saucer Nest...</span></span></span>
+George Pedley’s eyewitness account remains the *foundation of the Tully “saucer nest” incident narrative*. Whether one views it as a genuine unexplained aerial encounter or a misinterpretation of natural phenomena, his description of the object, its movements, and the subsequent physical anomaly in the swamp make his report uniquely central among UFO sighting cases of the 1960s. Because his testimony was recorded contemporaneously with [physical trace]({{ 'physical-trace/' | relative_url }}) investigation and passed along official channels rather than only being shared in hindsight, Pedley’s experience continues to be referenced at the core of historical and sceptical analyses of the event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">the 1966 tully saucer nest</span><span class="citation-popover-snippet">Think About It Docs1966: The Tully Saucer Nest...</span></span></span>
 
 <img src="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-3-dark.svg" | relative_url }}" alt="Witness Account illustration 3" data-theme-src-dark="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tully_saucer_nest_in_b9d0b0_george_pedley_accoun_05beb1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to George Pedley&#x27;s Tully UFO Sighting Explained. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to George Pedley&#x27;s Tully UFO Sighting Explained. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Provides necessary historical context on how military bureaus verified private witness reports versus archival documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides necessary historical context on how military bureaus verified private witness reports versus archival documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides objective profiles on famous witnesses and compares their reports against official police logs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides objective profiles on famous witnesses and compares their reports against official police logs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Details the investigative steps required to evaluate cases relying on a single primary eyewitness account.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details the investigative steps required to evaluate cases relying on a single primary eyewitness account.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Details why eyewitness testimony, even when sincere and consistent, requires independent corroboration for historical fact.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details why eyewitness testimony, even when sincere and consistent, requires independent corroboration for historical fact.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military UFO Landing Poster – Desert Base Encounter, Vintage Alien Art"><img src="{{ '/assets/images/marketplace-covers/2a9f29c0e44972812a8f.jpg' | relative_url }}" alt="Listing image for Military UFO Landing Poster – Desert Base Encounter, Vintage Alien Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" target="_blank" rel="sponsored noopener noreferrer">Military UFO Landing Poster – Desert Base Encounter, Vintage Alien Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo landing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo landing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military UFO Landing Poster – Desert Base Encounter, Vintage Alien Art"><img src="{{ '/assets/images/marketplace-covers/2a9f29c0e44972812a8f.jpg' | relative_url }}" alt="Listing image for Military UFO Landing Poster – Desert Base Encounter, Vintage Alien Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" target="_blank" rel="sponsored noopener noreferrer">Military UFO Landing Poster – Desert Base Encounter, Vintage Alien Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo landing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo landing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Crash Landing Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8554f33035241ff529d.jpg' | relative_url }}" alt="Listing image for UFO Crash Landing Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" target="_blank" rel="sponsored noopener noreferrer">UFO Crash Landing Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo landing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo landing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Crash Landing Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8554f33035241ff529d.jpg' | relative_url }}" alt="Listing image for UFO Crash Landing Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" target="_blank" rel="sponsored noopener noreferrer">UFO Crash Landing Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo landing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo landing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Landing in Desert Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/11bf148b0e2740369f0b.jpg' | relative_url }}" alt="Listing image for UFO Landing in Desert Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" target="_blank" rel="sponsored noopener noreferrer">UFO Landing in Desert Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo landing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo landing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Landing in Desert Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/11bf148b0e2740369f0b.jpg' | relative_url }}" alt="Listing image for UFO Landing in Desert Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" target="_blank" rel="sponsored noopener noreferrer">UFO Landing in Desert Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo landing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo landing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Midnight Visitors Poster – UFO Landing Farm Documentary Print"><img src="{{ '/assets/images/marketplace-covers/97c9bd63f39f44eeb336.jpg' | relative_url }}" alt="Listing image for Midnight Visitors Poster – UFO Landing Farm Documentary Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" target="_blank" rel="sponsored noopener noreferrer">Midnight Visitors Poster – UFO Landing Farm Documentary Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo landing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo landing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Midnight Visitors Poster – UFO Landing Farm Documentary Print"><img src="{{ '/assets/images/marketplace-covers/97c9bd63f39f44eeb336.jpg' | relative_url }}" alt="Listing image for Midnight Visitors Poster – UFO Landing Farm Documentary Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" target="_blank" rel="sponsored noopener noreferrer">Midnight Visitors Poster – UFO Landing Farm Documentary Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo landing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo landing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="witness-account-ac0adc-george-pedley-s-tully-ufo-sighting-explained-tully-saucer-nest-incident-1-ufo-landing-poster-book" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -488,7 +488,7 @@ George Pedley’s eyewitness account remains the *foundation of the Tully “sau
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -508,7 +508,7 @@ George Pedley’s eyewitness account remains the *foundation of the Tully “sau
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -540,7 +540,7 @@ George Pedley’s eyewitness account remains the *foundation of the Tully “sau
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -592,7 +592,7 @@ George Pedley’s eyewitness account remains the *foundation of the Tully “sau
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -637,7 +637,7 @@ George Pedley’s eyewitness account remains the *foundation of the Tully “sau
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -678,105 +678,105 @@ George Pedley’s eyewitness account remains the *foundation of the Tully “sau
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: thenightskyii.org  
    Title: The Night Sky IITully Flying Saucer Nest  
-   Link: <a href="https://www.thenightskyii.org/tully.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thenightskyii.org/tully.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 19, 1966...</p></details>
+   Link:<a href="https://www.thenightskyii.org/tully.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thenightskyii.org/tully.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 19, 1966...</p></details>
    Published: January 19, 1966  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: thinkaboutitdocs.com  
    Title: the 1966 tully saucer nest  
-   Link: <a href="https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Think About It Docs1966: The Tully Saucer Nest...</p></details>
+   Link:<a href="https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Think About It Docs1966: The Tully Saucer Nest...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufoinsight.com  
    Title: the tully nest affair  
-   Link: <a href="https://www.ufoinsight.com/ufos/cover-ups/the-tully-nest-affair" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/the-tully-nest-affair</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightThe Tully Nest Affair And The 1966 Wave Of UFO Sightings Across Australia - UFO InsightApril 26, 2022...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/cover-ups/the-tully-nest-affair" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/the-tully-nest-affair</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightThe Tully Nest Affair And The 1966 Wave Of UFO Sightings Across Australia - UFO InsightApril 26, 2022...</p></details>
    Published: April 26, 2022  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: uforq.org  
    Title: the tully saucer nest  
-   Link: <a href="https://uforq.org/the-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow">https://uforq.org/the-tully-saucer-nest/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1966 – UFO Research Queensland – AustraliaOctober 7, 2023 — Dedicated to all the witnesses who have experienced something unfathomable be...</p></details>
+   Link:<a href="https://uforq.org/the-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow">https://uforq.org/the-tully-saucer-nest/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1966 – UFO Research Queensland – AustraliaOctober 7, 2023 — Dedicated to all the witnesses who have experienced something unfathomable be...</p></details>
    Published: October 7, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufoencounters.co.uk  
    Title: The Tully Saucer Nest  
-   Link: <a href="https://www.ufoencounters.co.uk/the-tully-saucer-nest.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoencounters.co.uk/the-tully-saucer-nest.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 19, 2013 — THE TULLY SAUCER NEST By: Paul Geraghty - Updated: 19 Jul 2013 | Image: comments*Discuss Image: Tully Saucer Nest Tully U...</p></details>
+   Link:<a href="https://www.ufoencounters.co.uk/the-tully-saucer-nest.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoencounters.co.uk/the-tully-saucer-nest.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 19, 2013 — THE TULLY SAUCER NEST By: Paul Geraghty - Updated: 19 Jul 2013 | Image: comments*Discuss Image: Tully Saucer Nest Tully U...</p></details>
    Published: July 19, 2013  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: spookyvalley.com  
    Title: Tully Saucer Nest  
-   Link: <a href="https://spookyvalley.com/events/tully-saucer-nest-australia/" target="_blank" rel="noopener noreferrer nofollow">https://spookyvalley.com/events/tully-saucer-nest-australia/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Where it had been, he found a circular &#x27;nest&#x27;—reeds flattened in a spiral pattern. More ne...</p></details>
+   Link:<a href="https://spookyvalley.com/events/tully-saucer-nest-australia/" target="_blank" rel="noopener noreferrer nofollow">https://spookyvalley.com/events/tully-saucer-nest-australia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Where it had been, he found a circular &#x27;nest&#x27;—reeds flattened in a spiral pattern. More ne...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufocasebook.com  
-   Link: <a href="https://ufocasebook.com/tullysaucernest.html" target="_blank" rel="noopener noreferrer nofollow">https://ufocasebook.com/tullysaucernest.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tully Saucer Nest, UFO Casebook FilesImage: Tully Saucer Nest THE TULLY SAUCER NEST At 9:00 am on January 19, 1966, a calm sunny day...</p></details>
+   Link:<a href="https://ufocasebook.com/tullysaucernest.html" target="_blank" rel="noopener noreferrer nofollow">https://ufocasebook.com/tullysaucernest.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Tully Saucer Nest, UFO Casebook FilesImage: Tully Saucer Nest THE TULLY SAUCER NEST At 9:00 am on January 19, 1966, a calm sunny day...</p></details>
    Published: January 19, 1966  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2024-11-24/sugar-cane-farm-ufo-mystery-expanse-podcast-series-uncropped/104559256" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-11-24/sugar-cane-farm-ufo-mystery-expanse-podcast-series-uncropped/104559256</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tully&#x27;s cane farm crop circles and an enduring 58yo UFO mystery - ABC NewsNovember 24, 2024 — AN UNLIKELY PROTAGONIST George Pedley was a...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2024-11-24/sugar-cane-farm-ufo-mystery-expanse-podcast-series-uncropped/104559256" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-11-24/sugar-cane-farm-ufo-mystery-expanse-podcast-series-uncropped/104559256</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tully&#x27;s cane farm crop circles and an enduring 58yo UFO mystery - ABC NewsNovember 24, 2024 — AN UNLIKELY PROTAGONIST George Pedley was a...</p></details>
    Published: November 24, 2024  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: unidentifiedphenomena.com  
    Title: the [tully saucer nest incident 1966](&#123;&#123; 'tully-saucer-nest-incident-1966/' | relative_url &#125;&#125;)  
-   Link: <a href="https://unidentifiedphenomena.com/incidents/the-tully-saucer-nest-incident-1966/" target="_blank" rel="noopener noreferrer nofollow">https://unidentifiedphenomena.com/incidents/the-tully-saucer-nest-incident-1966/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tully Saucer Nest Incident (1966) – Unidentified PhenomenaFebruary 14, 2023 — Unidentified Phenomena My UFO and Alien Abduction True...</p></details>
+   Link:<a href="https://unidentifiedphenomena.com/incidents/the-tully-saucer-nest-incident-1966/" target="_blank" rel="noopener noreferrer nofollow">https://unidentifiedphenomena.com/incidents/the-tully-saucer-nest-incident-1966/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Tully Saucer Nest Incident (1966) – Unidentified PhenomenaFebruary 14, 2023 — Unidentified Phenomena My UFO and Alien Abduction True...</p></details>
    Published: February 14, 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: stronghold-nation.com  
    Title: Local Cane Farmer George Pedly  
-   Link: <a href="https://www.stronghold-nation.com/history/myth/the-tully-nest" target="_blank" rel="noopener noreferrer nofollow">https://www.stronghold-nation.com/history/myth/the-tully-nest</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tully &#x27;&#x27;Nest&#x27; | Extraterrestrial Abductions and Evidence | Stronghold NationTHE TULLY &#x27;&#x27;NEST&#x27; * Extraterrestrial Abductions and Evide...</p></details>
+   Link:<a href="https://www.stronghold-nation.com/history/myth/the-tully-nest" target="_blank" rel="noopener noreferrer nofollow">https://www.stronghold-nation.com/history/myth/the-tully-nest</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Tully &#x27;&#x27;Nest&#x27; | Extraterrestrial Abductions and Evidence | Stronghold NationTHE TULLY &#x27;&#x27;NEST&#x27; * Extraterrestrial Abductions and Evide...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: xufos.com  
    Title: tully flying saucer nests 1966  
-   Link: <a href="https://xufos.com/tully-flying-saucer-nests-1966.php" target="_blank" rel="noopener noreferrer nofollow">https://xufos.com/tully-flying-saucer-nests-1966.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tully “Flying Saucer Nests”: Australia’s Classic Physical Trace Case 1996 – XUFOSTHE TULLY “FLYING SAUCER NESTS”: AUSTRALIA’S CLASSIC...</p></details>
+   Link:<a href="https://xufos.com/tully-flying-saucer-nests-1966.php" target="_blank" rel="noopener noreferrer nofollow">https://xufos.com/tully-flying-saucer-nests-1966.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Tully “Flying Saucer Nests”: Australia’s Classic Physical Trace Case 1996 – XUFOSTHE TULLY “FLYING SAUCER NESTS”: AUSTRALIA’S CLASSIC...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lionsberg.wiki  
    Title: the tully saucer nest (1966)  
-   Link: <a href="https://lionsberg.wiki/lionsberg_wiki_books/the_cosmic_chronicles/the_tully_saucer_nest_%281966%29" target="_blank" rel="noopener noreferrer nofollow">https://lionsberg.wiki/lionsberg_wiki_books/the_cosmic_chronicles/the_tully_saucer_nest_%281966%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LIØNSBERG WikiTHE TULLY SAUCER NEST (1966) Summary: The Tully Saucer Nest is a renowned UFO case that occurred in Horseshoe Lagoon near T...</p></details>
+   Link:<a href="https://lionsberg.wiki/lionsberg_wiki_books/the_cosmic_chronicles/the_tully_saucer_nest_%281966%29" target="_blank" rel="noopener noreferrer nofollow">https://lionsberg.wiki/lionsberg_wiki_books/the_cosmic_chronicles/the_tully_saucer_nest_%281966%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LIØNSBERG WikiTHE TULLY SAUCER NEST (1966) Summary: The Tully Saucer Nest is a renowned UFO case that occurred in Horseshoe Lagoon near T...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Global crop circle phenomenon inspired by UFO mystery in Far North Queensland?  
-   Link: <a href="https://www.youtube.com/watch?v=0YvaAlgokSs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0YvaAlgokSs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Floating Circular Formation: Atmospheric or Extraterrestrial? | Close Encounter 109...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0YvaAlgokSs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0YvaAlgokSs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Floating Circular Formation: Atmospheric or Extraterrestrial? | Close Encounter 109...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: strangestrangestrange.com  
    Title: To date, the case remains  
-   Link: <a href="https://strangestrangestrange.com/paranormal/ufo/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow">https://strangestrangestrange.com/paranormal/ufo/the-1966-tully-saucer-nest/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1966 Tully Saucer Nest - Strange Strange StrangeMay 26, 2023 — STRANGE STRANGE STRANGE THE 1966 TULLY SAUCER NEST UFO THE 1966 TULLY...</p></details>
+   Link:<a href="https://strangestrangestrange.com/paranormal/ufo/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow">https://strangestrangestrange.com/paranormal/ufo/the-1966-tully-saucer-nest/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1966 Tully Saucer Nest - Strange Strange StrangeMay 26, 2023 — STRANGE STRANGE STRANGE THE 1966 TULLY SAUCER NEST UFO THE 1966 TULLY...</p></details>
    Published: May 26, 2023  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=a7SfB3zIQKQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a7SfB3zIQKQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digging Up Unsolved UFO Mysteries | Close Encounters 109...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=a7SfB3zIQKQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a7SfB3zIQKQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digging Up Unsolved UFO Mysteries | Close Encounters 109...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: The Westall Encounter: Australia's Most Profound UFO Sighting  
-   Link: <a href="https://www.youtube.com/watch?v=8yxg5BCdAHQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8yxg5BCdAHQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Schoolyard witnesses in mass UFO sighting demand answers | Australian Story...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8yxg5BCdAHQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8yxg5BCdAHQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Schoolyard witnesses in mass UFO sighting demand answers | Australian Story...</p></details>

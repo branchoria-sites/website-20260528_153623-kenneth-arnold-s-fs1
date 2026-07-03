@@ -758,35 +758,35 @@ image: /assets/images/Great_Falls_Montana_171d9e-overview-social.jpg
 
 ## What happened at Legion Stadium?
 
-Mariana and his 19-year-old secretary, Virginia Raunig, were at the Great Falls baseball ground before a game when Mariana noticed a bright flash in the sky. Accounts describe him running to his car, retrieving a 16 mm colour movie camera, and filming two bright objects for roughly 16 seconds as they moved across the sky, reportedly passing behind a water tower before fading or disappearing from view. Later retellings commonly place the event at about 11:25–11:30 am on 15 August 1950, though the exact minute varies across secondary accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.distinctlymontana.com/when-ufos-first-came-great-falls" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: distinctlymontana.com">[distinctlymontana.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">distinctlymontana.com</span><span class="citation-popover-title">When UFOs First Came to Great Falls</span><span class="citation-popover-snippet">When UFOs First Came to Great Falls</span></span></span>
+Mariana and his 19-year-old secretary, Virginia Raunig, were at the Great Falls baseball ground before a game when Mariana noticed a bright flash in the sky. Accounts describe him running to his car, retrieving a 16 mm colour movie camera, and filming two bright objects for roughly 16 seconds as they moved across the sky, reportedly passing behind a water tower before fading or disappearing from view. Later retellings commonly place the event at about 11:25–11:30 am on 15 August 1950, though the exact minute varies across secondary accounts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.distinctlymontana.com/when-ufos-first-came-great-falls" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: distinctlymontana.com">[distinctlymontana.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">distinctlymontana.com</span><span class="citation-popover-title">When UFOs First Came to Great Falls</span><span class="citation-popover-snippet">When UFOs First Came to Great Falls</span></span></span>
 
 <img src="{{ "/assets/images/Great_Falls_Montana_171d9e-overview.webp" | relative_url }}" alt="Overview image for Great Falls Montana film 1950" loading="eager" decoding="sync" fetchpriority="high">
-The most important feature of the case is that the film did not show a close, detailed craft. It showed two bright images moving in steady relation to each other. The Condon Report’s Case 47 summary says the two images stood out because of their intensity, sharpness, and constant relative orientation, moving smoothly across the sky and behind the water tower. By the end of the film, the lights were no longer visible. That made the evidence better than a lone anecdote, but still technically limited: distance, size, and shape could not be read directly from the film. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
+The most important feature of the case is that the film did not show a close, detailed craft. It showed two bright images moving in steady relation to each other. The Condon Report’s Case 47 summary says the two images stood out because of their intensity, sharpness, and constant relative orientation, moving smoothly across the sky and behind the water tower. By the end of the film, the lights were no longer visible. That made the evidence better than a lone anecdote, but still technically limited: distance, size, and shape could not be read directly from the film.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
 
-Mariana’s own interpretation was more specific. He said the objects appeared bright, metallic, disc-like, and rotating; he estimated a substantial size and separation, though such estimates are inherently fragile when the distance to an object is unknown. The case therefore begins with a tension that runs through its entire history: the [witnesses]({{ 'witnesses-83ba0c/' | relative_url }}) described apparent structured objects, while the surviving film mainly preserves bright moving images whose physical nature is hard to determine. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
+Mariana’s own interpretation was more specific. He said the objects appeared bright, metallic, disc-like, and rotating; he estimated a substantial size and separation, though such estimates are inherently fragile when the distance to an object is unknown. The case therefore begins with a tension that runs through its entire history: the [witnesses]({{ 'witnesses-83ba0c/' | relative_url }}) described apparent structured objects, while the surviving film mainly preserves bright moving images whose physical nature is hard to determine.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
 
 ## Why the footage became a serious UFO case
 
-The film entered a wider Cold War UFO environment in which the United States Air Force was already collecting and assessing sightings. The National Archives notes that Project Blue Book records were eventually transferred to archival custody, that the programme ran until 1969, and that its case files are arranged chronologically by sighting; the same National Archives page states that Project Blue Book recorded 12,618 sightings, of which 701 remained “Unidentified”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National Archives...</span></span></span>
+The film entered a wider Cold War UFO environment in which the United States Air Force was already collecting and assessing sightings. The National Archives notes that Project Blue Book records were eventually transferred to archival custody, that the programme ran until 1969, and that its case files are arranged chronologically by sighting; the same National Archives page states that Project Blue Book recorded 12,618 sightings, of which 701 remained “Unidentified”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National Archives...</span></span></span>
 
-Great Falls was important because it supplied a physical record at a time when many UFO reports were purely verbal. The local story also travelled beyond the town. The Great Falls History Museum notes that copies of Mariana’s film are held with Project Blue Book material in the U.S. National Archives, and local coverage still treats the Mariana event as a central part of the city’s UFO lore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greatfallshistorymuseum.org">[The History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greatfallshistorymuseum.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Great Falls was important because it supplied a physical record at a time when many UFO reports were purely verbal. The local story also travelled beyond the town. The Great Falls History Museum notes that copies of Mariana’s film are held with Project Blue Book material in the U.S. National Archives, and local coverage still treats the Mariana event as a central part of the city’s UFO lore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greatfallshistorymuseum.org">[The History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greatfallshistorymuseum.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That status should not be overstated. “Film evidence” sounds decisive, but a short daylight film of bright points is not automatically self-explanatory. Investigators still had to ask: Were the images resolved objects or unresolved reflections? Were they birds, balloons, meteors, aircraft, or camera artefacts? Did the camera pan alter the apparent shape? Were the witnesses’ post-event recollections consistent? The Great Falls film became a serious case precisely because it sat between ordinary anecdote and conclusive instrument record.
 
 <img src="{{ "/assets/images/Great_Falls_Montana_171d9e-Illustration-1-dark.svg" | relative_url }}" alt="Great Falls Montana film 1950 illustration 1" data-theme-src-dark="{{ "/assets/images/Great_Falls_Montana_171d9e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Great_Falls_Montana_171d9e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Air Force explanation: aircraft reflections
 
-The first major official explanation was that the objects were sunlight reflections from two F-94 jet fighters known to have been in the area. The Condon Report’s case summary quotes Edward J. Ruppelt, later head of Project Blue Book, as saying that in 1950 Project Grudge gave the film a quick viewing and wrote the objects off as reflections from two F-94s. The same Condon discussion records that the initial Air Force response to Mariana said photo analysts could not find anything identifiable of an unusual nature, a carefully worded negative finding rather than a dramatic debunking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
+The first major official explanation was that the objects were sunlight reflections from two F-94 jet fighters known to have been in the area. The Condon Report’s case summary quotes Edward J. Ruppelt, later head of Project Blue Book, as saying that in 1950 Project Grudge gave the film a quick viewing and wrote the objects off as reflections from two F-94s. The same Condon discussion records that the initial Air Force response to Mariana said photo analysts could not find anything identifiable of an unusual nature, a carefully worded negative finding rather than a dramatic debunking.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
 
-The aircraft-reflection hypothesis has obvious strengths. There were jets in the vicinity; the objects looked like bright lights rather than detailed craft in the surviving footage; and sunlight glints from aircraft can be surprisingly intense. The CIA-linked Robertson Panel, convened in January 1953 to review UFO cases, also treated Great Falls in that direction, stating that the objects were probably aircraft and that the bright lights were reflections. The panel further said the Great Falls objects were strongly suspected of being reflections of aircraft known to have been in the area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault DocumentsREPORT OF MEETING OF SCIENTIFIC ADVISORY PANEL ON UNIDENTIFIED FLYING OBJECTS COVERED BY OFFICE OF SCIENTIFIC IN...</span></span></span>
+The aircraft-reflection hypothesis has obvious strengths. There were jets in the vicinity; the objects looked like bright lights rather than detailed craft in the surviving footage; and sunlight glints from aircraft can be surprisingly intense. The CIA-linked Robertson Panel, convened in January 1953 to review UFO cases, also treated Great Falls in that direction, stating that the objects were probably aircraft and that the bright lights were reflections. The panel further said the Great Falls objects were strongly suspected of being reflections of aircraft known to have been in the area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault DocumentsREPORT OF MEETING OF SCIENTIFIC ADVISORY PANEL ON UNIDENTIFIED FLYING OBJECTS COVERED BY OFFICE OF SCIENTIFIC IN...</span></span></span>
 
-Yet this explanation was not universally accepted even within later official or semi-official analysis. The Condon Report’s Great Falls case review states that the 1952 Air Technical Intelligence Center investigation “quickly confirmed” the objects were not birds, balloons, or meteors, and that aircraft remained the principal working hypothesis rather than a fully demonstrated solution. In other words, the best mundane explanation was plausible, but not proven beyond dispute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
+Yet this explanation was not universally accepted even within later official or semi-official analysis. The Condon Report’s Great Falls case review states that the 1952 Air Technical Intelligence Center investigation “quickly confirmed” the objects were not birds, balloons, or meteors, and that aircraft remained the principal working hypothesis rather than a fully demonstrated solution. In other words, the best mundane explanation was plausible, but not proven beyond dispute.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
 
 ## The missing-frames dispute
 
-The most persistent controversy concerns Mariana’s claim that the beginning of the film was altered while in Air Force custody. According to the Condon Report summary, Mariana alleged that about 30 frames preceding the surviving footage were missing when the film was returned. He claimed those early frames showed larger images with a notch or band on the objects’ edges, making rotation more visible. If true, that would matter because the missing section would allegedly contain the clearest evidence of shape. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
+The most persistent controversy concerns Mariana’s claim that the beginning of the film was altered while in Air Force custody. According to the Condon Report summary, Mariana alleged that about 30 frames preceding the surviving footage were missing when the film was returned. He claimed those early frames showed larger images with a notch or band on the objects’ edges, making rotation more visible. If true, that would matter because the missing section would allegedly contain the clearest evidence of shape.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
 
-The difficulty is that the claim rests on contested memory and incomplete provenance. The Condon case discussion says some people who reportedly saw the film before it went to the Air Force agreed that not all of it was returned, while others who were said to have seen it denied seeing the film at all. Roy Craig, investigating for the University of Colorado project in 1967, also reported that Mariana could not locate a letter he said admitted deletion of some film. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
+The difficulty is that the claim rests on contested memory and incomplete provenance. The Condon case discussion says some people who reportedly saw the film before it went to the Air Force agreed that not all of it was returned, while others who were said to have seen it denied seeing the film at all. Roy Craig, investigating for the University of Colorado project in 1967, also reported that Mariana could not locate a letter he said admitted deletion of some film.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
 
 This is why the missing-frames issue is important but not decisive. It raises a legitimate chain-of-custody problem: the strongest alleged frames are not available for modern inspection. But it also creates a classic evidential trap: the unavailable material is repeatedly described as more revealing than the surviving material, while the documentary basis for that claim remains weak. A fair reading is that the alleged [missing frames]({{ 'missing-frames/' | relative_url }}) reduce confidence in the film’s evidential completeness, but they do not by themselves establish what the objects were.
 
@@ -794,35 +794,35 @@ This is why the missing-frames issue is important but not decisive. It raises a 
 
 ## What later technical analysis found
 
-The most substantial public technical discussion appears in the University of Colorado’s Condon Report, which treated the Great Falls film as Case 47. That analysis describes the surviving film as showing two bright elliptical images with constant relative orientation and a smooth path. It also notes that the first 10 to 20 extant frames show the objects at their brightest and largest, which is why the dispute over any earlier missing frames became so consequential. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
+The most substantial public technical discussion appears in the University of Colorado’s Condon Report, which treated the Great Falls film as Case 47. That analysis describes the surviving film as showing two bright elliptical images with constant relative orientation and a smooth path. It also notes that the first 10 to 20 extant frames show the objects at their brightest and largest, which is why the dispute over any earlier missing frames became so consequential.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
 
-The Condon analysis did not simply endorse the simplest debunking. It considered and weighed alternatives. It argued that, if the 15 August date was correct, balloons or airborne debris were unlikely because the objects were moving into the wind. It found birds unlikely because of the path, steadiness, and lack of flapping-like variation. It rejected meteors because the angular motion was too slow, the duration was too long, and there was no trail, explosion, fragmentation, or wider regional report consistent with a meteor event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
+The Condon analysis did not simply endorse the simplest debunking. It considered and weighed alternatives. It argued that, if the 15 August date was correct, balloons or airborne debris were unlikely because the objects were moving into the wind. It found birds unlikely because of the path, steadiness, and lack of flapping-like variation. It rejected meteors because the angular motion was too slow, the duration was too long, and there was no trail, explosion, fragmentation, or wider regional report consistent with a meteor event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
 
-Aircraft remained the main working hypothesis, but the report’s wording is notably cautious. It says the data indicate that while it “strains credibility” to suppose the objects were aeroplanes, the possibility could not be entirely ruled out. It also identifies arguments against simple aircraft reflections, including the difficulty of two aircraft maintaining such constant reflections over the filmed interval and the visual observation interval reported by Mariana. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
+Aircraft remained the main working hypothesis, but the report’s wording is notably cautious. It says the data indicate that while it “strains credibility” to suppose the objects were aeroplanes, the possibility could not be entirely ruled out. It also identifies arguments against simple aircraft reflections, including the difficulty of two aircraft maintaining such constant reflections over the filmed interval and the visual observation interval reported by Mariana.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
 
 That is the most balanced technical takeaway: the film was not strong enough to prove an extraordinary object, but it was also not cleanly explained by the leading mundane hypothesis. The result is an unresolved case in a limited investigative sense, not a demonstrated case for extraterrestrial vehicles.
 
 <img src="{{ "/assets/images/Great_Falls_Montana_171d9e-Illustration-2-dark.svg" | relative_url }}" alt="Great Falls Montana film 1950 illustration 2" data-theme-src-dark="{{ "/assets/images/Great_Falls_Montana_171d9e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Great_Falls_Montana_171d9e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How credible were the witnesses?
 
-Mariana was not treated by investigators as an obvious hoaxer. The Condon Report records that the Air Force interrogator regarded him as reliable, trustworthy, honest, and respected in the community. It also records that Raunig impressed the Air Force interrogator as fairly reliable and of sound judgement. Those assessments matter because they push against a simple fraud explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
+Mariana was not treated by investigators as an obvious hoaxer. The Condon Report records that the Air Force interrogator regarded him as reliable, trustworthy, honest, and respected in the community. It also records that Raunig impressed the Air Force interrogator as fairly reliable and of sound judgement. Those assessments matter because they push against a simple fraud explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
 
-Credibility, however, is not the same as accuracy. Witnesses can be honest and still misjudge distance, size, speed, altitude, or shape, especially when viewing bright objects in the sky. The case also contains a tension in witness detail: later review found that Raunig remembered seeing one object rather than two, while the film clearly contains two bright images. That discrepancy does not destroy the case, but it reminds readers that the film is stronger evidence than the later memory of fine visual details. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
+Credibility, however, is not the same as accuracy. Witnesses can be honest and still misjudge distance, size, speed, altitude, or shape, especially when viewing bright objects in the sky. The case also contains a tension in witness detail: later review found that Raunig remembered seeing one object rather than two, while the film clearly contains two bright images. That discrepancy does not destroy the case, but it reminds readers that the film is stronger evidence than the later memory of fine visual details.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
 
 Mariana’s public role also complicates interpretation. He was a baseball manager and radio sports commentator, and local accounts portray the film as quickly becoming a community sensation. A witness can be both sincere and publicity-aware. The fairest conclusion is that the case does not depend on proving Mariana dishonest; it depends on whether the film and surrounding records can support his interpretation. They do so only partially.
 
 ## What sceptics and supporters each get right
 
-Supporters of the case are right that the Great Falls film was not a casual rumour. It had two named witnesses, motion-picture footage, local documentation, official investigation, later technical analysis, and a known chain of discussion through Air Force and scientific-review channels. It is also true that several simple explanations — birds, balloons, debris, meteors — were treated as weak by later analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
+Supporters of the case are right that the Great Falls film was not a casual rumour. It had two named witnesses, motion-picture footage, local documentation, official investigation, later technical analysis, and a known chain of discussion through Air Force and scientific-review channels. It is also true that several simple explanations — birds, balloons, debris, meteors — were treated as weak by later analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
 
-Sceptics are right that the surviving film does not show detailed craft. It shows bright, small images whose true distance and physical size are unknown. The aircraft-reflection hypothesis has never been eliminated in a way that would satisfy a cautious investigator, especially given known jet activity in the area and the Robertson Panel’s judgement that reflections from aircraft were probable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault DocumentsREPORT OF MEETING OF SCIENTIFIC ADVISORY PANEL ON UNIDENTIFIED FLYING OBJECTS COVERED BY OFFICE OF SCIENTIFIC IN...</span></span></span>
+Sceptics are right that the surviving film does not show detailed craft. It shows bright, small images whose true distance and physical size are unknown. The aircraft-reflection hypothesis has never been eliminated in a way that would satisfy a cautious investigator, especially given known jet activity in the area and the Robertson Panel’s judgement that reflections from aircraft were probable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault DocumentsREPORT OF MEETING OF SCIENTIFIC ADVISORY PANEL ON UNIDENTIFIED FLYING OBJECTS COVERED BY OFFICE OF SCIENTIFIC IN...</span></span></span>
 
 The most defensible middle position is that the Great Falls film remains historically important and technically ambiguous. It is not good evidence for any specific extraordinary origin. It is, however, a useful example of why early UFO cases could resist easy closure: a short film may rule out some explanations while still lacking the information needed to identify the object positively.
 
 <img src="{{ "/assets/images/Great_Falls_Montana_171d9e-Illustration-3-dark.svg" | relative_url }}" alt="Great Falls Montana film 1950 illustration 3" data-theme-src-dark="{{ "/assets/images/Great_Falls_Montana_171d9e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Great_Falls_Montana_171d9e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Great Falls still remembers the case
 
-The Mariana film became part of Great Falls’ local identity, not merely a footnote in national UFO history. Local reporting in 2026 still described the Mariana event as perhaps the city’s most famous UFO story, and quoted a History Museum curator saying that UFO stories have become part of community lore. The Great Falls History Museum also notes that the city’s minor-league baseball team was renamed the Great Falls Voyagers in 2008, explicitly drawing on the Mariana incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: krtv.com">[KRTV NEWS Great Falls]</a><span class="citation-popover" role="note"><span class="citation-popover-source">krtv.com</span><span class="citation-popover-snippet">KRTV NEWS Great FallsGreat Falls’ UFO legacy in focus amid Pentagon document release...</span></span></span>
+The Mariana film became part of Great Falls’ local identity, not merely a footnote in national UFO history. Local reporting in 2026 still described the Mariana event as perhaps the city’s most famous UFO story, and quoted a History Museum curator saying that UFO stories have become part of community lore. The Great Falls History Museum also notes that the city’s minor-league baseball team was renamed the Great Falls Voyagers in 2008, explicitly drawing on the Mariana incident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: krtv.com">[KRTV NEWS Great Falls]</a><span class="citation-popover" role="note"><span class="citation-popover-source">krtv.com</span><span class="citation-popover-snippet">KRTV NEWS Great FallsGreat Falls’ UFO legacy in focus amid Pentagon document release...</span></span></span>
 
 That afterlife matters because it shows how UFO cases function beyond the question of identification. The film became an archival object, a local legend, a sports-team identity, and a recurring reference point whenever new government UFO or UAP disclosures revive public interest. It also links naturally to sibling case studies in the same dossier: early photographic UFO evidence, Project Blue Book investigations, the Robertson Panel, and the later Condon Report debates over whether “unidentified” meant merely unsolved or scientifically significant.
 
@@ -835,194 +835,194 @@ The case therefore should not be presented as solved proof of extraordinary craf
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DJ2vKHj8rVM" title="The Montana Film: The First Recorded UFO Sighting in the US" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DJ2vKHj8rVM" target="_blank" rel="noopener noreferrer">The Montana Film: The First Recorded UFO Sighting in the US</a></p><p class="youtube-embed-meta">Channel: Montana Historical Society &middot; Views: 3.5K &middot; Uploaded: February 2025 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DJ2vKHj8rVM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DJ2vKHj8rVM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did the Great Falls Film Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did the Great Falls Film Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Presents an objective file entry on the 1950 Great Falls/Mariana film, detailing the technical analysis history and the objects&#x27; apparent...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Presents an objective file entry on the 1950 Great Falls/Mariana film, detailing the technical analysis history and the objects&#x27; apparent...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Reviews how early military intelligence analysts scrutinized the Mariana film and why it became an early standard for UFO debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reviews how early military intelligence analysts scrutinized the Mariana film and why it became an early standard for UFO debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches the methodology used to audit photographic and film evidence, explaining common sources of optical artifacts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches the methodology used to audit photographic and film evidence, explaining common sources of optical artifacts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Documents how institutions balanced photographic analysis against pilot reports during the early flying saucer era.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents how institutions balanced photographic analysis against pilot reports during the early flying saucer era.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/12f46aa57a03b419cd19.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/12f46aa57a03b419cd19.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Antonia Ellis 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/2847c8ac5f521e77be42.jpg' | relative_url }}" alt="Listing image for UFO (TV) Antonia Ellis 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Antonia Ellis 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Antonia Ellis 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/2847c8ac5f521e77be42.jpg' | relative_url }}" alt="Listing image for UFO (TV) Antonia Ellis 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Antonia Ellis 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/a5f58c820be9e212e78d.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/a5f58c820be9e212e78d.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Vehicle Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/515424d9b9f1d48ff309.jpg' | relative_url }}" alt="Listing image for UFO (TV) Vehicle Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Vehicle Scene 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Vehicle Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/515424d9b9f1d48ff309.jpg' | relative_url }}" alt="Listing image for UFO (TV) Vehicle Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Vehicle Scene 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1038,7 +1038,7 @@ The case therefore should not be presented as solved proof of extraordinary craf
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1058,7 +1058,7 @@ The case therefore should not be presented as solved proof of extraordinary craf
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1090,7 +1090,7 @@ The case therefore should not be presented as solved proof of extraordinary craf
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1142,7 +1142,7 @@ The case therefore should not be presented as solved proof of extraordinary craf
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1187,7 +1187,7 @@ The case therefore should not be presented as solved proof of extraordinary craf
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1228,106 +1228,106 @@ The case therefore should not be presented as solved proof of extraordinary craf
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: files.ncas.org  
-   Link: <a href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case47.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Case 47: Great Falls Movie Film...</p></details>
+   Link:<a href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case47.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Case 47: Great Falls Movie Film...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National Archives...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National Archives...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: distinctlymontana.com  
    Title: When UFOs First Came to Great Falls  
-   Link: <a href="https://www.distinctlymontana.com/when-ufos-first-came-great-falls" target="_blank" rel="noopener noreferrer nofollow">https://www.distinctlymontana.com/when-ufos-first-came-great-falls</a>  
+   Link:<a href="https://www.distinctlymontana.com/when-ufos-first-came-great-falls" target="_blank" rel="noopener noreferrer nofollow">https://www.distinctlymontana.com/when-ufos-first-came-great-falls</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: krtv.com  
-   Link: <a href="https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release" target="_blank" rel="noopener noreferrer nofollow">https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KRTV NEWS Great FallsGreat Falls’ UFO legacy in focus amid Pentagon document release...</p></details>
+   Link:<a href="https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release" target="_blank" rel="noopener noreferrer nofollow">https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KRTV NEWS Great FallsGreat Falls’ UFO legacy in focus amid Pentagon document release...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cia.gov  
    Title: cia rdp81r00560r000100010001 0  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010012-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010012-8.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010012-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010012-8.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault DocumentsREPORT OF MEETING OF SCIENTIFIC ADVISORY PANEL ON UNIDENTIFIED FLYING OBJECTS COVERED BY OFFICE OF SCIENTIFIC IN...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault DocumentsREPORT OF MEETING OF SCIENTIFIC ADVISORY PANEL ON UNIDENTIFIED FLYING OBJECTS COVERED BY OFFICE OF SCIENTIFIC IN...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: greatfallshistorymuseum.org  
-   Link: <a href="https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers" target="_blank" rel="noopener noreferrer nofollow">https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers</a>  
+   Link:<a href="https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers" target="_blank" rel="noopener noreferrer nofollow">https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Mariana UFO film  
-   Link: <a href="https://en.wikipedia.org/wiki/Mariana_UFO_film" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mariana_UFO_film</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mariana_UFO_film" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mariana_UFO_film</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: news.sportslogos.net  
-   Link: <a href="https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/" target="_blank" rel="noopener noreferrer nofollow">https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/</a>  
+   Link:<a href="https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/" target="_blank" rel="noopener noreferrer nofollow">https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: mhs-mt.libcal.com  
-   Link: <a href="https://mhs-mt.libcal.com/event/14003735?hs=a" target="_blank" rel="noopener noreferrer nofollow">https://mhs-mt.libcal.com/event/14003735?hs=a</a>  
+   Link:<a href="https://mhs-mt.libcal.com/event/14003735?hs=a" target="_blank" rel="noopener noreferrer nofollow">https://mhs-mt.libcal.com/event/14003735?hs=a</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/mariana.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/mariana.htm</a>  
+   Link:<a href="https://www.nicap.org/mariana.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/mariana.htm</a>  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Great Falls UFO Documentary Segment  
-   Link: <a href="https://www.youtube.com/watch?v=vV7-K0JpD0E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vV7-K0JpD0E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos provide historical context, analysis of the 16mm footage, and witness testimony related to the 1950 Mariana UFO incident in...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vV7-K0JpD0E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vV7-K0JpD0E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These videos provide historical context, analysis of the 16mm footage, and witness testimony related to the 1950 Mariana UFO incident in...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/338058495/520702newhouse-1968-Baker" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/338058495/520702newhouse-1968-Baker</a>  
+   Link:<a href="https://www.scribd.com/document/338058495/520702newhouse-1968-Baker" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/338058495/520702newhouse-1968-Baker</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1advase/astronomers_donald_menzel_coverup_of_ufos_and_new/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1advase/astronomers_donald_menzel_coverup_of_ufos_and_new/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1advase/astronomers_donald_menzel_coverup_of_ufos_and_new/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1advase/astronomers_donald_menzel_coverup_of_ufos_and_new/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1qbblnu/how_donald_menzel_turned_counterintelligence_into/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1qbblnu/how_donald_menzel_turned_counterintelligence_into/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1qbblnu/how_donald_menzel_turned_counterintelligence_into/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1qbblnu/how_donald_menzel_turned_counterintelligence_into/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MontanaHistoricalSociety/posts/many-folks-may-have-forgotten-or-never-knew-that-the-first-ever-captured-video-f/846846284148500/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MontanaHistoricalSociety/posts/many-folks-may-have-forgotten-or-never-knew-that-the-first-ever-captured-video-f/846846284148500/</a>  
+   Link:<a href="https://www.facebook.com/MontanaHistoricalSociety/posts/many-folks-may-have-forgotten-or-never-knew-that-the-first-ever-captured-video-f/846846284148500/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MontanaHistoricalSociety/posts/many-folks-may-have-forgotten-or-never-knew-that-the-first-ever-captured-video-f/846846284148500/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/793429382786885/posts/1550258523770630/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/793429382786885/posts/1550258523770630/</a>  
+   Link:<a href="https://www.facebook.com/groups/793429382786885/posts/1550258523770630/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/793429382786885/posts/1550258523770630/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: jasoncolavito.com  
-   Link: <a href="https://www.jasoncolavito.com/report-on-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/report-on-ufos.html</a>  
+   Link:<a href="https://www.jasoncolavito.com/report-on-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/report-on-ufos.html</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: avalonlibrary.net  
-   Link: <a href="https://avalonlibrary.net/David_M_Jacobs/Jacobs%2C%20David%20M%20-%201973%20PhD%20-%20The%20Controversy%20Over%20Unidentified%20Flying%20Objects%20in%20America.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/David_M_Jacobs/Jacobs%2C%20David%20M%20-%201973%20PhD%20-%20The%20Controversy%20Over%20Unidentified%20Flying%20Objects%20in%20America.pdf</a>  
+   Link:<a href="https://avalonlibrary.net/David_M_Jacobs/Jacobs%2C%20David%20M%20-%201973%20PhD%20-%20The%20Controversy%20Over%20Unidentified%20Flying%20Objects%20in%20America.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/David_M_Jacobs/Jacobs%2C%20David%20M%20-%201973%20PhD%20-%20The%20Controversy%20Over%20Unidentified%20Flying%20Objects%20in%20America.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheWeeklyBust/posts/the-great-falls-ufo-incident-is-one-of-the-earliest-and-most-important-cases-in-/1394362986033742/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWeeklyBust/posts/the-great-falls-ufo-incident-is-one-of-the-earliest-and-most-important-cases-in-/1394362986033742/</a>  
+   Link:<a href="https://www.facebook.com/TheWeeklyBust/posts/the-great-falls-ufo-incident-is-one-of-the-earliest-and-most-important-cases-in-/1394362986033742/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWeeklyBust/posts/the-great-falls-ufo-incident-is-one-of-the-earliest-and-most-important-cases-in-/1394362986033742/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2023/12/the-movie-review-they-dont-want-you-to-read/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2023/12/the-movie-review-they-dont-want-you-to-read/</a>
+   Link:<a href="https://skepticalinquirer.org/2023/12/the-movie-review-they-dont-want-you-to-read/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2023/12/the-movie-review-they-dont-want-you-to-read/</a>

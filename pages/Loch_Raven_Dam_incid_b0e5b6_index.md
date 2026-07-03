@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /loch-raven-dam-incid-b0e5b6-index/
 description: Focused pages that expand on Loch Raven Dam incident 1958.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Loch_Raven_Dam_incid_b0e5b6
 parent_title: Loch Raven Dam incident 1958
@@ -16,7 +16,7 @@ parent_permalink: /loch-raven-dam-incident-1958/
 
 # Explore Topics in Loch Raven Dam incident 1958
 
-The following pages expand on the main **[Loch Raven Dam incident 1958]({{ '/loch-raven-dam-incident-1958/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Loch Raven Dam incident 1958]({{ '/loch-raven-dam-incident-1958/' | relative_url }})** page and cover its key branches in.
 
 - [Project Blue Book]({{ '/project-blue-book/' | relative_url }})
 - [Skeptical Analysis]({{ '/skeptical-analysis-e727fe/' | relative_url }})

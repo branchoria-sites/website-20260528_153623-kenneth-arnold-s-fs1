@@ -242,18 +242,18 @@ image: /assets/images/Gulf_Breeze_encounte_8373f7_local_ufo_wave_7c8bc3-Illustra
 
 ## Introduction
 
-The Gulf Breeze encounter stopped being a single man’s UFO story almost immediately after Ed Walters’ photographs appeared in the local press in late 1987. What transformed the incident into a regional “UFO wave” was not only the images themselves, but the social reaction around them: repeated newspaper coverage, organised skywatching at Shoreline Park, national UFO-group attention, and a growing feedback loop in which residents began interpreting lights, reflections, aircraft and unusual skies through the lens of the unfolding story. By early 1988, Gulf Breeze had become both a tourist curiosity and a laboratory for competing explanations about witness psychology, media influence and mass belief. Supporters saw corroboration spreading across the community. Sceptics saw a textbook example of expectation shaping perception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2007/09/22164527/p55.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">A Model UFO DebunkingAssigned by the News Journal to do a special report on the UFO hyste- ria, Myers recounted how UFO buffs would gathe...</span></span></span>
+The Gulf Breeze encounter stopped being a single man’s UFO story almost immediately after Ed Walters’ photographs appeared in the local press in late 1987. What transformed the incident into a regional “UFO wave” was not only the images themselves, but the social reaction around them: repeated newspaper coverage, organised skywatching at Shoreline Park, national UFO-group attention, and a growing feedback loop in which residents began interpreting lights, reflections, aircraft and unusual skies through the lens of the unfolding story. By early 1988, Gulf Breeze had become both a tourist curiosity and a laboratory for competing explanations about witness psychology, media influence and mass belief. Supporters saw corroboration spreading across the community. Sceptics saw a textbook example of expectation shaping perception.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2007/09/22164527/p55.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">A Model UFO DebunkingAssigned by the News Journal to do a special report on the UFO hyste- ria, Myers recounted how UFO buffs would gathe...</span></span></span>
 
 <img src="{{ "/assets/images/Gulf_Breeze_encounte_8373f7_local_ufo_wave_7c8bc3-Illustration-1-dark.svg" | relative_url }}" alt="UFO Wave illustration 1" data-theme-src-dark="{{ "/assets/images/Gulf_Breeze_encounte_8373f7_local_ufo_wave_7c8bc3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gulf_Breeze_encounte_8373f7_local_ufo_wave_7c8bc3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Sentinel and the making of a local sensation
 
-The turning point was the decision by *The Gulf Breeze Sentinel* to publish Walters’ Polaroids in November 1987. Early reports appeared anonymously, with Walters initially hiding behind pseudonyms such as “Mr. X” and “Mr. Ed” because he feared ridicule and professional embarrassment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gulf Breeze UFO incident</span><span class="citation-popover-snippet">Gulf Breeze UFO incident</span></span></span>
+The turning point was the decision by *The Gulf Breeze Sentinel* to publish Walters’ Polaroids in November 1987. Early reports appeared anonymously, with Walters initially hiding behind pseudonyms such as “Mr. X” and “Mr. Ed” because he feared ridicule and professional embarrassment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gulf Breeze UFO incident</span><span class="citation-popover-snippet">Gulf Breeze UFO incident</span></span></span>
 
-That anonymity added intrigue rather than caution. Readers were presented not with a blurry light in the distance, but with striking photographs that seemed to show a structured craft hovering over roads, houses and trees. In a small coastal community, the images spread rapidly through conversation, photocopies and repeat newspaper coverage. The *Sentinel* did not treat the story as a marginal curiosity; critics later argued that it embraced the mystery in ways that encouraged belief rather than scrutiny. Pensacola journalist Craig Myers, who later investigated the case in depth, characterised the paper’s approach as highly promotional and insufficiently critical. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ufology - WikipediaThe Gulf Breeze UFO Incident - PensacolaBeach.com...</span></span></span>
+That anonymity added intrigue rather than caution. Readers were presented not with a blurry light in the distance, but with striking photographs that seemed to show a structured craft hovering over roads, houses and trees. In a small coastal community, the images spread rapidly through conversation, photocopies and repeat newspaper coverage. The *Sentinel* did not treat the story as a marginal curiosity; critics later argued that it embraced the mystery in ways that encouraged belief rather than scrutiny. Pensacola journalist Craig Myers, who later investigated the case in depth, characterised the paper’s approach as highly promotional and insufficiently critical.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ufology - WikipediaThe Gulf Breeze UFO Incident - PensacolaBeach.com...</span></span></span>
 
 The timing mattered. Late-1980s American UFO culture was already primed by books, television specials and Cold War anxieties. Gulf Breeze suddenly offered something many enthusiasts believed previous cases lacked: apparently clear, repeated photographs from a seemingly ordinary suburban witness. Once the *Sentinel* framed the sightings as a continuing local phenomenon instead of a one-night event, residents began looking upward with unusual intensity.
 
-Reports multiplied rapidly after publication. According to later summaries of the case, sightings became almost daily occurrences for a period, and more than a hundred residents eventually claimed to have seen strange objects or lights around Gulf Breeze and nearby Pensacola waters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=nyccMa6oUwg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Gulf Breeze UFO...</span></span></span>
+Reports multiplied rapidly after publication. According to later summaries of the case, sightings became almost daily occurrences for a period, and more than a hundred residents eventually claimed to have seen strange objects or lights around Gulf Breeze and nearby Pensacola waters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=nyccMa6oUwg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Gulf Breeze UFO...</span></span></span>
 
 ## Shoreline Park and the rise of communal skywatching
 
@@ -263,7 +263,7 @@ This changed the nature of the case. Instead of isolated testimony, people were 
 
 The atmosphere at these gatherings resembled a hybrid of vigil, entertainment and amateur investigation. Participants brought cameras, binoculars and radios. Some hoped to see the same structured craft depicted in Walters’ Polaroids; others merely expected “something unusual”. Once that expectation existed, almost any strange light over the bay acquired significance.
 
-Craig Myers later described how ordinary lights seen from Shoreline Park were frequently discussed as possible UFOs. One widely cited example involved a glowing red object that some observers interpreted as anomalous before sceptical investigators suggested it was likely a lighted kite being towed behind a boat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gulf Breeze UFO incident</span><span class="citation-popover-snippet">Gulf Breeze UFO incident</span></span></span> That incident became emblematic of the wider dispute: believers saw dismissive debunking, while sceptics saw a demonstration of how easily distant lights over water could be misidentified.
+Craig Myers later described how ordinary lights seen from Shoreline Park were frequently discussed as possible UFOs. One widely cited example involved a glowing red object that some observers interpreted as anomalous before sceptical investigators suggested it was likely a lighted kite being towed behind a boat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gulf Breeze UFO incident</span><span class="citation-popover-snippet">Gulf Breeze UFO incident</span></span></span> That incident became emblematic of the wider dispute: believers saw dismissive debunking, while sceptics saw a demonstration of how easily distant lights over water could be misidentified.
 
 The geography of Gulf Breeze also contributed to the confusion. The area sits near military aviation activity, coastal waterways and atmospheric conditions capable of producing unusual visual effects at night. Reflections over dark water, aircraft lights approaching from unusual angles and shifting weather conditions all created an environment in which interpretation became highly subjective.
 
@@ -271,22 +271,22 @@ The geography of Gulf Breeze also contributed to the confusion. The area sits ne
 
 ## How additional witnesses changed the story
 
-As publicity expanded, the case no longer depended entirely on Walters. Other residents began reporting orange glows, hovering lights, beam-like effects and disc-shaped objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ufology - WikipediaThe Gulf Breeze UFO Incident - PensacolaBeach.com...</span></span></span>
+As publicity expanded, the case no longer depended entirely on Walters. Other residents began reporting orange glows, hovering lights, beam-like effects and disc-shaped objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ufology - WikipediaThe Gulf Breeze UFO Incident - PensacolaBeach.com...</span></span></span>
 
-Several sightings became locally famous because they involved socially credible witnesses rather than self-described UFO enthusiasts. One frequently discussed example involved Gulf Breeze councilwoman Brenda Pollak, who reported seeing an orange light while driving across the Pensacola Bay Bridge in March 1988. According to later accounts, her husband Buddy Pollak had meanwhile been with a group at Shoreline Park examining Walters’ photographs when flashes of light were seen in the area. Walters then reportedly produced additional Polaroids after being left briefly alone at the park. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ufology - WikipediaThe Gulf Breeze UFO Incident - PensacolaBeach.com...</span></span></span>
+Several sightings became locally famous because they involved socially credible witnesses rather than self-described UFO enthusiasts. One frequently discussed example involved Gulf Breeze councilwoman Brenda Pollak, who reported seeing an orange light while driving across the Pensacola Bay Bridge in March 1988. According to later accounts, her husband Buddy Pollak had meanwhile been with a group at Shoreline Park examining Walters’ photographs when flashes of light were seen in the area. Walters then reportedly produced additional Polaroids after being left briefly alone at the park.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ufology - WikipediaThe Gulf Breeze UFO Incident - PensacolaBeach.com...</span></span></span>
 
-Another reported witness pair, Fenner and Shirley McConnell, claimed to have seen a wingless disc-shaped craft over the water in July 1988. Shirley McConnell later said she recognised the object from *Sentinel* coverage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ufology - WikipediaThe Gulf Breeze UFO Incident - PensacolaBeach.com...</span></span></span>
+Another reported witness pair, Fenner and Shirley McConnell, claimed to have seen a wingless disc-shaped craft over the water in July 1988. Shirley McConnell later said she recognised the object from *Sentinel* coverage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ufology - WikipediaThe Gulf Breeze UFO Incident - PensacolaBeach.com...</span></span></span>
 
-These accounts became important because they appeared to widen the witness pool beyond Walters himself. UFO supporters argued that independent reports strengthened the possibility of a real phenomenon occurring over Gulf Breeze. MUFON investigators cited the growing number of sightings as evidence that the area was experiencing a genuine UFO flap rather than a solitary hoax. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ufology - WikipediaThe Gulf Breeze UFO Incident - PensacolaBeach.com...</span></span></span>
+These accounts became important because they appeared to widen the witness pool beyond Walters himself. UFO supporters argued that independent reports strengthened the possibility of a real phenomenon occurring over Gulf Breeze. MUFON investigators cited the growing number of sightings as evidence that the area was experiencing a genuine UFO flap rather than a solitary hoax.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ufology - WikipediaThe Gulf Breeze UFO Incident - PensacolaBeach.com...</span></span></span>
 
 Sceptics, however, focused on a different detail: many later witnesses had already seen the photographs and read extensive reporting before their own experiences. In their view, this created a powerful priming effect. Once residents knew what the “Gulf Breeze UFO” supposedly looked like, ambiguous lights were more likely to be mentally organised into that familiar shape and narrative.
 
 <img src="{{ "/assets/images/Gulf_Breeze_encounte_8373f7_local_ufo_wave_7c8bc3-Illustration-2-dark.svg" | relative_url }}" alt="UFO Wave illustration 2" data-theme-src-dark="{{ "/assets/images/Gulf_Breeze_encounte_8373f7_local_ufo_wave_7c8bc3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gulf_Breeze_encounte_8373f7_local_ufo_wave_7c8bc3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## MUFON, national attention and the amplification cycle
 
-The involvement of national UFO organisations dramatically intensified local publicity. MUFON, the Mutual UFO Network, treated Gulf Breeze as one of the strongest UFO cases in years. Its leaders publicly defended Walters and circulated the photographs widely through conferences, newsletters and television appearances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ufology - WikipediaThe Gulf Breeze UFO Incident - PensacolaBeach.com...</span></span></span>
+The involvement of national UFO organisations dramatically intensified local publicity. MUFON, the Mutual UFO Network, treated Gulf Breeze as one of the strongest UFO cases in years. Its leaders publicly defended Walters and circulated the photographs widely through conferences, newsletters and television appearances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ufology - WikipediaThe Gulf Breeze UFO Incident - PensacolaBeach.com...</span></span></span>
 
-Walter Andrus, then MUFON’s international director, reportedly described Gulf Breeze as the “best case” the organisation had encountered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ufology - WikipediaThe Gulf Breeze UFO Incident - PensacolaBeach.com...</span></span></span> Such endorsements gave the case legitimacy within UFO research circles and helped transform a Florida local-news story into a national paranormal phenomenon.
+Walter Andrus, then MUFON’s international director, reportedly described Gulf Breeze as the “best case” the organisation had encountered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ufology - WikipediaThe Gulf Breeze UFO Incident - PensacolaBeach.com...</span></span></span> Such endorsements gave the case legitimacy within UFO research circles and helped transform a Florida local-news story into a national paranormal phenomenon.
 
 The amplification worked in several directions at once:
 
@@ -310,11 +310,11 @@ The wave also changed expectations inside the community. Residents who might oth
 
 The deepest disagreement surrounding the Gulf Breeze wave concerns what the multiplying sightings actually meant.
 
-Believers argued that the sheer number of reports made a simple hoax explanation inadequate. They pointed out that not every witness was personally connected to Walters, and that many people insisted they had seen unusual aerial behaviour independently. To supporters, the case demonstrated a genuine regional phenomenon that happened to be first documented by Walters’ photographs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ufology - WikipediaThe Gulf Breeze UFO Incident - PensacolaBeach.com...</span></span></span>
+Believers argued that the sheer number of reports made a simple hoax explanation inadequate. They pointed out that not every witness was personally connected to Walters, and that many people insisted they had seen unusual aerial behaviour independently. To supporters, the case demonstrated a genuine regional phenomenon that happened to be first documented by Walters’ photographs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ufology - WikipediaThe Gulf Breeze UFO Incident - PensacolaBeach.com...</span></span></span>
 
 Sceptics countered that mass publicity itself can generate waves of sincere but unreliable reports. Once newspapers repeatedly display dramatic imagery and tell readers that UFOs are appearing locally, people begin actively searching for confirming experiences. Psychologists and sceptical investigators often cite this kind of environment as fertile ground for misidentification, memory distortion and social contagion.
 
-Several features of Gulf Breeze fit that pattern closely:(#endnote-1 "Endnote 1") <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gulf Breeze UFO incident</span><span class="citation-popover-snippet">Gulf Breeze UFO incident</span></span></span>
+Several features of Gulf Breeze fit that pattern closely:(#endnote-1 "Endnote 1")<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gulf Breeze UFO incident</span><span class="citation-popover-snippet">Gulf Breeze UFO incident</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -325,7 +325,7 @@ Several features of Gulf Breeze fit that pattern closely:(#endnote-1 "Endnote 1"
 
 </div>
 
-The later discovery of a model resembling the photographed UFO in the attic of Walters’ former home intensified sceptical interpretations of the entire wave. Critics argued that once the photographic foundation became doubtful, the surrounding sightings looked less like corroboration and more like a socially amplified belief cycle. Walters maintained the model had been planted to discredit him, and supporters continued to argue that the volume of witnesses could not be dismissed so easily. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ufology - WikipediaThe Gulf Breeze UFO Incident - PensacolaBeach.com...</span></span></span>
+The later discovery of a model resembling the photographed UFO in the attic of Walters’ former home intensified sceptical interpretations of the entire wave. Critics argued that once the photographic foundation became doubtful, the surrounding sightings looked less like corroboration and more like a socially amplified belief cycle. Walters maintained the model had been planted to discredit him, and supporters continued to argue that the volume of witnesses could not be dismissed so easily.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ufology - WikipediaThe Gulf Breeze UFO Incident - PensacolaBeach.com...</span></span></span>
 
 <img src="{{ "/assets/images/Gulf_Breeze_encounte_8373f7_local_ufo_wave_7c8bc3-Illustration-3-dark.svg" | relative_url }}" alt="UFO Wave illustration 3" data-theme-src-dark="{{ "/assets/images/Gulf_Breeze_encounte_8373f7_local_ufo_wave_7c8bc3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gulf_Breeze_encounte_8373f7_local_ufo_wave_7c8bc3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Gulf Breeze wave still matters
@@ -352,194 +352,194 @@ For supporters, Gulf Breeze remains evidence that a genuine phenomenon generated
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JtfLP1BY8tM" title="Gulf Breeze featured on A Current Affair, 1992" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JtfLP1BY8tM" target="_blank" rel="noopener noreferrer">Gulf Breeze featured on A Current Affair, 1992</a></p><p class="youtube-embed-meta">Channel: Chris Chilli &middot; Views: 1.5K &middot; Uploaded: February 2018 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JtfLP1BY8tM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JtfLP1BY8tM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How One Photo Story Became a Town UFO Wave. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How One Photo Story Became a Town UFO Wave. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gulf+Breeze+Sightings+by+Edward+Walters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gulf Breeze Sightings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UT5GAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Gulf Breeze Sightings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gulf+Breeze+Sightings+by+Edward+Walters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gulf Breeze Sightings">The Gulf Breeze Sightings</a>
-        </h4>
-        <p class="fr-book-author">By Edward Walters, Frances Walters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gulf+Breeze+Sightings+by+Edward+Walters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gulf Breeze Sightings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UT5GAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Gulf Breeze Sightings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gulf+Breeze+Sightings+by+Edward+Walters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gulf Breeze Sightings">The Gulf Breeze Sightings</a>
+</h4>
+<p class="fr-book-author">By Edward Walters, Frances Walters</p>
         
-        <p class="fr-book-desc">Details the late 1987 print runs in The Gulf Breeze Sentinel that initially introduced &#x27;Mr. X&#x27; and ignited the local sensation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gulf+Breeze+Sightings+by+Edward+Walters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details the late 1987 print runs in The Gulf Breeze Sentinel that initially introduced &#x27;Mr. X&#x27; and ignited the local sensation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gulf+Breeze+Sightings+by+Edward+Walters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Details how national UFO-group attention and repeated press coverage transformed a single household photo story into a town wave.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details how national UFO-group attention and repeated press coverage transformed a single household photo story into a town wave.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Explains the psychological differences between structured independent validation vs. community priming errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the psychological differences between structured independent validation vs. community priming errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Breaks down why regular atmospheric lights, everyday reflections, and conventional aircraft are systematically misread during active town...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Breaks down why regular atmospheric lights, everyday reflections, and conventional aircraft are systematically misread during active town...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gulf+Breeze+Sightings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gulf Breeze Sightings</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gulf+Breeze+Sightings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gulf Breeze Sightings</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Vehicle Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/515424d9b9f1d48ff309.jpg' | relative_url }}" alt="Listing image for UFO (TV) Vehicle Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Vehicle Scene 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Vehicle Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/515424d9b9f1d48ff309.jpg' | relative_url }}" alt="Listing image for UFO (TV) Vehicle Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Vehicle Scene 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/a5f58c820be9e212e78d.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/a5f58c820be9e212e78d.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/12f46aa57a03b419cd19.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/12f46aa57a03b419cd19.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Harry Baird, Gabrielle Drake 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/4c3880f38b00ff87477b.jpg' | relative_url }}" alt="Listing image for UFO (TV) Harry Baird, Gabrielle Drake 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Harry Baird, Gabrielle Drake 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Harry Baird, Gabrielle Drake 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/4c3880f38b00ff87477b.jpg' | relative_url }}" alt="Listing image for UFO (TV) Harry Baird, Gabrielle Drake 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Harry Baird, Gabrielle Drake 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -gerry -anderson -series -television -band -concert -tour -album" data-ebay-reference="ufo-wave-how-one-photo-story-became-a-town-ufo-wave-gulf-breeze-encounter-1987-ufo-photo-print-book-books-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -555,7 +555,7 @@ For supporters, Gulf Breeze remains evidence that a genuine phenomenon generated
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -575,7 +575,7 @@ For supporters, Gulf Breeze remains evidence that a genuine phenomenon generated
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -607,7 +607,7 @@ For supporters, Gulf Breeze remains evidence that a genuine phenomenon generated
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -659,7 +659,7 @@ For supporters, Gulf Breeze remains evidence that a genuine phenomenon generated
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -704,7 +704,7 @@ For supporters, Gulf Breeze remains evidence that a genuine phenomenon generated
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -745,103 +745,103 @@ For supporters, Gulf Breeze remains evidence that a genuine phenomenon generated
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Gulf Breeze UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ufology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufology - WikipediaThe Gulf Breeze UFO Incident - PensacolaBeach.com...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ufology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufology - WikipediaThe Gulf Breeze UFO Incident - PensacolaBeach.com...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=JtfLP1BY8tM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JtfLP1BY8tM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries - Gulf Breeze. 1990&#x27;s...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JtfLP1BY8tM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JtfLP1BY8tM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries - Gulf Breeze. 1990&#x27;s...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Unsolved Mysteries  
-   Link: <a href="https://www.youtube.com/watch?v=nyccMa6oUwg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nyccMa6oUwg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gulf Breeze UFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nyccMa6oUwg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nyccMa6oUwg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gulf Breeze UFO...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Unsolved Mysteries: Gulf Breeze UFO  
-   Link: <a href="https://www.youtube.com/watch?v=4yxXJNCeuC0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4yxXJNCeuC0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Gulf Breeze&quot; UFO news coverage Revisiting The Gulf Breeze UFO Sightings || A YouTube Documentary Holden &amp; Jen Hardman...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4yxXJNCeuC0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4yxXJNCeuC0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Gulf Breeze&quot; UFO news coverage Revisiting The Gulf Breeze UFO Sightings || A YouTube Documentary Holden &amp; Jen Hardman...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: centerforinquiry.s3.amazonaws.com  
-   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2007/09/22164527/p55.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2007/09/22164527/p55.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Model UFO DebunkingAssigned by the News Journal to do a special report on the UFO hyste- ria, Myers recounted how UFO buffs would gathe...</p></details>
+   Link:<a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2007/09/22164527/p55.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2007/09/22164527/p55.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Model UFO DebunkingAssigned by the News Journal to do a special report on the UFO hyste- ria, Myers recounted how UFO buffs would gathe...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: unsolvedmysteries.fandom.com  
-   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Gulf_Breeze_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Gulf_Breeze_UFO</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesGulf Breeze UFO | Unsolved Mysteries Wiki - FandomOn November 19, Ed&#x27;s pictures were published in the Gulf Breeze Senti...</p></details>
+   Link:<a href="https://unsolvedmysteries.fandom.com/wiki/Gulf_Breeze_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Gulf_Breeze_UFO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesGulf Breeze UFO | Unsolved Mysteries Wiki - FandomOn November 19, Ed&#x27;s pictures were published in the Gulf Breeze Senti...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thegumbodiaries.wordpress.com  
    Title: ed walters  
-   Link: <a href="https://thegumbodiaries.wordpress.com/tag/ed-walters/" target="_blank" rel="noopener noreferrer nofollow">https://thegumbodiaries.wordpress.com/tag/ed-walters/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Walters | The Gumbo Diaries3 Apr 2021 — UFOs lure literary travelers to Pensacola Beach &amp; Gulf Breeze. Note the alien peeking out the bac...</p></details>
+   Link:<a href="https://thegumbodiaries.wordpress.com/tag/ed-walters/" target="_blank" rel="noopener noreferrer nofollow">https://thegumbodiaries.wordpress.com/tag/ed-walters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Walters | The Gumbo Diaries3 Apr 2021 — UFOs lure literary travelers to Pensacola Beach &amp; Gulf Breeze. Note the alien peeking out the bac...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/pensacolabeachinfo/posts/the-gulf-breeze-ufo-incident-was-a-series-of-claimed-ufo-sightings-in-gulf-breez/1192152426245698/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pensacolabeachinfo/posts/the-gulf-breeze-ufo-incident-was-a-series-of-claimed-ufo-sightings-in-gulf-breez/1192152426245698/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gulf Breeze UFO incident was a series of claimed...@Huntington_Strange_Travels #StrangeTravels #MichaelHuntington #GulfBreezeSightin...</p></details>
+   Link:<a href="https://www.facebook.com/pensacolabeachinfo/posts/the-gulf-breeze-ufo-incident-was-a-series-of-claimed-ufo-sightings-in-gulf-breez/1192152426245698/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pensacolabeachinfo/posts/the-gulf-breeze-ufo-incident-was-a-series-of-claimed-ufo-sightings-in-gulf-breez/1192152426245698/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Gulf Breeze UFO incident was a series of claimed...@Huntington_Strange_Travels #StrangeTravels #MichaelHuntington #GulfBreezeSightin...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: worksheets.codalab.org  
-   Link: <a href="https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>codalab.orgglove.6B.100d.txt-vocab.txt... park price commission california father son education 7 village energy shot... gulf gets virgi...</p></details>
+   Link:<a href="https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>codalab.orgglove.6B.100d.txt-vocab.txt... park price commission california father son education 7 village energy shot... gulf gets virgi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/15banz8/anyone_have_more_context_about_this_uap_that_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/15banz8/anyone_have_more_context_about_this_uap_that_is/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pretty widely accepted to... Also he claimed the aliens communicated with telepathically in Spanish and...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/15banz8/anyone_have_more_context_about_this_uap_that_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/15banz8/anyone_have_more_context_about_this_uap_that_is/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pretty widely accepted to... Also he claimed the aliens communicated with telepathically in Spanish and...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: grunge.com  
    Title: decades later the gulf breeze ufo incident remains an unsolved mystery  
-   Link: <a href="https://www.grunge.com/1086775/decades-later-the-gulf-breeze-ufo-incident-remains-an-unsolved-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.grunge.com/1086775/decades-later-the-gulf-breeze-ufo-incident-remains-an-unsolved-mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decades Later, The Gulf Breeze UFO Incident Remains An...4 Nov 2022 — Ed Walters, a local contractor and family man, was the first to de...</p></details>
+   Link:<a href="https://www.grunge.com/1086775/decades-later-the-gulf-breeze-ufo-incident-remains-an-unsolved-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.grunge.com/1086775/decades-later-the-gulf-breeze-ufo-incident-remains-an-unsolved-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decades Later, The Gulf Breeze UFO Incident Remains An...4 Nov 2022 — Ed Walters, a local contractor and family man, was the first to de...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lights • Gulf Breeze Sightings. H-PAGE 269. Heaven&#x27;s Gate • Hill Abduction... Allen Flynek. For many years the Air Force&#x27;s chief sci¬ en...</p></details>
+   Link:<a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lights • Gulf Breeze Sightings. H-PAGE 269. Heaven&#x27;s Gate • Hill Abduction... Allen Flynek. For many years the Air Force&#x27;s chief sci¬ en...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufospensacolabeach.com  
-   Link: <a href="https://www.ufospensacolabeach.com/the-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufospensacolabeach.com/the-ufo-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 1, 1988, Walters reported feeling the alien presence while he was at Shoreline Park after midnight, saw the UFO and took a photo of i...</p></details>
+   Link:<a href="https://www.ufospensacolabeach.com/the-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufospensacolabeach.com/the-ufo-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 1, 1988, Walters reported feeling the alien presence while he was at Shoreline Park after midnight, saw the UFO and took a photo of i...</p></details>
    Published: May 1, 1988  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thegumbodiaries.wordpress.com  
    Title: ufos lure literary travelers to pensacola beach gulf breeze  
-   Link: <a href="https://thegumbodiaries.wordpress.com/2021/04/03/ufos-lure-literary-travelers-to-pensacola-beach-gulf-breeze/" target="_blank" rel="noopener noreferrer nofollow">https://thegumbodiaries.wordpress.com/2021/04/03/ufos-lure-literary-travelers-to-pensacola-beach-gulf-breeze/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lure literary travelers to Pensacola Beach &amp; Gulf Breeze3 Apr 2021 — Reports vary on the number of UFO sightings around Gulf Breeze, Flor...</p></details>
+   Link:<a href="https://thegumbodiaries.wordpress.com/2021/04/03/ufos-lure-literary-travelers-to-pensacola-beach-gulf-breeze/" target="_blank" rel="noopener noreferrer nofollow">https://thegumbodiaries.wordpress.com/2021/04/03/ufos-lure-literary-travelers-to-pensacola-beach-gulf-breeze/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lure literary travelers to Pensacola Beach &amp; Gulf Breeze3 Apr 2021 — Reports vary on the number of UFO sightings around Gulf Breeze, Flor...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
    Title: A Review of the Photographic Evidence in the Gulf Breeze  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/wp0dw9/a_review_of_the_photographic_evidence_in_the_gulf/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/wp0dw9/a_review_of_the_photographic_evidence_in_the_gulf/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gulf Breeze Sightings of 1987-1988: r/ufo... explained as an attempt to recreate the ufo. Otoh, Florida seems to be a hotbed for ufos a...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/wp0dw9/a_review_of_the_photographic_evidence_in_the_gulf/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/wp0dw9/a_review_of_the_photographic_evidence_in_the_gulf/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gulf Breeze Sightings of 1987-1988: r/ufo... explained as an attempt to recreate the ufo. Otoh, Florida seems to be a hotbed for ufos a...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: spyscape.com  
-   Link: <a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rop circles or sightings that began in 1992 when a motorist reported a craft...</p></details>
+   Link:<a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rop circles or sightings that began in 1992 when a motorist reported a craft...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tampabaylp.com  
    Title: what happened in the gulf breeze ufo incident  
-   Link: <a href="https://www.tampabaylp.com/post/what-happened-in-the-gulf-breeze-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.tampabaylp.com/post/what-happened-in-the-gulf-breeze-ufo-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?15 Oct 2025 — Today, most researchers categorize the Gulf Breeze UFO as a hoax, citing the photographic inconsistencies, the [attic model](&amp;#123;&amp;#123; &#x27;attic-model/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.tampabaylp.com/post/what-happened-in-the-gulf-breeze-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.tampabaylp.com/post/what-happened-in-the-gulf-breeze-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?15 Oct 2025 — Today, most researchers categorize the Gulf Breeze UFO as a hoax, citing the photographic inconsistencies, the [attic model](&amp;#123;&amp;#123; &#x27;attic-model/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>

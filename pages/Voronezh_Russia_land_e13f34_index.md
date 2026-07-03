@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /voronezh-russia-land-e13f34-index/
 description: Focused pages that expand on Voronezh Russia landing 1989.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Voronezh_Russia_land_e13f34
 parent_title: Voronezh Russia landing 1989
@@ -16,7 +16,7 @@ parent_permalink: /voronezh-russia-landing-1989/
 
 # Explore Topics in Voronezh Russia landing 1989
 
-The following pages expand on the main **[Voronezh Russia landing 1989]({{ '/voronezh-russia-landing-1989/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Voronezh Russia landing 1989]({{ '/voronezh-russia-landing-1989/' | relative_url }})** page and cover its key branches in.
 
 - [Eyewitness & Media]({{ '/eyewitness-media/' | relative_url }})
 - [Official & Scientific]({{ '/official-scientific/' | relative_url }})

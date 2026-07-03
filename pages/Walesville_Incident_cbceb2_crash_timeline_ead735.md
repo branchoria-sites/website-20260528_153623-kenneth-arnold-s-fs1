@@ -248,23 +248,23 @@ image: /assets/images/Walesville_Incident_cbceb2_crash_timeline_ead735-Illustrat
 
 ## Introduction
 
-The Walesville Incident of July 1954 is often remembered as a Cold War UFO story, but its most immediate reality was a fast-moving aviation disaster that killed four civilians in a small New York community. Before later writers connected the event to unidentified aerial objects, the core sequence was a military interception mission, an in-flight emergency aboard a Lockheed F-94C Starfire, the ejection of its two-man crew, and the uncontrolled crash of the jet into homes and a vehicle near Walesville. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation-safety.net/wikibase/180615" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[Aviation Safety Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-title">Crew ejected. The F-94C had taken off at 11:05 EST on a routine training flight</span><span class="citation-popover-snippet">Aviation Safety NetworkAccident Lockheed F-94C Starfire 51-13559, Friday 2 July...Hit car and house when crashed 9 miles SSE of Griffiss...</span></span></span>
+The Walesville Incident of July 1954 is often remembered as a Cold War UFO story, but its most immediate reality was a fast-moving aviation disaster that killed four civilians in a small New York community. Before later writers connected the event to unidentified aerial objects, the core sequence was a military interception mission, an in-flight emergency aboard a Lockheed F-94C Starfire, the ejection of its two-man crew, and the uncontrolled crash of the jet into homes and a vehicle near Walesville.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation-safety.net/wikibase/180615" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[Aviation Safety Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-title">Crew ejected. The F-94C had taken off at 11:05 EST on a routine training flight</span><span class="citation-popover-snippet">Aviation Safety NetworkAccident Lockheed F-94C Starfire 51-13559, Friday 2 July...Hit car and house when crashed 9 miles SSE of Griffiss...</span></span></span>
 
 <img src="{{ "/assets/images/Walesville_Incident_cbceb2_crash_timeline_ead735-Illustration-1-dark.svg" | relative_url }}" alt="Crash Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/Walesville_Incident_cbceb2_crash_timeline_ead735-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Walesville_Incident_cbceb2_crash_timeline_ead735-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The timeline matters because nearly every later interpretation of the case depends on how those minutes are reconstructed. Supporters of a UFO connection point to the aircraft being diverted to investigate unknown targets and to reports of intense [cockpit heat]({{ 'cockpit-heat/' | relative_url }}). Sceptical and official accounts focus instead on ordinary air-defence procedures, a likely fire-warning malfunction, and the tragic but recognisable chain of events that followed. Either way, the chronology shows how quickly a routine training sortie turned into a civilian catastrophe.
 
 ## What Happened Before the Walesville Crash?
 
-On the morning of 2 July 1954, F-94C Starfire aircraft 51-13559 departed Griffiss Air Force Base near Rome, New York, at approximately 11:05 local time on what official summaries describe as a routine training mission. The aircraft was part of the United States Air Force’s Cold War air-defence network, and the F-94 itself was designed specifically for interception duties. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation-safety.net/wikibase/180615" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[Aviation Safety Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-title">Crew ejected. The F-94C had taken off at 11:05 EST on a routine training flight</span><span class="citation-popover-snippet">Aviation Safety NetworkAccident Lockheed F-94C Starfire 51-13559, Friday 2 July...Hit car and house when crashed 9 miles SSE of Griffiss...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/540702walesville_ridge.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">540702walesville ridge</span><span class="citation-popover-snippet">UFO ReportOn 1105 LST 2 July 1954, F-94C aircraft 51-13559 took off on a routine training mission. GCI requested the aircraft to cha...</span><span class="citation-popover-meta">Published: July 1954</span></span></span> Shortly after take-off, Ground Control Intercept operators redirected the crew from training activity to an identification mission. Controllers instructed the aircraft to head toward an unidentified target at around 10,000 feet. This was not unusual in the air-defence environment of the early 1950s, when radar contacts frequently required visual confirmation. The term “unidentified aircraft” in Air Force procedure simply meant that controllers had not yet matched a radar return to a known flight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/540702walesville_ridge.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">540702walesville ridge</span><span class="citation-popover-snippet">UFO ReportOn 1105 LST 2 July 1954, F-94C aircraft 51-13559 took off on a routine training mission. GCI requested the aircraft to cha...</span><span class="citation-popover-meta">Published: July 1954</span></span></span>
+On the morning of 2 July 1954, F-94C Starfire aircraft 51-13559 departed Griffiss Air Force Base near Rome, New York, at approximately 11:05 local time on what official summaries describe as a routine training mission. The aircraft was part of the United States Air Force’s Cold War air-defence network, and the F-94 itself was designed specifically for interception duties.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation-safety.net/wikibase/180615" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[Aviation Safety Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-title">Crew ejected. The F-94C had taken off at 11:05 EST on a routine training flight</span><span class="citation-popover-snippet">Aviation Safety NetworkAccident Lockheed F-94C Starfire 51-13559, Friday 2 July...Hit car and house when crashed 9 miles SSE of Griffiss...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/540702walesville_ridge.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">540702walesville ridge</span><span class="citation-popover-snippet">UFO ReportOn 1105 LST 2 July 1954, F-94C aircraft 51-13559 took off on a routine training mission. GCI requested the aircraft to cha...</span><span class="citation-popover-meta">Published: July 1954</span></span></span> Shortly after take-off, Ground Control Intercept operators redirected the crew from training activity to an identification mission. Controllers instructed the aircraft to head toward an unidentified target at around 10,000 feet. This was not unusual in the air-defence environment of the early 1950s, when radar contacts frequently required visual confirmation. The term “unidentified aircraft” in Air Force procedure simply meant that controllers had not yet matched a radar return to a known flight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/540702walesville_ridge.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">540702walesville ridge</span><span class="citation-popover-snippet">UFO ReportOn 1105 LST 2 July 1954, F-94C aircraft 51-13559 took off on a routine training mission. GCI requested the aircraft to cha...</span><span class="citation-popover-meta">Published: July 1954</span></span></span>
 
-According to the surviving official account reproduced in later UFO literature, the crew successfully identified one target as a C-47 transport aircraft by tail number. Controllers then directed them toward a second unidentified aircraft flying at lower altitude and apparently approaching the Griffiss area to land. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/540702walesville_ridge.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">540702walesville ridge</span><span class="citation-popover-snippet">UFO ReportOn 1105 LST 2 July 1954, F-94C aircraft 51-13559 took off on a routine training mission. GCI requested the aircraft to cha...</span><span class="citation-popover-meta">Published: July 1954</span></span></span>
+According to the surviving official account reproduced in later UFO literature, the crew successfully identified one target as a C-47 transport aircraft by tail number. Controllers then directed them toward a second unidentified aircraft flying at lower altitude and apparently approaching the Griffiss area to land.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/540702walesville_ridge.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">540702walesville ridge</span><span class="citation-popover-snippet">UFO ReportOn 1105 LST 2 July 1954, F-94C aircraft 51-13559 took off on a routine training mission. GCI requested the aircraft to cha...</span><span class="citation-popover-meta">Published: July 1954</span></span></span>
 
 This second phase of the flight became the centre of the later controversy. During descent through broken cloud, the crew experienced a sudden emergency inside the cockpit. Accounts differ in tone, but the basic sequence is consistent across both official and UFO-oriented retellings:
 
 * A fire-warning light illuminated.
 * The cockpit rapidly became extremely hot.
 * The crew shut down the engine.
-* The pilot and radar operator ejected. Aviation Safety Network+2NICAP <span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation-safety.net/wikibase/180615" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[aviation-safety.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-title">Crew ejected. The F-94C had taken off at 11:05 EST on a routine training flight</span><span class="citation-popover-snippet">Aviation Safety NetworkAccident Lockheed F-94C Starfire 51-13559, Friday 2 July...Hit car and house when crashed 9 miles SSE of Griffiss...</span></span></span>
+* The pilot and radar operator ejected. Aviation Safety Network+2NICAP<span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation-safety.net/wikibase/180615" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[aviation-safety.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-title">Crew ejected. The F-94C had taken off at 11:05 EST on a routine training flight</span><span class="citation-popover-snippet">Aviation Safety NetworkAccident Lockheed F-94C Starfire 51-13559, Friday 2 July...Hit car and house when crashed 9 miles SSE of Griffiss...</span></span></span>
 
 Later UFO writers described the heat as mysterious or externally induced, sometimes implying the aircraft had approached a non-human object too closely. More restrained accounts, including sceptical reconstructions, argue that the crew reacted exactly as trained after what appeared to be an engine fire or related systems emergency.
 
@@ -274,7 +274,7 @@ Later UFO writers described the heat as mysterious or externally induced, someti
 
 The two airmen survived their ejections. The aircraft did not.
 
-After the crew abandoned the Starfire, the unmanned jet continued flying for several miles. Aviation Safety Network summaries state that it travelled roughly four miles after ejection before crashing near the Walesville intersection, about nine miles south-southeast of Griffiss Air Force Base. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation-safety.net/wikibase/180615" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[Aviation Safety Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-title">Crew ejected. The F-94C had taken off at 11:05 EST on a routine training flight</span><span class="citation-popover-snippet">Aviation Safety NetworkAccident Lockheed F-94C Starfire 51-13559, Friday 2 July...Hit car and house when crashed 9 miles SSE of Griffiss...</span></span></span>
+After the crew abandoned the Starfire, the unmanned jet continued flying for several miles. Aviation Safety Network summaries state that it travelled roughly four miles after ejection before crashing near the Walesville intersection, about nine miles south-southeast of Griffiss Air Force Base.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation-safety.net/wikibase/180615" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[Aviation Safety Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-title">Crew ejected. The F-94C had taken off at 11:05 EST on a routine training flight</span><span class="citation-popover-snippet">Aviation Safety NetworkAccident Lockheed F-94C Starfire 51-13559, Friday 2 July...Hit car and house when crashed 9 miles SSE of Griffiss...</span></span></span>
 
 The impact zone turned the military emergency into a local human tragedy.
 
@@ -289,9 +289,9 @@ The F-94 struck a house and an automobile in the Walesville area. Four civilians
 
 </div>
 
-A child, Betty Lou Monroe, survived with injuries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/540702walesville_ridge.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">540702walesville ridge</span><span class="citation-popover-snippet">UFO ReportOn 1105 LST 2 July 1954, F-94C aircraft 51-13559 took off on a routine training mission. GCI requested the aircraft to cha...</span><span class="citation-popover-meta">Published: July 1954</span></span></span>
+A child, Betty Lou Monroe, survived with injuries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/540702walesville_ridge.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">540702walesville ridge</span><span class="citation-popover-snippet">UFO ReportOn 1105 LST 2 July 1954, F-94C aircraft 51-13559 took off on a routine training mission. GCI requested the aircraft to cha...</span><span class="citation-popover-meta">Published: July 1954</span></span></span>
 
-This detail is important because later retellings sometimes shift attention almost entirely toward the UFO angle and away from the victims. Contemporary and retrospective accident summaries consistently emphasise that the crash destroyed homes and a family vehicle, not an isolated rural field. The disaster unfolded in a populated area with almost no warning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation-safety.net/wikibase/180615" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[Aviation Safety Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-title">Crew ejected. The F-94C had taken off at 11:05 EST on a routine training flight</span><span class="citation-popover-snippet">Aviation Safety NetworkAccident Lockheed F-94C Starfire 51-13559, Friday 2 July...Hit car and house when crashed 9 miles SSE of Griffiss...</span></span></span>
+This detail is important because later retellings sometimes shift attention almost entirely toward the UFO angle and away from the victims. Contemporary and retrospective accident summaries consistently emphasise that the crash destroyed homes and a family vehicle, not an isolated rural field. The disaster unfolded in a populated area with almost no warning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation-safety.net/wikibase/180615" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[Aviation Safety Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-title">Crew ejected. The F-94C had taken off at 11:05 EST on a routine training flight</span><span class="citation-popover-snippet">Aviation Safety NetworkAccident Lockheed F-94C Starfire 51-13559, Friday 2 July...Hit car and house when crashed 9 miles SSE of Griffiss...</span></span></span>
 
 The crash also illustrates a broader danger associated with early Cold War interceptor operations. Aircraft such as the F-94 operated at high speed, often under rapid-response conditions, and emergency ejections could leave pilotless jets travelling unpredictably over civilian communities. The Walesville incident became one of the more tragic examples of that risk in 1950s air-defence service.
 
@@ -309,9 +309,9 @@ Official and sceptical interpretations generally follow this sequence:
 3. A fire-warning or related systems malfunction occurred.
 4. The cockpit heat and warning indicators convinced the crew the aircraft was unsafe.
 5. Standard emergency procedures led to engine shutdown and ejection.
-6. The abandoned aircraft crashed into Walesville. NICAP+2Aviation Safety Network <span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation-safety.net/wikibase/180615" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[aviation-safety.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-title">Crew ejected. The F-94C had taken off at 11:05 EST on a routine training flight</span><span class="citation-popover-snippet">Aviation Safety NetworkAccident Lockheed F-94C Starfire 51-13559, Friday 2 July...Hit car and house when crashed 9 miles SSE of Griffiss...</span></span></span>
+6. The abandoned aircraft crashed into Walesville. NICAP+2Aviation Safety Network<span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation-safety.net/wikibase/180615" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[aviation-safety.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-title">Crew ejected. The F-94C had taken off at 11:05 EST on a routine training flight</span><span class="citation-popover-snippet">Aviation Safety NetworkAccident Lockheed F-94C Starfire 51-13559, Friday 2 July...Hit car and house when crashed 9 miles SSE of Griffiss...</span></span></span>
 
-UFO-oriented interpretations retain most of the same chronology but place greater emphasis on the unidentified target and the “intense heat” experienced in the cockpit. Writers influenced by Donald Keyhoe and later UFO literature suggested the heating effect might have been connected to the object the aircraft was pursuing. In those versions, the emergency becomes evidence of interaction with an anomalous craft rather than a conventional mechanical failure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://johndenugent.com/ufos-the-third-reich-after-1945-and-the-pleiadians/the-fourth-reich-and-nordic-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johndenugent.com">[John de Nugent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johndenugent.com</span><span class="citation-popover-snippet">John de NugentThe Fourth Reich and Nordic AliensOn July 1, 1954, an AF F-94 a two-man jet was scrambled to chase a UFO near Walesville, N...</span><span class="citation-popover-meta">Published: July 1, 1954</span></span></span> Reddit The timeline therefore became the central battleground of interpretation. If the unidentified object was simply a balloon <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/f3mk0y/in_1954_an_air_force_jet_was_pursuing_a_ufo_when/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">in 1954 an air force jet was pursuing a ufo when</span><span class="citation-popover-snippet">In 1954, an Air Force jet was pursuing a UFO when the pilots...Within 25 minutes, the plane would crash, taking the lives of four people...</span></span></span>, aircraft, or radar confusion, the event fits a conventional Cold War accident narrative. If the cockpit effects were externally induced by something extraordinary, then the crash acquires a very different meaning.
+UFO-oriented interpretations retain most of the same chronology but place greater emphasis on the unidentified target and the “intense heat” experienced in the cockpit. Writers influenced by Donald Keyhoe and later UFO literature suggested the heating effect might have been connected to the object the aircraft was pursuing. In those versions, the emergency becomes evidence of interaction with an anomalous craft rather than a conventional mechanical failure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://johndenugent.com/ufos-the-third-reich-after-1945-and-the-pleiadians/the-fourth-reich-and-nordic-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johndenugent.com">[John de Nugent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johndenugent.com</span><span class="citation-popover-snippet">John de NugentThe Fourth Reich and Nordic AliensOn July 1, 1954, an AF F-94 a two-man jet was scrambled to chase a UFO near Walesville, N...</span><span class="citation-popover-meta">Published: July 1, 1954</span></span></span> Reddit The timeline therefore became the central battleground of interpretation. If the unidentified object was simply a balloon<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/f3mk0y/in_1954_an_air_force_jet_was_pursuing_a_ufo_when/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">in 1954 an air force jet was pursuing a ufo when</span><span class="citation-popover-snippet">In 1954, an Air Force jet was pursuing a UFO when the pilots...Within 25 minutes, the plane would crash, taking the lives of four people...</span></span></span>, aircraft, or radar confusion, the event fits a conventional Cold War accident narrative. If the cockpit effects were externally induced by something extraordinary, then the crash acquires a very different meaning.
 
 What keeps the debate alive is that the chronology contains genuine ambiguity without necessarily proving anything anomalous. The aircraft really was diverted toward unidentified targets. The crew really did report severe heat in the cockpit. And four civilians really did die after the crew abandoned the jet. Those facts are not disputed. The disagreement lies in how the moments between interception and ejection should be interpreted.
 
@@ -325,7 +325,7 @@ The Walesville case survived in UFO history partly because it combines three ele
 * a dramatic onboard emergency,
 * and fatal consequences on the ground.
 
-Many UFO stories involve uncertain sightings with little physical evidence. Walesville instead produced a verifiable crash, named victims, and military records confirming that the aircraft had been redirected toward unidentified aerial targets before the accident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation-safety.net/wikibase/180615" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[Aviation Safety Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-title">Crew ejected. The F-94C had taken off at 11:05 EST on a routine training flight</span><span class="citation-popover-snippet">Aviation Safety NetworkAccident Lockheed F-94C Starfire 51-13559, Friday 2 July...Hit car and house when crashed 9 miles SSE of Griffiss...</span></span></span>
+Many UFO stories involve uncertain sightings with little physical evidence. Walesville instead produced a verifiable crash, named victims, and military records confirming that the aircraft had been redirected toward unidentified aerial targets before the accident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation-safety.net/wikibase/180615" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[Aviation Safety Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-title">Crew ejected. The F-94C had taken off at 11:05 EST on a routine training flight</span><span class="citation-popover-snippet">Aviation Safety NetworkAccident Lockheed F-94C Starfire 51-13559, Friday 2 July...Hit car and house when crashed 9 miles SSE of Griffiss...</span></span></span>
 
 At the same time, the chronology also weakens some of the more sensational retellings. The known sequence does not show an aircraft exploding in combat with a UFO or being visibly destroyed by an unknown object. The surviving evidence points instead to an interceptor crew responding to what they believed was a catastrophic onboard emergency. The tragedy unfolded after the crew escaped and the aircraft continued uncontrolled toward a populated area.
 
@@ -334,194 +334,194 @@ For historians and researchers, the timeline remains important because it separa
 <img src="{{ "/assets/images/Walesville_Incident_cbceb2_crash_timeline_ead735-Illustration-3-dark.svg" | relative_url }}" alt="Crash Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/Walesville_Incident_cbceb2_crash_timeline_ead735-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Walesville_Incident_cbceb2_crash_timeline_ead735-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Happened Before the Walesville Crash?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Happened Before the Walesville Crash?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Details his first-hand involvement, investigative conclusions, and his formal assessment of the interception mission logs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details his first-hand involvement, investigative conclusions, and his formal assessment of the interception mission logs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Summarizes the controversy behind the crash-timeline data and the fallout for UFO literature.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Summarizes the controversy behind the crash-timeline data and the fallout for UFO literature.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches investigative methodology for analyzing credibility issues and narrative inflation in UFO testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches investigative methodology for analyzing credibility issues and narrative inflation in UFO testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Provides institutional background on how investigative bureaus indexed and eventually rejected contradictory mission timelines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides institutional background on how investigative bureaus indexed and eventually rejected contradictory mission timelines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lockheed F-94 Starfire FA-555 - 1:32 Scale Wood Desktop Airplane"><img src="{{ '/assets/images/marketplace-covers/2de3b1af7d848d3efe51.jpg' | relative_url }}" alt="Listing image for Lockheed F-94 Starfire FA-555 - 1:32 Scale Wood Desktop Airplane" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" target="_blank" rel="sponsored noopener noreferrer">Lockheed F-94 Starfire FA-555 - 1:32 Scale Wood Desktop Airplane</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for F-94 Starfire model">Search <span data-ebay-domain-label>eBay.co.uk</span>: F-94 Starfire model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lockheed F-94 Starfire FA-555 - 1:32 Scale Wood Desktop Airplane"><img src="{{ '/assets/images/marketplace-covers/2de3b1af7d848d3efe51.jpg' | relative_url }}" alt="Listing image for Lockheed F-94 Starfire FA-555 - 1:32 Scale Wood Desktop Airplane" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" target="_blank" rel="sponsored noopener noreferrer">Lockheed F-94 Starfire FA-555 - 1:32 Scale Wood Desktop Airplane</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for F-94 Starfire model">Search<span data-ebay-domain-label>eBay.co.uk</span>: F-94 Starfire model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 EMHAR EM3004 F94C Starfire (Late) USAF Jet Model Kit - Sealed"><img src="{{ '/assets/images/marketplace-covers/265d44a103f95390bde1.jpg' | relative_url }}" alt="Listing image for 1:72 EMHAR EM3004 F94C Starfire (Late) USAF Jet Model Kit - Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" target="_blank" rel="sponsored noopener noreferrer">1:72 EMHAR EM3004 F94C Starfire (Late) USAF Jet Model Kit - Sealed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for F-94 Starfire model">Search <span data-ebay-domain-label>eBay.co.uk</span>: F-94 Starfire model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 EMHAR EM3004 F94C Starfire (Late) USAF Jet Model Kit - Sealed"><img src="{{ '/assets/images/marketplace-covers/265d44a103f95390bde1.jpg' | relative_url }}" alt="Listing image for 1:72 EMHAR EM3004 F94C Starfire (Late) USAF Jet Model Kit - Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" target="_blank" rel="sponsored noopener noreferrer">1:72 EMHAR EM3004 F94C Starfire (Late) USAF Jet Model Kit - Sealed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for F-94 Starfire model">Search<span data-ebay-domain-label>eBay.co.uk</span>: F-94 Starfire model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Emhar Lockheed F-94C Starfire (Early) 1:72 Scale Model Aircraft Kit PKEM3003"><img src="{{ '/assets/images/marketplace-covers/9d28d552c13a2e931bd8.jpg' | relative_url }}" alt="Listing image for Emhar Lockheed F-94C Starfire (Early) 1:72 Scale Model Aircraft Kit PKEM3003" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" target="_blank" rel="sponsored noopener noreferrer">Emhar Lockheed F-94C Starfire (Early) 1:72 Scale Model Aircraft Kit PKEM3003</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for F-94 Starfire model">Search <span data-ebay-domain-label>eBay.co.uk</span>: F-94 Starfire model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Emhar Lockheed F-94C Starfire (Early) 1:72 Scale Model Aircraft Kit PKEM3003"><img src="{{ '/assets/images/marketplace-covers/9d28d552c13a2e931bd8.jpg' | relative_url }}" alt="Listing image for Emhar Lockheed F-94C Starfire (Early) 1:72 Scale Model Aircraft Kit PKEM3003" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" target="_blank" rel="sponsored noopener noreferrer">Emhar Lockheed F-94C Starfire (Early) 1:72 Scale Model Aircraft Kit PKEM3003</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for F-94 Starfire model">Search<span data-ebay-domain-label>eBay.co.uk</span>: F-94 Starfire model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Emhar Lockheed F-94C Starfire (Early) 1:72 Scale Model Aircraft Kit PKEM3003"><img src="{{ '/assets/images/marketplace-covers/6f5e47aa40ef5aebfa12.jpg' | relative_url }}" alt="Listing image for Emhar Lockheed F-94C Starfire (Early) 1:72 Scale Model Aircraft Kit PKEM3003" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" target="_blank" rel="sponsored noopener noreferrer">Emhar Lockheed F-94C Starfire (Early) 1:72 Scale Model Aircraft Kit PKEM3003</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for F-94 Starfire model">Search <span data-ebay-domain-label>eBay.co.uk</span>: F-94 Starfire model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Emhar Lockheed F-94C Starfire (Early) 1:72 Scale Model Aircraft Kit PKEM3003"><img src="{{ '/assets/images/marketplace-covers/6f5e47aa40ef5aebfa12.jpg' | relative_url }}" alt="Listing image for Emhar Lockheed F-94C Starfire (Early) 1:72 Scale Model Aircraft Kit PKEM3003" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" target="_blank" rel="sponsored noopener noreferrer">Emhar Lockheed F-94C Starfire (Early) 1:72 Scale Model Aircraft Kit PKEM3003</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for F-94 Starfire model">Search<span data-ebay-domain-label>eBay.co.uk</span>: F-94 Starfire model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-94+Starfire+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-94 Starfire model" data-ebay-reference="crash-timeline-what-happened-before-the-walesville-crash-walesville-incident-1954-f-94-starfire-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ For historians and researchers, the timeline remains important because it separa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ For historians and researchers, the timeline remains important because it separa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ For historians and researchers, the timeline remains important because it separa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ For historians and researchers, the timeline remains important because it separa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ For historians and researchers, the timeline remains important because it separa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,89 +727,89 @@ For historians and researchers, the timeline remains important because it separa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aviation-safety.net  
    Title: Crew ejected. The F-94C had taken off at 11:05 EST on a routine training flight  
-   Link: <a href="https://aviation-safety.net/wikibase/180615" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/180615</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety NetworkAccident Lockheed F-94C Starfire 51-13559, Friday 2 July...Hit car and house when crashed 9 miles SSE of Griffiss...</p></details>
+   Link:<a href="https://aviation-safety.net/wikibase/180615" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/180615</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety NetworkAccident Lockheed F-94C Starfire 51-13559, Friday 2 July...Hit car and house when crashed 9 miles SSE of Griffiss...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nicap.org  
    Title: 540702walesville ridge  
-   Link: <a href="https://www.nicap.org/reports/540702walesville_ridge.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/540702walesville_ridge.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportOn 1105 LST 2 July 1954, F-94C aircraft 51-13559 took off on a routine training mission. GCI requested the aircraft to cha...</p></details>
+   Link:<a href="https://www.nicap.org/reports/540702walesville_ridge.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/540702walesville_ridge.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportOn 1105 LST 2 July 1954, F-94C aircraft 51-13559 took off on a routine training mission. GCI requested the aircraft to cha...</p></details>
    Published: July 1954  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: in 1954 an air force jet was pursuing a ufo when  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/f3mk0y/in_1954_an_air_force_jet_was_pursuing_a_ufo_when/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/f3mk0y/in_1954_an_air_force_jet_was_pursuing_a_ufo_when/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1954, an Air Force jet was pursuing a UFO when the pilots...Within 25 minutes, the plane would crash, taking the lives of four people...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/f3mk0y/in_1954_an_air_force_jet_was_pursuing_a_ufo_when/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/f3mk0y/in_1954_an_air_force_jet_was_pursuing_a_ufo_when/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1954, an Air Force jet was pursuing a UFO when the pilots...Within 25 minutes, the plane would crash, taking the lives of four people...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: in 1954 an air force jet was pursuing a ufo when  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/ih3an9/in_1954_an_air_force_jet_was_pursuing_a_ufo_when/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ih3an9/in_1954_an_air_force_jet_was_pursuing_a_ufo_when/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1954, an Air Force jet was pursuing a UFO when...Within 25 minutes, the plane crashed, taking the lives of four people on the ground...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/ih3an9/in_1954_an_air_force_jet_was_pursuing_a_ufo_when/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ih3an9/in_1954_an_air_force_jet_was_pursuing_a_ufo_when/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1954, an Air Force jet was pursuing a UFO when...Within 25 minutes, the plane crashed, taking the lives of four people on the ground...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: johndenugent.com  
-   Link: <a href="https://johndenugent.com/ufos-the-third-reich-after-1945-and-the-pleiadians/the-fourth-reich-and-nordic-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://johndenugent.com/ufos-the-third-reich-after-1945-and-the-pleiadians/the-fourth-reich-and-nordic-aliens/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>John de NugentThe Fourth Reich and Nordic AliensOn July 1, 1954, an AF F-94 a two-man jet was scrambled to chase a UFO near Walesville, N...</p></details>
+   Link:<a href="https://johndenugent.com/ufos-the-third-reich-after-1945-and-the-pleiadians/the-fourth-reich-and-nordic-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://johndenugent.com/ufos-the-third-reich-after-1945-and-the-pleiadians/the-fourth-reich-and-nordic-aliens/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John de NugentThe Fourth Reich and Nordic AliensOn July 1, 1954, an AF F-94 a two-man jet was scrambled to chase a UFO near Walesville, N...</p></details>
    Published: July 1, 1954  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon ReportThe report was skeptical and ascribed most UFO sightings to weather balloons, stars, birds, insects, optical illusions, or a...</p></details>
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Condon ReportThe report was skeptical and ascribed most UFO sightings to weather balloons, stars, birds, insects, optical illusions, or a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/doc/37865004/Tax-exempt-status-at-risk-for-many-Texas-nonprofits" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/37865004/Tax-exempt-status-at-risk-for-many-Texas-nonprofits</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Free download as PDF File (.pdf), Text File (.txt) or view presentation slides online...</p></details>
+   Link:<a href="https://www.scribd.com/doc/37865004/Tax-exempt-status-at-risk-for-many-Texas-nonprofits" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/37865004/Tax-exempt-status-at-risk-for-many-Texas-nonprofits</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Free download as PDF File (.pdf), Text File (.txt) or view presentation slides online...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: clarkmills.org  
    Title: 1954 walesville plane crash oct 2021 meeting  
-   Link: <a href="https://clarkmills.org/1954-walesville-plane-crash-oct-2021-meeting/" target="_blank" rel="noopener noreferrer nofollow">https://clarkmills.org/1954-walesville-plane-crash-oct-2021-meeting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Clark Mills, New York1954 Walesville plane crash (Oct 2021 Meeting)28 Oct 2021 — The Society would like to thank member Debra Rehm for he...</p></details>
+   Link:<a href="https://clarkmills.org/1954-walesville-plane-crash-oct-2021-meeting/" target="_blank" rel="noopener noreferrer nofollow">https://clarkmills.org/1954-walesville-plane-crash-oct-2021-meeting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clark Mills, New York1954 Walesville plane crash (Oct 2021 Meeting)28 Oct 2021 — The Society would like to thank member Debra Rehm for he...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=g8maZp8Gals" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=g8maZp8Gals</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Griffiss Air Force Base&quot; UFO Rome UFO Stories With Griffiss Air Force Base Big Frog 104...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=g8maZp8Gals" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=g8maZp8Gals</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Griffiss Air Force Base&quot; UFO Rome UFO Stories With Griffiss Air Force Base Big Frog 104...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: newenglandaviationhistory.com  
-   Link: <a href="https://newenglandaviationhistory.com/tag/f-94-starfire-accident/" target="_blank" rel="noopener noreferrer nofollow">https://newenglandaviationhistory.com/tag/f-94-starfire-accident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boyd L. Erickson, 24, was killed when the F-94 Starfire jet he was piloting crashed in Cape Cod Bay near Orient during...Read more...</p></details>
+   Link:<a href="https://newenglandaviationhistory.com/tag/f-94-starfire-accident/" target="_blank" rel="noopener noreferrer nofollow">https://newenglandaviationhistory.com/tag/f-94-starfire-accident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boyd L. Erickson, 24, was killed when the F-94 Starfire jet he was piloting crashed in Cape Cod Bay near Orient during...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: garden-backend-three.vercel.app  
    Title: world intelligence report may 2026  
-   Link: <a href="https://garden-backend-three.vercel.app/finalized-work/world-reports/world-intelligence-report-may-2026/" target="_blank" rel="noopener noreferrer nofollow">https://garden-backend-three.vercel.app/finalized-work/world-reports/world-intelligence-report-may-2026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Intelligence Report — May 202613 May 2026 — The Walesville F-94 incident, 2 July 1954 (FBI Section 8) — F-94C Starfire returning fr...</p></details>
+   Link:<a href="https://garden-backend-three.vercel.app/finalized-work/world-reports/world-intelligence-report-may-2026/" target="_blank" rel="noopener noreferrer nofollow">https://garden-backend-three.vercel.app/finalized-work/world-reports/world-intelligence-report-may-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Intelligence Report — May 202613 May 2026 — The Walesville F-94 incident, 2 July 1954 (FBI Section 8) — F-94C Starfire returning fr...</p></details>
    Published: may 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/238918228950/posts/10155090042568951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/238918228950/posts/10155090042568951/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>at his home in Jackson, Mississippi with his...</p></details>
+   Link:<a href="https://www.facebook.com/groups/238918228950/posts/10155090042568951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/238918228950/posts/10155090042568951/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>at his home in Jackson, Mississippi with his...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: alpha.creativecirclecdn.com  
-   Link: <a href="https://alpha.creativecirclecdn.com/polkcounty/files/20240925-180055-d20-pce_8377_20190622.pdf" target="_blank" rel="noopener noreferrer nofollow">https://alpha.creativecirclecdn.com/polkcounty/files/20240925-180055-d20-pce_8377_20190622.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>COUNTY25 Sept 2024 — Those accidents resulted in 31 deaths and 162 injuries, the report says.... about four miles from Hwy. 190. Call Ge...</p></details>
+   Link:<a href="https://alpha.creativecirclecdn.com/polkcounty/files/20240925-180055-d20-pce_8377_20190622.pdf" target="_blank" rel="noopener noreferrer nofollow">https://alpha.creativecirclecdn.com/polkcounty/files/20240925-180055-d20-pce_8377_20190622.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COUNTY25 Sept 2024 — Those accidents resulted in 31 deaths and 162 injuries, the report says.... about four miles from Hwy. 190. Call Ge...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aviationarchaeology.com  
    Title: USA F Accident Reports  
-   Link: <a href="https://www.aviationarchaeology.com/listpages/airforce/asp/AF_Monthly_1954.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationarchaeology.com/listpages/airforce/asp/AF_Monthly_1954.asp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USAF Accident Reports - 1954USAF Accident Reports - 1954. This scrollable table (as required) displays summary information contained in U...</p></details>
+   Link:<a href="https://www.aviationarchaeology.com/listpages/airforce/asp/AF_Monthly_1954.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationarchaeology.com/listpages/airforce/asp/AF_Monthly_1954.asp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USAF Accident Reports - 1954USAF Accident Reports - 1954. This scrollable table (as required) displays summary information contained in U...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=kZaI-1QmhuA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=kZaI-1QmhuA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Files: 15 True Declassified Cases | Fall Asleep to UFO Stories (Episode 2)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=kZaI-1QmhuA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=kZaI-1QmhuA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Files: 15 True Declassified Cases | Fall Asleep to UFO Stories (Episode 2)...</p></details>

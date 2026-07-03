@@ -242,30 +242,30 @@ image: /assets/images/Pascagoula_abduction_80a64a_skeptical_gaps_4304c4-Illustra
 
 ## Introduction
 
-The Pascagoula abduction remains one of the best-known UFO encounter claims because Charles Hickson and Calvin Parker reported their story immediately, appeared visibly distressed, and became the subject of a secretly recorded police conversation that many believers treat as evidence of sincerity. Yet sceptics argue that sincerity is not the same as proof. More than fifty years later, the case still lacks the kind of hard evidence that could independently verify an extraordinary event. No recovered material, medical anomaly, radar track, authenticated photograph, or physical trace has ever demonstrated that an alien encounter occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
+The Pascagoula abduction remains one of the best-known UFO encounter claims because Charles Hickson and Calvin Parker reported their story immediately, appeared visibly distressed, and became the subject of a secretly recorded police conversation that many believers treat as evidence of sincerity. Yet sceptics argue that sincerity is not the same as proof. More than fifty years later, the case still lacks the kind of hard evidence that could independently verify an extraordinary event. No recovered material, medical anomaly, radar track, authenticated photograph, or physical trace has ever demonstrated that an alien encounter occurred.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
 
 <img src="{{ "/assets/images/Pascagoula_abduction_80a64a_skeptical_gaps_4304c4-Illustration-1-dark.svg" | relative_url }}" alt="Skeptics illustration 1" data-theme-src-dark="{{ "/assets/images/Pascagoula_abduction_80a64a_skeptical_gaps_4304c4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pascagoula_abduction_80a64a_skeptical_gaps_4304c4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For critics, the Pascagoula case is not dismissed because nothing unusual was reported, but because the evidential chain remains fragile. The strongest parts of the story are psychological and testimonial rather than forensic. That distinction is central to why the incident still divides UFO researchers, sceptics, and historians of paranormal claims.
 
 ## The missing physical evidence problem
 
-The central weakness in the Pascagoula case is straightforward: the event produced no independently verifiable physical evidence capable of surviving scientific scrutiny. Despite the dramatic nature of the claims, investigators never produced authenticated landing marks, biological residue, instrument readings, damaged vegetation, radiation injury, or confirmed military tracking data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
+The central weakness in the Pascagoula case is straightforward: the event produced no independently verifiable physical evidence capable of surviving scientific scrutiny. Despite the dramatic nature of the claims, investigators never produced authenticated landing marks, biological residue, instrument readings, damaged vegetation, radiation injury, or confirmed military tracking data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
 
 This matters because the reported event was not subtle. Hickson and Parker described a large hovering object, bright lights, paralysis, levitation, non-human beings, and a physical examination aboard a craft. Sceptics argue that an encounter of that scale should have left clearer traces than testimony alone. The absence of such traces does not prove the men invented the story, but it sharply limits what can actually be concluded from it.
 
-Even supporters of the case often rely heavily on behavioural indicators rather than measurable evidence. The secretly recorded conversation inside the sheriff’s office is frequently presented as proof that the [witnesses]({{ 'witnesses-65306f/' | relative_url }}) were authentic and frightened. However, sceptics point out that fear and honesty are not equivalent to accuracy. People can sincerely misinterpret events, experience altered mental states, or reinforce one another’s perceptions under stress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
+Even supporters of the case often rely heavily on behavioural indicators rather than measurable evidence. The secretly recorded conversation inside the sheriff’s office is frequently presented as proof that the [witnesses]({{ 'witnesses-65306f/' | relative_url }}) were authentic and frightened. However, sceptics point out that fear and honesty are not equivalent to accuracy. People can sincerely misinterpret events, experience altered mental states, or reinforce one another’s perceptions under stress.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
 
-The case also unfolded during the intense 1973 American UFO wave, a period when sightings across the southern United States received heavy media attention. Critics argue that this wider atmosphere matters because public expectation and cultural imagery can shape how unusual experiences are interpreted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
+The case also unfolded during the intense 1973 American UFO wave, a period when sightings across the southern United States received heavy media attention. Critics argue that this wider atmosphere matters because public expectation and cultural imagery can shape how unusual experiences are interpreted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
 
-Another recurring sceptical argument concerns the growth of the story over time. Early reports focused on the basic encounter, while later retellings added more elaborate details about examinations, telepathic communication, robotic beings, and emotional effects. Critics such as Joe Nickell viewed this expansion as a warning sign because memory is reconstructive rather than fixed. In long-running UFO cases, later accounts often become more detailed after repeated interviews, hypnosis sessions, documentaries, and public retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
+Another recurring sceptical argument concerns the growth of the story over time. Early reports focused on the basic encounter, while later retellings added more elaborate details about examinations, telepathic communication, robotic beings, and emotional effects. Critics such as Joe Nickell viewed this expansion as a warning sign because memory is reconstructive rather than fixed. In long-running UFO cases, later accounts often become more detailed after repeated interviews, hypnosis sessions, documentaries, and public retellings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
 
 ## Why polygraphs did not settle the case
 
-Polygraph examinations are frequently cited by believers as evidence supporting Hickson and Parker. Contemporary reports stated that the men appeared truthful during testing, and some investigators concluded that they genuinely believed what they were saying. <span class="citation-chip-wrap"><a class="citation-chip" href="https://darkhorsepressnow.com/news/top-story/2023-10-10/pascagoula-alien-abductions-of-1973-50-years-later/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: darkhorsepressnow.com">[Darkhorse Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">darkhorsepressnow.com</span><span class="citation-popover-snippet">Darkhorse PressPascagoula Alien Abductions of 1973: 50 Years laterOct 10, 2023 — The two men underwent polygraph examinations later that...</span></span></span>
+Polygraph examinations are frequently cited by believers as evidence supporting Hickson and Parker. Contemporary reports stated that the men appeared truthful during testing, and some investigators concluded that they genuinely believed what they were saying.<span class="citation-chip-wrap"><a class="citation-chip" href="https://darkhorsepressnow.com/news/top-story/2023-10-10/pascagoula-alien-abductions-of-1973-50-years-later/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: darkhorsepressnow.com">[Darkhorse Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">darkhorsepressnow.com</span><span class="citation-popover-snippet">Darkhorse PressPascagoula Alien Abductions of 1973: 50 Years laterOct 10, 2023 — The two men underwent polygraph examinations later that...</span></span></span>
 
 Sceptics respond that polygraphs do not detect factual truth. They measure physiological stress responses such as breathing, pulse, and perspiration. A person can strongly believe a false interpretation and still appear truthful. Conversely, a truthful person may fail under stress. Because of these limitations, polygraph results are generally inadmissible or heavily restricted in courts and are not considered reliable scientific proof.
 
-The Pascagoula case contains additional complications. Aviation journalist and UFO sceptic Philip J. Klass argued that Hickson resisted taking a more rigorous examination from an experienced examiner and highlighted inconsistencies in reporting around the tests themselves. Klass ultimately concluded that the case was more consistent with a hoax or distorted narrative than a verified encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
+The Pascagoula case contains additional complications. Aviation journalist and UFO sceptic Philip J. Klass argued that Hickson resisted taking a more rigorous examination from an experienced examiner and highlighted inconsistencies in reporting around the tests themselves. Klass ultimately concluded that the case was more consistent with a hoax or distorted narrative than a verified encounter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
 
 Supporters counter that the men voluntarily submitted to scrutiny and showed little sign of deliberate deception. But even if that point is granted, sceptics maintain that the most a polygraph can establish is subjective sincerity. It cannot establish that alien beings physically abducted two fishermen beside the Pascagoula River.
 
@@ -273,26 +273,26 @@ Supporters counter that the men voluntarily submitted to scrutiny and showed lit
 
 ## Hypnosis, memory, and suggestibility
 
-One of the most contested aspects of the case involves hypnosis. UFO investigators including J. Allen Hynek and James Harder interviewed the witnesses under hypnosis shortly after the incident. At the time, some UFO researchers treated hypnosis as a tool for recovering hidden or traumatically suppressed memories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
+One of the most contested aspects of the case involves hypnosis. UFO investigators including J. Allen Hynek and James Harder interviewed the witnesses under hypnosis shortly after the incident. At the time, some UFO researchers treated hypnosis as a tool for recovering hidden or traumatically suppressed memories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
 
 Modern psychological research has made many investigators far more cautious. Hypnosis is now widely understood to increase suggestibility and confidence in recalled material rather than reliably uncovering objective truth. A hypnotised subject may unintentionally combine fragments of memory, imagination, cultural expectation, interviewer cues, and later reflection into a narrative that feels absolutely real.
 
 This concern is especially important in Pascagoula because parts of the story evolved over decades. Later interviews by Calvin Parker contained richer emotional and visual descriptions than some earlier accounts. Sceptics see this as consistent with memory reconstruction over time rather than stable recall of a single event.
 
-Joe Nickell proposed a more specific psychological explanation centred on hypnagogia, the transitional state between wakefulness and sleep. Hypnagogic experiences can involve paralysis, vivid imagery, sensed presences, floating sensations, and distorted perceptions of time. Nickell argued that Hickson may have experienced a dream-like altered state which Parker later accepted or absorbed through suggestion and shared retelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
+Joe Nickell proposed a more specific psychological explanation centred on hypnagogia, the transitional state between wakefulness and sleep. Hypnagogic experiences can involve paralysis, vivid imagery, sensed presences, floating sensations, and distorted perceptions of time. Nickell argued that Hickson may have experienced a dream-like altered state which Parker later accepted or absorbed through suggestion and shared retelling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
 
-Another sceptical point concerns Parker’s own early statements. According to some accounts cited by critics, Parker initially suggested he blacked out or lost consciousness during part of the encounter. If accurate, that raises a difficult question: how much of the narrative was directly experienced, and how much may have been reconstructed afterwards through conversation with Hickson? <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
+Another sceptical point concerns Parker’s own early statements. According to some accounts cited by critics, Parker initially suggested he blacked out or lost consciousness during part of the encounter. If accurate, that raises a difficult question: how much of the narrative was directly experienced, and how much may have been reconstructed afterwards through conversation with Hickson?<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
 
 Supporters reject the idea that hypnosis created the story, noting that the core claims existed before formal hypnotic sessions. Still, critics argue that hypnosis complicates the evidential picture because it blurs the line between original recollection and later elaboration.
 
 <img src="{{ "/assets/images/Pascagoula_abduction_80a64a_skeptical_gaps_4304c4-Illustration-2-dark.svg" | relative_url }}" alt="Skeptics illustration 2" data-theme-src-dark="{{ "/assets/images/Pascagoula_abduction_80a64a_skeptical_gaps_4304c4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pascagoula_abduction_80a64a_skeptical_gaps_4304c4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Hoax theories and motive debates
 
-The simplest sceptical explanation is deliberate fabrication. Yet this theory has always faced a problem: the witnesses appeared genuinely frightened soon after the incident, including during the hidden sheriff’s-office recording. Even sceptics who doubt the alien interpretation often acknowledge that the men did not behave like carefree pranksters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
+The simplest sceptical explanation is deliberate fabrication. Yet this theory has always faced a problem: the witnesses appeared genuinely frightened soon after the incident, including during the hidden sheriff’s-office recording. Even sceptics who doubt the alien interpretation often acknowledge that the men did not behave like carefree pranksters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
 
 That has led many critics away from a pure hoax explanation and toward mixed models involving exaggeration, confusion, fantasy, or socially reinforced misinterpretation.
 
-Nevertheless, hoax arguments persist because the case eventually generated fame, interviews, books, television appearances, and a lasting place in UFO culture. Hickson in particular became increasingly public about further paranormal experiences after the original report. Sceptics argue that this expansion weakened his credibility by making the narrative appear less restrained and more commercially tied to UFO celebrity culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
+Nevertheless, hoax arguments persist because the case eventually generated fame, interviews, books, television appearances, and a lasting place in UFO culture. Hickson in particular became increasingly public about further paranormal experiences after the original report. Sceptics argue that this expansion weakened his credibility by making the narrative appear less restrained and more commercially tied to UFO celebrity culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
 
 Some sceptics have also pointed to contradictions or ambiguities in the witnesses’ descriptions over time. Variations in creature appearance, the sequence of events, and details of the examination are treated as signs that the story was unstable rather than fixed.
 
@@ -310,7 +310,7 @@ These include:
 
 * Misidentification of lights or industrial activity near the Pascagoula River and Ingalls Shipyard.
 * Stress-induced perceptual distortion.
-* Alcohol use, though officers reportedly concluded the men were not intoxicated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
+* Alcohol use, though officers reportedly concluded the men were not intoxicated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
 * Sleep-related or dissociative experiences.
 * Social contagion during the wider 1973 UFO wave.
 * Memory contamination through repeated questioning and media exposure.
@@ -326,7 +326,7 @@ Sceptics also emphasise that extraordinary narratives naturally become more cohe
 
 The Pascagoula case survives because neither side has fully eliminated the other’s strongest point.
 
-Supporters can reasonably argue that the witnesses appeared deeply distressed, reported the event quickly, and maintained belief in their experience for decades. The secretly recorded conversation remains unusually compelling compared with many later UFO stories built entirely from retrospective testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
+Supporters can reasonably argue that the witnesses appeared deeply distressed, reported the event quickly, and maintained belief in their experience for decades. The secretly recorded conversation remains unusually compelling compared with many later UFO stories built entirely from retrospective testimony.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
 
 Sceptics, however, point out that no amount of sincerity overcomes the lack of independent verification. The case ultimately depends on human testimony filtered through fear, memory, suggestion, media attention, and decades of retelling. The evidential gap between “something frightening happened” and “an extraterrestrial abduction occurred” remains enormous.
 
@@ -335,194 +335,194 @@ That unresolved gap explains why Pascagoula occupies a peculiar place in UFO his
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UbAXZdv4WLA" title="The Pascagoula Alien Abduction - Close encounter or cosmic confusion? - Bust or Trust" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UbAXZdv4WLA" target="_blank" rel="noopener noreferrer">The Pascagoula Alien Abduction - Close encounter or cosmic confusion? - Bust or Trust</a></p><p class="youtube-embed-meta">Channel: Bust or Trust: A Kids&#x27; Mystery Podcast &middot; Views: 172 &middot; Uploaded: August 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UbAXZdv4WLA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UbAXZdv4WLA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Pascagoula Still Falls Short of Proof. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Pascagoula Still Falls Short of Proof. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Details why investigators failed to produce authenticated landing marks, biological residue, or matching military radar tracking data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details why investigators failed to produce authenticated landing marks, biological residue, or matching military radar tracking data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Deconstructs why polygraph results, hypnosis sessions, and subjective validation do not fulfill standard material verification rules.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Deconstructs why polygraph results, hypnosis sessions, and subjective validation do not fulfill standard material verification rules.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xq1vfWIiV1IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xq1vfWIiV1IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
         
-        <p class="fr-book-desc">Explains why high emotional distress during interviews can result in narrative confabulation and memory distortion trends.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why high emotional distress during interviews can result in narrative confabulation and memory distortion trends.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Total+Trial+System&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Total Trial System on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Total+Trial+System&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Total Trial System">The Total Trial System</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Total+Trial+System&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Total Trial System on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Total+Trial+System&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Total Trial System">The Total Trial System</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides the raw testimonial pillars used by researchers, allowing an direct audit against the core skeptical objections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Total+Trial+System&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the raw testimonial pillars used by researchers, allowing an direct audit against the core skeptical objections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Total+Trial+System&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction 2014 0 Movie Poster Art Print Legendary StudioDecor Adventure Ed"><img src="{{ '/assets/images/marketplace-covers/14676aae3cb867bb0a6c.jpg' | relative_url }}" alt="Listing image for Alien Abduction 2014 0 Movie Poster Art Print Legendary StudioDecor Adventure Ed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction 2014 0 Movie Poster Art Print Legendary StudioDecor Adventure Ed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction 2014 0 Movie Poster Art Print Legendary StudioDecor Adventure Ed"><img src="{{ '/assets/images/marketplace-covers/14676aae3cb867bb0a6c.jpg' | relative_url }}" alt="Listing image for Alien Abduction 2014 0 Movie Poster Art Print Legendary StudioDecor Adventure Ed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction 2014 0 Movie Poster Art Print Legendary StudioDecor Adventure Ed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cow Abduction Hamburger Meal Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e1b88282927b1c581df9.jpg' | relative_url }}" alt="Listing image for Alien Cow Abduction Hamburger Meal Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Cow Abduction Hamburger Meal Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cow Abduction Hamburger Meal Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e1b88282927b1c581df9.jpg' | relative_url }}" alt="Listing image for Alien Cow Abduction Hamburger Meal Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Cow Abduction Hamburger Meal Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor"><img src="{{ '/assets/images/marketplace-covers/8a69c01cfb4e71ca93d8.jpg' | relative_url }}" alt="Listing image for UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor"><img src="{{ '/assets/images/marketplace-covers/8a69c01cfb4e71ca93d8.jpg' | relative_url }}" alt="Listing image for UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction Movie Photo / Poster Up To 30&quot;"><img src="{{ '/assets/images/marketplace-covers/1bc2ddce555309e018c7.jpg' | relative_url }}" alt="Listing image for Alien Abduction Movie Photo / Poster Up To 30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction Movie Photo / Poster Up To 30&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction Movie Photo / Poster Up To 30&quot;"><img src="{{ '/assets/images/marketplace-covers/1bc2ddce555309e018c7.jpg' | relative_url }}" alt="Listing image for Alien Abduction Movie Photo / Poster Up To 30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction Movie Photo / Poster Up To 30&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="skeptics-why-pascagoula-still-falls-short-of-proof-pascagoula-abduction-1973-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ That unresolved gap explains why Pascagoula occupies a peculiar place in UFO his
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ That unresolved gap explains why Pascagoula occupies a peculiar place in UFO his
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ That unresolved gap explains why Pascagoula occupies a peculiar place in UFO his
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ That unresolved gap explains why Pascagoula occupies a peculiar place in UFO his
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ That unresolved gap explains why Pascagoula occupies a peculiar place in UFO his
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,99 +728,99 @@ That unresolved gap explains why Pascagoula occupies a peculiar place in UFO his
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Pascagoula incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pascagoula_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pascagoula_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: darkhorsepressnow.com  
-   Link: <a href="https://darkhorsepressnow.com/news/top-story/2023-10-10/pascagoula-alien-abductions-of-1973-50-years-later/" target="_blank" rel="noopener noreferrer nofollow">https://darkhorsepressnow.com/news/top-story/2023-10-10/pascagoula-alien-abductions-of-1973-50-years-later/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Darkhorse PressPascagoula Alien Abductions of 1973: 50 Years laterOct 10, 2023 — The two men underwent polygraph examinations later that...</p></details>
+   Link:<a href="https://darkhorsepressnow.com/news/top-story/2023-10-10/pascagoula-alien-abductions-of-1973-50-years-later/" target="_blank" rel="noopener noreferrer nofollow">https://darkhorsepressnow.com/news/top-story/2023-10-10/pascagoula-alien-abductions-of-1973-50-years-later/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Darkhorse PressPascagoula Alien Abductions of 1973: 50 Years laterOct 10, 2023 — The two men underwent polygraph examinations later that...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: countryroadsmagazine.com  
    Title: the pascagoula abduction  
-   Link: <a href="https://countryroadsmagazine.com/art-and-culture/people-places/the-pascagoula-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://countryroadsmagazine.com/art-and-culture/people-places/the-pascagoula-abduction/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sep 21, 2021 — “We took polygraph tests, voice stress tests, been hypnotized three times, had more credible witnesses than any case aroun...</p></details>
+   Link:<a href="https://countryroadsmagazine.com/art-and-culture/people-places/the-pascagoula-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://countryroadsmagazine.com/art-and-culture/people-places/the-pascagoula-abduction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sep 21, 2021 — “We took polygraph tests, voice stress tests, been hypnotized three times, had more credible witnesses than any case aroun...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: libguides.hindscc.edu  
    Title: pascagoula abduction  
-   Link: <a href="https://libguides.hindscc.edu/paranormalms/pascagoula_abduction" target="_blank" rel="noopener noreferrer nofollow">https://libguides.hindscc.edu/paranormalms/pascagoula_abduction</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On the evening of October 11... Hickson reportedly passed a polygraph examination. Dr. J. Allen...Read more...</p></details>
+   Link:<a href="https://libguides.hindscc.edu/paranormalms/pascagoula_abduction" target="_blank" rel="noopener noreferrer nofollow">https://libguides.hindscc.edu/paranormalms/pascagoula_abduction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On the evening of October 11... Hickson reportedly passed a polygraph examination. Dr. J. Allen...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Pascagoula-Closest-Encounter-My-Story/dp/B08Z2RLKK5" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Pascagoula-Closest-Encounter-My-Story/dp/B08Z2RLKK5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Closest Encounter: My StoryPhilip Mantle and Calvin Parker have put together a very lucid and detailed account of Calvin&#x27;s and Charle...</p></details>
+   Link:<a href="https://www.amazon.co.uk/Pascagoula-Closest-Encounter-My-Story/dp/B08Z2RLKK5" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Pascagoula-Closest-Encounter-My-Story/dp/B08Z2RLKK5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Closest Encounter: My StoryPhilip Mantle and Calvin Parker have put together a very lucid and detailed account of Calvin&#x27;s and Charle...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Pascagoula Alien Abduction  
-   Link: <a href="https://www.youtube.com/watch?v=UbAXZdv4WLA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UbAXZdv4WLA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pascagoula Abduction - Unresolved Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UbAXZdv4WLA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UbAXZdv4WLA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pascagoula Abduction - Unresolved Mysteries...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: The Pascagoula Abduction  
-   Link: <a href="https://www.youtube.com/watch?v=k9ErY5yDM-k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k9ErY5yDM-k</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence on the Record...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=k9ErY5yDM-k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k9ErY5yDM-k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence on the Record...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: abebooks.co.uk  
-   Link: <a href="https://www.abebooks.co.uk/BEYOND-REASONABLE-DOUBT-Pascagoula-Alien-Abduction/32046679151/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/BEYOND-REASONABLE-DOUBT-Pascagoula-Alien-Abduction/32046679151/bd</a>  
+   Link:<a href="https://www.abebooks.co.uk/BEYOND-REASONABLE-DOUBT-Pascagoula-Alien-Abduction/32046679151/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/BEYOND-REASONABLE-DOUBT-Pascagoula-Alien-Abduction/32046679151/bd</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: in 1973 a late night fishing trip in mississippi turned into one of americas str  
-   Link: <a href="https://www.facebook.com/itsdailyphotography/posts/in-1973-a-late-night-fishing-trip-in-mississippi-turned-into-one-of-americas-str/122303018048029240/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itsdailyphotography/posts/in-1973-a-late-night-fishing-trip-in-mississippi-turned-into-one-of-americas-str/122303018048029240/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>polygraph tests and passed. Hickson later underwent hypnosis and... The Pascagoula Abduction, as it became known, gripped headlines worl...</p></details>
+   Link:<a href="https://www.facebook.com/itsdailyphotography/posts/in-1973-a-late-night-fishing-trip-in-mississippi-turned-into-one-of-americas-str/122303018048029240/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itsdailyphotography/posts/in-1973-a-late-night-fishing-trip-in-mississippi-turned-into-one-of-americas-str/122303018048029240/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>polygraph tests and passed. Hickson later underwent hypnosis and... The Pascagoula Abduction, as it became known, gripped headlines worl...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: two fishermen reported being abducted by aliens in 1973 police hid a recorder ex  
-   Link: <a href="https://www.facebook.com/beinzpired/posts/two-fishermen-reported-being-abducted-by-aliens-in-1973-police-hid-a-recorder-ex/122257911398160789/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/beinzpired/posts/two-fishermen-reported-being-abducted-by-aliens-in-1973-police-hid-a-recorder-ex/122257911398160789/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Hickson took a polygraph exam, the examiner determined that Hickson believed the abduction story, but Klass argued that the test was...</p></details>
+   Link:<a href="https://www.facebook.com/beinzpired/posts/two-fishermen-reported-being-abducted-by-aliens-in-1973-police-hid-a-recorder-ex/122257911398160789/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/beinzpired/posts/two-fishermen-reported-being-abducted-by-aliens-in-1973-police-hid-a-recorder-ex/122257911398160789/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Hickson took a polygraph exam, the examiner determined that Hickson believed the abduction story, but Klass argued that the test was...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: supertalk.fm  
    Title: longtime ufo researcher releases new docuseries on pascagoula abduction  
-   Link: <a href="https://www.supertalk.fm/longtime-ufo-researcher-releases-new-docuseries-on-pascagoula-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://www.supertalk.fm/longtime-ufo-researcher-releases-new-docuseries-on-pascagoula-abduction/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Longtime UFO researcher releases new docuseries on...27 May 2025 — Pascagoula 73, a four-part series now available on Amazon and YouTube...</p></details>
+   Link:<a href="https://www.supertalk.fm/longtime-ufo-researcher-releases-new-docuseries-on-pascagoula-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://www.supertalk.fm/longtime-ufo-researcher-releases-new-docuseries-on-pascagoula-abduction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Longtime UFO researcher releases new docuseries on...27 May 2025 — Pascagoula 73, a four-part series now available on Amazon and YouTube...</p></details>
    Published: May 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/157wi6e/transcript_of_private_conversation_between_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/157wi6e/transcript_of_private_conversation_between_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>50 years ago the Pascagoula Alien Abduction occurred.... In 1973, two men went to police claiming to have been abducted by aliens.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/157wi6e/transcript_of_private_conversation_between_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/157wi6e/transcript_of_private_conversation_between_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>50 years ago the Pascagoula Alien Abduction occurred.... In 1973, two men went to police claiming to have been abducted by aliens.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: the 1973 alleged pascagoula abduction event most  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1d1hadf/the_1973_alleged_pascagoula_abduction_event_most/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1d1hadf/the_1973_alleged_pascagoula_abduction_event_most/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1973 Alleged Pascagoula Abduction Event... case is also a UFO sighting in its own right. Multiple, independent eyewitnesses reported...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1d1hadf/the_1973_alleged_pascagoula_abduction_event_most/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1d1hadf/the_1973_alleged_pascagoula_abduction_event_most/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1973 Alleged Pascagoula Abduction Event... case is also a UFO sighting in its own right. Multiple, independent eyewitnesses reported...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: 50 years ago the pascagoula alien abduction  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1775vb4/50_years_ago_the_pascagoula_alien_abduction/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1775vb4/50_years_ago_the_pascagoula_alien_abduction/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1973, two men went to police claiming to have been abducted by aliens. The police thought they were lying, so they left th...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1775vb4/50_years_ago_the_pascagoula_alien_abduction/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1775vb4/50_years_ago_the_pascagoula_alien_abduction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1973, two men went to police claiming to have been abducted by aliens. The police thought they were lying, so they left th...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40nikyoung/behind-the-pascagoula-abduction-the-most-famous-case-of-alien-abduction-aa341c52eee4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nikyoung/behind-the-pascagoula-abduction-the-most-famous-case-of-alien-abduction-aa341c52eee4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the existence of extraterrestrial life. The Day of...Read more...</p></details>
+   Link:<a href="https://medium.com/%40nikyoung/behind-the-pascagoula-abduction-the-most-famous-case-of-alien-abduction-aa341c52eee4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nikyoung/behind-the-pascagoula-abduction-the-most-famous-case-of-alien-abduction-aa341c52eee4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the existence of extraterrestrial life. The Day of...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/articles/the-pascagoula-abduction" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/the-pascagoula-abduction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>one (apparent) robotic one? · Do aliens exist?Read more...</p></details>
+   Link:<a href="https://www.history.co.uk/articles/the-pascagoula-abduction" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/the-pascagoula-abduction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>one (apparent) robotic one? · Do aliens exist?Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: foxnews.com  
    Title: Associated Press. Published  
-   Link: <a href="https://www.foxnews.com/us/mississippi-man-who-shunned-spotlight-recalls-alleged-1973-incident-with-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/mississippi-man-who-shunned-spotlight-recalls-alleged-1973-incident-with-ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mississippi man, who shunned spotlight, recalls alleged...11 Oct 2013 — Mississippi man, who shunned spotlight, recalls alleged 1973 inc...</p></details>
+   Link:<a href="https://www.foxnews.com/us/mississippi-man-who-shunned-spotlight-recalls-alleged-1973-incident-with-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/mississippi-man-who-shunned-spotlight-recalls-alleged-1973-incident-with-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mississippi man, who shunned spotlight, recalls alleged...11 Oct 2013 — Mississippi man, who shunned spotlight, recalls alleged 1973 inc...</p></details>

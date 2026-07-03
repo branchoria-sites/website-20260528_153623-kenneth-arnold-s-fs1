@@ -242,20 +242,20 @@ image: /assets/images/Carl_Higdon_contact_bfd61b_mccarty_canyon_timel_773dcc-Ill
 
 ## Introduction
 
-On 25 October 1974, Wyoming oil-field foreman Carl Higdon left for an afternoon elk hunt near McCarty Canyon in the Medicine Bow region and returned with a story built around one central mystery: several hours of missing time that nobody has ever fully reconstructed. The enduring fascination of the case is not only the later alien-contact narrative, but the narrower chronological puzzle. Higdon was reportedly seen hunting in daylight at roughly 4 p.m., yet was not recovered until around 11:30 p.m., confused, physically distressed, and unable at first to identify himself or recognise his wife. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span>
+On 25 October 1974, Wyoming oil-field foreman Carl Higdon left for an afternoon elk hunt near McCarty Canyon in the Medicine Bow region and returned with a story built around one central mystery: several hours of missing time that nobody has ever fully reconstructed. The enduring fascination of the case is not only the later alien-contact narrative, but the narrower chronological puzzle. Higdon was reportedly seen hunting in daylight at roughly 4 p.m., yet was not recovered until around 11:30 p.m., confused, physically distressed, and unable at first to identify himself or recognise his wife.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span>
 
 <img src="{{ "/assets/images/Carl_Higdon_contact_bfd61b_mccarty_canyon_timel_773dcc-Illustration-1-dark.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/Carl_Higdon_contact_bfd61b_mccarty_canyon_timel_773dcc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Carl_Higdon_contact_bfd61b_mccarty_canyon_timel_773dcc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For believers, the unexplained gap is the strongest part of the case because it involves external events: a search effort, a hospital admission, a displaced truck, and witnesses who described Higdon as disoriented long before hypnotic regression entered the story. For sceptics, the same timeline reveals the opposite problem: the crucial hours remain poorly documented, reconstructed mostly from later retellings rather than contemporaneous records. The missing-time puzzle therefore sits at the centre of the entire Carl Higdon case.
 
 ## The Elk Hunt Before the Shot
 
-The known chronology begins comparatively normally. Higdon, then a 41-year-old Rawlins resident and oil-field foreman, borrowed a company truck and drove roughly 40 miles south toward McCarty Canyon for an elk hunt. Most accounts agree that rough road conditions forced him to park and continue on foot into higher terrain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mydarkpath.com/77-carl-higdon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mydarkpath.com">[My Dark Path]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mydarkpath.com</span><span class="citation-popover-title">My Dark Path The alien abduction of Carl Higdon It&#x27;s Friday,</span><span class="citation-popover-snippet">The alien abduction of Carl HigdonIt&#x27;s Friday, October 25, 1974, around 4 p.m. In the remote Medicine Bow National Forest, south of Rawli...</span><span class="citation-popover-meta">Published: October 25, 1974</span></span></span>
+The known chronology begins comparatively normally. Higdon, then a 41-year-old Rawlins resident and oil-field foreman, borrowed a company truck and drove roughly 40 miles south toward McCarty Canyon for an elk hunt. Most accounts agree that rough road conditions forced him to park and continue on foot into higher terrain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mydarkpath.com/77-carl-higdon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mydarkpath.com">[My Dark Path]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mydarkpath.com</span><span class="citation-popover-title">My Dark Path The alien abduction of Carl Higdon It&#x27;s Friday,</span><span class="citation-popover-snippet">The alien abduction of Carl HigdonIt&#x27;s Friday, October 25, 1974, around 4 p.m. In the remote Medicine Bow National Forest, south of Rawli...</span><span class="citation-popover-meta">Published: October 25, 1974</span></span></span>
 
-The approximate timing matters because sunset in late October Wyoming arrives quickly in mountainous terrain. Higdon later placed the key event at around 4 p.m., when he reportedly spotted five elk and aimed his new 7 mm magnum rifle at the largest bull. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span>
+The approximate timing matters because sunset in late October Wyoming arrives quickly in mountainous terrain. Higdon later placed the key event at around 4 p.m., when he reportedly spotted five elk and aimed his new 7 mm magnum rifle at the largest bull.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span>
 
-According to Higdon, the rifle behaved impossibly. He claimed there was no normal recoil or report, and that the bullet travelled slowly before dropping to the ground about 50 feet ahead of him. This moment effectively marks the beginning of the missing-time window because his memory of ordinary events reportedly stops there. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Ausso_One" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[2cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Ausso One</span><span class="citation-popover-snippet">Cryptid Wiki - FandomThe witness was a 41 year old oil well driller, husband and father of four, Carl Higdon, who decided to take the day...</span></span></span>
+According to Higdon, the rifle behaved impossibly. He claimed there was no normal recoil or report, and that the bullet travelled slowly before dropping to the ground about 50 feet ahead of him. This moment effectively marks the beginning of the missing-time window because his memory of ordinary events reportedly stops there.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Ausso_One" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[2cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Ausso One</span><span class="citation-popover-snippet">Cryptid Wiki - FandomThe witness was a 41 year old oil well driller, husband and father of four, Carl Higdon, who decided to take the day...</span></span></span>
 
-One important detail often overlooked in later retellings is that the “alien encounter” narrative was not initially presented in its full later form. The earliest recoverable structure of the story is simpler: strange shot, blackout or discontinuity, disorientation, and recovery. The more elaborate account involving “Ausso One”, a cube-shaped craft, and interstellar travel emerged through later interviews and hypnotic regression sessions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span>
+One important detail often overlooked in later retellings is that the “alien encounter” narrative was not initially presented in its full later form. The earliest recoverable structure of the story is simpler: strange shot, blackout or discontinuity, disorientation, and recovery. The more elaborate account involving “Ausso One”, a cube-shaped craft, and interstellar travel emerged through later interviews and hypnotic regression sessions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span>
 
 That distinction matters because it separates two different questions:
 
@@ -266,11 +266,11 @@ The first question has at least some independent witnesses attached to it. The s
 
 ## Search, Recovery, and Hospital Arrival
 
-The timeline after the alleged blackout is fragmented but more externally anchored. According to repeated accounts, Higdon eventually regained awareness near or inside his truck sometime after dark, though his own recollections remained incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/a-wyoming-elk-hunter-takes-a-ride-in-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">a wyoming elk hunter takes a ride in a ufo</span><span class="citation-popover-snippet">It had to be towed out. Higdon was taken to Carbon County Hospital in...Read more...</span></span></span>
+The timeline after the alleged blackout is fragmented but more externally anchored. According to repeated accounts, Higdon eventually regained awareness near or inside his truck sometime after dark, though his own recollections remained incomplete.<span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/a-wyoming-elk-hunter-takes-a-ride-in-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">a wyoming elk hunter takes a ride in a ufo</span><span class="citation-popover-snippet">It had to be towed out. Higdon was taken to Carbon County Hospital in...Read more...</span></span></span>
 
-Several versions state that he used a CB radio to call for help after hearing company radio traffic. One frequently repeated detail is that he identified a nearby sign reading “North Boundary Lincoln Forest”, suggesting confusion about his precise location. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/a-wyoming-elk-hunter-takes-a-ride-in-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">a wyoming elk hunter takes a ride in a ufo</span><span class="citation-popover-snippet">It had to be towed out. Higdon was taken to Carbon County Hospital in...Read more...</span></span></span>
+Several versions state that he used a CB radio to call for help after hearing company radio traffic. One frequently repeated detail is that he identified a nearby sign reading “North Boundary Lincoln Forest”, suggesting confusion about his precise location.<span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/a-wyoming-elk-hunter-takes-a-ride-in-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">a wyoming elk hunter takes a ride in a ufo</span><span class="citation-popover-snippet">It had to be towed out. Higdon was taken to Carbon County Hospital in...Read more...</span></span></span>
 
-From there, the chronology becomes more concrete. A search party reportedly assembled, involving local law enforcement and experienced outdoorsmen using four-wheel-drive vehicles to navigate muddy roads and rough terrain. Accounts commonly place the recovery at approximately 11:30 p.m. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span>
+From there, the chronology becomes more concrete. A search party reportedly assembled, involving local law enforcement and experienced outdoorsmen using four-wheel-drive vehicles to navigate muddy roads and rough terrain. Accounts commonly place the recovery at approximately 11:30 p.m.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span>
 
 The condition in which Higdon was found became one of the case’s strongest corroborative talking points. Multiple later summaries describe him as:
 
@@ -279,9 +279,9 @@ The condition in which Higdon was found became one of the case’s strongest cor
 * unable at first to recognise his wife;
 * suffering from red, watering eyes;
 * highly sensitive to light;
-* unsteady on his feet or suffering equilibrium problems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/a-wyoming-elk-hunter-takes-a-ride-in-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[2podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">a wyoming elk hunter takes a ride in a ufo</span><span class="citation-popover-snippet">It had to be towed out. Higdon was taken to Carbon County Hospital in...Read more...</span></span></span>
+* unsteady on his feet or suffering equilibrium problems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/a-wyoming-elk-hunter-takes-a-ride-in-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[2podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">a wyoming elk hunter takes a ride in a ufo</span><span class="citation-popover-snippet">It had to be towed out. Higdon was taken to Carbon County Hospital in...Read more...</span></span></span>
 
-These symptoms were reportedly serious enough that he was transported to Carbon County Memorial Hospital in Rawlins during the early hours of 26 October. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span>
+These symptoms were reportedly serious enough that he was transported to Carbon County Memorial Hospital in Rawlins during the early hours of 26 October.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span>
 
 The hospital episode is important because it creates a documented transition from wilderness incident to medical observation. However, one of the central evidential weaknesses of the entire case is that complete hospital records have not circulated publicly in a verifiable archival form. Much of what is now repeated comes from newspaper retellings, UFO literature, later interviews, and secondary summaries rather than directly inspectable medical documentation.
 
@@ -289,11 +289,11 @@ The hospital episode is important because it creates a documented transition fro
 
 ## The Real Missing-Time Window
 
-The missing-time period is usually described as lasting from around 4 p.m. until recovery near 11:30 p.m., producing a gap of roughly seven and a half hours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span>
+The missing-time period is usually described as lasting from around 4 p.m. until recovery near 11:30 p.m., producing a gap of roughly seven and a half hours.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span>
 
 Yet the chronology is not actually that clean.
 
-Some versions of the story claim Higdon briefly regained awareness around 6 or 6:30 p.m., implying that the “blank” period may have been shorter than often advertised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/sb30zl/this_abduction_case_from_1974_might_be_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">This abduction case from 1974 might be the inspiration for...It was 6:00 to 6:30 P.M.; a rescue party found him at 11:30 P.M.. Aft...</span></span></span> Others compress or omit that stage entirely, creating a more dramatic uninterrupted disappearance.
+Some versions of the story claim Higdon briefly regained awareness around 6 or 6:30 p.m., implying that the “blank” period may have been shorter than often advertised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/sb30zl/this_abduction_case_from_1974_might_be_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">This abduction case from 1974 might be the inspiration for...It was 6:00 to 6:30 P.M.; a rescue party found him at 11:30 P.M.. Aft...</span></span></span> Others compress or omit that stage entirely, creating a more dramatic uninterrupted disappearance.
 
 This uncertainty creates a major interpretive problem. The case is often discussed as if investigators established a precisely documented absence. In reality, the exact sequence remains fuzzy:
 
@@ -322,7 +322,7 @@ The absence of a detailed minute-by-minute reconstruction is one reason the case
 <img src="{{ "/assets/images/Carl_Higdon_contact_bfd61b_mccarty_canyon_timel_773dcc-Illustration-2-dark.svg" | relative_url }}" alt="Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/Carl_Higdon_contact_bfd61b_mccarty_canyon_timel_773dcc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Carl_Higdon_contact_bfd61b_mccarty_canyon_timel_773dcc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Truck Problem
 
-One of the most debated parts of the timeline concerns Higdon’s truck. Later accounts repeatedly claimed the vehicle was found roughly three miles from where he had originally parked it, deep in rough muddy terrain difficult for a two-wheel-drive truck to access. Some retellings further claim there were no tyre tracks leading to the vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/a-wyoming-elk-hunter-takes-a-ride-in-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[2podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">a wyoming elk hunter takes a ride in a ufo</span><span class="citation-popover-snippet">It had to be towed out. Higdon was taken to Carbon County Hospital in...Read more...</span></span></span>
+One of the most debated parts of the timeline concerns Higdon’s truck. Later accounts repeatedly claimed the vehicle was found roughly three miles from where he had originally parked it, deep in rough muddy terrain difficult for a two-wheel-drive truck to access. Some retellings further claim there were no tyre tracks leading to the vehicle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/a-wyoming-elk-hunter-takes-a-ride-in-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[2podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">a wyoming elk hunter takes a ride in a ufo</span><span class="citation-popover-snippet">It had to be towed out. Higdon was taken to Carbon County Hospital in...Read more...</span></span></span>
 
 If fully verified, that would represent one of the strongest physical anomalies in the case because it would not depend solely on Higdon’s memory. But the evidential quality is uneven.
 
@@ -344,14 +344,14 @@ Most modern summaries repeat the “no tracks” claim without providing origina
 
 ## Why the Hospital Behaviour Matters More Than the Alien Story
 
-The chronology becomes more compelling when separated from the later extraterrestrial interpretation. Higdon’s confused state reportedly appeared before hypnotic regression and before the fully developed “Ausso One” narrative entered public circulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span>
+The chronology becomes more compelling when separated from the later extraterrestrial interpretation. Higdon’s confused state reportedly appeared before hypnotic regression and before the fully developed “Ausso One” narrative entered public circulation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span>
 
 That distinction is significant because critics of UFO abduction cases frequently focus on [hypnosis]({{ 'hypnosis-4da790/' | relative_url }}) as a source of confabulation or memory contamination. In Higdon’s case, however, several basic claims existed independently of hypnosis:
 
 * he went missing for hours;
 * searchers reportedly had difficulty locating him;
 * he appeared medically distressed;
-* he displayed confusion and memory disruption afterward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span>
+* he displayed confusion and memory disruption afterward.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span>
 
 None of those points proves alien contact. But they do explain why the case survived beyond local folklore. Something unusual appears to have happened to Higdon physically or psychologically that night, even if the cause remains disputed.
 
@@ -361,7 +361,7 @@ Sceptics have proposed several alternatives:
 * concussion from a fall in rough terrain;
 * exhaustion, dehydration, or exposure;
 * misremembered chronology amplified over time;
-* contamination from UFO culture and hypnotic suggestion in the 1970s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skeptic/comments/1iw7139/carl_higdons_alien_encounter_of_1974_and_its/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">carl higdons alien encounter of 1974 and its</span><span class="citation-popover-snippet">Carl Higdon&#x27;s alien encounter of 1974 and its connection to...February 23, 2025 — Under hypnosis Barney Hill drew a sketch of an a...</span><span class="citation-popover-meta">Published: February 23, 2025</span></span></span>
+* contamination from UFO culture and hypnotic suggestion in the 1970s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skeptic/comments/1iw7139/carl_higdons_alien_encounter_of_1974_and_its/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">carl higdons alien encounter of 1974 and its</span><span class="citation-popover-snippet">Carl Higdon&#x27;s alien encounter of 1974 and its connection to...February 23, 2025 — Under hypnosis Barney Hill drew a sketch of an a...</span><span class="citation-popover-meta">Published: February 23, 2025</span></span></span>
 
 The difficulty is that no single conventional explanation cleanly accounts for every reported feature, especially the combination of disorientation, missing recollection, alleged truck displacement, and the unusual bullet story.
 
@@ -375,13 +375,13 @@ What the chronology can reasonably support is limited but notable:
 * Higdon appears to have undergone a period of confusion and impaired memory.
 * A search and recovery operation reportedly occurred.
 * Medical personnel allegedly observed unusual disorientation and light sensitivity.
-* Several hours of activity remain poorly accounted for. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/a-wyoming-elk-hunter-takes-a-ride-in-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[2podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">a wyoming elk hunter takes a ride in a ufo</span><span class="citation-popover-snippet">It had to be towed out. Higdon was taken to Carbon County Hospital in...Read more...</span></span></span>
+* Several hours of activity remain poorly accounted for.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/a-wyoming-elk-hunter-takes-a-ride-in-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[2podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">a wyoming elk hunter takes a ride in a ufo</span><span class="citation-popover-snippet">It had to be towed out. Higdon was taken to Carbon County Hospital in...Read more...</span></span></span>
 
 What the timeline cannot independently prove:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* that Higdon was abducted; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/skeptic/comments/1iw7139/carl_higdons_alien_encounter_of_1974_and_its/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">carl higdons alien encounter of 1974 and its</span><span class="citation-popover-snippet">Carl Higdon&#x27;s alien encounter of 1974 and its connection to...February 23, 2025 — Under hypnosis Barney Hill drew a sketch of an a...</span><span class="citation-popover-meta">Published: February 23, 2025</span></span></span>
+* that Higdon was abducted;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/skeptic/comments/1iw7139/carl_higdons_alien_encounter_of_1974_and_its/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">carl higdons alien encounter of 1974 and its</span><span class="citation-popover-snippet">Carl Higdon&#x27;s alien encounter of 1974 and its connection to...February 23, 2025 — Under hypnosis Barney Hill drew a sketch of an a...</span><span class="citation-popover-meta">Published: February 23, 2025</span></span></span>
 * that non-human entities were involved;
 * that the truck was impossibly relocated;
 * that physical laws were violated during the rifle incident.
@@ -395,194 +395,194 @@ That is why the “missing hours” remain the real core of the Carl Higdon case
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/789LVh-GF1Y" title="Carl &amp; Margery Higdon | The Carl Higdon Alien Abduction Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=789LVh-GF1Y" target="_blank" rel="noopener noreferrer">Carl &amp; Margery Higdon | The Carl Higdon Alien Abduction Story</a></p><p class="youtube-embed-meta">Channel: Inception Radio Network &middot; Views: 45.6K &middot; Uploaded: November 2017 &middot; Length: 1 hour 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=789LVh-GF1Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=789LVh-GF1Y">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Did Higdon&#x27;s Missing Hours Go?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Did Higdon&#x27;s Missing Hours Go?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
-        </h4>
-        <p class="fr-book-author">By John E. Mack, Mack</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+</h4>
+<p class="fr-book-author">By John E. Mack, Mack</p>
         
-        <p class="fr-book-desc">Deals extensively with the timeline gaps, acute confusion, and inability to recognize family members following close encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Deals extensively with the timeline gaps, acute confusion, and inability to recognize family members following close encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xq1vfWIiV1IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xq1vfWIiV1IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
         
-        <p class="fr-book-desc">Demonstrates how poor contemporaneous documentation over time leads to highly embellished retrospective timelines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how poor contemporaneous documentation over time leads to highly embellished retrospective timelines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alien Abduction Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y1C4MgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alien Abduction Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alien Abduction Files">The Alien Abduction Files</a>
-        </h4>
-        <p class="fr-book-author">By Kathleen Marden, Denise Stoner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alien Abduction Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y1C4MgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alien Abduction Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alien Abduction Files">The Alien Abduction Files</a>
+</h4>
+<p class="fr-book-author">By Kathleen Marden, Denise Stoner</p>
         
-        <p class="fr-book-desc">Reviews the precise external logs of the 25 October 1974 Medicine Bow National Forest regional tracking files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reviews the precise external logs of the 25 October 1974 Medicine Bow National Forest regional tracking files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
-        </h4>
-        <p class="fr-book-author">By Budd Hopkins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
+</h4>
+<p class="fr-book-author">By Budd Hopkins</p>
         
-        <p class="fr-book-desc">Analyzes the chronological puzzle of daylight hunting excursions ending in midnight disoriented recovery phases before hypnosis is introd...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Analyzes the chronological puzzle of daylight hunting excursions ending in midnight disoriented recovery phases before hypnosis is introd...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alien Abduction Files</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alien Abduction Files</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-higdon-s-missing-hours-go-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-higdon-s-missing-hours-go-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -598,7 +598,7 @@ That is why the “missing hours” remain the real core of the Carl Higdon case
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -618,7 +618,7 @@ That is why the “missing hours” remain the real core of the Carl Higdon case
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -650,7 +650,7 @@ That is why the “missing hours” remain the real core of the Carl Higdon case
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -702,7 +702,7 @@ That is why the “missing hours” remain the real core of the Carl Higdon case
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -747,7 +747,7 @@ That is why the “missing hours” remain the real core of the Carl Higdon case
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -788,113 +788,113 @@ That is why the “missing hours” remain the real core of the Carl Higdon case
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: podcastufo.com  
    Title: a wyoming elk hunter takes a ride in a ufo  
-   Link: <a href="https://podcastufo.com/a-wyoming-elk-hunter-takes-a-ride-in-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/a-wyoming-elk-hunter-takes-a-ride-in-a-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It had to be towed out. Higdon was taken to Carbon County Hospital in...Read more...</p></details>
+   Link:<a href="https://podcastufo.com/a-wyoming-elk-hunter-takes-a-ride-in-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/a-wyoming-elk-hunter-takes-a-ride-in-a-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It had to be towed out. Higdon was taken to Carbon County Hospital in...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cryptidz.fandom.com  
    Title: Ausso One  
-   Link: <a href="https://cryptidz.fandom.com/wiki/Ausso_One" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Ausso_One</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cryptid Wiki - FandomThe witness was a 41 year old oil well driller, husband and father of four, Carl Higdon, who decided to take the day...</p></details>
+   Link:<a href="https://cryptidz.fandom.com/wiki/Ausso_One" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Ausso_One</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cryptid Wiki - FandomThe witness was a 41 year old oil well driller, husband and father of four, Carl Higdon, who decided to take the day...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/sb30zl/this_abduction_case_from_1974_might_be_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/sb30zl/this_abduction_case_from_1974_might_be_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This abduction case from 1974 might be the inspiration for...It was 6:00 to 6:30 P.M.; a rescue party found him at 11:30 P.M.. Aft...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/sb30zl/this_abduction_case_from_1974_might_be_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/sb30zl/this_abduction_case_from_1974_might_be_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This abduction case from 1974 might be the inspiration for...It was 6:00 to 6:30 P.M.; a rescue party found him at 11:30 P.M.. Aft...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: carl higdons alien encounter of 1974 and its  
-   Link: <a href="https://www.reddit.com/r/skeptic/comments/1iw7139/carl_higdons_alien_encounter_of_1974_and_its/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1iw7139/carl_higdons_alien_encounter_of_1974_and_its/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Carl Higdon&#x27;s alien encounter of 1974 and its connection to...February 23, 2025 — Under hypnosis Barney Hill drew a sketch of an a...</p></details>
+   Link:<a href="https://www.reddit.com/r/skeptic/comments/1iw7139/carl_higdons_alien_encounter_of_1974_and_its/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1iw7139/carl_higdons_alien_encounter_of_1974_and_its/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Carl Higdon&#x27;s alien encounter of 1974 and its connection to...February 23, 2025 — Under hypnosis Barney Hill drew a sketch of an a...</p></details>
    Published: February 23, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/17d1zo8/carl_higdons_humanoidufo_encounter_alien_named/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/17d1zo8/carl_higdons_humanoidufo_encounter_alien_named/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>t miles away in a spacecraft. Aliens &amp; UFOs.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/StrangeEarth/comments/17d1zo8/carl_higdons_humanoidufo_encounter_alien_named/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/17d1zo8/carl_higdons_humanoidufo_encounter_alien_named/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t miles away in a spacecraft. Aliens &amp; UFOs.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cowboystatedaily.com  
    Title: alien abductions of 2 wyoming men in the 1970s remain unexplainable  
-   Link: <a href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow">https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</p></details>
+   Link:<a href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow">https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...September 30, 2023 — 30 Sept 2023 — The March 16, 1973, editio...</p></details>
    Published: September 30, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mydarkpath.com  
    Title: My Dark Path The alien abduction of Carl Higdon It's Friday,  
-   Link: <a href="https://www.mydarkpath.com/77-carl-higdon" target="_blank" rel="noopener noreferrer nofollow">https://www.mydarkpath.com/77-carl-higdon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The alien abduction of Carl HigdonIt&#x27;s Friday, October 25, 1974, around 4 p.m. In the remote Medicine Bow National Forest, south of Rawli...</p></details>
+   Link:<a href="https://www.mydarkpath.com/77-carl-higdon" target="_blank" rel="noopener noreferrer nofollow">https://www.mydarkpath.com/77-carl-higdon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The alien abduction of Carl HigdonIt&#x27;s Friday, October 25, 1974, around 4 p.m. In the remote Medicine Bow National Forest, south of Rawli...</p></details>
    Published: October 25, 1974  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fiveunknownfacts/posts/he-pulled-the-trigger-and-the-bullet-simply-fell-out-of-the-air-in-the-fall-of-1/1554163309609136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fiveunknownfacts/posts/he-pulled-the-trigger-and-the-bullet-simply-fell-out-of-the-air-in-the-fall-of-1/1554163309609136/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>was soon found - and was taken to the hospital due to his &quot;unusual state.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/fiveunknownfacts/posts/he-pulled-the-trigger-and-the-bullet-simply-fell-out-of-the-air-in-the-fall-of-1/1554163309609136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fiveunknownfacts/posts/he-pulled-the-trigger-and-the-bullet-simply-fell-out-of-the-air-in-the-fall-of-1/1554163309609136/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>was soon found - and was taken to the hospital due to his &quot;unusual state.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/UnexplainedMysteriousUniverse/posts/carl-higdon-was-allegedly-abducted-by-aliens-on-october-25-1974-while-he-was-hun/674385281359569/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnexplainedMysteriousUniverse/posts/carl-higdon-was-allegedly-abducted-by-aliens-on-october-25-1974-while-he-was-hun/674385281359569/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>was soon found - and was taken to the hospital due to his &quot;unusual state.&quot;...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/UnexplainedMysteriousUniverse/posts/carl-higdon-was-allegedly-abducted-by-aliens-on-october-25-1974-while-he-was-hun/674385281359569/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnexplainedMysteriousUniverse/posts/carl-higdon-was-allegedly-abducted-by-aliens-on-october-25-1974-while-he-was-hun/674385281359569/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>was soon found - and was taken to the hospital due to his &quot;unusual state.&quot;...Read more...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: both carl higdon and pat mcguire made national headlines in the 1970s when in se  
-   Link: <a href="https://www.facebook.com/cowboystatedaily/posts/both-carl-higdon-and-pat-mcguire-made-national-headlines-in-the-1970s-when-in-se/1147219080754126/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cowboystatedaily/posts/both-carl-higdon-and-pat-mcguire-made-national-headlines-in-the-1970s-when-in-se/1147219080754126/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Both Carl Higdon and Pat McGuire made national...Both Carl Higdon and Pat McGuire made national headlines in the 1970s when, in separate...</p></details>
+   Link:<a href="https://www.facebook.com/cowboystatedaily/posts/both-carl-higdon-and-pat-mcguire-made-national-headlines-in-the-1970s-when-in-se/1147219080754126/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cowboystatedaily/posts/both-carl-higdon-and-pat-mcguire-made-national-headlines-in-the-1970s-when-in-se/1147219080754126/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Both Carl Higdon and Pat McGuire made national...Both Carl Higdon and Pat McGuire made national headlines in the 1970s when, in separate...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: in the fall of 1974 a routine elk hunt in wyomings medicine bow national forest  
-   Link: <a href="https://www.facebook.com/LifeFactsInc/posts/in-the-fall-of-1974-a-routine-elk-hunt-in-wyomings-medicine-bow-national-forest-/1333173122183993/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LifeFactsInc/posts/in-the-fall-of-1974-a-routine-elk-hunt-in-wyomings-medicine-bow-national-forest-/1333173122183993/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the fall of 1974, a routine elk hunt in Wyoming&#x27;s Medicine...After finding his misplaced truck, Carl Higdon radioed for help - was so...</p></details>
+   Link:<a href="https://www.facebook.com/LifeFactsInc/posts/in-the-fall-of-1974-a-routine-elk-hunt-in-wyomings-medicine-bow-national-forest-/1333173122183993/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LifeFactsInc/posts/in-the-fall-of-1974-a-routine-elk-hunt-in-wyomings-medicine-bow-national-forest-/1333173122183993/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the fall of 1974, a routine elk hunt in Wyoming&#x27;s Medicine...After finding his misplaced truck, Carl Higdon radioed for help - was so...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=SDx0uMPivJY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SDx0uMPivJY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Abduction of Carl HigdonStep into the shadowy fringes of the unknown with My Dark Path as we unravel one of the most bizarre UF...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SDx0uMPivJY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SDx0uMPivJY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Abduction of Carl HigdonStep into the shadowy fringes of the unknown with My Dark Path as we unravel one of the most bizarre UF...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYfyeLJkchy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYfyeLJkchy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It was almost like it was just dropped in the bog with, you know, Carl inside of it. OCR.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYfyeLJkchy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYfyeLJkchy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It was almost like it was just dropped in the bog with, you know, Carl inside of it. OCR.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pararational.com  
    Title: the 1974 carl higdon abduction wyoming hunter meets ausso one  
-   Link: <a href="https://www.pararational.com/the-1974-carl-higdon-abduction-wyoming-hunter-meets-ausso-one/" target="_blank" rel="noopener noreferrer nofollow">https://www.pararational.com/the-1974-carl-higdon-abduction-wyoming-hunter-meets-ausso-one/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Carl Higdon Abduction 1974: Wyoming Alien MysteryCarl Higdon&#x27;s 1974 encounter involved a humanoid alien and interplanetary travel, backed...</p></details>
+   Link:<a href="https://www.pararational.com/the-1974-carl-higdon-abduction-wyoming-hunter-meets-ausso-one/" target="_blank" rel="noopener noreferrer nofollow">https://www.pararational.com/the-1974-carl-higdon-abduction-wyoming-hunter-meets-ausso-one/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Carl Higdon Abduction 1974: Wyoming Alien MysteryCarl Higdon&#x27;s 1974 encounter involved a humanoid alien and interplanetary travel, backed...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: Brought up the "Alien Abduction" Memory  
-   Link: <a href="https://www.facebook.com/stewartfriesenracing/posts/brought-up-the-alien-abduction-memory-matt-crafton-was-pretty-shocked-it-seems/1843889909051805/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/stewartfriesenracing/posts/brought-up-the-alien-abduction-memory-matt-crafton-was-pretty-shocked-it-seems/1843889909051805/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Matt Crafton was...Such is the case of Carl Higdon, an elk hunter, who said he was abducted by a humanoid creature on Oct. 25, 1974, at...</p></details>
+   Link:<a href="https://www.facebook.com/stewartfriesenracing/posts/brought-up-the-alien-abduction-memory-matt-crafton-was-pretty-shocked-it-seems/1843889909051805/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/stewartfriesenracing/posts/brought-up-the-alien-abduction-memory-matt-crafton-was-pretty-shocked-it-seems/1843889909051805/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Matt Crafton was...Such is the case of Carl Higdon, an elk hunter, who said he was abducted by a humanoid creature on Oct. 25, 1974, at...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Carl & Margery Higdon | The Carl Higdon Alien Abduction Story  
-   Link: <a href="http://www.youtube.com/watch?v=789LVh-GF1Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=789LVh-GF1Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wyoming hunter Carl Higdon and his alien abduction experience in Medicine Bow National Forest, 1974 Eyes On Cinema · 21K views...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=789LVh-GF1Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=789LVh-GF1Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wyoming hunter Carl Higdon and his alien abduction experience in Medicine Bow National Forest, 1974 Eyes On Cinema · 21K views...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: The Mysterious ALIEN ABDUCTION of CARL HIGDONEpisode 434  
-   Link: <a href="https://www.youtube.com/watch?v=fGNRjfGEC_E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fGNRjfGEC_E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This story is of a man name Carl Higdon that was abducted by an alien named Ausso One in 1974 and was taken back to the aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fGNRjfGEC_E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fGNRjfGEC_E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This story is of a man name Carl Higdon that was abducted by an alien named Ausso One in 1974 and was taken back to the aliens...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/episode/5bjgD2dSKQVkEOJd4t3tZF" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/5bjgD2dSKQVkEOJd4t3tZF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Higdon and the Being Called Ausso One | Scary True...In 1974 Carl Higdon went on an elk hunting trip in Wyoming that ended in a surreal...</p></details>
+   Link:<a href="https://open.spotify.com/episode/5bjgD2dSKQVkEOJd4t3tZF" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/5bjgD2dSKQVkEOJd4t3tZF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Higdon and the Being Called Ausso One | Scary True...In 1974 Carl Higdon went on an elk hunting trip in Wyoming that ended in a surreal...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=P6LCz175is4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P6LCz175is4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 | Part Two | Missing Time. Bedtime...Read more...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=P6LCz175is4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P6LCz175is4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 | Part Two | Missing Time. Bedtime...Read more...</p></details>

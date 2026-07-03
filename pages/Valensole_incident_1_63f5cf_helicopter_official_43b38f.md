@@ -242,12 +242,12 @@ image: /assets/images/Valensole_incident_1_63f5cf_helicopter_official_43b38f-Ill
 
 ## Introduction
 
-The Valensole incident remains difficult to categorise because two competing ideas both appear partly reasonable. On one side, Maurice Masse’s first reaction on the morning of 1 July 1965 was reportedly that a helicopter had landed in his lavender field. The sound, the agricultural setting, and the existence of military and civilian helicopters in southern France during the mid-1960s make that explanation plausible at first glance. On the other side, the details later described by Masse — small humanoid figures, paralysis, unusual [ground traces]({{ 'ground-traces/' | relative_url }}), and rapid departure — move the story beyond an ordinary aircraft sighting. French investigators never produced evidence proving a helicopter landing, but they also never confirmed an extraordinary craft. That unresolved tension is precisely why the case survives in UFO literature and why GEIPAN, the French government’s official UAP investigation group, still lists Valensole as an unexplained category D case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</span></span></span>
+The Valensole incident remains difficult to categorise because two competing ideas both appear partly reasonable. On one side, Maurice Masse’s first reaction on the morning of 1 July 1965 was reportedly that a helicopter had landed in his lavender field. The sound, the agricultural setting, and the existence of military and civilian helicopters in southern France during the mid-1960s make that explanation plausible at first glance. On the other side, the details later described by Masse — small humanoid figures, paralysis, unusual [ground traces]({{ 'ground-traces/' | relative_url }}), and rapid departure — move the story beyond an ordinary aircraft sighting. French investigators never produced evidence proving a helicopter landing, but they also never confirmed an extraordinary craft. That unresolved tension is precisely why the case survives in UFO literature and why GEIPAN, the French government’s official UAP investigation group, still lists Valensole as an unexplained category D case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information o...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</span></span></span>
 
 <img src="{{ "/assets/images/Valensole_incident_1_63f5cf_helicopter_official_43b38f-Illustration-1-dark.svg" | relative_url }}" alt="Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/Valensole_incident_1_63f5cf_helicopter_official_43b38f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Valensole_incident_1_63f5cf_helicopter_official_43b38f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why a helicopter seemed plausible in 1965
 
-The helicopter explanation did not emerge decades later as a sceptical afterthought. It was built into the event from the beginning because Masse himself reportedly associated the initial sound with helicopters before he saw anything clearly. Contemporary press reports preserved in French UFO archives note that he heard a whistling or humming noise similar to a helicopter before walking around a rise in the field. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/press/dauphinelibere4jul1965b.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">He suddenly heard a strange noise, similar to the whistling of helicopters. - &quot;They...Read more...</span></span></span>
+The helicopter explanation did not emerge decades later as a sceptical afterthought. It was built into the event from the beginning because Masse himself reportedly associated the initial sound with helicopters before he saw anything clearly. Contemporary press reports preserved in French UFO archives note that he heard a whistling or humming noise similar to a helicopter before walking around a rise in the field.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/press/dauphinelibere4jul1965b.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">He suddenly heard a strange noise, similar to the whistling of helicopters. - &quot;They...Read more...</span></span></span>
 
 That matters because rural Provence in the 1960s was not isolated from aviation activity. France’s armed forces used helicopters extensively after the Algerian War, and aircraft such as the Sud Aviation Alouette II had become common enough that local residents knew what a helicopter sounded like. Later sceptical discussions proposed several helicopter-based possibilities:
 
@@ -260,11 +260,11 @@ That matters because rural Provence in the 1960s was not isolated from aviation 
 
 </div>
 
-French discussions of the case frequently mention the Alouette helicopter specifically because its compact shape and landing gear could, in theory, account for some aspects of the reported traces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Rencontre_de_Valensole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rencontre de Valensole</span><span class="citation-popover-snippet">Rencontre de Valensole</span></span></span>
+French discussions of the case frequently mention the Alouette helicopter specifically because its compact shape and landing gear could, in theory, account for some aspects of the reported traces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Rencontre_de_Valensole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rencontre de Valensole</span><span class="citation-popover-snippet">Rencontre de Valensole</span></span></span>
 
 The geography also helps explain why the theory persisted. The Valensole plateau consists of open agricultural land broken by ridges and low rises. Masse stated that he initially approached the sound without seeing the source directly. In low early-morning light, an unfamiliar viewing angle could plausibly distort perception of distance, size, and shape. Helicopters can also generate temporary soil compression and flattened vegetation, giving sceptics a grounded mechanism for the alleged landing marks.
 
-Another reason the helicopter idea attracted attention is that it explains the least controversial elements of the story without requiring exotic assumptions. A farmer hearing a machine at dawn, seeing a metallic object in a field, and later finding disturbed ground is easier to reconcile with known aviation activity than with an extraterrestrial landing. Even some UFO-oriented retellings begin with the line that Masse assumed he was dealing with a helicopter before concluding otherwise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">valensole ufo</span><span class="citation-popover-snippet">The 1965 Valensole UFO EncounterIn 1965, the Valensole UFO landed near Maurice Masse&#x27;s workplace, and two figures exited the...</span></span></span>
+Another reason the helicopter idea attracted attention is that it explains the least controversial elements of the story without requiring exotic assumptions. A farmer hearing a machine at dawn, seeing a metallic object in a field, and later finding disturbed ground is easier to reconcile with known aviation activity than with an extraterrestrial landing. Even some UFO-oriented retellings begin with the line that Masse assumed he was dealing with a helicopter before concluding otherwise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">valensole ufo</span><span class="citation-popover-snippet">The 1965 Valensole UFO EncounterIn 1965, the Valensole UFO landed near Maurice Masse&#x27;s workplace, and two figures exited the...</span></span></span>
 
 ## What the helicopter theory fails to explain
 
@@ -272,7 +272,7 @@ The problem for sceptics is that the helicopter hypothesis explains only part of
 
 ### The reported occupants and paralysis claim
 
-The central obstacle is the close-encounter narrative itself. Masse eventually described two small humanoid figures near the object and claimed one aimed a tube-like device at him, temporarily immobilising him while leaving him conscious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">valensole ufo</span><span class="citation-popover-snippet">The 1965 Valensole UFO EncounterIn 1965, the Valensole UFO landed near Maurice Masse&#x27;s workplace, and two figures exited the...</span></span></span> Reddit A helicopter theory can dismiss this as embellishment <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/sjkgcx/valensole_france_ufo_incident_1965_2_alien_beings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">valensole france ufo incident 1965 2 alien beings</span><span class="citation-popover-snippet">Valensole France UFO incident, 1965 - 2 alien beings...Valensole France UFO incident, 1965 - 2 alien beings paralyze a farmer with...</span></span></span>, stress, confabulation, or fabrication, but it does not independently explain why such details appeared. Critics point out that the most extraordinary elements entered the story progressively over time rather than all at once. According to archived discussions of the gendarmerie testimony, Masse’s later statements expanded significantly beyond the earliest report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/sjkgcx/valensole_france_ufo_incident_1965_2_alien_beings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">valensole france ufo incident 1965 2 alien beings</span><span class="citation-popover-snippet">Valensole France UFO incident, 1965 - 2 alien beings...Valensole France UFO incident, 1965 - 2 alien beings paralyze a farmer with...</span></span></span>
+The central obstacle is the close-encounter narrative itself. Masse eventually described two small humanoid figures near the object and claimed one aimed a tube-like device at him, temporarily immobilising him while leaving him conscious.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">valensole ufo</span><span class="citation-popover-snippet">The 1965 Valensole UFO EncounterIn 1965, the Valensole UFO landed near Maurice Masse&#x27;s workplace, and two figures exited the...</span></span></span> Reddit A helicopter theory can dismiss this as embellishment<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/sjkgcx/valensole_france_ufo_incident_1965_2_alien_beings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">valensole france ufo incident 1965 2 alien beings</span><span class="citation-popover-snippet">Valensole France UFO incident, 1965 - 2 alien beings...Valensole France UFO incident, 1965 - 2 alien beings paralyze a farmer with...</span></span></span>, stress, confabulation, or fabrication, but it does not independently explain why such details appeared. Critics point out that the most extraordinary elements entered the story progressively over time rather than all at once. According to archived discussions of the gendarmerie testimony, Masse’s later statements expanded significantly beyond the earliest report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/sjkgcx/valensole_france_ufo_incident_1965_2_alien_beings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">valensole france ufo incident 1965 2 alien beings</span><span class="citation-popover-snippet">Valensole France UFO incident, 1965 - 2 alien beings...Valensole France UFO incident, 1965 - 2 alien beings paralyze a farmer with...</span></span></span>
 
 This chronology weakens the case for a literal alien encounter, but it also complicates a simple aircraft explanation. If the event began as a helicopter sighting, investigators must still account for how and why the narrative evolved into a detailed humanoid encounter.
 
@@ -280,28 +280,28 @@ This chronology weakens the case for a literal alien encounter, but it also comp
 
 ### The traces did not match a standard helicopter landing neatly
 
-The physical traces became another sticking point. Gendarmes documented a central hole and radiating impressions in the soil, while later accounts described hardened ground and long-term plant effects. Geipan Ufologie Sceptics argued that the marks could have ordinary agricultural causes or could have been altered by crowds before proper examination. That c <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/press/dauphinelibere4jul1965b.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">He suddenly heard a strange noise, similar to the whistling of helicopters. - &quot;They...Read more...</span></span></span> riticism carries weight because visitors reportedly trampled the area before systematic forensic preservation occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</span></span></span>
+The physical traces became another sticking point. Gendarmes documented a central hole and radiating impressions in the soil, while later accounts described hardened ground and long-term plant effects. Geipan Ufologie Sceptics argued that the marks could have ordinary agricultural causes or could have been altered by crowds before proper examination. That c<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/press/dauphinelibere4jul1965b.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">He suddenly heard a strange noise, similar to the whistling of helicopters. - &quot;They...Read more...</span></span></span> riticism carries weight because visitors reportedly trampled the area before systematic forensic preservation occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</span></span></span>
 
 However, the pattern described in reports does not correspond cleanly to a known helicopter landing configuration either. A light helicopter would normally leave more recognisable skid or wheel impressions and rotor wash effects. The absence of a straightforward match kept the traces ambiguous rather than conclusively explained.
 
-The timeline also created problems. Masse said the soil later became unusually hard “like cement”, and later UFO literature claimed vegetation changes persisted for years. These later claims are controversial and poorly standardised by modern evidential standards, but they complicated attempts to reduce the event to a routine aircraft landing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</span></span></span>
+The timeline also created problems. Masse said the soil later became unusually hard “like cement”, and later UFO literature claimed vegetation changes persisted for years. These later claims are controversial and poorly standardised by modern evidential standards, but they complicated attempts to reduce the event to a routine aircraft landing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</span></span></span>
 
 ### The sound profile cuts both ways
 
 Ironically, the sound evidence both supports and weakens the helicopter theory.
 
-On one hand, [the witness]({{ 'the-witness-de4755/' | relative_url }}) explicitly compared the noise to a helicopter. On the other hand, later descriptions of the object’s departure emphasised unusual acceleration and comparatively little disturbance to the surrounding field. Some versions state the object departed obliquely and disappeared rapidly without producing the expected dust and rotor turbulence associated with a low helicopter take-off. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</span></span></span>
+On one hand, [the witness]({{ 'the-witness-de4755/' | relative_url }}) explicitly compared the noise to a helicopter. On the other hand, later descriptions of the object’s departure emphasised unusual acceleration and comparatively little disturbance to the surrounding field. Some versions state the object departed obliquely and disappeared rapidly without producing the expected dust and rotor turbulence associated with a low helicopter take-off.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</span></span></span>
 
 These details may reflect unreliable memory or storytelling drift, but they prevented the case from settling into a stable conventional explanation.
 
 <img src="{{ "/assets/images/Valensole_incident_1_63f5cf_helicopter_official_43b38f-Illustration-2-dark.svg" | relative_url }}" alt="Explanations illustration 2" data-theme-src-dark="{{ "/assets/images/Valensole_incident_1_63f5cf_helicopter_official_43b38f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Valensole_incident_1_63f5cf_helicopter_official_43b38f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why hoax theories never fully replaced the helicopter idea
 
-A separate line of scepticism argued that the incident may have been invented or unconsciously shaped by contemporary UFO culture. French discussions of the case have mentioned possible inspiration from popular illustrated science-fiction material of the period, as well as mundane objects such as a fertiliser tank misidentified in a field. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_France" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in France</span><span class="citation-popover-snippet">UFO sightings in FranceJuly 1, 1965, Valensole, Alpes-de-Haute-Provence. An alleged UFO sighting and close encounter (Rencontre de Val...</span><span class="citation-popover-meta">Published: July 1, 1965</span></span></span>
+A separate line of scepticism argued that the incident may have been invented or unconsciously shaped by contemporary UFO culture. French discussions of the case have mentioned possible inspiration from popular illustrated science-fiction material of the period, as well as mundane objects such as a fertiliser tank misidentified in a field.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_France" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in France</span><span class="citation-popover-snippet">UFO sightings in FranceJuly 1, 1965, Valensole, Alpes-de-Haute-Provence. An alleged UFO sighting and close encounter (Rencontre de Val...</span><span class="citation-popover-meta">Published: July 1, 1965</span></span></span>
 
 Yet outright hoax explanations also face limitations.
 
-First, Masse was generally regarded by investigators as sincere rather than publicity-seeking. Even accounts that reject the extraterrestrial interpretation often acknowledge that local gendarmes considered him coherent and credible as a witness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verdonxp.com/en/verdon-and-extraterrestrials-the-valensole-meeting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verdonxp.com">[Verdon-XP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verdonxp.com</span><span class="citation-popover-title">Verdon-XPVerdon and the extraterrestrials</span><span class="citation-popover-snippet">The Valensole Meeting4 May 2024 — Maurice Masse, a 41-year-old farmer, claimed to have had a close encounter of the third kind with extra...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+First, Masse was generally regarded by investigators as sincere rather than publicity-seeking. Even accounts that reject the extraterrestrial interpretation often acknowledge that local gendarmes considered him coherent and credible as a witness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://verdonxp.com/en/verdon-and-extraterrestrials-the-valensole-meeting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verdonxp.com">[Verdon-XP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verdonxp.com</span><span class="citation-popover-title">Verdon-XPVerdon and the extraterrestrials</span><span class="citation-popover-snippet">The Valensole Meeting4 May 2024 — Maurice Masse, a 41-year-old farmer, claimed to have had a close encounter of the third kind with extra...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 Second, there is no documented confession, reconstruction, or decisive evidence showing deliberate fraud. The story may have evolved through memory distortion and retelling, but that is different from proving invention.
 
@@ -321,9 +321,9 @@ That unresolved balance is one reason the helicopter hypothesis survived longer 
 
 ## What GEIPAN’s category D status actually means
 
-Valensole’s continuing reputation owes much to its official classification. GEIPAN — the French government unit attached to CNES, the national space agency — lists the case as a category D observation: unidentified after investigation. Geipan <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information o...</span></span></span>
+Valensole’s continuing reputation owes much to its official classification. GEIPAN — the French government unit attached to CNES, the national space agency — lists the case as a category D observation: unidentified after investigation. Geipan<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information o...</span></span></span>
 
-This classification is often misunderstood in UFO discussions. A category D designation does not mean “confirmed extraterrestrial spacecraft”. GEIPAN itself stresses that its work seeks rational explanations wherever possible and that many older unexplained cases are later reclassified after renewed analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</span></span></span>
+This classification is often misunderstood in UFO discussions. A category D designation does not mean “confirmed extraterrestrial spacecraft”. GEIPAN itself stresses that its work seeks rational explanations wherever possible and that many older unexplained cases are later reclassified after renewed analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</span></span></span>
 
 In practical terms, category D means investigators considered the available information insufficient for a confident ordinary explanation after examining the evidence available to them.
 
@@ -363,199 +363,199 @@ The result is an officially unresolved case that still sits in a grey zone betwe
 
 Valensole remains influential because it captures a recurring pattern in classic UFO cases: an ordinary explanation appears possible at first, yet never fully settles the matter. The helicopter theory explains the environment, the initial sound, and perhaps the beginning of the sighting. The unresolved elements — the humanoids, paralysis account, unusual traces, and inconsistencies — prevent consensus in either direction.
 
-For sceptics, Valensole demonstrates how memory expansion, folklore, and media attention can transform an ambiguous rural incident into a legendary UFO encounter. For UFO researchers, it represents one of the rare European cases where police documentation and physical traces accompanied a close-encounter report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThe Valensole UFO incident, EuropeFrance; Valensole, Provence-Alpes-Côte d&#x27;Azur, French farmer, Maurice...</span></span></span>
+For sceptics, Valensole demonstrates how memory expansion, folklore, and media attention can transform an ambiguous rural incident into a legendary UFO encounter. For UFO researchers, it represents one of the rare European cases where police documentation and physical traces accompanied a close-encounter report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThe Valensole UFO incident, EuropeFrance; Valensole, Provence-Alpes-Côte d&#x27;Azur, French farmer, Maurice...</span></span></span>
 
 GEIPAN’s category D label ultimately preserves that ambiguity rather than resolving it. More than sixty years later, Valensole remains neither convincingly explained nor convincingly proven — which is precisely why it continues to occupy a central place in discussions of unresolved UFO encounters.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Helicopter, Hoax, or Unresolved Case?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Helicopter, Hoax, or Unresolved Case?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Tracks the complete historical archive of the Valensole case, mapping out why French investigators failed to confirm an extraordinary craft.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Tracks the complete historical archive of the Valensole case, mapping out why French investigators failed to confirm an extraordinary craft.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Catalogs the early French press accounts and the whistling or humming noise descriptions recorded at dawn.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Catalogs the early French press accounts and the whistling or humming noise descriptions recorded at dawn.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Deconstructs why unresolved files survive for decades within literature when alternative options like fertilizer tanks are introduced.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Deconstructs why unresolved files survive for decades within literature when alternative options like fertilizer tanks are introduced.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Anatomy+of+a+Phenomenon+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Anatomy of a Phenomenon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Anatomy+of+a+Phenomenon+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anatomy of a Phenomenon">Anatomy of a Phenomenon</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Anatomy+of+a+Phenomenon+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Anatomy of a Phenomenon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Anatomy+of+a+Phenomenon+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anatomy of a Phenomenon">Anatomy of a Phenomenon</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Details the widespread use of Sud Aviation Alouette II military helicopters in 1960s Provence following the Algerian War.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Anatomy+of+a+Phenomenon+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details the widespread use of Sud Aviation Alouette II military helicopters in 1960s Provence following the Algerian War.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Anatomy+of+a+Phenomenon+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for POSTER POSTER VALENSOLE"><img src="{{ '/assets/images/marketplace-covers/a33e1eb17350428eca58.jpg' | relative_url }}" alt="Listing image for POSTER POSTER VALENSOLE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">POSTER POSTER VALENSOLE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Valensole poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Valensole poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for POSTER POSTER VALENSOLE"><img src="{{ '/assets/images/marketplace-covers/a33e1eb17350428eca58.jpg' | relative_url }}" alt="Listing image for POSTER POSTER VALENSOLE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">POSTER POSTER VALENSOLE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Valensole poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Valensole poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Valensole Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/8ebcd5d474de2648e2ae.jpg' | relative_url }}" alt="Listing image for Valensole Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Valensole Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Valensole poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Valensole poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Valensole Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/8ebcd5d474de2648e2ae.jpg' | relative_url }}" alt="Listing image for Valensole Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Valensole Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Valensole poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Valensole poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Valensole France Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7fe3ab5bcfdcfb1e9e65.jpg' | relative_url }}" alt="Listing image for Valensole France Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Valensole France Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Valensole poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Valensole poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Valensole France Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7fe3ab5bcfdcfb1e9e65.jpg' | relative_url }}" alt="Listing image for Valensole France Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Valensole France Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Valensole poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Valensole poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Valensole France Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/cc6e81b898e10cd4f31d.jpg' | relative_url }}" alt="Listing image for Valensole France Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Valensole France Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Valensole poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Valensole poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Valensole France Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/cc6e81b898e10cd4f31d.jpg' | relative_url }}" alt="Listing image for Valensole France Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Valensole France Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Valensole poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Valensole poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="explanations-325d4f-helicopter-hoax-or-unresolved-case-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ GEIPAN’s category D label ultimately preserves that ambiguity rather than reso
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ GEIPAN’s category D label ultimately preserves that ambiguity rather than reso
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ GEIPAN’s category D label ultimately preserves that ambiguity rather than reso
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ GEIPAN’s category D label ultimately preserves that ambiguity rather than reso
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ GEIPAN’s category D label ultimately preserves that ambiguity rather than reso
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,149 +761,149 @@ GEIPAN’s category D label ultimately preserves that ambiguity rather than reso
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Rencontre de Valensole  
-   Link: <a href="https://fr.wikipedia.org/wiki/Rencontre_de_Valensole" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Rencontre_de_Valensole</a>  
+   Link:<a href="https://fr.wikipedia.org/wiki/Rencontre_de_Valensole" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Rencontre_de_Valensole</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.howstuffworks.com  
    Title: valensole ufo  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1965 Valensole UFO EncounterIn 1965, the Valensole UFO landed near Maurice Masse&#x27;s workplace, and two figures exited the...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1965 Valensole UFO EncounterIn 1965, the Valensole UFO landed near Maurice Masse&#x27;s workplace, and two figures exited the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: valensole france ufo incident 1965 2 alien beings  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/sjkgcx/valensole_france_ufo_incident_1965_2_alien_beings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/sjkgcx/valensole_france_ufo_incident_1965_2_alien_beings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Valensole France UFO incident, 1965 - 2 alien beings...Valensole France UFO incident, 1965 - 2 alien beings paralyze a farmer with...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/sjkgcx/valensole_france_ufo_incident_1965_2_alien_beings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/sjkgcx/valensole_france_ufo_incident_1965_2_alien_beings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Valensole France UFO incident, 1965 - 2 alien beings...Valensole France UFO incident, 1965 - 2 alien beings paralyze a farmer with...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: verdonxp.com  
    Title: Verdon-XPVerdon and the extraterrestrials  
-   Link: <a href="https://verdonxp.com/en/verdon-and-extraterrestrials-the-valensole-meeting/" target="_blank" rel="noopener noreferrer nofollow">https://verdonxp.com/en/verdon-and-extraterrestrials-the-valensole-meeting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Valensole Meeting4 May 2024 — Maurice Masse, a 41-year-old farmer, claimed to have had a close encounter of the third kind with extra...</p></details>
+   Link:<a href="https://verdonxp.com/en/verdon-and-extraterrestrials-the-valensole-meeting/" target="_blank" rel="noopener noreferrer nofollow">https://verdonxp.com/en/verdon-and-extraterrestrials-the-valensole-meeting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Valensole Meeting4 May 2024 — Maurice Masse, a 41-year-old farmer, claimed to have had a close encounter of the third kind with extra...</p></details>
    Published: May 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cnes.fr  
-   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information o...</p></details>
+   Link:<a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information o...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: UFO sightings in France  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_France" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_France</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in FranceJuly 1, 1965, Valensole, Alpes-de-Haute-Provence. An alleged UFO sighting and close encounter (Rencontre de Val...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_France" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_France</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in FranceJuly 1, 1965, Valensole, Alpes-de-Haute-Provence. An alleged UFO sighting and close encounter (Rencontre de Val...</p></details>
    Published: July 1, 1965  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThe Valensole UFO incident, EuropeFrance; Valensole, Provence-Alpes-Côte d&#x27;Azur, French farmer, Maurice...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThe Valensole UFO incident, EuropeFrance; Valensole, Provence-Alpes-Côte d&#x27;Azur, French farmer, Maurice...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/46692" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/46692</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanVALENSOLE (04) 01.07.1965Observation d&#x27;un engin inconnu et rencontre rapprochée; traces au sol: phénomène non identifié. Descript...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/en/node/46692" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/46692</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanVALENSOLE (04) 01.07.1965Observation d&#x27;un engin inconnu et rencontre rapprochée; traces au sol: phénomène non identifié. Descript...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanMission &amp; Geipan | GEIPANToday, the GEIPAN has sped up the reappraisal of old D cases with 50 of them re-investigated and explained...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanMission &amp; Geipan | GEIPANToday, the GEIPAN has sped up the reappraisal of old D cases with 50 of them re-investigated and explained...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/press/dauphinelibere4jul1965b.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/dauphinelibere4jul1965b.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>He suddenly heard a strange noise, similar to the whistling of helicopters. - &quot;They...Read more...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/press/dauphinelibere4jul1965b.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/dauphinelibere4jul1965b.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He suddenly heard a strange noise, similar to the whistling of helicopters. - &quot;They...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: astonishinglegends.com  
    Title: the valensole ufo  
-   Link: <a href="https://astonishinglegends.com/astonishing-legends/2023/10/25/the-valensole-ufo" target="_blank" rel="noopener noreferrer nofollow">https://astonishinglegends.com/astonishing-legends/2023/10/25/the-valensole-ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Oct 2023 — What greeted him wasn&#x27;t a helicopter, but instead something shaped like a ruby ball that was the size of the car. It rested...</p></details>
+   Link:<a href="https://astonishinglegends.com/astonishing-legends/2023/10/25/the-valensole-ufo" target="_blank" rel="noopener noreferrer nofollow">https://astonishinglegends.com/astonishing-legends/2023/10/25/the-valensole-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25 Oct 2023 — What greeted him wasn&#x27;t a helicopter, but instead something shaped like a ruby ball that was the size of the car. It rested...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: uapedia.ai  
    Title: geipan frances official uap unit  
-   Link: <a href="https://uapedia.ai/wiki/geipan-frances-official-uap-unit/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/geipan-frances-official-uap-unit/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN: France&#x27;s Official UAP UnitIn 2017 alone, ~50 legacy D cases were re-investigated and explained. Geipan. How to interpret the “D /...</p></details>
+   Link:<a href="https://uapedia.ai/wiki/geipan-frances-official-uap-unit/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/geipan-frances-official-uap-unit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN: France&#x27;s Official UAP UnitIn 2017 alone, ~50 legacy D cases were re-investigated and explained. Geipan. How to interpret the “D /...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: silviolobo.com.br  
    Title: Valensole Incident  
-   Link: <a href="https://silviolobo.com.br/leitura/en/mysteries-xv/valensole-incident" target="_blank" rel="noopener noreferrer nofollow">https://silviolobo.com.br/leitura/en/mysteries-xv/valensole-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sílvio de Souza Lôbo JúniorLogic: The hypothesis suggests that Maurice Masse fabricated the incident, perhaps seeking attention, experien...</p></details>
+   Link:<a href="https://silviolobo.com.br/leitura/en/mysteries-xv/valensole-incident" target="_blank" rel="noopener noreferrer nofollow">https://silviolobo.com.br/leitura/en/mysteries-xv/valensole-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sílvio de Souza Lôbo JúniorLogic: The hypothesis suggests that Maurice Masse fabricated the incident, perhaps seeking attention, experien...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: academieairespace.com  
    Title: GEIPA N studies UAPs/UFOs  
-   Link: <a href="https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN studies UAPs/UFOs - AAEGEIPAN studies aerospace observations, unexplained phenomena observed in the sky, that have been reported t...</p></details>
+   Link:<a href="https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN studies UAPs/UFOs - AAEGEIPAN studies aerospace observations, unexplained phenomena observed in the sky, that have been reported t...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: newspaceeconomy.ca  
    Title: GEIPA N: Frances UAP Investigation Unit  
-   Link: <a href="https://newspaceeconomy.ca/2025/07/29/geipan-frances-uap-investigation-unit/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/07/29/geipan-frances-uap-investigation-unit/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Within category D a further sub‑classification exists (D1 for medium consistency, D2 for higher).Read more...</p></details>
+   Link:<a href="https://newspaceeconomy.ca/2025/07/29/geipan-frances-uap-investigation-unit/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/07/29/geipan-frances-uap-investigation-unit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Within category D a further sub‑classification exists (D1 for medium consistency, D2 for higher).Read more...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/tvmoviesseries.ntgroup/posts/3218853144962650/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/tvmoviesseries.ntgroup/posts/3218853144962650/</a>  
+   Link:<a href="https://www.facebook.com/groups/tvmoviesseries.ntgroup/posts/3218853144962650/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/tvmoviesseries.ntgroup/posts/3218853144962650/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SEPRA also didn&#x27;t do well on sightings that were likely due to reentry of debris into the atmo- sphere...Read more...</p></details>
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SEPRA also didn&#x27;t do well on sightings that were likely due to reentry of debris into the atmo- sphere...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/B1B5SQVo5Yw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/B1B5SQVo5Yw/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>front of it stood two figures, not quite four...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/B1B5SQVo5Yw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/B1B5SQVo5Yw/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>front of it stood two figures, not quite four...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: iheart.com  
    Title: The Valensole UFO Incident  
-   Link: <a href="https://www.iheart.com/podcast/867-this-paranormal-life-30961962/episode/the-valensole-ufo-incident-frances-306130923/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/867-this-paranormal-life-30961962/episode/the-valensole-ufo-incident-frances-306130923/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>France&#x27;s Roswell10 Nov 2025 — In 1965, a farmer in rural in France spotted what he believed was a helicopter landing in one of his fields...</p></details>
+   Link:<a href="https://www.iheart.com/podcast/867-this-paranormal-life-30961962/episode/the-valensole-ufo-incident-frances-306130923/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/867-this-paranormal-life-30961962/episode/the-valensole-ufo-incident-frances-306130923/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>France&#x27;s Roswell10 Nov 2025 — In 1965, a farmer in rural in France spotted what he believed was a helicopter landing in one of his fields...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: goloudnow.com  
-   Link: <a href="https://www.goloudnow.com/podcasts/this-paranormal-life-941/the-valensole-ufo-incident-frances-roswell-557570" target="_blank" rel="noopener noreferrer nofollow">https://www.goloudnow.com/podcasts/this-paranormal-life-941/the-valensole-ufo-incident-frances-roswell-557570</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Valensole UFO Incident - France&#x27;s Roswell10 Nov 2025 — In 1965, a farmer in rural in France spotted what he believed was a helicopter...</p></details>
+   Link:<a href="https://www.goloudnow.com/podcasts/this-paranormal-life-941/the-valensole-ufo-incident-frances-roswell-557570" target="_blank" rel="noopener noreferrer nofollow">https://www.goloudnow.com/podcasts/this-paranormal-life-941/the-valensole-ufo-incident-frances-roswell-557570</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Valensole UFO Incident - France&#x27;s Roswell10 Nov 2025 — In 1965, a farmer in rural in France spotted what he believed was a helicopter...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PwXIAUr7DIE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PwXIAUr7DIE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;What&#x27;s the weirdest case you&#x27;ve ever studied?&quot; Jacques Vallée talks UFO landing in Valensole, 1965...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PwXIAUr7DIE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PwXIAUr7DIE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;What&#x27;s the weirdest case you&#x27;ve ever studied?&quot; Jacques Vallée talks UFO landing in Valensole, 1965...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
    Title: UFOlogy101The Conferfence  
-   Link: <a href="https://www.facebook.com/groups/UFOlogy101TheConferfence/posts/1760734570840859/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/UFOlogy101TheConferfence/posts/1760734570840859/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>At the same time, he also saw two &quot;small boys,&quot; humanoid-looking beings less than four feet tall, dressed in grayish...</p></details>
+   Link:<a href="https://www.facebook.com/groups/UFOlogy101TheConferfence/posts/1760734570840859/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/UFOlogy101TheConferfence/posts/1760734570840859/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At the same time, he also saw two &quot;small boys,&quot; humanoid-looking beings less than four feet tall, dressed in grayish...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: newsweek.com  
    Title: ufo sightings encounters credibility video 1371313  
-   Link: <a href="https://www.newsweek.com/ufo-sightings-encounters-credibility-video-1371313" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/ufo-sightings-encounters-credibility-video-1371313</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They then exited the craft. The French farmer said he was left...Read more...</p></details>
+   Link:<a href="https://www.newsweek.com/ufo-sightings-encounters-credibility-video-1371313" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/ufo-sightings-encounters-credibility-video-1371313</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They then exited the craft. The French farmer said he was left...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: The Valensole UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=9svxP5t_kXM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9svxP5t_kXM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>France&#x27;s RoswellIn 1965, a farmer in rural in France spotted what he believed was a helicopter landing in one of his fields. When he ran...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9svxP5t_kXM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9svxP5t_kXM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>France&#x27;s RoswellIn 1965, a farmer in rural in France spotted what he believed was a helicopter landing in one of his fields. When he ran...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/southwestfrance/posts/1342464920438589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/southwestfrance/posts/1342464920438589/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>France has an official **UFO office** (GEIPAN) inside the...The case has been classified as a &#x27;Class D&#x27; case, which are the unexplained...</p></details>
+   Link:<a href="https://www.facebook.com/groups/southwestfrance/posts/1342464920438589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/southwestfrance/posts/1342464920438589/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>France has an official **UFO office** (GEIPAN) inside the...The case has been classified as a &#x27;Class D&#x27; case, which are the unexplained...</p></details>

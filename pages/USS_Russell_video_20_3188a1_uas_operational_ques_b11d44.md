@@ -242,18 +242,18 @@ image: /assets/images/USS_Russell_video_20_3188a1_uas_operational_ques_b11d44-Il
 
 ## Introduction
 
-The unresolved core of the USS Russell incident is no longer the “pyramid UFO” imagery itself. The more difficult question is operational: how unidentified drones were able to manoeuvre around US Navy destroyers for repeated periods in July 2019 without being conclusively identified, intercepted or publicly attributed. Official material released after the event increasingly treated the objects as unmanned aerial systems (UAS), yet major uncertainties remained over who controlled them, where they launched from, what intelligence they may have been gathering, and why substantial portions of the investigative record remain redacted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span>
+The unresolved core of the USS Russell incident is no longer the “pyramid UFO” imagery itself. The more difficult question is operational: how unidentified drones were able to manoeuvre around US Navy destroyers for repeated periods in July 2019 without being conclusively identified, intercepted or publicly attributed. Official material released after the event increasingly treated the objects as unmanned aerial systems (UAS), yet major uncertainties remained over who controlled them, where they launched from, what intelligence they may have been gathering, and why substantial portions of the investigative record remain redacted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span>
 
 <img src="{{ "/assets/images/USS_Russell_video_20_3188a1_uas_operational_ques_b11d44-Illustration-1-dark.svg" | relative_url }}" alt="Drone Operations illustration 1" data-theme-src-dark="{{ "/assets/images/USS_Russell_video_20_3188a1_uas_operational_ques_b11d44-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Russell_video_20_3188a1_uas_operational_ques_b11d44-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That operational ambiguity is what keeps the USS Russell episode relevant. The incident sits at the intersection of counter-drone warfare, naval readiness, intelligence collection and public transparency. Rather than a single dramatic sighting, the evidence points toward a prolonged maritime security problem involving multiple ships, overlapping sensor systems, classified counter-UAS responses and incomplete public disclosure. Forbes <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forbes.com/sites/davidhambling/2021/12/20/new-documents-reveal-us-navy-ghostbusters-battled-drones-harassing-destroyers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-title">new documents reveal us navy ghostbusters battled drones harassing destroyers</span><span class="citation-popover-snippet">New Documents Reveal U.S. Navy &#x27;Ghostbusters&#x27; Battled...20 Dec 2021 — When swarms of drones harassed U.S. destroyers during 2019 e...</span></span></span>
+That operational ambiguity is what keeps the USS Russell episode relevant. The incident sits at the intersection of counter-drone warfare, naval readiness, intelligence collection and public transparency. Rather than a single dramatic sighting, the evidence points toward a prolonged maritime security problem involving multiple ships, overlapping sensor systems, classified counter-UAS responses and incomplete public disclosure. Forbes<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forbes.com/sites/davidhambling/2021/12/20/new-documents-reveal-us-navy-ghostbusters-battled-drones-harassing-destroyers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-title">new documents reveal us navy ghostbusters battled drones harassing destroyers</span><span class="citation-popover-snippet">New Documents Reveal U.S. Navy &#x27;Ghostbusters&#x27; Battled...20 Dec 2021 — When swarms of drones harassed U.S. destroyers during 2019 e...</span></span></span>
 
 ## How the Navy Detected the Drones
 
-The publicly released evidence shows that the Navy did not rely on a single sensor or witness account. The incidents involved visual sightings, shipboard photography, infrared systems, deck log entries and tactical reporting procedures across several destroyers operating off Southern California. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span>
+The publicly released evidence shows that the Navy did not rely on a single sensor or witness account. The incidents involved visual sightings, shipboard photography, infrared systems, deck log entries and tactical reporting procedures across several destroyers operating off Southern California.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span>
 
-One important operational detail is the repeated activation of SNOOPIE teams. These are shipboard photography and intelligence teams tasked with documenting unusual contacts or security incidents. Their activation suggests the encounters were treated as operationally significant in real time, not merely as curiosities or isolated misidentifications. The USS Russell footage from both 17 July and 30 July 2019 emerged from this reporting structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span>
+One important operational detail is the repeated activation of SNOOPIE teams. These are shipboard photography and intelligence teams tasked with documenting unusual contacts or security incidents. Their activation suggests the encounters were treated as operationally significant in real time, not merely as curiosities or isolated misidentifications. The USS Russell footage from both 17 July and 30 July 2019 emerged from this reporting structure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span>
 
-Released timelines and deck logs also indicate that multiple vessels reported drone activity during overlapping periods. USS Kidd, USS Rafael Peralta, USS Paul Hamilton and USS Russell all appear in the available documentation. In some instances, crews described several drones operating simultaneously around the ships. Forbes <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span>
+Released timelines and deck logs also indicate that multiple vessels reported drone activity during overlapping periods. USS Kidd, USS Rafael Peralta, USS Paul Hamilton and USS Russell all appear in the available documentation. In some instances, crews described several drones operating simultaneously around the ships. Forbes<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span>
 
 The operational significance of this is easy to miss. Modern warships are built around layered situational awareness systems that combine radar, optical sensors, infrared tracking and electronic surveillance. If relatively small drones were able to persist around these vessels for hours, especially at night and in exercise conditions, it raised uncomfortable questions about the Navy’s ability to detect and classify low-observable aerial systems in congested maritime environments.
 
@@ -265,9 +265,9 @@ Several factors complicated attribution and tracking:
 * Small drones can present weak radar signatures.
 * Civilian and military traffic in Southern California operating areas is dense.
 * Ships were operating during exercises, increasing electromagnetic complexity.
-* Some released logs contain heavy redactions or missing periods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span>
+* Some released logs contain heavy redactions or missing periods.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span>
 
-The released videos also show navigation-style lighting patterns, including red, green and white lights. Those features argue against exotic craft and instead suggest conventional aviation or drone systems operating under some form of standard lighting configuration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span>
+The released videos also show navigation-style lighting patterns, including red, green and white lights. Those features argue against exotic craft and instead suggest conventional aviation or drone systems operating under some form of standard lighting configuration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span>
 
 At the same time, the persistence and coordination of the activity complicated the idea that these were simply hobbyist drones drifting into restricted areas by accident.
 
@@ -275,7 +275,7 @@ At the same time, the persistence and coordination of the activity complicated t
 
 One of the most persistent questions is launch origin. The available evidence strongly implies that investigators considered maritime launch platforms a serious possibility.
 
-Reporting based on Navy records repeatedly references suspicion surrounding nearby vessels, particularly the Hong Kong-flagged bulk carrier MV Bass Strait. Investigators examined whether drones could have been launched from civilian ships operating near the destroyers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://americanmilitarynews.com/2022/06/navy-releases-videos-of-mysterious-drones-that-swarmed-us-warships/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanmilitarynews.com">[American Military News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanmilitarynews.com</span><span class="citation-popover-title">navy releases videos of mysterious drones that swarmed us warships</span><span class="citation-popover-snippet">American Military NewsNavy releases videos of mysterious drones that swarmed...17 Jun 2022 — A pair of drones flying off the coast of Ca...</span></span></span>
+Reporting based on Navy records repeatedly references suspicion surrounding nearby vessels, particularly the Hong Kong-flagged bulk carrier MV Bass Strait. Investigators examined whether drones could have been launched from civilian ships operating near the destroyers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://americanmilitarynews.com/2022/06/navy-releases-videos-of-mysterious-drones-that-swarmed-us-warships/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanmilitarynews.com">[American Military News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanmilitarynews.com</span><span class="citation-popover-title">navy releases videos of mysterious drones that swarmed us warships</span><span class="citation-popover-snippet">American Military NewsNavy releases videos of mysterious drones that swarmed...17 Jun 2022 — A pair of drones flying off the coast of Ca...</span></span></span>
 
 That theory has several operational advantages:
 
@@ -288,13 +288,13 @@ That theory has several operational advantages:
 
 </div>
 
-However, no publicly released evidence definitively links the Bass Strait or any other vessel to the operations. The available records suggest the Navy investigated the possibility but did not publicly establish a conclusive attribution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://americanmilitarynews.com/2022/06/navy-releases-videos-of-mysterious-drones-that-swarmed-us-warships/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanmilitarynews.com">[American Military News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanmilitarynews.com</span><span class="citation-popover-title">navy releases videos of mysterious drones that swarmed us warships</span><span class="citation-popover-snippet">American Military NewsNavy releases videos of mysterious drones that swarmed...17 Jun 2022 — A pair of drones flying off the coast of Ca...</span></span></span>
+However, no publicly released evidence definitively links the Bass Strait or any other vessel to the operations. The available records suggest the Navy investigated the possibility but did not publicly establish a conclusive attribution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://americanmilitarynews.com/2022/06/navy-releases-videos-of-mysterious-drones-that-swarmed-us-warships/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanmilitarynews.com">[American Military News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanmilitarynews.com</span><span class="citation-popover-title">navy releases videos of mysterious drones that swarmed us warships</span><span class="citation-popover-snippet">American Military NewsNavy releases videos of mysterious drones that swarmed...17 Jun 2022 — A pair of drones flying off the coast of Ca...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AcjlaN--Xuk" title="FBI warns California of possible Iranian drone attacks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AcjlaN--Xuk" target="_blank" rel="noopener noreferrer">FBI warns California of possible Iranian drone attacks</a></p><p class="youtube-embed-meta">Channel: FOX 5 San Diego &middot; Views: 70.9K &middot; Uploaded: March 2026 &middot; Length: 1 minute 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AcjlaN--Xuk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AcjlaN--Xuk">Open on YouTube</a></p></div></div></div>
 
 ### Why “commercial drone” explanations remain incomplete
 
-The incidents are often described casually as likely involving commercially available quadcopters. Some released footage, especially from USS Paul Hamilton, appears broadly consistent with quadcopter-type drones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://americanmilitarynews.com/2022/06/navy-releases-videos-of-mysterious-drones-that-swarmed-us-warships/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanmilitarynews.com">[American Military News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanmilitarynews.com</span><span class="citation-popover-title">navy releases videos of mysterious drones that swarmed us warships</span><span class="citation-popover-snippet">American Military NewsNavy releases videos of mysterious drones that swarmed...17 Jun 2022 — A pair of drones flying off the coast of Ca...</span></span></span>
+The incidents are often described casually as likely involving commercially available quadcopters. Some released footage, especially from USS Paul Hamilton, appears broadly consistent with quadcopter-type drones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://americanmilitarynews.com/2022/06/navy-releases-videos-of-mysterious-drones-that-swarmed-us-warships/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanmilitarynews.com">[American Military News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanmilitarynews.com</span><span class="citation-popover-title">navy releases videos of mysterious drones that swarmed us warships</span><span class="citation-popover-snippet">American Military NewsNavy releases videos of mysterious drones that swarmed...17 Jun 2022 — A pair of drones flying off the coast of Ca...</span></span></span>
 
 Yet several unresolved issues remain:
 
@@ -314,7 +314,7 @@ The dispute is therefore less about whether drones existed and more about the ca
 
 ## Counter-Drone Responses and “Ghostbusters”
 
-Perhaps the most revealing operational detail in the released records is the appearance of counter-UAS measures. Documents discussed in later reporting mention “Ghostbusters”, apparently referring to specialised counter-drone teams or systems deployed in response to the incursions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span>
+Perhaps the most revealing operational detail in the released records is the appearance of counter-UAS measures. Documents discussed in later reporting mention “Ghostbusters”, apparently referring to specialised counter-drone teams or systems deployed in response to the incursions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span>
 
 The records also indicate that Navy personnel considered using or preparing defensive systems, including:
 
@@ -323,7 +323,7 @@ The records also indicate that Navy personnel considered using or preparing defe
 * Shipboard observation teams
 * Counter-UAS equipment
 * Small arms
-* Larger deck guns in contingency planning <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forbes.com/sites/davidhambling/2021/03/24/mystery-drones-kept-buzzing-us-destroyers-during-exercises-off-california/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-title">mystery drones kept buzzing us destroyers during exercises off california</span><span class="citation-popover-snippet">Mystery Drones Kept Buzzing U.S. Destroyers During...24 Mar 2021 — New details have emerged of how mysterious drones harassed US warship...</span></span></span>
+* Larger deck guns in contingency planning<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forbes.com/sites/davidhambling/2021/03/24/mystery-drones-kept-buzzing-us-destroyers-during-exercises-off-california/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-title">mystery drones kept buzzing us destroyers during exercises off california</span><span class="citation-popover-snippet">Mystery Drones Kept Buzzing U.S. Destroyers During...24 Mar 2021 — New details have emerged of how mysterious drones harassed US warship...</span></span></span>
 
 </div>
 
@@ -341,7 +341,7 @@ At the same time, the public still lacks crucial information:
 
 </div>
 
-The extensive redactions in released documents suggest that at least some answers remain classified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span>
+The extensive redactions in released documents suggest that at least some answers remain classified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span>
 
 <img src="{{ "/assets/images/USS_Russell_video_20_3188a1_uas_operational_ques_b11d44-Illustration-2-dark.svg" | relative_url }}" alt="Drone Operations illustration 2" data-theme-src-dark="{{ "/assets/images/USS_Russell_video_20_3188a1_uas_operational_ques_b11d44-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Russell_video_20_3188a1_uas_operational_ques_b11d44-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why the Navy may have withheld details
@@ -373,7 +373,7 @@ Naval exercises off Southern California involve advanced platforms, tactical coo
 
 </div>
 
-This interpretation gained traction because the incidents occurred repeatedly around multiple ships rather than as isolated one-off sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span>
+This interpretation gained traction because the incidents occurred repeatedly around multiple ships rather than as isolated one-off sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span>
 
 Some analysts and journalists examining the records noted that the pattern resembled probing behaviour more than random civilian drone misuse. Even if the drones themselves were technically ordinary, coordinated deployment near warships could still represent a sophisticated intelligence operation.
 
@@ -383,13 +383,13 @@ That possibility also explains why the case gradually shifted away from sensatio
 
 ## Documentation Gaps and Contradictions
 
-The public record surrounding the USS Russell incidents is unusually fragmented. Much of what is known emerged only through Freedom of Information Act requests and investigative reporting rather than formal Navy disclosure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span>
+The public record surrounding the USS Russell incidents is unusually fragmented. Much of what is known emerged only through Freedom of Information Act requests and investigative reporting rather than formal Navy disclosure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span>
 
 Several gaps continue to shape debate:
 
 ### Missing or heavily redacted logs
 
-Some timelines contain abrupt redaction patterns or incomplete contextual detail. Reporting has also noted discrepancies between released timelines and surviving deck logs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span>
+Some timelines contain abrupt redaction patterns or incomplete contextual detail. Reporting has also noted discrepancies between released timelines and surviving deck logs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span>
 
 This has fuelled competing interpretations. Skeptics generally argue that bureaucratic inconsistency and classification practices naturally produce incomplete records. Others view the omissions as evidence that more operationally sensitive conclusions were reached internally.
 
@@ -407,7 +407,7 @@ Publicly released material never fully answers basic attribution questions:
 
 </div>
 
-News reporting later indicated that the Navy still lacked firm answers well after the events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/navy-still-has-no-idea-what-unidentified-drones-that-st-1846629629" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[Gizmodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-title">navy still has no idea what unidentified drones that st 1846629629</span><span class="citation-popover-snippet">Navy Still Has No Idea What Mysterious Drones That...6 Apr 2021 — The U.S. Navy still has no idea who sent a swarm of drones to b...</span></span></span>
+News reporting later indicated that the Navy still lacked firm answers well after the events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/navy-still-has-no-idea-what-unidentified-drones-that-st-1846629629" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[Gizmodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-title">navy still has no idea what unidentified drones that st 1846629629</span><span class="citation-popover-snippet">Navy Still Has No Idea What Mysterious Drones That...6 Apr 2021 — The U.S. Navy still has no idea who sent a swarm of drones to b...</span></span></span>
 
 <img src="{{ "/assets/images/USS_Russell_video_20_3188a1_uas_operational_ques_b11d44-Illustration-3-dark.svg" | relative_url }}" alt="Drone Operations illustration 3" data-theme-src-dark="{{ "/assets/images/USS_Russell_video_20_3188a1_uas_operational_ques_b11d44-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Russell_video_20_3188a1_uas_operational_ques_b11d44-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Sensor evidence remains only partially public
@@ -430,183 +430,183 @@ The incidents therefore exposed several overlapping concerns:
 * The challenge of distinguishing civilian, criminal and state-linked drone activity
 * The security implications of persistent low-cost surveillance platforms
 
-The official reclassification of the Russell objects as unmanned aerial systems reduced the need for extraordinary explanations, but it did not resolve the operational problem. If anything, the drone interpretation made the security implications more concrete. The unsettling possibility was no longer unknown physics; it was that relatively accessible technology may have penetrated the awareness perimeter of frontline Navy warships during active operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span>
+The official reclassification of the Russell objects as unmanned aerial systems reduced the need for extraordinary explanations, but it did not resolve the operational problem. If anything, the drone interpretation made the security implications more concrete. The unsettling possibility was no longer unknown physics; it was that relatively accessible technology may have penetrated the awareness perimeter of frontline Navy warships during active operations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dPrYVmYkL5w" title="Radar confirms UFO swarm around Navy warship" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dPrYVmYkL5w" target="_blank" rel="noopener noreferrer">Radar confirms UFO swarm around Navy warship</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 14.7M &middot; Uploaded: May 2021 &middot; Length: 4 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dPrYVmYkL5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dPrYVmYkL5w">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Unmanned Aerial Systems Near USS Russell Security and Control Questions. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Unmanned Aerial Systems Near USS Russell Security and Control Questions. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=America+Spreads+Her+Sails+by+Clayton+R.+Barrow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open America Spreads Her Sails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ztmFCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for America Spreads Her Sails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=America+Spreads+Her+Sails+by+Clayton+R.+Barrow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="America Spreads Her Sails">America Spreads Her Sails</a>
-        </h4>
-        <p class="fr-book-author">By Clayton R. Barrow</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=America+Spreads+Her+Sails+by+Clayton+R.+Barrow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open America Spreads Her Sails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ztmFCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for America Spreads Her Sails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=America+Spreads+Her+Sails+by+Clayton+R.+Barrow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="America Spreads Her Sails">America Spreads Her Sails</a>
+</h4>
+<p class="fr-book-author">By Clayton R. Barrow</p>
         
-        <p class="fr-book-desc">Explains drone systems, identification metrics, and the precise military blind spots that allow UAS platforms to scout naval forces.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=America+Spreads+Her+Sails+by+Clayton+R.+Barrow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains drone systems, identification metrics, and the precise military blind spots that allow UAS platforms to scout naval forces.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=America+Spreads+Her+Sails+by+Clayton+R.+Barrow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warfare+by+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=I8oOBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+by+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
-        </h4>
-        <p class="fr-book-author">By John Kaag, Sarah Kreps</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warfare+by+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=I8oOBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drone+Warfare+by+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
+</h4>
+<p class="fr-book-author">By John Kaag, Sarah Kreps</p>
         
-        <p class="fr-book-desc">Addresses security concerns regarding unauthorized drone incursions, military airspace violations, and modern counter-UAS challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+by+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses security concerns regarding unauthorized drone incursions, military airspace violations, and modern counter-UAS challenges.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drone+Warfare+by+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fleet+at+Flood+Tide+by+James+D.+Hornfischer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fleet at Flood Tide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5zA7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fleet at Flood Tide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Fleet+at+Flood+Tide+by+James+D.+Hornfischer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fleet at Flood Tide">The Fleet at Flood Tide</a>
-        </h4>
-        <p class="fr-book-author">By James D. Hornfischer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fleet+at+Flood+Tide+by+James+D.+Hornfischer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fleet at Flood Tide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5zA7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fleet at Flood Tide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Fleet+at+Flood+Tide+by+James+D.+Hornfischer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fleet at Flood Tide">The Fleet at Flood Tide</a>
+</h4>
+<p class="fr-book-author">By James D. Hornfischer</p>
         
-        <p class="fr-book-desc">Establishes the cultural and historical baseline of Navy destroyer readiness, command protocols, and defensive security frameworks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Fleet+at+Flood+Tide+by+James+D.+Hornfischer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Establishes the cultural and historical baseline of Navy destroyer readiness, command protocols, and defensive security frameworks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Fleet+at+Flood+Tide+by+James+D.+Hornfischer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Directly highlights how the US military catalogs, hides, and later selectively discloses records regarding air threat anomalies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly highlights how the US military catalogs, hides, and later selectively discloses records regarding air threat anomalies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=America+Spreads+Her+Sails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">America Spreads Her Sails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warfare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warfare</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fleet+at+Flood+Tide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fleet at Flood Tide</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=America+Spreads+Her+Sails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">America Spreads Her Sails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warfare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warfare</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fleet+at+Flood+Tide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fleet at Flood Tide</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy destroyer model" data-ebay-reference="drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TAMIYA US NAVY DESTROYER DD445 FLETCHER PLASTIC MODEL KIT 1-350 SCALE (2)"><img src="{{ '/assets/images/marketplace-covers/ddd6069cdb3bbcbfebd1.jpg' | relative_url }}" alt="Listing image for TAMIYA US NAVY DESTROYER DD445 FLETCHER PLASTIC MODEL KIT 1-350 SCALE (2)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy destroyer model" data-ebay-reference="drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">TAMIYA US NAVY DESTROYER DD445 FLETCHER PLASTIC MODEL KIT 1-350 SCALE (2)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy destroyer model" data-ebay-reference="drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for navy destroyer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: navy destroyer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy destroyer model" data-ebay-reference="drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy destroyer model" data-ebay-reference="drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TAMIYA US NAVY DESTROYER DD445 FLETCHER PLASTIC MODEL KIT 1-350 SCALE (2)"><img src="{{ '/assets/images/marketplace-covers/ddd6069cdb3bbcbfebd1.jpg' | relative_url }}" alt="Listing image for TAMIYA US NAVY DESTROYER DD445 FLETCHER PLASTIC MODEL KIT 1-350 SCALE (2)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy destroyer model" data-ebay-reference="drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">TAMIYA US NAVY DESTROYER DD445 FLETCHER PLASTIC MODEL KIT 1-350 SCALE (2)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy destroyer model" data-ebay-reference="drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for navy destroyer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: navy destroyer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy destroyer model" data-ebay-reference="drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy destroyer model" data-ebay-reference="drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tamiya 1:700 Royal Australian Navy Destroyer Vampire Model Kit"><img src="{{ '/assets/images/marketplace-covers/44927e497d4a8cd58008.jpg' | relative_url }}" alt="Listing image for Tamiya 1:700 Royal Australian Navy Destroyer Vampire Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy destroyer model" data-ebay-reference="drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">Tamiya 1:700 Royal Australian Navy Destroyer Vampire Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy destroyer model" data-ebay-reference="drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for navy destroyer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: navy destroyer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy destroyer model" data-ebay-reference="drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy destroyer model" data-ebay-reference="drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tamiya 1:700 Royal Australian Navy Destroyer Vampire Model Kit"><img src="{{ '/assets/images/marketplace-covers/44927e497d4a8cd58008.jpg' | relative_url }}" alt="Listing image for Tamiya 1:700 Royal Australian Navy Destroyer Vampire Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy destroyer model" data-ebay-reference="drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">Tamiya 1:700 Royal Australian Navy Destroyer Vampire Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy destroyer model" data-ebay-reference="drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for navy destroyer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: navy destroyer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy destroyer model" data-ebay-reference="drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy destroyer model" data-ebay-reference="drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:700 Scale TYPE 42 Destroyer - 3d Printed MODEL boat"><img src="{{ '/assets/images/marketplace-covers/a681c35363b173b211ef.jpg' | relative_url }}" alt="Listing image for 1:700 Scale TYPE 42 Destroyer - 3d Printed MODEL boat" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy destroyer model" data-ebay-reference="drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">1:700 Scale TYPE 42 Destroyer - 3d Printed MODEL boat</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy destroyer model" data-ebay-reference="drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for navy destroyer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: navy destroyer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy destroyer model" data-ebay-reference="drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy destroyer model" data-ebay-reference="drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy destroyer model" data-ebay-reference="drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:700 Scale TYPE 42 Destroyer - 3d Printed MODEL boat"><img src="{{ '/assets/images/marketplace-covers/a681c35363b173b211ef.jpg' | relative_url }}" alt="Listing image for 1:700 Scale TYPE 42 Destroyer - 3d Printed MODEL boat" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy destroyer model" data-ebay-reference="drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">1:700 Scale TYPE 42 Destroyer - 3d Printed MODEL boat</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy destroyer model" data-ebay-reference="drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for navy destroyer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: navy destroyer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy destroyer model" data-ebay-reference="drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy destroyer model" data-ebay-reference="drone-operations-unmanned-aerial-systems-near-uss-russell-security-and-control-questions-uss-rus-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -622,7 +622,7 @@ The official reclassification of the Russell objects as unmanned aerial systems 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -642,7 +642,7 @@ The official reclassification of the Russell objects as unmanned aerial systems 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -674,7 +674,7 @@ The official reclassification of the Russell objects as unmanned aerial systems 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -726,7 +726,7 @@ The official reclassification of the Russell objects as unmanned aerial systems 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -771,7 +771,7 @@ The official reclassification of the Russell objects as unmanned aerial systems 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -812,132 +812,132 @@ The official reclassification of the Russell objects as unmanned aerial systems 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from Un...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from Un...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: forbes.com  
    Title: new documents reveal us navy ghostbusters battled drones harassing destroyers  
-   Link: <a href="https://www.forbes.com/sites/davidhambling/2021/12/20/new-documents-reveal-us-navy-ghostbusters-battled-drones-harassing-destroyers/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/davidhambling/2021/12/20/new-documents-reveal-us-navy-ghostbusters-battled-drones-harassing-destroyers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Documents Reveal U.S. Navy &#x27;Ghostbusters&#x27; Battled...20 Dec 2021 — When swarms of drones harassed U.S. destroyers during 2019 e...</p></details>
+   Link:<a href="https://www.forbes.com/sites/davidhambling/2021/12/20/new-documents-reveal-us-navy-ghostbusters-battled-drones-harassing-destroyers/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/davidhambling/2021/12/20/new-documents-reveal-us-navy-ghostbusters-battled-drones-harassing-destroyers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Documents Reveal U.S. Navy &#x27;Ghostbusters&#x27; Battled...20 Dec 2021 — When swarms of drones harassed U.S. destroyers during 2019 e...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: forbes.com  
    Title: mystery drones kept buzzing us destroyers during exercises off california  
-   Link: <a href="https://www.forbes.com/sites/davidhambling/2021/03/24/mystery-drones-kept-buzzing-us-destroyers-during-exercises-off-california/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/davidhambling/2021/03/24/mystery-drones-kept-buzzing-us-destroyers-during-exercises-off-california/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Drones Kept Buzzing U.S. Destroyers During...24 Mar 2021 — New details have emerged of how mysterious drones harassed US warship...</p></details>
+   Link:<a href="https://www.forbes.com/sites/davidhambling/2021/03/24/mystery-drones-kept-buzzing-us-destroyers-during-exercises-off-california/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/davidhambling/2021/03/24/mystery-drones-kept-buzzing-us-destroyers-during-exercises-off-california/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Drones Kept Buzzing U.S. Destroyers During...24 Mar 2021 — New details have emerged of how mysterious drones harassed US warship...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: gizmodo.com  
    Title: navy still has no idea what unidentified drones that st 1846629629  
-   Link: <a href="https://gizmodo.com/navy-still-has-no-idea-what-unidentified-drones-that-st-1846629629" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/navy-still-has-no-idea-what-unidentified-drones-that-st-1846629629</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Still Has No Idea What Mysterious Drones That...6 Apr 2021 — The U.S. Navy still has no idea who sent a swarm of drones to b...</p></details>
+   Link:<a href="https://gizmodo.com/navy-still-has-no-idea-what-unidentified-drones-that-st-1846629629" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/navy-still-has-no-idea-what-unidentified-drones-that-st-1846629629</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Still Has No Idea What Mysterious Drones That...6 Apr 2021 — The U.S. Navy still has no idea who sent a swarm of drones to b...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: july.com  
-   Link: <a href="https://july.com/uk/" target="_blank" rel="noopener noreferrer nofollow">https://july.com/uk/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July®️ UK | Luggage Bags &amp; Travel Suitcases UK&quot;The very best Aussie craftsmanship, making travelling easier, effortless, and irrefutably...</p></details>
+   Link:<a href="https://july.com/uk/" target="_blank" rel="noopener noreferrer nofollow">https://july.com/uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July®️ UK | Luggage Bags &amp; Travel Suitcases UK&quot;The very best Aussie craftsmanship, making travelling easier, effortless, and irrefutably...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/July" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/July</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JulyJuly is the seventh month of the year in the Julian and Gregorian calendars. Its length is 31 days. It was named by the Roman Sena...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/July" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/July</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JulyJuly is the seventh month of the year in the Julian and Gregorian calendars. Its length is 31 days. It was named by the Roman Sena...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: twz.com  
    Title: mysterious drone swarms over navy destroyers off california went on for weeks  
-   Link: <a href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</p></details>
+   Link:<a href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — At least three ships reported sighting drones in the very...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: twz.com  
    Title: drone swarms that harassed navy ships demystified in new documents  
-   Link: <a href="https://www.twz.com/drone-swarms-that-harassed-navy-ships-demystified-in-new-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/drone-swarms-that-harassed-navy-ships-demystified-in-new-documents</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneDrone Swarms That Harassed Navy Ships Off California...10 Jun 2022 — A major release of documents provides the highest level...</p></details>
+   Link:<a href="https://www.twz.com/drone-swarms-that-harassed-navy-ships-demystified-in-new-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/drone-swarms-that-harassed-navy-ships-demystified-in-new-documents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneDrone Swarms That Harassed Navy Ships Off California...10 Jun 2022 — A major release of documents provides the highest level...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: twz.com  
    Title: navy releases videos from mysterious drone swarms around warships off california  
-   Link: <a href="https://www.twz.com/navy-releases-videos-from-mysterious-drone-swarms-around-warships-off-california" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/navy-releases-videos-from-mysterious-drone-swarms-around-warships-off-california</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneNavy Releases Videos From Mysterious Drone Swarms...15 Jun 2022 — The Navy has released videos taken during a rash of drone...</p></details>
+   Link:<a href="https://www.twz.com/navy-releases-videos-from-mysterious-drone-swarms-around-warships-off-california" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/navy-releases-videos-from-mysterious-drone-swarms-around-warships-off-california</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneNavy Releases Videos From Mysterious Drone Swarms...15 Jun 2022 — The Navy has released videos taken during a rash of drone...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: twz.com  
    Title: navy releases timeline for 2019 uas swarm involving warships off california  
-   Link: <a href="https://www.twz.com/44231/navy-releases-timeline-for-2019-uas-swarm-involving-warships-off-california" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/44231/navy-releases-timeline-for-2019-uas-swarm-involving-warships-off-california</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneNavy Releases Timeline For Mysterious 2019 “UAS Swarm...10 Feb 2022 — A timeline of interactions between the US Navy&#x27;s Arlei...</p></details>
+   Link:<a href="https://www.twz.com/44231/navy-releases-timeline-for-2019-uas-swarm-involving-warships-off-california" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/44231/navy-releases-timeline-for-2019-uas-swarm-involving-warships-off-california</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneNavy Releases Timeline For Mysterious 2019 “UAS Swarm...10 Feb 2022 — A timeline of interactions between the US Navy&#x27;s Arlei...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: twz.com  
-   Link: <a href="https://www.twz.com/39913/multiple-destroyers-were-swarmed-by-mysterious-drones-off-california-over-numerous-nights" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/39913/multiple-destroyers-were-swarmed-by-mysterious-drones-off-california-over-numerous-nights</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple Destroyers Were Swarmed By Mysterious &#x27;Drones...23 May 2021 — The drones were described as flying for prolonged periods in low...</p></details>
+   Link:<a href="https://www.twz.com/39913/multiple-destroyers-were-swarmed-by-mysterious-drones-off-california-over-numerous-nights" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/39913/multiple-destroyers-were-swarmed-by-mysterious-drones-off-california-over-numerous-nights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple Destroyers Were Swarmed By Mysterious &#x27;Drones...23 May 2021 — The drones were described as flying for prolonged periods in low...</p></details>
    Published: May 2021  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: americanmilitarynews.com  
    Title: navy releases videos of mysterious drones that swarmed us warships  
-   Link: <a href="https://americanmilitarynews.com/2022/06/navy-releases-videos-of-mysterious-drones-that-swarmed-us-warships/" target="_blank" rel="noopener noreferrer nofollow">https://americanmilitarynews.com/2022/06/navy-releases-videos-of-mysterious-drones-that-swarmed-us-warships/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Military NewsNavy releases videos of mysterious drones that swarmed...17 Jun 2022 — A pair of drones flying off the coast of Ca...</p></details>
+   Link:<a href="https://americanmilitarynews.com/2022/06/navy-releases-videos-of-mysterious-drones-that-swarmed-us-warships/" target="_blank" rel="noopener noreferrer nofollow">https://americanmilitarynews.com/2022/06/navy-releases-videos-of-mysterious-drones-that-swarmed-us-warships/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Military NewsNavy releases videos of mysterious drones that swarmed...17 Jun 2022 — A pair of drones flying off the coast of Ca...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: unmannedairspace.info  
-   Link: <a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-navy-video-of-unidentified-drone-swarm-raises-interest-in-drone-detection-and-identification-systems/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-navy-video-of-unidentified-drone-swarm-raises-interest-in-drone-detection-and-identification-systems/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Navy video of unidentified drone swarm raises interest...The US Navy has released a new video from the incident in April 2019 when si...</p></details>
+   Link:<a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-navy-video-of-unidentified-drone-swarm-raises-interest-in-drone-detection-and-identification-systems/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-navy-video-of-unidentified-drone-swarm-raises-interest-in-drone-detection-and-identification-systems/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Navy video of unidentified drone swarm raises interest...The US Navy has released a new video from the incident in April 2019 when si...</p></details>
    Published: April 2019  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: in july 2019 at least four us navy warships patrolling off the coast of californ  
-   Link: <a href="https://www.facebook.com/TheAncientLibrary/posts/in-july-2019-at-least-four-us-navy-warships-patrolling-off-the-coast-of-californ/388678049551252/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheAncientLibrary/posts/in-july-2019-at-least-four-us-navy-warships-patrolling-off-the-coast-of-californ/388678049551252/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In July 2019, at least four US Navy warships patrolling off...In July 2019, at least four US Navy warships patrolling off the coast of C...</p></details>
+   Link:<a href="https://www.facebook.com/TheAncientLibrary/posts/in-july-2019-at-least-four-us-navy-warships-patrolling-off-the-coast-of-californ/388678049551252/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheAncientLibrary/posts/in-july-2019-at-least-four-us-navy-warships-patrolling-off-the-coast-of-californ/388678049551252/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In July 2019, at least four US Navy warships patrolling off...In July 2019, at least four US Navy warships patrolling off the coast of C...</p></details>
    Published: july 2019  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=AcjlaN--Xuk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AcjlaN--Xuk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI warns California of possible Iranian drone attacksThe FBI reportedly warned police departments in California of Iran conspiring drone...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AcjlaN--Xuk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AcjlaN--Xuk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI warns California of possible Iranian drone attacksThe FBI reportedly warned police departments in California of Iran conspiring drone...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: interestingengineering.com  
    Title: Unidentified 'Drones' Are Swarming Navy Destroyers  
-   Link: <a href="https://interestingengineering.com/culture/unidentified-drones-swarming-us-navy-destroyers" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/unidentified-drones-swarming-us-navy-destroyers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Mar 2021 — Incredibly, the next night — July 15 — drones appeared once more later in the evening. The USS Russell documented heavy dro...</p></details>
+   Link:<a href="https://interestingengineering.com/culture/unidentified-drones-swarming-us-navy-destroyers" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/unidentified-drones-swarming-us-navy-destroyers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>26 Mar 2021 — Incredibly, the next night — July 15 — drones appeared once more later in the evening. The USS Russell documented heavy dro...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
    Title: in july 2019 the uss omaha and other navy ships  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/15uxhzg/in_july_2019_the_uss_omaha_and_other_navy_ships/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/15uxhzg/in_july_2019_the_uss_omaha_and_other_navy_ships/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In July 2019, the USS Omaha and other Navy ships were...In July 2019, the USS Omaha and other Navy ships were swarmed by a huge group of...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/15uxhzg/in_july_2019_the_uss_omaha_and_other_navy_ships/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/15uxhzg/in_july_2019_the_uss_omaha_and_other_navy_ships/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In July 2019, the USS Omaha and other Navy ships were...In July 2019, the USS Omaha and other Navy ships were swarmed by a huge group of...</p></details>
    Published: july 2019  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/vmatmq/the_newly_released_navy_documents_state_that_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/vmatmq/the_newly_released_navy_documents_state_that_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>he USS Russell.... 700 Feet is too far to ID most drones.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/vmatmq/the_newly_released_navy_documents_state_that_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/vmatmq/the_newly_released_navy_documents_state_that_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>he USS Russell.... 700 Feet is too far to ID most drones.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nationalinterest.org  
    Title: UF O's or Drones: What Is 'Swarming' U.S  
-   Link: <a href="https://nationalinterest.org/blog/buzz/ufos-or-drones-what-swarming-us-navy-warships-181110/" target="_blank" rel="noopener noreferrer nofollow">https://nationalinterest.org/blog/buzz/ufos-or-drones-what-swarming-us-navy-warships-181110/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Warships?25 Mar 2021 — The War Zone also reported on a set of “major incursions” that took place the following night, July 15. The R...</p></details>
+   Link:<a href="https://nationalinterest.org/blog/buzz/ufos-or-drones-what-swarming-us-navy-warships-181110/" target="_blank" rel="noopener noreferrer nofollow">https://nationalinterest.org/blog/buzz/ufos-or-drones-what-swarming-us-navy-warships-181110/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Warships?25 Mar 2021 — The War Zone also reported on a set of “major incursions” that took place the following night, July 15. The R...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: yahoo.com  
    Title: mystery drones hovered over u 211110776  
-   Link: <a href="https://www.yahoo.com/news/mystery-drones-hovered-over-u-211110776.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/mystery-drones-hovered-over-u-211110776.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery drones hovered over Navy destroyers off California...24 Mar 2021 — The USS Russell documented a flurry of drone activity, with u...</p></details>
+   Link:<a href="https://www.yahoo.com/news/mystery-drones-hovered-over-u-211110776.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/mystery-drones-hovered-over-u-211110776.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery drones hovered over Navy destroyers off California...24 Mar 2021 — The USS Russell documented a flurry of drone activity, with u...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pprune.org  
-   Link: <a href="https://www.pprune.org/military-aviation/648633-drone-swarm-usn-incident-2019-a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pprune.org/military-aviation/648633-drone-swarm-usn-incident-2019-a.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Swarm USN incident 201930 Aug 2022 — Quote: The U.S. Navy has released a new video from an incident that involved six unidentified...</p></details>
+   Link:<a href="https://www.pprune.org/military-aviation/648633-drone-swarm-usn-incident-2019-a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pprune.org/military-aviation/648633-drone-swarm-usn-incident-2019-a.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Swarm USN incident 201930 Aug 2022 — Quote: The U.S. Navy has released a new video from an incident that involved six unidentified...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/posts/if-an-iran-linked-drone-is-launched-at-california-even-if-it-is-successfully-int/1286908173548354/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/if-an-iran-linked-drone-is-launched-at-california-even-if-it-is-successfully-int/1286908173548354/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If an Iran-linked drone is launched at California, even if it...The FBI recently warned California police departments that Iran could re...</p></details>
+   Link:<a href="https://www.facebook.com/WIONews/posts/if-an-iran-linked-drone-is-launched-at-california-even-if-it-is-successfully-int/1286908173548354/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/if-an-iran-linked-drone-is-launched-at-california-even-if-it-is-successfully-int/1286908173548354/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If an Iran-linked drone is launched at California, even if it...The FBI recently warned California police departments that Iran could re...</p></details>

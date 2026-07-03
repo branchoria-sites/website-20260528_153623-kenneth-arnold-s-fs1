@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /nash-and-fortenberry-0a9bf2-index/
 description: Focused pages that expand on Nash and Fortenberry sighting 1952.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Nash_and_Fortenberry_0a9bf2
 parent_title: Nash and Fortenberry sighting 1952
@@ -16,7 +16,7 @@ parent_permalink: /nash-and-fortenberry-sighting-1952/
 
 # Explore Topics in Nash and Fortenberry sighting 1952
 
-The following pages expand on the main **[Nash and Fortenberry sighting 1952]({{ '/nash-and-fortenberry-sighting-1952/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Nash and Fortenberry sighting 1952]({{ '/nash-and-fortenberry-sighting-1952/' | relative_url }})** page and cover its key branches in.
 
 - [Blue Book]({{ '/blue-book-d80295/' | relative_url }})
 - [Pilot Report]({{ '/pilot-report/' | relative_url }})

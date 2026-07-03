@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /steven-michalak-enco-1bbf94-index/
 description: Focused pages that expand on Steven Michalak encounter 1967.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Steven_Michalak_enco_1bbf94
 parent_title: Steven Michalak encounter 1967
@@ -16,7 +16,7 @@ parent_permalink: /steven-michalak-encounter-1967/
 
 # Explore Topics in Steven Michalak encounter 1967
 
-The following pages expand on the main **[Steven Michalak encounter 1967]({{ '/steven-michalak-encounter-1967/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Steven Michalak encounter 1967]({{ '/steven-michalak-encounter-1967/' | relative_url }})** page and cover its key branches in.
 
 - [Burn Evidence]({{ '/burn-evidence/' | relative_url }})
 - [Landing Site]({{ '/landing-site/' | relative_url }})

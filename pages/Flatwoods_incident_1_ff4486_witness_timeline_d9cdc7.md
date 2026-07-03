@@ -242,16 +242,16 @@ image: /assets/images/Flatwoods_incident_1_ff4486_witness_timeline_d9cdc7-Illust
 
 ## Introduction
 
-The core of the Flatwoods incident is not a long investigation or a carefully documented encounter. It is a narrow time window on the evening of 12 September 1952: several children saw a bright object cross the sky, a small search party climbed a hill near Flatwoods, West Virginia, and the group fled after a brief, frightening sighting in the dark. Everything that followed — UFO theories, the “Flatwoods Monster” image, sceptical reconstructions and decades of folklore — depends on how those few minutes are interpreted. The difficulty is that later retellings often smooth over disagreements, compress timelines or add details that were not consistently reported in the earliest accounts. What survives is a mixture of witness memory, newspaper reporting, UFO literature and later reconstruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/flatwoods-monster-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY TV Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">flatwoods monster west virginia</span><span class="citation-popover-snippet">HISTORY TV NederlandIn 1952, the Flatwoods Monster Terrified 6 Kids, a Mom...20 Jul 2018 — “Seven Braxton County residents on Saturday r...</span></span></span>
+The core of the Flatwoods incident is not a long investigation or a carefully documented encounter. It is a narrow time window on the evening of 12 September 1952: several children saw a bright object cross the sky, a small search party climbed a hill near Flatwoods, West Virginia, and the group fled after a brief, frightening sighting in the dark. Everything that followed — UFO theories, the “Flatwoods Monster” image, sceptical reconstructions and decades of folklore — depends on how those few minutes are interpreted. The difficulty is that later retellings often smooth over disagreements, compress timelines or add details that were not consistently reported in the earliest accounts. What survives is a mixture of witness memory, newspaper reporting, UFO literature and later reconstruction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/flatwoods-monster-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY TV Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">flatwoods monster west virginia</span><span class="citation-popover-snippet">HISTORY TV NederlandIn 1952, the Flatwoods Monster Terrified 6 Kids, a Mom...20 Jul 2018 — “Seven Braxton County residents on Saturday r...</span></span></span>
 
 <img src="{{ "/assets/images/Flatwoods_incident_1_ff4486_witness_timeline_d9cdc7-Illustration-1-dark.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/Flatwoods_incident_1_ff4486_witness_timeline_d9cdc7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Flatwoods_incident_1_ff4486_witness_timeline_d9cdc7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Fireball Near Dusk
 
-Most versions of the case begin around 7:15 p.m. on Friday 12 September 1952. Edward May, Fred May and Tommy Hyer were playing near the Flatwoods school area when they saw a bright object streak across the sky and appear to descend beyond a hill on property associated with farmer G. Bailey Fisher. Reports from outside Flatwoods matter here because a meteor was widely observed that evening across parts of the eastern United States, including West Virginia, Maryland and Pennsylvania. That broader astronomical event gives independent support to the claim that witnesses genuinely saw something unusual in the sky before the hilltop encounter even began. <span class="citation-chip-wrap"><a class="citation-chip" href="https://order-of-the-jackalope.com/worse-than-frankenstein/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: order-of-the-jackalope.com">[2order-of-the-jackalope.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">order-of-the-jackalope.com</span><span class="citation-popover-title">worse than frankenstein</span><span class="citation-popover-snippet">the Flatwoods monster]31 Oct 2022 — On September 12, 1952 a housewife and six kids in West Virginia ascended a foggy mountain and had an...</span><span class="citation-popover-meta">Published: September 12, 1952</span></span></span>
+Most versions of the case begin around 7:15 p.m. on Friday 12 September 1952. Edward May, Fred May and Tommy Hyer were playing near the Flatwoods school area when they saw a bright object streak across the sky and appear to descend beyond a hill on property associated with farmer G. Bailey Fisher. Reports from outside Flatwoods matter here because a meteor was widely observed that evening across parts of the eastern United States, including West Virginia, Maryland and Pennsylvania. That broader astronomical event gives independent support to the claim that witnesses genuinely saw something unusual in the sky before the hilltop encounter even began.<span class="citation-chip-wrap"><a class="citation-chip" href="https://order-of-the-jackalope.com/worse-than-frankenstein/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: order-of-the-jackalope.com">[2order-of-the-jackalope.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">order-of-the-jackalope.com</span><span class="citation-popover-title">worse than frankenstein</span><span class="citation-popover-snippet">the Flatwoods monster]31 Oct 2022 — On September 12, 1952 a housewife and six kids in West Virginia ascended a foggy mountain and had an...</span><span class="citation-popover-meta">Published: September 12, 1952</span></span></span>
 
-The exact appearance of the object varies by account. Some later retellings describe a fiery sphere, others a flashing or glowing craft. Early witness descriptions were less elaborate. The children mainly described a bright object that seemed to come down behind the hill. In a small rural town with little artificial lighting and no immediate way to verify what had crossed the sky, the assumption that something had landed nearby was understandable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flatwoods_monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flatwoods monster</span><span class="citation-popover-snippet">Flatwoods monster</span></span></span>
+The exact appearance of the object varies by account. Some later retellings describe a fiery sphere, others a flashing or glowing craft. Early witness descriptions were less elaborate. The children mainly described a bright object that seemed to come down behind the hill. In a small rural town with little artificial lighting and no immediate way to verify what had crossed the sky, the assumption that something had landed nearby was understandable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flatwoods_monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flatwoods monster</span><span class="citation-popover-snippet">Flatwoods monster</span></span></span>
 
-An important timeline detail is that the “monster” story did not begin with the object in the sky. The witnesses first interpreted the event as a possible crash or landing. Only after the search party climbed the hill did the creature narrative emerge. This sequence matters because sceptical investigators later argued that fear and expectation shaped how the witnesses interpreted what they encountered in the woods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue BookBy the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were miside...</span></span></span>
+An important timeline detail is that the “monster” story did not begin with the object in the sky. The witnesses first interpreted the event as a possible crash or landing. Only after the search party climbed the hill did the creature narrative emerge. This sequence matters because sceptical investigators later argued that fear and expectation shaped how the witnesses interpreted what they encountered in the woods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue BookBy the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were miside...</span></span></span>
 
 ## The May Home Search Party
 
@@ -271,11 +271,11 @@ The names most commonly included are:
 
 </div>
 
-Some versions also mention Lemon’s dog accompanying the group. Later summaries occasionally alter the total number of witnesses or omit one of the children. These discrepancies are not unusual in oral-history cases, but they complicate efforts to reconstruct an exact sequence of movements and observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://maeclair.net/2015/06/01/mythical-monday-the-flatwoods-monster-by-mae-clair/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maeclair.net">[From the Pen of Mae Clair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maeclair.net</span><span class="citation-popover-title">mythical monday the flatwoods monster by mae clair</span><span class="citation-popover-snippet">From the Pen of Mae ClairMythical Monday: The Flatwoods Monster by Mae Clair1 Jun 2015 — May gathered up the boys, along with two more of...</span></span></span>
+Some versions also mention Lemon’s dog accompanying the group. Later summaries occasionally alter the total number of witnesses or omit one of the children. These discrepancies are not unusual in oral-history cases, but they complicate efforts to reconstruct an exact sequence of movements and observations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://maeclair.net/2015/06/01/mythical-monday-the-flatwoods-monster-by-mae-clair/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maeclair.net">[From the Pen of Mae Clair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maeclair.net</span><span class="citation-popover-title">mythical monday the flatwoods monster by mae clair</span><span class="citation-popover-snippet">From the Pen of Mae ClairMythical Monday: The Flatwoods Monster by Mae Clair1 Jun 2015 — May gathered up the boys, along with two more of...</span></span></span>
 
-Eugene Lemon became especially important in the narrative because he was a member of the West Virginia National Guard. His presence gave the story an appearance of additional credibility in newspaper and UFO coverage. Yet Lemon was also one of the witnesses closest to the reported creature and therefore one of the people most affected by darkness, stress and surprise during the encounter itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/flatwoods-monster-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY TV Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">flatwoods monster west virginia</span><span class="citation-popover-snippet">HISTORY TV NederlandIn 1952, the Flatwoods Monster Terrified 6 Kids, a Mom...20 Jul 2018 — “Seven Braxton County residents on Saturday r...</span></span></span>
+Eugene Lemon became especially important in the narrative because he was a member of the West Virginia National Guard. His presence gave the story an appearance of additional credibility in newspaper and UFO coverage. Yet Lemon was also one of the witnesses closest to the reported creature and therefore one of the people most affected by darkness, stress and surprise during the encounter itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/flatwoods-monster-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY TV Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">flatwoods monster west virginia</span><span class="citation-popover-snippet">HISTORY TV NederlandIn 1952, the Flatwoods Monster Terrified 6 Kids, a Mom...20 Jul 2018 — “Seven Braxton County residents on Saturday r...</span></span></span>
 
-The group reportedly carried a flashlight and moved uphill toward what they thought was the landing area. Multiple accounts describe a mist or haze near the hilltop and mention an unpleasant metallic or sulphurous odour. These details later became central to arguments that something extraordinary had happened physically at the site. However, they were also exactly the sort of sensory details that could intensify panic in a night-time rural search where visibility was poor and emotions were escalating quickly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://braxtonwv.org/the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: braxtonwv.org">[Visit Braxton, WV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">braxtonwv.org</span><span class="citation-popover-snippet">Visit Braxton, WVThe Flatwoods MonsterUpon reaching the site of the crash, the group saw a pulsing red light. Lemon shined his flashlight...</span></span></span>
+The group reportedly carried a flashlight and moved uphill toward what they thought was the landing area. Multiple accounts describe a mist or haze near the hilltop and mention an unpleasant metallic or sulphurous odour. These details later became central to arguments that something extraordinary had happened physically at the site. However, they were also exactly the sort of sensory details that could intensify panic in a night-time rural search where visibility was poor and emotions were escalating quickly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://braxtonwv.org/the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: braxtonwv.org">[Visit Braxton, WV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">braxtonwv.org</span><span class="citation-popover-snippet">Visit Braxton, WVThe Flatwoods MonsterUpon reaching the site of the crash, the group saw a pulsing red light. Lemon shined his flashlight...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/epueMpPZ_Ww" title="The Story of The Flatwoods Monster" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=epueMpPZ_Ww" target="_blank" rel="noopener noreferrer">The Story of The Flatwoods Monster</a></p><p class="youtube-embed-meta">Channel: Under The Ash Tree &middot; Views: 35.5K &middot; Uploaded: October 2021 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=epueMpPZ_Ww" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=epueMpPZ_Ww">Open on YouTube</a></p></div></div></div>
 
@@ -283,7 +283,7 @@ The group reportedly carried a flashlight and moved uphill toward what they thou
 
 The encounter itself appears to have lasted only moments.
 
-According to the most widely repeated version, the group first noticed a pulsing or blinking red light. Eugene Lemon then aimed his flashlight toward the source. At that moment, witnesses said they saw a tall figure with a glowing or reddish face and a dark body shape. The group immediately panicked and ran downhill. <span class="citation-chip-wrap"><a class="citation-chip" href="https://braxtonwv.org/the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: braxtonwv.org">[Visit Braxton, WV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">braxtonwv.org</span><span class="citation-popover-snippet">Visit Braxton, WVThe Flatwoods MonsterUpon reaching the site of the crash, the group saw a pulsing red light. Lemon shined his flashlight...</span></span></span>
+According to the most widely repeated version, the group first noticed a pulsing or blinking red light. Eugene Lemon then aimed his flashlight toward the source. At that moment, witnesses said they saw a tall figure with a glowing or reddish face and a dark body shape. The group immediately panicked and ran downhill.<span class="citation-chip-wrap"><a class="citation-chip" href="https://braxtonwv.org/the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: braxtonwv.org">[Visit Braxton, WV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">braxtonwv.org</span><span class="citation-popover-snippet">Visit Braxton, WVThe Flatwoods MonsterUpon reaching the site of the crash, the group saw a pulsing red light. Lemon shined his flashlight...</span></span></span>
 
 The descriptions share several broad features:
 
@@ -300,9 +300,9 @@ The descriptions share several broad features:
 
 But the details vary considerably depending on the source and the date of the retelling.
 
-Some accounts describe the figure as roughly ten feet tall. Others claim twelve feet. Some say it floated or glided; others simply describe sudden movement. The “metal dress” or skirt-like lower body appears in some retellings but not all. Eye colour changes between orange, red and greenish light depending on the source consulted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://braxtonwv.org/the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: braxtonwv.org">[Visit Braxton, WV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">braxtonwv.org</span><span class="citation-popover-snippet">Visit Braxton, WVThe Flatwoods MonsterUpon reaching the site of the crash, the group saw a pulsing red light. Lemon shined his flashlight...</span></span></span>
+Some accounts describe the figure as roughly ten feet tall. Others claim twelve feet. Some say it floated or glided; others simply describe sudden movement. The “metal dress” or skirt-like lower body appears in some retellings but not all. Eye colour changes between orange, red and greenish light depending on the source consulted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://braxtonwv.org/the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: braxtonwv.org">[Visit Braxton, WV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">braxtonwv.org</span><span class="citation-popover-snippet">Visit Braxton, WVThe Flatwoods MonsterUpon reaching the site of the crash, the group saw a pulsing red light. Lemon shined his flashlight...</span></span></span>
 
-One reason these variations matter is that the sighting conditions were extremely poor. The encounter happened at night, outdoors, in a wooded area, under emotional tension, and the figure was illuminated only briefly by a flashlight. The witness group also included several children. Even believers in the case generally accept that the observation was short and visually confusing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flatwoods_monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flatwoods monster</span><span class="citation-popover-snippet">Flatwoods monster</span></span></span>
+One reason these variations matter is that the sighting conditions were extremely poor. The encounter happened at night, outdoors, in a wooded area, under emotional tension, and the figure was illuminated only briefly by a flashlight. The witness group also included several children. Even believers in the case generally accept that the observation was short and visually confusing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flatwoods_monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flatwoods monster</span><span class="citation-popover-snippet">Flatwoods monster</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TVJUDh4BHZ0" title="Project Blue Book: Episode Recap - “The Flatwoods Monster” (Season 1, Episode 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TVJUDh4BHZ0" target="_blank" rel="noopener noreferrer">Project Blue Book: Episode Recap - “The Flatwoods Monster” (Season 1, Episode 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 144.9K &middot; Uploaded: January 2019 &middot; Length: 4 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TVJUDh4BHZ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TVJUDh4BHZ0">Open on YouTube</a></p></div></div></div>
 
@@ -310,7 +310,7 @@ One reason these variations matter is that the sighting conditions were extremel
 
 The Flatwoods case developed in layers. The first layer was local testimony and newspaper coverage. The second came from UFO writers and popular magazines. The third emerged decades later through television, documentaries, tourism promotion and internet retellings. Each stage gradually standardised the creature into a more stable visual image.
 
-Gray Barker’s early UFO writing played a major role in this process. His Fate magazine article and later retellings helped establish the famous “Flatwoods Monster” appearance: towering, hooded, mechanical-looking and alien. Barker’s work was influential because it circulated nationally during the early 1950s UFO wave, but critics argue that it also encouraged dramatic embellishment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue BookBy the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were miside...</span></span></span>
+Gray Barker’s early UFO writing played a major role in this process. His Fate magazine article and later retellings helped establish the famous “Flatwoods Monster” appearance: towering, hooded, mechanical-looking and alien. Barker’s work was influential because it circulated nationally during the early 1950s UFO wave, but critics argue that it also encouraged dramatic embellishment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue BookBy the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were miside...</span></span></span>
 
 As the story evolved, several features became more pronounced:
 
@@ -324,7 +324,7 @@ As the story evolved, several features became more pronounced:
 
 </div>
 
-Earlier accounts are often messier and less certain than later summaries suggest. Witnesses did not all describe the same figure in identical terms, and not every dramatic detail appears in the earliest reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiptcomics.com/2019/01/16/history-channels-project-blue-book-the-real-story-of-the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiptcomics.com">[AIPT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiptcomics.com</span><span class="citation-popover-title">history channels project blue book the real story of the flatwoods monster</span><span class="citation-popover-snippet">Generally, the group reported seeing a blinking red light, and when...Read more...</span></span></span>
+Earlier accounts are often messier and less certain than later summaries suggest. Witnesses did not all describe the same figure in identical terms, and not every dramatic detail appears in the earliest reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aiptcomics.com/2019/01/16/history-channels-project-blue-book-the-real-story-of-the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiptcomics.com">[AIPT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiptcomics.com</span><span class="citation-popover-title">history channels project blue book the real story of the flatwoods monster</span><span class="citation-popover-snippet">Generally, the group reported seeing a blinking red light, and when...Read more...</span></span></span>
 
 This does not automatically mean the witnesses fabricated the story. Memory reconstruction is common after frightening events, especially when witnesses repeatedly retell experiences over decades. The Flatwoods case is therefore historically valuable not only as a UFO report but also as an example of how local experiences become folklore through repetition, illustration and media retelling.
 
@@ -339,13 +339,13 @@ The most influential sceptical reconstruction came from investigator Joe Nickell
 * The “monster” may have been a barn owl perched in a tree.
 * The owl’s eyes reflected the flashlight beam.
 * Branches and shadows created the illusion of a giant hooded form.
-* Fear amplified the apparent size and menace of the figure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue BookBy the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were miside...</span></span></span>
+* Fear amplified the apparent size and menace of the figure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue BookBy the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were miside...</span></span></span>
 
 </div>
 
-The owl explanation gained traction partly because it matches several reported features surprisingly well. A startled owl illuminated at night can appear to have glowing eyes and a sharply outlined face. If perched on a branch with foliage beneath it, the silhouette could appear much taller than it really was. A sudden movement by the bird might also explain why witnesses thought the figure glided toward them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/articles/383097/flatwoods-monster-mothman-owl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">flatwoods monster mothman owl</span><span class="citation-popover-snippet">What Was the Flatwoods Monster?4 Dec 2021 — Lemon shined his flashlight up the hill, and the group witnessed a terrifying sight—a t...</span></span></span>
+The owl explanation gained traction partly because it matches several reported features surprisingly well. A startled owl illuminated at night can appear to have glowing eyes and a sharply outlined face. If perched on a branch with foliage beneath it, the silhouette could appear much taller than it really was. A sudden movement by the bird might also explain why witnesses thought the figure glided toward them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/articles/383097/flatwoods-monster-mothman-owl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">flatwoods monster mothman owl</span><span class="citation-popover-snippet">What Was the Flatwoods Monster?4 Dec 2021 — Lemon shined his flashlight up the hill, and the group witnessed a terrifying sight—a t...</span></span></span>
 
-Critics of the sceptical explanation respond that the witnesses were familiar with rural wildlife and insisted they had not merely seen a bird. Supporters of the case also point to the reported odour, physical distress and intense fear experienced afterwards. Yet none of those elements independently proves an extraterrestrial encounter. Emotional shock after a frightening surprise in darkness is entirely plausible without requiring a non-human entity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://braxtonwv.org/the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: braxtonwv.org">[Visit Braxton, WV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">braxtonwv.org</span><span class="citation-popover-snippet">Visit Braxton, WVThe Flatwoods MonsterUpon reaching the site of the crash, the group saw a pulsing red light. Lemon shined his flashlight...</span></span></span>
+Critics of the sceptical explanation respond that the witnesses were familiar with rural wildlife and insisted they had not merely seen a bird. Supporters of the case also point to the reported odour, physical distress and intense fear experienced afterwards. Yet none of those elements independently proves an extraterrestrial encounter. Emotional shock after a frightening surprise in darkness is entirely plausible without requiring a non-human entity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://braxtonwv.org/the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: braxtonwv.org">[Visit Braxton, WV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">braxtonwv.org</span><span class="citation-popover-snippet">Visit Braxton, WVThe Flatwoods MonsterUpon reaching the site of the crash, the group saw a pulsing red light. Lemon shined his flashlight...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7TH9iCUgrG4" title="Project Blue Book: Declassified – The True Story of the Flatwoods Monster | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7TH9iCUgrG4" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified – The True Story of the Flatwoods Monster | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 130.9K &middot; Uploaded: February 2019 &middot; Length: 2 minutes 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7TH9iCUgrG4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7TH9iCUgrG4">Open on YouTube</a></p></div></div></div>
 
@@ -359,233 +359,233 @@ Several points are strongly supported:
 * A meteor was widely reported that same evening across the region.
 * A group from Flatwoods went uphill searching for the apparent landing site.
 * The group became frightened after seeing something in the woods.
-* The story spread rapidly through newspapers and UFO culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://order-of-the-jackalope.com/worse-than-frankenstein/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: order-of-the-jackalope.com">[2order-of-the-jackalope.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">order-of-the-jackalope.com</span><span class="citation-popover-title">worse than frankenstein</span><span class="citation-popover-snippet">the Flatwoods monster]31 Oct 2022 — On September 12, 1952 a housewife and six kids in West Virginia ascended a foggy mountain and had an...</span><span class="citation-popover-meta">Published: September 12, 1952</span></span></span>
+* The story spread rapidly through newspapers and UFO culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://order-of-the-jackalope.com/worse-than-frankenstein/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: order-of-the-jackalope.com">[2order-of-the-jackalope.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">order-of-the-jackalope.com</span><span class="citation-popover-title">worse than frankenstein</span><span class="citation-popover-snippet">the Flatwoods monster]31 Oct 2022 — On September 12, 1952 a housewife and six kids in West Virginia ascended a foggy mountain and had an...</span><span class="citation-popover-meta">Published: September 12, 1952</span></span></span>
 
 What remains uncertain is the nature of the hilltop figure itself. There are no photographs, no confirmed physical traces, no surviving contemporaneous recordings of the encounter and no independent witnesses outside the search party. The encounter lasted seconds, under difficult viewing conditions, and later descriptions became increasingly stylised over time.
 
 That uncertainty is exactly why the Flatwoods incident endures. It is not a strong extraterrestrial case in evidential terms, but it is an unusually vivid example of how a brief, ambiguous event can become fixed in American folklore. The hilltop encounter survives because it combines real witnesses, a documented sky event, emotional immediacy and a creature description distinctive enough to remain memorable more than seventy years later.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Saw What on the Hill?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Saw What on the Hill?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Spinning+the+Law+by+Kendall+Coffey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spinning the Law on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0s1aSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Spinning the Law" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Spinning+the+Law+by+Kendall+Coffey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spinning the Law">Spinning the Law</a>
-        </h4>
-        <p class="fr-book-author">By Kendall Coffey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Spinning+the+Law+by+Kendall+Coffey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spinning the Law on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0s1aSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Spinning the Law" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Spinning+the+Law+by+Kendall+Coffey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spinning the Law">Spinning the Law</a>
+</h4>
+<p class="fr-book-author">By Kendall Coffey</p>
         
-        <p class="fr-book-desc">Reconstructs the narrow 7:15 p.m. time window, tracking the May home search party up the Fisher property hill.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Spinning+the+Law+by+Kendall+Coffey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reconstructs the narrow 7:15 p.m. time window, tracking the May home search party up the Fisher property hill.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Spinning+the+Law+by+Kendall+Coffey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides a comprehensive, chronological baseline account of what the children playing at the Flatwoods school genuinely reported.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a comprehensive, chronological baseline account of what the children playing at the Flatwoods school genuinely reported.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Documents how Project Blue Book cross-referenced regional West Virginia newspaper accounts with astronomical meteor records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents how Project Blue Book cross-referenced regional West Virginia newspaper accounts with astronomical meteor records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Deconstructs why early group memories are vulnerable to structural revision after an event captures international headlines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Deconstructs why early group memories are vulnerable to structural revision after an event captures international headlines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Spinning+the+Law&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spinning the Law</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Spinning+the+Law&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spinning the Law</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Flatwoods monster  
-   Link: <a href="https://en.wikipedia.org/wiki/Flatwoods_monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flatwoods_monster</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flatwoods_monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flatwoods_monster</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: history.com  
    Title: flatwoods monster west virginia  
-   Link: <a href="https://www.history.com/articles/flatwoods-monster-west-virginia" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/flatwoods-monster-west-virginia</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY TV NederlandIn 1952, the Flatwoods Monster Terrified 6 Kids, a Mom...20 Jul 2018 — “Seven Braxton County residents on Saturday r...</p></details>
+   Link:<a href="https://www.history.com/articles/flatwoods-monster-west-virginia" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/flatwoods-monster-west-virginia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY TV NederlandIn 1952, the Flatwoods Monster Terrified 6 Kids, a Mom...20 Jul 2018 — “Seven Braxton County residents on Saturday r...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aiptcomics.com  
    Title: history channels project blue book the real story of the flatwoods monster  
-   Link: <a href="https://aiptcomics.com/2019/01/16/history-channels-project-blue-book-the-real-story-of-the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow">https://aiptcomics.com/2019/01/16/history-channels-project-blue-book-the-real-story-of-the-flatwoods-monster/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Generally, the group reported seeing a blinking red light, and when...Read more...</p></details>
+   Link:<a href="https://aiptcomics.com/2019/01/16/history-channels-project-blue-book-the-real-story-of-the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow">https://aiptcomics.com/2019/01/16/history-channels-project-blue-book-the-real-story-of-the-flatwoods-monster/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Generally, the group reported seeing a blinking red light, and when...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: order-of-the-jackalope.com  
    Title: worse than frankenstein  
-   Link: <a href="https://order-of-the-jackalope.com/worse-than-frankenstein/" target="_blank" rel="noopener noreferrer nofollow">https://order-of-the-jackalope.com/worse-than-frankenstein/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[the Flatwoods monster]31 Oct 2022 — On September 12, 1952 a housewife and six kids in West Virginia ascended a foggy mountain and had an...</p></details>
+   Link:<a href="https://order-of-the-jackalope.com/worse-than-frankenstein/" target="_blank" rel="noopener noreferrer nofollow">https://order-of-the-jackalope.com/worse-than-frankenstein/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[the Flatwoods monster]31 Oct 2022 — On September 12, 1952 a housewife and six kids in West Virginia ascended a foggy mountain and had an...</p></details>
    Published: September 12, 1952  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: braxtonwv.org  
-   Link: <a href="https://braxtonwv.org/the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow">https://braxtonwv.org/the-flatwoods-monster/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visit Braxton, WVThe Flatwoods MonsterUpon reaching the site of the crash, the group saw a pulsing red light. Lemon shined his flashlight...</p></details>
+   Link:<a href="https://braxtonwv.org/the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow">https://braxtonwv.org/the-flatwoods-monster/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visit Braxton, WVThe Flatwoods MonsterUpon reaching the site of the crash, the group saw a pulsing red light. Lemon shined his flashlight...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: snopes.com  
    Title: flatwoods monster mothman owl  
-   Link: <a href="https://www.snopes.com/articles/383097/flatwoods-monster-mothman-owl/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/articles/383097/flatwoods-monster-mothman-owl/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Was the Flatwoods Monster?4 Dec 2021 — Lemon shined his flashlight up the hill, and the group witnessed a terrifying sight—a t...</p></details>
+   Link:<a href="https://www.snopes.com/articles/383097/flatwoods-monster-mothman-owl/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/articles/383097/flatwoods-monster-mothman-owl/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Was the Flatwoods Monster?4 Dec 2021 — Lemon shined his flashlight up the hill, and the group witnessed a terrifying sight—a t...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookBy the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were miside...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookBy the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were miside...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cryptozoologycryptids.fandom.com  
    Title: Flatwoods Monster  
-   Link: <a href="https://cryptozoologycryptids.fandom.com/wiki/Flatwoods_Monster" target="_blank" rel="noopener noreferrer nofollow">https://cryptozoologycryptids.fandom.com/wiki/Flatwoods_Monster</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cryptid Wiki - FandomAt 7:15 PM on September 12, 1952, two brothers, Edward and Fred May, and their friend Tommy Hyer (ages 13, 12, and 1...</p></details>
+   Link:<a href="https://cryptozoologycryptids.fandom.com/wiki/Flatwoods_Monster" target="_blank" rel="noopener noreferrer nofollow">https://cryptozoologycryptids.fandom.com/wiki/Flatwoods_Monster</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cryptid Wiki - FandomAt 7:15 PM on September 12, 1952, two brothers, Edward and Fred May, and their friend Tommy Hyer (ages 13, 12, and 1...</p></details>
    Published: September 12, 1952  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-flatwoods-monster?srsltid=AfmBOopmYEpw_luefnwD2jbBh_-4zqePTeZgm2D5x7nRYUu9AtKn70Dh" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-flatwoods-monster?srsltid=AfmBOopmYEpw_luefnwD2jbBh_-4zqePTeZgm2D5x7nRYUu9AtKn70Dh</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Flatwoods Monster CaseAs for the monster itself, Nickell proposed that what the witnesses encountered was most likely a barn owl perc...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-flatwoods-monster?srsltid=AfmBOopmYEpw_luefnwD2jbBh_-4zqePTeZgm2D5x7nRYUu9AtKn70Dh" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-flatwoods-monster?srsltid=AfmBOopmYEpw_luefnwD2jbBh_-4zqePTeZgm2D5x7nRYUu9AtKn70Dh</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Flatwoods Monster CaseAs for the monster itself, Nickell proposed that what the witnesses encountered was most likely a barn owl perc...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: maeclair.net  
    Title: mythical monday the flatwoods monster by mae clair  
-   Link: <a href="https://maeclair.net/2015/06/01/mythical-monday-the-flatwoods-monster-by-mae-clair/" target="_blank" rel="noopener noreferrer nofollow">https://maeclair.net/2015/06/01/mythical-monday-the-flatwoods-monster-by-mae-clair/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From the Pen of Mae ClairMythical Monday: The Flatwoods Monster by Mae Clair1 Jun 2015 — May gathered up the boys, along with two more of...</p></details>
+   Link:<a href="https://maeclair.net/2015/06/01/mythical-monday-the-flatwoods-monster-by-mae-clair/" target="_blank" rel="noopener noreferrer nofollow">https://maeclair.net/2015/06/01/mythical-monday-the-flatwoods-monster-by-mae-clair/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From the Pen of Mae ClairMythical Monday: The Flatwoods Monster by Mae Clair1 Jun 2015 — May gathered up the boys, along with two more of...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Project Blue Book: Episode Recap  
-   Link: <a href="https://www.youtube.com/watch?v=TVJUDh4BHZ0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TVJUDh4BHZ0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“The Flatwoods Monster...HISTORY&#x27;s upcoming new drama series &#x27;Project Blue Book&#x27; is based on the true, top-secret investigations into Un...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TVJUDh4BHZ0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TVJUDh4BHZ0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“The Flatwoods Monster...HISTORY&#x27;s upcoming new drama series &#x27;Project Blue Book&#x27; is based on the true, top-secret investigations into Un...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: beyondhaunted.com  
    Title: flatwoods monster  
-   Link: <a href="https://beyondhaunted.com/blog/flatwoods-monster" target="_blank" rel="noopener noreferrer nofollow">https://beyondhaunted.com/blog/flatwoods-monster</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1952 West Virginia Encounter...24 Feb 2026 — Explore the Flatwoods Monster case in depth—1952 eyewitness accounts, investigations, s...</p></details>
+   Link:<a href="https://beyondhaunted.com/blog/flatwoods-monster" target="_blank" rel="noopener noreferrer nofollow">https://beyondhaunted.com/blog/flatwoods-monster</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1952 West Virginia Encounter...24 Feb 2026 — Explore the Flatwoods Monster case in depth—1952 eyewitness accounts, investigations, s...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ufospensacolabeach.com  
    Title: Ultimately after their investigation,  
-   Link: <a href="https://www.ufospensacolabeach.com/the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufospensacolabeach.com/the-flatwoods-monster/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Flatwoods Monster - UFO&#x27;s Mini-Golf, Ice Cream &amp; Arcade...10 Jun 2025 — This event prompted the United States government to investig...</p></details>
+   Link:<a href="https://www.ufospensacolabeach.com/the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufospensacolabeach.com/the-flatwoods-monster/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Flatwoods Monster - UFO&#x27;s Mini-Golf, Ice Cream &amp; Arcade...10 Jun 2025 — This event prompted the United States government to investig...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=epueMpPZ_Ww" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=epueMpPZ_Ww</a>  
+   Link:<a href="https://www.youtube.com/watch?v=epueMpPZ_Ww" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=epueMpPZ_Ww</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wvpress.org  
    Title: episode of history channels project blue book to feature the flatwoods monster  
-   Link: <a href="https://wvpress.org/breaking-news/episode-of-history-channels-project-blue-book-to-feature-the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow">https://wvpress.org/breaking-news/episode-of-history-channels-project-blue-book-to-feature-the-flatwoods-monster/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Allen Hynek (played by Aidan Gillen) and Captain Quinn (played by Michael Malarkey) investigating a West...</p></details>
+   Link:<a href="https://wvpress.org/breaking-news/episode-of-history-channels-project-blue-book-to-feature-the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow">https://wvpress.org/breaking-news/episode-of-history-channels-project-blue-book-to-feature-the-flatwoods-monster/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>J. Allen Hynek (played by Aidan Gillen) and Captain Quinn (played by Michael Malarkey) investigating a West...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pbs.org  
    Title: the most puzzling ufo case of the 20th century wyqumz  
-   Link: <a href="https://www.pbs.org/video/the-most-puzzling-ufo-case-of-the-20th-century-wyqumz/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/video/the-most-puzzling-ufo-case-of-the-20th-century-wyqumz/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Monstrum | The Most Puzzling UFO Case of the 20th Century...In 1952, a terrifying creature was spotted in Flatwoods, West Virginia — a 1...</p></details>
+   Link:<a href="https://www.pbs.org/video/the-most-puzzling-ufo-case-of-the-20th-century-wyqumz/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/video/the-most-puzzling-ufo-case-of-the-20th-century-wyqumz/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Monstrum | The Most Puzzling UFO Case of the 20th Century...In 1952, a terrifying creature was spotted in Flatwoods, West Virginia — a 1...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — Project Blue Book, from March 1952 to December 1969—the long...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Public Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — Project Blue Book, from March 1952 to December 1969—the long...</p></details>
    Published: March 1952  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: imdb.com  
    Title: "Project Blue Book" The Flatwoods Monster (TV  
-   Link: <a href="https://www.imdb.com/title/tt7620540/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt7620540/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hynek and Quinn investigate a West Virginia case of a mother and her two children who witnessed an alien being emerge from a fiery UF...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt7620540/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt7620540/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hynek and Quinn investigate a West Virginia case of a mother and her two children who witnessed an alien being emerge from a fiery UF...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: space.com  
    Title: 42941 project blue book ufos history channel  
-   Link: <a href="https://www.space.com/42941-project-blue-book-ufos-history-channel.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/42941-project-blue-book-ufos-history-channel.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>monster with a blood-red body and a green face that seemed to glow,&quot; later dubbed &quot;The Flatwoods Monster,&quot; the History Channel recounted...</p></details>
+   Link:<a href="https://www.space.com/42941-project-blue-book-ufos-history-channel.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/42941-project-blue-book-ufos-history-channel.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>monster with a blood-red body and a green face that seemed to glow,&quot; later dubbed &quot;The Flatwoods Monster,&quot; the History Channel recounted...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: whsv.com  
    Title: top secret military program investigate ufos  
-   Link: <a href="https://www.whsv.com/2023/04/17/top-secret-military-program-investigate-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.whsv.com/2023/04/17/top-secret-military-program-investigate-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The top secret UFO investigation program: Project Blue Book17 Apr 2023 — They investigated famous cases such as the alleged 1965 Kecksbur...</p></details>
+   Link:<a href="https://www.whsv.com/2023/04/17/top-secret-military-program-investigate-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.whsv.com/2023/04/17/top-secret-military-program-investigate-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The top secret UFO investigation program: Project Blue Book17 Apr 2023 — They investigated famous cases such as the alleged 1965 Kecksbur...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: richardaustinwriter.com  
    Title: project blue book season 1 episode 2 review  
-   Link: <a href="https://richardaustinwriter.com/2019/04/22/project-blue-book-season-1-episode-2-review/" target="_blank" rel="noopener noreferrer nofollow">https://richardaustinwriter.com/2019/04/22/project-blue-book-season-1-episode-2-review/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book – Season 1: Episode 2 Review22 Apr 2019 — Episode 2 of History Channel&#x27;s Project Blue Book dramatization is about anoth...</p></details>
+   Link:<a href="https://richardaustinwriter.com/2019/04/22/project-blue-book-season-1-episode-2-review/" target="_blank" rel="noopener noreferrer nofollow">https://richardaustinwriter.com/2019/04/22/project-blue-book-season-1-episode-2-review/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book – Season 1: Episode 2 Review22 Apr 2019 — Episode 2 of History Channel&#x27;s Project Blue Book dramatization is about anoth...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXsJShjEm_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXsJShjEm_i/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>er incident: the eyewitness accounts of Kathleen May...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DXsJShjEm_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXsJShjEm_i/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>er incident: the eyewitness accounts of Kathleen May...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: vault.fbi.gov  
    Title: Project Blue Book (UFO)  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO)Project Blue Book Originally Project Blue Book was the Air Force name for a project that investigated UFO reports between...</p></details>
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO)Project Blue Book Originally Project Blue Book was the Air Force name for a project that investigated UFO reports between...</p></details>

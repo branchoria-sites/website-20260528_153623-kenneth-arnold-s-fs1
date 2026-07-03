@@ -242,41 +242,41 @@ image: /assets/images/RB-47_radarvisual_in_5bf2a6_flight_timeline_ligh_12771b-Il
 
 ## Introduction
 
-The RB-47 incident of 17 July 1957 became a landmark UFO case largely because of its timeline. Later arguments about radar returns, electronic countermeasures equipment, pilot testimony, and possible conventional explanations all depend on reconstructing exactly what happened, when it happened, and in what sequence. Unlike many shorter sightings, the RB-47 event unfolded over a long stretch of flight across the southern United States, with reported visual observations, electronic detections, course changes, and radio contact with ground radar operators occurring in stages rather than as a single dramatic moment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">July 17, 1957. An account of the incident was published in the July, 1971, issue of the AIAA magazine. Astronautics &amp; Aeronauti cs (p. 6...</span><span class="citation-popover-meta">Published: July 17, 1957</span></span></span>
+The RB-47 incident of 17 July 1957 became a landmark UFO case largely because of its timeline. Later arguments about radar returns, electronic countermeasures equipment, pilot testimony, and possible conventional explanations all depend on reconstructing exactly what happened, when it happened, and in what sequence. Unlike many shorter sightings, the RB-47 event unfolded over a long stretch of flight across the southern United States, with reported visual observations, electronic detections, course changes, and radio contact with ground radar operators occurring in stages rather than as a single dramatic moment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">July 17, 1957. An account of the incident was published in the July, 1971, issue of the AIAA magazine. Astronautics &amp; Aeronauti cs (p. 6...</span><span class="citation-popover-meta">Published: July 17, 1957</span></span></span>
 
 <img src="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_flight_timeline_ligh_12771b-Illustration-1-dark.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_flight_timeline_ligh_12771b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_flight_timeline_ligh_12771b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That chronology matters because every major interpretation of the case relies on it. Supporters of the “unknown object” interpretation argue that the moving light, the electronic signal, and the ground-radar reports formed a coherent sequence that cannot easily be reduced to ordinary aircraft or radar confusion. Skeptics counter that the timeline was reconstructed years later from memory, not from a complete surviving mission log or preserved radar film, and that some parts of the story may have become compressed, merged, or misremembered over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Scientific Study Of Unidentified Flying Objects</span><span class="citation-popover-snippet">The incident involved the crew of a B-47 equipped with radar surveillance devices. The B-47 was operating from a Strategic Air Command ba...</span></span></span>
+That chronology matters because every major interpretation of the case relies on it. Supporters of the “unknown object” interpretation argue that the moving light, the electronic signal, and the ground-radar reports formed a coherent sequence that cannot easily be reduced to ordinary aircraft or radar confusion. Skeptics counter that the timeline was reconstructed years later from memory, not from a complete surviving mission log or preserved radar film, and that some parts of the story may have become compressed, merged, or misremembered over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Scientific Study Of Unidentified Flying Objects</span><span class="citation-popover-snippet">The incident involved the crew of a B-47 equipped with radar surveillance devices. The B-47 was operating from a Strategic Air Command ba...</span></span></span>
 
 ## How the RB-47 Encounter Unfolded
 
 ### Mission route and crew roles
 
-The aircraft involved was an RB-47H electronic intelligence aircraft operating from Forbes Air Force Base in Kansas. The mission was a long nighttime training and reconnaissance exercise running south and east before turning back west across the Gulf Coast region. Later reconstructions place the aircraft over Mississippi, Louisiana, Texas, and Oklahoma during the reported encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald fsr 16 3 2 70</span><span class="citation-popover-snippet">the 1957 gulf coast rb-47 - incidentThe unidenti- fied object was, at various times, seen visually by the cockpit crew (as an intense whi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_aa_9_7_66_71.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-snippet">AIAA UFO Report.cdrIn the early morning hours of July 17. 1957, an RB-47 was flying out of. Forbes Air Force Base, Topeka. Kansas, on a...</span></span></span>
+The aircraft involved was an RB-47H electronic intelligence aircraft operating from Forbes Air Force Base in Kansas. The mission was a long nighttime training and reconnaissance exercise running south and east before turning back west across the Gulf Coast region. Later reconstructions place the aircraft over Mississippi, Louisiana, Texas, and Oklahoma during the reported encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald fsr</span><span class="citation-popover-snippet">the 1957 gulf coast rb-47 - incidentThe unidenti- fied object was, at various times, seen visually by the cockpit crew (as an intense whi...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_aa_9_7_66_71.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-snippet">AIAA UFO Report.cdrIn the early morning hours of July 17. 1957, an RB-47 was flying out of. Forbes Air Force Base, Topeka. Kansas, on a...</span></span></span>
 
 The crew arrangement is central to understanding the timeline because the reported observations came from different stations inside the aircraft:
 
 * Major Lewis D. Chase served as pilot.
 * Lieutenant James H. McCoid was co-pilot.
 * Captain Thomas H. Hanley was navigator.
-* Three electronic warfare officers operated specialised ELINT and ECM equipment in the rear compartment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">July 17, 1957. An account of the incident was published in the July, 1971, issue of the AIAA magazine. Astronautics &amp; Aeronauti cs (p. 6...</span><span class="citation-popover-meta">Published: July 17, 1957</span></span></span>
+* Three electronic warfare officers operated specialised ELINT and ECM equipment in the rear compartment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">July 17, 1957. An account of the incident was published in the July, 1971, issue of the AIAA magazine. Astronautics &amp; Aeronauti cs (p. 6...</span><span class="citation-popover-meta">Published: July 17, 1957</span></span></span>
 
 The rear crew were not simply looking out windows. Their job was to detect and analyse radar emissions. That distinction became important later because the first stage of the encounter reportedly began not with a visual sighting, but with an electronic signal.
 
 ### The first electronic contact near the Gulf Coast
 
-According to later testimony, Captain Frank McClure detected an unusual signal while the aircraft was near the Mississippi Gulf Coast region in the early morning hours. The signal reportedly resembled ground radar emissions in the S-band frequency range, around 2,800 megacycles per second in the terminology of the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_acm_013069.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald acm 013069</span><span class="citation-popover-snippet">UFOs and the Condon ReportThe Lakenheath case, as well as the 1957 B-47 case discussed below, were not known outside of Air. Force circle...</span></span></span>
+According to later testimony, Captain Frank McClure detected an unusual signal while the aircraft was near the Mississippi Gulf Coast region in the early morning hours. The signal reportedly resembled ground radar emissions in the S-band frequency range, around 2,800 megacycles per second in the terminology of the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_acm_013069.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald acm 013069</span><span class="citation-popover-snippet">UFOs and the Condon ReportThe Lakenheath case, as well as the 1957 B-47 case discussed below, were not known outside of Air. Force circle...</span></span></span>
 
-What made the detection unusual, according to McClure’s later account, was not merely the frequency itself but the apparent motion. The signal reportedly moved relative to the aircraft in a way inconsistent with a fixed ground radar installation. Some reconstructions describe it as pacing the aircraft or moving around it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald fsr 16 3 2 70</span><span class="citation-popover-snippet">the 1957 gulf coast rb-47 - incidentThe unidenti- fied object was, at various times, seen visually by the cockpit crew (as an intense whi...</span></span></span>
+What made the detection unusual, according to McClure’s later account, was not merely the frequency itself but the apparent motion. The signal reportedly moved relative to the aircraft in a way inconsistent with a fixed ground radar installation. Some reconstructions describe it as pacing the aircraft or moving around it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald fsr</span><span class="citation-popover-snippet">the 1957 gulf coast rb-47 - incidentThe unidenti- fied object was, at various times, seen visually by the cockpit crew (as an intense whi...</span></span></span>
 
-One of the enduring problems in the chronology is that this first detection was not immediately reported to the cockpit crew. Later retellings say McClure initially assumed the signal might have a routine explanation and therefore did not alert the others at once. That gap complicates later attempts to align the electronic data with the visual observations that followed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thehistoryreader.com/military-history/ufo-events/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehistoryreader.com">[The History Reader]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehistoryreader.com</span><span class="citation-popover-snippet">The History ReaderTwo Critical UFO Events in HistoryThe two events, the reported crash of a flying saucer near Aztec, New Mexico, in Marc...</span></span></span>
+One of the enduring problems in the chronology is that this first detection was not immediately reported to the cockpit crew. Later retellings say McClure initially assumed the signal might have a routine explanation and therefore did not alert the others at once. That gap complicates later attempts to align the electronic data with the visual observations that followed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thehistoryreader.com/military-history/ufo-events/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehistoryreader.com">[The History Reader]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehistoryreader.com</span><span class="citation-popover-snippet">The History ReaderTwo Critical UFO Events in HistoryThe two events, the reported crash of a flying saucer near Aztec, New Mexico, in Marc...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ITHg7jSO_io" title="The Tragic True Story Of TWA Flight 800" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ITHg7jSO_io" target="_blank" rel="noopener noreferrer">The Tragic True Story Of TWA Flight 800</a></p><p class="youtube-embed-meta">Channel: Grunge &middot; Views: 151.0K &middot; Uploaded: March 2022 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ITHg7jSO_io" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ITHg7jSO_io">Open on YouTube</a></p></div></div></div>
 
 ### The reported moving light over Mississippi
 
-The event became far more dramatic when the cockpit crew reportedly observed a bright light approaching at high speed near Meridian, Mississippi. In the most widely cited versions of the story, the pilot saw an intense bluish-white light closing rapidly from one side of the aircraft before crossing ahead of the RB-47 and disappearing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_aa_9_7_66_71.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-snippet">AIAA UFO Report.cdrIn the early morning hours of July 17. 1957, an RB-47 was flying out of. Forbes Air Force Base, Topeka. Kansas, on a...</span></span></span>
+The event became far more dramatic when the cockpit crew reportedly observed a bright light approaching at high speed near Meridian, Mississippi. In the most widely cited versions of the story, the pilot saw an intense bluish-white light closing rapidly from one side of the aircraft before crossing ahead of the RB-47 and disappearing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_aa_9_7_66_71.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-snippet">AIAA UFO Report.cdrIn the early morning hours of July 17. 1957, an RB-47 was flying out of. Forbes Air Force Base, Topeka. Kansas, on a...</span></span></span>
 
-This was the moment when the separate strands of the case began to overlap. After hearing the cockpit report, McClure informed the others about the earlier electronic detection. The crew now had both a visual observation and a claimed instrument-based anomaly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_acm_013069.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald acm 013069</span><span class="citation-popover-snippet">UFOs and the Condon ReportThe Lakenheath case, as well as the 1957 B-47 case discussed below, were not known outside of Air. Force circle...</span></span></span>
+This was the moment when the separate strands of the case began to overlap. After hearing the cockpit report, McClure informed the others about the earlier electronic detection. The crew now had both a visual observation and a claimed instrument-based anomaly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_acm_013069.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald acm 013069</span><span class="citation-popover-snippet">UFOs and the Condon ReportThe Lakenheath case, as well as the 1957 B-47 case discussed below, were not known outside of Air. Force circle...</span></span></span>
 
 Descriptions of the light vary slightly across later interviews and summaries:
 
@@ -285,7 +285,7 @@ Descriptions of the light vary slightly across later interviews and summaries:
 * Sometimes it was described as white or bluish-white.
 * At other points it reportedly appeared reddish.
 * Some witnesses recalled a single luminous object.
-* Other summaries imply more than one light or changing positions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_acm_013069.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald acm 013069</span><span class="citation-popover-snippet">UFOs and the Condon ReportThe Lakenheath case, as well as the 1957 B-47 case discussed below, were not known outside of Air. Force circle...</span></span></span>
+* Other summaries imply more than one light or changing positions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_acm_013069.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald acm 013069</span><span class="citation-popover-snippet">UFOs and the Condon ReportThe Lakenheath case, as well as the 1957 B-47 case discussed below, were not known outside of Air. Force circle...</span></span></span>
 
 </div>
 
@@ -295,15 +295,15 @@ These inconsistencies are one reason the timeline remains disputed. The broad se
 
 ### Attempts to track or intercept the object
 
-As the RB-47 continued westward, the crew reportedly experienced repeated episodes in which the light reappeared and the ECM equipment again detected signals. The aircraft crew contacted Duncanville Air Force Station near Dallas, a ground radar facility associated with air defence operations. According to later accounts, ground radar personnel reported an unidentified target near the RB-47’s position. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_acm_013069.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald acm 013069</span><span class="citation-popover-snippet">UFOs and the Condon ReportThe Lakenheath case, as well as the 1957 B-47 case discussed below, were not known outside of Air. Force circle...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_acm_013069.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald acm 013069</span><span class="citation-popover-snippet">UFOs and the Condon ReportThe Lakenheath case, as well as the 1957 B-47 case discussed below, were not known outside of Air. Force circle...</span></span></span>
+As the RB-47 continued westward, the crew reportedly experienced repeated episodes in which the light reappeared and the ECM equipment again detected signals. The aircraft crew contacted Duncanville Air Force Station near Dallas, a ground radar facility associated with air defence operations. According to later accounts, ground radar personnel reported an unidentified target near the RB-47’s position.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_acm_013069.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald acm 013069</span><span class="citation-popover-snippet">UFOs and the Condon ReportThe Lakenheath case, as well as the 1957 B-47 case discussed below, were not known outside of Air. Force circle...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_acm_013069.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald acm 013069</span><span class="citation-popover-snippet">UFOs and the Condon ReportThe Lakenheath case, as well as the 1957 B-47 case discussed below, were not known outside of Air. Force circle...</span></span></span>
 
 This part of the chronology is the core reason the case achieved lasting prominence. Advocates of the unexplained interpretation argue that three separate channels appeared to coincide:
 
-* cockpit visual observation, * airborne electronic detection, <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/ai-insights-1957-rb-47-which-af-elint-aircraft-em-signals-sadlocha-ruj4c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">ai insights 1957 rb 47 which af elint aircraft em signals sadlocha ruj4c</span><span class="citation-popover-snippet">AI Insights On 1957 RB-47 In Which AF ELINT Aircraft...Air Force Recording: The incident was documented via radar (ground and airborne)...</span></span></span> * ground radar tracking. kirkmcd.princeton.edu <span class="citation-chip-wrap"><a class="citation-chip" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald fsr 16 3 2 70</span><span class="citation-popover-snippet">the 1957 gulf coast rb-47 - incidentThe unidenti- fied object was, at various times, seen visually by the cockpit crew (as an intense whi...</span></span></span>
+* cockpit visual observation, * airborne electronic detection,<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/ai-insights-1957-rb-47-which-af-elint-aircraft-em-signals-sadlocha-ruj4c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">ai insights 1957 rb 47 which af elint aircraft em signals sadlocha ruj4c</span><span class="citation-popover-snippet">AI Insights On 1957 RB-47 In Which AF ELINT Aircraft...Air Force Recording: The incident was documented via radar (ground and airborne)...</span></span></span> * ground radar tracking. kirkmcd.princeton.edu<span class="citation-chip-wrap"><a class="citation-chip" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald fsr</span><span class="citation-popover-snippet">the 1957 gulf coast rb-47 - incidentThe unidenti- fied object was, at various times, seen visually by the cockpit crew (as an intense whi...</span></span></span>
 
-The aircraft reportedly altered course several times. In some versions, Chase attempted to approach or intercept the object, only for it to change apparent position or vanish. One frequently repeated claim is that the object abruptly shifted altitude or location relative to the aircraft when the RB-47 manoeuvred toward it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thehistoryreader.com/military-history/ufo-events/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehistoryreader.com">[The History Reader]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehistoryreader.com</span><span class="citation-popover-snippet">The History ReaderTwo Critical UFO Events in HistoryThe two events, the reported crash of a flying saucer near Aztec, New Mexico, in Marc...</span></span></span>
+The aircraft reportedly altered course several times. In some versions, Chase attempted to approach or intercept the object, only for it to change apparent position or vanish. One frequently repeated claim is that the object abruptly shifted altitude or location relative to the aircraft when the RB-47 manoeuvred toward it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thehistoryreader.com/military-history/ufo-events/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehistoryreader.com">[The History Reader]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehistoryreader.com</span><span class="citation-popover-snippet">The History ReaderTwo Critical UFO Events in HistoryThe two events, the reported crash of a flying saucer near Aztec, New Mexico, in Marc...</span></span></span>
 
-However, historians of the case point out that no complete original radar plotting data or continuous instrument recordings are publicly available today. Much of the detailed movement sequence comes from retrospective reconstruction rather than from surviving raw telemetry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_acm_013069.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald acm 013069</span><span class="citation-popover-snippet">UFOs and the Condon ReportThe Lakenheath case, as well as the 1957 B-47 case discussed below, were not known outside of Air. Force circle...</span></span></span>
+However, historians of the case point out that no complete original radar plotting data or continuous instrument recordings are publicly available today. Much of the detailed movement sequence comes from retrospective reconstruction rather than from surviving raw telemetry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_acm_013069.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald acm 013069</span><span class="citation-popover-snippet">UFOs and the Condon ReportThe Lakenheath case, as well as the 1957 B-47 case discussed below, were not known outside of Air. Force circle...</span></span></span>
 
 <img src="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_flight_timeline_ligh_12771b-Illustration-2-dark.svg" | relative_url }}" alt="Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_flight_timeline_ligh_12771b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_flight_timeline_ligh_12771b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why the moving-light descriptions became controversial
@@ -317,11 +317,11 @@ Supporters of the extraordinary interpretation argue that the light displayed be
 * rapid directional changes,
 * sudden disappearance and reappearance,
 * pacing behaviour relative to the RB-47,
-* apparent station-keeping despite the bomber’s high speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_acm_013069.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald acm 013069</span><span class="citation-popover-snippet">UFOs and the Condon ReportThe Lakenheath case, as well as the 1957 B-47 case discussed below, were not known outside of Air. Force circle...</span></span></span>
+* apparent station-keeping despite the bomber’s high speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_acm_013069.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald acm 013069</span><span class="citation-popover-snippet">UFOs and the Condon ReportThe Lakenheath case, as well as the 1957 B-47 case discussed below, were not known outside of Air. Force circle...</span></span></span>
 
 </div>
 
-Skeptical analysts respond that nighttime aerial observation is notoriously vulnerable to perceptual distortion. A bright celestial body, distant aircraft, or ground light can appear to move dramatically when viewed from a fast-moving aircraft without stable visual reference points. The long duration of the encounter may actually increase the chance of confusion rather than reduce it, especially during fatigue-prone pre-dawn flight conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_acm_013069.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald acm 013069</span><span class="citation-popover-snippet">UFOs and the Condon ReportThe Lakenheath case, as well as the 1957 B-47 case discussed below, were not known outside of Air. Force circle...</span></span></span>
+Skeptical analysts respond that nighttime aerial observation is notoriously vulnerable to perceptual distortion. A bright celestial body, distant aircraft, or ground light can appear to move dramatically when viewed from a fast-moving aircraft without stable visual reference points. The long duration of the encounter may actually increase the chance of confusion rather than reduce it, especially during fatigue-prone pre-dawn flight conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_acm_013069.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald acm 013069</span><span class="citation-popover-snippet">UFOs and the Condon ReportThe Lakenheath case, as well as the 1957 B-47 case discussed below, were not known outside of Air. Force circle...</span></span></span>
 
 The chronology complicates both arguments. If the light observations truly aligned with electronic detections and independent radar reports, the case becomes harder to dismiss as a simple visual illusion. But if the timeline was reconstructed imperfectly years later, apparent synchronisation between the different observations may partly reflect retrospective narrative stitching rather than exact real-time correlation.
 
@@ -331,7 +331,7 @@ The chronology complicates both arguments. If the light observations truly align
 
 ### Reconstructing the event years later
 
-One reason the RB-47 case remains debated is that much of its detailed chronology was assembled years after the flight. The incident gained wider public attention through later investigations, including work connected to the University of Colorado UFO study, commonly called the Condon Committee, and analyses by physicist James E. McDonald. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Scientific Study Of Unidentified Flying Objects</span><span class="citation-popover-snippet">The incident involved the crew of a B-47 equipped with radar surveillance devices. The B-47 was operating from a Strategic Air Command ba...</span></span></span>
+One reason the RB-47 case remains debated is that much of its detailed chronology was assembled years after the flight. The incident gained wider public attention through later investigations, including work connected to the University of Colorado UFO study, commonly called the Condon Committee, and analyses by physicist James E. McDonald.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Scientific Study Of Unidentified Flying Objects</span><span class="citation-popover-snippet">The incident involved the crew of a B-47 equipped with radar surveillance devices. The B-47 was operating from a Strategic Air Command ba...</span></span></span>
 
 By that stage, researchers were trying to reconstruct:
 
@@ -342,13 +342,13 @@ By that stage, researchers were trying to reconstruct:
 * timing intervals,
 * radar interactions,
 * fuel state,
-* and the sequence of visual sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_acm_013069.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald acm 013069</span><span class="citation-popover-snippet">UFOs and the Condon ReportThe Lakenheath case, as well as the 1957 B-47 case discussed below, were not known outside of Air. Force circle...</span></span></span>
+* and the sequence of visual sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_acm_013069.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald acm 013069</span><span class="citation-popover-snippet">UFOs and the Condon ReportThe Lakenheath case, as well as the 1957 B-47 case discussed below, were not known outside of Air. Force circle...</span></span></span>
 
 </div>
 
 This reconstruction process produced disagreements over surprisingly basic questions, including exactly when certain observations occurred and whether some reported manoeuvres belonged to separate phases of the flight.
 
-The problem is especially important because later skeptical explanations depended heavily on timing. Some analysts argued that ordinary aircraft, especially commercial flights, could account for portions of the sighting sequence. Critics of those explanations argued that the proposed aircraft were either too distant or inconsistent with the reconstructed timing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufology.patrickgross.org/htm/rb47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufology.patrickgross.org">[ufology.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufology.patrickgross.org</span><span class="citation-popover-snippet">RB-47 radar visual multiple witnesses cases, July 17, 195724 Jan 2004 — Project Bluebook said that the sightings in Dallas - Fort Worth a...</span></span></span>
+The problem is especially important because later skeptical explanations depended heavily on timing. Some analysts argued that ordinary aircraft, especially commercial flights, could account for portions of the sighting sequence. Critics of those explanations argued that the proposed aircraft were either too distant or inconsistent with the reconstructed timing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufology.patrickgross.org/htm/rb47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufology.patrickgross.org">[ufology.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufology.patrickgross.org</span><span class="citation-popover-snippet">RB-47 radar visual multiple witnesses cases, July 17, 195724 Jan 2004 — Project Bluebook said that the sightings in Dallas - Fort Worth a...</span></span></span>
 
 <img src="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_flight_timeline_ligh_12771b-Illustration-3-dark.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_flight_timeline_ligh_12771b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_flight_timeline_ligh_12771b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The timeline as the real evidential core
@@ -362,206 +362,206 @@ If the sequence unfolded roughly as the witnesses later described, then the inci
 1. electronic detection,
 2. visual observation,
 3. repeated positional correlation,
-4. ground-radar confirmation, <span class="citation-chip-wrap"><a class="citation-chip" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald fsr 16 3 2 70</span><span class="citation-popover-snippet">the 1957 gulf coast rb-47 - incidentThe unidenti- fied object was, at various times, seen visually by the cockpit crew (as an intense whi...</span></span></span>
-5. and aircraft manoeuvring over a substantial distance. kirkmcd.princeton.edu <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/RB47_Sparks_Ency.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[2nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">RB-47 Radar/VISUAL CASEIn the pre-dawn hours of July 17, 1957, the crew of a U.S. Air. Force RB-47 jet reconnaissance aircraft on an elec...</span><span class="citation-popover-meta">Published: July 17, 1957</span></span></span>
+4. ground-radar confirmation,<span class="citation-chip-wrap"><a class="citation-chip" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald fsr</span><span class="citation-popover-snippet">the 1957 gulf coast rb-47 - incidentThe unidenti- fied object was, at various times, seen visually by the cockpit crew (as an intense whi...</span></span></span>
+5. and aircraft manoeuvring over a substantial distance. kirkmcd.princeton.edu<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/RB47_Sparks_Ency.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[2nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">RB-47 Radar/VISUAL CASEIn the pre-dawn hours of July 17, 1957, the crew of a U.S. Air. Force RB-47 jet reconnaissance aircraft on an elec...</span><span class="citation-popover-meta">Published: July 17, 1957</span></span></span>
 
 </div>
 
 If, however, the sequence became partially distorted through later recollection and retelling, then the case may represent a layering together of ordinary events that only later acquired the appearance of a unified radar/visual mystery.
 
-That tension explains why the RB-47 incident still attracts attention decades later. The moving light alone would probably not have made the case famous. What preserved it in UFO history was the belief that multiple independent systems and witnesses appeared to describe the same unfolding event across a carefully reconstructed flight timeline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_acm_013069.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald acm 013069</span><span class="citation-popover-snippet">UFOs and the Condon ReportThe Lakenheath case, as well as the 1957 B-47 case discussed below, were not known outside of Air. Force circle...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_acm_013069.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald acm 013069</span><span class="citation-popover-snippet">UFOs and the Condon ReportThe Lakenheath case, as well as the 1957 B-47 case discussed below, were not known outside of Air. Force circle...</span></span></span>
+That tension explains why the RB-47 incident still attracts attention decades later. The moving light alone would probably not have made the case famous. What preserved it in UFO history was the belief that multiple independent systems and witnesses appeared to describe the same unfolding event across a carefully reconstructed flight timeline.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_acm_013069.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald acm 013069</span><span class="citation-popover-snippet">UFOs and the Condon ReportThe Lakenheath case, as well as the 1957 B-47 case discussed below, were not known outside of Air. Force circle...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_acm_013069.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald acm 013069</span><span class="citation-popover-snippet">UFOs and the Condon ReportThe Lakenheath case, as well as the 1957 B-47 case discussed below, were not known outside of Air. Force circle...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/p9Zt8Rnd5RU" title="TWA Flight 800 Explodes Over the Atlantic Near New York" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=p9Zt8Rnd5RU" target="_blank" rel="noopener noreferrer">TWA Flight 800 Explodes Over the Atlantic Near New York</a></p><p class="youtube-embed-meta">Channel: Smithsonian Channel Aviation Nation &middot; Views: 100.5K &middot; Uploaded: September 2018 &middot; Length: 3 minutes 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=p9Zt8Rnd5RU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=p9Zt8Rnd5RU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How the RB 47 Encounter Unfolded. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How the RB 47 Encounter Unfolded. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides the chronology of the RB-47 mission and maps out how the radar-visual sequence was reconstructed by researchers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the chronology of the RB-47 mission and maps out how the radar-visual sequence was reconstructed by researchers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Cross-references the sequential reports from military intelligence and flight logs during the investigation phase.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Cross-references the sequential reports from military intelligence and flight logs during the investigation phase.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches skills for auditing how witness testimony evolves between the initial event and retrospective formal interviews.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches skills for auditing how witness testimony evolves between the initial event and retrospective formal interviews.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Documents how investigative bureaus processed complex flight sequences for chronological accuracy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents how investigative bureaus processed complex flight sequences for chronological accuracy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Red Arrows Poster | Royal Air Force RAF | Wall Art | Print | Aircraft Aviation"><img src="{{ '/assets/images/marketplace-covers/6d3a97c7ac80d84f3dd4.jpg' | relative_url }}" alt="Listing image for Red Arrows Poster | Royal Air Force RAF | Wall Art | Print | Aircraft Aviation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Red Arrows Poster | Royal Air Force RAF | Wall Art | Print | Aircraft Aviation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Red Arrows Poster | Royal Air Force RAF | Wall Art | Print | Aircraft Aviation"><img src="{{ '/assets/images/marketplace-covers/6d3a97c7ac80d84f3dd4.jpg' | relative_url }}" alt="Listing image for Red Arrows Poster | Royal Air Force RAF | Wall Art | Print | Aircraft Aviation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Red Arrows Poster | Royal Air Force RAF | Wall Art | Print | Aircraft Aviation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/79d7c1c2f8b6a13b52b4.jpg' | relative_url }}" alt="Listing image for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/79d7c1c2f8b6a13b52b4.jpg' | relative_url }}" alt="Listing image for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Aviation Poster Wall Art - Retro Airplane Decor Fine Art Print"><img src="{{ '/assets/images/marketplace-covers/aa405082db2bf8cb0f3c.jpg' | relative_url }}" alt="Listing image for Vintage Aviation Poster Wall Art - Retro Airplane Decor Fine Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Aviation Poster Wall Art - Retro Airplane Decor Fine Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Aviation Poster Wall Art - Retro Airplane Decor Fine Art Print"><img src="{{ '/assets/images/marketplace-covers/aa405082db2bf8cb0f3c.jpg' | relative_url }}" alt="Listing image for Vintage Aviation Poster Wall Art - Retro Airplane Decor Fine Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Aviation Poster Wall Art - Retro Airplane Decor Fine Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-c66794-how-the-rb-47-encounter-unfolded-rb-47-radarvisual-incident-1957-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -577,7 +577,7 @@ That tension explains why the RB-47 incident still attracts attention decades la
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,7 +597,7 @@ That tension explains why the RB-47 incident still attracts attention decades la
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -629,7 +629,7 @@ That tension explains why the RB-47 incident still attracts attention decades la
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -681,7 +681,7 @@ That tension explains why the RB-47 incident still attracts attention decades la
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -726,7 +726,7 @@ That tension explains why the RB-47 incident still attracts attention decades la
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -767,115 +767,115 @@ That tension explains why the RB-47 incident still attracts attention decades la
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: documents2.theblackvault.com  
-   Link: <a href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 17, 1957. An account of the incident was published in the July, 1971, issue of the AIAA magazine. Astronautics &amp; Aeronauti cs (p. 6...</p></details>
+   Link:<a href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 17, 1957. An account of the incident was published in the July, 1971, issue of the AIAA magazine. Astronautics &amp; Aeronauti cs (p. 6...</p></details>
    Published: July 17, 1957  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: kirkmcd.princeton.edu  
    Title: mcdonald fsr 16 3 2 70  
-   Link: <a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the 1957 gulf coast rb-47 - incidentThe unidenti- fied object was, at various times, seen visually by the cockpit crew (as an intense whi...</p></details>
+   Link:<a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the 1957 gulf coast rb-47 - incidentThe unidenti- fied object was, at various times, seen visually by the cockpit crew (as an intense whi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: kirkmcd.princeton.edu  
-   Link: <a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_aa_9_7_66_71.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_aa_9_7_66_71.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AIAA UFO Report.cdrIn the early morning hours of July 17. 1957, an RB-47 was flying out of. Forbes Air Force Base, Topeka. Kansas, on a...</p></details>
+   Link:<a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_aa_9_7_66_71.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_aa_9_7_66_71.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AIAA UFO Report.cdrIn the early morning hours of July 17. 1957, an RB-47 was flying out of. Forbes Air Force Base, Topeka. Kansas, on a...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: kirkmcd.princeton.edu  
    Title: mcdonald acm 013069  
-   Link: <a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_acm_013069.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_acm_013069.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and the Condon ReportThe Lakenheath case, as well as the 1957 B-47 case discussed below, were not known outside of Air. Force circle...</p></details>
+   Link:<a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_acm_013069.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_acm_013069.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and the Condon ReportThe Lakenheath case, as well as the 1957 B-47 case discussed below, were not known outside of Air. Force circle...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Scientific Study Of Unidentified Flying Objects  
-   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The incident involved the crew of a B-47 equipped with radar surveillance devices. The B-47 was operating from a Strategic Air Command ba...</p></details>
+   Link:<a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The incident involved the crew of a B-47 equipped with radar surveillance devices. The B-47 was operating from a Strategic Air Command ba...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufology.patrickgross.org  
-   Link: <a href="https://www.ufology.patrickgross.org/htm/rb47.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufology.patrickgross.org/htm/rb47.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RB-47 radar visual multiple witnesses cases, July 17, 195724 Jan 2004 — Project Bluebook said that the sightings in Dallas - Fort Worth a...</p></details>
+   Link:<a href="https://www.ufology.patrickgross.org/htm/rb47.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufology.patrickgross.org/htm/rb47.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RB-47 radar visual multiple witnesses cases, July 17, 195724 Jan 2004 — Project Bluebook said that the sightings in Dallas - Fort Worth a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theblackvault.com  
-   Link: <a href="https://www.theblackvault.com/documentarchive/project-blue-book-the-rb-47-ufo-incident-july-17-1957/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/project-blue-book-the-rb-47-ufo-incident-july-17-1957/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: The RB-47 UFO Incident — July 17, 19579 Dec 2021 — They visually observed a bright light moving in ways that matched t...</p></details>
+   Link:<a href="https://www.theblackvault.com/documentarchive/project-blue-book-the-rb-47-ufo-incident-july-17-1957/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/project-blue-book-the-rb-47-ufo-incident-july-17-1957/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: The RB-47 UFO Incident — July 17, 19579 Dec 2021 — They visually observed a bright light moving in ways that matched t...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/reports/RB47_Sparks_Ency.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/RB47_Sparks_Ency.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RB-47 Radar/VISUAL CASEIn the pre-dawn hours of July 17, 1957, the crew of a U.S. Air. Force RB-47 jet reconnaissance aircraft on an elec...</p></details>
+   Link:<a href="https://www.nicap.org/reports/RB47_Sparks_Ency.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/RB47_Sparks_Ency.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RB-47 Radar/VISUAL CASEIn the pre-dawn hours of July 17, 1957, the crew of a U.S. Air. Force RB-47 jet reconnaissance aircraft on an elec...</p></details>
    Published: July 17, 1957  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: thehistoryreader.com  
-   Link: <a href="https://www.thehistoryreader.com/military-history/ufo-events/" target="_blank" rel="noopener noreferrer nofollow">https://www.thehistoryreader.com/military-history/ufo-events/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The History ReaderTwo Critical UFO Events in HistoryThe two events, the reported crash of a flying saucer near Aztec, New Mexico, in Marc...</p></details>
+   Link:<a href="https://www.thehistoryreader.com/military-history/ufo-events/" target="_blank" rel="noopener noreferrer nofollow">https://www.thehistoryreader.com/military-history/ufo-events/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The History ReaderTwo Critical UFO Events in HistoryThe two events, the reported crash of a flying saucer near Aztec, New Mexico, in Marc...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: declassified documents raise intrigueus air force document cites 12618 ufo sight  
-   Link: <a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified documents raise intrigue US Air Force...Declassified documents raise intrigue US Air Force document cites 12618 UFO sightin...</p></details>
+   Link:<a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified documents raise intrigue US Air Force...Declassified documents raise intrigue US Air Force document cites 12618 UFO sightin...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AskHistorians/comments/1809hc/wednesday_ama_i_research_the_history_of_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskHistorians/comments/1809hc/wednesday_ama_i_research_the_history_of_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I was asked to do an AMA, so here I am. Thanks to the moderation team in advance for allowing me to do this. To prime the discussion...</p></details>
+   Link:<a href="https://www.reddit.com/r/AskHistorians/comments/1809hc/wednesday_ama_i_research_the_history_of_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskHistorians/comments/1809hc/wednesday_ama_i_research_the_history_of_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I was asked to do an AMA, so here I am. Thanks to the moderation team in advance for allowing me to do this. To prime the discussion...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: academia.edu  
    Title: The RB 47 Radar Electronic Intelligence ECM UFO Incident 1957 by James McDonald  
-   Link: <a href="https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The RB-47 Radar–Electronic Intelligence (ECM) UFO...5 Apr 2026 — Among Cold War radar-visual cases, the July 17, 1957 RB-47 UFO...</p></details>
+   Link:<a href="https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The RB-47 Radar–Electronic Intelligence (ECM) UFO...5 Apr 2026 — Among Cold War radar-visual cases, the July 17, 1957 RB-47 UFO...</p></details>
    Published: July 17, 1957  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: linkedin.com  
    Title: ai insights 1957 rb 47 which af elint aircraft em signals sadlocha ruj4c  
-   Link: <a href="https://www.linkedin.com/pulse/ai-insights-1957-rb-47-which-af-elint-aircraft-em-signals-sadlocha-ruj4c" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-insights-1957-rb-47-which-af-elint-aircraft-em-signals-sadlocha-ruj4c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Insights On 1957 RB-47 In Which AF ELINT Aircraft...Air Force Recording: The incident was documented via radar (ground and airborne)...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/ai-insights-1957-rb-47-which-af-elint-aircraft-em-signals-sadlocha-ruj4c" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-insights-1957-rb-47-which-af-elint-aircraft-em-signals-sadlocha-ruj4c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Insights On 1957 RB-47 In Which AF ELINT Aircraft...Air Force Recording: The incident was documented via radar (ground and airborne)...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...A, V February 13, 1953 Radar-visual sighting by B-36 Fort Worth, Texas crew G May 23, 1953 Ai...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...A, V February 13, 1953 Radar-visual sighting by B-36 Fort Worth, Texas crew G May 23, 1953 Ai...</p></details>
    Published: February 13, 1953  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: stacker.com  
-   Link: <a href="https://stacker.com/stories/news/weird-wild-ufo-sightings-throughout-history" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/news/weird-wild-ufo-sightings-throughout-history</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weird, Wild UFO Sightings From Throughout History16 Jul 2018 — In the early morning of July 17, 1957, the radar of an RB-47 over the sout...</p></details>
+   Link:<a href="https://stacker.com/stories/news/weird-wild-ufo-sightings-throughout-history" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/news/weird-wild-ufo-sightings-throughout-history</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weird, Wild UFO Sightings From Throughout History16 Jul 2018 — In the early morning of July 17, 1957, the radar of an RB-47 over the sout...</p></details>
    Published: July 17, 1957  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheSunSavers/posts/it-was-never-on-our-radar/1190486966454731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheSunSavers/posts/it-was-never-on-our-radar/1190486966454731/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by ground-radar and detected on ECM...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/TheSunSavers/posts/it-was-never-on-our-radar/1190486966454731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheSunSavers/posts/it-was-never-on-our-radar/1190486966454731/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by ground-radar and detected on ECM...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: 1960 RB 47 shootdown incident  
-   Link: <a href="https://en.wikipedia.org/wiki/1960_RB-47_shootdown_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1960_RB-47_shootdown_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1960 RB-47 shootdown incidentOn 1 July 1960, a United States RB-47H reconnaissance plane was shot down by the Soviet Air Defence Force...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/1960_RB-47_shootdown_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1960_RB-47_shootdown_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1960 RB-47 shootdown incidentOn 1 July 1960, a United States RB-47H reconnaissance plane was shot down by the Soviet Air Defence Force...</p></details>
    Published: July 1960  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: scribd.com  
    Title: R B-47 UFO Encounter  
-   Link: <a href="https://www.scribd.com/document/847282712/mcdonald-aa-9-7-66-71-1-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/847282712/mcdonald-aa-9-7-66-71-1-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RB-47 UFO Encounter: July 17, 1957 | PDFMcClure observed that the signal moved rapidly up-scope and then down-scope, a behavior inconsist...</p></details>
+   Link:<a href="https://www.scribd.com/document/847282712/mcdonald-aa" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/847282712/mcdonald-aa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RB-47 UFO Encounter: July 17, 1957 | PDFMcClure observed that the signal moved rapidly up-scope and then down-scope, a behavior inconsist...</p></details>
    Published: July 17, 1957

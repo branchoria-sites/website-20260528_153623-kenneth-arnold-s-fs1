@@ -758,253 +758,253 @@ image: /assets/images/Thomas_F_Mantell_inc_2ce7ee-overview-social.jpg
 
 ## What happened over Kentucky on 7 January 1948?
 
-Mantell was not flying a special UFO mission when the incident began. He was leading a flight of Kentucky Air National Guard F-51D Mustangs returning from a training exercise when Godman Army Airfield at Fort Knox asked the pilots to investigate reports of an unusual object in the sky. A U.S. Army account says the flight was returning north from Marietta Air Force Base in Georgia towards Louisville’s Standiford Field when Godman’s commander, Colonel Guy Hix, requested an intercept; one aircraft continued because of fuel, while Mantell and two others climbed in pursuit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.army.mil/article/263119/questions_remain_75_years_after_mysterious_fort_knox_ufo_incident_downed_pilot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: army.mil">[Army]</a><span class="citation-popover" role="note"><span class="citation-popover-source">army.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Mantell was not flying a special UFO mission when the incident began. He was leading a flight of Kentucky Air National Guard F-51D Mustangs returning from a training exercise when Godman Army Airfield at Fort Knox asked the pilots to investigate reports of an unusual object in the sky. A U.S. Army account says the flight was returning north from Marietta Air Force Base in Georgia towards Louisville’s Standiford Field when Godman’s commander, Colonel Guy Hix, requested an intercept; one aircraft continued because of fuel, while Mantell and two others climbed in pursuit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.army.mil/article/263119/questions_remain_75_years_after_mysterious_fort_knox_ufo_incident_downed_pilot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: army.mil">[Army]</a><span class="citation-popover" role="note"><span class="citation-popover-source">army.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Thomas_F_Mantell_inc_2ce7ee-overview.webp" | relative_url }}" alt="Overview image for Thomas F Mantell incident 1948" loading="eager" decoding="sync" fetchpriority="high">
-The tower personnel and other regional observers had been receiving reports before Mantell became involved. Later summaries describe sightings by people in Kentucky towns, the object being watched from Godman Tower, and pilots being directed towards it before they could see it themselves. Ruppelt’s later account, based on Air Force files and interviews, says Mantell reported seeing something above and ahead while still climbing, but that the famous wording often attributed to him — that the object looked “metallic” and was “tremendous in size” — was not remembered consistently by tower personnel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The tower personnel and other regional observers had been receiving reports before Mantell became involved. Later summaries describe sightings by people in Kentucky towns, the object being watched from Godman Tower, and pilots being directed towards it before they could see it themselves. Ruppelt’s later account, based on Air Force files and interviews, says Mantell reported seeing something above and ahead while still climbing, but that the famous wording often attributed to him — that the object looked “metallic” and was “tremendous in size” — was not remembered consistently by tower personnel.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The crucial flight-safety point is clearer than the object identification. Mantell and his wingmen had no oxygen available for high-altitude flight. His wingmen levelled off at about 15,000 feet and tried to contact him, while Mantell continued upward and then stopped responding. Ruppelt says the crash report concluded that Mantell blacked out from lack of oxygen, after which the aircraft continued until it entered a high-speed dive and broke up; he also notes that claims of a burned, riddled, radioactive, magnetised, or mysteriously damaged body or wreck were not supported by the accident report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The crucial flight-safety point is clearer than the object identification. Mantell and his wingmen had no oxygen available for high-altitude flight. His wingmen levelled off at about 15,000 feet and tried to contact him, while Mantell continued upward and then stopped responding. Ruppelt says the crash report concluded that Mantell blacked out from lack of oxygen, after which the aircraft continued until it entered a high-speed dive and broke up; he also notes that claims of a burned, riddled, radioactive, magnetised, or mysteriously damaged body or wreck were not supported by the accident report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Why the first explanation did not settle the case
 
-The first public explanation leaned heavily towards Venus. That answer was understandable as a quick hypothesis: Venus was in roughly the relevant part of the sky, and Air Force personnel had seen a recent case in which a pilot pursued Venus. But it was a poor fit for the whole Mantell sequence because the reported object was described by tower witnesses as something with apparent size and shape, not merely a point of light. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The first public explanation leaned heavily towards Venus. That answer was understandable as a quick hypothesis: Venus was in roughly the relevant part of the sky, and Air Force personnel had seen a recent case in which a pilot pursued Venus. But it was a poor fit for the whole Mantell sequence because the reported object was described by tower witnesses as something with apparent size and shape, not merely a point of light.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-J. Allen Hynek, the astronomer consulted by the Air Force, later judged Venus an inadequate explanation. In Ruppelt’s retelling, Hynek calculated that Venus was too faint against the afternoon sky to be a convincing match, especially with haze present. The official report’s uncertain wording — that the object may have been Venus, may have been a balloon, or perhaps involved two balloons — damaged confidence because it looked less like a firm conclusion than a public-relations answer under pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+J. Allen Hynek, the astronomer consulted by the Air Force, later judged Venus an inadequate explanation. In Ruppelt’s retelling, Hynek calculated that Venus was too faint against the afternoon sky to be a convincing match, especially with haze present. The official report’s uncertain wording — that the object may have been Venus, may have been a balloon, or perhaps involved two balloons — damaged confidence because it looked less like a firm conclusion than a public-relations answer under pressure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This confusion helped the incident become larger than a single crash investigation. Project Sign had only recently been created after Air Technical Intelligence Center officials urged a permanent, high-priority project for unidentified aerial reports in September 1947. Ruppelt later described early Air Force UFO work as serious, security-conscious, and internally conflicted, which helps explain why a rushed or ambiguous explanation in the Mantell case was interpreted by many readers as concealment rather than uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This confusion helped the incident become larger than a single crash investigation. Project Sign had only recently been created after Air Technical Intelligence Center officials urged a permanent, high-priority project for unidentified aerial reports in September 1947. Ruppelt later described early Air Force UFO work as serious, security-conscious, and internally conflicted, which helps explain why a rushed or ambiguous explanation in the Mantell case was interpreted by many readers as concealment rather than uncertainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Thomas_F_Mantell_inc_2ce7ee-Illustration-1-dark.svg" | relative_url }}" alt="Thomas F Mantell incident 1948 illustration 1" data-theme-src-dark="{{ "/assets/images/Thomas_F_Mantell_inc_2ce7ee-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Thomas_F_Mantell_inc_2ce7ee-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Skyhook balloon explanation
 
-The later balloon explanation is the most plausible solution because it matches more of the evidence than Venus does. Ruppelt identified several clues: Godman witnesses used descriptions such as parachute, ice-cream cone, round, white, huge, silver, or metallic; two later observers, including an astronomer north of Nashville, reportedly viewed the object through optical instruments and identified it as a balloon; and the wind pattern could allow a large balloon launched from Clinton County Air Force Base in Ohio to be seen along the reported Kentucky-Tennessee track. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The later balloon explanation is the most plausible solution because it matches more of the evidence than Venus does. Ruppelt identified several clues: Godman witnesses used descriptions such as parachute, ice-cream cone, round, white, huge, silver, or metallic; two later observers, including an astronomer north of Nashville, reportedly viewed the object through optical instruments and identified it as a balloon; and the wind pattern could allow a large balloon launched from Clinton County Air Force Base in Ohio to be seen along the reported Kentucky-Tennessee track.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Skyhook balloons were not ordinary weather balloons. They were large, high-altitude research balloons associated with classified Cold War work, and Mantell would not necessarily have known what one looked like. Ruppelt’s reconstruction stressed that no confirmed January 7 launch record was found by him, but that the flight path, witness descriptions, and later balloon identifications made the hypothesis fit the case “like” the missing piece of a puzzle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Skyhook balloons were not ordinary weather balloons. They were large, high-altitude research balloons associated with classified Cold War work, and Mantell would not necessarily have known what one looked like. Ruppelt’s reconstruction stressed that no confirmed January 7 launch record was found by him, but that the flight path, witness descriptions, and later balloon identifications made the hypothesis fit the case “like” the missing piece of a puzzle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A modern U.S. Army article reaches a similar cautious position: many suspect a Navy Skyhook balloon released from Clinton Air Force Base, Ohio, but the article also notes that firm documentation proving or disproving that specific launch has not been produced. That distinction matters. “Probably a Skyhook balloon” is stronger than the Venus explanation, but it is still not the same as a fully documented chain showing launch time, flight track, altitude, and recovery records for the exact object Mantell pursued. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.army.mil/article/263119/questions_remain_75_years_after_mysterious_fort_knox_ufo_incident_downed_pilot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: army.mil">[Army]</a><span class="citation-popover" role="note"><span class="citation-popover-source">army.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A modern U.S. Army article reaches a similar cautious position: many suspect a Navy Skyhook balloon released from Clinton Air Force Base, Ohio, but the article also notes that firm documentation proving or disproving that specific launch has not been produced. That distinction matters. “Probably a Skyhook balloon” is stronger than the Venus explanation, but it is still not the same as a fully documented chain showing launch time, flight track, altitude, and recovery records for the exact object Mantell pursued.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.army.mil/article/263119/questions_remain_75_years_after_mysterious_fort_knox_ufo_incident_downed_pilot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: army.mil">[Army]</a><span class="citation-popover" role="note"><span class="citation-popover-source">army.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/abovn7wAm-A" title="Thomas &amp; Friends™🚂 Being Percy | Season 14 Full Episodes! | Thomas the Train" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=abovn7wAm-A" target="_blank" rel="noopener noreferrer">Thomas &amp; Friends™🚂 Being Percy | Season 14 Full Episodes! | Thomas the Train</a></p><p class="youtube-embed-meta">Channel: Thomas &amp; Friends &middot; Views: 8.2M &middot; Uploaded: August 2022 &middot; Length: 1 hour 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=abovn7wAm-A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=abovn7wAm-A">Open on YouTube</a></p></div></div></div>
 
 ## What the witnesses add — and what they cannot prove
 
-The case is compelling because the witnesses were not casual anonymous claimants. Godman Tower personnel, military staff, pilots, state police reports, and later regional observers all form part of the documentary trail. That makes the sighting worth taking seriously as an unidentified object report, especially compared with cases that rest only on a single anecdote. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/project-blue-book-the-thomas-mantell-case-7-january-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">project blue book the thomas mantell case 7 january 1948</span><span class="citation-popover-snippet">project blue book the thomas mantell case 7 january 1948</span><span class="citation-popover-meta">Published: january 1948</span></span></span>
+The case is compelling because the witnesses were not casual anonymous claimants. Godman Tower personnel, military staff, pilots, state police reports, and later regional observers all form part of the documentary trail. That makes the sighting worth taking seriously as an unidentified object report, especially compared with cases that rest only on a single anecdote.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/project-blue-book-the-thomas-mantell-case-7-january-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">project blue book the thomas mantell case 7 january 1948</span><span class="citation-popover-snippet">project blue book the thomas mantell case 7 january 1948</span><span class="citation-popover-meta">Published: january 1948</span></span></span>
 
-At the same time, the witness evidence is not precise enough to prove an extraordinary craft. Descriptions varied widely: parachute-like, round, white, metallic, cone-like, huge, small, or a fraction of the size of the full moon. Those are exactly the sorts of inconsistent size and shape estimates one might expect when people observe a bright or reflective object at an unknown distance and altitude. Ruppelt’s later point was not that every detail was neatly explained, but that a large balloon could account for the broad pattern without requiring a hostile or exotic vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+At the same time, the witness evidence is not precise enough to prove an extraordinary craft. Descriptions varied widely: parachute-like, round, white, metallic, cone-like, huge, small, or a fraction of the size of the full moon. Those are exactly the sorts of inconsistent size and shape estimates one might expect when people observe a bright or reflective object at an unknown distance and altitude. Ruppelt’s later point was not that every detail was neatly explained, but that a large balloon could account for the broad pattern without requiring a hostile or exotic vehicle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The radio-message issue is especially important. The dramatic phrase about a metallic object of tremendous size has become one of the incident’s most repeated details, but Ruppelt says tower witnesses did not agree on whether Mantell actually said that. By contrast, they did agree that he intended to climb to 20,000 feet. For evidence assessment, that means the altitude decision is firmer than the most spectacular description of the object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The radio-message issue is especially important. The dramatic phrase about a metallic object of tremendous size has become one of the incident’s most repeated details, but Ruppelt says tower witnesses did not agree on whether Mantell actually said that. By contrast, they did agree that he intended to climb to 20,000 feet. For evidence assessment, that means the altitude decision is firmer than the most spectacular description of the object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Thomas_F_Mantell_inc_2ce7ee-Illustration-2-dark.svg" | relative_url }}" alt="Thomas F Mantell incident 1948 illustration 2" data-theme-src-dark="{{ "/assets/images/Thomas_F_Mantell_inc_2ce7ee-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Thomas_F_Mantell_inc_2ce7ee-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The crash was real; the rumours were not well supported
 
-Mantell’s death quickly generated sensational stories: alien attack, radiation, mysterious holes, a destroyed body, or a plane that had disintegrated because of a weapon. The accident evidence points elsewhere. Ruppelt’s account of the crash report says Mantell’s F-51 lost a wing because of excessive speed in a dive after he had blacked out from oxygen deprivation, and that the body and wreckage did not show the lurid features later claimed in rumours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Mantell’s death quickly generated sensational stories: alien attack, radiation, mysterious holes, a destroyed body, or a plane that had disintegrated because of a weapon. The accident evidence points elsewhere. Ruppelt’s account of the crash report says Mantell’s F-51 lost a wing because of excessive speed in a dive after he had blacked out from oxygen deprivation, and that the body and wreckage did not show the lurid features later claimed in rumours.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Aviation-focused summaries also stress the ordinary but deadly mechanics of the accident: no oxygen, high altitude, likely hypoxia, loss of consciousness, and an uncontrolled dive. One aviation history account gives the aircraft as F-51D-25-NA serial number 44-63869, says the wreckage was found southwest of Franklin, Kentucky, and notes that Mantell’s watch had stopped at 3:18. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thisdayinaviation.com/7-january-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thisdayinaviation.com">[This Day in Aviation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thisdayinaviation.com</span><span class="citation-popover-title">7 january 1948</span><span class="citation-popover-snippet">7 january 1948</span><span class="citation-popover-meta">Published: january 1948</span></span></span>
+Aviation-focused summaries also stress the ordinary but deadly mechanics of the accident: no oxygen, high altitude, likely hypoxia, loss of consciousness, and an uncontrolled dive. One aviation history account gives the aircraft as F-51D-25-NA serial number 44-63869, says the wreckage was found southwest of Franklin, Kentucky, and notes that Mantell’s watch had stopped at 3:18.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thisdayinaviation.com/7-january-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thisdayinaviation.com">[This Day in Aviation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thisdayinaviation.com</span><span class="citation-popover-title">7 january 1948</span><span class="citation-popover-snippet">7 january 1948</span><span class="citation-popover-meta">Published: january 1948</span></span></span>
 
-The human dimension is often lost behind the UFO label. Mantell was a decorated Second World War pilot, associated with C-47 operations during the Normandy campaign, and later joined the newly formed Kentucky Air National Guard. The Kentucky Senate’s 75th-anniversary resolution described the incident as involving reports in Kentucky and Ohio, a request from Godman Field for Mantell’s squadron to investigate, a spiral and crash, and an official speculation that he had climbed above safe oxygen levels while pursuing a planet or balloon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thisdayinaviation.com/7-january-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thisdayinaviation.com">[This Day in Aviation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thisdayinaviation.com</span><span class="citation-popover-title">7 january 1948</span><span class="citation-popover-snippet">7 january 1948</span><span class="citation-popover-meta">Published: january 1948</span></span></span>
+The human dimension is often lost behind the UFO label. Mantell was a decorated Second World War pilot, associated with C-47 operations during the Normandy campaign, and later joined the newly formed Kentucky Air National Guard. The Kentucky Senate’s 75th-anniversary resolution described the incident as involving reports in Kentucky and Ohio, a request from Godman Field for Mantell’s squadron to investigate, a spiral and crash, and an official speculation that he had climbed above safe oxygen levels while pursuing a planet or balloon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thisdayinaviation.com/7-january-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thisdayinaviation.com">[This Day in Aviation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thisdayinaviation.com</span><span class="citation-popover-title">7 january 1948</span><span class="citation-popover-snippet">7 january 1948</span><span class="citation-popover-meta">Published: january 1948</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EsQP69nxEWM" title="Classic Full Episodes of Thomas &amp; Friends! | 120 Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EsQP69nxEWM" target="_blank" rel="noopener noreferrer">Classic Full Episodes of Thomas &amp; Friends! | 120 Minutes</a></p><p class="youtube-embed-meta">Channel: Thomas &amp; Friends &middot; Views: 3.2M &middot; Uploaded: April 2025 &middot; Length: 2 hours 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EsQP69nxEWM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EsQP69nxEWM">Open on YouTube</a></p></div></div></div>
 
 ## Why the Mantell case still matters in UFO history
 
-The Mantell incident became famous not because it is the strongest evidence for non-human technology, but because it showed how quickly a tragic military accident could become a national UFO myth when official explanations were incomplete, inconsistent, or poorly communicated. Newspapers had a dramatic headline: a decorated pilot died chasing a “flying saucer”. The Air Force then moved through a Venus explanation, a qualified Venus-or-balloon position, and later a Skyhook reconstruction. That sequence looked suspicious to many readers even where the underlying cause may have been mundane. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Mantell incident became famous not because it is the strongest evidence for non-human technology, but because it showed how quickly a tragic military accident could become a national UFO myth when official explanations were incomplete, inconsistent, or poorly communicated. Newspapers had a dramatic headline: a decorated pilot died chasing a “flying saucer”. The Air Force then moved through a Venus explanation, a qualified Venus-or-balloon position, and later a Skyhook reconstruction. That sequence looked suspicious to many readers even where the underlying cause may have been mundane.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The case also sits naturally beside other early Project Sign and Project Blue Book controversies, such as the 1948 Chiles-Whitted airliner sighting and later high-profile radar or pilot cases. In that sibling-branch context, Mantell is best understood as a cautionary case about evidence quality: credible witnesses and a real fatality make an incident important, but they do not automatically make the object extraordinary. What matters is whether the physical evidence, timing, flight profile, independent observations, and alternative explanations converge. In Mantell’s case, they converge most strongly on hypoxia and a probable high-altitude balloon, with the exact balloon record still less complete than a fully closed case would require. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The case also sits naturally beside other early Project Sign and Project Blue Book controversies, such as the 1948 Chiles-Whitted airliner sighting and later high-profile radar or pilot cases. In that sibling-branch context, Mantell is best understood as a cautionary case about evidence quality: credible witnesses and a real fatality make an incident important, but they do not automatically make the object extraordinary. What matters is whether the physical evidence, timing, flight profile, independent observations, and alternative explanations converge. In Mantell’s case, they converge most strongly on hypoxia and a probable high-altitude balloon, with the exact balloon record still less complete than a fully closed case would require.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Thomas_F_Mantell_inc_2ce7ee-Illustration-3-dark.svg" | relative_url }}" alt="Thomas F Mantell incident 1948 illustration 3" data-theme-src-dark="{{ "/assets/images/Thomas_F_Mantell_inc_2ce7ee-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Thomas_F_Mantell_inc_2ce7ee-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Best-supported assessment
 
-The Thomas F. Mantell incident is best assessed in three layers. The crash itself is well supported: Mantell pursued an unidentified object, climbed beyond safe altitude without oxygen, apparently lost consciousness, and died when his F-51 crashed. The exotic rumours are weak: the better accident evidence does not support claims of attack, radiation, mysterious bodily damage, or unusual wreckage effects. The object identification is probable rather than perfectly proven: Venus was a weak fit, while a Skyhook-type high-altitude balloon fits the witness descriptions, regional sighting sequence, and wind reconstruction much better, even though the exact launch documentation remains elusive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.army.mil/article/263119/questions_remain_75_years_after_mysterious_fort_knox_ufo_incident_downed_pilot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: army.mil">[Army]</a><span class="citation-popover" role="note"><span class="citation-popover-source">army.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Thomas F. Mantell incident is best assessed in three layers. The crash itself is well supported: Mantell pursued an unidentified object, climbed beyond safe altitude without oxygen, apparently lost consciousness, and died when his F-51 crashed. The exotic rumours are weak: the better accident evidence does not support claims of attack, radiation, mysterious bodily damage, or unusual wreckage effects. The object identification is probable rather than perfectly proven: Venus was a weak fit, while a Skyhook-type high-altitude balloon fits the witness descriptions, regional sighting sequence, and wind reconstruction much better, even though the exact launch documentation remains elusive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.army.mil/article/263119/questions_remain_75_years_after_mysterious_fort_knox_ufo_incident_downed_pilot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: army.mil">[Army]</a><span class="citation-popover" role="note"><span class="citation-popover-source">army.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4JTU0Aj9Qbc" title="Death By UFO: Grave of Thomas Mantell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4JTU0Aj9Qbc" target="_blank" rel="noopener noreferrer">Death By UFO: Grave of Thomas Mantell</a></p><p class="youtube-embed-meta">Channel: Back Roads &middot; Views: 2.0K &middot; Uploaded: October 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4JTU0Aj9Qbc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4JTU0Aj9Qbc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened to Thomas Mantell?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened to Thomas Mantell?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">The cornerstone text documenting Project Sign&#x27;s investigation history into the F-51D Mustang intercept at Godman Army Airfield.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">The cornerstone text documenting Project Sign&#x27;s investigation history into the F-51D Mustang intercept at Godman Army Airfield.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides a comprehensive overview of the 7 January 1948 Kentucky Air National Guard chase, tracking multiple ground witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a comprehensive overview of the 7 January 1948 Kentucky Air National Guard chase, tracking multiple ground witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Reviews the complete formal paperwork of Project Sign, examining how the tragic loss of a pilot forced administrative policy updates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reviews the complete formal paperwork of Project Sign, examining how the tragic loss of a pilot forced administrative policy updates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Addresses why personal pilot credentials or multiple ground descriptions cannot override basic physiological flight safety limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses why personal pilot credentials or multiple ground descriptions cannot override basic physiological flight safety limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Aviation Poster Wall Art - Retro Airplane Decor Fine Art Print"><img src="{{ '/assets/images/marketplace-covers/aa405082db2bf8cb0f3c.jpg' | relative_url }}" alt="Listing image for Vintage Aviation Poster Wall Art - Retro Airplane Decor Fine Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Aviation Poster Wall Art - Retro Airplane Decor Fine Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Aviation Poster Wall Art - Retro Airplane Decor Fine Art Print"><img src="{{ '/assets/images/marketplace-covers/aa405082db2bf8cb0f3c.jpg' | relative_url }}" alt="Listing image for Vintage Aviation Poster Wall Art - Retro Airplane Decor Fine Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Aviation Poster Wall Art - Retro Airplane Decor Fine Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/79d7c1c2f8b6a13b52b4.jpg' | relative_url }}" alt="Listing image for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/79d7c1c2f8b6a13b52b4.jpg' | relative_url }}" alt="Listing image for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/3c567cd1b6b6d3f92b8b.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/3c567cd1b6b6d3f92b8b.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="thomas-f-mantell-incident-1948-what-really-happened-to-thomas-mantell-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1020,7 +1020,7 @@ The Thomas F. Mantell incident is best assessed in three layers. The crash itsel
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1040,7 +1040,7 @@ The Thomas F. Mantell incident is best assessed in three layers. The crash itsel
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1072,7 +1072,7 @@ The Thomas F. Mantell incident is best assessed in three layers. The crash itsel
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1124,7 +1124,7 @@ The Thomas F. Mantell incident is best assessed in three layers. The crash itsel
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1169,7 +1169,7 @@ The Thomas F. Mantell incident is best assessed in three layers. The crash itsel
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1210,140 +1210,140 @@ The Thomas F. Mantell incident is best assessed in three layers. The crash itsel
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
+   Link:<a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: army.mil  
-   Link: <a href="https://www.army.mil/article/263119/questions_remain_75_years_after_mysterious_fort_knox_ufo_incident_downed_pilot" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/263119/questions_remain_75_years_after_mysterious_fort_knox_ufo_incident_downed_pilot</a>  
+   Link:<a href="https://www.army.mil/article/263119/questions_remain_75_years_after_mysterious_fort_knox_ufo_incident_downed_pilot" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/263119/questions_remain_75_years_after_mysterious_fort_knox_ufo_incident_downed_pilot</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: theblackvault.com  
    Title: project blue book the thomas mantell case 7 january 1948  
-   Link: <a href="https://www.theblackvault.com/documentarchive/project-blue-book-the-thomas-mantell-case-7-january-1948/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/project-blue-book-the-thomas-mantell-case-7-january-1948/</a>  
+   Link:<a href="https://www.theblackvault.com/documentarchive/project-blue-book-the-thomas-mantell-case-7-january-1948/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/project-blue-book-the-thomas-mantell-case-7-january-1948/</a>  
    Published: january 1948  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: thisdayinaviation.com  
    Title: 7 january 1948  
-   Link: <a href="https://www.thisdayinaviation.com/7-january-1948/" target="_blank" rel="noopener noreferrer nofollow">https://www.thisdayinaviation.com/7-january-1948/</a>  
+   Link:<a href="https://www.thisdayinaviation.com/7-january-1948/" target="_blank" rel="noopener noreferrer nofollow">https://www.thisdayinaviation.com/7-january-1948/</a>  
    Published: january 1948  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Thomas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Thomas</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Thomas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Thomas</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/AD0688332.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/AD0688332.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/AD0688332.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/AD0688332.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: documents2.theblackvault.com  
    Title: georgehuntwilliamson fbi1  
-   Link: <a href="https://documents2.theblackvault.com/documents/fbifiles/paranormal/georgehuntwilliamson-fbi1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/fbifiles/paranormal/georgehuntwilliamson-fbi1.pdf</a>  
+   Link:<a href="https://documents2.theblackvault.com/documents/fbifiles/paranormal/georgehuntwilliamson-fbi1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/fbifiles/paranormal/georgehuntwilliamson-fbi1.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: documents2.theblackvault.com  
-   Link: <a href="https://documents2.theblackvault.com/documents/nasa/21-HQ-603-5-fixed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/nasa/21-HQ-603-5-fixed.pdf</a>  
+   Link:<a href="https://documents2.theblackvault.com/documents/nasa/21-HQ-603-5-fixed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/nasa/21-HQ-603-5-fixed.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2019-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2019-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2019-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2019-1.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: documents.theblackvault.com  
    Title: FOIALog FY01  
-   Link: <a href="https://documents.theblackvault.com/documents/foia/FOIALog_FY01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/foia/FOIALog_FY01.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/foia/FOIALog_FY01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/foia/FOIALog_FY01.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: documents.theblackvault.com  
    Title: FOIALog2006 DOD.xls  
-   Link: <a href="https://documents.theblackvault.com/documents/foia/FOIALog2006-DOD.xls" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/foia/FOIALog2006-DOD.xls</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/foia/FOIALog2006-DOD.xls" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/foia/FOIALog2006-DOD.xls</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: documents.theblackvault.com  
    Title: OASDFOIALOG2000 2008  
-   Link: <a href="https://documents.theblackvault.com/documents/foia/OASDFOIALOG2000-2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/foia/OASDFOIALOG2000-2008.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/foia/OASDFOIALOG2000-2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/foia/OASDFOIALOG2000-2008.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: documents.theblackvault.com  
    Title: FOIALog FY06  
-   Link: <a href="https://documents.theblackvault.com/documents/foia/FOIALog_FY06.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/foia/FOIALog_FY06.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/foia/FOIALog_FY06.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/foia/FOIALog_FY06.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: documents2.theblackvault.com  
-   Link: <a href="https://documents2.theblackvault.com/documents/osd/20-F-0163.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/20-F-0163.pdf</a>  
+   Link:<a href="https://documents2.theblackvault.com/documents/osd/20-F-0163.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/20-F-0163.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theblackvault.com  
    Title: thomas mantell  
-   Link: <a href="https://www.theblackvault.com/documentarchive/tag/thomas-mantell/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/tag/thomas-mantell/</a>  
+   Link:<a href="https://www.theblackvault.com/documentarchive/tag/thomas-mantell/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/tag/thomas-mantell/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/fbi/ufo13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/fbi/ufo13.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/fbi/ufo13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/fbi/ufo13.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thisdayinaviation.com  
    Title: thomas francis mantell jr  
-   Link: <a href="https://www.thisdayinaviation.com/tag/thomas-francis-mantell-jr/" target="_blank" rel="noopener noreferrer nofollow">https://www.thisdayinaviation.com/tag/thomas-francis-mantell-jr/</a>  
+   Link:<a href="https://www.thisdayinaviation.com/tag/thomas-francis-mantell-jr/" target="_blank" rel="noopener noreferrer nofollow">https://www.thisdayinaviation.com/tag/thomas-francis-mantell-jr/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: books.google.com  
    Title: Project Blue Book  
-   Link: <a href="https://books.google.com/books/about/Project_Blue_Book.html?id=GVuGDwAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Project_Blue_Book.html?id=GVuGDwAAQBAJ</a>  
+   Link:<a href="https://books.google.com/books/about/Project_Blue_Book.html?id=GVuGDwAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Project_Blue_Book.html?id=GVuGDwAAQBAJ</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ttte.fandom.com  
-   Link: <a href="https://ttte.fandom.com/wiki/Thomas" target="_blank" rel="noopener noreferrer nofollow">https://ttte.fandom.com/wiki/Thomas</a>  
+   Link:<a href="https://ttte.fandom.com/wiki/Thomas" target="_blank" rel="noopener noreferrer nofollow">https://ttte.fandom.com/wiki/Thomas</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: whipplelib.hps.cam.ac.uk  
-   Link: <a href="https://www.whipplelib.hps.cam.ac.uk/special/exhibitions-and-displays/exploring-deep-history/mantell" target="_blank" rel="noopener noreferrer nofollow">https://www.whipplelib.hps.cam.ac.uk/special/exhibitions-and-displays/exploring-deep-history/mantell</a>  
+   Link:<a href="https://www.whipplelib.hps.cam.ac.uk/special/exhibitions-and-displays/exploring-deep-history/mantell" target="_blank" rel="noopener noreferrer nofollow">https://www.whipplelib.hps.cam.ac.uk/special/exhibitions-and-displays/exploring-deep-history/mantell</a>  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: HISTORY OF UFOs AND ALIENS COMPILATION  
-   Link: <a href="https://www.youtube.com/watch?v=SqxG1voGDJM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SqxG1voGDJM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY of UFOs and ALIENS - PART 2 - The 1940s and 50s, including the Roswell Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SqxG1voGDJM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SqxG1voGDJM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY of UFOs and ALIENS - PART 2 - The 1940s and 50s, including the Roswell Incident...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Death By UFO: Grave of Thomas Mantell  
-   Link: <a href="https://www.youtube.com/watch?v=4JTU0Aj9Qbc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4JTU0Aj9Qbc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lost Contact: UFOs After Wartime - Official Trailer (2025) Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4JTU0Aj9Qbc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4JTU0Aj9Qbc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lost Contact: UFOs After Wartime - Official Trailer (2025) Documentary...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/smltownmonsters/posts/a-pilot-pursues-an-unidentified-craft-and-doesnt-make-it-home-what-really-happen/1367775118685434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/smltownmonsters/posts/a-pilot-pursues-an-unidentified-craft-and-doesnt-make-it-home-what-really-happen/1367775118685434/</a>  
+   Link:<a href="https://www.facebook.com/smltownmonsters/posts/a-pilot-pursues-an-unidentified-craft-and-doesnt-make-it-home-what-really-happen/1367775118685434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/smltownmonsters/posts/a-pilot-pursues-an-unidentified-craft-and-doesnt-make-it-home-what-really-happen/1367775118685434/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/smltownmonsters/posts/a-pilot-pursues-an-unidentified-craft-and-doesnt-make-it-home-what-really-happen/1368543168608629/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/smltownmonsters/posts/a-pilot-pursues-an-unidentified-craft-and-doesnt-make-it-home-what-really-happen/1368543168608629/</a>  
+   Link:<a href="https://www.facebook.com/smltownmonsters/posts/a-pilot-pursues-an-unidentified-craft-and-doesnt-make-it-home-what-really-happen/1368543168608629/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/smltownmonsters/posts/a-pilot-pursues-an-unidentified-craft-and-doesnt-make-it-home-what-really-happen/1368543168608629/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/218053599/Captain-Thomas-F-Mantell" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/218053599/Captain-Thomas-F-Mantell</a>  
+   Link:<a href="https://www.scribd.com/document/218053599/Captain-Thomas-F-Mantell" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/218053599/Captain-Thomas-F-Mantell</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: mantellassociates.com  
-   Link: <a href="https://www.mantellassociates.com/specialist-area/consulting/" target="_blank" rel="noopener noreferrer nofollow">https://www.mantellassociates.com/specialist-area/consulting/</a>  
+   Link:<a href="https://www.mantellassociates.com/specialist-area/consulting/" target="_blank" rel="noopener noreferrer nofollow">https://www.mantellassociates.com/specialist-area/consulting/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: dayoutwiththomas.co.uk  
-   Link: <a href="https://www.dayoutwiththomas.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.dayoutwiththomas.co.uk/</a>  
+   Link:<a href="https://www.dayoutwiththomas.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.dayoutwiththomas.co.uk/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/uncannyfan/posts/2350582572085027/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/uncannyfan/posts/2350582572085027/</a>  
+   Link:<a href="https://www.facebook.com/groups/uncannyfan/posts/2350582572085027/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/uncannyfan/posts/2350582572085027/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheBlackVault/posts/here-are-all-the-official-air-force-files-and-all-the-available-photographs-of-t/6991915447549972/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBlackVault/posts/here-are-all-the-official-air-force-files-and-all-the-available-photographs-of-t/6991915447549972/</a>
+   Link:<a href="https://www.facebook.com/TheBlackVault/posts/here-are-all-the-official-air-force-files-and-all-the-available-photographs-of-t/6991915447549972/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBlackVault/posts/here-are-all-the-official-air-force-files-and-all-the-available-photographs-of-t/6991915447549972/</a>

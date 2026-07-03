@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /claude-vorilhon-cont-ec941c-index/
 description: Focused pages that expand on Claude Vorilhon contact 1973.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Claude_Vorilhon_cont_ec941c
 parent_title: Claude Vorilhon contact 1973
@@ -16,7 +16,7 @@ parent_permalink: /claude-vorilhon-contact-1973/
 
 # Explore Topics in Claude Vorilhon contact 1973
 
-The following pages expand on the main **[Claude Vorilhon contact 1973]({{ '/claude-vorilhon-contact-1973/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Claude Vorilhon contact 1973]({{ '/claude-vorilhon-contact-1973/' | relative_url }})** page and cover its key branches in.
 
 - [Evidence]({{ '/evidence-7bbec9/' | relative_url }})
 - [Timeline]({{ '/timeline-a44900/' | relative_url }})

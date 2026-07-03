@@ -242,12 +242,12 @@ image: /assets/images/Alan_Godfrey_encount_87fc0b_hypnosis_abduction_c_6e1a00-Il
 
 ## Introduction
 
-The most controversial part of the Alan Godfrey encounter (1980) is not the initial roadside sighting. It is the later abduction narrative recovered under hypnosis. Godfrey’s original account involved a bright object blocking Burnley Road, a period of missing time, and confusion after the event. The more elaborate claims — being taken aboard a craft, meeting humanoid figures, and undergoing examination-like experiences — emerged later during hypnotic regression sessions rather than in his first reports. That distinction matters because hypnotic memory recovery is widely regarded by psychologists and memory researchers as highly unreliable for establishing factual events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2021/sep/12/what-i-saw-that-night-was-real-is-it-time-to-take-aliens-more-seriously-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The Guardian&#x27;What I saw that night was real&#x27;: is it time to take aliens more...13 Sept 2021 — “The thing with hypnotic regression is tha...</span></span></span> PubMed This does not automatically prove that Godfrey invented his experience. It does <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Memory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 319 — Those reporting recovered and repress...</span></span></span>, however, change how the evidence is weighed. Supporters often argue that hypnosis helped unlock traumatically suppressed memories. Skeptics argue that hypnosis can unintentionally create vivid but inaccurate recollections shaped by expectation, suggestion, cultural imagery, and the interviewer’s assumptions. In the Godfrey case, the debate over hypnosis is central because the encounter’s most dramatic details depend almost entirely on memories retrieved after the fact.
+The most controversial part of the Alan Godfrey encounter (1980) is not the initial roadside sighting. It is the later abduction narrative recovered under hypnosis. Godfrey’s original account involved a bright object blocking Burnley Road, a period of missing time, and confusion after the event. The more elaborate claims — being taken aboard a craft, meeting humanoid figures, and undergoing examination-like experiences — emerged later during hypnotic regression sessions rather than in his first reports. That distinction matters because hypnotic memory recovery is widely regarded by psychologists and memory researchers as highly unreliable for establishing factual events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2021/sep/12/what-i-saw-that-night-was-real-is-it-time-to-take-aliens-more-seriously-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The Guardian&#x27;What I saw that night was real&#x27;: is it time to take aliens more...13 Sept 2021 — “The thing with hypnotic regression is tha...</span></span></span> PubMed This does not automatically prove that Godfrey invented his experience. It does<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Memory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 319 — Those reporting recovered and repress...</span></span></span>, however, change how the evidence is weighed. Supporters often argue that hypnosis helped unlock traumatically suppressed memories. Skeptics argue that hypnosis can unintentionally create vivid but inaccurate recollections shaped by expectation, suggestion, cultural imagery, and the interviewer’s assumptions. In the Godfrey case, the debate over hypnosis is central because the encounter’s most dramatic details depend almost entirely on memories retrieved after the fact.
 
 <img src="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_hypnosis_abduction_c_6e1a00-Illustration-1-dark.svg" | relative_url }}" alt="Hypnosis illustration 1" data-theme-src-dark="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_hypnosis_abduction_c_6e1a00-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_hypnosis_abduction_c_6e1a00-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What hypnosis added to the case
 
-The early core of Godfrey’s story was comparatively restrained. He described a structured object on the road, a flash of light, and a gap in his memory. Contemporary retellings consistently note that the full “alien abduction” scenario came later through hypnotic regression sessions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.umbrellamagazine.co.uk/feature/chance-encounters-alien-abduction-in-the-pennines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: umbrellamagazine.co.uk">[Umbrella Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">umbrellamagazine.co.uk</span><span class="citation-popover-snippet">Umbrella MagazineChance encounters: Alien abduction in the Pennines15 Dec 2021 — Most notorious is the alleged alien abduction of PC Alan...</span></span></span>
+The early core of Godfrey’s story was comparatively restrained. He described a structured object on the road, a flash of light, and a gap in his memory. Contemporary retellings consistently note that the full “alien abduction” scenario came later through hypnotic regression sessions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.umbrellamagazine.co.uk/feature/chance-encounters-alien-abduction-in-the-pennines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: umbrellamagazine.co.uk">[Umbrella Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">umbrellamagazine.co.uk</span><span class="citation-popover-snippet">Umbrella MagazineChance encounters: Alien abduction in the Pennines15 Dec 2021 — Most notorious is the alleged alien abduction of PC Alan...</span></span></span>
 
 Under hypnosis, Godfrey reportedly recalled entering a craft interior and encountering humanoid entities, including a figure sometimes described in later retellings as a tall bearded man nicknamed “Yosef” or “Joseph”. The imagery aligned closely with broader UFO abduction narratives circulating in the late 1970s and early 1980s: missing time, medical examination themes, non-human beings, and fragmented recollection recovered later. These details helped transform the Todmorden sighting from a local police UFO report into one of Britain’s most famous alien abduction stories.
 
@@ -262,15 +262,15 @@ That transition is important because the hypnotically recovered material is qual
 
 </div>
 
-Researchers who study memory formation often treat those categories differently. A witness immediately describing a strange object is one thing; reconstructing a detailed hidden narrative months later through hypnosis is another entirely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Memory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 319 — Those reporting recovered and repress...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1207/s15327965pli0702_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-title">s15327965pli0702 1</span><span class="citation-popover-snippet">more...</span></span></span>
+Researchers who study memory formation often treat those categories differently. A witness immediately describing a strange object is one thing; reconstructing a detailed hidden narrative months later through hypnosis is another entirely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Memory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 319 — Those reporting recovered and repress...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1207/s15327965pli0702_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-title">s15327965pli0702 1</span><span class="citation-popover-snippet">more...</span></span></span>
 
 ## Why recovered memories are risky
 
 ### Hypnosis does not work like replaying a recording
 
-Modern psychology generally rejects the idea that memory functions as a perfectly preserved archive waiting to be unlocked. Memory is reconstructive. Each act of recall can reshape, combine, or distort details. Hypnosis may increase confidence and vividness, but it does not reliably increase accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4679162/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhat Do People Believe About Memory?</span><span class="citation-popover-snippet">Implications for the...by SJ Lynn · 2015 · Cited by 51 — Among them are sensorimotor psychotherapy, somatic experiencing therapy, neurol...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://med.virginia.edu/perceptual-studies/resources/concerns-about-hypnotic-regression/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: med.virginia.edu">[UVA School of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">med.virginia.edu</span><span class="citation-popover-snippet">UVA School of MedicineConcerns about Hypnotic RegressionA marked emotional experience during the hypnotic regression provides no assuranc...</span></span></span>
+Modern psychology generally rejects the idea that memory functions as a perfectly preserved archive waiting to be unlocked. Memory is reconstructive. Each act of recall can reshape, combine, or distort details. Hypnosis may increase confidence and vividness, but it does not reliably increase accuracy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4679162/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhat Do People Believe About Memory?</span><span class="citation-popover-snippet">Implications for the...by SJ Lynn · 2015 · Cited by 51 — Among them are sensorimotor psychotherapy, somatic experiencing therapy, neurol...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://med.virginia.edu/perceptual-studies/resources/concerns-about-hypnotic-regression/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: med.virginia.edu">[UVA School of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">med.virginia.edu</span><span class="citation-popover-snippet">UVA School of MedicineConcerns about Hypnotic RegressionA marked emotional experience during the hypnotic regression provides no assuranc...</span></span></span>
 
-This became especially controversial during the “recovered memory” debates of the 1980s and 1990s, when therapists sometimes used hypnosis and guided imagery to recover supposedly hidden memories of abuse, satanic ritual activity, or alien encounters. Many psychologists later warned that suggestive techniques could unintentionally create false memories that felt emotionally real to the subject. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4679162/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhat Do People Believe About Memory?</span><span class="citation-popover-snippet">Implications for the...by SJ Lynn · 2015 · Cited by 51 — Among them are sensorimotor psychotherapy, somatic experiencing therapy, neurol...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien abduction</span><span class="citation-popover-snippet">Alien abduction</span></span></span> The criticism is particularly sharp in UFO abduction research because the process often followed a recognisable pattern:
+This became especially controversial during the “recovered memory” debates of the 1980s and 1990s, when therapists sometimes used hypnosis and guided imagery to recover supposedly hidden memories of abuse, satanic ritual activity, or alien encounters. Many psychologists later warned that suggestive techniques could unintentionally create false memories that felt emotionally real to the subject.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4679162/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhat Do People Believe About Memory?</span><span class="citation-popover-snippet">Implications for the...by SJ Lynn · 2015 · Cited by 51 — Among them are sensorimotor psychotherapy, somatic experiencing therapy, neurol...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien abduction</span><span class="citation-popover-snippet">Alien abduction</span></span></span> The criticism is particularly sharp in UFO abduction research because the process often followed a recognisable pattern:
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-YfAlpWVtac" title="ALAN GODFREY - STRANGE BUT TRUE ?-UFOs." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-YfAlpWVtac" target="_blank" rel="noopener noreferrer">ALAN GODFREY - STRANGE BUT TRUE ?-UFOs.</a></p><p class="youtube-embed-meta">Channel: sunsetz777 &middot; Views: 33.7K &middot; Uploaded: May 2012 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-YfAlpWVtac" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-YfAlpWVtac">Open on YouTube</a></p></div></div></div>
 
@@ -284,13 +284,13 @@ This became especially controversial during the “recovered memory” debates o
 
 </div>
 
-Psychological researchers Nicholas Spanos, Susan Clancy, and others argued that this process can produce sincere but inaccurate memories without requiring fraud or mental illness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Memory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 319 — Those reporting recovered and repress...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1207/s15327965pli0702_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-title">s15327965pli0702 1</span><span class="citation-popover-snippet">more...</span></span></span>
+Psychological researchers Nicholas Spanos, Susan Clancy, and others argued that this process can produce sincere but inaccurate memories without requiring fraud or mental illness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Memory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 319 — Those reporting recovered and repress...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1207/s15327965pli0702_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-title">s15327965pli0702 1</span><span class="citation-popover-snippet">more...</span></span></span>
 
 ### Alien-abduction memories became a research subject
 
 The Godfrey case unfolded during the height of public fascination with abduction narratives. Books, television programmes, and investigators such as Budd Hopkins popularised recurring themes: grey beings, examinations, reproductive procedures, missing time, and suppressed memories recovered under hypnosis.
 
-Researchers later tested whether people reporting alien abductions showed unusual memory patterns. One influential 2002 study found that people claiming recovered alien-abduction memories were more prone to false recall and false recognition than comparison groups. The study also linked hypnotic suggestibility and fantasy proneness with these memory distortions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Memory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 319 — Those reporting recovered and repress...</span></span></span>
+Researchers later tested whether people reporting alien abductions showed unusual memory patterns. One influential 2002 study found that people claiming recovered alien-abduction memories were more prone to false recall and false recognition than comparison groups. The study also linked hypnotic suggestibility and fantasy proneness with these memory distortions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Memory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 319 — Those reporting recovered and repress...</span></span></span>
 
 Critics of hypnotic regression point to this research when discussing Godfrey because his later recollections fit the same wider cultural template. The concern is not necessarily deliberate fabrication. Instead, skeptics argue that emotionally intense experiences, expectation, and suggestive questioning can combine into a convincing but inaccurate narrative.
 
@@ -304,7 +304,7 @@ Skeptics usually separate the case into two parts:
 
 That distinction allows for the possibility that Godfrey genuinely experienced something unusual without accepting the extraterrestrial explanation.
 
-Psychologist Chris French has argued that hypnotic regression is “one of the best ways known of generating false memories”. Discussing Godfrey specifically, French suggested fatigue and a hallucinatory or altered perceptual state were more plausible explanations than literal abduction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2021/sep/12/what-i-saw-that-night-was-real-is-it-time-to-take-aliens-more-seriously-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The Guardian&#x27;What I saw that night was real&#x27;: is it time to take aliens more...13 Sept 2021 — “The thing with hypnotic regression is tha...</span></span></span>
+Psychologist Chris French has argued that hypnotic regression is “one of the best ways known of generating false memories”. Discussing Godfrey specifically, French suggested fatigue and a hallucinatory or altered perceptual state were more plausible explanations than literal abduction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2021/sep/12/what-i-saw-that-night-was-real-is-it-time-to-take-aliens-more-seriously-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The Guardian&#x27;What I saw that night was real&#x27;: is it time to take aliens more...13 Sept 2021 — “The thing with hypnotic regression is tha...</span></span></span>
 
 Several factors often appear in skeptical reconstructions:
 
@@ -319,7 +319,7 @@ Several factors often appear in skeptical reconstructions:
 
 From this perspective, the most dramatic aspects of the case are not independent evidence but products of later reconstruction.
 
-Skeptics also note that blackout or dissociative gaps do not automatically contain hidden memories waiting to be recovered intact. Some critics argue that if memory encoding failed during the event, hypnosis cannot retrieve information that was never properly stored in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scaredycatskeptic.co.uk/todmorden-ufo-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scaredycatskeptic.co.uk">[Scaredy Cat Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scaredycatskeptic.co.uk</span><span class="citation-popover-title">Scaredy Cat Skeptic The Bizarre Case of the Todmorden UFO Abduction</span><span class="citation-popover-snippet">skeptic-alan-godfrey-quote. PC Alan Godfrey. “Those eyes were staring up at me... So it&#x27;s highly unlikely that a hypnotist could bring b...</span></span></span>
+Skeptics also note that blackout or dissociative gaps do not automatically contain hidden memories waiting to be recovered intact. Some critics argue that if memory encoding failed during the event, hypnosis cannot retrieve information that was never properly stored in the first place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://scaredycatskeptic.co.uk/todmorden-ufo-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scaredycatskeptic.co.uk">[Scaredy Cat Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scaredycatskeptic.co.uk</span><span class="citation-popover-title">Scaredy Cat Skeptic The Bizarre Case of the Todmorden UFO Abduction</span><span class="citation-popover-snippet">skeptic-alan-godfrey-quote. PC Alan Godfrey. “Those eyes were staring up at me... So it&#x27;s highly unlikely that a hypnotist could bring b...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5GtWMqaTvmo" title="The Danger of False Memories in Hypnosis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5GtWMqaTvmo" target="_blank" rel="noopener noreferrer">The Danger of False Memories in Hypnosis</a></p><p class="youtube-embed-meta">Channel: Mike Mandel Hypnosis &middot; Views: 403 &middot; Uploaded: January 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5GtWMqaTvmo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5GtWMqaTvmo">Open on YouTube</a></p></div></div></div>
 
@@ -338,7 +338,7 @@ Some UFO researchers also argue that abduction reports across different witnesse
 
 </div>
 
-Defenders sometimes cite psychiatrist John E. Mack, who argued that many abductees reported experiences before hypnosis was ever used, and that relaxation techniques merely helped people articulate fragmented memories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien abduction</span><span class="citation-popover-snippet">Alien abduction</span></span></span>
+Defenders sometimes cite psychiatrist John E. Mack, who argued that many abductees reported experiences before hypnosis was ever used, and that relaxation techniques merely helped people articulate fragmented memories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien abduction</span><span class="citation-popover-snippet">Alien abduction</span></span></span>
 
 Within the Godfrey case specifically, believers often emphasise that the original roadside sighting predated the hypnosis sessions. They argue the encounter therefore cannot be dismissed entirely as hypnotic suggestion. For them, hypnosis expanded the story rather than creating it from nothing.
 
@@ -349,7 +349,7 @@ This is where the dispute becomes difficult to resolve cleanly. Even many skepti
 
 One reason the hypnosis debate matters so much is that the recovered imagery was not culturally neutral. By 1980, alien-abduction motifs had already become highly recognisable in books, magazines, television documentaries, and UFO conferences.
 
-Researchers studying abduction narratives have repeatedly noted similarities between hypnotically recovered memories and contemporary science-fiction or UFO imagery. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien abduction</span><span class="citation-popover-snippet">Alien abduction</span></span></span> The Godfrey story emerged during a period when abduction narratives were evolving from older“contactee” stories into darker, examination-focused accounts. Missing time, medical inspection themes, and humanoid entities had already appeared prominently in earlier cases such as the alleged abduction of Betty and Barney Hill, whose own story became heavily associated with hypnosis.
+Researchers studying abduction narratives have repeatedly noted similarities between hypnotically recovered memories and contemporary science-fiction or UFO imagery. Taylor & Francis Online<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien abduction</span><span class="citation-popover-snippet">Alien abduction</span></span></span> The Godfrey story emerged during a period when abduction narratives were evolving from older“contactee” stories into darker, examination-focused accounts. Missing time, medical inspection themes, and humanoid entities had already appeared prominently in earlier cases such as the alleged abduction of Betty and Barney Hill, whose own story became heavily associated with hypnosis.
 
 To skeptics, this resemblance weakens the evidential value of the recovered memories because it suggests cultural scripting. To believers, the repeated imagery suggests witnesses are independently describing the same underlying phenomenon.
 
@@ -375,194 +375,194 @@ That tension is precisely why the case continues to be discussed decades later. 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l8iEOpVCRDU" title="Most Amazing Alien Abduction Ever! | Paranormal Files E1 | Sci-Fi Central" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l8iEOpVCRDU" target="_blank" rel="noopener noreferrer">Most Amazing Alien Abduction Ever! | Paranormal Files E1 | Sci-Fi Central</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 24.2K &middot; Uploaded: January 2022 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l8iEOpVCRDU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l8iEOpVCRDU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can the Abduction Story Be Trusted?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can the Abduction Story Be Trusted?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
-        </h4>
-        <p class="fr-book-author">By John E. Mack, Mack</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+</h4>
+<p class="fr-book-author">By John E. Mack, Mack</p>
         
-        <p class="fr-book-desc">The premier study on how hypnotic regression unlocks abduction narratives, matching the exact humanoid scenarios Godfrey recalled.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">The premier study on how hypnotic regression unlocks abduction narratives, matching the exact humanoid scenarios Godfrey recalled.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xq1vfWIiV1IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xq1vfWIiV1IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
         
-        <p class="fr-book-desc">Provides the essential critical analysis explaining how hypnotic regression accidentally invents vivid, false abduction memories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the essential critical analysis explaining how hypnotic regression accidentally invents vivid, false abduction memories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Science+Confronts+the+Paranormal+by+Kendrick+Frazier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Science Confronts the Paranormal on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UTh-AAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Science Confronts the Paranormal" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Science+Confronts+the+Paranormal+by+Kendrick+Frazier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Science Confronts the Paranormal">Science Confronts the Paranormal</a>
-        </h4>
-        <p class="fr-book-author">By Kendrick Frazier</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Science+Confronts+the+Paranormal+by+Kendrick+Frazier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Science Confronts the Paranormal on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UTh-AAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Science Confronts the Paranormal" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Science+Confronts+the+Paranormal+by+Kendrick+Frazier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Science Confronts the Paranormal">Science Confronts the Paranormal</a>
+</h4>
+<p class="fr-book-author">By Kendrick Frazier</p>
         
-        <p class="fr-book-desc">Features clinical studies breaking down how interviewers drop suggestions that create detailed alien narratives under hypnosis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Science+Confronts+the+Paranormal+by+Kendrick+Frazier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Features clinical studies breaking down how interviewers drop suggestions that create detailed alien narratives under hypnosis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Science+Confronts+the+Paranormal+by+Kendrick+Frazier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
-        </h4>
-        <p class="fr-book-author">By Budd Hopkins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
+</h4>
+<p class="fr-book-author">By Budd Hopkins</p>
         
-        <p class="fr-book-desc">Directly patterns the exact structural phase—from driving gaps to hypnotic recovery—that Alan Godfrey experienced in late 1980.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly patterns the exact structural phase—from driving gaps to hypnotic recovery—that Alan Godfrey experienced in late 1980.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Science+Confronts+the+Paranormal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Science Confronts the Paranormal</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Science+Confronts+the+Paranormal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Science Confronts the Paranormal</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift"><img src="{{ '/assets/images/marketplace-covers/7240a7857b4aa5cdc4a5.jpg' | relative_url }}" alt="Listing image for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer">Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift"><img src="{{ '/assets/images/marketplace-covers/7240a7857b4aa5cdc4a5.jpg' | relative_url }}" alt="Listing image for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer">Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien News Article UFO Mens T-Shirt 100% Cotton"><img src="{{ '/assets/images/marketplace-covers/6596a9316d32a6fe3829.jpg' | relative_url }}" alt="Listing image for Alien News Article UFO Mens T-Shirt 100% Cotton" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer">Alien News Article UFO Mens T-Shirt 100% Cotton</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien News Article UFO Mens T-Shirt 100% Cotton"><img src="{{ '/assets/images/marketplace-covers/6596a9316d32a6fe3829.jpg' | relative_url }}" alt="Listing image for Alien News Article UFO Mens T-Shirt 100% Cotton" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer">Alien News Article UFO Mens T-Shirt 100% Cotton</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hypnosis-e97dd3-can-the-abduction-story-be-trusted-alan-godfrey-encounter-1980-ufo-t-shirt-gerry-anderson-series-televis" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -578,7 +578,7 @@ That tension is precisely why the case continues to be discussed decades later. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -598,7 +598,7 @@ That tension is precisely why the case continues to be discussed decades later. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -630,7 +630,7 @@ That tension is precisely why the case continues to be discussed decades later. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -682,7 +682,7 @@ That tension is precisely why the case continues to be discussed decades later. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -727,7 +727,7 @@ That tension is precisely why the case continues to be discussed decades later. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -768,114 +768,114 @@ That tension is precisely why the case continues to be discussed decades later. 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Alien abduction  
-   Link: <a href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_abduction</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_abduction</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWhat Do People Believe About Memory?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4679162/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4679162/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Implications for the...by SJ Lynn · 2015 · Cited by 51 — Among them are sensorimotor psychotherapy, somatic experiencing therapy, neurol...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4679162/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4679162/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implications for the...by SJ Lynn · 2015 · Cited by 51 — Among them are sensorimotor psychotherapy, somatic experiencing therapy, neurol...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2021/sep/12/what-i-saw-that-night-was-real-is-it-time-to-take-aliens-more-seriously-" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2021/sep/12/what-i-saw-that-night-was-real-is-it-time-to-take-aliens-more-seriously-</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Guardian&#x27;What I saw that night was real&#x27;: is it time to take aliens more...13 Sept 2021 — “The thing with hypnotic regression is tha...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2021/sep/12/what-i-saw-that-night-was-real-is-it-time-to-take-aliens-more-seriously-" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2021/sep/12/what-i-saw-that-night-was-real-is-it-time-to-take-aliens-more-seriously-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Guardian&#x27;What I saw that night was real&#x27;: is it time to take aliens more...13 Sept 2021 — “The thing with hypnotic regression is tha...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12150421/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 319 — Those reporting recovered and repress...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12150421/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 319 — Those reporting recovered and repress...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: umbrellamagazine.co.uk  
-   Link: <a href="https://www.umbrellamagazine.co.uk/feature/chance-encounters-alien-abduction-in-the-pennines" target="_blank" rel="noopener noreferrer nofollow">https://www.umbrellamagazine.co.uk/feature/chance-encounters-alien-abduction-in-the-pennines</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Umbrella MagazineChance encounters: Alien abduction in the Pennines15 Dec 2021 — Most notorious is the alleged alien abduction of PC Alan...</p></details>
+   Link:<a href="https://www.umbrellamagazine.co.uk/feature/chance-encounters-alien-abduction-in-the-pennines" target="_blank" rel="noopener noreferrer nofollow">https://www.umbrellamagazine.co.uk/feature/chance-encounters-alien-abduction-in-the-pennines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Umbrella MagazineChance encounters: Alien abduction in the Pennines15 Dec 2021 — Most notorious is the alleged alien abduction of PC Alan...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tandfonline.com  
    Title: s15327965pli0702 1  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1207/s15327965pli0702_1" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1207/s15327965pli0702_1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1207/s15327965pli0702_1" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1207/s15327965pli0702_1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: med.virginia.edu  
-   Link: <a href="https://med.virginia.edu/perceptual-studies/resources/concerns-about-hypnotic-regression/" target="_blank" rel="noopener noreferrer nofollow">https://med.virginia.edu/perceptual-studies/resources/concerns-about-hypnotic-regression/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UVA School of MedicineConcerns about Hypnotic RegressionA marked emotional experience during the hypnotic regression provides no assuranc...</p></details>
+   Link:<a href="https://med.virginia.edu/perceptual-studies/resources/concerns-about-hypnotic-regression/" target="_blank" rel="noopener noreferrer nofollow">https://med.virginia.edu/perceptual-studies/resources/concerns-about-hypnotic-regression/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UVA School of MedicineConcerns about Hypnotic RegressionA marked emotional experience during the hypnotic regression provides no assuranc...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: scaredycatskeptic.co.uk  
    Title: Scaredy Cat Skeptic The Bizarre Case of the Todmorden UFO Abduction  
-   Link: <a href="https://scaredycatskeptic.co.uk/todmorden-ufo-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://scaredycatskeptic.co.uk/todmorden-ufo-abduction/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>skeptic-alan-godfrey-quote. PC Alan Godfrey. “Those eyes were staring up at me... So it&#x27;s highly unlikely that a hypnotist could bring b...</p></details>
+   Link:<a href="https://scaredycatskeptic.co.uk/todmorden-ufo-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://scaredycatskeptic.co.uk/todmorden-ufo-abduction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>skeptic-alan-godfrey-quote. PC Alan Godfrey. “Those eyes were staring up at me... So it&#x27;s highly unlikely that a hypnotist could bring b...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dash.harvard.edu  
    Title: alien abduction  
-   Link: <a href="https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This criticism misses the mark. There are two common.Read more...</p></details>
+   Link:<a href="https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This criticism misses the mark. There are two common.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: ALA N GODFREY  
-   Link: <a href="https://www.youtube.com/watch?v=-YfAlpWVtac" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-YfAlpWVtac</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ALAN GODFREY - STRANGE BUT TRUE?-UFOs.The most extraordinary story must be that of Alan Godfrey the policeman who made the find on the c...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-YfAlpWVtac" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-YfAlpWVtac</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ALAN GODFREY - STRANGE BUT TRUE?-UFOs.The most extraordinary story must be that of Alan Godfrey the policeman who made the find on the c...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: neuroscigroup.us  
-   Link: <a href="https://www.neuroscigroup.us/articles/APT-5-137.php" target="_blank" rel="noopener noreferrer nofollow">https://www.neuroscigroup.us/articles/APT-5-137.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Clinical evidence in the phenomenon of Alien AbductionResults: Preliminary results from the interviews and the anamnestic form would sugg...</p></details>
+   Link:<a href="https://www.neuroscigroup.us/articles/APT-5-137.php" target="_blank" rel="noopener noreferrer nofollow">https://www.neuroscigroup.us/articles/APT-5-137.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clinical evidence in the phenomenon of Alien AbductionResults: Preliminary results from the interviews and the anamnestic form would sugg...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: drmsh.com  
-   Link: <a href="https://drmsh.com/professional-psychiatry-and-the-abduction-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://drmsh.com/professional-psychiatry-and-the-abduction-phenomenon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Professional Psychiatry and the Abduction PhenomenonI want to introduce all of you to a fairly hefty amount of peer-review literature (he...</p></details>
+   Link:<a href="https://drmsh.com/professional-psychiatry-and-the-abduction-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://drmsh.com/professional-psychiatry-and-the-abduction-phenomenon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Professional Psychiatry and the Abduction PhenomenonI want to introduce all of you to a fairly hefty amount of peer-review literature (he...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-2.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the SkepticalHypnosis can encourage fantasy and implant pseudo-memories. Its validity in UFO abduction cases is questionable. Philip J. K...</p></details>
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the SkepticalHypnosis can encourage fantasy and implant pseudo-memories. Its validity in UFO abduction cases is questionable. Philip J. K...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/mystery/comments/1l59qj0/the_todmorden_abduction_of_alan_godfrey/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mystery/comments/1l59qj0/the_todmorden_abduction_of_alan_godfrey/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Todmorden Abduction of Alan Godfrey: r/mysteryThe coroner&#x27;s investigation would conclude that adamsky had died from a heart attack b...</p></details>
+   Link:<a href="https://www.reddit.com/r/mystery/comments/1l59qj0/the_todmorden_abduction_of_alan_godfrey/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mystery/comments/1l59qj0/the_todmorden_abduction_of_alan_godfrey/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Todmorden Abduction of Alan Godfrey: r/mysteryThe coroner&#x27;s investigation would conclude that adamsky had died from a heart attack b...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: yorkshire alien in 1987 a retired british police officer named philip spencer re  
-   Link: <a href="https://www.facebook.com/iYorkshire/posts/yorkshire-alien-in-1987-a-retired-british-police-officer-named-philip-spencer-re/1272599048304044/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/iYorkshire/posts/yorkshire-alien-in-1987-a-retired-british-police-officer-named-philip-spencer-re/1272599048304044/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yorkshire Alien 👽 In 1987, a retired British police officer...Hypnotic Regression: Under hypnosis, Spencer later recalled being abducted...</p></details>
+   Link:<a href="https://www.facebook.com/iYorkshire/posts/yorkshire-alien-in-1987-a-retired-british-police-officer-named-philip-spencer-re/1272599048304044/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/iYorkshire/posts/yorkshire-alien-in-1987-a-retired-british-police-officer-named-philip-spencer-re/1272599048304044/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yorkshire Alien 👽 In 1987, a retired British police officer...Hypnotic Regression: Under hypnosis, Spencer later recalled being abducted...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCthe role of hypnosis in memory recall and false  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11832514/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11832514/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by DG Leo · 2025 · Cited by 8 — Alleged alien abductions: false memories, hypnosis, and fantasy proneness.... A mega-analysis of memo...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11832514/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11832514/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by DG Leo · 2025 · Cited by 8 — Alleged alien abductions: false memories, hypnosis, and fantasy proneness.... A mega-analysis of memo...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aeon.co  
    Title: the short dramatic history of alien abduction in the us  
-   Link: <a href="https://aeon.co/essays/the-short-dramatic-history-of-alien-abduction-in-the-us" target="_blank" rel="noopener noreferrer nofollow">https://aeon.co/essays/the-short-dramatic-history-of-alien-abduction-in-the-us</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The short, dramatic history of alien abduction in the USJun 12, 2025 —... hypnosis to aid alleged victims of alien abduction in regainin...</p></details>
+   Link:<a href="https://aeon.co/essays/the-short-dramatic-history-of-alien-abduction-in-the-us" target="_blank" rel="noopener noreferrer nofollow">https://aeon.co/essays/the-short-dramatic-history-of-alien-abduction-in-the-us</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The short, dramatic history of alien abduction in the USJun 12, 2025 —... hypnosis to aid alleged victims of alien abduction in regainin...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
    Title: Toward an Explanation of the UFO Abduction Phenomenon  
-   Link: <a href="https://www.researchgate.net/publication/240237527_Toward_an_Explanation_of_the_UFO_Abduction_Phenomenon_Hypnotic_Elaboration_Extraterrestrial_Sadomasochism_and_Spurious_Memories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/240237527_Toward_an_Explanation_of_the_UFO_Abduction_Phenomenon_Hypnotic_Elaboration_Extraterrestrial_Sadomasochism_and_Spurious_Memories</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Abduction Phenomenon: Hypnotic Elaboration, Extraterrestrial Sadomasochism, and Spurious Memories... Alien Abduction Phenomenon: A R...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/240237527_Toward_an_Explanation_of_the_UFO_Abduction_Phenomenon_Hypnotic_Elaboration_Extraterrestrial_Sadomasochism_and_Spurious_Memories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/240237527_Toward_an_Explanation_of_the_UFO_Abduction_Phenomenon_Hypnotic_Elaboration_Extraterrestrial_Sadomasochism_and_Spurious_Memories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Abduction Phenomenon: Hypnotic Elaboration, Extraterrestrial Sadomasochism, and Spurious Memories... Alien Abduction Phenomenon: A R...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
    Title: a very unspoken but also taboo subject hypnotic  
-   Link: <a href="https://www.reddit.com/r/hypnosis/comments/s68hk7/a_very_unspoken_but_also_taboo_subject_hypnotic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hypnosis/comments/s68hk7/a_very_unspoken_but_also_taboo_subject_hypnotic/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A very unspoken but also taboo subject, hypnotic...It was traced back since the 1920&#x27;s that people claimed to be abducted, instead of pe...</p></details>
+   Link:<a href="https://www.reddit.com/r/hypnosis/comments/s68hk7/a_very_unspoken_but_also_taboo_subject_hypnotic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hypnosis/comments/s68hk7/a_very_unspoken_but_also_taboo_subject_hypnotic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A very unspoken but also taboo subject, hypnotic...It was traced back since the 1920&#x27;s that people claimed to be abducted, instead of pe...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/UnuFacts/posts/-the-moorland-mystery-the-ilkley-alien-photo-of-1987-the-famous-and-controversia/1247302630764458/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnuFacts/posts/-the-moorland-mystery-the-ilkley-alien-photo-of-1987-the-famous-and-controversia/1247302630764458/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>👽 The Moorland Mystery: The Ilkley Alien Photo of 1987 📸...Under hypnotic regression, Godfrey recalled being taken aboard a strange vessel...</p></details>
+   Link:<a href="https://www.facebook.com/UnuFacts/posts/-the-moorland-mystery-the-ilkley-alien-photo-of-1987-the-famous-and-controversia/1247302630764458/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnuFacts/posts/-the-moorland-mystery-the-ilkley-alien-photo-of-1987-the-famous-and-controversia/1247302630764458/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>👽 The Moorland Mystery: The Ilkley Alien Photo of 1987 📸...Under hypnotic regression, Godfrey recalled being taken aboard a strange vessel...</p></details>

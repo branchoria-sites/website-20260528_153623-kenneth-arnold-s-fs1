@@ -253,30 +253,30 @@ The *Gary Wilcox encounter* of 24 April 1964 is frequently mentioned in UFO lite
 <img src="{{ "/assets/images/Gary_Wilcox_encounte_6de9ff_wilcox_physical_evid_014577-Illustration-1-dark.svg" | relative_url }}" alt="Physical Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/Gary_Wilcox_encounte_6de9ff_wilcox_physical_evid_014577-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gary_Wilcox_encounte_6de9ff_wilcox_physical_evid_014577-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Reported Landing Area and Soil‑Related Claims
 
-According to Wilcox’s account, the craft hovered just above the ground near a field edge as he worked, and the alleged occupants carried trays of vegetation and soil, enquiring about farming practices and manure. He even later **brought a bag of fertiliser to the site**, which he said was gone the next morning. This detail is often cited by proponents as an unusual physical trace linked to the encounter itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/aliens/encounters/gary-wilcox-occupant-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">UFO Insight The Gary Wilcox Occupant Encounter – The Fertilizer Case</span><span class="citation-popover-snippet">UFO InsightThe Gary Wilcox Occupant Encounter – The Fertilizer Case - UFO InsightDecember 27, 2018...</span><span class="citation-popover-meta">Published: December 27, 2018</span></span></span>
+According to Wilcox’s account, the craft hovered just above the ground near a field edge as he worked, and the alleged occupants carried trays of vegetation and soil, enquiring about farming practices and manure. He even later **brought a bag of fertiliser to the site**, which he said was gone the next morning. This detail is often cited by proponents as an unusual physical trace linked to the encounter itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/aliens/encounters/gary-wilcox-occupant-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">UFO Insight The Gary Wilcox Occupant Encounter – The Fertilizer Case</span><span class="citation-popover-snippet">UFO InsightThe Gary Wilcox Occupant Encounter – The Fertilizer Case - UFO InsightDecember 27, 2018...</span><span class="citation-popover-meta">Published: December 27, 2018</span></span></span>
 
-A handful of summary reports claim Wilcox believed **soil samples had been removed** from the area by the occupants, suggesting physical interaction with the local environment, but these claims lack independent corroboration from verifiable documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/776367902/Schwarz-Landing-1964-Gary-Wilcox-New-York-State-FSR-SI-1969-N-3-UFO-Percipients" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Schwarz Landing 1964 Gary Wilcox New York State FSR SI 1969 N 3 UFO Percipients</span><span class="citation-popover-snippet">He stated that the sod had grass or vegetation on top. In event that samples had been removed from his...Read more...</span></span></span>
+A handful of summary reports claim Wilcox believed **soil samples had been removed** from the area by the occupants, suggesting physical interaction with the local environment, but these claims lack independent corroboration from verifiable documentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/776367902/Schwarz-Landing-1964-Gary-Wilcox-New-York-State-FSR-SI-1969-N-3-UFO-Percipients" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Schwarz Landing 1964 Gary Wilcox New York State FSR SI 1969 N 3 UFO Percipients</span><span class="citation-popover-snippet">He stated that the sod had grass or vegetation on top. In event that samples had been removed from his...Read more...</span></span></span>
 
-Crucially, despite these narrative elements, **no contemporary field documentation of soil samples, ground depressions, scorch marks, or similar trace evidence from the landing site has been published in primary records**. Accounts that purport the discovery of above‑normal radiation levels in soil at the scene appear in far later online forums but without supporting references to police or scientific reports from the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unexplained-mysteries.com/forum/topic/239127-gary-wilcox-dirty-little-secret/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained-mysteries.com">[unexplained-mysteries.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-snippet">Gary Wilcox Dirty Little SecretDecember 11, 2012 — 11 Dec 2012 — Evidently the soil samples from the landing site had radiation levels ab...</span><span class="citation-popover-meta">Published: December 11, 2012</span></span></span>
+Crucially, despite these narrative elements, **no contemporary field documentation of soil samples, ground depressions, scorch marks, or similar trace evidence from the landing site has been published in primary records**. Accounts that purport the discovery of above‑normal radiation levels in soil at the scene appear in far later online forums but without supporting references to police or scientific reports from the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unexplained-mysteries.com/forum/topic/239127-gary-wilcox-dirty-little-secret/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained-mysteries.com">[unexplained-mysteries.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-snippet">Gary Wilcox Dirty Little SecretDecember 11, 2012 — 11 Dec 2012 — Evidently the soil samples from the landing site had radiation levels ab...</span><span class="citation-popover-meta">Published: December 11, 2012</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eQvSObK4Mfg" title="The Lonnie Zamora Incident: The UFO Case Even Project Blue Book Couldn’t Explain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eQvSObK4Mfg" target="_blank" rel="noopener noreferrer">The Lonnie Zamora Incident: The UFO Case Even Project Blue Book Couldn’t Explain</a></p><p class="youtube-embed-meta">Channel: Poetazonia &middot; Views: 21 &middot; Uploaded: February 2026 &middot; Length: 4 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eQvSObK4Mfg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eQvSObK4Mfg">Open on YouTube</a></p></div></div></div>
 
 ## Official Reporting and Law Enforcement Involvement
 
-Wilcox reportedly informed local law enforcement of his sighting. Some secondary and retrospective accounts suggest that he may have made statements under supervision, possibly even documented with police or sheriff involvement, and that he told federal agencies such as the FBI. However, **no police blotter entries, sheriff’s office investigation records, FBI files, or Air Force reports from 1964 have been publicly released that detail physical trace investigation or analysis from the Wilcox site**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unexplained-mysteries.com/forum/topic/239127-gary-wilcox-dirty-little-secret/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained-mysteries.com">[unexplained-mysteries.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-snippet">Gary Wilcox Dirty Little SecretDecember 11, 2012 — 11 Dec 2012 — Evidently the soil samples from the landing site had radiation levels ab...</span><span class="citation-popover-meta">Published: December 11, 2012</span></span></span>
+Wilcox reportedly informed local law enforcement of his sighting. Some secondary and retrospective accounts suggest that he may have made statements under supervision, possibly even documented with police or sheriff involvement, and that he told federal agencies such as the FBI. However, **no police blotter entries, sheriff’s office investigation records, FBI files, or Air Force reports from 1964 have been publicly released that detail physical trace investigation or analysis from the Wilcox site**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unexplained-mysteries.com/forum/topic/239127-gary-wilcox-dirty-little-secret/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained-mysteries.com">[unexplained-mysteries.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-snippet">Gary Wilcox Dirty Little SecretDecember 11, 2012 — 11 Dec 2012 — Evidently the soil samples from the landing site had radiation levels ab...</span><span class="citation-popover-meta">Published: December 11, 2012</span></span></span>
 
-In contrast to well‑documented trace cases like the 1964 *Lonnie Zamora* event in Socorro, New Mexico, where ground indentations and scorch marks were examined and photographed by independent investigators, **there is no archived physical evidence linked to Wilcox that meets comparable standards of contemporaneous documentation**. This absence is a consistent theme in critical discussion of the case among sceptics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/qdgpxx/1964_ufo_landing_occupant_case_gary_wilcox_i_was/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">1964 UFO Landing / Occupant Case (Gary Wilcox) I was...October 22, 2021 — I am taking it there was no physical traces left behind?...</span><span class="citation-popover-meta">Published: October 22, 2021</span></span></span>
+In contrast to well‑documented trace cases like the 1964 *Lonnie Zamora* event in Socorro, New Mexico, where ground indentations and scorch marks were examined and photographed by independent investigators, **there is no archived physical evidence linked to Wilcox that meets comparable standards of contemporaneous documentation**. This absence is a consistent theme in critical discussion of the case among sceptics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/qdgpxx/1964_ufo_landing_occupant_case_gary_wilcox_i_was/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">1964 UFO Landing / Occupant Case (Gary Wilcox) I was...October 22, 2021 — I am taking it there was no physical traces left behind?...</span><span class="citation-popover-meta">Published: October 22, 2021</span></span></span>
 
 ## UFO Investigator Follow‑Ups and Community Documentation
 
-UFO research organisations active in the 1960s, such as the National Investigations Committee on Aerial Phenomena (NICAP), routinely catalogued sightings and occupant reports, and Wilcox appears in historical occupant lists compiled by NICAP; he is listed alongside brief synopses in tabulations of cases from the era, but **NICAP’s own published reports do not present independently verified physical evidence from the Wilcox site**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/occupants_hall.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Alien Encounters, UFO Occupants, Humanoid Report</span><span class="citation-popover-snippet">Alien Encounters, UFO Occupants, Humanoid Report...</span></span></span>
+UFO research organisations active in the 1960s, such as the National Investigations Committee on Aerial Phenomena (NICAP), routinely catalogued sightings and occupant reports, and Wilcox appears in historical occupant lists compiled by NICAP; he is listed alongside brief synopses in tabulations of cases from the era, but **NICAP’s own published reports do not present independently verified physical evidence from the Wilcox site**.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/occupants_hall.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Alien Encounters, UFO Occupants, Humanoid Report</span><span class="citation-popover-snippet">Alien Encounters, UFO Occupants, Humanoid Report...</span></span></span>
 
-Unlike some classical trace cases such as *Trans‑en‑Provence* (France, 1981), which included systematic soil and plant analysis by gendarmerie and national scientific bodies, the Wilcox narrative remains anecdotal and **devoid of publicly accessible data such as soil sample reports, radiation measurements, or photographic records from the landing area**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Trans-en-Provence_case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Trans-en-Provence case</span><span class="citation-popover-snippet">Trans-en-Provence case</span></span></span>
+Unlike some classical trace cases such as *Trans‑en‑Provence* (France, 1981), which included systematic soil and plant analysis by gendarmerie and national scientific bodies, the Wilcox narrative remains anecdotal and **devoid of publicly accessible data such as soil sample reports, radiation measurements, or photographic records from the landing area**.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Trans-en-Provence_case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Trans-en-Provence case</span><span class="citation-popover-snippet">Trans-en-Provence case</span></span></span>
 
 <img src="{{ "/assets/images/Gary_Wilcox_encounte_6de9ff_wilcox_physical_evid_014577-Illustration-2-dark.svg" | relative_url }}" alt="Physical Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/Gary_Wilcox_encounte_6de9ff_wilcox_physical_evid_014577-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gary_Wilcox_encounte_6de9ff_wilcox_physical_evid_014577-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Press Coverage and Its Limitations
 
-Local press coverage of the Wilcox encounter in May 1964 did bring the story into the public domain, but newspapers of the time did not generally document physical evidence beyond quoting Wilcox’s statements. Any mention of ground marks, soil anomalies, or follow‑up investigation in newspapers is absent from extant digital archives, suggesting that **either no definitive physical evidence was observable by the time reporters visited, or that such evidence was not assessed in a way that produced verifiable records**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/qdgpxx/1964_ufo_landing_occupant_case_gary_wilcox_i_was/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">1964 UFO Landing / Occupant Case (Gary Wilcox) I was...October 22, 2021 — I am taking it there was no physical traces left behind?...</span><span class="citation-popover-meta">Published: October 22, 2021</span></span></span>
+Local press coverage of the Wilcox encounter in May 1964 did bring the story into the public domain, but newspapers of the time did not generally document physical evidence beyond quoting Wilcox’s statements. Any mention of ground marks, soil anomalies, or follow‑up investigation in newspapers is absent from extant digital archives, suggesting that **either no definitive physical evidence was observable by the time reporters visited, or that such evidence was not assessed in a way that produced verifiable records**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/qdgpxx/1964_ufo_landing_occupant_case_gary_wilcox_i_was/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">1964 UFO Landing / Occupant Case (Gary Wilcox) I was...October 22, 2021 — I am taking it there was no physical traces left behind?...</span><span class="citation-popover-meta">Published: October 22, 2021</span></span></span>
 
 This limitation has shaped the case’s legacy: without published investigative follow‑through on trace claims, the Wilcox encounter remains characterised primarily by its **testimonial narrative rather than by confirmable physical traces**.
 
@@ -284,211 +284,211 @@ This limitation has shaped the case’s legacy: without published investigative 
 
 ## Sceptical and Research‑Community Assessments
 
-Sceptical reviewers consistently highlight the **lack of trace evidence** as a major weakness in the case. In online discussions and retrospective analyses, commentators note that while the story superficially echoes other 1960s “landing” reports, the absence of physical documentation — soil samples, measurable traces, or third‑party inspection — undermines the case’s evidential weight relative to better‑documented incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/qdgpxx/1964_ufo_landing_occupant_case_gary_wilcox_i_was/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">1964 UFO Landing / Occupant Case (Gary Wilcox) I was...October 22, 2021 — I am taking it there was no physical traces left behind?...</span><span class="citation-popover-meta">Published: October 22, 2021</span></span></span>
+Sceptical reviewers consistently highlight the **lack of trace evidence** as a major weakness in the case. In online discussions and retrospective analyses, commentators note that while the story superficially echoes other 1960s “landing” reports, the absence of physical documentation — soil samples, measurable traces, or third‑party inspection — undermines the case’s evidential weight relative to better‑documented incidents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/qdgpxx/1964_ufo_landing_occupant_case_gary_wilcox_i_was/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">1964 UFO Landing / Occupant Case (Gary Wilcox) I was...October 22, 2021 — I am taking it there was no physical traces left behind?...</span><span class="citation-popover-meta">Published: October 22, 2021</span></span></span>
 
-Research into broader UFO phenomena emphasises that trace evidence is rare and that, when properly documented, it demands rigorous contemporaneous recording and analysis — criteria the Wilcox encounter does not satisfy in available public records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified flying object</span><span class="citation-popover-snippet">Unidentified flying object</span></span></span>
+Research into broader UFO phenomena emphasises that trace evidence is rare and that, when properly documented, it demands rigorous contemporaneous recording and analysis — criteria the Wilcox encounter does not satisfy in available public records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified flying object</span><span class="citation-popover-snippet">Unidentified flying object</span></span></span>
 
 <img src="{{ "/assets/images/Gary_Wilcox_encounte_6de9ff_wilcox_physical_evid_014577-Illustration-3-dark.svg" | relative_url }}" alt="Physical Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/Gary_Wilcox_encounte_6de9ff_wilcox_physical_evid_014577-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gary_Wilcox_encounte_6de9ff_wilcox_physical_evid_014577-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Summary of Physical Evidence Claims vs. Documentation
 
-* **Narrative elements**: Wilcox alleged soil‑oriented interaction and disappearance of fertiliser left at the site. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/aliens/encounters/gary-wilcox-occupant-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">UFO Insight The Gary Wilcox Occupant Encounter – The Fertilizer Case</span><span class="citation-popover-snippet">UFO InsightThe Gary Wilcox Occupant Encounter – The Fertilizer Case - UFO InsightDecember 27, 2018...</span><span class="citation-popover-meta">Published: December 27, 2018</span></span></span>
-* **Contemporaneous evidence**: No published soil sample analyses, radiation readings, or photographic evidence from 1964 exist in public archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unexplained-mysteries.com/forum/topic/239127-gary-wilcox-dirty-little-secret/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained-mysteries.com">[unexplained-mysteries.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-snippet">Gary Wilcox Dirty Little SecretDecember 11, 2012 — 11 Dec 2012 — Evidently the soil samples from the landing site had radiation levels ab...</span><span class="citation-popover-meta">Published: December 11, 2012</span></span></span>
-* **Law enforcement records**: No accessible records confirm thorough trace investigation by police, sheriff’s office, the FBI, or the Air Force. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unexplained-mysteries.com/forum/topic/239127-gary-wilcox-dirty-little-secret/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained-mysteries.com">[unexplained-mysteries.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-snippet">Gary Wilcox Dirty Little SecretDecember 11, 2012 — 11 Dec 2012 — Evidently the soil samples from the landing site had radiation levels ab...</span><span class="citation-popover-meta">Published: December 11, 2012</span></span></span>
-* **UFO research documentation**: NICAP and other period investigator listings include the case but without substantiated physical evidence logs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1964fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">The 1964 UFO ChronologyJune 9, 2006 — `presents` The 1964 UFO Chronology Image Socorro, New Mexico landing, April 24, 1964 Map of sightin...</span><span class="citation-popover-meta">Published: June 9, 2006</span></span></span>
+* **Narrative elements**: Wilcox alleged soil‑oriented interaction and disappearance of fertiliser left at the site.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/aliens/encounters/gary-wilcox-occupant-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">UFO Insight The Gary Wilcox Occupant Encounter – The Fertilizer Case</span><span class="citation-popover-snippet">UFO InsightThe Gary Wilcox Occupant Encounter – The Fertilizer Case - UFO InsightDecember 27, 2018...</span><span class="citation-popover-meta">Published: December 27, 2018</span></span></span>
+* **Contemporaneous evidence**: No published soil sample analyses, radiation readings, or photographic evidence from 1964 exist in public archives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unexplained-mysteries.com/forum/topic/239127-gary-wilcox-dirty-little-secret/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained-mysteries.com">[unexplained-mysteries.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-snippet">Gary Wilcox Dirty Little SecretDecember 11, 2012 — 11 Dec 2012 — Evidently the soil samples from the landing site had radiation levels ab...</span><span class="citation-popover-meta">Published: December 11, 2012</span></span></span>
+* **Law enforcement records**: No accessible records confirm thorough trace investigation by police, sheriff’s office, the FBI, or the Air Force.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unexplained-mysteries.com/forum/topic/239127-gary-wilcox-dirty-little-secret/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained-mysteries.com">[unexplained-mysteries.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-snippet">Gary Wilcox Dirty Little SecretDecember 11, 2012 — 11 Dec 2012 — Evidently the soil samples from the landing site had radiation levels ab...</span><span class="citation-popover-meta">Published: December 11, 2012</span></span></span>
+* **UFO research documentation**: NICAP and other period investigator listings include the case but without substantiated physical evidence logs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1964fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">The 1964 UFO ChronologyJune 9, 2006 — `presents` The 1964 UFO Chronology Image Socorro, New Mexico landing, April 24, 1964 Map of sightin...</span><span class="citation-popover-meta">Published: June 9, 2006</span></span></span>
 
-In short, the post‑event investigation of the Wilcox encounter in 1964 **lacked the physical trace documentation and third‑party analysis that would elevate it from anecdote to trace‑evidence case**, leaving it instead an intriguing but unverified narrative within the broader UFO record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/qdgpxx/1964_ufo_landing_occupant_case_gary_wilcox_i_was/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">1964 UFO Landing / Occupant Case (Gary Wilcox) I was...October 22, 2021 — I am taking it there was no physical traces left behind?...</span><span class="citation-popover-meta">Published: October 22, 2021</span></span></span>
+In short, the post‑event investigation of the Wilcox encounter in 1964 **lacked the physical trace documentation and third‑party analysis that would elevate it from anecdote to trace‑evidence case**, leaving it instead an intriguing but unverified narrative within the broader UFO record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/qdgpxx/1964_ufo_landing_occupant_case_gary_wilcox_i_was/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">1964 UFO Landing / Occupant Case (Gary Wilcox) I was...October 22, 2021 — I am taking it there was no physical traces left behind?...</span><span class="citation-popover-meta">Published: October 22, 2021</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HBQUPosEgC0" title="Gary Wilcox UFO Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HBQUPosEgC0" target="_blank" rel="noopener noreferrer">Gary Wilcox UFO Explained</a></p><p class="youtube-embed-meta">Channel: Lynne Whelden &middot; Views: 4.2K &middot; Uploaded: February 2021 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HBQUPosEgC0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HBQUPosEgC0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Investigating Physical Traces from the Wilcox UFO Case. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Investigating Physical Traces from the Wilcox UFO Case. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
-        </h4>
-        <p class="fr-book-author">By John E. Mack, Mack</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+</h4>
+<p class="fr-book-author">By John E. Mack, Mack</p>
         
-        <p class="fr-book-desc">Contextualizes why abduction cases often feature &#x27;soil-collecting&#x27; themes as narrative tools, contrasting them with the forensic reality...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contextualizes why abduction cases often feature &#x27;soil-collecting&#x27; themes as narrative tools, contrasting them with the forensic reality...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides an objective summary of the Wilcox case, specifically addressing the lack of contemporary field documentation for his soil-trace...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides an objective summary of the Wilcox case, specifically addressing the lack of contemporary field documentation for his soil-trace...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches methodology for evaluating cases involving alleged physical residue, soil changes, and biological samples that lack established c...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches methodology for evaluating cases involving alleged physical residue, soil changes, and biological samples that lack established c...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Explains why anecdotal reports of missing items like fertilizer bags cannot be forensic substitutes for authenticated landing-site data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why anecdotal reports of missing items like fertilizer bags cannot be forensic substitutes for authenticated landing-site data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigating-physical-traces-from-the-wilcox-ufo-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -504,7 +504,7 @@ In short, the post‑event investigation of the Wilcox encounter in 1964 **lacke
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -524,7 +524,7 @@ In short, the post‑event investigation of the Wilcox encounter in 1964 **lacke
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -556,7 +556,7 @@ In short, the post‑event investigation of the Wilcox encounter in 1964 **lacke
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -608,7 +608,7 @@ In short, the post‑event investigation of the Wilcox encounter in 1964 **lacke
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -653,7 +653,7 @@ In short, the post‑event investigation of the Wilcox encounter in 1964 **lacke
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -694,150 +694,150 @@ In short, the post‑event investigation of the Wilcox encounter in 1964 **lacke
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: scribd.com  
    Title: Schwarz Landing 1964 Gary Wilcox New York State FSR SI 1969 N 3 UFO Percipients  
-   Link: <a href="https://www.scribd.com/document/776367902/Schwarz-Landing-1964-Gary-Wilcox-New-York-State-FSR-SI-1969-N-3-UFO-Percipients" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/776367902/Schwarz-Landing-1964-Gary-Wilcox-New-York-State-FSR-SI-1969-N-3-UFO-Percipients</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>He stated that the sod had grass or vegetation on top. In event that samples had been removed from his...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/776367902/Schwarz-Landing-1964-Gary-Wilcox-New-York-State-FSR-SI-1969-N-3-UFO-Percipients" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/776367902/Schwarz-Landing-1964-Gary-Wilcox-New-York-State-FSR-SI-1969-N-3-UFO-Percipients</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He stated that the sod had grass or vegetation on top. In event that samples had been removed from his...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: unexplained-mysteries.com  
-   Link: <a href="https://www.unexplained-mysteries.com/forum/topic/239127-gary-wilcox-dirty-little-secret/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/239127-gary-wilcox-dirty-little-secret/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary Wilcox Dirty Little SecretDecember 11, 2012 — 11 Dec 2012 — Evidently the soil samples from the landing site had radiation levels ab...</p></details>
+   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/239127-gary-wilcox-dirty-little-secret/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/239127-gary-wilcox-dirty-little-secret/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary Wilcox Dirty Little SecretDecember 11, 2012 — 11 Dec 2012 — Evidently the soil samples from the landing site had radiation levels ab...</p></details>
    Published: December 11, 2012  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/qdgpxx/1964_ufo_landing_occupant_case_gary_wilcox_i_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/qdgpxx/1964_ufo_landing_occupant_case_gary_wilcox_i_was/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1964 UFO Landing / Occupant Case (Gary Wilcox) I was...October 22, 2021 — I am taking it there was no physical traces left behind?...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/qdgpxx/1964_ufo_landing_occupant_case_gary_wilcox_i_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/qdgpxx/1964_ufo_landing_occupant_case_gary_wilcox_i_was/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1964 UFO Landing / Occupant Case (Gary Wilcox) I was...October 22, 2021 — I am taking it there was no physical traces left behind?...</p></details>
    Published: October 22, 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nicap.org  
    Title: Alien Encounters, UFO Occupants, Humanoid Report  
-   Link: <a href="https://www.nicap.org/occupants_hall.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/occupants_hall.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Encounters, UFO Occupants, Humanoid Report...</p></details>
+   Link:<a href="https://www.nicap.org/occupants_hall.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/occupants_hall.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Encounters, UFO Occupants, Humanoid Report...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Trans-en-Provence case  
-   Link: <a href="https://en.wikipedia.org/wiki/Trans-en-Provence_case" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Trans-en-Provence_case</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Trans-en-Provence_case" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Trans-en-Provence_case</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/chronos/1964fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1964fullrep.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1964 UFO ChronologyJune 9, 2006 — `presents` The 1964 UFO Chronology Image Socorro, New Mexico landing, April 24, 1964 Map of sightin...</p></details>
+   Link:<a href="https://www.nicap.org/chronos/1964fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1964fullrep.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1964 UFO ChronologyJune 9, 2006 — `presents` The 1964 UFO Chronology Image Socorro, New Mexico landing, April 24, 1964 Map of sightin...</p></details>
    Published: June 9, 2006  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nicap.org  
    Title: The UFO Evidence  
-   Link: <a href="https://www.nicap.org/papers/hallstate.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/papers/hallstate.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Image Richard Hall Over thirty years ago I compiled this documentary report (The UFO Evidence - 1964) for the leading UFO investigation g...</p></details>
+   Link:<a href="https://www.nicap.org/papers/hallstate.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/papers/hallstate.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Image Richard Hall Over thirty years ago I compiled this documentary report (The UFO Evidence - 1964) for the leading UFO investigation g...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nicap.org  
    Title: section 8  
-   Link: <a href="https://www.nicap.org/ufoe/section_8.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufoe/section_8.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>section_8January 1, 1964 — THE UFO EVIDENCE, published by the National Investigations Committee on Aerial Phenomena, Copyright 1964 SECTI...</p></details>
+   Link:<a href="https://www.nicap.org/ufoe/section_8.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufoe/section_8.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>section_8January 1, 1964 — THE UFO EVIDENCE, published by the National Investigations Committee on Aerial Phenomena, Copyright 1964 SECTI...</p></details>
    Published: January 1, 1964  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufoinsight.com  
    Title: UFO Insight The Gary Wilcox Occupant Encounter – The Fertilizer Case  
-   Link: <a href="https://www.ufoinsight.com/aliens/encounters/gary-wilcox-occupant-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/aliens/encounters/gary-wilcox-occupant-encounter</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightThe Gary Wilcox Occupant Encounter – The Fertilizer Case - UFO InsightDecember 27, 2018...</p></details>
+   Link:<a href="https://www.ufoinsight.com/aliens/encounters/gary-wilcox-occupant-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/aliens/encounters/gary-wilcox-occupant-encounter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightThe Gary Wilcox Occupant Encounter – The Fertilizer Case - UFO InsightDecember 27, 2018...</p></details>
    Published: December 27, 2018  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufoinsight.com  
    Title: UF O Encounters And Physical Evidence  
-   Link: <a href="https://www.ufoinsight.com/ufos/cover-ups/ufo-encounters-physical-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/ufo-encounters-physical-evidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Encounters And Physical Evidence - UFO InsightApril 11, 2020 — UFO ENCOUNTERS AND PHYSICAL EVIDENCE By Marcus Lowth Image: Published...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/cover-ups/ufo-encounters-physical-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/ufo-encounters-physical-evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Encounters And Physical Evidence - UFO InsightApril 11, 2020 — UFO ENCOUNTERS AND PHYSICAL EVIDENCE By Marcus Lowth Image: Published...</p></details>
    Published: April 11, 2020  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ufoinsight.com  
    Title: 1964 ufo wave  
-   Link: <a href="https://www.ufoinsight.com/ufos/waves/1964-ufo-wave" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/waves/1964-ufo-wave</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1964 UFO Wave - UFO InsightNovember 17, 2019 — A SUDDEN RENEWED “INTEREST” IN UFO SIGHTINGS, APRIL 1964 In fact, we have examined one...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/waves/1964-ufo-wave" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/waves/1964-ufo-wave</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1964 UFO Wave - UFO InsightNovember 17, 2019 — A SUDDEN RENEWED “INTEREST” IN UFO SIGHTINGS, APRIL 1964 In fact, we have examined one...</p></details>
    Published: November 17, 2019  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: stronghold-nation.com  
    Title: Gary Wilcox was a then 27-year old Farmer in Upstate New York (US). He ow  
-   Link: <a href="https://www.stronghold-nation.com/history/myth/the-wilcox-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.stronghold-nation.com/history/myth/the-wilcox-encounter</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Wilcox Encounter | UFO Case Studies | Stronghold NationTHE WILCOX ENCOUNTER * UFO Case Studies * 1 min BY CRUSADER1307 This unusual &quot;...</p></details>
+   Link:<a href="https://www.stronghold-nation.com/history/myth/the-wilcox-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.stronghold-nation.com/history/myth/the-wilcox-encounter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Wilcox Encounter | UFO Case Studies | Stronghold NationTHE WILCOX ENCOUNTER * UFO Case Studies * 1 min BY CRUSADER1307 This unusual &quot;...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cufos.org  
    Title: NICA P Documents  
-   Link: <a href="https://cufos.org/resources/nicap-documents/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/nicap-documents/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAP Documents - Center for UFO StudiesNICAP DOCUMENTS Image: The UFO Evidence, published in 1964 by the National Investigations Committ...</p></details>
+   Link:<a href="https://cufos.org/resources/nicap-documents/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/nicap-documents/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NICAP Documents - Center for UFO StudiesNICAP DOCUMENTS Image: The UFO Evidence, published in 1964 by the National Investigations Committ...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AThe_UFO_Evidence_by_the_National_Investigations_Committee_on_Aerial_Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AThe_UFO_Evidence_by_the_National_Investigations_Committee_on_Aerial_Phenomena.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:The UFO Evidence by the National Investigations Committee on Aerial Phenomena.pdf - Wikimedia CommonsMay 1, 1964 — FILE...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AThe_UFO_Evidence_by_the_National_Investigations_Committee_on_Aerial_Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AThe_UFO_Evidence_by_the_National_Investigations_Committee_on_Aerial_Phenomena.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:The UFO Evidence by the National Investigations Committee on Aerial Phenomena.pdf - Wikimedia CommonsMay 1, 1964 — FILE...</p></details>
    Published: May 1, 1964  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HBQUPosEgC0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HBQUPosEgC0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary Wilcox UFO ExplainedWhen they came to the road to leave, apparently there was a ufo hovering several feet above the ground in the mi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HBQUPosEgC0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HBQUPosEgC0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary Wilcox UFO ExplainedWhen they came to the road to leave, apparently there was a ufo hovering several feet above the ground in the mi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: rr0.org  
    Title: Wilcox (fermier, 27 ans) se trouve dans un des champs de sa ferme de  
-   Link: <a href="https://rr0.org/science/crypto/ufo/enquete/dossier/Wilcox/index.html" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/science/crypto/ufo/enquete/dossier/Wilcox/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>La rencontre de WilcoxMay 10, 2025 — LA RENCONTRE DE WILCOX Le vendredi 24 avril 1964 à 10 h n1 le jour de la rencontre de Socorro à Newa...</p></details>
+   Link:<a href="https://rr0.org/science/crypto/ufo/enquete/dossier/Wilcox/index.html" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/science/crypto/ufo/enquete/dossier/Wilcox/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>La rencontre de WilcoxMay 10, 2025 — LA RENCONTRE DE WILCOX Le vendredi 24 avril 1964 à 10 h n1 le jour de la rencontre de Socorro à Newa...</p></details>
    Published: May 10, 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: studylib.net  
-   Link: <a href="https://studylib.net/doc/8955695/ufo-evidence-1964" target="_blank" rel="noopener noreferrer nofollow">https://studylib.net/doc/8955695/ufo-evidence-1964</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Page i - iii Abstract. Explanation of NICAP and its policies. Statement by Board of Governors. Section...</p></details>
+   Link:<a href="https://studylib.net/doc/8955695/ufo-evidence-1964" target="_blank" rel="noopener noreferrer nofollow">https://studylib.net/doc/8955695/ufo-evidence-1964</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page i - iii Abstract. Explanation of NICAP and its policies. Statement by Board of Governors. Section...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: album-online.com  
    Title: d616 rs aliens seen by gary wilcox newark valley new alb11791811  
-   Link: <a href="https://www.album-online.com/detail/de/NmUwYTBlMA/d616-rs-aliens-seen-by-gary-wilcox-newark-valley-new-alb11791811?iSF=3&amp;sT=RICHARD+FARMER" target="_blank" rel="noopener noreferrer nofollow">https://www.album-online.com/detail/de/NmUwYTBlMA/d616-rs-aliens-seen-by-gary-wilcox-newark-valley-new-alb11791811?iSF=3&amp;sT=RICHARD+FARMER</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wilcox was a farmer working in his fiel - Album alb11791811alb11791811 D616(RS): THE ALIENS SEEN BY GARY WILCOX IN NEWARK VALLEY, NEW YOR...</p></details>
+   Link:<a href="https://www.album-online.com/detail/de/NmUwYTBlMA/d616-rs-aliens-seen-by-gary-wilcox-newark-valley-new-alb11791811?iSF=3&amp;sT=RICHARD+FARMER" target="_blank" rel="noopener noreferrer nofollow">https://www.album-online.com/detail/de/NmUwYTBlMA/d616-rs-aliens-seen-by-gary-wilcox-newark-valley-new-alb11791811?iSF=3&amp;sT=RICHARD+FARMER</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wilcox was a farmer working in his fiel - Album alb11791811alb11791811 D616(RS): THE ALIENS SEEN BY GARY WILCOX IN NEWARK VALLEY, NEW YOR...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: album-online.com  
    Title: d616 rs aliens seen by gary wilcox newark valley new alb11791811  
-   Link: <a href="https://www.album-online.com/detail/en/NmUwYTBlMA/d616-rs-aliens-seen-by-gary-wilcox-newark-valley-new-alb11791811" target="_blank" rel="noopener noreferrer nofollow">https://www.album-online.com/detail/en/NmUwYTBlMA/d616-rs-aliens-seen-by-gary-wilcox-newark-valley-new-alb11791811</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wilcox was a farmer working in his fiel - Album alb11791811alb11791811 D616(RS): THE ALIENS SEEN BY GARY WILCOX IN NEWARK VALLEY, NEW YOR...</p></details>
+   Link:<a href="https://www.album-online.com/detail/en/NmUwYTBlMA/d616-rs-aliens-seen-by-gary-wilcox-newark-valley-new-alb11791811" target="_blank" rel="noopener noreferrer nofollow">https://www.album-online.com/detail/en/NmUwYTBlMA/d616-rs-aliens-seen-by-gary-wilcox-newark-valley-new-alb11791811</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wilcox was a farmer working in his fiel - Album alb11791811alb11791811 D616(RS): THE ALIENS SEEN BY GARY WILCOX IN NEWARK VALLEY, NEW YOR...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Lonnie Zamora Incident: The UFO Case Even Project Blue Book Couldn’t Explain  
-   Link: <a href="https://www.youtube.com/watch?v=eQvSObK4Mfg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eQvSObK4Mfg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary Wilcox 1964 UFO physical evidence investigation Dairy farmer Gary Wilcox on witnessing a landed UFO and communicating with 2 beings...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eQvSObK4Mfg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eQvSObK4Mfg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary Wilcox 1964 UFO physical evidence investigation Dairy farmer Gary Wilcox on witnessing a landed UFO and communicating with 2 beings...</p></details>
    Published: April 24, 1964  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: topfoto.co.uk  
    Title: WILCOX WAS A FARMER WORKING IN HIS FIELDS WHEN HE SAW A SPHER  
-   Link: <a href="https://www.topfoto.co.uk/asset/357883/" target="_blank" rel="noopener noreferrer nofollow">https://www.topfoto.co.uk/asset/357883/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1283673 - Topfoto Image ArchiveImage D616(RS): THE ALIENS SEEN BY GARY WILCOX IN NEWARK VALLEY, NEW YORK, ON 24 APRIL 1964, SEEMED TO BE...</p></details>
+   Link:<a href="https://www.topfoto.co.uk/asset/357883/" target="_blank" rel="noopener noreferrer nofollow">https://www.topfoto.co.uk/asset/357883/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1283673 - Topfoto Image ArchiveImage D616(RS): THE ALIENS SEEN BY GARY WILCOX IN NEWARK VALLEY, NEW YORK, ON 24 APRIL 1964, SEEMED TO BE...</p></details>
    Published: APRIL 1964  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pod.wave.co  
    Title: the gary wilcox ufo encounter w michael strayer cd241a51  
-   Link: <a href="https://pod.wave.co/podcast/bigfoot-collectors-club/the-gary-wilcox-ufo-encounter-w-michael-strayer-cd241a51" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/bigfoot-collectors-club/the-gary-wilcox-ufo-encounter-w-michael-strayer-cd241a51</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>alien beings that landed on his farm to collect soil samples. Although the farmer was the sole witness to this incredible event. Event. H...</p></details>
+   Link:<a href="https://pod.wave.co/podcast/bigfoot-collectors-club/the-gary-wilcox-ufo-encounter-w-michael-strayer-cd241a51" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/bigfoot-collectors-club/the-gary-wilcox-ufo-encounter-w-michael-strayer-cd241a51</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>alien beings that landed on his farm to collect soil samples. Although the farmer was the sole witness to this incredible event. Event. H...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/158335320910267/posts/5394495093960904/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/158335320910267/posts/5394495093960904/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nyone else heard about this incident: In Jim Marrs&#x27; book Alien Agenda:...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/158335320910267/posts/5394495093960904/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/158335320910267/posts/5394495093960904/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nyone else heard about this incident: In Jim Marrs&#x27; book Alien Agenda:...Read more...</p></details>

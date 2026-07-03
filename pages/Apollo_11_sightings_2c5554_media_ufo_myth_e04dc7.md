@@ -242,7 +242,7 @@ image: /assets/images/Apollo_11_sightings_2c5554_media_ufo_myth_e04dc7-Illustrat
 
 ## Introduction
 
-The Apollo 11 “UFO” story became famous less because of what the astronauts originally said and more because of how later media retellings simplified, edited and reframed their uncertainty. In the actual 1969 crew debriefing, Neil Armstrong, Buzz Aldrin and Michael Collins discussed an unidentified object cautiously and in technical language. They considered ordinary explanations, debated whether it could be mission hardware, and repeatedly admitted they could not determine its size or distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">nasa uap d4 apollo 11 technical crew debriefing 1969</span><span class="citation-popover-snippet">Department of WarNASA-UAP-D4, Apollo 11 Technical Crew Debriefing, 1969Mar 11, 1977 — We looked at it through the monocular and it seemed...</span></span></span>
+The Apollo 11 “UFO” story became famous less because of what the astronauts originally said and more because of how later media retellings simplified, edited and reframed their uncertainty. In the actual 1969 crew debriefing, Neil Armstrong, Buzz Aldrin and Michael Collins discussed an unidentified object cautiously and in technical language. They considered ordinary explanations, debated whether it could be mission hardware, and repeatedly admitted they could not determine its size or distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">nasa uap d4 apollo 11 technical crew debriefing 1969</span><span class="citation-popover-snippet">Department of WarNASA-UAP-D4, Apollo 11 Technical Crew Debriefing, 1969Mar 11, 1977 — We looked at it through the monocular and it seemed...</span></span></span>
 
 <img src="{{ "/assets/images/Apollo_11_sightings_2c5554_media_ufo_myth_e04dc7-Illustration-1-dark.svg" | relative_url }}" alt="Media Myth illustration 1" data-theme-src-dark="{{ "/assets/images/Apollo_11_sightings_2c5554_media_ufo_myth_e04dc7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Apollo_11_sightings_2c5554_media_ufo_myth_e04dc7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Over time, however, documentaries, television specials, tabloid articles and social-media clips increasingly detached the most dramatic phrases from that context. The word “UFO” itself shifted public interpretation. In aerospace language, it meant only an unidentified object. In popular culture, especially after decades of alien-themed entertainment, it came to imply extraterrestrial visitors. That semantic shift transformed a careful discussion of ambiguous visual observations into one of the most persistent “Apollo astronauts saw aliens” legends.
@@ -251,7 +251,7 @@ Over time, however, documentaries, television specials, tabloid articles and soc
 
 The Apollo 11 case illustrates how one term can carry two very different meanings at the same time.
 
-In the astronauts’ debriefing, the object was literally unidentified. Aldrin described “one brighter object” with “a bit of an L shape”, while Armstrong compared it to “an open suitcase”. The crew discussed whether it might be connected to the Saturn V S-IVB stage or other discarded spacecraft material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">nasa uap d4 apollo 11 technical crew debriefing 1969</span><span class="citation-popover-snippet">Department of WarNASA-UAP-D4, Apollo 11 Technical Crew Debriefing, 1969Mar 11, 1977 — We looked at it through the monocular and it seemed...</span></span></span>
+In the astronauts’ debriefing, the object was literally unidentified. Aldrin described “one brighter object” with “a bit of an L shape”, while Armstrong compared it to “an open suitcase”. The crew discussed whether it might be connected to the Saturn V S-IVB stage or other discarded spacecraft material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">nasa uap d4 apollo 11 technical crew debriefing 1969</span><span class="citation-popover-snippet">Department of WarNASA-UAP-D4, Apollo 11 Technical Crew Debriefing, 1969Mar 11, 1977 — We looked at it through the monocular and it seemed...</span></span></span>
 
 None of that language implied alien life. The astronauts were operating inside a normal engineering framework:
 
@@ -264,7 +264,7 @@ None of that language implied alien life. The astronauts were operating inside a
 
 </div>
 
-Armstrong’s caution was especially important. He explained that they could not estimate the object’s size without knowing its distance, and could not know its distance without knowing its size. In other words, the visual information was fundamentally ambiguous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">nasa uap d4 apollo 11 technical crew debriefing 1969</span><span class="citation-popover-snippet">Department of WarNASA-UAP-D4, Apollo 11 Technical Crew Debriefing, 1969Mar 11, 1977 — We looked at it through the monocular and it seemed...</span></span></span>
+Armstrong’s caution was especially important. He explained that they could not estimate the object’s size without knowing its distance, and could not know its distance without knowing its size. In other words, the visual information was fundamentally ambiguous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">nasa uap d4 apollo 11 technical crew debriefing 1969</span><span class="citation-popover-snippet">Department of WarNASA-UAP-D4, Apollo 11 Technical Crew Debriefing, 1969Mar 11, 1977 — We looked at it through the monocular and it seemed...</span></span></span>
 
 Later retellings often kept the phrase “unidentified object” but removed the surrounding uncertainty. Once popular culture began treating “UFO” as shorthand for “alien spacecraft”, the public meaning changed even if the underlying transcript had not.
 
@@ -297,9 +297,9 @@ Yet later summaries often extracted only the most evocative lines:
 
 </div>
 
-Without the surrounding discussion, those phrases sound far more mysterious than they did in the technical conversation itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">nasa uap d4 apollo 11 technical crew debriefing 1969</span><span class="citation-popover-snippet">Department of WarNASA-UAP-D4, Apollo 11 Technical Crew Debriefing, 1969Mar 11, 1977 — We looked at it through the monocular and it seemed...</span></span></span>
+Without the surrounding discussion, those phrases sound far more mysterious than they did in the technical conversation itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">nasa uap d4 apollo 11 technical crew debriefing 1969</span><span class="citation-popover-snippet">Department of WarNASA-UAP-D4, Apollo 11 Technical Crew Debriefing, 1969Mar 11, 1977 — We looked at it through the monocular and it seemed...</span></span></span>
 
-A recurring pattern in UFO-oriented documentaries was to present the astronauts’ uncertainty as hidden knowledge rather than unresolved observation. Programmes would sometimes narrate the story as though NASA quietly admitted an encounter while simultaneously covering it up. In reality, the debriefing transcript itself was preserved and publicly accessible through archival collections long before modern social-media rediscovery campaigns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalsc.lib.vt.edu/items/show/5345" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalsc.lib.vt.edu">[digitalsc.lib.vt.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalsc.lib.vt.edu</span><span class="citation-popover-snippet">ling their accounts to each part of the mission...</span></span></span>
+A recurring pattern in UFO-oriented documentaries was to present the astronauts’ uncertainty as hidden knowledge rather than unresolved observation. Programmes would sometimes narrate the story as though NASA quietly admitted an encounter while simultaneously covering it up. In reality, the debriefing transcript itself was preserved and publicly accessible through archival collections long before modern social-media rediscovery campaigns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalsc.lib.vt.edu/items/show/5345" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalsc.lib.vt.edu">[digitalsc.lib.vt.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalsc.lib.vt.edu</span><span class="citation-popover-snippet">ling their accounts to each part of the mission...</span></span></span>
 
 This distinction matters because the mythology often depends on the suggestion of secrecy. The more openly available the records are, the harder it becomes to support claims of a suppressed alien encounter.
 
@@ -337,7 +337,7 @@ Claims expanded in ways not supported by the original material:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * the object was “following” Apollo 11,
-* NASA “confirmed” alien craft, <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1t784da/apollo_11_debrief/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Apollo 11 debrief: r/UFOs Discussing the NASA Apollo 11</span><span class="citation-popover-snippet">Apollo 11 debrief: r/UFOsDiscussing the NASA Apollo 11 - 12 and 17 UFO/AUP disclosures while walking on an alien moon in VR! r/universe...</span></span></span>
+* NASA “confirmed” alien craft,<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1t784da/apollo_11_debrief/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Apollo 11 debrief: r/UFOs Discussing the NASA Apollo 11</span><span class="citation-popover-snippet">Apollo 11 debrief: r/UFOsDiscussing the NASA Apollo 11 - 12 and 17 UFO/AUP disclosures while walking on an alien moon in VR! r/universe...</span></span></span>
 * Armstrong allegedly described structures on the Moon,
 * radio transmissions were supposedly censored.
 
@@ -347,9 +347,9 @@ Many of these stories blended unrelated Apollo rumours together. Some originated
 
 ### Social-media compression
 
-Modern social platforms intensified the process further. Viral posts frequently present screenshots of debriefing excerpts without surrounding pages or technical explanation. Recent “UFO files” publicity cycles revived the Apollo 11 story again by presenting decades-old material as newly revealing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/space-exploration/search-for-life/not-a-big-reveal-apollo-ufo-images-have-been-public-for-decades" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">These Apollo &#x27;UFO&#x27; images have been public for decades</span><span class="citation-popover-snippet">So why are people talking about them now?In May 2026, the Pentagon released a major batch of declassified UFO files, sparking renewed att...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Modern social platforms intensified the process further. Viral posts frequently present screenshots of debriefing excerpts without surrounding pages or technical explanation. Recent “UFO files” publicity cycles revived the Apollo 11 story again by presenting decades-old material as newly revealing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/space-exploration/search-for-life/not-a-big-reveal-apollo-ufo-images-have-been-public-for-decades" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">These Apollo &#x27;UFO&#x27; images have been public for decades</span><span class="citation-popover-snippet">So why are people talking about them now?In May 2026, the Pentagon released a major batch of declassified UFO files, sparking renewed att...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-Headlines emphasised phrases like “Buzz Aldrin saw a sizeable object” while downplaying the astronauts’ competing explanations and uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/05/08/us-news/buzz-aldrin-described-unusual-phenomena-during-apollo-11-mission-ufo-docs-reveal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Aldrin, the second man to walk on the moon, reported three specific anomalies: an object observed near the spacecraft, initially suspecte...</span></span></span> Fortune The result is a familiar modern pattern: <span class="citation-chip-wrap"><a class="citation-chip" href="https://fortune.com/2026/05/09/ufo-files-pentagon-buzz-aldrin-moon-apollo-11-crew-laser/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fortune.com">[fortune.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fortune.com</span><span class="citation-popover-title">UFO files show Buzz Aldrin saw a &#x27;bright light source&#x27; that</span><span class="citation-popover-snippet">9 May 2026 — UFO files show Buzz Aldrin saw a &#x27;sizeable&#x27; object close to the moon and a &#x27;fairly bright light source&#x27; that the Apollo 11 c...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Headlines emphasised phrases like “Buzz Aldrin saw a sizeable object” while downplaying the astronauts’ competing explanations and uncertainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/05/08/us-news/buzz-aldrin-described-unusual-phenomena-during-apollo-11-mission-ufo-docs-reveal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Aldrin, the second man to walk on the moon, reported three specific anomalies: an object observed near the spacecraft, initially suspecte...</span></span></span> Fortune The result is a familiar modern pattern:<span class="citation-chip-wrap"><a class="citation-chip" href="https://fortune.com/2026/05/09/ufo-files-pentagon-buzz-aldrin-moon-apollo-11-crew-laser/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fortune.com">[fortune.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fortune.com</span><span class="citation-popover-title">UFO files show Buzz Aldrin saw a &#x27;bright light source&#x27; that</span><span class="citation-popover-snippet">9 May 2026 — UFO files show Buzz Aldrin saw a &#x27;sizeable&#x27; object close to the moon and a &#x27;fairly bright light source&#x27; that the Apollo 11 c...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cqiQ9RAaNWs" title="Apollo 17 ALIEN ENCOUNTER? Shocking UFO files reveal ‘Fourth of July’ lights near the Moon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cqiQ9RAaNWs" target="_blank" rel="noopener noreferrer">Apollo 17 ALIEN ENCOUNTER? Shocking UFO files reveal ‘Fourth of July’ lights near the Moon</a></p><p class="youtube-embed-meta">Channel: The Economic Times &middot; Views: 188.1K &middot; Uploaded: May 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cqiQ9RAaNWs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cqiQ9RAaNWs">Open on YouTube</a></p></div></div></div>
 
@@ -385,7 +385,7 @@ The actual Apollo 11 transcript reflects that tension. The astronauts were relia
 
 A careful reading of the Apollo 11 material supports a much narrower conclusion than later alien narratives.
 
-The records show that: <span class="citation-chip-wrap"><a class="citation-chip" href="https://fortune.com/2026/05/09/ufo-files-pentagon-buzz-aldrin-moon-apollo-11-crew-laser/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fortune.com">[fortune.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fortune.com</span><span class="citation-popover-title">UFO files show Buzz Aldrin saw a &#x27;bright light source&#x27; that</span><span class="citation-popover-snippet">9 May 2026 — UFO files show Buzz Aldrin saw a &#x27;sizeable&#x27; object close to the moon and a &#x27;fairly bright light source&#x27; that the Apollo 11 c...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+The records show that:<span class="citation-chip-wrap"><a class="citation-chip" href="https://fortune.com/2026/05/09/ufo-files-pentagon-buzz-aldrin-moon-apollo-11-crew-laser/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fortune.com">[fortune.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fortune.com</span><span class="citation-popover-title">UFO files show Buzz Aldrin saw a &#x27;bright light source&#x27; that</span><span class="citation-popover-snippet">9 May 2026 — UFO files show Buzz Aldrin saw a &#x27;sizeable&#x27; object close to the moon and a &#x27;fairly bright light source&#x27; that the Apollo 11 c...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 * the crew observed something they could not immediately identify,
 * they discussed possible spacecraft-related explanations,
@@ -393,7 +393,7 @@ The records show that: <span class="citation-chip-wrap"><a class="citation-chip"
 * the object did not produce clearly extraordinary behaviour,
 * the astronauts never concluded it was extraterrestrial.
 
-The same pattern applies to other Apollo-era “mysteries” later amplified in UFO culture. Flashes of light seen by astronauts, for example, were eventually linked to cosmic-ray interactions affecting human vision in space rather than alien activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/space-exploration/search-for-life/not-a-big-reveal-apollo-ufo-images-have-been-public-for-decades" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">These Apollo &#x27;UFO&#x27; images have been public for decades</span><span class="citation-popover-snippet">So why are people talking about them now?In May 2026, the Pentagon released a major batch of declassified UFO files, sparking renewed att...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+The same pattern applies to other Apollo-era “mysteries” later amplified in UFO culture. Flashes of light seen by astronauts, for example, were eventually linked to cosmic-ray interactions affecting human vision in space rather than alien activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/space-exploration/search-for-life/not-a-big-reveal-apollo-ufo-images-have-been-public-for-decades" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">These Apollo &#x27;UFO&#x27; images have been public for decades</span><span class="citation-popover-snippet">So why are people talking about them now?In May 2026, the Pentagon released a major batch of declassified UFO files, sparking renewed att...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 That does not make the Apollo 11 sighting meaningless. It remains historically interesting precisely because it shows how trained observers handled uncertainty in deep space. But the evidentiary gap between “unidentified” and “alien spacecraft” was largely filled later by storytelling, editing choices and cultural expectation rather than by new physical evidence.
 
@@ -414,194 +414,194 @@ Media retellings thrive in that space between uncertainty and certainty. A cauti
 The irony is that the astronauts’ original discussion was scientifically disciplined precisely because it resisted sensational conclusions. The later alien narrative emerged not from the debriefing itself, but from decades of selective emphasis layered on top of it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Apollo 11 Became a UFO Legend. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Apollo 11 Became a UFO Legend. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Carrying+the+Fire+by+Michael+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Carrying the Fire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oLXIuwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Carrying the Fire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Carrying+the+Fire+by+Michael+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Carrying the Fire">Carrying the Fire</a>
-        </h4>
-        <p class="fr-book-author">By Michael Collins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Carrying+the+Fire+by+Michael+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Carrying the Fire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oLXIuwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Carrying the Fire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Carrying+the+Fire+by+Michael+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Carrying the Fire">Carrying the Fire</a>
+</h4>
+<p class="fr-book-author">By Michael Collins</p>
         
-        <p class="fr-book-desc">Collins explicitly laments the sensationalist tabloid rumors and &#x27;alien visitor&#x27; fabrications that plagued the crew post-flight.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Carrying+the+Fire+by+Michael+Collins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Collins explicitly laments the sensationalist tabloid rumors and &#x27;alien visitor&#x27; fabrications that plagued the crew post-flight.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Carrying+the+Fire+by+Michael+Collins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Secrets+of+a+Fire+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secrets of a Fire King on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10547998-M.jpg" alt="Cover for The Secrets of a Fire King" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Secrets+of+a+Fire+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secrets of a Fire King">The Secrets of a Fire King</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Secrets+of+a+Fire+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secrets of a Fire King on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10547998-M.jpg" alt="Cover for The Secrets of a Fire King" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Secrets+of+a+Fire+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secrets of a Fire King">The Secrets of a Fire King</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides the complete, unedited baseline text of what the astronauts actually said, highlighting the semantic drift in media retellings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Secrets+of+a+Fire+King&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the complete, unedited baseline text of what the astronauts actually said, highlighting the semantic drift in media retellings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Secrets+of+a+Fire+King&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Man+on+the+Moon+by+Andrew+Chaikin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Man on the Moon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PNw6AQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Man on the Moon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Man+on+the+Moon+by+Andrew+Chaikin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Man on the Moon">A Man on the Moon</a>
-        </h4>
-        <p class="fr-book-author">By Andrew Chaikin, Time-Life Books</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Man+on+the+Moon+by+Andrew+Chaikin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Man on the Moon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PNw6AQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Man on the Moon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Man+on+the+Moon+by+Andrew+Chaikin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Man on the Moon">A Man on the Moon</a>
+</h4>
+<p class="fr-book-author">By Andrew Chaikin, Time-Life Books</p>
         
-        <p class="fr-book-desc">Provides the complete, unedited baseline text of what the astronauts actually said, highlighting the semantic drift in media retellings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Man+on+the+Moon+by+Andrew+Chaikin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the complete, unedited baseline text of what the astronauts actually said, highlighting the semantic drift in media retellings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Man+on+the+Moon+by+Andrew+Chaikin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Marketing+the+Moon+by+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Marketing the Moon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GOH3AgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Marketing the Moon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Marketing+the+Moon+by+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Marketing the Moon">Marketing the Moon</a>
-        </h4>
-        <p class="fr-book-author">By David Meerman Scott, Richard Jurek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Marketing+the+Moon+by+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Marketing the Moon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GOH3AgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Marketing the Moon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Marketing+the+Moon+by+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Marketing the Moon">Marketing the Moon</a>
+</h4>
+<p class="fr-book-author">By David Meerman Scott, Richard Jurek</p>
         
-        <p class="fr-book-desc">Examines the media ecosystem surrounding Apollo, showing how public narratives and sensationalized press reporting diverged from engineer...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Marketing+the+Moon+by+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the media ecosystem surrounding Apollo, showing how public narratives and sensationalized press reporting diverged from engineer...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Marketing+the+Moon+by+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Carrying+the+Fire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Carrying the Fire</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Secrets+of+a+Fire+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Secrets of a Fire King</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Man+on+the+Moon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Man on the Moon</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Carrying+the+Fire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Carrying the Fire</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Secrets+of+a+Fire+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Secrets of a Fire King</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Man+on+the+Moon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Man on the Moon</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NASA Apollo 11 Moon Landing Commemorative Poster Print A3/A4"><img src="https://i.ebayimg.com/images/g/XCUAAeSweMVpZDOY/s-l225.jpg" alt="Listing image for Vintage NASA Apollo 11 Moon Landing Commemorative Poster Print A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage NASA Apollo 11 Moon Landing Commemorative Poster Print A3/A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Apollo 11 poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Apollo 11 poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NASA Apollo 11 Moon Landing Commemorative Poster Print A3/A4"><img src="https://i.ebayimg.com/images/g/XCUAAeSweMVpZDOY/s-l225.jpg" alt="Listing image for Vintage NASA Apollo 11 Moon Landing Commemorative Poster Print A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage NASA Apollo 11 Moon Landing Commemorative Poster Print A3/A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Apollo 11 poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Apollo 11 poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Poster - Apollo 11 - Eagle - Lunar Module - NASA - A4 Wall Art"><img src="https://i.ebayimg.com/images/g/sNEAAOSwy3Bc3byM/s-l225.jpg" alt="Listing image for Space Poster - Apollo 11 - Eagle - Lunar Module - NASA - A4 Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" target="_blank" rel="sponsored noopener noreferrer">Space Poster - Apollo 11 - Eagle - Lunar Module - NASA - A4 Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Apollo 11 poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Apollo 11 poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Poster - Apollo 11 - Eagle - Lunar Module - NASA - A4 Wall Art"><img src="https://i.ebayimg.com/images/g/sNEAAOSwy3Bc3byM/s-l225.jpg" alt="Listing image for Space Poster - Apollo 11 - Eagle - Lunar Module - NASA - A4 Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" target="_blank" rel="sponsored noopener noreferrer">Space Poster - Apollo 11 - Eagle - Lunar Module - NASA - A4 Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Apollo 11 poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Apollo 11 poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Apollo 11 Rocket Launch Lift Off Photo Canvas Wall Art Print Poster"><img src="https://i.ebayimg.com/images/g/2T0AAOSwmDZnR4el/s-l225.jpg" alt="Listing image for Space NASA Apollo 11 Rocket Launch Lift Off Photo Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" target="_blank" rel="sponsored noopener noreferrer">Space NASA Apollo 11 Rocket Launch Lift Off Photo Canvas Wall Art Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Apollo 11 poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Apollo 11 poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Apollo 11 Rocket Launch Lift Off Photo Canvas Wall Art Print Poster"><img src="https://i.ebayimg.com/images/g/2T0AAOSwmDZnR4el/s-l225.jpg" alt="Listing image for Space NASA Apollo 11 Rocket Launch Lift Off Photo Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" target="_blank" rel="sponsored noopener noreferrer">Space NASA Apollo 11 Rocket Launch Lift Off Photo Canvas Wall Art Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Apollo 11 poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Apollo 11 poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster"><img src="https://i.ebayimg.com/images/g/I4sAAOSwfpVnR4eZ/s-l225.jpg" alt="Listing image for Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" target="_blank" rel="sponsored noopener noreferrer">Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Apollo 11 poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Apollo 11 poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster"><img src="https://i.ebayimg.com/images/g/I4sAAOSwfpVnR4eZ/s-l225.jpg" alt="Listing image for Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" target="_blank" rel="sponsored noopener noreferrer">Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Apollo 11 poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Apollo 11 poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+11+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-apollo-11-became-a-ufo-legend-apollo-11-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo 11 poster" data-ebay-reference="how-apollo-11-became-a-ufo-legend-apollo-11-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -617,7 +617,7 @@ The irony is that the astronauts’ original discussion was scientifically disci
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -637,7 +637,7 @@ The irony is that the astronauts’ original discussion was scientifically disci
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -669,7 +669,7 @@ The irony is that the astronauts’ original discussion was scientifically disci
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -721,7 +721,7 @@ The irony is that the astronauts’ original discussion was scientifically disci
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -766,7 +766,7 @@ The irony is that the astronauts’ original discussion was scientifically disci
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -807,105 +807,105 @@ The irony is that the astronauts’ original discussion was scientifically disci
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: war.gov  
    Title: nasa uap d4 apollo 11 technical crew debriefing 1969  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarNASA-UAP-D4, Apollo 11 Technical Crew Debriefing, 1969Mar 11, 1977 — We looked at it through the monocular and it seemed...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarNASA-UAP-D4, Apollo 11 Technical Crew Debriefing, 1969Mar 11, 1977 — We looked at it through the monocular and it seemed...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: digitalsc.lib.vt.edu  
-   Link: <a href="https://digitalsc.lib.vt.edu/items/show/5345" target="_blank" rel="noopener noreferrer nofollow">https://digitalsc.lib.vt.edu/items/show/5345</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ling their accounts to each part of the mission...</p></details>
+   Link:<a href="https://digitalsc.lib.vt.edu/items/show/5345" target="_blank" rel="noopener noreferrer nofollow">https://digitalsc.lib.vt.edu/items/show/5345</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ling their accounts to each part of the mission...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufo-files.net  
    Title: 141 nasa uap d4 apollo 11 technical crew debriefing 1969  
-   Link: <a href="https://ufo-files.net/files/141-nasa-uap-d4-apollo-11-technical-crew-debriefing-1969" target="_blank" rel="noopener noreferrer nofollow">https://ufo-files.net/files/141-nasa-uap-d4-apollo-11-technical-crew-debriefing-1969</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA-UAP-D4, Apollo 11 Technical Crew Debriefing, 19696 days ago — The document highlights three observations: one, an object on the way...</p></details>
+   Link:<a href="https://ufo-files.net/files/141-nasa-uap-d4-apollo-11-technical-crew-debriefing-1969" target="_blank" rel="noopener noreferrer nofollow">https://ufo-files.net/files/141-nasa-uap-d4-apollo-11-technical-crew-debriefing-1969</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA-UAP-D4, Apollo 11 Technical Crew Debriefing, 19696 days ago — The document highlights three observations: one, an object on the way...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: space.com  
    Title: These Apollo 'UFO' images have been public for decades  
-   Link: <a href="https://www.space.com/space-exploration/search-for-life/not-a-big-reveal-apollo-ufo-images-have-been-public-for-decades" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/not-a-big-reveal-apollo-ufo-images-have-been-public-for-decades</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>So why are people talking about them now?In May 2026, the Pentagon released a major batch of declassified UFO files, sparking renewed att...</p></details>
+   Link:<a href="https://www.space.com/space-exploration/search-for-life/not-a-big-reveal-apollo-ufo-images-have-been-public-for-decades" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/not-a-big-reveal-apollo-ufo-images-have-been-public-for-decades</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>So why are people talking about them now?In May 2026, the Pentagon released a major batch of declassified UFO files, sparking renewed att...</p></details>
    Published: May 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: fortune.com  
    Title: UFO files show Buzz Aldrin saw a 'bright light source' that  
-   Link: <a href="https://fortune.com/2026/05/09/ufo-files-pentagon-buzz-aldrin-moon-apollo-11-crew-laser/" target="_blank" rel="noopener noreferrer nofollow">https://fortune.com/2026/05/09/ufo-files-pentagon-buzz-aldrin-moon-apollo-11-crew-laser/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>9 May 2026 — UFO files show Buzz Aldrin saw a &#x27;sizeable&#x27; object close to the moon and a &#x27;fairly bright light source&#x27; that the Apollo 11 c...</p></details>
+   Link:<a href="https://fortune.com/2026/05/09/ufo-files-pentagon-buzz-aldrin-moon-apollo-11-crew-laser/" target="_blank" rel="noopener noreferrer nofollow">https://fortune.com/2026/05/09/ufo-files-pentagon-buzz-aldrin-moon-apollo-11-crew-laser/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 May 2026 — UFO files show Buzz Aldrin saw a &#x27;sizeable&#x27; object close to the moon and a &#x27;fairly bright light source&#x27; that the Apollo 11 c...</p></details>
    Published: May 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: people.com  
-   Link: <a href="https://people.com/ufo-files-released-by-pentagon-as-trump-encourages-public-to-examine-sightings-11970867" target="_blank" rel="noopener noreferrer nofollow">https://people.com/ufo-files-released-by-pentagon-as-trump-encourages-public-to-examine-sightings-11970867</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Officials, such as Sean Kirkpatrick, emphasize the importance of scientific analysis and warn against assuming all sightings are extrater...</p></details>
+   Link:<a href="https://people.com/ufo-files-released-by-pentagon-as-trump-encourages-public-to-examine-sightings-11970867" target="_blank" rel="noopener noreferrer nofollow">https://people.com/ufo-files-released-by-pentagon-as-trump-encourages-public-to-examine-sightings-11970867</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Officials, such as Sean Kirkpatrick, emphasize the importance of scientific analysis and warn against assuming all sightings are extrater...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/05/08/us-news/buzz-aldrin-described-unusual-phenomena-during-apollo-11-mission-ufo-docs-reveal/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/05/08/us-news/buzz-aldrin-described-unusual-phenomena-during-apollo-11-mission-ufo-docs-reveal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aldrin, the second man to walk on the moon, reported three specific anomalies: an object observed near the spacecraft, initially suspecte...</p></details>
+   Link:<a href="https://nypost.com/2026/05/08/us-news/buzz-aldrin-described-unusual-phenomena-during-apollo-11-mission-ufo-docs-reveal/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/05/08/us-news/buzz-aldrin-described-unusual-phenomena-during-apollo-11-mission-ufo-docs-reveal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aldrin, the second man to walk on the moon, reported three specific anomalies: an object observed near the spacecraft, initially suspecte...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Buzz Aldrin  
-   Link: <a href="https://en.wikipedia.org/wiki/Buzz_Aldrin" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Buzz_Aldrin</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Buzz Aldrin - WikipediaThe Pentagon on Friday began releasing what it calls &quot;new...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Buzz_Aldrin" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Buzz_Aldrin</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Buzz Aldrin - WikipediaThe Pentagon on Friday began releasing what it calls &quot;new...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/omarrquraishi_nasa-apollo-11-ufo-report-from-buzz-aldrin-activity-7458559826336378880-S-pu" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/omarrquraishi_nasa-apollo-11-ufo-report-from-buzz-aldrin-activity-7458559826336378880-S-pu</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Apollo 11 Crew Describes Mysterious Object Near MoonThe document highlights three observations: one, an object on the way out to the Moon...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/omarrquraishi_nasa-apollo-11-ufo-report-from-buzz-aldrin-activity-7458559826336378880-S-pu" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/omarrquraishi_nasa-apollo-11-ufo-report-from-buzz-aldrin-activity-7458559826336378880-S-pu</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apollo 11 Crew Describes Mysterious Object Near MoonThe document highlights three observations: one, an object on the way out to the Moon...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: x.com  
-   Link: <a href="https://x.com/ToNYD2WiLD/status/2053351456669933659" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ToNYD2WiLD/status/2053351456669933659</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ToNYD2WiLDThese are artistic reconstructions based on the crew&#x27;s own words, not confirmed photos. What do y&#x27;all think they saw? war.gov/m...</p></details>
+   Link:<a href="https://x.com/ToNYD2WiLD/status/2053351456669933659" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ToNYD2WiLD/status/2053351456669933659</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ToNYD2WiLDThese are artistic reconstructions based on the crew&#x27;s own words, not confirmed photos. What do y&#x27;all think they saw? war.gov/m...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tsoeg.org  
-   Link: <a href="https://tsoeg.org/fieldwork/tourist-explorer/" target="_blank" rel="noopener noreferrer nofollow">https://tsoeg.org/fieldwork/tourist-explorer/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tourist/ExplorerOn pages 33-35 of the Apollo 11 Technical Crew Debriefing Document, Neil Armstrong, Mike Collins, and Buzz Aldrin attempt...</p></details>
+   Link:<a href="https://tsoeg.org/fieldwork/tourist-explorer/" target="_blank" rel="noopener noreferrer nofollow">https://tsoeg.org/fieldwork/tourist-explorer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tourist/ExplorerOn pages 33-35 of the Apollo 11 Technical Crew Debriefing Document, Neil Armstrong, Mike Collins, and Buzz Aldrin attempt...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/ljjxg5/apollo_11_the_missed_2_minutes_the_eagle_has/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/ljjxg5/apollo_11_the_missed_2_minutes_the_eagle_has/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>APOLLO 11 the missed 2 minutes. &quot;The Eagle has landed....NASA Apollo 14 astronaut Edgar Mitchell, the 6th man to walk on the Moon, says...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/ljjxg5/apollo_11_the_missed_2_minutes_the_eagle_has/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/ljjxg5/apollo_11_the_missed_2_minutes_the_eagle_has/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>APOLLO 11 the missed 2 minutes. &quot;The Eagle has landed....NASA Apollo 14 astronaut Edgar Mitchell, the 6th man to walk on the Moon, says...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: a 1969 debrief of buzz aldrin stating he saw a sizable object close to the lunar  
-   Link: <a href="https://www.facebook.com/theguardian/posts/a-1969-debrief-of-buzz-aldrin-stating-he-saw-a-sizable-object-close-to-the-lunar/1400585945432988/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theguardian/posts/a-1969-debrief-of-buzz-aldrin-stating-he-saw-a-sizable-object-close-to-the-lunar/1400585945432988/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A 1969 debrief of Buzz Aldrin stating he saw a &#x27;sizable&#x27;...EXCLUSIVE: Buzz Aldrin Confirms UFO Sighting in Syfy&#x27;s &#x27;Aliens on the Moon&#x27; S...</p></details>
+   Link:<a href="https://www.facebook.com/theguardian/posts/a-1969-debrief-of-buzz-aldrin-stating-he-saw-a-sizable-object-close-to-the-lunar/1400585945432988/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theguardian/posts/a-1969-debrief-of-buzz-aldrin-stating-he-saw-a-sizable-object-close-to-the-lunar/1400585945432988/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A 1969 debrief of Buzz Aldrin stating he saw a &#x27;sizable&#x27;...EXCLUSIVE: Buzz Aldrin Confirms UFO Sighting in Syfy&#x27;s &#x27;Aliens on the Moon&#x27; S...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: news.sky.com  
    Title: pentagon releases never before seen files on ufos 13541565  
-   Link: <a href="https://news.sky.com/story/pentagon-releases-never-before-seen-files-on-ufos-13541565" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/pentagon-releases-never-before-seen-files-on-ufos-13541565</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky News&#x27;Never-before-seen&#x27; files on UFOs released by Pentagon6 days ago — In a 1969 debriefing of Apollo 11 crew members, astronaut Buzz...</p></details>
+   Link:<a href="https://news.sky.com/story/pentagon-releases-never-before-seen-files-on-ufos-13541565" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/pentagon-releases-never-before-seen-files-on-ufos-13541565</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky News&#x27;Never-before-seen&#x27; files on UFOs released by Pentagon6 days ago — In a 1969 debriefing of Apollo 11 crew members, astronaut Buzz...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: Apollo 11 debrief: r/UFOs Discussing the NASA Apollo 11  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1t784da/apollo_11_debrief/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1t784da/apollo_11_debrief/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apollo 11 debrief: r/UFOsDiscussing the NASA Apollo 11 - 12 and 17 UFO/AUP disclosures while walking on an alien moon in VR! r/universe...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1t784da/apollo_11_debrief/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1t784da/apollo_11_debrief/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apollo 11 debrief: r/UFOsDiscussing the NASA Apollo 11 - 12 and 17 UFO/AUP disclosures while walking on an alien moon in VR! r/universe...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: the-independent.com  
-   Link: <a href="https://www.the-independent.com/news/world/americas/us-politics/ufo-files-sightings-nasa-moon-landing-photos-b2973322.html" target="_blank" rel="noopener noreferrer nofollow">https://www.the-independent.com/news/world/americas/us-politics/ufo-files-sightings-nasa-moon-landing-photos-b2973322.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ed three strange sightings from the Apollo 11 mission during a technical...Read more...</p></details>
+   Link:<a href="https://www.the-independent.com/news/world/americas/us-politics/ufo-files-sightings-nasa-moon-landing-photos-b2973322.html" target="_blank" rel="noopener noreferrer nofollow">https://www.the-independent.com/news/world/americas/us-politics/ufo-files-sightings-nasa-moon-landing-photos-b2973322.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ed three strange sightings from the Apollo 11 mission during a technical...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/news/world/americas/us-politics/ufo-files-sightings-nasa-moon-landing-photos-b2973322.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/us-politics/ufo-files-sightings-nasa-moon-landing-photos-b2973322.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>three strange sightings from the Apollo 11 mission during a technical...Read more...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/world/americas/us-politics/ufo-files-sightings-nasa-moon-landing-photos-b2973322.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/us-politics/ufo-files-sightings-nasa-moon-landing-photos-b2973322.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>three strange sightings from the Apollo 11 mission during a technical...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tnonline.com  
    Title: ufo files leaving interpretation up to the public  
-   Link: <a href="https://www.tnonline.com/20260508/ufo-files-leaving-interpretation-up-to-the-public/" target="_blank" rel="noopener noreferrer nofollow">https://www.tnonline.com/20260508/ufo-files-leaving-interpretation-up-to-the-public/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 hours ago — In a 1969 debriefing of the Apollo 11 crew, the astronaut Aldrin recalled spotting several unusual sights, such as a “sizea...</p></details>
+   Link:<a href="https://www.tnonline.com/20260508/ufo-files-leaving-interpretation-up-to-the-public/" target="_blank" rel="noopener noreferrer nofollow">https://www.tnonline.com/20260508/ufo-files-leaving-interpretation-up-to-the-public/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 hours ago — In a 1969 debriefing of the Apollo 11 crew, the astronaut Aldrin recalled spotting several unusual sights, such as a “sizea...</p></details>

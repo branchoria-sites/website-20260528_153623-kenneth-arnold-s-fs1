@@ -758,206 +758,206 @@ image: /assets/images/Charles_L_Moody_abdu_780173-overview-social.jpg
 
 ## The Reported Encounter
 
-According to UFO enthusiasts and secondary accounts, on the night of **13 August 1975**, Sergeant **Charles L. Moody**, then about 32 years old and reportedly stationed near **Alamogordo, New Mexico**, drove into the desert to watch a meteor shower. At **around 01:15–01:20 AM**, he claimed to have seen a **bright, glowing, metallic, disc‑shaped object** descend toward the ground roughly **70–100 feet away** from his car. The object was described as about **50 feet long and 18–20 feet wide**, wobbling slightly as it hovered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">1975, UFO Encounter; Abduction of Air Force Sergeant Charles L. Moody, UFO Casebook Files...</span></span></span>
+According to UFO enthusiasts and secondary accounts, on the night of **13 August 1975**, Sergeant **Charles L. Moody**, then about 32 years old and reportedly stationed near **Alamogordo, New Mexico**, drove into the desert to watch a meteor shower. At **around 01:15–01:20 AM**, he claimed to have seen a **bright, glowing, metallic, disc‑shaped object** descend toward the ground roughly **70–100 feet away** from his car. The object was described as about **50 feet long and 18–20 feet wide**, wobbling slightly as it hovered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">1975, UFO Encounter; Abduction of Air Force Sergeant Charles L. Moody, UFO Casebook Files...</span></span></span>
 
 <img src="{{ "/assets/images/Charles_L_Moody_abdu_780173-overview.webp" | relative_url }}" alt="Overview image for Charles L Moody abduction 1975" loading="eager" decoding="sync" fetchpriority="high">
-Moody reported attempting to start his car but finding that the engine would not turn over while the craft approached. He said he then felt a **high‑pitched humming sound**, followed by a **numbness spreading through his body**. His next memory, per the narratives, was the object **ascending and disappearing**, after which his car started immediately and he drove home, shocked to see the time was **about 03:00 AM**, suggesting an unexplained time lapse of roughly **90 minutes**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/ufospilotspolicemilitary.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFOs - Pilots, Police, MilitaryImage: UFO Casebook headgraphic UFOS - PILOTS, POLICE, MILITARY The cases below are a sample of the many U...</span></span></span>
+Moody reported attempting to start his car but finding that the engine would not turn over while the craft approached. He said he then felt a **high‑pitched humming sound**, followed by a **numbness spreading through his body**. His next memory, per the narratives, was the object **ascending and disappearing**, after which his car started immediately and he drove home, shocked to see the time was **about 03:00 AM**, suggesting an unexplained time lapse of roughly **90 minutes**.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/ufospilotspolicemilitary.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFOs - Pilots, Police, MilitaryImage: UFO Casebook headgraphic UFOS - PILOTS, POLICE, MILITARY The cases below are a sample of the many U...</span></span></span>
 
-The following day he experienced **back pain and a rash on his lower body**, and — at the recommendation of a physician — began **self‑hypnosis** in an effort to recover memories of the missing time. Over subsequent weeks, it is claimed he reconstructed an extended sequence wherein he was seized by two humanoid figures, fought back briefly, and was rendered unconscious before waking **aboard the craft**. A central figure among the beings allegedly communicated telepathically and performed a physical procedure that restored his mobility. Moody’s recovered memories included a tour of the craft’s interior and claims that the alien occupants intended no harm, but would not initiate direct contact with Earth for decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">1975, UFO Encounter; Abduction of Air Force Sergeant Charles L. Moody, UFO Casebook Files...</span></span></span>
+The following day he experienced **back pain and a rash on his lower body**, and — at the recommendation of a physician — began **self‑hypnosis** in an effort to recover memories of the missing time. Over subsequent weeks, it is claimed he reconstructed an extended sequence wherein he was seized by two humanoid figures, fought back briefly, and was rendered unconscious before waking **aboard the craft**. A central figure among the beings allegedly communicated telepathically and performed a physical procedure that restored his mobility. Moody’s recovered memories included a tour of the craft’s interior and claims that the alien occupants intended no harm, but would not initiate direct contact with Earth for decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">1975, UFO Encounter; Abduction of Air Force Sergeant Charles L. Moody, UFO Casebook Files...</span></span></span>
 
-Accounts also describe the beings as **about six feet tall**, clad in tight dark suits, with a third — shorter leader figure in silvery‑white attire, all having **large hairless heads, round eyes, and very thin lips** — a description echoing the later classicised “grey alien” archetype. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/ufospilotspolicemilitary.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFOs - Pilots, Police, MilitaryImage: UFO Casebook headgraphic UFOS - PILOTS, POLICE, MILITARY The cases below are a sample of the many U...</span></span></span>
+Accounts also describe the beings as **about six feet tall**, clad in tight dark suits, with a third — shorter leader figure in silvery‑white attire, all having **large hairless heads, round eyes, and very thin lips** — a description echoing the later classicised “grey alien” archetype.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/ufospilotspolicemilitary.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFOs - Pilots, Police, MilitaryImage: UFO Casebook headgraphic UFOS - PILOTS, POLICE, MILITARY The cases below are a sample of the many U...</span></span></span>
 
 <img src="{{ "/assets/images/Charles_L_Moody_abdu_780173-Illustration-1-dark.svg" | relative_url }}" alt="Charles L Moody abduction 1975 illustration 1" data-theme-src-dark="{{ "/assets/images/Charles_L_Moody_abdu_780173-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Charles_L_Moody_abdu_780173-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in the Moody Case?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in the Moody Case?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alien Abduction Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y1C4MgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alien Abduction Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alien Abduction Files">The Alien Abduction Files</a>
-        </h4>
-        <p class="fr-book-author">By Kathleen Marden, Denise Stoner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alien Abduction Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y1C4MgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alien Abduction Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alien Abduction Files">The Alien Abduction Files</a>
+</h4>
+<p class="fr-book-author">By Kathleen Marden, Denise Stoner</p>
         
-        <p class="fr-book-desc">Features the Charles L. Moody incident records, detailing his 1975 meteor shower observations, paralysis, and later recovered memory narr...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Features the Charles L. Moody incident records, detailing his 1975 meteor shower observations, paralysis, and later recovered memory narr...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
-        </h4>
-        <p class="fr-book-author">By John E. Mack, Mack</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+</h4>
+<p class="fr-book-author">By John E. Mack, Mack</p>
         
-        <p class="fr-book-desc">Examines the classic archetypes—missing hours, metallic objects, paralysis, and humanoid presence—that characterize the Moody case struct...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the classic archetypes—missing hours, metallic objects, paralysis, and humanoid presence—that characterize the Moody case struct...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=immWvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Missing Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
-        </h4>
-        <p class="fr-book-author">By Budd Hopkins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=immWvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Missing Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
+</h4>
+<p class="fr-book-author">By Budd Hopkins</p>
         
-        <p class="fr-book-desc">Reviews the specific regression techniques used to unlock the 90-minute gap in the sergeant&#x27;s desert experience.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reviews the specific regression techniques used to unlock the 90-minute gap in the sergeant&#x27;s desert experience.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Provides structural methodologies for auditing witness claims that depend exclusively on post-event hypnotic elaboration.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides structural methodologies for auditing witness claims that depend exclusively on post-event hypnotic elaboration.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alien Abduction Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Missing+Time&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Missing Time</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alien Abduction Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Missing+Time&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Missing Time</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-the-moody-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-the-moody-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -973,7 +973,7 @@ Accounts also describe the beings as **about six feet tall**, clad in tight dark
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -993,7 +993,7 @@ Accounts also describe the beings as **about six feet tall**, clad in tight dark
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1025,7 +1025,7 @@ Accounts also describe the beings as **about six feet tall**, clad in tight dark
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1077,7 +1077,7 @@ Accounts also describe the beings as **about six feet tall**, clad in tight dark
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1122,7 +1122,7 @@ Accounts also describe the beings as **about six feet tall**, clad in tight dark
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1163,167 +1163,167 @@ Accounts also describe the beings as **about six feet tall**, clad in tight dark
 
 ## Sources of the Narrative and Variations
 
-The available information on the Moody case derives predominantly from **UFO‑themed websites, blogs, self‑published compilations and secondary summaries** rather than any known official reports or peer‑reviewed journals. Websites such as UFO Casebook and UFO Matrix summarise the narrative in detail, often citing earlier UFO literature such as Margaret Sachs’ *The UFO Encyclopedia* and works by Jim and Coral Lorenzen, who were active civilian UFO investigators in the 1970s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/ufospilotspolicemilitary.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFOs - Pilots, Police, MilitaryImage: UFO Casebook headgraphic UFOS - PILOTS, POLICE, MILITARY The cases below are a sample of the many U...</span></span></span>
+The available information on the Moody case derives predominantly from **UFO‑themed websites, blogs, self‑published compilations and secondary summaries** rather than any known official reports or peer‑reviewed journals. Websites such as UFO Casebook and UFO Matrix summarise the narrative in detail, often citing earlier UFO literature such as Margaret Sachs’ *The UFO Encyclopedia* and works by Jim and Coral Lorenzen, who were active civilian UFO investigators in the 1970s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/ufospilotspolicemilitary.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFOs - Pilots, Police, MilitaryImage: UFO Casebook headgraphic UFOS - PILOTS, POLICE, MILITARY The cases below are a sample of the many U...</span></span></span>
 
-Different accounts vary slightly in their wording and elements; for instance, some emphasise a **telepathic exchange** and a visit to a larger “mothership” claimed to be miles above the Earth, while others focus strictly on the abduction and examination aspects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://conexaoufo.com/en/the-case-of-the-abducted-us-air-force-sergeant/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: conexaoufo.com">[conexaoufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">conexaoufo.com</span><span class="citation-popover-title">The Case of the Abducted US Air Force Sergeant</span><span class="citation-popover-snippet">Conexão UFOJuly 5, 2022...</span><span class="citation-popover-meta">Published: July 5, 2022</span></span></span>
+Different accounts vary slightly in their wording and elements; for instance, some emphasise a **telepathic exchange** and a visit to a larger “mothership” claimed to be miles above the Earth, while others focus strictly on the abduction and examination aspects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://conexaoufo.com/en/the-case-of-the-abducted-us-air-force-sergeant/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: conexaoufo.com">[conexaoufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">conexaoufo.com</span><span class="citation-popover-title">The Case of the Abducted US Air Force Sergeant</span><span class="citation-popover-snippet">Conexão UFOJuly 5, 2022...</span><span class="citation-popover-meta">Published: July 5, 2022</span></span></span>
 
-Overall, however, the core structure of the story — a solitary witness sees a UFO, experiences paralysis and lost time, engages in hypnotic regression, and recounts interaction with non‑human beings aboard a craft — is common across secondary sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufomatrix.org/2025/07/charles-moody-ufo-abduction-1975-new.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufomatrix.org">[UFO Matrix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufomatrix.org</span><span class="citation-popover-title">charles moody ufo abduction 1975 new</span><span class="citation-popover-snippet">UFO Matrix &#124; The Disclosure AgesCharles Moody UFO Abduction – 1975, New Mexico...</span></span></span> | The Disclosure Ages
+Overall, however, the core structure of the story — a solitary witness sees a UFO, experiences paralysis and lost time, engages in hypnotic regression, and recounts interaction with non‑human beings aboard a craft — is common across secondary sources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufomatrix.org/2025/07/charles-moody-ufo-abduction-1975-new.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufomatrix.org">[UFO Matrix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufomatrix.org</span><span class="citation-popover-title">charles moody ufo abduction 1975 new</span><span class="citation-popover-snippet">UFO Matrix &#124; The Disclosure AgesCharles Moody UFO Abduction – 1975, New Mexico...</span></span></span> | The Disclosure Ages
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gkk5W-PbIho" title="UFO History | ASMR Sleep Stories | Cozy Bedtime Tales Of UFO&#x27;s &amp; Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gkk5W-PbIho" target="_blank" rel="noopener noreferrer">UFO History | ASMR Sleep Stories | Cozy Bedtime Tales Of UFO&#x27;s &amp; Aliens</a></p><p class="youtube-embed-meta">Channel: Good Knights Sleep &middot; Views: 86.7K &middot; Uploaded: December 2023 &middot; Length: 4 hours 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gkk5W-PbIho" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gkk5W-PbIho">Open on YouTube</a></p></div></div></div>
 
 ## Investigations and Credibility
 
-There are **no publicly available official records** from the U.S. Air Force, Project Blue Book, or later government UFO/UAP programmes confirming an investigation into Moody’s claim or validating any element of his experience. Project Blue Book, the Air Force’s formal UFO investigation programme, had been officially closed for several years by 1975, and subsequent Air Force statements emphasise routine procedures for unidentified aerial phenomena but do not document specific abduction cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+There are **no publicly available official records** from the U.S. Air Force, Project Blue Book, or later government UFO/UAP programmes confirming an investigation into Moody’s claim or validating any element of his experience. Project Blue Book, the Air Force’s formal UFO investigation programme, had been officially closed for several years by 1975, and subsequent Air Force statements emphasise routine procedures for unidentified aerial phenomena but do not document specific abduction cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
-Within the UFO research community, figures like **Jim and Coral Lorenzen** — founders of the Aerial Phenomena Research Organization (APRO), an influential civilian investigative group — are sometimes cited as having evaluated Moody’s account. APRO, active in the 1950s through the 1980s, conducted field investigations but did not have scientific authority equivalent to mainstream scientific institutions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aerial Phenomena Research Organization</span><span class="citation-popover-snippet">Aerial Phenomena Research Organization</span></span></span>
+Within the UFO research community, figures like **Jim and Coral Lorenzen** — founders of the Aerial Phenomena Research Organization (APRO), an influential civilian investigative group — are sometimes cited as having evaluated Moody’s account. APRO, active in the 1950s through the 1980s, conducted field investigations but did not have scientific authority equivalent to mainstream scientific institutions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aerial Phenomena Research Organization</span><span class="citation-popover-snippet">Aerial Phenomena Research Organization</span></span></span>
 
-Critics, including sceptical investigators like Lorenzen himself in some remarks, have pointed out **inconsistencies** in Moody’s hypnotically recovered memories — varying distances to a supposed mothership and contradictory physical descriptions of the beings — that could suggest **confabulation or memory distortion** rather than factual reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/ufospilotspolicemilitary.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFOs - Pilots, Police, MilitaryImage: UFO Casebook headgraphic UFOS - PILOTS, POLICE, MILITARY The cases below are a sample of the many U...</span></span></span>
+Critics, including sceptical investigators like Lorenzen himself in some remarks, have pointed out **inconsistencies** in Moody’s hypnotically recovered memories — varying distances to a supposed mothership and contradictory physical descriptions of the beings — that could suggest **confabulation or memory distortion** rather than factual reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/ufospilotspolicemilitary.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFOs - Pilots, Police, MilitaryImage: UFO Casebook headgraphic UFOS - PILOTS, POLICE, MILITARY The cases below are a sample of the many U...</span></span></span>
 
-Beyond these anecdotal critiques, there is **no corroborating physical evidence** — such as medical records documenting the rash or back injuries in contemporary medical documentation, radar or photographic data from the encounter night, or credible third‑party witness testimony — that has been published in reputable sources. This absence of verifiable evidence is a central theme in sceptical analyses of alleged alien abductions generally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
+Beyond these anecdotal critiques, there is **no corroborating physical evidence** — such as medical records documenting the rash or back injuries in contemporary medical documentation, radar or photographic data from the encounter night, or credible third‑party witness testimony — that has been published in reputable sources. This absence of verifiable evidence is a central theme in sceptical analyses of alleged alien abductions generally.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
 
 <img src="{{ "/assets/images/Charles_L_Moody_abdu_780173-Illustration-2-dark.svg" | relative_url }}" alt="Charles L Moody abduction 1975 illustration 2" data-theme-src-dark="{{ "/assets/images/Charles_L_Moody_abdu_780173-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Charles_L_Moody_abdu_780173-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Context in UFO Abduction History
 
-In the broader chronology of alleged alien abductions, the Moody case sits among early narratives that pre‑date the popularisation of abduction lore in the 1980s and 1990s. The **Betty and Barney Hill abduction** of 1961 is widely regarded as the first such widely reported case and had been dramatised on American television earlier in 1975, which some psychologists suggest contributed to cultural framing of later accounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The UFO Incident</span><span class="citation-popover-snippet">The UFO Incident</span></span></span>
+In the broader chronology of alleged alien abductions, the Moody case sits among early narratives that pre‑date the popularisation of abduction lore in the 1980s and 1990s. The **Betty and Barney Hill abduction** of 1961 is widely regarded as the first such widely reported case and had been dramatised on American television earlier in 1975, which some psychologists suggest contributed to cultural framing of later accounts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The UFO Incident</span><span class="citation-popover-snippet">The UFO Incident</span></span></span>
 
-Most prominent abduction claims cited in mainstream summaries — such as those in encyclopaedic overviews of UFO phenomena — list other cases like Pascagoula (1973) and Travis Walton (1975) as representative examples, but Moody’s experience is rarely included in such curated lists, reflecting both its lower profile and the absence of primary documentation in academic or investigative repositories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.toptenz.net/top-10-creepiest-alien-abductions.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toptenz.net">[Toptenz.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toptenz.net</span><span class="citation-popover-title">Top 10 Creepiest Alien Abductions</span><span class="citation-popover-snippet">Toptenz.net</span></span></span>
+Most prominent abduction claims cited in mainstream summaries — such as those in encyclopaedic overviews of UFO phenomena — list other cases like Pascagoula (1973) and Travis Walton (1975) as representative examples, but Moody’s experience is rarely included in such curated lists, reflecting both its lower profile and the absence of primary documentation in academic or investigative repositories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.toptenz.net/top-10-creepiest-alien-abductions.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toptenz.net">[Toptenz.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toptenz.net</span><span class="citation-popover-title">Top 10 Creepiest Alien Abductions</span><span class="citation-popover-snippet">Toptenz.net</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oBL3hv2B5FU" title="We Camped Where the Most Famous UFO Abduction Happened…" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oBL3hv2B5FU" target="_blank" rel="noopener noreferrer">We Camped Where the Most Famous UFO Abduction Happened…</a></p><p class="youtube-embed-meta">Channel: Our Way To Roam &middot; Views: 57.5K &middot; Uploaded: May 2026 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oBL3hv2B5FU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oBL3hv2B5FU">Open on YouTube</a></p></div></div></div>
 
 ## Competing Interpretations
 
-The **pro‑UFO interpretation** treats Moody’s narrative as a genuine or sincere report of otherworldly contact, emphasising the consistency of his detailed descriptions and the absence of an apparent motive for fabrication. Enthusiasts often point to the case as an **early abduction report** that helped shape later narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufomatrix.org/2025/07/charles-moody-ufo-abduction-1975-new.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufomatrix.org">[UFO Matrix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufomatrix.org</span><span class="citation-popover-title">charles moody ufo abduction 1975 new</span><span class="citation-popover-snippet">UFO Matrix &#124; The Disclosure AgesCharles Moody UFO Abduction – 1975, New Mexico...</span></span></span> | The Disclosure Ages
+The **pro‑UFO interpretation** treats Moody’s narrative as a genuine or sincere report of otherworldly contact, emphasising the consistency of his detailed descriptions and the absence of an apparent motive for fabrication. Enthusiasts often point to the case as an **early abduction report** that helped shape later narratives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufomatrix.org/2025/07/charles-moody-ufo-abduction-1975-new.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufomatrix.org">[UFO Matrix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufomatrix.org</span><span class="citation-popover-title">charles moody ufo abduction 1975 new</span><span class="citation-popover-snippet">UFO Matrix &#124; The Disclosure AgesCharles Moody UFO Abduction – 1975, New Mexico...</span></span></span> | The Disclosure Ages
 
 The **skeptical view** raises several significant considerations:
 
-* **Hypnotic Regression Issues:** Memories recovered through hypnosis are **not considered reliable evidence** in scientific psychology, as they are prone to suggestion and construction of false memories. Contemporary cognitive science notes that hypnotically retrieved memories cannot be distinguished from imaginative confabulations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien abduction</span><span class="citation-popover-snippet">Alien abduction</span></span></span>
+* **Hypnotic Regression Issues:** Memories recovered through hypnosis are **not considered reliable evidence** in scientific psychology, as they are prone to suggestion and construction of false memories. Contemporary cognitive science notes that hypnotically retrieved memories cannot be distinguished from imaginative confabulations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien abduction</span><span class="citation-popover-snippet">Alien abduction</span></span></span>
 * **Lack of Corroboration:** There are **no independent witnesses, official investigations, physical artefacts, or documented military reports** supporting Moody’s account.
-* **Narrative Overlap:** Elements of Moody’s story — such as time loss, paralysis, telepathic communication, and examination aboard a craft — mirror tropes found in other abduction narratives, raising questions about cultural contamination or mythic consistency rather than unique, verifiable phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/ufospilotspolicemilitary.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFOs - Pilots, Police, MilitaryImage: UFO Casebook headgraphic UFOS - PILOTS, POLICE, MILITARY The cases below are a sample of the many U...</span></span></span>
+* **Narrative Overlap:** Elements of Moody’s story — such as time loss, paralysis, telepathic communication, and examination aboard a craft — mirror tropes found in other abduction narratives, raising questions about cultural contamination or mythic consistency rather than unique, verifiable phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/ufospilotspolicemilitary.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFOs - Pilots, Police, MilitaryImage: UFO Casebook headgraphic UFOS - PILOTS, POLICE, MILITARY The cases below are a sample of the many U...</span></span></span>
 
 <img src="{{ "/assets/images/Charles_L_Moody_abdu_780173-Illustration-3-dark.svg" | relative_url }}" alt="Charles L Moody abduction 1975 illustration 3" data-theme-src-dark="{{ "/assets/images/Charles_L_Moody_abdu_780173-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Charles_L_Moody_abdu_780173-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Case Matters to UFO Studies
 
-While the **Charles L. Moody abduction** is not widely recognised outside UFO enthusiast circles, it remains of interest to those who study the evolution of abduction lore. As an asserted encounter occurring at the intersection of personal testimony, military witness status, and hypnotic memory recovery, it exemplifies several broader issues in UFO research: the **challenge of evaluating personal testimony**, the **absence of empirical corroboration**, and the **role of narrative structure in shaping abduction reports** long before such stories became embedded in popular culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufomatrix.org/2025/07/charles-moody-ufo-abduction-1975-new.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufomatrix.org">[UFO Matrix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufomatrix.org</span><span class="citation-popover-title">charles moody ufo abduction 1975 new</span><span class="citation-popover-snippet">UFO Matrix &#124; The Disclosure AgesCharles Moody UFO Abduction – 1975, New Mexico...</span></span></span> | The Disclosure Ages
+While the **Charles L. Moody abduction** is not widely recognised outside UFO enthusiast circles, it remains of interest to those who study the evolution of abduction lore. As an asserted encounter occurring at the intersection of personal testimony, military witness status, and hypnotic memory recovery, it exemplifies several broader issues in UFO research: the **challenge of evaluating personal testimony**, the **absence of empirical corroboration**, and the **role of narrative structure in shaping abduction reports** long before such stories became embedded in popular culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufomatrix.org/2025/07/charles-moody-ufo-abduction-1975-new.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufomatrix.org">[UFO Matrix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufomatrix.org</span><span class="citation-popover-title">charles moody ufo abduction 1975 new</span><span class="citation-popover-snippet">UFO Matrix &#124; The Disclosure AgesCharles Moody UFO Abduction – 1975, New Mexico...</span></span></span> | The Disclosure Ages
 
-For mainstream science and official investigations, the case remains **unverified and unsubstantiated**, and it continues to sit on the fringes of UFO historiography — notable in UFOlogy documentation but lacking the evidentiary support needed to elevate it into documented aerospace or psychological phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+For mainstream science and official investigations, the case remains **unverified and unsubstantiated**, and it continues to sit on the fringes of UFO historiography — notable in UFOlogy documentation but lacking the evidentiary support needed to elevate it into documented aerospace or psychological phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3otSzVm8VCQ" title="Did Reagan Know the Truth about UFOs?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3otSzVm8VCQ" target="_blank" rel="noopener noreferrer">Did Reagan Know the Truth about UFOs?</a></p><p class="youtube-embed-meta">Channel: T’s Storytime &middot; Views: 12.1K &middot; Uploaded: May 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3otSzVm8VCQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3otSzVm8VCQ">Open on YouTube</a></p></div></div></div>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ufocasebook.com  
-   Link: <a href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/moody.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1975, UFO Encounter; Abduction of Air Force Sergeant Charles L. Moody, UFO Casebook Files...</p></details>
+   Link:<a href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/moody.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1975, UFO Encounter; Abduction of Air Force Sergeant Charles L. Moody, UFO Casebook Files...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufomatrix.org  
    Title: charles moody ufo abduction 1975 new  
-   Link: <a href="https://www.ufomatrix.org/2025/07/charles-moody-ufo-abduction-1975-new.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomatrix.org/2025/07/charles-moody-ufo-abduction-1975-new.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Matrix | The Disclosure AgesCharles Moody UFO Abduction – 1975, New Mexico...</p></details>
+   Link:<a href="https://www.ufomatrix.org/2025/07/charles-moody-ufo-abduction-1975-new.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomatrix.org/2025/07/charles-moody-ufo-abduction-1975-new.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Matrix | The Disclosure AgesCharles Moody UFO Abduction – 1975, New Mexico...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: conexaoufo.com  
    Title: The Case of the Abducted US Air Force Sergeant  
-   Link: <a href="https://conexaoufo.com/en/the-case-of-the-abducted-us-air-force-sergeant/" target="_blank" rel="noopener noreferrer nofollow">https://conexaoufo.com/en/the-case-of-the-abducted-us-air-force-sergeant/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conexão UFOJuly 5, 2022...</p></details>
+   Link:<a href="https://conexaoufo.com/en/the-case-of-the-abducted-us-air-force-sergeant/" target="_blank" rel="noopener noreferrer nofollow">https://conexaoufo.com/en/the-case-of-the-abducted-us-air-force-sergeant/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conexão UFOJuly 5, 2022...</p></details>
    Published: July 5, 2022  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Aerial Phenomena Research Organization  
-   Link: <a href="https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Condon Committee  
-   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: The UFO Incident  
-   Link: <a href="https://en.wikipedia.org/wiki/The_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_UFO_Incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_UFO_Incident</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: toptenz.net  
    Title: Top 10 Creepiest Alien Abductions  
-   Link: <a href="https://www.toptenz.net/top-10-creepiest-alien-abductions.php" target="_blank" rel="noopener noreferrer nofollow">https://www.toptenz.net/top-10-creepiest-alien-abductions.php</a>  
+   Link:<a href="https://www.toptenz.net/top-10-creepiest-alien-abductions.php" target="_blank" rel="noopener noreferrer nofollow">https://www.toptenz.net/top-10-creepiest-alien-abductions.php</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Alien abduction  
-   Link: <a href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_abduction</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_abduction</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufocasebook.com  
-   Link: <a href="https://www.ufocasebook.com/ufospilotspolicemilitary.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/ufospilotspolicemilitary.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Pilots, Police, MilitaryImage: UFO Casebook headgraphic UFOS - PILOTS, POLICE, MILITARY The cases below are a sample of the many U...</p></details>
+   Link:<a href="https://www.ufocasebook.com/ufospilotspolicemilitary.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/ufospilotspolicemilitary.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Pilots, Police, MilitaryImage: UFO Casebook headgraphic UFOS - PILOTS, POLICE, MILITARY The cases below are a sample of the many U...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: whipnet.com  
-   Link: <a href="https://www.whipnet.com/sites/ufo.whipnet.org/xdocs/travis.walton.1975/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.whipnet.com/sites/ufo.whipnet.org/xdocs/travis.walton.1975/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abductions | Travis Walton 1975September 9, 2006 — THE TRAVIS WALTON ABDUCTION 11.5.1975 (Posted 9.9.2006) Image: Travis Walton Abducti...</p></details>
+   Link:<a href="https://www.whipnet.com/sites/ufo.whipnet.org/xdocs/travis.walton.1975/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.whipnet.com/sites/ufo.whipnet.org/xdocs/travis.walton.1975/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abductions | Travis Walton 1975September 9, 2006 — THE TRAVIS WALTON ABDUCTION 11.5.1975 (Posted 9.9.2006) Image: Travis Walton Abducti...</p></details>
    Published: September 9, 2006  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/lawandcrime/posts/air-force-general-linked-to-ufo-research-disappears/1214006754230132/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lawandcrime/posts/air-force-general-linked-to-ufo-research-disappears/1214006754230132/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force General Linked to UFO Research DisappearsCharles Grusch, 36, is a U.S. Air Force veteran, intelligence official and UFO whistle...</p></details>
+   Link:<a href="https://www.facebook.com/lawandcrime/posts/air-force-general-linked-to-ufo-research-disappears/1214006754230132/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lawandcrime/posts/air-force-general-linked-to-ufo-research-disappears/1214006754230132/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force General Linked to UFO Research DisappearsCharles Grusch, 36, is a U.S. Air Force veteran, intelligence official and UFO whistle...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/download/situation-red-the-ufo-siege.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/situation-red-the-ufo-siege.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Situation Red: The UFO SiegeThrough his hidden operation, Stringfield learned of the serious Air Force concern over UFOs and its secret a...</p></details>
+   Link:<a href="https://dokumen.pub/download/situation-red-the-ufo-siege.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/situation-red-the-ufo-siege.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Situation Red: The UFO SiegeThrough his hidden operation, Stringfield learned of the serious Air Force concern over UFOs and its secret a...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: on december 17th 1969 the united states air force wrapped up their investigation  
-   Link: <a href="https://www.facebook.com/OriginsOSU/posts/on-december-17th-1969-the-united-states-air-force-wrapped-up-their-investigation/1764223284896438/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OriginsOSU/posts/on-december-17th-1969-the-united-states-air-force-wrapped-up-their-investigation/1764223284896438/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Investigation into UFOsOn December 17th, 1969, the United States Air Force wrapped up their investigation into unidentified...</p></details>
+   Link:<a href="https://www.facebook.com/OriginsOSU/posts/on-december-17th-1969-the-united-states-air-force-wrapped-up-their-investigation/1764223284896438/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OriginsOSU/posts/on-december-17th-1969-the-united-states-air-force-wrapped-up-their-investigation/1764223284896438/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Investigation into UFOsOn December 17th, 1969, the United States Air Force wrapped up their investigation into unidentified...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: kar.kent.ac.uk  
-   Link: <a href="https://kar.kent.ac.uk/86204/1/342159.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/86204/1/342159.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kent Academic Repositoryby S Palmer · 2000 · Cited by 1 — witnessed a UFO, and decided to file a report with the Air Police at Pease Air...</p></details>
+   Link:<a href="https://kar.kent.ac.uk/86204/1/342159.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/86204/1/342159.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kent Academic Repositoryby S Palmer · 2000 · Cited by 1 — witnessed a UFO, and decided to file a report with the Air Police at Pease Air...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: avalonlibrary.net  
-   Link: <a href="https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%201.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VoluMe t: CoMparative Study of Abduction Reports. by. ThoMa5 E. Bullard. BlooMinQton, Indiana. For. The Fund for UFO...Read more...</p></details>
+   Link:<a href="https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%201.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VoluMe t: CoMparative Study of Abduction Reports. by. ThoMa5 E. Bullard. BlooMinQton, Indiana. For. The Fund for UFO...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It soon closed Blue Book and (at least on the surface) ended its study of UFOs. Shortly after...Read more...</p></details>
+   Link:<a href="https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It soon closed Blue Book and (at least on the surface) ended its study of UFOs. Shortly after...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ufoinsight.com  
    Title: UF Os And Ominous Black Boxes: The Unknown Connection  
-   Link: <a href="https://www.ufoinsight.com/ufos/close-encounters/ufos-black-boxes-unknown-connection" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/close-encounters/ufos-black-boxes-unknown-connection</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs And Ominous Black Boxes: The Unknown Connection - UFO InsightNovember 25, 2017 — UFOS AND OMINOUS BLACK BOXES: THE UNKNOWN CONNECTIO...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/close-encounters/ufos-black-boxes-unknown-connection" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/close-encounters/ufos-black-boxes-unknown-connection</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs And Ominous Black Boxes: The Unknown Connection - UFO InsightNovember 25, 2017 — UFOS AND OMINOUS BLACK BOXES: THE UNKNOWN CONNECTIO...</p></details>
    Published: November 25, 2017  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: connectparanormal.net  
    Title: Charles Moody's UFO Encounter: A Detailed Account  
-   Link: <a href="https://connectparanormal.net/2024/06/29/charles-moodys-ufo-encounter-a-detailed-account/" target="_blank" rel="noopener noreferrer nofollow">https://connectparanormal.net/2024/06/29/charles-moodys-ufo-encounter-a-detailed-account/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Connect Paranormal BlogJune 29, 2024 — Image: UFO landing in the New Mexico Desert CHARLES MOODY’S UFO ENCOUNTER: A DETAILED ACCOUNT Air...</p></details>
+   Link:<a href="https://connectparanormal.net/2024/06/29/charles-moodys-ufo-encounter-a-detailed-account/" target="_blank" rel="noopener noreferrer nofollow">https://connectparanormal.net/2024/06/29/charles-moodys-ufo-encounter-a-detailed-account/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Connect Paranormal BlogJune 29, 2024 — Image: UFO landing in the New Mexico Desert CHARLES MOODY’S UFO ENCOUNTER: A DETAILED ACCOUNT Air...</p></details>
    Published: June 29, 2024  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ark, p. cm. Includes bibliographical references and index.Read more...</p></details>
+   Link:<a href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ark, p. cm. Includes bibliographical references and index.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dn721804.ca.archive.org  
    Title: Bad UFOs critical thinking about UFO claims  
-   Link: <a href="https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs_ Critical Thinking About UFO Claims14 Jan 2016 — was investigated as Case 5 of the University of Colorado&#x27;s Air-Force- sponsored Con...</p></details>
+   Link:<a href="https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs_ Critical Thinking About UFO Claims14 Jan 2016 — was investigated as Case 5 of the University of Colorado&#x27;s Air-Force- sponsored Con...</p></details>

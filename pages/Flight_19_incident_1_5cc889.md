@@ -758,27 +758,27 @@ image: /assets/images/Flight_19_incident_1_5cc889-overview-social.jpg
 
 ## What Actually Happened on 5 December 1945
 
-Flight 19 departed from U.S. Naval Air Station Fort Lauderdale at about 1410 local time on an authorised overwater navigation exercise. The Navy’s board of investigation identified the aircraft by bureau number and squadron number, and described the planned route: fly east to Hen and Chickens Shoals for low-level bombing practice, continue east, turn north, then turn back towards Fort Lauderdale. This was not a combat mission or a secret operation; it was a structured training problem for Avenger crews. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibiblio.org/hyperwar/USN/rep/Flight19/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[Ibiblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-snippet">Open source on ibiblio.org.</span></span></span>
+Flight 19 departed from U.S. Naval Air Station Fort Lauderdale at about 1410 local time on an authorised overwater navigation exercise. The Navy’s board of investigation identified the aircraft by bureau number and squadron number, and described the planned route: fly east to Hen and Chickens Shoals for low-level bombing practice, continue east, turn north, then turn back towards Fort Lauderdale. This was not a combat mission or a secret operation; it was a structured training problem for Avenger crews.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibiblio.org/hyperwar/USN/rep/Flight19/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[Ibiblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-snippet">Open source on ibiblio.org.</span></span></span>
 
 <img src="{{ "/assets/images/Flight_19_incident_1_5cc889-overview.webp" | relative_url }}" alt="Overview image for Flight 19 incident 1945" loading="eager" decoding="sync" fetchpriority="high">
-The flight leader was Lieutenant Charles Carroll Taylor, a qualified naval aviator with more than 2,500 flying hours and recent combat experience as a carrier-based torpedo-plane pilot. The other pilots were qualified naval aviators undergoing advanced training in the Avenger type, and the aircrew were also in training roles. This matters because simplified retellings often flatten the case into either “inexperienced trainees got lost” or “expert pilots vanished impossibly”. The actual picture is more mixed: an experienced instructor led a group that included trained but still-student Avenger pilots over water in aircraft that depended heavily on navigation discipline, radio coordination, and weather judgement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/USN%20Manuals%20and%20Reports/USN.Radar.Vol.1.Summ.Rpt.and.Harp.Project.1946.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[Ibiblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-snippet">Open source on ibiblio.org.</span></span></span>
+The flight leader was Lieutenant Charles Carroll Taylor, a qualified naval aviator with more than 2,500 flying hours and recent combat experience as a carrier-based torpedo-plane pilot. The other pilots were qualified naval aviators undergoing advanced training in the Avenger type, and the aircrew were also in training roles. This matters because simplified retellings often flatten the case into either “inexperienced trainees got lost” or “expert pilots vanished impossibly”. The actual picture is more mixed: an experienced instructor led a group that included trained but still-student Avenger pilots over water in aircraft that depended heavily on navigation discipline, radio coordination, and weather judgement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/USN%20Manuals%20and%20Reports/USN.Radar.Vol.1.Summ.Rpt.and.Harp.Project.1946.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[Ibiblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-snippet">Open source on ibiblio.org.</span></span></span>
 
-The early part of the exercise appears to have gone normally. A U.S. Naval Institute account, drawing on the official route description, reports that the flight reached Hen and Chickens Shoals and completed bombing practice around 1430, with another student pilot cleared to drop a remaining bomb around 1500. The trouble emerged after the turn away from the practice area, when radio traffic indicated that the flight had become unsure of its position. Taylor was heard saying that both of his compasses were out and that he believed he was over broken land in the Florida Keys, although the flight was probably over the Bahamas or north of them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usni.org/magazines/naval-history-magazine/2021/october/mysterious-disappearance-flight-19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usni.org">[U.S. Naval Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usni.org</span><span class="citation-popover-title">mysterious disappearance flight 19</span><span class="citation-popover-snippet">mysterious disappearance flight 19</span></span></span>
+The early part of the exercise appears to have gone normally. A U.S. Naval Institute account, drawing on the official route description, reports that the flight reached Hen and Chickens Shoals and completed bombing practice around 1430, with another student pilot cleared to drop a remaining bomb around 1500. The trouble emerged after the turn away from the practice area, when radio traffic indicated that the flight had become unsure of its position. Taylor was heard saying that both of his compasses were out and that he believed he was over broken land in the Florida Keys, although the flight was probably over the Bahamas or north of them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usni.org/magazines/naval-history-magazine/2021/october/mysterious-disappearance-flight-19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usni.org">[U.S. Naval Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usni.org</span><span class="citation-popover-title">mysterious disappearance flight 19</span><span class="citation-popover-snippet">mysterious disappearance flight 19</span></span></span>
 
 ## The Radio Trail Shows Confusion, Not a Clean Mystery
 
-The radio record is the core of the case. Naval findings state that Fort Lauderdale learned at 1611 that FT-28, Taylor’s aircraft, was uncertain of its position. By 1647, high-frequency direction-finding networks were alerted to obtain bearings on transmissions from FT-28, and by about 1750 an approximate fix placed the aircraft within a 100-mile radius of 29 degrees 15 minutes north, 79 degrees west. That position put the flight north of the Bahamas and well off the Florida coast, not where Taylor believed he was. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%207.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[Ibiblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-snippet">Open source on ibiblio.org.</span></span></span>
+The radio record is the core of the case. Naval findings state that Fort Lauderdale learned at 1611 that FT-28, Taylor’s aircraft, was uncertain of its position. By 1647, high-frequency direction-finding networks were alerted to obtain bearings on transmissions from FT-28, and by about 1750 an approximate fix placed the aircraft within a 100-mile radius of 29 degrees 15 minutes north, 79 degrees west. That position put the flight north of the Bahamas and well off the Florida coast, not where Taylor believed he was.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%207.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[Ibiblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-snippet">Open source on ibiblio.org.</span></span></span>
 
-The most revealing detail is that some people in or around the flight appear to have understood the practical solution: fly west. The U.S. Naval Institute account notes that a voice on the recordings complained that if they could simply fly west, they would get home. The problem was that Taylor’s mental map seems to have been wrong. If he thought he was near the Keys or over the Gulf of Mexico, a north-easterly course could seem sensible; if he was actually east of Florida, it could carry the formation farther out to sea. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usni.org/magazines/naval-history-magazine/2021/october/mysterious-disappearance-flight-19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usni.org">[U.S. Naval Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usni.org</span><span class="citation-popover-title">mysterious disappearance flight 19</span><span class="citation-popover-snippet">mysterious disappearance flight 19</span></span></span>
+The most revealing detail is that some people in or around the flight appear to have understood the practical solution: fly west. The U.S. Naval Institute account notes that a voice on the recordings complained that if they could simply fly west, they would get home. The problem was that Taylor’s mental map seems to have been wrong. If he thought he was near the Keys or over the Gulf of Mexico, a north-easterly course could seem sensible; if he was actually east of Florida, it could carry the formation farther out to sea.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usni.org/magazines/naval-history-magazine/2021/october/mysterious-disappearance-flight-19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usni.org">[U.S. Naval Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usni.org</span><span class="citation-popover-title">mysterious disappearance flight 19</span><span class="citation-popover-snippet">mysterious disappearance flight 19</span></span></span>
 
-This is why Flight 19 is so often misread. The case does not rest on one dramatic final message about aliens, magnetic forces, or impossible skies. It rests on a slow, compounding failure: uncertain position, disputed headings, fading radio reception, changing weather, sunset, and delayed or imperfect relay of direction-finding information. The Navy’s own findings show rescue and command organisations becoming aware of the problem during the afternoon, but they also show the practical difficulty of turning scattered radio bearings, weak transmissions, and confused cockpit reports into a successful recovery before fuel ran out. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/USN%20Manuals%20and%20Reports/USN.Glossary.Abbreviations.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[Ibiblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-snippet">Open source on ibiblio.org.</span></span></span>
+This is why Flight 19 is so often misread. The case does not rest on one dramatic final message about aliens, magnetic forces, or impossible skies. It rests on a slow, compounding failure: uncertain position, disputed headings, fading radio reception, changing weather, sunset, and delayed or imperfect relay of direction-finding information. The Navy’s own findings show rescue and command organisations becoming aware of the problem during the afternoon, but they also show the practical difficulty of turning scattered radio bearings, weak transmissions, and confused cockpit reports into a successful recovery before fuel ran out.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/USN%20Manuals%20and%20Reports/USN.Glossary.Abbreviations.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[Ibiblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-snippet">Open source on ibiblio.org.</span></span></span>
 
 <img src="{{ "/assets/images/Flight_19_incident_1_5cc889-Illustration-1-dark.svg" | relative_url }}" alt="Flight 19 incident 1945 illustration 1" data-theme-src-dark="{{ "/assets/images/Flight_19_incident_1_5cc889-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Flight_19_incident_1_5cc889-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Official Explanation Changed
 
-The Navy board originally framed the loss around navigational error and Taylor’s uncertainty about the position of the Florida peninsula. The National Archives’ discussion of the [official record]({{ 'official-record/' | relative_url }}) summarises the Navy’s conclusion as pilot error leading the aircraft into a situation where they had to ditch in darkness and poor weather. However, the case did not end neatly there. Taylor’s mother challenged the implication that her son had been responsible when neither bodies nor aircraft had been recovered, and later accounts note that the finding was softened to “cause unknown” with respect to assigning personal blame. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2017/10/16/uncertain-as-to-in-what-position-lay-the-peninsula-of-florida-the-official-record-and-the-loss-of-flight-19/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-title">Pieces of History The Official Record and the Loss of Flight 19</span><span class="citation-popover-snippet">Pieces of History The Official Record and the Loss of Flight 19</span></span></span>
+The Navy board originally framed the loss around navigational error and Taylor’s uncertainty about the position of the Florida peninsula. The National Archives’ discussion of the [official record]({{ 'official-record/' | relative_url }}) summarises the Navy’s conclusion as pilot error leading the aircraft into a situation where they had to ditch in darkness and poor weather. However, the case did not end neatly there. Taylor’s mother challenged the implication that her son had been responsible when neither bodies nor aircraft had been recovered, and later accounts note that the finding was softened to “cause unknown” with respect to assigning personal blame.<span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2017/10/16/uncertain-as-to-in-what-position-lay-the-peninsula-of-florida-the-official-record-and-the-loss-of-flight-19/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-title">Pieces of History The Official Record and the Loss of Flight 19</span><span class="citation-popover-snippet">Pieces of History The Official Record and the Loss of Flight 19</span></span></span>
 
-That distinction is important. “Cause unknown” does not mean all explanations are equally supported. It means the Navy could not prove the final chain of causation with wreckage, bodies, flight recorders, or survivor testimony. The documentary evidence still strongly supports a mundane accident sequence: Taylor’s mistaken location, disagreement over course, increasingly poor conditions, darkness, and eventual fuel exhaustion. But because the physical end point was never recovered, the official wording became more cautious than many later summaries suggest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibiblio.org/hyperwar/PTO/Iwo/ComTaskForFiftyThreeOpPlanA162-44/ComTaskForFiftyThreeOpPlanA162-44.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[Ibiblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-snippet">Open source on ibiblio.org.</span></span></span>
+That distinction is important. “Cause unknown” does not mean all explanations are equally supported. It means the Navy could not prove the final chain of causation with wreckage, bodies, flight recorders, or survivor testimony. The documentary evidence still strongly supports a mundane accident sequence: Taylor’s mistaken location, disagreement over course, increasingly poor conditions, darkness, and eventual fuel exhaustion. But because the physical end point was never recovered, the official wording became more cautious than many later summaries suggest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibiblio.org/hyperwar/PTO/Iwo/ComTaskForFiftyThreeOpPlanA162-44/ComTaskForFiftyThreeOpPlanA162-44.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[Ibiblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-snippet">Open source on ibiblio.org.</span></span></span>
 
 A fair reading therefore separates two questions. The probable operational cause was loss of situational awareness during an overwater navigation flight. The formal evidential status remains less complete because the aircraft were never found. That gap is the space in which the Bermuda Triangle story, UFO speculation, and later popular myth all expanded.
 
@@ -786,20 +786,20 @@ A fair reading therefore separates two questions. The probable operational cause
 
 ## The Rescue Plane Loss Added a Second Tragedy
 
-The disappearance of the [PBM Mariner rescue]({{ 'rescue-plane/' | relative_url }}) aircraft made Flight 19 feel even more uncanny. The Navy findings record that PBM-5 BuNo 59225 departed Naval Air Station Banana River at about 1927 on an authorised air-sea rescue search and sent an “out” report around 1930. No further communications were received from the aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ibiblio.org/pha/A%20CENTURY%20OF%20US%20NAVAL%20INTELLIGENCE.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[Ibiblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-snippet">Open source on ibiblio.org.</span></span></span>
+The disappearance of the [PBM Mariner rescue]({{ 'rescue-plane/' | relative_url }}) aircraft made Flight 19 feel even more uncanny. The Navy findings record that PBM-5 BuNo 59225 departed Naval Air Station Banana River at about 1927 on an authorised air-sea rescue search and sent an “out” report around 1930. No further communications were received from the aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ibiblio.org/pha/A%20CENTURY%20OF%20US%20NAVAL%20INTELLIGENCE.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[Ibiblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-snippet">Open source on ibiblio.org.</span></span></span>
 
-Unlike the Avengers, the Mariner left a stronger external clue. At 2115, the tanker SS Gaines Mills reported seeing a burst of flames, apparently an explosion, with flames rising about 100 feet and burning for ten minutes, followed by a large oil pool. USS Solomons also reported that radar showed a plane disappearing from the screen at the same time and place as the reported flames. A concentrated search from 6 to 10 December found no debris or crew evidence, but the contemporaneous witness and radar information make an in-flight explosion the most plausible explanation for the Mariner’s loss. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibiblio.org/hyperwar/PTO/Iwo/VthPhibCorpsLandingForceIwoJima/VthPhibCorpsAAR-SpecStaffSection-Reports-2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[Ibiblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-title">Special Staff Section Reports</span><span class="citation-popover-snippet">Special Staff Section Reports</span></span></span>
+Unlike the Avengers, the Mariner left a stronger external clue. At 2115, the tanker SS Gaines Mills reported seeing a burst of flames, apparently an explosion, with flames rising about 100 feet and burning for ten minutes, followed by a large oil pool. USS Solomons also reported that radar showed a plane disappearing from the screen at the same time and place as the reported flames. A concentrated search from 6 to 10 December found no debris or crew evidence, but the contemporaneous witness and radar information make an in-flight explosion the most plausible explanation for the Mariner’s loss.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibiblio.org/hyperwar/PTO/Iwo/VthPhibCorpsLandingForceIwoJima/VthPhibCorpsAAR-SpecStaffSection-Reports-2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[Ibiblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-title">Special Staff Section Reports</span><span class="citation-popover-snippet">Special Staff Section Reports</span></span></span>
 
 This second loss is often used to imply that the same mysterious force swallowed both missions. The better-supported interpretation is more prosaic and more tragic: one formation was already lost and low on options; one rescue aircraft likely suffered a catastrophic accident during the search. The pairing made the story memorable, but the evidence for the PBM loss is not the same as the evidence for the Avenger loss.
 
 <img src="{{ "/assets/images/Flight_19_incident_1_5cc889-Illustration-2-dark.svg" | relative_url }}" alt="Flight 19 incident 1945 illustration 2" data-theme-src-dark="{{ "/assets/images/Flight_19_incident_1_5cc889-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Flight_19_incident_1_5cc889-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Evidence Exists — and What Is Missing
 
-The strongest evidence in the Flight 19 case is documentary and radio-based, not physical. The Navy investigation preserved aircraft identities, crew assignments, planned route, training status, communications chronology, direction-finding efforts, search operations, and the reported explosion associated with the PBM. The Naval Air Station Fort Lauderdale Museum also preserves local history, crew details, and the memorial frame through which the case is remembered in Fort Lauderdale. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibiblio.org/hyperwar/PTO/Iwo/ComPhibGruTwoIwoJima/ComPhibGruTwoIwoJimaAAR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[Ibiblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-snippet">Open source on ibiblio.org.</span></span></span>
+The strongest evidence in the Flight 19 case is documentary and radio-based, not physical. The Navy investigation preserved aircraft identities, crew assignments, planned route, training status, communications chronology, direction-finding efforts, search operations, and the reported explosion associated with the PBM. The Naval Air Station Fort Lauderdale Museum also preserves local history, crew details, and the memorial frame through which the case is remembered in Fort Lauderdale.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibiblio.org/hyperwar/PTO/Iwo/ComPhibGruTwoIwoJima/ComPhibGruTwoIwoJimaAAR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[Ibiblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-snippet">Open source on ibiblio.org.</span></span></span>
 
-The weakest point is physical recovery. The Navy’s findings state that extensive searches from 6 to 10 December failed to locate wreckage or survivors from the five TBMs, and that searches in the reported PBM explosion area found no debris or crew evidence. Later discoveries of Avenger wreckage off Florida have sometimes been linked in popular coverage to Flight 19, but such identifications have not produced a confirmed recovery of the five missing aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibiblio.org/hyperwar/USN/rep/Flight19/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[Ibiblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-snippet">Open source on ibiblio.org.</span></span></span>
+The weakest point is physical recovery. The Navy’s findings state that extensive searches from 6 to 10 December failed to locate wreckage or survivors from the five TBMs, and that searches in the reported PBM explosion area found no debris or crew evidence. Later discoveries of Avenger wreckage off Florida have sometimes been linked in popular coverage to Flight 19, but such identifications have not produced a confirmed recovery of the five missing aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibiblio.org/hyperwar/USN/rep/Flight19/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[Ibiblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-snippet">Open source on ibiblio.org.</span></span></span>
 
-That absence should not be overstated. Aircraft lost at sea in 1945, especially in darkness, roughening weather, and broad search areas, could disappear without leaving recoverable evidence. The Gulf Stream and deep Atlantic water off Florida also complicate recovery and drift assumptions. NOAA’s general discussion of the Bermuda Triangle notes that the Gulf Stream can cause rapid weather changes, that the region contains hazardous shallow waters, and that the U.S. Navy and Coast Guard do not recognise supernatural explanations for such losses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oceanservice.noaa.gov/facts/bermudatri.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oceanservice.noaa.gov">[National Ocean Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oceanservice.noaa.gov</span><span class="citation-popover-title">National Ocean Service What is the Bermuda Triangle?</span><span class="citation-popover-snippet">National Ocean Service What is the Bermuda Triangle?</span></span></span>
+That absence should not be overstated. Aircraft lost at sea in 1945, especially in darkness, roughening weather, and broad search areas, could disappear without leaving recoverable evidence. The Gulf Stream and deep Atlantic water off Florida also complicate recovery and drift assumptions. NOAA’s general discussion of the Bermuda Triangle notes that the Gulf Stream can cause rapid weather changes, that the region contains hazardous shallow waters, and that the U.S. Navy and Coast Guard do not recognise supernatural explanations for such losses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oceanservice.noaa.gov/facts/bermudatri.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oceanservice.noaa.gov">[National Ocean Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oceanservice.noaa.gov</span><span class="citation-popover-title">National Ocean Service What is the Bermuda Triangle?</span><span class="citation-popover-snippet">National Ocean Service What is the Bermuda Triangle?</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qOj5PJMi8Vs" title="A Brief History of: Flight 19" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qOj5PJMi8Vs" target="_blank" rel="noopener noreferrer">A Brief History of: Flight 19</a></p><p class="youtube-embed-meta">Channel: Plainly Difficult &middot; Views: 103.2K &middot; Uploaded: June 2017 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qOj5PJMi8Vs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qOj5PJMi8Vs">Open on YouTube</a></p></div></div></div>
 
@@ -807,208 +807,208 @@ That absence should not be overstated. Aircraft lost at sea in 1945, especially 
 
 Flight 19 is often placed in UFO and paranormal catalogues because of its disappearance, its later association with the Bermuda Triangle, and its role in films and mystery books. As a UFO case, however, it is weak. There is no solid contemporaneous evidence of an unidentified craft, no radar track of an anomalous object, no recovered physical trace pointing to non-human technology, and no reliable witness testimony describing a structured aerial object interacting with the flight.
 
-The case is better understood as a missing-aircraft incident that later became part of the folklore ecosystem around UFOs, alien abduction, and the Bermuda Triangle. That later cultural layer is real and historically important, but it is not the same thing as evidence from 5 December 1945. Smithsonian’s later historical treatment notes the way Flight 19 fed the Bermuda Triangle myth and how popular culture, including Close Encounters of the Third Kind, folded the missing crew into alien-abduction imagery. That tells us much about post-war myth-making, but little about the actual cause of the loss. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/history/how-the-disappearance-of-flight-19-a-navy-squadron-lost-in-1945-fueled-the-legend-of-the-bermuda-triangle-180987759/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The case is better understood as a missing-aircraft incident that later became part of the folklore ecosystem around UFOs, alien abduction, and the Bermuda Triangle. That later cultural layer is real and historically important, but it is not the same thing as evidence from 5 December 1945. Smithsonian’s later historical treatment notes the way Flight 19 fed the Bermuda Triangle myth and how popular culture, including Close Encounters of the Third Kind, folded the missing crew into alien-abduction imagery. That tells us much about post-war myth-making, but little about the actual cause of the loss.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/history/how-the-disappearance-of-flight-19-a-navy-squadron-lost-in-1945-fueled-the-legend-of-the-bermuda-triangle-180987759/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For a case dossier, the cleanest classification is: unexplained final wreck location, probably explained operational chain, no strong UFO evidence. The mystery is not whether a strange object was observed; it is why a trained formation could not recover its position in time, and why the ocean has not yielded a confirmed wreck.
 
 <img src="{{ "/assets/images/Flight_19_incident_1_5cc889-Illustration-3-dark.svg" | relative_url }}" alt="Flight 19 incident 1945 illustration 3" data-theme-src-dark="{{ "/assets/images/Flight_19_incident_1_5cc889-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Flight_19_incident_1_5cc889-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Bermuda Triangle Myth Changed the Case
 
-The Bermuda Triangle label came after the incident, not before it. National Geographic notes that Vincent Gaddis coined the term “Bermuda Triangle” in a 1964 Argosy article about Flight 19 and other disappearances, helping create a wider pattern narrative around a loosely defined region. NOAA similarly treats the Bermuda Triangle as an alleged region of mysterious disappearances rather than an officially recognised geographic area, and says the U.S. Board on Geographic Names does not recognise it as an official name. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/premium/article/bermuda-triangle-mystery-disappearance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">bermuda triangle mystery disappearance</span><span class="citation-popover-snippet">bermuda triangle mystery disappearance</span></span></span>
+The Bermuda Triangle label came after the incident, not before it. National Geographic notes that Vincent Gaddis coined the term “Bermuda Triangle” in a 1964 Argosy article about Flight 19 and other disappearances, helping create a wider pattern narrative around a loosely defined region. NOAA similarly treats the Bermuda Triangle as an alleged region of mysterious disappearances rather than an officially recognised geographic area, and says the U.S. Board on Geographic Names does not recognise it as an official name.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/premium/article/bermuda-triangle-mystery-disappearance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">bermuda triangle mystery disappearance</span><span class="citation-popover-snippet">bermuda triangle mystery disappearance</span></span></span>
 
 This matters because “Flight 19 disappeared in the Bermuda Triangle” sounds as if the region was already an established danger zone in 1945. In reality, the later label retrofitted the loss into a broader mystery. The case helped create the Triangle’s reputation, and then the Triangle’s reputation made the case seem more mysterious in return.
 
-Sceptical researchers have long argued that the Bermuda Triangle tradition often depends on selective retelling. Larry Kusche, whose work is discussed in Skeptical Inquirer, treated Flight 19 as central to the entire Triangle legend and argued that the broader myth grew through exaggeration, missing context, and weak checking of original records. That critique does not make Flight 19 unimportant; it makes the primary record more important, because the case has been repeatedly reshaped by later storytelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2015/11/the-bermuda-triangle-mystery-delusion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Sceptical researchers have long argued that the Bermuda Triangle tradition often depends on selective retelling. Larry Kusche, whose work is discussed in Skeptical Inquirer, treated Flight 19 as central to the entire Triangle legend and argued that the broader myth grew through exaggeration, missing context, and weak checking of original records. That critique does not make Flight 19 unimportant; it makes the primary record more important, because the case has been repeatedly reshaped by later storytelling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2015/11/the-bermuda-triangle-mystery-delusion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wg3UC0dWHk4" title="Flight 19: The Bermuda Triangle&#x27;s Strangest Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wg3UC0dWHk4" target="_blank" rel="noopener noreferrer">Flight 19: The Bermuda Triangle&#x27;s Strangest Mystery</a></p><p class="youtube-embed-meta">Channel: Decoding the Unknown &middot; Views: 174.7K &middot; Uploaded: September 2023 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wg3UC0dWHk4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wg3UC0dWHk4">Open on YouTube</a></p></div></div></div>
 
 ## The Most Plausible Reconstruction
 
-The most plausible reconstruction is a chain of ordinary failures under unforgiving conditions. Flight 19 completed its early exercise, then became confused after a turn. Taylor believed he was near the Keys or otherwise misread the broken islands below him. Some other pilots or crew members appear to have favoured flying west, which would have been the safer choice if they were east of Florida. Radio communications were poor, direction-finding information arrived too late or was not effectively used, sunset removed visual cues, and weather deteriorated. With fuel running down, the formation likely ditched at sea. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/USN%20Manuals%20and%20Reports/USN.Radar.Vol.1.Summ.Rpt.and.Harp.Project.1946.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[Ibiblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-snippet">Open source on ibiblio.org.</span></span></span>
+The most plausible reconstruction is a chain of ordinary failures under unforgiving conditions. Flight 19 completed its early exercise, then became confused after a turn. Taylor believed he was near the Keys or otherwise misread the broken islands below him. Some other pilots or crew members appear to have favoured flying west, which would have been the safer choice if they were east of Florida. Radio communications were poor, direction-finding information arrived too late or was not effectively used, sunset removed visual cues, and weather deteriorated. With fuel running down, the formation likely ditched at sea.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/USN%20Manuals%20and%20Reports/USN.Radar.Vol.1.Summ.Rpt.and.Harp.Project.1946.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[Ibiblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-snippet">Open source on ibiblio.org.</span></span></span>
 
-The PBM Mariner was a separate loss during the search. The SS Gaines Mills report of flames and oil, together with the radar report from USS Solomons, gives that disappearance a more specific likely mechanism: an explosion at sea shortly after departure on the search mission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%207.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[Ibiblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-snippet">Open source on ibiblio.org.</span></span></span>
+The PBM Mariner was a separate loss during the search. The SS Gaines Mills report of flames and oil, together with the radar report from USS Solomons, gives that disappearance a more specific likely mechanism: an explosion at sea shortly after departure on the search mission.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%207.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[Ibiblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-snippet">Open source on ibiblio.org.</span></span></span>
 
 What remains genuinely unresolved is the exact crash location of the five Avengers and the final minute-by-minute sequence after the last transmissions. Without wreckage, those details cannot be closed. But the evidential balance is not evenly split between normal accident and extraordinary event. The normal accident explanation accounts for the known record with fewer assumptions and better source support.
 
 ## Why Flight 19 Still Holds Attention
 
-Flight 19 endures because it combines several powerful ingredients: multiple aircraft lost together, confused last communications, a failed rescue mission, no recovered wreckage, and a later mythic setting. It also happened just months after the Second World War, when many of the men involved had survived combat or were close to returning to ordinary life. The Fort Lauderdale museum’s crew records underline that this was not an abstract mystery but a human loss involving named pilots, radiomen, gunners, and rescue crew. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasflmuseum.com/flight-19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasflmuseum.com">[Naval Air Station Fort Lauderdale Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasflmuseum.com</span><span class="citation-popover-title">Naval Air Station Fort Lauderdale Museum Flight 19 the Lost Avengers</span><span class="citation-popover-snippet">Naval Air Station Fort Lauderdale Museum Flight 19 the Lost Avengers</span></span></span>
+Flight 19 endures because it combines several powerful ingredients: multiple aircraft lost together, confused last communications, a failed rescue mission, no recovered wreckage, and a later mythic setting. It also happened just months after the Second World War, when many of the men involved had survived combat or were close to returning to ordinary life. The Fort Lauderdale museum’s crew records underline that this was not an abstract mystery but a human loss involving named pilots, radiomen, gunners, and rescue crew.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasflmuseum.com/flight-19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasflmuseum.com">[Naval Air Station Fort Lauderdale Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasflmuseum.com</span><span class="citation-popover-title">Naval Air Station Fort Lauderdale Museum Flight 19 the Lost Avengers</span><span class="citation-popover-snippet">Naval Air Station Fort Lauderdale Museum Flight 19 the Lost Avengers</span></span></span>
 
 The best way to read the case is neither to dismiss it as solved in every detail nor to inflate it into evidence of UFO intervention. Flight 19 is a serious aviation loss with a well-documented navigational crisis and an unresolved physical endpoint. Its strongest lesson is about how quickly navigation, authority, weather, radio limits, and nightfall can turn a routine training flight into a disaster — and how, when wreckage is missing, a tragic accident can become a cultural legend.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened to Flight 19?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened to Flight 19?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Field+Guide+to+Fly+Fishing+by+Dennis+Bitton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Field Guide to Fly Fishing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TudBvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Field Guide to Fly Fishing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Field+Guide+to+Fly+Fishing+by+Dennis+Bitton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Field Guide to Fly Fishing">A Field Guide to Fly Fishing</a>
-        </h4>
-        <p class="fr-book-author">By Dennis Bitton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Field+Guide+to+Fly+Fishing+by+Dennis+Bitton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Field Guide to Fly Fishing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TudBvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Field Guide to Fly Fishing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Field+Guide+to+Fly+Fishing+by+Dennis+Bitton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Field Guide to Fly Fishing">A Field Guide to Fly Fishing</a>
+</h4>
+<p class="fr-book-author">By Dennis Bitton</p>
         
-        <p class="fr-book-desc">Chronicles the missing TBM Avenger torpedo bombers, reviewing the complete absence of wreckage and subsequent search operations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Field+Guide+to+Fly+Fishing+by+Dennis+Bitton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Chronicles the missing TBM Avenger torpedo bombers, reviewing the complete absence of wreckage and subsequent search operations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Field+Guide+to+Fly+Fishing+by+Dennis+Bitton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fleet+at+Flood+Tide+by+James+D.+Hornfischer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fleet at Flood Tide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5zA7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fleet at Flood Tide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Fleet+at+Flood+Tide+by+James+D.+Hornfischer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fleet at Flood Tide">The Fleet at Flood Tide</a>
-        </h4>
-        <p class="fr-book-author">By James D. Hornfischer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fleet+at+Flood+Tide+by+James+D.+Hornfischer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fleet at Flood Tide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5zA7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fleet at Flood Tide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Fleet+at+Flood+Tide+by+James+D.+Hornfischer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fleet at Flood Tide">The Fleet at Flood Tide</a>
+</h4>
+<p class="fr-book-author">By James D. Hornfischer</p>
         
-        <p class="fr-book-desc">Establishes the procedural baseline of post-war Navy flight commands, training operations, and overwater scouting doctrines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Fleet+at+Flood+Tide+by+James+D.+Hornfischer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Establishes the procedural baseline of post-war Navy flight commands, training operations, and overwater scouting doctrines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Fleet+at+Flood+Tide+by+James+D.+Hornfischer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Bermuda+Triangle+Mystery+-+Solved+Lawrence+David+Kusche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Bermuda Triangle Mystery - Solved on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Bermuda+Triangle+Mystery+-+Solved+Lawrence+David+Kusche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bermuda Triangle Mystery - Solved">The Bermuda Triangle Mystery - Solved</a>
-        </h4>
-        <p class="fr-book-author">By Lawrence David Kusche</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Bermuda+Triangle+Mystery+-+Solved+Lawrence+David+Kusche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Bermuda Triangle Mystery - Solved on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Bermuda+Triangle+Mystery+-+Solved+Lawrence+David+Kusche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bermuda Triangle Mystery - Solved">The Bermuda Triangle Mystery - Solved</a>
+</h4>
+<p class="fr-book-author">By Lawrence David Kusche</p>
         
-        <p class="fr-book-desc">Devotes major core sections to Flight 19, detailing the 5 December 1945 NAS Fort Lauderdale training route and Charles Taylor&#x27;s records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Bermuda+Triangle+Mystery+-+Solved+Lawrence+David+Kusche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Devotes major core sections to Flight 19, detailing the 5 December 1945 NAS Fort Lauderdale training route and Charles Taylor&#x27;s records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Bermuda+Triangle+Mystery+-+Solved+Lawrence+David+Kusche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Planes%2C+Names+%26+Dames%3A+1940-1945+by+Larry+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Planes, Names &amp; Dames: 1940-1945 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Planes%2C+Names+%26+Dames%3A+1940-1945+by+Larry+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Planes, Names &amp; Dames: 1940-1945">Planes, Names &amp; Dames: 1940-1945</a>
-        </h4>
-        <p class="fr-book-author">By Larry Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Planes%2C+Names+%26+Dames%3A+1940-1945+by+Larry+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Planes, Names &amp; Dames: 1940-1945 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Planes%2C+Names+%26+Dames%3A+1940-1945+by+Larry+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Planes, Names &amp; Dames:">Planes, Names &amp; Dames:</a>
+</h4>
+<p class="fr-book-author">By Larry Davis</p>
         
-        <p class="fr-book-desc">Provides extensive diagrams of the Avenger torpedo plane&#x27;s navigation instruments, cockpit layouts, and fuel system tolerances.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Planes%2C+Names+%26+Dames%3A+1940-1945+by+Larry+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides extensive diagrams of the Avenger torpedo plane&#x27;s navigation instruments, cockpit layouts, and fuel system tolerances.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Planes%2C+Names+%26+Dames%3A+1940-1945+by+Larry+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Field+to+Fly+Fishing+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Field to Fly Fishing books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fleet+at+Flood+Tide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fleet at Flood Tide</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Bermuda+Triangle+Mystery+Solved&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Bermuda Triangle Mystery Solved</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Field+to+Fly+Fishing+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Field to Fly Fishing books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fleet+at+Flood+Tide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fleet at Flood Tide</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Bermuda+Triangle+Mystery+Solved&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Bermuda Triangle Mystery Solved</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hasegawa Grumman TBF/TBM Avenger Eggplane Non-scale Model Aircraft Kit TH28-601"><img src="{{ '/assets/images/marketplace-covers/dd4319fd5be42d3fb448.jpg' | relative_url }}" alt="Listing image for Hasegawa Grumman TBF/TBM Avenger Eggplane Non-scale Model Aircraft Kit TH28-601" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer">Hasegawa Grumman TBF/TBM Avenger Eggplane Non-scale Model Aircraft Kit TH28-601</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for TBM Avenger model">Search <span data-ebay-domain-label>eBay.co.uk</span>: TBM Avenger model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hasegawa Grumman TBF/TBM Avenger Eggplane Non-scale Model Aircraft Kit TH28-601"><img src="{{ '/assets/images/marketplace-covers/dd4319fd5be42d3fb448.jpg' | relative_url }}" alt="Listing image for Hasegawa Grumman TBF/TBM Avenger Eggplane Non-scale Model Aircraft Kit TH28-601" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer">Hasegawa Grumman TBF/TBM Avenger Eggplane Non-scale Model Aircraft Kit TH28-601</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for TBM Avenger model">Search<span data-ebay-domain-label>eBay.co.uk</span>: TBM Avenger model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy Grumman TBM-3 Avenger 1:48 Scale Model Kit USS Bunker Hill Pro Built"><img src="{{ '/assets/images/marketplace-covers/6d74a47a338fc6da1212.jpg' | relative_url }}" alt="Listing image for Academy Grumman TBM-3 Avenger 1:48 Scale Model Kit USS Bunker Hill Pro Built" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer">Academy Grumman TBM-3 Avenger 1:48 Scale Model Kit USS Bunker Hill Pro Built</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for TBM Avenger model">Search <span data-ebay-domain-label>eBay.co.uk</span>: TBM Avenger model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy Grumman TBM-3 Avenger 1:48 Scale Model Kit USS Bunker Hill Pro Built"><img src="{{ '/assets/images/marketplace-covers/6d74a47a338fc6da1212.jpg' | relative_url }}" alt="Listing image for Academy Grumman TBM-3 Avenger 1:48 Scale Model Kit USS Bunker Hill Pro Built" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer">Academy Grumman TBM-3 Avenger 1:48 Scale Model Kit USS Bunker Hill Pro Built</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for TBM Avenger model">Search<span data-ebay-domain-label>eBay.co.uk</span>: TBM Avenger model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bravo Delta Models TBM Avenger Desk Model Aircraft RCN Fleet Air Arm Display"><img src="{{ '/assets/images/marketplace-covers/446d2a65ee4841da1674.jpg' | relative_url }}" alt="Listing image for Bravo Delta Models TBM Avenger Desk Model Aircraft RCN Fleet Air Arm Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer">Bravo Delta Models TBM Avenger Desk Model Aircraft RCN Fleet Air Arm Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for TBM Avenger model">Search <span data-ebay-domain-label>eBay.co.uk</span>: TBM Avenger model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bravo Delta Models TBM Avenger Desk Model Aircraft RCN Fleet Air Arm Display"><img src="{{ '/assets/images/marketplace-covers/446d2a65ee4841da1674.jpg' | relative_url }}" alt="Listing image for Bravo Delta Models TBM Avenger Desk Model Aircraft RCN Fleet Air Arm Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer">Bravo Delta Models TBM Avenger Desk Model Aircraft RCN Fleet Air Arm Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for TBM Avenger model">Search<span data-ebay-domain-label>eBay.co.uk</span>: TBM Avenger model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="flight-19-incident-1945-what-really-happened-to-flight-19-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1024,7 +1024,7 @@ The best way to read the case is neither to dismiss it as solved in every detail
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1044,7 +1044,7 @@ The best way to read the case is neither to dismiss it as solved in every detail
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1076,7 +1076,7 @@ The best way to read the case is neither to dismiss it as solved in every detail
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1128,7 +1128,7 @@ The best way to read the case is neither to dismiss it as solved in every detail
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1173,7 +1173,7 @@ The best way to read the case is neither to dismiss it as solved in every detail
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1214,171 +1214,171 @@ The best way to read the case is neither to dismiss it as solved in every detail
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ibiblio.org  
-   Link: <a href="https://www.ibiblio.org/hyperwar/USN/rep/Flight19/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ibiblio.org/hyperwar/USN/rep/Flight19/index.html</a>  
+   Link:<a href="https://www.ibiblio.org/hyperwar/USN/rep/Flight19/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ibiblio.org/hyperwar/USN/rep/Flight19/index.html</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: oceanservice.noaa.gov  
    Title: National Ocean Service What is the Bermuda Triangle?  
-   Link: <a href="https://oceanservice.noaa.gov/facts/bermudatri.html" target="_blank" rel="noopener noreferrer nofollow">https://oceanservice.noaa.gov/facts/bermudatri.html</a>  
+   Link:<a href="https://oceanservice.noaa.gov/facts/bermudatri.html" target="_blank" rel="noopener noreferrer nofollow">https://oceanservice.noaa.gov/facts/bermudatri.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: prologue.blogs.archives.gov  
    Title: Pieces of History The Official Record and the Loss of Flight 19  
-   Link: <a href="https://prologue.blogs.archives.gov/2017/10/16/uncertain-as-to-in-what-position-lay-the-peninsula-of-florida-the-official-record-and-the-loss-of-flight-19/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2017/10/16/uncertain-as-to-in-what-position-lay-the-peninsula-of-florida-the-official-record-and-the-loss-of-flight-19/</a>  
+   Link:<a href="https://prologue.blogs.archives.gov/2017/10/16/uncertain-as-to-in-what-position-lay-the-peninsula-of-florida-the-official-record-and-the-loss-of-flight-19/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2017/10/16/uncertain-as-to-in-what-position-lay-the-peninsula-of-florida-the-official-record-and-the-loss-of-flight-19/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ibiblio.org  
-   Link: <a href="https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/USN%20Manuals%20and%20Reports/USN.Radar.Vol.1.Summ.Rpt.and.Harp.Project.1946.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/USN%20Manuals%20and%20Reports/USN.Radar.Vol.1.Summ.Rpt.and.Harp.Project.1946.pdf</a>  
+   Link:<a href="https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/USN%20Manuals%20and%20Reports/USN.Radar.Vol.1.Summ.Rpt.and.Harp.Project.1946.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/USN%20Manuals%20and%20Reports/USN.Radar.Vol.1.Summ.Rpt.and.Harp.Project.1946.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ibiblio.org  
-   Link: <a href="https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%207.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%207.pdf</a>  
+   Link:<a href="https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%207.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%207.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ibiblio.org  
-   Link: <a href="https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/USN%20Manuals%20and%20Reports/USN.Glossary.Abbreviations.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/USN%20Manuals%20and%20Reports/USN.Glossary.Abbreviations.pdf</a>  
+   Link:<a href="https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/USN%20Manuals%20and%20Reports/USN.Glossary.Abbreviations.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/USN%20Manuals%20and%20Reports/USN.Glossary.Abbreviations.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ibiblio.org  
-   Link: <a href="https://www.ibiblio.org/hyperwar/PTO/Iwo/ComTaskForFiftyThreeOpPlanA162-44/ComTaskForFiftyThreeOpPlanA162-44.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ibiblio.org/hyperwar/PTO/Iwo/ComTaskForFiftyThreeOpPlanA162-44/ComTaskForFiftyThreeOpPlanA162-44.pdf</a>  
+   Link:<a href="https://www.ibiblio.org/hyperwar/PTO/Iwo/ComTaskForFiftyThreeOpPlanA162-44/ComTaskForFiftyThreeOpPlanA162-44.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ibiblio.org/hyperwar/PTO/Iwo/ComTaskForFiftyThreeOpPlanA162-44/ComTaskForFiftyThreeOpPlanA162-44.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ibiblio.org  
-   Link: <a href="https://ibiblio.org/pha/A%20CENTURY%20OF%20US%20NAVAL%20INTELLIGENCE.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ibiblio.org/pha/A%20CENTURY%20OF%20US%20NAVAL%20INTELLIGENCE.pdf</a>  
+   Link:<a href="https://ibiblio.org/pha/A%20CENTURY%20OF%20US%20NAVAL%20INTELLIGENCE.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ibiblio.org/pha/A%20CENTURY%20OF%20US%20NAVAL%20INTELLIGENCE.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ibiblio.org  
    Title: Special Staff Section Reports  
-   Link: <a href="https://www.ibiblio.org/hyperwar/PTO/Iwo/VthPhibCorpsLandingForceIwoJima/VthPhibCorpsAAR-SpecStaffSection-Reports-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ibiblio.org/hyperwar/PTO/Iwo/VthPhibCorpsLandingForceIwoJima/VthPhibCorpsAAR-SpecStaffSection-Reports-2.pdf</a>  
+   Link:<a href="https://www.ibiblio.org/hyperwar/PTO/Iwo/VthPhibCorpsLandingForceIwoJima/VthPhibCorpsAAR-SpecStaffSection-Reports-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ibiblio.org/hyperwar/PTO/Iwo/VthPhibCorpsLandingForceIwoJima/VthPhibCorpsAAR-SpecStaffSection-Reports-2.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ibiblio.org  
-   Link: <a href="https://www.ibiblio.org/hyperwar/PTO/Iwo/ComPhibGruTwoIwoJima/ComPhibGruTwoIwoJimaAAR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ibiblio.org/hyperwar/PTO/Iwo/ComPhibGruTwoIwoJima/ComPhibGruTwoIwoJimaAAR.pdf</a>  
+   Link:<a href="https://www.ibiblio.org/hyperwar/PTO/Iwo/ComPhibGruTwoIwoJima/ComPhibGruTwoIwoJimaAAR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ibiblio.org/hyperwar/PTO/Iwo/ComPhibGruTwoIwoJima/ComPhibGruTwoIwoJimaAAR.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: history.navy.mil  
    Title: mil The Loss of Flight 19  
-   Link: <a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/flight-19.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/flight-19.html</a>  
+   Link:<a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/flight-19.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/flight-19.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: history.navy.mil  
-   Link: <a href="https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-057/h-057-4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-057/h-057-4.html</a>  
+   Link:<a href="https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-057/h-057-4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-057/h-057-4.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: history.navy.mil  
    Title: lost fight 19 official accident reports  
-   Link: <a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/l/lost-fight-19-official-accident-reports.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/l/lost-fight-19-official-accident-reports.html</a>  
+   Link:<a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/l/lost-fight-19-official-accident-reports.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/l/lost-fight-19-official-accident-reports.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: history.com  
-   Link: <a href="https://www.history.com/this-day-in-history/december-5/aircraft-squadron-lost-in-the-bermuda-triangle" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/december-5/aircraft-squadron-lost-in-the-bermuda-triangle</a>  
+   Link:<a href="https://www.history.com/this-day-in-history/december-5/aircraft-squadron-lost-in-the-bermuda-triangle" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/december-5/aircraft-squadron-lost-in-the-bermuda-triangle</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: history.com  
    Title: Bermuda Triangle  
-   Link: <a href="https://www.history.com/articles/bermuda-triangle" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/bermuda-triangle</a>  
+   Link:<a href="https://www.history.com/articles/bermuda-triangle" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/bermuda-triangle</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: usni.org  
    Title: mysterious disappearance flight 19  
-   Link: <a href="https://www.usni.org/magazines/naval-history-magazine/2021/october/mysterious-disappearance-flight-19" target="_blank" rel="noopener noreferrer nofollow">https://www.usni.org/magazines/naval-history-magazine/2021/october/mysterious-disappearance-flight-19</a>  
+   Link:<a href="https://www.usni.org/magazines/naval-history-magazine/2021/october/mysterious-disappearance-flight-19" target="_blank" rel="noopener noreferrer nofollow">https://www.usni.org/magazines/naval-history-magazine/2021/october/mysterious-disappearance-flight-19</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nasflmuseum.com  
    Title: Naval Air Station Fort Lauderdale Museum Flight 19 the Lost Avengers  
-   Link: <a href="https://www.nasflmuseum.com/flight-19.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nasflmuseum.com/flight-19.html</a>  
+   Link:<a href="https://www.nasflmuseum.com/flight-19.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nasflmuseum.com/flight-19.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/history/how-the-disappearance-of-flight-19-a-navy-squadron-lost-in-1945-fueled-the-legend-of-the-bermuda-triangle-180987759/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/how-the-disappearance-of-flight-19-a-navy-squadron-lost-in-1945-fueled-the-legend-of-the-bermuda-triangle-180987759/</a>  
+   Link:<a href="https://www.smithsonianmag.com/history/how-the-disappearance-of-flight-19-a-navy-squadron-lost-in-1945-fueled-the-legend-of-the-bermuda-triangle-180987759/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/how-the-disappearance-of-flight-19-a-navy-squadron-lost-in-1945-fueled-the-legend-of-the-bermuda-triangle-180987759/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nationalgeographic.com  
    Title: bermuda triangle mystery disappearance  
-   Link: <a href="https://www.nationalgeographic.com/premium/article/bermuda-triangle-mystery-disappearance" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/premium/article/bermuda-triangle-mystery-disappearance</a>  
+   Link:<a href="https://www.nationalgeographic.com/premium/article/bermuda-triangle-mystery-disappearance" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/premium/article/bermuda-triangle-mystery-disappearance</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2015/11/the-bermuda-triangle-mystery-delusion/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2015/11/the-bermuda-triangle-mystery-delusion/</a>  
+   Link:<a href="https://skepticalinquirer.org/2015/11/the-bermuda-triangle-mystery-delusion/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2015/11/the-bermuda-triangle-mystery-delusion/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Flight 19  
-   Link: <a href="https://en.wikipedia.org/wiki/Flight_19" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flight_19</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flight_19" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flight_19</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Bermuda Triangle  
-   Link: <a href="https://en.wikipedia.org/wiki/Bermuda_Triangle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bermuda_Triangle</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bermuda_Triangle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bermuda_Triangle</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/military-history-and-science/flight-19" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/military-history-and-science/flight-19</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/military-history-and-science/flight-19" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/military-history-and-science/flight-19</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ebsco.com  
    Title: Bermuda Triangle | Social Sciences and Humanities  
-   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/bermuda-triangle" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/bermuda-triangle</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/bermuda-triangle" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/bermuda-triangle</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: skepticalinquirer.org  
    Title: critical reading careful writing and the bermuda triangle  
-   Link: <a href="https://skepticalinquirer.org/1977/10/critical-reading-careful-writing-and-the-bermuda-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/1977/10/critical-reading-careful-writing-and-the-bermuda-triangle/</a>  
+   Link:<a href="https://skepticalinquirer.org/1977/10/critical-reading-careful-writing-and-the-bermuda-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/1977/10/critical-reading-careful-writing-and-the-bermuda-triangle/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: aviatorsdatabase.com  
    Title: Flight 19  
-   Link: <a href="https://www.aviatorsdatabase.com/wp-content/uploads/2013/07/Flight-19.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aviatorsdatabase.com/wp-content/uploads/2013/07/Flight-19.pdf</a>  
+   Link:<a href="https://www.aviatorsdatabase.com/wp-content/uploads/2013/07/Flight-19.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aviatorsdatabase.com/wp-content/uploads/2013/07/Flight-19.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: e-telescope.gr  
    Title: the bermuda triangle  
-   Link: <a href="https://www.e-telescope.gr/en/mystery/the-bermuda-triangle" target="_blank" rel="noopener noreferrer nofollow">https://www.e-telescope.gr/en/mystery/the-bermuda-triangle</a>  
+   Link:<a href="https://www.e-telescope.gr/en/mystery/the-bermuda-triangle" target="_blank" rel="noopener noreferrer nofollow">https://www.e-telescope.gr/en/mystery/the-bermuda-triangle</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: What Happened to Flight 19?  
-   Link: <a href="https://www.youtube.com/watch?v=zJg5n4q81_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zJg5n4q81_k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos provide historical overviews, analysis of the official Navy investigation, and discussions regarding how the 1945 disappeara...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zJg5n4q81_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zJg5n4q81_k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These videos provide historical overviews, analysis of the official Navy investigation, and discussions regarding how the 1945 disappeara...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Flight 19: The Disappearance That Started the Bermuda Triangle Legend  
-   Link: <a href="https://www.youtube.com/watch?v=hJ7J5wB93Bs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hJ7J5wB93Bs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flight 19: The Disappearance That Fueled the Bermuda Triangle...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hJ7J5wB93Bs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hJ7J5wB93Bs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flight 19: The Disappearance That Fueled the Bermuda Triangle...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NavalInstitute/posts/otd-75-years-ago-flight-19-of-5-tbm-avengers-disappeared-over-the-bermuda-triang/10158803847617173/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NavalInstitute/posts/otd-75-years-ago-flight-19-of-5-tbm-avengers-disappeared-over-the-bermuda-triang/10158803847617173/</a>  
+   Link:<a href="https://www.facebook.com/NavalInstitute/posts/otd-75-years-ago-flight-19-of-5-tbm-avengers-disappeared-over-the-bermuda-triang/10158803847617173/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NavalInstitute/posts/otd-75-years-ago-flight-19-of-5-tbm-avengers-disappeared-over-the-bermuda-triang/10158803847617173/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CBS12News/posts/according-to-the-national-oceanic-atmospheric-administration-noaa-for-decades-th/699832438842841/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBS12News/posts/according-to-the-national-oceanic-atmospheric-administration-noaa-for-decades-th/699832438842841/</a>  
+   Link:<a href="https://www.facebook.com/CBS12News/posts/according-to-the-national-oceanic-atmospheric-administration-noaa-for-decades-th/699832438842841/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBS12News/posts/according-to-the-national-oceanic-atmospheric-administration-noaa-for-decades-th/699832438842841/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: visitflorida.com  
-   Link: <a href="https://www.visitflorida.com/travel-ideas/articles/fort-lauderdale-bermuda-triangle-flight-19/" target="_blank" rel="noopener noreferrer nofollow">https://www.visitflorida.com/travel-ideas/articles/fort-lauderdale-bermuda-triangle-flight-19/</a>  
+   Link:<a href="https://www.visitflorida.com/travel-ideas/articles/fort-lauderdale-bermuda-triangle-flight-19/" target="_blank" rel="noopener noreferrer nofollow">https://www.visitflorida.com/travel-ideas/articles/fort-lauderdale-bermuda-triangle-flight-19/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: natgeotv.com  
-   Link: <a href="https://www.natgeotv.com/za/shows/natgeo/drain-the-ocean-deep-sea-mysteries" target="_blank" rel="noopener noreferrer nofollow">https://www.natgeotv.com/za/shows/natgeo/drain-the-ocean-deep-sea-mysteries</a>  
+   Link:<a href="https://www.natgeotv.com/za/shows/natgeo/drain-the-ocean-deep-sea-mysteries" target="_blank" rel="noopener noreferrer nofollow">https://www.natgeotv.com/za/shows/natgeo/drain-the-ocean-deep-sea-mysteries</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/2m8x2z/flight_19/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/2m8x2z/flight_19/</a>  
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/2m8x2z/flight_19/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/2m8x2z/flight_19/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Neymarvta/posts/flight-19-found-the-bermuda-triangles-most-haunting-secret-resurfacesafter-75-ye/704989959223973/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Neymarvta/posts/flight-19-found-the-bermuda-triangles-most-haunting-secret-resurfacesafter-75-ye/704989959223973/</a>  
+   Link:<a href="https://www.facebook.com/Neymarvta/posts/flight-19-found-the-bermuda-triangles-most-haunting-secret-resurfacesafter-75-ye/704989959223973/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Neymarvta/posts/flight-19-found-the-bermuda-triangles-most-haunting-secret-resurfacesafter-75-ye/704989959223973/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nasflmuseum.com  
-   Link: <a href="https://www.nasflmuseum.com/memorial.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nasflmuseum.com/memorial.html</a>  
+   Link:<a href="https://www.nasflmuseum.com/memorial.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nasflmuseum.com/memorial.html</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AviationHistory/comments/1pr9tnr/flight_19s_final_transmissions_the_navigation/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AviationHistory/comments/1pr9tnr/flight_19s_final_transmissions_the_navigation/</a>
+   Link:<a href="https://www.reddit.com/r/AviationHistory/comments/1pr9tnr/flight_19s_final_transmissions_the_navigation/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AviationHistory/comments/1pr9tnr/flight_19s_final_transmissions_the_navigation/</a>

@@ -251,11 +251,11 @@ image: /assets/images/Alexander_Hamilton_a_75e894_hoax_folklore_afterl_ad7df9-Il
 The Alexander Hamilton airship story survived for more than a century because it sat at the perfect intersection of three powerful traditions: nineteenth-century newspaper sensationalism, rural American tall tales, and later UFO mythology. What began in Kansas during the 1897 “mystery airship” wave gradually transformed into something much larger. By the mid-twentieth century, writers treating unidentified flying objects as a serious mystery revived Hamilton’s tale as an apparent early alien abduction and cattle-mutilation case. Later sceptical research then pushed the story back toward its likely origin as a deliberate hoax or comic exaggeration.
 
 <img src="{{ "/assets/images/Alexander_Hamilton_a_75e894_hoax_folklore_afterl_ad7df9-Illustration-1-dark.svg" | relative_url }}" alt="Hoax Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Alexander_Hamilton_a_75e894_hoax_folklore_afterl_ad7df9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alexander_Hamilton_a_75e894_hoax_folklore_afterl_ad7df9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The result is not simply a debunked newspaper anecdote. The Hamilton case became a demonstration of how folklore evolves. A local joke, once detached from its original social setting, could be rediscovered decades later by UFO researchers who no longer recognised the humour conventions, exaggerations and competitive storytelling culture of rural Kansas in the 1890s. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">The 1897 Cow Abduction HoaxHamilton belonged to a local liars&#x27; club that delighted in the concoction of outrageous tall tale...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
+The result is not simply a debunked newspaper anecdote. The Hamilton case became a demonstration of how folklore evolves. A local joke, once detached from its original social setting, could be rediscovered decades later by UFO researchers who no longer recognised the humour conventions, exaggerations and competitive storytelling culture of rural Kansas in the 1890s.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">The 1897 Cow Abduction HoaxHamilton belonged to a local liars&#x27; club that delighted in the concoction of outrageous tall tale...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
 
 ## How the 1897 Airship Craze Encouraged Tall Tales
 
-Hamilton’s story did not appear in isolation. It emerged during the wider “mystery airship” panic of 1896–1897, when newspapers across the United States carried reports of strange cigar-shaped flying machines, mysterious inventors and bizarre aerial encounters. The airship stories ranged from simple lights in the sky to obvious fantasy narratives involving Martians, kidnappings and miraculous technologies. Wikipedia HistoryNet This atmosphere mattered because readers in 1897 already expected sensational airship stories. Many newspapers treated the phenomenon half-se <span class="citation-chip-wrap"><a class="citation-chip" href="https://historynet.com/people-and-planes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historynet.com">[historynet.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historynet.com</span><span class="citation-popover-title">people and planes</span><span class="citation-popover-snippet">The Great Airship Mystery of the 1800s31 Mar 2016 — In March and April 1897, thousands of Midwestern Americans reported sightings of airs...</span><span class="citation-popover-meta">Published: April 1897</span></span></span> riously and half-playfully. Editorial pages often mocked the sightings while news columns continued printing increasingly elaborate accounts. American Heritage later described the press reaction as “schizophrenic”, with papers ridiculing stories they simultaneously promoted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.americanheritage.com/close-encounters-earliest-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanheritage.com">[American Heritage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanheritage.com</span><span class="citation-popover-title">American Heritage Close Encounters Of The Earliest Kind</span><span class="citation-popover-snippet">American HeritageClose Encounters Of The Earliest Kind - AMERICAN HERITAGEThe mysterious airship came in for a good deal of raillery in t...</span></span></span>
+Hamilton’s story did not appear in isolation. It emerged during the wider “mystery airship” panic of 1896–1897, when newspapers across the United States carried reports of strange cigar-shaped flying machines, mysterious inventors and bizarre aerial encounters. The airship stories ranged from simple lights in the sky to obvious fantasy narratives involving Martians, kidnappings and miraculous technologies. Wikipedia HistoryNet This atmosphere mattered because readers in 1897 already expected sensational airship stories. Many newspapers treated the phenomenon half-se<span class="citation-chip-wrap"><a class="citation-chip" href="https://historynet.com/people-and-planes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historynet.com">[historynet.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historynet.com</span><span class="citation-popover-title">people and planes</span><span class="citation-popover-snippet">The Great Airship Mystery of the 1800s31 Mar 2016 — In March and April 1897, thousands of Midwestern Americans reported sightings of airs...</span><span class="citation-popover-meta">Published: April 1897</span></span></span> riously and half-playfully. Editorial pages often mocked the sightings while news columns continued printing increasingly elaborate accounts. American Heritage later described the press reaction as “schizophrenic”, with papers ridiculing stories they simultaneously promoted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.americanheritage.com/close-encounters-earliest-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanheritage.com">[American Heritage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanheritage.com</span><span class="citation-popover-title">American Heritage Close Encounters Of The Earliest Kind</span><span class="citation-popover-snippet">American HeritageClose Encounters Of The Earliest Kind - AMERICAN HERITAGEThe mysterious airship came in for a good deal of raillery in t...</span></span></span>
 
 Hamilton’s report fitted perfectly into this culture. It had all the ingredients readers wanted:
 
@@ -271,13 +271,13 @@ Hamilton’s report fitted perfectly into this culture. It had all the ingredien
 
 In modern UFO culture, those details look like proto-science fiction. In 1897, they also resembled the structure of frontier humour stories that competed to become more extravagant with every retelling.
 
-The broader airship wave already contained numerous probable hoaxes and comic inventions. Some newspapers reported fake crashes, fake Martian visitors and staged aerial lights. One documented prank involved boys attaching a flaming object to a bird to imitate an airship. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO-related hoaxes</span><span class="citation-popover-snippet">List of UFO-related hoaxes</span></span></span> The Hamilton narrative therefore entered an environment where readers struggled to distinguish entertainment from reporting.
+The broader airship wave already contained numerous probable hoaxes and comic inventions. Some newspapers reported fake crashes, fake Martian visitors and staged aerial lights. One documented prank involved boys attaching a flaming object to a bird to imitate an airship.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO-related hoaxes</span><span class="citation-popover-snippet">List of UFO-related hoaxes</span></span></span> The Hamilton narrative therefore entered an environment where readers struggled to distinguish entertainment from reporting.
 
 ## The Local Liars’ Club Tradition
 
-The most important later challenge to Hamilton’s [credibility]({{ 'credibility/' | relative_url }}) came from accounts linking him to a local “Liars’ Club” or “Ananias Club”, part of a broader rural American tradition of competitive storytelling. These clubs were not secret conspiracies. They were social gatherings where participants attempted to outdo one another with outrageous yarns delivered in deadpan style. HowStuffWorks <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/2742701" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR According to later retellings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">They would get together once in a while to see...Read more...</span></span></span>, Hamilton’s airship story was supposedly created for one of these contests. The allegation became widely known after UFO researcher Jerome Clark investigated the case during the 1970s. Clark reported that local testimony connected Hamilton to a liar’s club tradition and that residents regarded the cow-abduction story as a joke that escaped into wider circulation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
+The most important later challenge to Hamilton’s [credibility]({{ 'credibility/' | relative_url }}) came from accounts linking him to a local “Liars’ Club” or “Ananias Club”, part of a broader rural American tradition of competitive storytelling. These clubs were not secret conspiracies. They were social gatherings where participants attempted to outdo one another with outrageous yarns delivered in deadpan style. HowStuffWorks<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/2742701" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR According to later retellings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">They would get together once in a while to see...Read more...</span></span></span>, Hamilton’s airship story was supposedly created for one of these contests. The allegation became widely known after UFO researcher Jerome Clark investigated the case during the 1970s. Clark reported that local testimony connected Hamilton to a liar’s club tradition and that residents regarded the cow-abduction story as a joke that escaped into wider circulation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
 
-One of the most frequently cited recollections came from an elderly Kansas woman interviewed decades after the event. She reportedly claimed Hamilton had privately boasted about inventing the tale shortly before publication. HowStuffWorks summarised her recollection by stating that Hamilton belonged to a club devoted to extravagant tall tales and that the “airship and cow” story effectively became too successful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">The 1897 Cow Abduction HoaxHamilton belonged to a local liars&#x27; club that delighted in the concoction of outrageous tall tale...</span></span></span>
+One of the most frequently cited recollections came from an elderly Kansas woman interviewed decades after the event. She reportedly claimed Hamilton had privately boasted about inventing the tale shortly before publication. HowStuffWorks summarised her recollection by stating that Hamilton belonged to a club devoted to extravagant tall tales and that the “airship and cow” story effectively became too successful.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">The 1897 Cow Abduction HoaxHamilton belonged to a local liars&#x27; club that delighted in the concoction of outrageous tall tale...</span></span></span>
 
 These retrospective accounts are not perfect evidence. They were recorded many decades after 1897, and memory contamination is possible. Yet they align with the wider cultural context of frontier humour and with the exaggerated theatrical structure of the original report itself.
 
@@ -308,20 +308,20 @@ This layering resembles the escalating structure common in humorous frontier ane
 
 ### The physical evidence was weak
 
-Despite the later fame of the case, there was never meaningful physical documentation. No photographs, preserved artefacts or independently verified remains survived. The famous affidavit attached to the report vouched for Hamilton’s honesty, not for direct observation of the event itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO-related hoaxes</span><span class="citation-popover-snippet">List of UFO-related hoaxes</span></span></span>
+Despite the later fame of the case, there was never meaningful physical documentation. No photographs, preserved artefacts or independently verified remains survived. The famous affidavit attached to the report vouched for Hamilton’s honesty, not for direct observation of the event itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO-related hoaxes</span><span class="citation-popover-snippet">List of UFO-related hoaxes</span></span></span>
 
 ### The airship era rewarded sensationalism
 
-The late nineteenth-century press environment strongly incentivised extraordinary claims. Newspapers competed aggressively for attention, and mystery-airship stories became a proven circulation driver. Historians of the period have repeatedly noted how easily hoaxes spread during the airship wave. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.americanheritage.com/close-encounters-earliest-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanheritage.com">[American Heritage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanheritage.com</span><span class="citation-popover-title">American Heritage Close Encounters Of The Earliest Kind</span><span class="citation-popover-snippet">American HeritageClose Encounters Of The Earliest Kind - AMERICAN HERITAGEThe mysterious airship came in for a good deal of raillery in t...</span></span></span>
+The late nineteenth-century press environment strongly incentivised extraordinary claims. Newspapers competed aggressively for attention, and mystery-airship stories became a proven circulation driver. Historians of the period have repeatedly noted how easily hoaxes spread during the airship wave.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.americanheritage.com/close-encounters-earliest-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanheritage.com">[American Heritage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanheritage.com</span><span class="citation-popover-title">American Heritage Close Encounters Of The Earliest Kind</span><span class="citation-popover-snippet">American HeritageClose Encounters Of The Earliest Kind - AMERICAN HERITAGEThe mysterious airship came in for a good deal of raillery in t...</span></span></span>
 
 ### Similar stories were already circulating
 
-Hamilton’s account was only one of many bizarre airship narratives published in 1897. Reports from elsewhere described Martian visitors, mysterious inventors, kidnappings and crashes. The sheer quantity of sensational stories makes it difficult to treat Hamilton’s version as uniquely credible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO-related hoaxes</span><span class="citation-popover-snippet">List of UFO-related hoaxes</span></span></span>
+Hamilton’s account was only one of many bizarre airship narratives published in 1897. Reports from elsewhere described Martian visitors, mysterious inventors, kidnappings and crashes. The sheer quantity of sensational stories makes it difficult to treat Hamilton’s version as uniquely credible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO-related hoaxes</span><span class="citation-popover-snippet">List of UFO-related hoaxes</span></span></span>
 
 <img src="{{ "/assets/images/Alexander_Hamilton_a_75e894_hoax_folklore_afterl_ad7df9-Illustration-2-dark.svg" | relative_url }}" alt="Hoax Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Alexander_Hamilton_a_75e894_hoax_folklore_afterl_ad7df9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alexander_Hamilton_a_75e894_hoax_folklore_afterl_ad7df9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How UFO Writers Revived the Story
 
-The Hamilton case might have disappeared completely had twentieth-century UFO researchers not rediscovered nineteenth-century newspaper archives during the 1950s and 1960s. As interest in flying saucers expanded after 1947, investigators began searching older records for historical precedents. The 1896–1897 airship wave suddenly looked like an early UFO flap. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO-related hoaxes</span><span class="citation-popover-snippet">List of UFO-related hoaxes</span></span></span>
+The Hamilton case might have disappeared completely had twentieth-century UFO researchers not rediscovered nineteenth-century newspaper archives during the 1950s and 1960s. As interest in flying saucers expanded after 1947, investigators began searching older records for historical precedents. The 1896–1897 airship wave suddenly looked like an early UFO flap.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO-related hoaxes</span><span class="citation-popover-snippet">List of UFO-related hoaxes</span></span></span>
 
 This rediscovery fundamentally changed how the story was interpreted.
 
@@ -339,7 +339,7 @@ The story acquired new significance because it seemed to anticipate later UFO th
 
 </div>
 
-Some writers even labelled it one of the earliest “cattle mutilation” cases in American UFO lore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO-related hoaxes</span><span class="citation-popover-snippet">List of UFO-related hoaxes</span></span></span>
+Some writers even labelled it one of the earliest “cattle mutilation” cases in American UFO lore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO-related hoaxes</span><span class="citation-popover-snippet">List of UFO-related hoaxes</span></span></span>
 
 This reinterpretation detached the story from its original social setting. Readers encountering the tale in UFO books decades later often did not know much about Kansas frontier humour, newspaper hoaxes or liar’s-club traditions. Instead, the narrative appeared as a surprisingly modern close-encounter report from the nineteenth century.
 
@@ -351,7 +351,7 @@ That shift explains why the case became so influential inside UFO folklore despi
 
 Even after sceptical researchers publicised the liar’s-club explanation, the Hamilton story never fully disappeared from UFO culture. Instead, it entered a curious halfway state between debunked folklore and enduring mystery.
 
-Some enthusiasts continued arguing that the debunking evidence itself was weak because it relied heavily on late recollections rather than contemporary documentation. Others suggested Hamilton may have partially fictionalised a genuine sighting. Online discussions still debate whether the case was entirely invented or merely embellished. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1nhpgsh/the_1897_le_roy_ks_airship_story_a_classic_ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the 1897 le roy ks airship story a classic ufo</span><span class="citation-popover-snippet">The 1897 Le Roy, KS &#x27;Airship&#x27; story: A classic UFO case...The Claim: Clark reported receiving a letter from E.D. Hudson, who claim...</span></span></span>
+Some enthusiasts continued arguing that the debunking evidence itself was weak because it relied heavily on late recollections rather than contemporary documentation. Others suggested Hamilton may have partially fictionalised a genuine sighting. Online discussions still debate whether the case was entirely invented or merely embellished.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1nhpgsh/the_1897_le_roy_ks_airship_story_a_classic_ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the 1897 le roy ks airship story a classic ufo</span><span class="citation-popover-snippet">The 1897 Le Roy, KS &#x27;Airship&#x27; story: A classic UFO case...The Claim: Clark reported receiving a letter from E.D. Hudson, who claim...</span></span></span>
 
 The story also survived because it remained entertaining. A flying airship stealing a cow is memorable in a way that ordinary light-in-the-sky reports are not. The humour that probably helped create the tale also helped preserve it.
 
@@ -395,206 +395,206 @@ The case demonstrates several recurring mechanisms in paranormal culture:
 
 </div>
 
-Hamilton’s account also shows how easily historical narratives migrate between categories. What may have begun as comic storytelling in rural Kansas became, decades later, part of a serious attempt to construct a historical lineage for UFO encounters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">The 1897 Cow Abduction HoaxHamilton belonged to a local liars&#x27; club that delighted in the concoction of outrageous tall tale...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO-related hoaxes</span><span class="citation-popover-snippet">List of UFO-related hoaxes</span></span></span>
+Hamilton’s account also shows how easily historical narratives migrate between categories. What may have begun as comic storytelling in rural Kansas became, decades later, part of a serious attempt to construct a historical lineage for UFO encounters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">The 1897 Cow Abduction HoaxHamilton belonged to a local liars&#x27; club that delighted in the concoction of outrageous tall tale...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO-related hoaxes</span><span class="citation-popover-snippet">List of UFO-related hoaxes</span></span></span>
 
 In that sense, the real mystery is not whether an airship stole a cow in 1897. It is how a probable tall tale travelled across more than a century of changing media, belief systems and popular mythology without losing its power to fascinate.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hmNWl96jjCI" title="The Phantom Airship Mystery of 1897: what did the Americans see?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hmNWl96jjCI" target="_blank" rel="noopener noreferrer">The Phantom Airship Mystery of 1897: what did the Americans see?</a></p><p class="youtube-embed-meta">Channel: We Travel by Night &middot; Views: 118.3K &middot; Uploaded: July 2024 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hmNWl96jjCI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hmNWl96jjCI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Did A Tall Tale Become UFO Folklore?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Did A Tall Tale Become UFO Folklore?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Shows how modern authors detached Hamilton&#x27;s tall tale from its 1890s context, framing it as genuine alien abduction lore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how modern authors detached Hamilton&#x27;s tall tale from its 1890s context, framing it as genuine alien abduction lore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open It&#x27;s a Horse&#x27;s Life! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=swoVJIlrzmgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for It&#x27;s a Horse&#x27;s Life!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="It&#x27;s a Horse&#x27;s Life!">It&#x27;s a Horse&#x27;s Life!</a>
-        </h4>
-        <p class="fr-book-author">By Joanne Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open It&#x27;s a Horse&#x27;s Life! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=swoVJIlrzmgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for It&#x27;s a Horse&#x27;s Life!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="It&#x27;s a Horse&#x27;s Life!">It&#x27;s a Horse&#x27;s Life!</a>
+</h4>
+<p class="fr-book-author">By Joanne Friedman</p>
         
-        <p class="fr-book-desc">Traces the exact evolution of the story from a local Kansas Liars&#x27; Club joke into a serious mid-century UFO myth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Traces the exact evolution of the story from a local Kansas Liars&#x27; Club joke into a serious mid-century UFO myth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stalking+the+Herd+by+Christopher+O%27Brien&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stalking the Herd on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HYpXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stalking the Herd" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stalking+the+Herd+by+Christopher+O%27Brien&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stalking the Herd">Stalking the Herd</a>
-        </h4>
-        <p class="fr-book-author">By Christopher O&#x27;Brien</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Stalking+the+Herd+by+Christopher+O%27Brien&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stalking the Herd on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HYpXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stalking the Herd" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stalking+the+Herd+by+Christopher+O%27Brien&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stalking the Herd">Stalking the Herd</a>
+</h4>
+<p class="fr-book-author">By Christopher O&#x27;Brien</p>
         
-        <p class="fr-book-desc">Provides a comprehensive record of how decades-later UFO researchers repurposed the Hamilton hoax into a modern phenomenon.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stalking+the+Herd+by+Christopher+O%27Brien&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a comprehensive record of how decades-later UFO researchers repurposed the Hamilton hoax into a modern phenomenon.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stalking+the+Herd+by+Christopher+O%27Brien&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fads+and+Fallacies+in+the+Name+of+Science+by+Martin+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fads and Fallacies in the Name of Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d61kDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fads and Fallacies in the Name of Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fads+and+Fallacies+in+the+Name+of+Science+by+Martin+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fads and Fallacies in the Name of Science">Fads and Fallacies in the Name of Science</a>
-        </h4>
-        <p class="fr-book-author">By Martin Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fads+and+Fallacies+in+the+Name+of+Science+by+Martin+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fads and Fallacies in the Name of Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d61kDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fads and Fallacies in the Name of Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fads+and+Fallacies+in+the+Name+of+Science+by+Martin+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fads and Fallacies in the Name of Science">Fads and Fallacies in the Name of Science</a>
+</h4>
+<p class="fr-book-author">By Martin Gardner</p>
         
-        <p class="fr-book-desc">Illustrates how folklore naturally evolves when modern readers mistake historical humor and tall tale clubs for objective truth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fads+and+Fallacies+in+the+Name+of+Science+by+Martin+Gardner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how folklore naturally evolves when modern readers mistake historical humor and tall tale clubs for objective truth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fads+and+Fallacies+in+the+Name+of+Science+by+Martin+Gardner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">It&#x27;s a Horse&#x27;s Life!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stalking+the+Herd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stalking the Herd</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">It&#x27;s a Horse&#x27;s Life!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Stalking+the+Herd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stalking the Herd</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.howstuffworks.com  
    Title: cow abduction  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1897 Cow Abduction HoaxHamilton belonged to a local liars&#x27; club that delighted in the concoction of outrageous tall tale...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1897 Cow Abduction HoaxHamilton belonged to a local liars&#x27; club that delighted in the concoction of outrageous tall tale...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Mystery airship  
-   Link: <a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: historynet.com  
    Title: people and planes  
-   Link: <a href="https://historynet.com/people-and-planes/" target="_blank" rel="noopener noreferrer nofollow">https://historynet.com/people-and-planes/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Great Airship Mystery of the 1800s31 Mar 2016 — In March and April 1897, thousands of Midwestern Americans reported sightings of airs...</p></details>
+   Link:<a href="https://historynet.com/people-and-planes/" target="_blank" rel="noopener noreferrer nofollow">https://historynet.com/people-and-planes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Great Airship Mystery of the 1800s31 Mar 2016 — In March and April 1897, thousands of Midwestern Americans reported sightings of airs...</p></details>
    Published: April 1897  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: List of UFO-related hoaxes  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/2742701" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/2742701</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>They would get together once in a while to see...Read more...</p></details>
+   Link:<a href="https://www.jstor.org/stable/2742701" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/2742701</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They would get together once in a while to see...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: the 1897 le roy ks airship story a classic ufo  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1nhpgsh/the_1897_le_roy_ks_airship_story_a_classic_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1nhpgsh/the_1897_le_roy_ks_airship_story_a_classic_ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1897 Le Roy, KS &#x27;Airship&#x27; story: A classic UFO case...The Claim: Clark reported receiving a letter from E.D. Hudson, who claim...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1nhpgsh/the_1897_le_roy_ks_airship_story_a_classic_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1nhpgsh/the_1897_le_roy_ks_airship_story_a_classic_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1897 Le Roy, KS &#x27;Airship&#x27; story: A classic UFO case...The Claim: Clark reported receiving a letter from E.D. Hudson, who claim...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: mystery airship sightings for 8 months between  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/i6e7yn/mystery_airship_sightings_for_8_months_between/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/i6e7yn/mystery_airship_sightings_for_8_months_between/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mystery Airship&quot; Sightings: For 8 months between 1896-97, people...August 9, 2020 — In 1896 and 7, hundreds of western American newspap...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/i6e7yn/mystery_airship_sightings_for_8_months_between/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/i6e7yn/mystery_airship_sightings_for_8_months_between/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mystery Airship&quot; Sightings: For 8 months between 1896-97, people...August 9, 2020 — In 1896 and 7, hundreds of western American newspap...</p></details>
    Published: August 9, 2020  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos?page=2" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos?page=2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; UFOs | HowStuffWorks | Page: 2In 1897 Alexander Hamilton reported a cow abduction by a UFO that appeared at his farm in Kansas...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos?page=2" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos?page=2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; UFOs | HowStuffWorks | Page: 2In 1897 Alexander Hamilton reported a cow abduction by a UFO that appeared at his farm in Kansas...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: americanheritage.com  
    Title: American Heritage Close Encounters Of The Earliest Kind  
-   Link: <a href="https://www.americanheritage.com/close-encounters-earliest-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.americanheritage.com/close-encounters-earliest-kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American HeritageClose Encounters Of The Earliest Kind - AMERICAN HERITAGEThe mysterious airship came in for a good deal of raillery in t...</p></details>
+   Link:<a href="https://www.americanheritage.com/close-encounters-earliest-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.americanheritage.com/close-encounters-earliest-kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American HeritageClose Encounters Of The Earliest Kind - AMERICAN HERITAGEThe mysterious airship came in for a good deal of raillery in t...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/nehistorical/posts/in-1897-numerous-reports-of-an-unusual-phenomenon-in-the-sky-described-what-some/1215514023951049/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nehistorical/posts/in-1897-numerous-reports-of-an-unusual-phenomenon-in-the-sky-described-what-some/1215514023951049/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nebraska State Historical SocietyAlmost every small town had a &quot;lair club&quot; where tall tales were swapped. (Alexander Hamilton&#x27;s famous &quot;C...</p></details>
+   Link:<a href="https://www.facebook.com/nehistorical/posts/in-1897-numerous-reports-of-an-unusual-phenomenon-in-the-sky-described-what-some/1215514023951049/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nehistorical/posts/in-1897-numerous-reports-of-an-unusual-phenomenon-in-the-sky-described-what-some/1215514023951049/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nebraska State Historical SocietyAlmost every small town had a &quot;lair club&quot; where tall tales were swapped. (Alexander Hamilton&#x27;s famous &quot;C...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: spaceshipsofezekiel.com  
-   Link: <a href="https://www.spaceshipsofezekiel.com/html/misc-kansas-airship-cownapping.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceshipsofezekiel.com/html/misc-kansas-airship-cownapping.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Great Kansas Cownapping Airship HoaxHowever, finding out now that two witnesses confirmed that it was well-known that Hamilton belong...</p></details>
+   Link:<a href="https://www.spaceshipsofezekiel.com/html/misc-kansas-airship-cownapping.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceshipsofezekiel.com/html/misc-kansas-airship-cownapping.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Great Kansas Cownapping Airship HoaxHowever, finding out now that two witnesses confirmed that it was well-known that Hamilton belong...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KansasTravel/posts/there-were-many-reports-of-unusual-airship-sightings-in-kansas-in-the-spring-of-/1256683146465841/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KansasTravel/posts/there-were-many-reports-of-unusual-airship-sightings-in-kansas-in-the-spring-of-/1256683146465841/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>There were many reports of unusual airship sightings in...THE ALEXANDER HAMILTON AIRSHIP HOAX - April 19, 1897: A farmer from LeRoy, Kan...</p></details>
+   Link:<a href="https://www.facebook.com/KansasTravel/posts/there-were-many-reports-of-unusual-airship-sightings-in-kansas-in-the-spring-of-/1256683146465841/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KansasTravel/posts/there-were-many-reports-of-unusual-airship-sightings-in-kansas-in-the-spring-of-/1256683146465841/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There were many reports of unusual airship sightings in...THE ALEXANDER HAMILTON AIRSHIP HOAX - April 19, 1897: A farmer from LeRoy, Kan...</p></details>
    Published: April 19, 1897  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/Mystify2010/posts/27623155260607013/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Mystify2010/posts/27623155260607013/</a>  
+   Link:<a href="https://www.facebook.com/groups/Mystify2010/posts/27623155260607013/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Mystify2010/posts/27623155260607013/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: medium.com  
    Title: the 1897 great airship mystery americas ufo wave 214943686541  
-   Link: <a href="https://medium.com/%40bvkg1982/the-1897-great-airship-mystery-americas-ufo-wave-214943686541" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40bvkg1982/the-1897-great-airship-mystery-americas-ufo-wave-214943686541</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1897 Great Airship Mystery: America&#x27;s UFO WaveNewspapers of the Yellow Journalism era were known for their hoaxes and sensational sto...</p></details>
+   Link:<a href="https://medium.com/%40bvkg1982/the-1897-great-airship-mystery-americas-ufo-wave-214943686541" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40bvkg1982/the-1897-great-airship-mystery-americas-ufo-wave-214943686541</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1897 Great Airship Mystery: America&#x27;s UFO WaveNewspapers of the Yellow Journalism era were known for their hoaxes and sensational sto...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DX5GoGhEwVQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DX5GoGhEwVQ/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>🛸 In 1897, something strange was seen in the skies...A mysterious airship slams into a windmill and crashes to the ground...</p></details>
+   Link:<a href="https://www.instagram.com/p/DX5GoGhEwVQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DX5GoGhEwVQ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>🛸 In 1897, something strange was seen in the skies...A mysterious airship slams into a windmill and crashes to the ground...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: travelks.com  
    Title: Airship Alert! | KANSAS! Magazine  
-   Link: <a href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow">https://www.travelks.com/kansas-magazine/articles/post/airship-alert/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 16, 2022 — The alien airship swooped down on Vernon, Kansas, at about 10:30 pm on April 12, 1897. The cattle were first to notice it...</p></details>
+   Link:<a href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow">https://www.travelks.com/kansas-magazine/articles/post/airship-alert/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 16, 2022 — The alien airship swooped down on Vernon, Kansas, at about 10:30 pm on April 12, 1897. The cattle were first to notice it...</p></details>
    Published: June 16, 2022  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: geographicus.com  
    Title: mysteryairship hamilton 1897  
-   Link: <a href="https://www.geographicus.com/P/AntiqueMap/mysteryairship-hamilton-1897" target="_blank" rel="noopener noreferrer nofollow">https://www.geographicus.com/P/AntiqueMap/mysteryairship-hamilton-1897</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1897 Hamilton &#x27;Judge&#x27; Cartoon of the Mystery Airship PanicA little known historical episode: in the months previous a series of mysteriou...</p></details>
+   Link:<a href="https://www.geographicus.com/P/AntiqueMap/mysteryairship-hamilton-1897" target="_blank" rel="noopener noreferrer nofollow">https://www.geographicus.com/P/AntiqueMap/mysteryairship-hamilton-1897</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1897 Hamilton &#x27;Judge&#x27; Cartoon of the Mystery Airship PanicA little known historical episode: in the months previous a series of mysteriou...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DoJUsaTknNw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DoJUsaTknNw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien They Buried in Texas | Aurora UFO Crash 1897 (Podcast)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DoJUsaTknNw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DoJUsaTknNw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien They Buried in Texas | Aurora UFO Crash 1897 (Podcast)...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: open.spotify.com  
    Title: 102FWn8Of1ddl Czzp7mka6  
-   Link: <a href="https://open.spotify.com/episode/102FWn8Of1ddlCzzp7mka6" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/102FWn8Of1ddlCzzp7mka6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phantom Airships of the 1890&#x27;s - Disturbing History23 Mar 2026 — We unpack the April 19, 1897, Alexander Hamilton cow abduction from LeRo...</p></details>
+   Link:<a href="https://open.spotify.com/episode/102FWn8Of1ddlCzzp7mka6" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/102FWn8Of1ddlCzzp7mka6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phantom Airships of the 1890&#x27;s - Disturbing History23 Mar 2026 — We unpack the April 19, 1897, Alexander Hamilton cow abduction from LeRo...</p></details>
    Published: April 19, 1897

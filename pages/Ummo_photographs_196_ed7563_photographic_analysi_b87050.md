@@ -251,7 +251,7 @@ image: /assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Il
 The technical debate around the 1967 Ummo photographs has never centred on whether the images are striking. Even sceptical investigators have acknowledged that the San José de Valderas photographs were unusually effective pieces of UFO imagery for their era. The real dispute has focused on a narrower question: do the photographs behave like images of a large distant object in the sky, or like photographs of a small suspended model placed close to the camera?
 
 <img src="{{ "/assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-1-dark.svg" | relative_url }}" alt="Photo Analysis illustration 1" data-theme-src-dark="{{ "/assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Over time, most critical analyses have converged on the second explanation. Investigators examined perspective, depth of field, illumination, edge sharpness, and the apparent motion of the object across successive frames. Later discussions also drew attention to inconsistencies in witness provenance and to José Luis Jordán Peña’s eventual confession to orchestrating the Ummo affair. None of these points alone definitively proves how the photographs were produced, but together they created a cumulative sceptical case that the images were staged rather than documentary evidence of an extraterrestrial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ummo/guardiacivil01.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">the claim that Guardia Civil authenticated alleged Ummo...3 Apr 2005 — When a photographer ends up admitting that the photograph...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[2academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Picture from the series of photographs forged on June 1, 1967, at San José de Valderas...</span><span class="citation-popover-meta">Published: June 1, 1967</span></span></span>
+Over time, most critical analyses have converged on the second explanation. Investigators examined perspective, depth of field, illumination, edge sharpness, and the apparent motion of the object across successive frames. Later discussions also drew attention to inconsistencies in witness provenance and to José Luis Jordán Peña’s eventual confession to orchestrating the Ummo affair. None of these points alone definitively proves how the photographs were produced, but together they created a cumulative sceptical case that the images were staged rather than documentary evidence of an extraterrestrial craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ummo/guardiacivil01.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">the claim that Guardia Civil authenticated alleged Ummo...3 Apr 2005 — When a photographer ends up admitting that the photograph...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[2academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Picture from the series of photographs forged on June 1, 1967, at San José de Valderas...</span><span class="citation-popover-meta">Published: June 1, 1967</span></span></span>
 
 ## Early sceptical critiques focused on photographic behaviour
 
@@ -263,13 +263,13 @@ Investigators also questioned the consistency of scale. The object appears relat
 
 Another issue involved the emblem painted on the underside of the craft. The Ummo symbol appears crisp and highly legible in some reproductions. Sceptics argued that a genuinely distant airborne object would normally require either exceptional optical conditions or a very large symbol for such clarity to appear in modest amateur photography of the period. In contrast, a nearby model with painted markings would naturally produce that level of definition.
 
-These doubts became influential because they relied less on speculation about aliens and more on ordinary photographic mechanics: focus distance, object size, and lighting geometry. Later sceptical handbooks on UFO photography frequently cited the Valderas images as examples of how persuasive staged photographs could become when a dramatic narrative already existed around them. [Yumpu](#endnote-2 "Snippet: 24 Mar 2013 — Some famous photographs taken in<br />. the Madrid district of San Jose de Valderas were held <strong>for</strong> years as...") [2Ufologie](#endnote-9 "Snippet: Ufologiethe claim that Guardia Civil authenticated alleged Ummo...3 Apr 2005 — When a photographer ends up admitting that the photograph...")
+These doubts became influential because they relied less on speculation about aliens and more on ordinary photographic mechanics: focus distance, object size, and lighting geometry. Later sceptical handbooks on UFO photography frequently cited the Valderas images as examples of how persuasive staged photographs could become when a dramatic narrative already existed around them. [Yumpu](#endnote-2 "Snippet: 24 Mar 2013 — Some famous photographs taken in<br />. the Madrid district of San Jose de Valderas were held<strong>for</strong> years as...") [2Ufologie](#endnote-9 "Snippet: Ufologiethe claim that Guardia Civil authenticated alleged Ummo...3 Apr 2005 — When a photographer ends up admitting that the photograph...")
 
 ## The suspension-wire controversy
 
 Perhaps the most famous technical dispute surrounding the Ummo photographs concerns the alleged visibility of a suspension thread or wire. Some critics claimed enlarged reproductions revealed a thin line extending above the object, implying that the saucer was hanging from a string.
 
-This argument became controversial because later examinations reportedly failed to confirm the line conclusively. Supporters of the photographs sometimes presented this as proof that sceptics had fabricated evidence. The reality was narrower and more limited. A later Guardia Civil photographic assessment reportedly challenged the certainty of the visible-wire claim, but this did not authenticate the object itself or overturn the broader case for staging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ummo/guardiacivil01.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">the claim that Guardia Civil authenticated alleged Ummo...3 Apr 2005 — When a photographer ends up admitting that the photograph...</span></span></span>
+This argument became controversial because later examinations reportedly failed to confirm the line conclusively. Supporters of the photographs sometimes presented this as proof that sceptics had fabricated evidence. The reality was narrower and more limited. A later Guardia Civil photographic assessment reportedly challenged the certainty of the visible-wire claim, but this did not authenticate the object itself or overturn the broader case for staging.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ummo/guardiacivil01.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">the claim that Guardia Civil authenticated alleged Ummo...3 Apr 2005 — When a photographer ends up admitting that the photograph...</span></span></span>
 
 That distinction matters. Even if one specific “wire” interpretation was overstated, the larger sceptical analysis did not depend solely on a visible thread. Critics continued to argue that the photographs displayed characteristics typical of suspended miniatures even without a detectable support line.
 
@@ -307,15 +307,15 @@ Lighting analysis became one of the most technically detailed sceptical avenues.
 
 Some argued that the tonal gradients on the object looked more like controlled lighting on a small studio-style model than sunlight interacting with a large reflective craft outdoors. Particular attention focused on the underside shading and on whether the emblem area behaved consistently with the claimed sun angle.
 
-While no universally accepted reconstruction emerged, the lighting issue reinforced the impression that the object did not fully integrate with the surrounding scene. Even sceptics who disagreed about specific measurements often agreed that the craft appeared visually detached from the atmosphere around it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ummo/guardiacivil01.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">the claim that Guardia Civil authenticated alleged Ummo...3 Apr 2005 — When a photographer ends up admitting that the photograph...</span></span></span>
+While no universally accepted reconstruction emerged, the lighting issue reinforced the impression that the object did not fully integrate with the surrounding scene. Even sceptics who disagreed about specific measurements often agreed that the craft appeared visually detached from the atmosphere around it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ummo/guardiacivil01.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">the claim that Guardia Civil authenticated alleged Ummo...3 Apr 2005 — When a photographer ends up admitting that the photograph...</span></span></span>
 
 ## CNES-related discussions and later technical culture
 
 References to CNES, the French space agency, and later French UFO study groups sometimes appear in discussions of the Ummo photographs. The connection is usually indirect rather than institutional endorsement of the images.
 
-French UFO researchers associated with official or semi-official study environments, including figures linked to later CNES-related work, discussed the Ummo affair as part of broader debates about deception and psychological manipulation in UFO culture. Jacques Vallée in particular treated Ummo as an important example of how elaborate narratives, forged documentation, and carefully staged evidence could influence both believers and investigators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/vallee-jacques-revelations_202012/Vall%C3%A9e%20Jacques%20-%20Revelations_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Vallée Jacques Revelations&quot;Dr</span><span class="citation-popover-snippet">Vallee presents startling evidence that well-constructed hoaxes and media manipulations have misled UFO researchers, diverting them from...</span></span></span>
+French UFO researchers associated with official or semi-official study environments, including figures linked to later CNES-related work, discussed the Ummo affair as part of broader debates about deception and psychological manipulation in UFO culture. Jacques Vallée in particular treated Ummo as an important example of how elaborate narratives, forged documentation, and carefully staged evidence could influence both believers and investigators.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/vallee-jacques-revelations_202012/Vall%C3%A9e%20Jacques%20-%20Revelations_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Vallée Jacques Revelations&quot;Dr</span><span class="citation-popover-snippet">Vallee presents startling evidence that well-constructed hoaxes and media manipulations have misled UFO researchers, diverting them from...</span></span></span>
 
-Modern CNES activity through GEIPAN — the French governmental UFO study body — reflects a far more methodical evidential framework than existed in the 1960s. GEIPAN publicly emphasises rational investigation, image analysis, and elimination of conventional explanations rather than promotion of extraterrestrial hypotheses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">GEIPAN7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives inf...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[2cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">vanced (or futuristic) technologies...</span></span></span>
+Modern CNES activity through GEIPAN — the French governmental UFO study body — reflects a far more methodical evidential framework than existed in the 1960s. GEIPAN publicly emphasises rational investigation, image analysis, and elimination of conventional explanations rather than promotion of extraterrestrial hypotheses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">GEIPAN7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives inf...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[2cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">vanced (or futuristic) technologies...</span></span></span>
 
 Because of this later analytical culture, retrospective discussions of the Ummo photographs increasingly treated them not as isolated UFO images but as case studies in evidential contamination:
 
@@ -335,7 +335,7 @@ From a sceptical standpoint, this sequence matters greatly. Rather than an unexp
 
 ## The effect of Jordán Peña’s confession
 
-The technical critiques gained additional force after José Luis Jordán Peña publicly claimed responsibility for orchestrating the Ummo deception. According to later accounts, Peña stated that the San José de Valderas photographs formed part of a deliberate attempt to support the larger Ummo narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Picture from the series of photographs forged on June 1, 1967, at San José de Valderas...</span><span class="citation-popover-meta">Published: June 1, 1967</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strangemag.com/ummo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strangemag.com">[2strangemag.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strangemag.com</span><span class="citation-popover-snippet">ysis, where did Jordan...Read more...</span></span></span>
+The technical critiques gained additional force after José Luis Jordán Peña publicly claimed responsibility for orchestrating the Ummo deception. According to later accounts, Peña stated that the San José de Valderas photographs formed part of a deliberate attempt to support the larger Ummo narrative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Picture from the series of photographs forged on June 1, 1967, at San José de Valderas...</span><span class="citation-popover-meta">Published: June 1, 1967</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strangemag.com/ummo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strangemag.com">[2strangemag.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strangemag.com</span><span class="citation-popover-snippet">ysis, where did Jordan...Read more...</span></span></span>
 
 Confession alone does not automatically solve every evidential question. Some believers argued that Peña exaggerated his role or inserted himself into a phenomenon that had grown beyond him. Others suggested he might have mixed truth and fabrication.
 
@@ -349,7 +349,7 @@ This shifted the debate away from “Can we prove the object was a model?” tow
 
 The Ummo photographs remain important because they reveal how persuasive UFO imagery can become when supported by narrative structure, symbolic consistency, and social expectation.
 
-Technically, the photographs are no longer regarded by most researchers as strong evidence of an unknown craft. The dominant interpretation today is that they were staged using a small model, likely suspended or otherwise positioned for forced-perspective photography. The exact production method remains debated, but the sceptical consensus rests on cumulative indicators rather than a single “smoking gun”. [Ufologie](#endnote-9 "Snippet: Ufologiethe claim that Guardia Civil authenticated alleged Ummo...3 Apr 2005 — When a photographer ends up admitting that the photograph...") [Yumpu At the same time](#endnote-2 "Snippet: 24 Mar 2013 — Some famous photographs taken in<br />. the Madrid district of San Jose de Valderas were held <strong>for</strong> years as..."), the case retains historical value because it anticipated later controversies around manipulated UFO evidence. The Valderas images demonstrated several recurring patterns:
+Technically, the photographs are no longer regarded by most researchers as strong evidence of an unknown craft. The dominant interpretation today is that they were staged using a small model, likely suspended or otherwise positioned for forced-perspective photography. The exact production method remains debated, but the sceptical consensus rests on cumulative indicators rather than a single “smoking gun”. [Ufologie](#endnote-9 "Snippet: Ufologiethe claim that Guardia Civil authenticated alleged Ummo...3 Apr 2005 — When a photographer ends up admitting that the photograph...") [Yumpu At the same time](#endnote-2 "Snippet: 24 Mar 2013 — Some famous photographs taken in<br />. the Madrid district of San Jose de Valderas were held<strong>for</strong> years as..."), the case retains historical value because it anticipated later controversies around manipulated UFO evidence. The Valderas images demonstrated several recurring patterns:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -365,194 +365,194 @@ For historians of UFO culture, the Ummo photographs are therefore significant le
 <img src="{{ "/assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-3-dark.svg" | relative_url }}" alt="Photo Analysis illustration 3" data-theme-src-dark="{{ "/assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ummo_photographs_196_ed7563_photographic_analysi_b87050-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could the 1967 Ummo Photographs Have Been Staged?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could the 1967 Ummo Photographs Have Been Staged?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches how to identify tabletop or hanging-model setups by tracking why the disc remains unnaturally centered and sharp.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches how to identify tabletop or hanging-model setups by tracking why the disc remains unnaturally centered and sharp.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Analyzes the global footprint of the Ummo case files, evaluating why the cumulative skeptical case effectively closes the document.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Analyzes the global footprint of the Ummo case files, evaluating why the cumulative skeptical case effectively closes the document.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Addresses why striking visual properties must face rigorous physical analysis to separate independent proof from a staged setup.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses why striking visual properties must face rigorous physical analysis to separate independent proof from a staged setup.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
-        </h4>
-        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+</h4>
+<p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
         
-        <p class="fr-book-desc">Provides historical retrospectives reviewing why the San Jose de Valderas series was an unusually effective piece of 1960s forgery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical retrospectives reviewing why the San Jose de Valderas series was an unusually effective piece of 1960s forgery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Canvas Print Personalised Photo Picture Poster Frameless Wall Art Gift UK"><img src="{{ '/assets/images/marketplace-covers/efa75b6dba272df67373.jpg' | relative_url }}" alt="Listing image for Custom Canvas Print Personalised Photo Picture Poster Frameless Wall Art Gift UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Custom Canvas Print Personalised Photo Picture Poster Frameless Wall Art Gift UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for photo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: photo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Canvas Print Personalised Photo Picture Poster Frameless Wall Art Gift UK"><img src="{{ '/assets/images/marketplace-covers/efa75b6dba272df67373.jpg' | relative_url }}" alt="Listing image for Custom Canvas Print Personalised Photo Picture Poster Frameless Wall Art Gift UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Custom Canvas Print Personalised Photo Picture Poster Frameless Wall Art Gift UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for photo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: photo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Poster Paper Print Glossy Photo Custom High Quality 170gsm A1/A2/A3"><img src="{{ '/assets/images/marketplace-covers/19a338b36d8993a04d58.jpg' | relative_url }}" alt="Listing image for Personalized Poster Paper Print Glossy Photo Custom High Quality 170gsm A1/A2/A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Personalized Poster Paper Print Glossy Photo Custom High Quality 170gsm A1/A2/A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for photo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: photo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Poster Paper Print Glossy Photo Custom High Quality 170gsm A1/A2/A3"><img src="{{ '/assets/images/marketplace-covers/19a338b36d8993a04d58.jpg' | relative_url }}" alt="Listing image for Personalized Poster Paper Print Glossy Photo Custom High Quality 170gsm A1/A2/A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Personalized Poster Paper Print Glossy Photo Custom High Quality 170gsm A1/A2/A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for photo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: photo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Poster Paper Print Glossy Photo Custom High Quality 240gsm A1A2A3A4"><img src="{{ '/assets/images/marketplace-covers/4204da581c3f6325556e.jpg' | relative_url }}" alt="Listing image for Personalized Poster Paper Print Glossy Photo Custom High Quality 240gsm A1A2A3A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Personalized Poster Paper Print Glossy Photo Custom High Quality 240gsm A1A2A3A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for photo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: photo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Poster Paper Print Glossy Photo Custom High Quality 240gsm A1A2A3A4"><img src="{{ '/assets/images/marketplace-covers/4204da581c3f6325556e.jpg' | relative_url }}" alt="Listing image for Personalized Poster Paper Print Glossy Photo Custom High Quality 240gsm A1A2A3A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Personalized Poster Paper Print Glossy Photo Custom High Quality 240gsm A1A2A3A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for photo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: photo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Full Colour Poster Photo Printing / print - 200gsm Gloss,matt or Satin Paper"><img src="{{ '/assets/images/marketplace-covers/ce882fff2ee9c86967fb.jpg' | relative_url }}" alt="Listing image for Full Colour Poster Photo Printing / print - 200gsm Gloss,matt or Satin Paper" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Full Colour Poster Photo Printing / print - 200gsm Gloss,matt or Satin Paper</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for photo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: photo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Full Colour Poster Photo Printing / print - 200gsm Gloss,matt or Satin Paper"><img src="{{ '/assets/images/marketplace-covers/ce882fff2ee9c86967fb.jpg' | relative_url }}" alt="Listing image for Full Colour Poster Photo Printing / print - 200gsm Gloss,matt or Satin Paper" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Full Colour Poster Photo Printing / print - 200gsm Gloss,matt or Satin Paper</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for photo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: photo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=photo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="photo poster -book -books -dvd" data-ebay-reference="photo-analysis-could-the-1967-ummo-photographs-have-been-staged-ummo-photographs-1967-photo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -568,7 +568,7 @@ For historians of UFO culture, the Ummo photographs are therefore significant le
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -588,7 +588,7 @@ For historians of UFO culture, the Ummo photographs are therefore significant le
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -620,7 +620,7 @@ For historians of UFO culture, the Ummo photographs are therefore significant le
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -672,7 +672,7 @@ For historians of UFO culture, the Ummo photographs are therefore significant le
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -717,7 +717,7 @@ For historians of UFO culture, the Ummo photographs are therefore significant le
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -758,108 +758,108 @@ For historians of UFO culture, the Ummo photographs are therefore significant le
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: academia.edu  
    Title: On the AAWSAP AATIP Confusion  
-   Link: <a href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Picture from the series of photographs forged on June 1, 1967, at San José de Valderas...</p></details>
+   Link:<a href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Picture from the series of photographs forged on June 1, 1967, at San José de Valderas...</p></details>
    Published: June 1, 1967  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: yumpu.com  
    Title: UFO STUDY A Handbook for Enthusiasts SECOND  
-   Link: <a href="https://www.yumpu.com/en/document/view/11562456/ufo-study-a-handbook-for-enthusiasts-second-ufo-online" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/11562456/ufo-study-a-handbook-for-enthusiasts-second-ufo-online</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>24 Mar 2013 — Some famous photographs taken in&lt;br /&gt;. the Madrid district of San Jose de Valderas were held &lt;strong&gt;for&lt;/strong&gt; years as...</p></details>
+   Link:<a href="https://www.yumpu.com/en/document/view/11562456/ufo-study-a-handbook-for-enthusiasts-second-ufo-online" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/11562456/ufo-study-a-handbook-for-enthusiasts-second-ufo-online</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>24 Mar 2013 — Some famous photographs taken in&lt;br /&gt;. the Madrid district of San Jose de Valderas were held &lt;strong&gt;for&lt;/strong&gt; years as...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Vallée Jacques Revelations"Dr  
-   Link: <a href="https://archive.org/stream/vallee-jacques-revelations_202012/Vall%C3%A9e%20Jacques%20-%20Revelations_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/vallee-jacques-revelations_202012/Vall%C3%A9e%20Jacques%20-%20Revelations_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vallee presents startling evidence that well-constructed hoaxes and media manipulations have misled UFO researchers, diverting them from...</p></details>
+   Link:<a href="https://archive.org/stream/vallee-jacques-revelations_202012/Vall%C3%A9e%20Jacques%20-%20Revelations_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/vallee-jacques-revelations_202012/Vall%C3%A9e%20Jacques%20-%20Revelations_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vallee presents startling evidence that well-constructed hoaxes and media manipulations have misled UFO researchers, diverting them from...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cnes.fr  
-   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives inf...</p></details>
+   Link:<a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives inf...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>vanced (or futuristic) technologies...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>vanced (or futuristic) technologies...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: strangemag.com  
-   Link: <a href="https://www.strangemag.com/ummo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.strangemag.com/ummo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ysis, where did Jordan...Read more...</p></details>
+   Link:<a href="https://www.strangemag.com/ummo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.strangemag.com/ummo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ysis, where did Jordan...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/southitalianvolc00johniala/southitalianvolc00johniala_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/southitalianvolc00johniala/southitalianvolc00johniala_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;The South Italian volcanoesFull text of &quot;The South Italian volcanoes; being the account of an excursion to them made by Eng...</p></details>
+   Link:<a href="https://archive.org/stream/southitalianvolc00johniala/southitalianvolc00johniala_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/southitalianvolc00johniala/southitalianvolc00johniala_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;The South Italian volcanoesFull text of &quot;The South Italian volcanoes; being the account of an excursion to them made by Eng...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ia801305.us.archive.org  
    Title: 2015.164772.Fisheries Review Vol40 No2 1995 text  
-   Link: <a href="https://ia801305.us.archive.org/3/items/in.ernet.dli.2015.164772/2015.164772.Fisheries-Review-Vol40-No2-1995_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801305.us.archive.org/3/items/in.ernet.dli.2015.164772/2015.164772.Fisheries-Review-Vol40-No2-1995_text.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Review Vol.40 No.2 1995... ANALYSIS OF ARTIFICIAL SEAGRASS SYSTEMS IN THE. ASEAN REGION. Proceed/ngs of the Fifth. International Conferen...</p></details>
+   Link:<a href="https://ia801305.us.archive.org/3/items/in.ernet.dli.2015.164772/2015.164772.Fisheries-Review-Vol40-No2-1995_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801305.us.archive.org/3/items/in.ernet.dli.2015.164772/2015.164772.Fisheries-Review-Vol40-No2-1995_text.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review Vol.40 No.2 1995... ANALYSIS OF ARTIFICIAL SEAGRASS SYSTEMS IN THE. ASEAN REGION. Proceed/ngs of the Fifth. International Conferen...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/ummo/guardiacivil01.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/ummo/guardiacivil01.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the claim that Guardia Civil authenticated alleged Ummo...3 Apr 2005 — When a photographer ends up admitting that the photograph...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/ummo/guardiacivil01.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/ummo/guardiacivil01.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the claim that Guardia Civil authenticated alleged Ummo...3 Apr 2005 — When a photographer ends up admitting that the photograph...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/883153099972134/posts/1207996664154441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/883153099972134/posts/1207996664154441/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What are the origins of the Ummo letters from alleged...In the early 1960s, mysterious, typed letters began arriving at the homes and of...</p></details>
+   Link:<a href="https://www.facebook.com/groups/883153099972134/posts/1207996664154441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/883153099972134/posts/1207996664154441/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What are the origins of the Ummo letters from alleged...In the early 1960s, mysterious, typed letters began arriving at the homes and of...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: gettyimages.com  
-   Link: <a href="https://www.gettyimages.com/photos/jacques-vallee" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/jacques-vallee</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>100 Jacques Vallee Photos &amp; High Res PicturesBrowse Getty Images&#x27; premium collection of high-quality, authentic Jacques Vallee photos &amp; r...</p></details>
+   Link:<a href="https://www.gettyimages.com/photos/jacques-vallee" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/jacques-vallee</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>100 Jacques Vallee Photos &amp; High Res PicturesBrowse Getty Images&#x27; premium collection of high-quality, authentic Jacques Vallee photos &amp; r...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1g8r537/france_24_reporting_about_geipan_the_unit_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g8r537/france_24_reporting_about_geipan_the_unit_of_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>France 24 reporting about GEIPAN, the unit of the French...GEIPAN&#x27;s UFO image analysis needs has, at least in the past, been served by t...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1g8r537/france_24_reporting_about_geipan_the_unit_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g8r537/france_24_reporting_about_geipan_the_unit_of_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>France 24 reporting about GEIPAN, the unit of the French...GEIPAN&#x27;s UFO image analysis needs has, at least in the past, been served by t...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: txarchives.org  
-   Link: <a href="https://txarchives.org/ricewrc/finding_aids/01168.xml" target="_blank" rel="noopener noreferrer nofollow">https://txarchives.org/ricewrc/finding_aids/01168.xml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques Vallee UFO and paranormal phenomena papersThe collection includes background files, correspondence, field notes, and press docume...</p></details>
+   Link:<a href="https://txarchives.org/ricewrc/finding_aids/01168.xml" target="_blank" rel="noopener noreferrer nofollow">https://txarchives.org/ricewrc/finding_aids/01168.xml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques Vallee UFO and paranormal phenomena papersThe collection includes background files, correspondence, field notes, and press docume...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: goodreads.com  
-   Link: <a href="https://www.goodreads.com/book/show/22663041-revelations" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/22663041-revelations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Revelations: Alien Contact and Human DeceptionJacques Vallee presents startling evidence that well-constructed hoaxes and media manipulat...</p></details>
+   Link:<a href="https://www.goodreads.com/book/show/22663041-revelations" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/22663041-revelations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revelations: Alien Contact and Human DeceptionJacques Vallee presents startling evidence that well-constructed hoaxes and media manipulat...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/doc/251572168/INEXPLICATA-UFOs-in-Latin-America-and-Spain" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/251572168/INEXPLICATA-UFOs-in-Latin-America-and-Spain</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Latin America History | PDF | Young Adult4 INEXPLICATA – UFOs IN HISTORY: LATIN AMERICA AND SPAIN The document discusses...</p></details>
+   Link:<a href="https://www.scribd.com/doc/251572168/INEXPLICATA-UFOs-in-Latin-America-and-Spain" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/251572168/INEXPLICATA-UFOs-in-Latin-America-and-Spain</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Latin America History | PDF | Young Adult4 INEXPLICATA – UFOs IN HISTORY: LATIN AMERICA AND SPAIN The document discusses...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: wearethemutants.com  
-   Link: <a href="https://wearethemutants.com/2019/02/12/an-immoral-experiment-the-spiritual-political-and-ufological-significance-of-the-ummo-letters/" target="_blank" rel="noopener noreferrer nofollow">https://wearethemutants.com/2019/02/12/an-immoral-experiment-the-spiritual-political-and-ufological-significance-of-the-ummo-letters/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“An Immoral Experiment”: The Spiritual, Political, and...12 Feb 2019 — Ufologist Jacques Vallée&#x27;s analysis of the UMMO documents in his...</p></details>
+   Link:<a href="https://wearethemutants.com/2019/02/12/an-immoral-experiment-the-spiritual-political-and-ufological-significance-of-the-ummo-letters/" target="_blank" rel="noopener noreferrer nofollow">https://wearethemutants.com/2019/02/12/an-immoral-experiment-the-spiritual-political-and-ufological-significance-of-the-ummo-letters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“An Immoral Experiment”: The Spiritual, Political, and...12 Feb 2019 — Ufologist Jacques Vallée&#x27;s analysis of the UMMO documents in his...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/57380934/Ummo" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/57380934/Ummo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 pages. The Ummo Affair: UFO Hoax Unveiled. PDF. No ratings yet. The Ummo Affair: UFO Hoax Unveiled. 35 pages. Ummite...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/57380934/Ummo" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/57380934/Ummo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 pages. The Ummo Affair: UFO Hoax Unveiled. PDF. No ratings yet. The Ummo Affair: UFO Hoax Unveiled. 35 pages. Ummite...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=W9iiDfygBCY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W9iiDfygBCY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=W9iiDfygBCY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W9iiDfygBCY</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/frommers-madrid-4nbsped-0470881445-9780470881446-9781118013045-9781118013052-9781118013069.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/frommers-madrid-4nbsped-0470881445-9780470881446-9781118013045-9781118013052-9781118013069.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Transfer to Metro... hanging Serrano hams, cloves of garlic, and photographs of bullfighters. It...Read more...</p></details>
+   Link:<a href="https://dokumen.pub/frommers-madrid-4nbsped-0470881445-9780470881446-9781118013045-9781118013052-9781118013069.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/frommers-madrid-4nbsped-0470881445-9780470881446-9781118013045-9781118013052-9781118013069.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transfer to Metro... hanging Serrano hams, cloves of garlic, and photographs of bullfighters. It...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: tc-file-server.travellercollection.ie  
-   Link: <a href="https://tc-file-server.travellercollection.ie/assets/media/items/5eb4417bf2ff151113f3e14c/original/0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tc-file-server.travellercollection.ie/assets/media/items/5eb4417bf2ff151113f3e14c/original/0.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Resource Collection Compiled by Aileen L&#x27;Amie, University...Tnis volume forms part of a resource collection cm the Irish Travelling People...</p></details>
+   Link:<a href="https://tc-file-server.travellercollection.ie/assets/media/items/5eb4417bf2ff151113f3e14c/original/0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tc-file-server.travellercollection.ie/assets/media/items/5eb4417bf2ff151113f3e14c/original/0.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Resource Collection Compiled by Aileen L&#x27;Amie, University...Tnis volume forms part of a resource collection cm the Irish Travelling People...</p></details>

@@ -758,33 +758,33 @@ image: /assets/images/Claude_Vorilhon_cont_ec941c-overview-social.jpg
 
 ## What Vorilhon said happened at Puy de Lassolas
 
-The core account places the first contact on the morning of 13 December 1973 at Puy de Lassolas, a volcanic site in central France. The Raëlian movement’s own account says Vorilhon, aged 27 and still running a racing-car magazine, encountered “a human being from another planet” who gave him an explanation of humanity’s origins and instructions for humanity’s future. The same official account says the visitor was named Yahweh and that Vorilhon returned for six consecutive meetings at the same location before accepting the mission to inform humanity and prepare an embassy for the creators, called the Elohim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rael.org/rael/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rael.org">[RAEL.ORG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rael.org</span><span class="citation-popover-title">The Last Prophet, Rael</span><span class="citation-popover-snippet">The Last Prophet, Rael</span></span></span>
+The core account places the first contact on the morning of 13 December 1973 at Puy de Lassolas, a volcanic site in central France. The Raëlian movement’s own account says Vorilhon, aged 27 and still running a racing-car magazine, encountered “a human being from another planet” who gave him an explanation of humanity’s origins and instructions for humanity’s future. The same official account says the visitor was named Yahweh and that Vorilhon returned for six consecutive meetings at the same location before accepting the mission to inform humanity and prepare an embassy for the creators, called the Elohim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rael.org/rael/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rael.org">[RAEL.ORG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rael.org</span><span class="citation-popover-title">The Last Prophet, Rael</span><span class="citation-popover-snippet">The Last Prophet, Rael</span></span></span>
 
 <img src="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-overview.webp" | relative_url }}" alt="Overview image for Claude Vorilhon contact 1973" loading="eager" decoding="sync" fetchpriority="high">
-Academic summaries of the testimony add the concrete details that make the case recognisable within UFO-contactee literature. The being is described as a diminutive humanoid, about 1.2 metres tall, with almond-shaped eyes, black hair, a small beard, pale skin with a slight greenish tint, and communication in French, often described as telepathic. In the narrative, the visitor instructs Vorilhon to return, avoid metal, bring a Bible and a notebook, and receive teachings over successive meetings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdamm.org/articles/international-raelian-movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">International Raëlian Movement</span><span class="citation-popover-snippet">International Raëlian Movement</span></span></span>
+Academic summaries of the testimony add the concrete details that make the case recognisable within UFO-contactee literature. The being is described as a diminutive humanoid, about 1.2 metres tall, with almond-shaped eyes, black hair, a small beard, pale skin with a slight greenish tint, and communication in French, often described as telepathic. In the narrative, the visitor instructs Vorilhon to return, avoid metal, bring a Bible and a notebook, and receive teachings over successive meetings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdamm.org/articles/international-raelian-movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">International Raëlian Movement</span><span class="citation-popover-snippet">International Raëlian Movement</span></span></span>
 
-The message, as later published, was not simply “aliens exist”. It claimed that the Elohim were scientifically advanced extraterrestrial beings who created life on Earth through genetic engineering, that ancient scriptures had misunderstood them as gods, and that major religious prophets were earlier messengers sent by the same creators. Vorilhon’s role, under the name Raël, was to become the final messenger and organise humanity’s welcome for the Elohim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: religionmediacentre.org.uk">[Religion Media Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">religionmediacentre.org.uk</span><span class="citation-popover-title">Religion Media Centre Factsheet: the Raëlian movement</span><span class="citation-popover-snippet">Religion Media Centre Factsheet: the Raëlian movement</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdamm.org/articles/international-raelian-movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">International Raëlian Movement</span><span class="citation-popover-snippet">International Raëlian Movement</span></span></span>
+The message, as later published, was not simply “aliens exist”. It claimed that the Elohim were scientifically advanced extraterrestrial beings who created life on Earth through genetic engineering, that ancient scriptures had misunderstood them as gods, and that major religious prophets were earlier messengers sent by the same creators. Vorilhon’s role, under the name Raël, was to become the final messenger and organise humanity’s welcome for the Elohim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: religionmediacentre.org.uk">[Religion Media Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">religionmediacentre.org.uk</span><span class="citation-popover-title">Religion Media Centre Factsheet: the Raëlian movement</span><span class="citation-popover-snippet">Religion Media Centre Factsheet: the Raëlian movement</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdamm.org/articles/international-raelian-movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">International Raëlian Movement</span><span class="citation-popover-snippet">International Raëlian Movement</span></span></span>
 
 ## A short chronology of the claim and its immediate aftermath
 
 The chronology matters because the encounter was not reported as an isolated sighting that later faded. It became a publishing project, a public mission, and the origin story of a new religious movement.
 
-* **1973:** Vorilhon claims the first contact occurred on 13 December at Puy de Lassolas. Some secondary reference works give variant dates, including 1 December or 3 December, but the movement’s own site and several scholarly summaries use 13 December. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rael.org/wp-content/uploads/2022/04/Intelligent_Design_ENGLISH.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rael.org">[RAEL.ORG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rael.org</span><span class="citation-popover-snippet">Open source on rael.org.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.openedition.org/rhc/7586" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.openedition.org">[OpenEdition Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.openedition.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/raelian-movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Raelian Movement &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Raelian Movement &#124; Encyclopedia.com</span></span></span>
-* **1974:** Vorilhon publishes *Le Livre qui dit la vérité*, presenting the claimed message from the extraterrestrials; scholars note that its subtitles explicitly frame it as a “contactee” testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.openedition.org/rhc/7586" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.openedition.org">[OpenEdition Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.openedition.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: religionmediacentre.org.uk">[Religion Media Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">religionmediacentre.org.uk</span><span class="citation-popover-title">Religion Media Centre Factsheet: the Raëlian movement</span><span class="citation-popover-snippet">Religion Media Centre Factsheet: the Raëlian movement</span></span></span>
-* **1974–1975:** He organises followers under MADECH, the “Movement for the Welcoming of the Elohim, Creators of Humanity”, before the movement later becomes the International Raëlian Movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdamm.org/articles/international-raelian-movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">International Raëlian Movement</span><span class="citation-popover-snippet">International Raëlian Movement</span></span></span>
-* **1975:** Vorilhon claims a second contact, in which he is taken to the Elohim’s planet and meets famous religious figures; this second episode is outside the direct 1973 contact but becomes important to the later religious system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: religionmediacentre.org.uk">[Religion Media Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">religionmediacentre.org.uk</span><span class="citation-popover-title">Religion Media Centre Factsheet: the Raëlian movement</span><span class="citation-popover-snippet">Religion Media Centre Factsheet: the Raëlian movement</span></span></span>
-* **Afterwards:** The movement builds a doctrine around extraterrestrial creation, anti-theistic religion, cloning, world government, and the proposed construction of an embassy for the Elohim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdamm.org/articles/international-raelian-movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">International Raëlian Movement</span><span class="citation-popover-snippet">International Raëlian Movement</span></span></span>
+* **1973:** Vorilhon claims the first contact occurred on 13 December at Puy de Lassolas. Some secondary reference works give variant dates, including 1 December or 3 December, but the movement’s own site and several scholarly summaries use 13 December.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rael.org/wp-content/uploads/2022/04/Intelligent_Design_ENGLISH.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rael.org">[RAEL.ORG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rael.org</span><span class="citation-popover-snippet">Open source on rael.org.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.openedition.org/rhc/7586" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.openedition.org">[OpenEdition Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.openedition.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/raelian-movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Raelian Movement &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Raelian Movement &#124; Encyclopedia.com</span></span></span>
+* **1974:** Vorilhon publishes *Le Livre qui dit la vérité*, presenting the claimed message from the extraterrestrials; scholars note that its subtitles explicitly frame it as a “contactee” testimony.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.openedition.org/rhc/7586" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.openedition.org">[OpenEdition Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.openedition.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: religionmediacentre.org.uk">[Religion Media Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">religionmediacentre.org.uk</span><span class="citation-popover-title">Religion Media Centre Factsheet: the Raëlian movement</span><span class="citation-popover-snippet">Religion Media Centre Factsheet: the Raëlian movement</span></span></span>
+* **1974–1975:** He organises followers under MADECH, the “Movement for the Welcoming of the Elohim, Creators of Humanity”, before the movement later becomes the International Raëlian Movement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdamm.org/articles/international-raelian-movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">International Raëlian Movement</span><span class="citation-popover-snippet">International Raëlian Movement</span></span></span>
+* **1975:** Vorilhon claims a second contact, in which he is taken to the Elohim’s planet and meets famous religious figures; this second episode is outside the direct 1973 contact but becomes important to the later religious system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: religionmediacentre.org.uk">[Religion Media Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">religionmediacentre.org.uk</span><span class="citation-popover-title">Religion Media Centre Factsheet: the Raëlian movement</span><span class="citation-popover-snippet">Religion Media Centre Factsheet: the Raëlian movement</span></span></span>
+* **Afterwards:** The movement builds a doctrine around extraterrestrial creation, anti-theistic religion, cloning, world government, and the proposed construction of an embassy for the Elohim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdamm.org/articles/international-raelian-movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">International Raëlian Movement</span><span class="citation-popover-snippet">International Raëlian Movement</span></span></span>
 
-A useful detail in assessing the setting is that Vorilhon’s previous career was under strain. Contemporary summaries and later scholarship note that he had been involved in motor-sport journalism and car testing, and that the oil-crisis-era restrictions on motor racing and fuel consumption in France affected this professional world. That context does not disprove the contact claim, but it helps explain why sceptical accounts often treat 1973–1974 as a moment of career rupture followed by religious reinvention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rael.org/wp-content/uploads/2020/04/Intelligent_Design2_FRENCH.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rael.org">[RAEL.ORG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rael.org</span><span class="citation-popover-title">Intelligent Design2 FRENCH</span><span class="citation-popover-snippet">Intelligent Design2 FRENCH</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ra%C3%ABlism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+A useful detail in assessing the setting is that Vorilhon’s previous career was under strain. Contemporary summaries and later scholarship note that he had been involved in motor-sport journalism and car testing, and that the oil-crisis-era restrictions on motor racing and fuel consumption in France affected this professional world. That context does not disprove the contact claim, but it helps explain why sceptical accounts often treat 1973–1974 as a moment of career rupture followed by religious reinvention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rael.org/wp-content/uploads/2020/04/Intelligent_Design2_FRENCH.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rael.org">[RAEL.ORG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rael.org</span><span class="citation-popover-title">Intelligent Design2 FRENCH</span><span class="citation-popover-snippet">Intelligent Design2 FRENCH</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ra%C3%ABlism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 <img src="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-1-dark.svg" | relative_url }}" alt="Claude Vorilhon contact 1973 illustration 1" data-theme-src-dark="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What evidence exists, and what is missing
 
 The evidential base is narrow. The case depends overwhelmingly on Vorilhon’s own account, later movement publications, and the religious structure built around them. There is no widely cited body of independent photographs, radar data, trace evidence, medical records, contemporaneous multi-witness testimony, or official UFO-investigation file that verifies a landed craft at Puy de Lassolas in December 1973.
 
-That absence is not a minor technicality. In UFO case assessment, the difference between a single-witness claim and a multi-source case is crucial. Here, the most detailed descriptions come from Vorilhon’s own books and from Raëlian retellings; external academic and journalistic sources generally report what he claimed rather than confirming the event. A 2024 *Le Monde* article, for example, states bluntly that there is still no trace of the alleged spacecraft associated with the story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lemonde.fr/le-monde-des-religions/article/2024/02/24/les-raeliens-cinquante-ans-de-propheties-extraterrestres_6218337_6038514.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lemonde.fr">[Le Monde.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lemonde.fr</span><span class="citation-popover-title">Le Monde.fr Les raëliens, cinquante ans de prophéties extraterrestres</span><span class="citation-popover-snippet">Le Monde.fr Les raëliens, cinquante ans de prophéties extraterrestres</span></span></span>
+That absence is not a minor technicality. In UFO case assessment, the difference between a single-witness claim and a multi-source case is crucial. Here, the most detailed descriptions come from Vorilhon’s own books and from Raëlian retellings; external academic and journalistic sources generally report what he claimed rather than confirming the event. A 2024 *Le Monde* article, for example, states bluntly that there is still no trace of the alleged spacecraft associated with the story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lemonde.fr/le-monde-des-religions/article/2024/02/24/les-raeliens-cinquante-ans-de-propheties-extraterrestres_6218337_6038514.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lemonde.fr">[Le Monde.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lemonde.fr</span><span class="citation-popover-title">Le Monde.fr Les raëliens, cinquante ans de prophéties extraterrestres</span><span class="citation-popover-snippet">Le Monde.fr Les raëliens, cinquante ans de prophéties extraterrestres</span></span></span>
 
-The contact narrative also contains features that make independent checking difficult. Scholars note that the descriptions of the craft and the extraterrestrial environment are limited in technical detail, and that the Elohim’s home planet is left unspecified beyond being “very far” away. That vagueness matters because it reduces the number of claims that could be tested against astronomy, engineering, geography, or independent observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.openedition.org/rhc/7586" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.openedition.org">[OpenEdition Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.openedition.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The contact narrative also contains features that make independent checking difficult. Scholars note that the descriptions of the craft and the extraterrestrial environment are limited in technical detail, and that the Elohim’s home planet is left unspecified beyond being “very far” away. That vagueness matters because it reduces the number of claims that could be tested against astronomy, engineering, geography, or independent observation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.openedition.org/rhc/7586" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.openedition.org">[OpenEdition Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.openedition.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The strongest documentary evidence is therefore not evidence of an extraterrestrial landing, but evidence that Vorilhon made the claim, published it, organised around it, and attracted followers. That distinction is central: the 1973 contact is historically important as the origin of a movement, while remaining evidentially weak as a UFO event.
 
@@ -792,39 +792,39 @@ The strongest documentary evidence is therefore not evidence of an extraterrestr
 
 ## How scholars classify the 1973 encounter
 
-The Puy de Lassolas story is often loosely described as a “close encounter of the third kind”, because it involves a UFO occupant. Some scholars argue that the label is imprecise. David Karbovnik, writing on the origins of the Raëlian movement, notes that the account goes beyond seeing an occupant: it includes direct communication and instruction, placing it within the broader “contactee” tradition rather than a simple sighting category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.openedition.org/rhc/7586" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.openedition.org">[OpenEdition Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.openedition.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Puy de Lassolas story is often loosely described as a “close encounter of the third kind”, because it involves a UFO occupant. Some scholars argue that the label is imprecise. David Karbovnik, writing on the origins of the Raëlian movement, notes that the account goes beyond seeing an occupant: it includes direct communication and instruction, placing it within the broader “contactee” tradition rather than a simple sighting category.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.openedition.org/rhc/7586" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.openedition.org">[OpenEdition Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.openedition.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That classification changes how the case should be read. A sighting case normally asks, “What did the witness see?” A contactee case asks an additional question: “What message, authority, and social role did the encounter create?” Vorilhon’s account immediately supplied a new name, a prophetic mission, a reinterpretation of the Bible, an origin story for humanity, and a concrete organisational goal: preparing an embassy for the Elohim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdamm.org/articles/international-raelian-movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">International Raëlian Movement</span><span class="citation-popover-snippet">International Raëlian Movement</span></span></span>
+That classification changes how the case should be read. A sighting case normally asks, “What did the witness see?” A contactee case asks an additional question: “What message, authority, and social role did the encounter create?” Vorilhon’s account immediately supplied a new name, a prophetic mission, a reinterpretation of the Bible, an origin story for humanity, and a concrete organisational goal: preparing an embassy for the Elohim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdamm.org/articles/international-raelian-movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">International Raëlian Movement</span><span class="citation-popover-snippet">International Raëlian Movement</span></span></span>
 
 This is why the case sits more naturally in the study of new religious movements than in the strongest evidential tier of UFO investigation. The claim is about a landed craft, but its historical consequences are religious, organisational, and cultural.
 
 ## Why the timing made the story powerful
 
-The 1973 contact claim landed in a receptive cultural environment. France, like much of the West, had a strong post-war UFO culture, and by the early 1970s “ancient astronaut” ideas — the claim that ancient religions and monuments reflected extraterrestrial intervention — were already popular. Raëlism’s message fused that mood with a modern-sounding vocabulary of DNA, laboratories, cloning, and planetary survival. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Ra%C3%ABl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdamm.org/articles/international-raelian-movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">International Raëlian Movement</span><span class="citation-popover-snippet">International Raëlian Movement</span></span></span>
+The 1973 contact claim landed in a receptive cultural environment. France, like much of the West, had a strong post-war UFO culture, and by the early 1970s “ancient astronaut” ideas — the claim that ancient religions and monuments reflected extraterrestrial intervention — were already popular. Raëlism’s message fused that mood with a modern-sounding vocabulary of DNA, laboratories, cloning, and planetary survival.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Ra%C3%ABl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdamm.org/articles/international-raelian-movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">International Raëlian Movement</span><span class="citation-popover-snippet">International Raëlian Movement</span></span></span>
 
-That blend helps explain the appeal of the narrative. It did not ask followers to believe in a supernatural God in the traditional sense. Instead, it recast gods as advanced scientists, scripture as misunderstood extraterrestrial history, and salvation as a future technological and diplomatic project. The Religion Media Centre describes Raëlianism as a new religious movement based on UFOs and extraterrestrial life, with the Elohim said to have created life using control of DNA. <span class="citation-chip-wrap"><a class="citation-chip" href="https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: religionmediacentre.org.uk">[Religion Media Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">religionmediacentre.org.uk</span><span class="citation-popover-title">Religion Media Centre Factsheet: the Raëlian movement</span><span class="citation-popover-snippet">Religion Media Centre Factsheet: the Raëlian movement</span></span></span>
+That blend helps explain the appeal of the narrative. It did not ask followers to believe in a supernatural God in the traditional sense. Instead, it recast gods as advanced scientists, scripture as misunderstood extraterrestrial history, and salvation as a future technological and diplomatic project. The Religion Media Centre describes Raëlianism as a new religious movement based on UFOs and extraterrestrial life, with the Elohim said to have created life using control of DNA.<span class="citation-chip-wrap"><a class="citation-chip" href="https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: religionmediacentre.org.uk">[Religion Media Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">religionmediacentre.org.uk</span><span class="citation-popover-title">Religion Media Centre Factsheet: the Raëlian movement</span><span class="citation-popover-snippet">Religion Media Centre Factsheet: the Raëlian movement</span></span></span>
 
 For readers assessing the 1973 episode, this means the message cannot be separated from the encounter. The event is not merely “a man saw a UFO”; it is a conversion story in which a marginal sighting becomes the foundation for a full worldview.
 
 <img src="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-2-dark.svg" | relative_url }}" alt="Claude Vorilhon contact 1973 illustration 2" data-theme-src-dark="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Witness credibility and corroboration
 
-Vorilhon was not an anonymous figure. Before Raëlism, he had worked as a singer under the name Claude Celler and as a motor-sport journalist, and the Raëlian movement’s own biography emphasises his racing and magazine background. That public profile helped him promote the story, appear in media, publish, and gather an audience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rael.org/rael/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rael.org">[RAEL.ORG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rael.org</span><span class="citation-popover-title">The Last Prophet, Rael</span><span class="citation-popover-snippet">The Last Prophet, Rael</span></span></span>
+Vorilhon was not an anonymous figure. Before Raëlism, he had worked as a singer under the name Claude Celler and as a motor-sport journalist, and the Raëlian movement’s own biography emphasises his racing and magazine background. That public profile helped him promote the story, appear in media, publish, and gather an audience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rael.org/rael/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rael.org">[RAEL.ORG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rael.org</span><span class="citation-popover-title">The Last Prophet, Rael</span><span class="citation-popover-snippet">The Last Prophet, Rael</span></span></span>
 
 At the same time, public profile is not corroboration. The 1973 claim rests on his personal testimony, and the movement’s later success can cut two ways in credibility assessment. Believers may see decades of commitment as evidence of sincerity. Sceptics may see the same trajectory as evidence that a personally unverifiable story became a source of authority, status, money, and control. Neither interpretation supplies independent proof of a landed craft.
 
-The case is also complicated by later controversies around the movement. France’s 1995 parliamentary report listed the Raëlian movement among groups considered sectarian, and later legal and public controversies continued to shape public perception. The European Court of Human Rights case involving the Swiss Raëlian movement also records official concern about Raëlian public campaigns, including issues around cloning and public order, even though such legal controversies do not directly prove or disprove the 1973 encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.assemblee-nationale.fr/rap-enq/r2468.asp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assemblee-nationale.fr">[National Assembly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assemblee-nationale.fr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hudoc.echr.coe.int/eng?i=001-102826" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hudoc.echr.coe.int">[HUDOC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hudoc.echr.coe.int</span><span class="citation-popover-title">HUDOCMOUVEMENT RAËLIEN SUISSE c. SUISSE</span><span class="citation-popover-snippet">HUDOCMOUVEMENT RAËLIEN SUISSE c. SUISSE</span></span></span>
+The case is also complicated by later controversies around the movement. France’s 1995 parliamentary report listed the Raëlian movement among groups considered sectarian, and later legal and public controversies continued to shape public perception. The European Court of Human Rights case involving the Swiss Raëlian movement also records official concern about Raëlian public campaigns, including issues around cloning and public order, even though such legal controversies do not directly prove or disprove the 1973 encounter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.assemblee-nationale.fr/rap-enq/r2468.asp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assemblee-nationale.fr">[National Assembly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assemblee-nationale.fr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://hudoc.echr.coe.int/eng?i=001-102826" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hudoc.echr.coe.int">[HUDOC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hudoc.echr.coe.int</span><span class="citation-popover-title">HUDOCMOUVEMENT RAËLIEN SUISSE c. SUISSE</span><span class="citation-popover-snippet">HUDOCMOUVEMENT RAËLIEN SUISSE c. SUISSE</span></span></span>
 
 <img src="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-3-dark.svg" | relative_url }}" alt="Claude Vorilhon contact 1973 illustration 3" data-theme-src-dark="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Claude_Vorilhon_cont_ec941c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Competing interpretations
 
 The main interpretations of the 1973 contact fall into three broad categories.
 
-**The Raëlian interpretation** treats the contact as literal history. On this reading, Vorilhon met an extraterrestrial emissary, received a true account of humanity’s engineered origins, and was appointed to prepare humanity for the return of its creators. The official Raëlian account presents the six meetings as the beginning of a mission that continues through the movement’s embassy project. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rael.org/wp-content/uploads/2022/04/Intelligent_Design_ENGLISH.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rael.org">[RAEL.ORG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rael.org</span><span class="citation-popover-snippet">Open source on rael.org.</span></span></span>
+**The Raëlian interpretation** treats the contact as literal history. On this reading, Vorilhon met an extraterrestrial emissary, received a true account of humanity’s engineered origins, and was appointed to prepare humanity for the return of its creators. The official Raëlian account presents the six meetings as the beginning of a mission that continues through the movement’s embassy project.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rael.org/wp-content/uploads/2022/04/Intelligent_Design_ENGLISH.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rael.org">[RAEL.ORG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rael.org</span><span class="citation-popover-snippet">Open source on rael.org.</span></span></span>
 
-**The sociological interpretation** treats the event as a founding myth in the technical sense: a story that gives a community its origin, identity, authority structure, and purpose. This does not require judging Vorilhon’s sincerity; it asks how the narrative functions. Scholars of religion have treated Raëlism as one of the most successful extraterrestrial new religious movements, with the 1973 contact at its centre. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdamm.org/articles/international-raelian-movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">International Raëlian Movement</span><span class="citation-popover-snippet">International Raëlian Movement</span></span></span>
+**The sociological interpretation** treats the event as a founding myth in the technical sense: a story that gives a community its origin, identity, authority structure, and purpose. This does not require judging Vorilhon’s sincerity; it asks how the narrative functions. Scholars of religion have treated Raëlism as one of the most successful extraterrestrial new religious movements, with the 1973 contact at its centre.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdamm.org/articles/international-raelian-movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">International Raëlian Movement</span><span class="citation-popover-snippet">International Raëlian Movement</span></span></span>
 
-**The sceptical interpretation** treats the claim as unverified and probably non-literal. The main reasons are the lack of independent physical evidence, the single-witness structure, the sparse technical detail, the convenient creation of a prophetic role, and the later organisational benefits that flowed from the story. Journalistic retrospectives commonly frame the movement’s later cloning claims and the original contact story together as examples of spectacular claims unsupported by adequate evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2002/dec/28/science.research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lemonde.fr/le-monde-des-religions/article/2024/02/24/les-raeliens-cinquante-ans-de-propheties-extraterrestres_6218337_6038514.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lemonde.fr">[Le Monde.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lemonde.fr</span><span class="citation-popover-title">Le Monde.fr Les raëliens, cinquante ans de prophéties extraterrestres</span><span class="citation-popover-snippet">Le Monde.fr Les raëliens, cinquante ans de prophéties extraterrestres</span></span></span>
+**The sceptical interpretation** treats the claim as unverified and probably non-literal. The main reasons are the lack of independent physical evidence, the single-witness structure, the sparse technical detail, the convenient creation of a prophetic role, and the later organisational benefits that flowed from the story. Journalistic retrospectives commonly frame the movement’s later cloning claims and the original contact story together as examples of spectacular claims unsupported by adequate evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2002/dec/28/science.research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lemonde.fr/le-monde-des-religions/article/2024/02/24/les-raeliens-cinquante-ans-de-propheties-extraterrestres_6218337_6038514.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lemonde.fr">[Le Monde.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lemonde.fr</span><span class="citation-popover-title">Le Monde.fr Les raëliens, cinquante ans de prophéties extraterrestres</span><span class="citation-popover-snippet">Le Monde.fr Les raëliens, cinquante ans de prophéties extraterrestres</span></span></span>
 
 The fairest assessment is that the 1973 contact is well documented as a claim and poorly supported as an event. It is not an evidentially strong UFO case; it is a highly consequential contactee narrative.
 
@@ -834,201 +834,201 @@ The fairest assessment is that the 1973 contact is well documented as a claim an
 
 Within a UFO case dossier, the Claude Vorilhon contact belongs in the branch of contactee and UFO-religion cases rather than in the branch of instrumented sightings or trace-evidence cases. Its value lies in showing how a claimed encounter can generate doctrine, leadership, ritual dates, publications, recruitment, and an international organisation.
 
-The most useful comparison is not with cases that turn on radar plots or landing marks, but with other twentieth-century contactee stories in which extraterrestrials deliver messages about peace, nuclear danger, human origins, or spiritual renewal. Vorilhon’s version is distinctive because it replaces mystical divinity with a technological creation story: the “gods” are scientists, scripture is misread history, and the future depends on humanity’s peaceful reception of its makers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdamm.org/articles/international-raelian-movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">International Raëlian Movement</span><span class="citation-popover-snippet">International Raëlian Movement</span></span></span>
+The most useful comparison is not with cases that turn on radar plots or landing marks, but with other twentieth-century contactee stories in which extraterrestrials deliver messages about peace, nuclear danger, human origins, or spiritual renewal. Vorilhon’s version is distinctive because it replaces mystical divinity with a technological creation story: the “gods” are scientists, scripture is misread history, and the future depends on humanity’s peaceful reception of its makers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdamm.org/articles/international-raelian-movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">International Raëlian Movement</span><span class="citation-popover-snippet">International Raëlian Movement</span></span></span>
 
 For evidence assessment, the takeaway is clear. The Puy de Lassolas claim has high documentary importance but low corroborative strength. It can be dated, traced through publications, and analysed as the origin of Raëlism; it cannot, on the public evidence available, be treated as a verified extraterrestrial encounter.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zwENJKTiARU" title="Season 3.6: The French Alien Cult Leader (Claude Vorilhon) &amp; The James Bond Actor (George Lazenby)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zwENJKTiARU" target="_blank" rel="noopener noreferrer">Season 3.6: The French Alien Cult Leader (Claude Vorilhon) &amp; The James Bond Actor (George Lazenby)</a></p><p class="youtube-embed-meta">Channel: History’s Greatest Idiots &middot; Views: 100 &middot; Uploaded: April 2023 &middot; Length: 1 hour 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zwENJKTiARU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zwENJKTiARU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did One UFO Encounter Create a Religion?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did One UFO Encounter Create a Religion?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explains the development of modern UFO-based belief systems from single-witness contact claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the development of modern UFO-based belief systems from single-witness contact claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Offers tools to separate factual UFO reports from founding mythologies used for organizational identity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers tools to separate factual UFO reports from founding mythologies used for organizational identity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides an objective profile of Claude Vorilhon and the emergence of the Raëlian movement in France.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides an objective profile of Claude Vorilhon and the emergence of the Raëlian movement in France.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sensual+Meditation+by+Claude+Rael&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sensual Meditation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_0qxAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sensual Meditation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sensual+Meditation+by+Claude+Rael&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sensual Meditation">Sensual Meditation</a>
-        </h4>
-        <p class="fr-book-author">By Claude Rael, Claude Vorilhon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sensual+Meditation+by+Claude+Rael&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sensual Meditation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_0qxAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sensual Meditation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sensual+Meditation+by+Claude+Rael&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sensual Meditation">Sensual Meditation</a>
+</h4>
+<p class="fr-book-author">By Claude Rael, Claude Vorilhon</p>
         
-        <p class="fr-book-desc">Outlines the movement&#x27;s foundational encounter narrative at Puy de Lassolas as presented by the founder.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sensual+Meditation+by+Claude+Rael&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Outlines the movement&#x27;s foundational encounter narrative at Puy de Lassolas as presented by the founder.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sensual+Meditation+by+Claude+Rael&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="claude-vorilhon-contact-1973-did-one-ufo-encounter-create-a-religion-ufo-poster-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1044,7 +1044,7 @@ For evidence assessment, the takeaway is clear. The Puy de Lassolas claim has hi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1064,7 +1064,7 @@ For evidence assessment, the takeaway is clear. The Puy de Lassolas claim has hi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1096,7 +1096,7 @@ For evidence assessment, the takeaway is clear. The Puy de Lassolas claim has hi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1148,7 +1148,7 @@ For evidence assessment, the takeaway is clear. The Puy de Lassolas claim has hi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1193,7 +1193,7 @@ For evidence assessment, the takeaway is clear. The Puy de Lassolas claim has hi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1234,159 +1234,159 @@ For evidence assessment, the takeaway is clear. The Puy de Lassolas claim has hi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: rael.org  
    Title: The Last Prophet, Rael  
-   Link: <a href="https://www.rael.org/rael/" target="_blank" rel="noopener noreferrer nofollow">https://www.rael.org/rael/</a>  
+   Link:<a href="https://www.rael.org/rael/" target="_blank" rel="noopener noreferrer nofollow">https://www.rael.org/rael/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: journals.openedition.org  
-   Link: <a href="https://journals.openedition.org/rhc/7586" target="_blank" rel="noopener noreferrer nofollow">https://journals.openedition.org/rhc/7586</a>  
+   Link:<a href="https://journals.openedition.org/rhc/7586" target="_blank" rel="noopener noreferrer nofollow">https://journals.openedition.org/rhc/7586</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdamm.org  
    Title: International Raëlian Movement  
-   Link: <a href="https://www.cdamm.org/articles/international-raelian-movement" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/international-raelian-movement</a>  
+   Link:<a href="https://www.cdamm.org/articles/international-raelian-movement" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/international-raelian-movement</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: encyclopedia.com  
    Title: Raelian Movement | Encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/raelian-movement" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/raelian-movement</a>  
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/raelian-movement" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/raelian-movement</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Ra%C3%ABlism" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ra%C3%ABlism</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ra%C3%ABlism" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ra%C3%ABlism</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://fr.wikipedia.org/wiki/Ra%C3%ABl" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Ra%C3%ABl</a>  
+   Link:<a href="https://fr.wikipedia.org/wiki/Ra%C3%ABl" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Ra%C3%ABl</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Ra%C3%ABl" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ra%C3%ABl</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ra%C3%ABl" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ra%C3%ABl</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Mouvement raëlien  
-   Link: <a href="https://fr.wikipedia.org/wiki/Mouvement_ra%C3%ABlien" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Mouvement_ra%C3%ABlien</a>  
+   Link:<a href="https://fr.wikipedia.org/wiki/Mouvement_ra%C3%ABlien" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Mouvement_ra%C3%ABlien</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Aliens Adored  
-   Link: <a href="https://en.wikipedia.org/wiki/Aliens_Adored" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aliens_Adored</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Aliens_Adored" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aliens_Adored</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Archive 1  
-   Link: <a href="https://fr.wikipedia.org/wiki/Discussion%3AScience_chr%C3%A9tienne/Archive_1" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Discussion%3AScience_chr%C3%A9tienne/Archive_1</a>  
+   Link:<a href="https://fr.wikipedia.org/wiki/Discussion%3AScience_chr%C3%A9tienne/Archive_1" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Discussion%3AScience_chr%C3%A9tienne/Archive_1</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: <a href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia%3AVandalisme_en_cours/Archives/2004" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Wikip%C3%A9dia%3AVandalisme_en_cours/Archives/2004</a>  
+   Link:<a href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia%3AVandalisme_en_cours/Archives/2004" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Wikip%C3%A9dia%3AVandalisme_en_cours/Archives/2004</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: rael.org  
-   Link: <a href="https://www.rael.org/wp-content/uploads/2022/04/Intelligent_Design_ENGLISH.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rael.org/wp-content/uploads/2022/04/Intelligent_Design_ENGLISH.pdf</a>  
+   Link:<a href="https://www.rael.org/wp-content/uploads/2022/04/Intelligent_Design_ENGLISH.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rael.org/wp-content/uploads/2022/04/Intelligent_Design_ENGLISH.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: rael.org  
    Title: Intelligent Design2 FRENCH  
-   Link: <a href="https://www.rael.org/wp-content/uploads/2020/04/Intelligent_Design2_FRENCH.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rael.org/wp-content/uploads/2020/04/Intelligent_Design2_FRENCH.pdf</a>  
+   Link:<a href="https://www.rael.org/wp-content/uploads/2020/04/Intelligent_Design2_FRENCH.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rael.org/wp-content/uploads/2020/04/Intelligent_Design2_FRENCH.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: journals.openedition.org  
-   Link: <a href="https://journals.openedition.org/revdh/3716" target="_blank" rel="noopener noreferrer nofollow">https://journals.openedition.org/revdh/3716</a>  
+   Link:<a href="https://journals.openedition.org/revdh/3716" target="_blank" rel="noopener noreferrer nofollow">https://journals.openedition.org/revdh/3716</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/raelians" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/raelians</a>  
+   Link:<a href="https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/raelians" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/raelians</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: religionmediacentre.org.uk  
    Title: Religion Media Centre Factsheet: the Raëlian movement  
-   Link: <a href="https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/" target="_blank" rel="noopener noreferrer nofollow">https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/</a>  
+   Link:<a href="https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/" target="_blank" rel="noopener noreferrer nofollow">https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: lemonde.fr  
    Title: Le Monde.fr Les raëliens, cinquante ans de prophéties extraterrestres  
-   Link: <a href="https://www.lemonde.fr/le-monde-des-religions/article/2024/02/24/les-raeliens-cinquante-ans-de-propheties-extraterrestres_6218337_6038514.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lemonde.fr/le-monde-des-religions/article/2024/02/24/les-raeliens-cinquante-ans-de-propheties-extraterrestres_6218337_6038514.html</a>  
+   Link:<a href="https://www.lemonde.fr/le-monde-des-religions/article/2024/02/24/les-raeliens-cinquante-ans-de-propheties-extraterrestres_6218337_6038514.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lemonde.fr/le-monde-des-religions/article/2024/02/24/les-raeliens-cinquante-ans-de-propheties-extraterrestres_6218337_6038514.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: assemblee-nationale.fr  
-   Link: <a href="https://www.assemblee-nationale.fr/rap-enq/r2468.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.assemblee-nationale.fr/rap-enq/r2468.asp</a>  
+   Link:<a href="https://www.assemblee-nationale.fr/rap-enq/r2468.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.assemblee-nationale.fr/rap-enq/r2468.asp</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: hudoc.echr.coe.int  
    Title: HUDOCMOUVEMENT RAËLIEN SUISSE c. SUISSE  
-   Link: <a href="https://hudoc.echr.coe.int/eng?i=001-102826" target="_blank" rel="noopener noreferrer nofollow">https://hudoc.echr.coe.int/eng?i=001-102826</a>  
+   Link:<a href="https://hudoc.echr.coe.int/eng?i=001-102826" target="_blank" rel="noopener noreferrer nofollow">https://hudoc.echr.coe.int/eng?i=001-102826</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2002/dec/28/science.research" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2002/dec/28/science.research</a>  
+   Link:<a href="https://www.theguardian.com/world/2002/dec/28/science.research" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2002/dec/28/science.research</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Le livre qui dit la vérité  
-   Link: <a href="https://www.youtube.com/watch?v=82rV7uSMuMA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=82rV7uSMuMA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=82rV7uSMuMA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=82rV7uSMuMA</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: hudoc.echr.coe.int  
    Title: int MOUVEMEN T RAËLIEN SUISSE c. SUISSE  
-   Link: <a href="https://hudoc.echr.coe.int/fre?i=001-112157" target="_blank" rel="noopener noreferrer nofollow">https://hudoc.echr.coe.int/fre?i=001-112157</a>  
+   Link:<a href="https://hudoc.echr.coe.int/fre?i=001-112157" target="_blank" rel="noopener noreferrer nofollow">https://hudoc.echr.coe.int/fre?i=001-112157</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dosen.profillengkap.com  
-   Link: <a href="https://dosen.profillengkap.com/fr/Ra%C3%ABl" target="_blank" rel="noopener noreferrer nofollow">https://dosen.profillengkap.com/fr/Ra%C3%ABl</a>  
+   Link:<a href="https://dosen.profillengkap.com/fr/Ra%C3%ABl" target="_blank" rel="noopener noreferrer nofollow">https://dosen.profillengkap.com/fr/Ra%C3%ABl</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: sites.pitt.edu  
-   Link: <a href="https://sites.pitt.edu/~dash/rael.html" target="_blank" rel="noopener noreferrer nofollow">https://sites.pitt.edu/~dash/rael.html</a>  
+   Link:<a href="https://sites.pitt.edu/~dash/rael.html" target="_blank" rel="noopener noreferrer nofollow">https://sites.pitt.edu/~dash/rael.html</a>  
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Raël: Le prophète des extraterrestres chez Thierry Ardisson | INA Arditube  
-   Link: <a href="https://www.youtube.com/watch?v=KdrMMNC0WtY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KdrMMNC0WtY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Last Prophet: Are the Raelians Preparing for Contact?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KdrMMNC0WtY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KdrMMNC0WtY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Last Prophet: Are the Raelians Preparing for Contact?...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=3pI0gvqKktM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3pI0gvqKktM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Prophet and the Space Aliens | The Short List...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3pI0gvqKktM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3pI0gvqKktM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Prophet and the Space Aliens | The Short List...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: The Last Prophet: Are the Raelians Preparing for Contact?  
-   Link: <a href="https://www.youtube.com/watch?v=NNylyT0sX4k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NNylyT0sX4k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sketchiest UFO Cult You&#x27;ve Never Heard Of... The Dark Side of Raëlism...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NNylyT0sX4k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NNylyT0sX4k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Sketchiest UFO Cult You&#x27;ve Never Heard Of... The Dark Side of Raëlism...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: The Prophet and the Space Aliens | The Short List  
-   Link: <a href="https://www.youtube.com/watch?v=quUhHrY2hUY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=quUhHrY2hUY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A journalist from Le Figaro recounts how he infiltrated Raël&#x27;s sect...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=quUhHrY2hUY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=quUhHrY2hUY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A journalist from Le Figaro recounts how he infiltrated Raël&#x27;s sect...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1120062646412897/posts/1296182002134293/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1120062646412897/posts/1296182002134293/</a>  
+   Link:<a href="https://www.facebook.com/groups/1120062646412897/posts/1296182002134293/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1120062646412897/posts/1296182002134293/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: lexbase.fr  
-   Link: <a href="https://www.lexbase.fr/article-juridique/124326242-a-la-une-rael-echoue-a-faire-condamner-une-de-ses-anciennes-disciples-qui-raconte-avoir-ete-son-escl" target="_blank" rel="noopener noreferrer nofollow">https://www.lexbase.fr/article-juridique/124326242-a-la-une-rael-echoue-a-faire-condamner-une-de-ses-anciennes-disciples-qui-raconte-avoir-ete-son-escl</a>  
+   Link:<a href="https://www.lexbase.fr/article-juridique/124326242-a-la-une-rael-echoue-a-faire-condamner-une-de-ses-anciennes-disciples-qui-raconte-avoir-ete-son-escl" target="_blank" rel="noopener noreferrer nofollow">https://www.lexbase.fr/article-juridique/124326242-a-la-une-rael-echoue-a-faire-condamner-une-de-ses-anciennes-disciples-qui-raconte-avoir-ete-son-escl</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fabienolicard/videos/analyse-du-gourou-ra%C3%ABl-mensonge-manipulation-et-strat%C3%A9gie/7487241267964445/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fabienolicard/videos/analyse-du-gourou-ra%C3%ABl-mensonge-manipulation-et-strat%C3%A9gie/7487241267964445/</a>  
+   Link:<a href="https://www.facebook.com/fabienolicard/videos/analyse-du-gourou-ra%C3%ABl-mensonge-manipulation-et-strat%C3%A9gie/7487241267964445/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fabienolicard/videos/analyse-du-gourou-ra%C3%ABl-mensonge-manipulation-et-strat%C3%A9gie/7487241267964445/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: dergipark.org.tr  
-   Link: <a href="https://dergipark.org.tr/tr/download/article-file/3751239" target="_blank" rel="noopener noreferrer nofollow">https://dergipark.org.tr/tr/download/article-file/3751239</a>  
+   Link:<a href="https://dergipark.org.tr/tr/download/article-file/3751239" target="_blank" rel="noopener noreferrer nofollow">https://dergipark.org.tr/tr/download/article-file/3751239</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: senate.be  
-   Link: <a href="https://www.senate.be/www/?COLL=B&amp;LANG=fr&amp;MIval=publications%2FviewPub&amp;POS=1&amp;PUID=50334921&amp;TID=50349457" target="_blank" rel="noopener noreferrer nofollow">https://www.senate.be/www/?COLL=B&amp;LANG=fr&amp;MIval=publications%2FviewPub&amp;POS=1&amp;PUID=50334921&amp;TID=50349457</a>  
+   Link:<a href="https://www.senate.be/www/?COLL=B&amp;LANG=fr&amp;MIval=publications%2FviewPub&amp;POS=1&amp;PUID=50334921&amp;TID=50349457" target="_blank" rel="noopener noreferrer nofollow">https://www.senate.be/www/?COLL=B&amp;LANG=fr&amp;MIval=publications%2FviewPub&amp;POS=1&amp;PUID=50334921&amp;TID=50349457</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: ohchr.org  
-   Link: <a href="https://www.ohchr.org/sites/default/files/lib-docs/HRBodies/UPR/Documents/Session2/FR/CICNS_FRA_UPR_S2_2008anx_ActesducolloqueorganiseaParisauquelontparticipedessociologuesetdesjuristesetdeshistoriensderenom.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ohchr.org/sites/default/files/lib-docs/HRBodies/UPR/Documents/Session2/FR/CICNS_FRA_UPR_S2_2008anx_ActesducolloqueorganiseaParisauquelontparticipedessociologuesetdesjuristesetdeshistoriensderenom.pdf</a>
+   Link:<a href="https://www.ohchr.org/sites/default/files/lib-docs/HRBodies/UPR/Documents/Session2/FR/CICNS_FRA_UPR_S2_2008anx_ActesducolloqueorganiseaParisauquelontparticipedessociologuesetdesjuristesetdeshistoriensderenom.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ohchr.org/sites/default/files/lib-docs/HRBodies/UPR/Documents/Session2/FR/CICNS_FRA_UPR_S2_2008anx_ActesducolloqueorganiseaParisauquelontparticipedessociologuesetdesjuristesetdeshistoriensderenom.pdf</a>

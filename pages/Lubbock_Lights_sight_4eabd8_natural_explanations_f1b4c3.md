@@ -245,13 +245,13 @@ image: /assets/images/Lubbock_Lights_sight_4eabd8_natural_explanations_f1b4c3-Il
 The most widely discussed explanations for the 1951 Lubbock Lights sightings were surprisingly ordinary: birds reflecting city lights, insects illuminated under unusual conditions, and visual distortions caused by the newly installed mercury-vapour streetlights in Lubbock, Texas. Those ideas emerged not from casual debunkers but from Air Force investigators, local observers, and even some scientists connected to the case. Yet none of the explanations cleanly resolved every report, photograph, and witness description.
 
 <img src="{{ "/assets/images/Lubbock_Lights_sight_4eabd8_natural_explanations_f1b4c3-Illustration-1-dark.svg" | relative_url }}" alt="Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/Lubbock_Lights_sight_4eabd8_natural_explanations_f1b4c3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lubbock_Lights_sight_4eabd8_natural_explanations_f1b4c3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That tension is what keeps the Lubbock Lights historically interesting. The case sits in an awkward middle ground where several sightings appear explainable in isolation, while the broader cluster of reports still resists a single neat solution. Even Edward J. Ruppelt, the Air Force officer most associated with the investigation, shifted his own position over time. The result was not a dramatic official cover-up, but a long-running dispute over whether different [witnesses]({{ 'witnesses-322ab6/' | relative_url }}) had seen different things under the same label. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo10.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">birds reflecting the city lights; specifically plover. The old cowboy from Lamesa had described something identical to what the professor...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">birds reflecting the city lights; specifically plover.Read more</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 8Actually the Lubbock Lights, as Project Blue Book calls them, involved many...</span></span></span>
+That tension is what keeps the Lubbock Lights historically interesting. The case sits in an awkward middle ground where several sightings appear explainable in isolation, while the broader cluster of reports still resists a single neat solution. Even Edward J. Ruppelt, the Air Force officer most associated with the investigation, shifted his own position over time. The result was not a dramatic official cover-up, but a long-running dispute over whether different [witnesses]({{ 'witnesses-322ab6/' | relative_url }}) had seen different things under the same label.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo10.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">birds reflecting the city lights; specifically plover. The old cowboy from Lamesa had described something identical to what the professor...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">birds reflecting the city lights; specifically plover.Read more</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 8Actually the Lubbock Lights, as Project Blue Book calls them, involved many...</span></span></span>
 
 ## The mercury-vapour streetlight theory
 
-One of the central sceptical explanations depended on a very specific local detail: Lubbock had recently installed bright mercury-vapour streetlights before the sightings began. Investigators noticed that the reported lights often appeared bluish-green or bluish-white, colours broadly consistent with the harsh tint produced by mercury-vapour lighting in the early 1950s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lubbock_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lubbock Lights</span><span class="citation-popover-snippet">Lubbock Lights</span></span></span>
+One of the central sceptical explanations depended on a very specific local detail: Lubbock had recently installed bright mercury-vapour streetlights before the sightings began. Investigators noticed that the reported lights often appeared bluish-green or bluish-white, colours broadly consistent with the harsh tint produced by mercury-vapour lighting in the early 1950s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lubbock_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lubbock Lights</span><span class="citation-popover-snippet">Lubbock Lights</span></span></span>
 
-Ruppelt and others explored the idea that ordinary flying objects could have reflected this new lighting in ways unfamiliar to residents. The strongest version of the theory involved migratory birds flying over illuminated parts of the city at night. Their pale undersides could briefly catch the streetlight glow and appear as fast-moving luminous points against the dark sky. Because the birds were moving in loose formation, witnesses might perceive geometric arrangements such as arcs, crescents, or V-shapes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo10.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">birds reflecting the city lights; specifically plover. The old cowboy from Lamesa had described something identical to what the professor...</span></span></span> Wikisource Several aspects of the sightings seemed to support this interpretation: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[en.wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">birds reflecting the city lights; specifically plover.Read more</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 8Actually the Lubbock Lights, as Project Blue Book calls them, involved many...</span></span></span>
+Ruppelt and others explored the idea that ordinary flying objects could have reflected this new lighting in ways unfamiliar to residents. The strongest version of the theory involved migratory birds flying over illuminated parts of the city at night. Their pale undersides could briefly catch the streetlight glow and appear as fast-moving luminous points against the dark sky. Because the birds were moving in loose formation, witnesses might perceive geometric arrangements such as arcs, crescents, or V-shapes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo10.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">birds reflecting the city lights; specifically plover. The old cowboy from Lamesa had described something identical to what the professor...</span></span></span> Wikisource Several aspects of the sightings seemed to support this interpretation:<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[en.wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">birds reflecting the city lights; specifically plover.Read more</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 8Actually the Lubbock Lights, as Project Blue Book calls them, involved many...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -262,9 +262,9 @@ Ruppelt and others explored the idea that ordinary flying objects could have ref
 
 </div>
 
-Ruppelt also noted a pattern that he thought mattered: some observers reportedly saw the lights primarily while near their homes and neighbourhood street illumination, while attempts to pursue or triangulate the objects elsewhere often failed. That suggested a local optical effect rather than distant structured craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo10.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">birds reflecting the city lights; specifically plover. The old cowboy from Lamesa had described something identical to what the professor...</span></span></span>
+Ruppelt also noted a pattern that he thought mattered: some observers reportedly saw the lights primarily while near their homes and neighbourhood street illumination, while attempts to pursue or triangulate the objects elsewhere often failed. That suggested a local optical effect rather than distant structured craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo10.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">birds reflecting the city lights; specifically plover. The old cowboy from Lamesa had described something identical to what the professor...</span></span></span>
 
-The theory gained further support from local witnesses who independently identified birds under similar conditions. One farmer reportedly watched birds illuminated above a drive-in theatre and thought the effect closely resembled the Lubbock Lights. Another couple said the mysterious lights eventually circled close enough for them to identify them as plovers by both sight and sound. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects</span></span></span>
+The theory gained further support from local witnesses who independently identified birds under similar conditions. One farmer reportedly watched birds illuminated above a drive-in theatre and thought the effect closely resembled the Lubbock Lights. Another couple said the mysterious lights eventually circled close enough for them to identify them as plovers by both sight and sound.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects</span></span></span>
 
 What made the explanation persuasive to many investigators was not that it perfectly matched every report, but that it reproduced key visual features using known environmental conditions already present in Lubbock.
 
@@ -276,13 +276,13 @@ The “bird theory” itself was never completely stable. Different investigator
 
 ### Why plovers became the main candidate
 
-The bird most commonly linked to the case was the plover, a migratory shorebird with pale undersides capable of reflecting strong artificial light. Ruppelt became convinced for a period that plovers explained the core professor sightings. He later wrote that birds reflecting city lighting were “the only solid lead” developed during the investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo10.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">birds reflecting the city lights; specifically plover. The old cowboy from Lamesa had described something identical to what the professor...</span></span></span>
+The bird most commonly linked to the case was the plover, a migratory shorebird with pale undersides capable of reflecting strong artificial light. Ruppelt became convinced for a period that plovers explained the core professor sightings. He later wrote that birds reflecting city lighting were “the only solid lead” developed during the investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo10.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">birds reflecting the city lights; specifically plover. The old cowboy from Lamesa had described something identical to what the professor...</span></span></span>
 
 Yet problems emerged almost immediately.
 
-Some witnesses argued that the lights moved too quickly to be birds at the estimated distances involved. Others objected that no wingbeats or flock sounds were audible. Critics also pointed out that plovers typically do not fly in the large, disciplined formations implied by some descriptions and photographs. Later Air Force commentary reportedly shifted toward ducks as a more plausible migratory candidate because ducks more commonly travel in larger organised groups. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lubbock_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lubbock Lights</span><span class="citation-popover-snippet">Lubbock Lights</span></span></span>
+Some witnesses argued that the lights moved too quickly to be birds at the estimated distances involved. Others objected that no wingbeats or flock sounds were audible. Critics also pointed out that plovers typically do not fly in the large, disciplined formations implied by some descriptions and photographs. Later Air Force commentary reportedly shifted toward ducks as a more plausible migratory candidate because ducks more commonly travel in larger organised groups.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lubbock_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lubbock Lights</span><span class="citation-popover-snippet">Lubbock Lights</span></span></span>
 
-The professors themselves were not united behind the explanation. According to later accounts, at least one professor eventually accepted the bird interpretation after further study, while others remained unconvinced. J. Allen Hynek, the astronomer who consulted for Project Blue Book, later stated that one of the professors privately concluded the objects probably were birds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects</span></span></span>
+The professors themselves were not united behind the explanation. According to later accounts, at least one professor eventually accepted the bird interpretation after further study, while others remained unconvinced. J. Allen Hynek, the astronomer who consulted for Project Blue Book, later stated that one of the professors privately concluded the objects probably were birds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects</span></span></span>
 
 That inconsistency matters because the professors were treated as unusually credible technical observers from the beginning. If even they disagreed afterward, the evidential picture becomes much less straightforward than popular retellings often suggest.
 
@@ -291,7 +291,7 @@ That inconsistency matters because the professors were treated as unusually cred
 
 Insects never became the dominant official answer, but they appeared in broader sceptical discussions because illuminated insects can create misleading night-sky impressions, especially in photography.
 
-This mattered most when analysts examined Carl Hart Jr.’s famous photographs. The [photos]({{ 'photos-a19897/' | relative_url }}) showed bright clustered lights in repeated formations, but nighttime photography in 1951 was highly vulnerable to exposure distortion, motion blur, and depth ambiguity. Small nearby objects could appear larger and more distant than they really were. Some sceptics argued that illuminated moths or other insects near the camera lens could theoretically create strange luminous patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects</span></span></span>
+This mattered most when analysts examined Carl Hart Jr.’s famous photographs. The [photos]({{ 'photos-a19897/' | relative_url }}) showed bright clustered lights in repeated formations, but nighttime photography in 1951 was highly vulnerable to exposure distortion, motion blur, and depth ambiguity. Small nearby objects could appear larger and more distant than they really were. Some sceptics argued that illuminated moths or other insects near the camera lens could theoretically create strange luminous patterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects</span></span></span>
 
 The insect idea never achieved the same level of acceptance as the bird explanation because it struggled to account for the large number of independent visual sightings across the city. It worked better as a possible explanation for certain photographic anomalies than for the entire phenomenon.
 
@@ -303,11 +303,11 @@ Still, the fact that multiple ordinary mechanisms had to be proposed for differe
 
 The Hart photographs created a major problem for both believers and sceptics.
 
-Supporters treated them as visual confirmation of structured airborne objects. Sceptics tried to determine whether ordinary birds under street illumination could reproduce similar images. According to later summaries, photographers working for the local press attempted to duplicate the effect by photographing birds flying through city lighting at night but reportedly failed to recreate Hart’s exact images. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects</span></span></span>
+Supporters treated them as visual confirmation of structured airborne objects. Sceptics tried to determine whether ordinary birds under street illumination could reproduce similar images. According to later summaries, photographers working for the local press attempted to duplicate the effect by photographing birds flying through city lighting at night but reportedly failed to recreate Hart’s exact images.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects</span></span></span>
 
 That failure did not prove the photos showed extraordinary craft. It only showed that simple recreation attempts were inconclusive.
 
-The Air Force analysis likewise stopped short of either authentication or dismissal. Ruppelt eventually stated that the photographs had never been proven genuine but also had never been proven fraudulent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects</span></span></span>
+The Air Force analysis likewise stopped short of either authentication or dismissal. Ruppelt eventually stated that the photographs had never been proven genuine but also had never been proven fraudulent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects</span></span></span>
 
 The ambiguity of the photographs became one reason the case survived long after many other early 1950s UFO reports faded from public attention.
 
@@ -328,11 +328,11 @@ Project Blue Book and associated investigators treated the case seriously for se
 
 </div>
 
-Officially, many parts of the case remained unidentified even after investigation. Ruppelt himself wrote that most sightings in the broader Lubbock series remained unresolved except for some that appeared explainable through ordinary causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">birds reflecting the city lights; specifically plover.Read more</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 8Actually the Lubbock Lights, as Project Blue Book calls them, involved many...</span></span></span>
+Officially, many parts of the case remained unidentified even after investigation. Ruppelt himself wrote that most sightings in the broader Lubbock series remained unresolved except for some that appeared explainable through ordinary causes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">birds reflecting the city lights; specifically plover.Read more</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 8Actually the Lubbock Lights, as Project Blue Book calls them, involved many...</span></span></span>
 
-The Air Force explanations also changed in emphasis over time. Early discussions leaned heavily on birds reflecting mercury-vapour lighting. Later retellings became less certain about species identification and more cautious about whether all sightings belonged together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects</span></span></span>
+The Air Force explanations also changed in emphasis over time. Early discussions leaned heavily on birds reflecting mercury-vapour lighting. Later retellings became less certain about species identification and more cautious about whether all sightings belonged together.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects</span></span></span>
 
-Perhaps the most revealing detail is that Ruppelt later partially retreated from his own strongest early assumptions. In his book on UFO investigations, he suggested that the core sightings were not adequately explained by simple refraction or birds alone, even though he still rejected extraterrestrial interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">birds reflecting the city lights; specifically plover.Read more</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 8Actually the Lubbock Lights, as Project Blue Book calls them, involved many...</span></span></span>
+Perhaps the most revealing detail is that Ruppelt later partially retreated from his own strongest early assumptions. In his book on UFO investigations, he suggested that the core sightings were not adequately explained by simple refraction or birds alone, even though he still rejected extraterrestrial interpretations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">birds reflecting the city lights; specifically plover.Read more</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 8Actually the Lubbock Lights, as Project Blue Book calls them, involved many...</span></span></span>
 
 That middle-ground conclusion remains the most defensible reading today:
 
@@ -349,194 +349,194 @@ In other words, the Lubbock Lights were likely neither a single mysterious craft
 <img src="{{ "/assets/images/Lubbock_Lights_sight_4eabd8_natural_explanations_f1b4c3-Illustration-3-dark.svg" | relative_url }}" alt="Explanations illustration 3" data-theme-src-dark="{{ "/assets/images/Lubbock_Lights_sight_4eabd8_natural_explanations_f1b4c3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lubbock_Lights_sight_4eabd8_natural_explanations_f1b4c3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were the Lubbock Lights Birds or Something Else?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were the Lubbock Lights Birds or Something Else?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Outlines why the Air Force investigated the bluish-green tint of newly installed mercury-vapour streetlights and how migrating plovers fi...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Outlines why the Air Force investigated the bluish-green tint of newly installed mercury-vapour streetlights and how migrating plovers fi...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides an encyclopedic overview of the Lubbock plover debate, explaining why different witnesses likely saw completely different things.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides an encyclopedic overview of the Lubbock plover debate, explaining why different witnesses likely saw completely different things.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Teaches fundamental skills on how to separate isolated explainable events from a massive cluster of community sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches fundamental skills on how to separate isolated explainable events from a massive cluster of community sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Traces why the Air Force favored naturalistic biological and lighting data inputs to systematically close out public controversy cycles.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Traces why the Air Force favored naturalistic biological and lighting data inputs to systematically close out public controversy cycles.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-lubbock-lights-birds-or-something-else-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -552,7 +552,7 @@ In other words, the Lubbock Lights were likely neither a single mysterious craft
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -572,7 +572,7 @@ In other words, the Lubbock Lights were likely neither a single mysterious craft
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -604,7 +604,7 @@ In other words, the Lubbock Lights were likely neither a single mysterious craft
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -656,7 +656,7 @@ In other words, the Lubbock Lights were likely neither a single mysterious craft
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -701,7 +701,7 @@ In other words, the Lubbock Lights were likely neither a single mysterious craft
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -742,100 +742,100 @@ In other words, the Lubbock Lights were likely neither a single mysterious craft
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: en.wikisource.org  
    Title: birds reflecting the city lights; specifically plover.Read more  
-   Link: <a href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_8" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying Objects/Chapter 8Actually the Lubbock Lights, as Project Blue Book calls them, involved many...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_8" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying Objects/Chapter 8Actually the Lubbock Lights, as Project Blue Book calls them, involved many...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Lubbock Lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Lubbock_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lubbock_Lights</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lubbock_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lubbock_Lights</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: The Report on Unidentified Flying Objects  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=F8YFGCeM6eI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F8YFGCeM6eI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT BLUE BOOK | &quot;The Lubbock Lights&quot; Sneak Peek...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F8YFGCeM6eI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F8YFGCeM6eI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT BLUE BOOK | &quot;The Lubbock Lights&quot; Sneak Peek...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: PROJECT BLUE BOOK | "The Lubbock Lights" Sneak Peek  
-   Link: <a href="https://www.youtube.com/watch?v=fNbDocpJzGg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fNbDocpJzGg</a>  
+   Link:<a href="https://www.youtube.com/watch?v=fNbDocpJzGg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fNbDocpJzGg</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo10.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo10.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>birds reflecting the city lights; specifically plover. The old cowboy from Lamesa had described something identical to what the professor...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/rufo/rufo10.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo10.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>birds reflecting the city lights; specifically plover. The old cowboy from Lamesa had described something identical to what the professor...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arewealoneinthisuniverse.fandom.com  
    Title: Lubbock Lights  
-   Link: <a href="https://arewealoneinthisuniverse.fandom.com/wiki/Lubbock_Lights" target="_blank" rel="noopener noreferrer nofollow">https://arewealoneinthisuniverse.fandom.com/wiki/Lubbock_Lights</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lights - Are_We_Alone Wiki - FandomThe city of Lubbock had installed new vapor street lights in 1951, and Ruppelt believed migrating plov...</p></details>
+   Link:<a href="https://arewealoneinthisuniverse.fandom.com/wiki/Lubbock_Lights" target="_blank" rel="noopener noreferrer nofollow">https://arewealoneinthisuniverse.fandom.com/wiki/Lubbock_Lights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lights - Are_We_Alone Wiki - FandomThe city of Lubbock had installed new vapor street lights in 1951, and Ruppelt believed migrating plov...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: 1951 lubbock lights v shape flying wing 9x lights  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1paa968/1951_lubbock_lights_v_shape_flying_wing_9x_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1paa968/1951_lubbock_lights_v_shape_flying_wing_9x_lights/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1951 Lubbock Lights - V shape flying wing, 9x lights per wingThe city of Lubbock had installed new vapor street lights in 1951, and Ruppe...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1paa968/1951_lubbock_lights_v_shape_flying_wing_9x_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1paa968/1951_lubbock_lights_v_shape_flying_wing_9x_lights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1951 Lubbock Lights - V shape flying wing, 9x lights per wingThe city of Lubbock had installed new vapor street lights in 1951, and Ruppe...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/708546534557759/posts/1254330919979315/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/708546534557759/posts/1254330919979315/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lubbock lights ufo sightings in Texas investigatedThe problem with the bird explanation is that the lights were distinctly circular, even...</p></details>
+   Link:<a href="https://www.facebook.com/groups/708546534557759/posts/1254330919979315/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/708546534557759/posts/1254330919979315/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lubbock lights ufo sightings in Texas investigatedThe problem with the bird explanation is that the lights were distinctly circular, even...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsAmong the better sightings that were described fully to interested government groups were: the c...</p></details>
+   Link:<a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsAmong the better sightings that were described fully to interested government groups were: the c...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lubbocklights.com  
-   Link: <a href="https://lubbocklights.com/part-of-the-reason-were-named-lubbock-lights-honors-51-ufo-mystery-heres-the-story-of-how-answer-died-with-investigator/" target="_blank" rel="noopener noreferrer nofollow">https://lubbocklights.com/part-of-the-reason-were-named-lubbock-lights-honors-51-ufo-mystery-heres-the-story-of-how-answer-died-with-investigator/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Part of the reason we&#x27;re named Lubbock Lights honors &#x27;51...31 Oct 2024 — The Air Force conclusion is that birds, with the streetlights r...</p></details>
+   Link:<a href="https://lubbocklights.com/part-of-the-reason-were-named-lubbock-lights-honors-51-ufo-mystery-heres-the-story-of-how-answer-died-with-investigator/" target="_blank" rel="noopener noreferrer nofollow">https://lubbocklights.com/part-of-the-reason-were-named-lubbock-lights-honors-51-ufo-mystery-heres-the-story-of-how-answer-died-with-investigator/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Part of the reason we&#x27;re named Lubbock Lights honors &#x27;51...31 Oct 2024 — The Air Force conclusion is that birds, with the streetlights r...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: in 1951 a ufo flew over texas and an entire city lost power the government blame  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/in-1951-a-ufo-flew-over-texas-and-an-entire-city-lost-power-the-government-blame/10155711775626184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/in-1951-a-ufo-flew-over-texas-and-an-entire-city-lost-power-the-government-blame/10155711775626184/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1951, a UFO flew over Texas and an entire city lost...The official explanation suggested that the lights were birds—most likely plove...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/posts/in-1951-a-ufo-flew-over-texas-and-an-entire-city-lost-power-the-government-blame/10155711775626184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/in-1951-a-ufo-flew-over-texas-and-an-entire-city-lost-power-the-government-blame/10155711775626184/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1951, a UFO flew over Texas and an entire city lost...The official explanation suggested that the lights were birds—most likely plove...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: in 1951 dozens of lubbock texas residents reported seeing a formation of mysteri  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/in-1951-dozens-of-lubbock-texas-residents-reported-seeing-a-formation-of-mysteri/1370210314761338/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/in-1951-dozens-of-lubbock-texas-residents-reported-seeing-a-formation-of-mysteri/1370210314761338/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1951, dozens of Lubbock, Texas, residents reported...While often cited as an unsolved mystery, official investigations suggested the...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/in-1951-dozens-of-lubbock-texas-residents-reported-seeing-a-formation-of-mysteri/1370210314761338/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/in-1951-dozens-of-lubbock-texas-residents-reported-seeing-a-formation-of-mysteri/1370210314761338/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1951, dozens of Lubbock, Texas, residents reported...While often cited as an unsolved mystery, official investigations suggested the...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/GrewUpInLubbock/posts/9957639817652935/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/GrewUpInLubbock/posts/9957639817652935/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>over flocks, a water bird with a one-foot wingspread and an oily...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/GrewUpInLubbock/posts/9957639817652935/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/GrewUpInLubbock/posts/9957639817652935/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>over flocks, a water bird with a one-foot wingspread and an oily...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: basedonatruestorypodcast.com  
-   Link: <a href="https://www.basedonatruestorypodcast.com/376-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.basedonatruestorypodcast.com/376-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>376: Project Blue Book | Based on a True Story Podcast07-Oct-2025 — Number one, Project Blue Book was the first time the government inves...</p></details>
+   Link:<a href="https://www.basedonatruestorypodcast.com/376-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.basedonatruestorypodcast.com/376-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>376: Project Blue Book | Based on a True Story Podcast07-Oct-2025 — Number one, Project Blue Book was the first time the government inves...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-lubbock-lights-phenomenon-is-one-of-the-most-intriguing-ufo-sightings-in-ame/1050724940043212/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-lubbock-lights-phenomenon-is-one-of-the-most-intriguing-ufo-sightings-in-ame/1050724940043212/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>as Tech, on the night of August 30, 1951. During two...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-lubbock-lights-phenomenon-is-one-of-the-most-intriguing-ufo-sightings-in-ame/1050724940043212/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-lubbock-lights-phenomenon-is-one-of-the-most-intriguing-ufo-sightings-in-ame/1050724940043212/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>as Tech, on the night of August 30, 1951. During two...Read more...</p></details>
    Published: August 30, 1951  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: lunaticsproject.com  
-   Link: <a href="https://www.lunaticsproject.com/post/famous-ufo-and-uap-encounters-from-the-1900s" target="_blank" rel="noopener noreferrer nofollow">https://www.lunaticsproject.com/post/famous-ufo-and-uap-encounters-from-the-1900s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Famous UFO and UAP Encounters from the 1900s3 Jan 2025 — Ruppelt concluded that the sightings were actually due to a type of bird, called...</p></details>
+   Link:<a href="https://www.lunaticsproject.com/post/famous-ufo-and-uap-encounters-from-the-1900s" target="_blank" rel="noopener noreferrer nofollow">https://www.lunaticsproject.com/post/famous-ufo-and-uap-encounters-from-the-1900s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Famous UFO and UAP Encounters from the 1900s3 Jan 2025 — Ruppelt concluded that the sightings were actually due to a type of bird, called...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/shows/ancient-aliens/articles/famous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/ancient-aliens/articles/famous-ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r the lights has never been fully debunked...Read more...</p></details>
+   Link:<a href="https://www.history.co.uk/shows/ancient-aliens/articles/famous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/ancient-aliens/articles/famous-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r the lights has never been fully debunked...Read more...</p></details>

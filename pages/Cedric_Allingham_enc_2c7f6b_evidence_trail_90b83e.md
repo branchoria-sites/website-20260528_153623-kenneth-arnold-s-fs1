@@ -242,16 +242,16 @@ image: /assets/images/Cedric_Allingham_enc_2c7f6b_evidence_trail_90b83e-Illustra
 
 ## Introduction
 
-The Cedric Allingham story depended on three things looking solid at the same time: photographs of a landed flying sauer, a named corroborating witness called James Duncan, and a believable author who seemed reachable and real. Once investigators began checking those supports closely, the case weakened dramatically. The photographs were blurry and impossible to authenticate, Duncan could not be reliably traced, and “Allingham” himself became strangely unavailable whenever researchers tried to verify details. What makes the case historically important is not the quality of the evidence, but how long weak evidence can survive once it is wrapped inside a convincing narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Magonia ArchiveFlying Saucer from Moore&#x27;s?Allingham&#x27;s sole witness, a fisherman named James Duncan, likewise could not be traced. Science...</span></span></span>
+The Cedric Allingham story depended on three things looking solid at the same time: photographs of a landed flying sauer, a named corroborating witness called James Duncan, and a believable author who seemed reachable and real. Once investigators began checking those supports closely, the case weakened dramatically. The photographs were blurry and impossible to authenticate, Duncan could not be reliably traced, and “Allingham” himself became strangely unavailable whenever researchers tried to verify details. What makes the case historically important is not the quality of the evidence, but how long weak evidence can survive once it is wrapped inside a convincing narrative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Magonia ArchiveFlying Saucer from Moore&#x27;s?Allingham&#x27;s sole witness, a fisherman named James Duncan, likewise could not be traced. Science...</span></span></span>
 
 <img src="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_evidence_trail_90b83e-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Trail illustration 1" data-theme-src-dark="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_evidence_trail_90b83e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_evidence_trail_90b83e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the wider Cedric Allingham encounter of 1954, the evidence trail is therefore more revealing than the alleged Martian meeting itself. The case became an early example of how UFO claims can acquire credibility through repetition, publication and apparent corroboration, even when the chain linking the evidence to the event is fragile or broken.
 
 ## The saucer and occupant photographs
 
-The original attraction of *Flying Saucer from Mars* was visual. Readers were not simply asked to believe a strange story; they were shown photographs supposedly taken during the encounter near Lossiemouth. The book included several images of a disc-shaped object and one famous image showing the alleged Martian from behind. At a glance, this gave the case something many contemporary contactee stories lacked: apparent physical documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham</span></span></span>
+The original attraction of *Flying Saucer from Mars* was visual. Readers were not simply asked to believe a strange story; they were shown photographs supposedly taken during the encounter near Lossiemouth. The book included several images of a disc-shaped object and one famous image showing the alleged Martian from behind. At a glance, this gave the case something many contemporary contactee stories lacked: apparent physical documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham</span></span></span>
 
-The problem was that the photographs were never especially persuasive even by 1950s standards. The saucer images were blurred, lacked scale references and contained little detail that could establish distance, size or movement. The humanoid photograph became notorious because the “Martian” looked ordinary rather than alien. A contemporary *Time* comment mocked the figure as resembling “a crofter with galluses flapping”, capturing the sense that the image looked more like a casually dressed human than an extraterrestrial visitor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vi.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham – Wikipedia tiếng ViệtCedric Allingham (sinh ngày 27 tháng 6 năm 1922) là nhà văn hư cấu người Anh nổi tiếng về cuốn...</span></span></span>
+The problem was that the photographs were never especially persuasive even by 1950s standards. The saucer images were blurred, lacked scale references and contained little detail that could establish distance, size or movement. The humanoid photograph became notorious because the “Martian” looked ordinary rather than alien. A contemporary *Time* comment mocked the figure as resembling “a crofter with galluses flapping”, capturing the sense that the image looked more like a casually dressed human than an extraterrestrial visitor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vi.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham – Wikipedia tiếng ViệtCedric Allingham (sinh ngày 27 tháng 6 năm 1922) là nhà văn hư cấu người Anh nổi tiếng về cuốn...</span></span></span>
 
 ### Why the photographs failed as evidence
 
@@ -265,7 +265,7 @@ Several problems became increasingly important as later researchers revisited th
 * No reliable chain of custody was established for the images.
 * The photographs appeared mainly within the narrative framework provided by the book itself.
 * There was no confirmed independent witness to the photography process.
-* The images lacked enough environmental detail to allow meaningful reconstruction of the scene. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Magonia ArchiveFlying Saucer from Moore&#x27;s?Allingham&#x27;s sole witness, a fisherman named James Duncan, likewise could not be traced. Science...</span></span></span>
+* The images lacked enough environmental detail to allow meaningful reconstruction of the scene.<span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-snippet">Magonia ArchiveFlying Saucer from Moore&#x27;s?Allingham&#x27;s sole witness, a fisherman named James Duncan, likewise could not be traced. Science...</span></span></span>
 
 </div>
 
@@ -275,7 +275,7 @@ In ordinary historical investigation, weak photographs can sometimes still matte
 
 ### The Patrick Moore connection and visual clues
 
-The later suspicion that Patrick Moore helped engineer the hoax also affected how investigators interpreted the images. Christopher Allan and Steuart Campbell’s 1986 *Magonia* investigation argued that visual details in the book pointed back toward Moore’s environment and social circle. Researchers noted similarities between a telescope shown in an Allingham photograph and equipment associated with Moore’s own garden observatory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham</span></span></span>
+The later suspicion that Patrick Moore helped engineer the hoax also affected how investigators interpreted the images. Christopher Allan and Steuart Campbell’s 1986 *Magonia* investigation argued that visual details in the book pointed back toward Moore’s environment and social circle. Researchers noted similarities between a telescope shown in an Allingham photograph and equipment associated with Moore’s own garden observatory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham</span></span></span>
 
 None of this alone proved authorship, but it changed the photographs from “possible documentary evidence” into possible artefacts of a staged production. Once that interpretive shift occurred, the images stopped functioning as independent support for the encounter and instead became potential clues to how the hoax had been assembled.
 
@@ -283,15 +283,15 @@ None of this alone proved authorship, but it changed the photographs from “pos
 
 The book’s second major support was the fisherman James Duncan, described as an independent witness who allegedly observed the encounter from a nearby hill and later signed a confirming statement. In UFO cases, corroboration matters enormously. A single witness can be dismissed as mistaken or imaginative; two witnesses appear stronger, especially when one is presented as a practical local observer with no obvious reason to fabricate a story.
 
-That was precisely the role Duncan played in the Allingham narrative. He was not central enough to dominate the story, but he existed just enough to make the account seem anchored in the real world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vi.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham – Wikipedia tiếng ViệtCedric Allingham (sinh ngày 27 tháng 6 năm 1922) là nhà văn hư cấu người Anh nổi tiếng về cuốn...</span></span></span>
+That was precisely the role Duncan played in the Allingham narrative. He was not central enough to dominate the story, but he existed just enough to make the account seem anchored in the real world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vi.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham – Wikipedia tiếng ViệtCedric Allingham (sinh ngày 27 tháng 6 năm 1922) là nhà văn hư cấu người Anh nổi tiếng về cuốn...</span></span></span>
 
 ### Attempts to locate Duncan
 
-Researchers soon discovered that Duncan was remarkably difficult to verify. Science writer Robert Chapman tried tracing him and reportedly failed to establish that such a witness could be found. The more investigators searched, the more the corroboration dissolved into hearsay. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vi.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham – Wikipedia tiếng ViệtCedric Allingham (sinh ngày 27 tháng 6 năm 1922) là nhà văn hư cấu người Anh nổi tiếng về cuốn...</span></span></span>
+Researchers soon discovered that Duncan was remarkably difficult to verify. Science writer Robert Chapman tried tracing him and reportedly failed to establish that such a witness could be found. The more investigators searched, the more the corroboration dissolved into hearsay.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vi.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham – Wikipedia tiếng ViệtCedric Allingham (sinh ngày 27 tháng 6 năm 1922) là nhà văn hư cấu người Anh nổi tiếng về cuốn...</span></span></span>
 
 This mattered because Duncan was not an incidental character. He was the only named external witness attached to the case. If Duncan could not be identified reliably, interviewed independently or connected to the alleged event through records or local testimony, then the corroborating pillar of the case effectively disappeared.
 
-Chapman eventually concluded that if no James Duncan could be found, the wider narrative itself became doubtful. His reasoning was straightforward: if the supposedly independent witness might not exist, perhaps the author did not either. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vi.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham – Wikipedia tiếng ViệtCedric Allingham (sinh ngày 27 tháng 6 năm 1922) là nhà văn hư cấu người Anh nổi tiếng về cuốn...</span></span></span>
+Chapman eventually concluded that if no James Duncan could be found, the wider narrative itself became doubtful. His reasoning was straightforward: if the supposedly independent witness might not exist, perhaps the author did not either.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vi.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham – Wikipedia tiếng ViệtCedric Allingham (sinh ngày 27 tháng 6 năm 1922) là nhà văn hư cấu người Anh nổi tiếng về cuốn...</span></span></span>
 
 <img src="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_evidence_trail_90b83e-Illustration-2-dark.svg" | relative_url }}" alt="Evidence Trail illustration 2" data-theme-src-dark="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_evidence_trail_90b83e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_evidence_trail_90b83e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why the Duncan problem became fatal
@@ -305,7 +305,7 @@ The Duncan issue exposed several deeper weaknesses:
 * No reliable contemporary local reporting firmly established his identity.
 * Investigators could not build a stable biography around him.
 * The signed statement reproduced in the book could not substitute for direct examination.
-* The witness appeared only through the mediation of the Allingham narrative itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vi.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham – Wikipedia tiếng ViệtCedric Allingham (sinh ngày 27 tháng 6 năm 1922) là nhà văn hư cấu người Anh nổi tiếng về cuốn...</span></span></span>
+* The witness appeared only through the mediation of the Allingham narrative itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vi.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham – Wikipedia tiếng ViệtCedric Allingham (sinh ngày 27 tháng 6 năm 1922) là nhà văn hư cấu người Anh nổi tiếng về cuốn...</span></span></span>
 
 </div>
 
@@ -324,7 +324,7 @@ The case looked stronger in 1954 because each weak element appeared to support t
 * The photographs suggested the witness was genuine.
 * The named witness suggested the photographs were genuine.
 * The publication of a book suggested both had already been checked.
-* Public lectures and endorsements suggested respectable people found the story credible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vi.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham – Wikipedia tiếng ViệtCedric Allingham (sinh ngày 27 tháng 6 năm 1922) là nhà văn hư cấu người Anh nổi tiếng về cuốn...</span></span></span>
+* Public lectures and endorsements suggested respectable people found the story credible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vi.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham – Wikipedia tiếng ViệtCedric Allingham (sinh ngày 27 tháng 6 năm 1922) là nhà văn hư cấu người Anh nổi tiếng về cuốn...</span></span></span>
 
 </div>
 
@@ -333,7 +333,7 @@ Once investigators began separating those components, the structure collapsed. T
 <img src="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_evidence_trail_90b83e-Illustration-3-dark.svg" | relative_url }}" alt="Evidence Trail illustration 3" data-theme-src-dark="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_evidence_trail_90b83e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_evidence_trail_90b83e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The disappearing author problem
 
-Attempts to contact Allingham produced increasingly suspicious explanations. Publishers reportedly claimed at different times that he was in Switzerland for medical treatment and later that he had died there. Researchers who tried to interview him directly encountered delay, ambiguity and absence rather than a traceable public figure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vi.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham – Wikipedia tiếng ViệtCedric Allingham (sinh ngày 27 tháng 6 năm 1922) là nhà văn hư cấu người Anh nổi tiếng về cuốn...</span></span></span>
+Attempts to contact Allingham produced increasingly suspicious explanations. Publishers reportedly claimed at different times that he was in Switzerland for medical treatment and later that he had died there. Researchers who tried to interview him directly encountered delay, ambiguity and absence rather than a traceable public figure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vi.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham – Wikipedia tiếng ViệtCedric Allingham (sinh ngày 27 tháng 6 năm 1922) là nhà văn hư cấu người Anh nổi tiếng về cuốn...</span></span></span>
 
 That evasiveness transformed the meaning of the evidence trail. Instead of converging toward confirmation, every inquiry generated another missing link:
 
@@ -342,7 +342,7 @@ That evasiveness transformed the meaning of the evidence trail. Instead of conve
 * missing negatives,
 * missing witness verification,
 * missing author access,
-* missing independent documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vi.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham – Wikipedia tiếng ViệtCedric Allingham (sinh ngày 27 tháng 6 năm 1922) là nhà văn hư cấu người Anh nổi tiếng về cuốn...</span></span></span>
+* missing independent documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vi.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham – Wikipedia tiếng ViệtCedric Allingham (sinh ngày 27 tháng 6 năm 1922) là nhà văn hư cấu người Anh nổi tiếng về cuốn...</span></span></span>
 
 </div>
 
@@ -354,201 +354,201 @@ The result was not a neatly debunked case in the scientific sense. Rather, it be
 
 The Allingham case still appears in UFO histories because it demonstrates how easily apparent documentation can create an illusion of solidity. A blurry image, a signed statement and a printed book can together feel more convincing than any of those elements would alone.
 
-The story also arrived during the early contactee era, when readers were already primed by accounts such as George Adamski’s claims. In that atmosphere, visual evidence did not need to be conclusive; it only needed to look compatible with an exciting narrative people already wanted to believe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vi.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham – Wikipedia tiếng ViệtCedric Allingham (sinh ngày 27 tháng 6 năm 1922) là nhà văn hư cấu người Anh nổi tiếng về cuốn...</span></span></span>
+The story also arrived during the early contactee era, when readers were already primed by accounts such as George Adamski’s claims. In that atmosphere, visual evidence did not need to be conclusive; it only needed to look compatible with an exciting narrative people already wanted to believe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vi.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham – Wikipedia tiếng ViệtCedric Allingham (sinh ngày 27 tháng 6 năm 1922) là nhà văn hư cấu người Anh nổi tiếng về cuốn...</span></span></span>
 
-Later sceptical investigations, especially the 1986 *Magonia* work linking the affair to Peter Davies and probably Patrick Moore, shifted the case from “possible encounter” to “constructed performance”. Yet even then, the evidence trail remained oddly incomplete. Moore denied involvement publicly, never fully confessed, and no single definitive archive closed every gap. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vi.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham – Wikipedia tiếng ViệtCedric Allingham (sinh ngày 27 tháng 6 năm 1922) là nhà văn hư cấu người Anh nổi tiếng về cuốn...</span></span></span>
+Later sceptical investigations, especially the 1986 *Magonia* work linking the affair to Peter Davies and probably Patrick Moore, shifted the case from “possible encounter” to “constructed performance”. Yet even then, the evidence trail remained oddly incomplete. Moore denied involvement publicly, never fully confessed, and no single definitive archive closed every gap.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vi.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham – Wikipedia tiếng ViệtCedric Allingham (sinh ngày 27 tháng 6 năm 1922) là nhà văn hư cấu người Anh nổi tiếng về cuốn...</span></span></span>
 
 That ambiguity explains why the case still attracts attention. Not because the photographs convincingly show a Martian visitor, but because the entire affair illustrates how UFO mythology is often built: through partial documentation, social reinforcement, elusive witnesses and evidence whose authority depends more on presentation than verification.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Evidence Did Allingham Really Have?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Evidence Did Allingham Really Have?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides critical context on how the Allingham photos were initially accepted without independent corroboration.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides critical context on how the Allingham photos were initially accepted without independent corroboration.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Summarizes the specific evidential failures of the Lossiemouth case, focusing on the absence of identifiable witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Summarizes the specific evidential failures of the Lossiemouth case, focusing on the absence of identifiable witnesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Offers methodology for tracing the chain of custody of photographic evidence, exposing why blurred images are often mistaken for proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers methodology for tracing the chain of custody of photographic evidence, exposing why blurred images are often mistaken for proof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flying+Saucer+from+Mars+by+Cedric+Allingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucer from Mars on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flying+Saucer+from+Mars+by+Cedric+Allingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucer from Mars">Flying Saucer from Mars</a>
-        </h4>
-        <p class="fr-book-author">By Cedric Allingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flying+Saucer+from+Mars+by+Cedric+Allingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucer from Mars on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flying+Saucer+from+Mars+by+Cedric+Allingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucer from Mars">Flying Saucer from Mars</a>
+</h4>
+<p class="fr-book-author">By Cedric Allingham</p>
         
-        <p class="fr-book-desc">Contains the original low-quality photographs and the controversial James Duncan affidavit that later failed to stand up to scrutiny.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flying+Saucer+from+Mars+by+Cedric+Allingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains the original low-quality photographs and the controversial James Duncan affidavit that later failed to stand up to scrutiny.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flying+Saucer+from+Mars+by+Cedric+Allingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Shape Desktop Model !"><img src="https://i.ebayimg.com/images/g/CIMAAeSwPI1pgk0U/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Shape Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Shape Desktop Model !</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Shape Desktop Model !"><img src="https://i.ebayimg.com/images/g/CIMAAeSwPI1pgk0U/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Shape Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Shape Desktop Model !</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX"><img src="https://i.ebayimg.com/images/g/8-MAAOSwdn5n1ZJ8/s-l225.jpg" alt="Listing image for ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX"><img src="https://i.ebayimg.com/images/g/8-MAAOSwdn5n1ZJ8/s-l225.jpg" alt="Listing image for ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Mayan Jungle Desktop Model ! (D)"><img src="https://i.ebayimg.com/images/g/yOIAAeSwliRoEc-g/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Mayan Jungle Desktop Model ! (D)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Mayan Jungle Desktop Model ! (D)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Mayan Jungle Desktop Model ! (D)"><img src="https://i.ebayimg.com/images/g/yOIAAeSwliRoEc-g/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Mayan Jungle Desktop Model ! (D)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Mayan Jungle Desktop Model ! (D)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Light Up Desktop Model !"><img src="https://i.ebayimg.com/images/g/5lUAAeSwXgpo~0lB/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Light Up Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Light Up Desktop Model !</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Light Up Desktop Model !"><img src="https://i.ebayimg.com/images/g/5lUAAeSwXgpo~0lB/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Light Up Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Light Up Desktop Model !</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-did-allingham-really-have-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-evidence-did-allingham-really-have-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ That ambiguity explains why the case still attracts attention. Not because the p
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ That ambiguity explains why the case still attracts attention. Not because the p
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ That ambiguity explains why the case still attracts attention. Not because the p
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ That ambiguity explains why the case still attracts attention. Not because the p
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ That ambiguity explains why the case still attracts attention. Not because the p
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,73 +754,73 @@ That ambiguity explains why the case still attracts attention. Not because the p
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cedric Allingham  
-   Link: <a href="https://en.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cedric_Allingham</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cedric_Allingham</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Cedric Allingham  
-   Link: <a href="https://vi.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow">https://vi.wikipedia.org/wiki/Cedric_Allingham</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cedric Allingham – Wikipedia tiếng ViệtCedric Allingham (sinh ngày 27 tháng 6 năm 1922) là nhà văn hư cấu người Anh nổi tiếng về cuốn...</p></details>
+   Link:<a href="https://vi.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow">https://vi.wikipedia.org/wiki/Cedric_Allingham</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cedric Allingham – Wikipedia tiếng ViệtCedric Allingham (sinh ngày 27 tháng 6 năm 1922) là nhà văn hư cấu người Anh nổi tiếng về cuốn...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: magoniamagazine.blogspot.com  
-   Link: <a href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow">https://magoniamagazine.blogspot.com/2013/10/allingham.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Magonia ArchiveFlying Saucer from Moore&#x27;s?Allingham&#x27;s sole witness, a fisherman named James Duncan, likewise could not be traced. Science...</p></details>
+   Link:<a href="https://magoniamagazine.blogspot.com/2013/10/allingham.html" target="_blank" rel="noopener noreferrer nofollow">https://magoniamagazine.blogspot.com/2013/10/allingham.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Magonia ArchiveFlying Saucer from Moore&#x27;s?Allingham&#x27;s sole witness, a fisherman named James Duncan, likewise could not be traced. Science...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/133967296/116465673-UFOs-and-Popular-Culture-James-Lewis" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/133967296/116465673-UFOs-and-Popular-Culture-James-Lewis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Popular Culture James Lewis | PDF... Cedric Allingham had never existed and that Flying Saucer from Mars was a hoax. In the 1980...</p></details>
+   Link:<a href="https://www.scribd.com/document/133967296/116465673-UFOs-and-Popular-Culture-James-Lewis" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/133967296/116465673-UFOs-and-Popular-Culture-James-Lewis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Popular Culture James Lewis | PDF... Cedric Allingham had never existed and that Flying Saucer from Mars was a hoax. In the 1980...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: air.unimi.it  
-   Link: <a href="https://air.unimi.it/retrieve/8c63a0ee-3f2a-40ba-b12b-9dc305cdc754/phd_unimi_R12489.pdf" target="_blank" rel="noopener noreferrer nofollow">https://air.unimi.it/retrieve/8c63a0ee-3f2a-40ba-b12b-9dc305cdc754/phd_unimi_R12489.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LOSTby CDIDINS LINGUISTICI — Her voice spills out and over it, light and sparkling as the Windrush on a sunlit day, flowing away from the...</p></details>
+   Link:<a href="https://air.unimi.it/retrieve/8c63a0ee-3f2a-40ba-b12b-9dc305cdc754/phd_unimi_R12489.pdf" target="_blank" rel="noopener noreferrer nofollow">https://air.unimi.it/retrieve/8c63a0ee-3f2a-40ba-b12b-9dc305cdc754/phd_unimi_R12489.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LOSTby CDIDINS LINGUISTICI — Her voice spills out and over it, light and sparkling as the Windrush on a sunlit day, flowing away from the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: threadinburgh.scot  
-   Link: <a href="https://threadinburgh.scot/2023/08/14/the-thread-about-the-scottish-flying-saucer-craze-of-1950-when-ufos-appeared-over-the-forth-and-buzzed-the-country-from-end-to-end/" target="_blank" rel="noopener noreferrer nofollow">https://threadinburgh.scot/2023/08/14/the-thread-about-the-scottish-flying-saucer-craze-of-1950-when-ufos-appeared-over-the-forth-and-buzzed-the-country-from-end-to-end/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the thread about the Scottish flying saucer craze of 195014 Aug 2023 — But Dowding&#x27;s bold Lossiemouth claim was actually the result of hi...</p></details>
+   Link:<a href="https://threadinburgh.scot/2023/08/14/the-thread-about-the-scottish-flying-saucer-craze-of-1950-when-ufos-appeared-over-the-forth-and-buzzed-the-country-from-end-to-end/" target="_blank" rel="noopener noreferrer nofollow">https://threadinburgh.scot/2023/08/14/the-thread-about-the-scottish-flying-saucer-craze-of-1950-when-ufos-appeared-over-the-forth-and-buzzed-the-country-from-end-to-end/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the thread about the Scottish flying saucer craze of 195014 Aug 2023 — But Dowding&#x27;s bold Lossiemouth claim was actually the result of hi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/prince-of-tricksters-the-incredible-true-story-of-netley-lucas-gentleman-crook-9780226133294.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/prince-of-tricksters-the-incredible-true-story-of-netley-lucas-gentleman-crook-9780226133294.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>identified his exclusive news reports as “fake,” he changed direction and took new...</p></details>
+   Link:<a href="https://dokumen.pub/prince-of-tricksters-the-incredible-true-story-of-netley-lucas-gentleman-crook-9780226133294.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/prince-of-tricksters-the-incredible-true-story-of-netley-lucas-gentleman-crook-9780226133294.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>identified his exclusive news reports as “fake,” he changed direction and took new...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SPIN/posts/men-at-work-bjork-de-la-soul-and-two-more-check-their-list-here-httpswwwspincom2/1331170362376140/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SPIN/posts/men-at-work-bjork-de-la-soul-and-two-more-check-their-list-here-httpswwwspincom2/1331170362376140/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HE 21ST CENTURY (in alphabetical order) The Allman...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/SPIN/posts/men-at-work-bjork-de-la-soul-and-two-more-check-their-list-here-httpswwwspincom2/1331170362376140/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SPIN/posts/men-at-work-bjork-de-la-soul-and-two-more-check-their-list-here-httpswwwspincom2/1331170362376140/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HE 21ST CENTURY (in alphabetical order) The Allman...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: academia.edu  
    Title: THE YEAR 1954 IN PHOTOS Expanded  
-   Link: <a href="https://www.academia.edu/43961635/THE_YEAR_1954_IN_PHOTOS_Expanded_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43961635/THE_YEAR_1954_IN_PHOTOS_Expanded_</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE YEAR 1954 IN PHOTOS (Expanded)... Cedric Allingham, ghosted from a book manuscript written by astronomer Patrick Moore. 7 (13) Date...</p></details>
+   Link:<a href="https://www.academia.edu/43961635/THE_YEAR_1954_IN_PHOTOS_Expanded_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43961635/THE_YEAR_1954_IN_PHOTOS_Expanded_</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE YEAR 1954 IN PHOTOS (Expanded)... Cedric Allingham, ghosted from a book manuscript written by astronomer Patrick Moore. 7 (13) Date...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=atttEDOY97U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=atttEDOY97U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In conversation with Bill Moffat about the 1954 Stephen Darbishire UFO photograph...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=atttEDOY97U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=atttEDOY97U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In conversation with Bill Moffat about the 1954 Stephen Darbishire UFO photograph...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: kar.kent.ac.uk  
    Title: It was four-twenty-five. The whole of that.Read more  
-   Link: <a href="https://kar.kent.ac.uk/86204/1/342159.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/86204/1/342159.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kent Academic Repositoryby S Palmer · 2000 · Cited by 1 — As Cedric Allingham exclaims, after having allegedly conversed with a humanoid...</p></details>
+   Link:<a href="https://kar.kent.ac.uk/86204/1/342159.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/86204/1/342159.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kent Academic Repositoryby S Palmer · 2000 · Cited by 1 — As Cedric Allingham exclaims, after having allegedly conversed with a humanoid...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: feeds.acast.com  
-   Link: <a href="https://feeds.acast.com/public/shows/5e9c7da787f38d39093e2d78" target="_blank" rel="noopener noreferrer nofollow">https://feeds.acast.com/public/shows/5e9c7da787f38d39093e2d78</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eccentric HistoryJames Graham was searching for the pseudo-treatment that would make his fortune, he stumbled upon the idea of providing...</p></details>
+   Link:<a href="https://feeds.acast.com/public/shows/5e9c7da787f38d39093e2d78" target="_blank" rel="noopener noreferrer nofollow">https://feeds.acast.com/public/shows/5e9c7da787f38d39093e2d78</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eccentric HistoryJames Graham was searching for the pseudo-treatment that would make his fortune, he stumbled upon the idea of providing...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: spookyisles.com  
    Title: cedric allingham ufos  
-   Link: <a href="https://www.spookyisles.com/cedric-allingham-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.spookyisles.com/cedric-allingham-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spooky IslesCedric Allingham&#x27;s Flyer Saucer: A UFO Hoax But A Good...6 Oct 2023 — Cedric Allingham&#x27;s 1954 book “Flying Saucer from Mars...</p></details>
+   Link:<a href="https://www.spookyisles.com/cedric-allingham-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.spookyisles.com/cedric-allingham-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spooky IslesCedric Allingham&#x27;s Flyer Saucer: A UFO Hoax But A Good...6 Oct 2023 — Cedric Allingham&#x27;s 1954 book “Flying Saucer from Mars...</p></details>

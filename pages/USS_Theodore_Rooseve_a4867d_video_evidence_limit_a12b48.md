@@ -242,19 +242,19 @@ image: /assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Il
 
 ## Introduction
 
-The **USS Theodore Roosevelt “Gimbal” video** is one of the most widely circulated pieces of public evidence surrounding UAP (Unidentified Aerial Phenomena) sightings in recent years. The 34‑second infrared clip, recorded by an F/A‑18 Super Hornet’s targeting pod in 2015, gained broad public attention because it depicts what appears to be a small object rotating against a backdrop of cloud tops while the pilots express surprise in cockpit audio. The U.S. Department of Defense (DoD) has formally authenticated the video as genuine military sensor footage and labelled the encounter *“unidentified”* — but that authentication does **not** mean the footage alone proves extraordinary physics, advanced technology, or extraterrestrial origin. In fact, the **limitations of the public clip are central to how it should be interpreted as evidence**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosuremonitor.com/articles/pentagon-officially-releases-uap-videos-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosuremonitor.com">[Disclosure Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosuremonitor.com</span><span class="citation-popover-snippet">Disclosure MonitorPentagon Officially Releases UAP Videos: What the Footage Shows and What It Does Not &#124; Disclosure MonitorApril 27, 2020...</span><span class="citation-popover-meta">Published: April 27, 2020</span></span></span>
+The **USS Theodore Roosevelt “Gimbal” video** is one of the most widely circulated pieces of public evidence surrounding UAP (Unidentified Aerial Phenomena) sightings in recent years. The 34‑second infrared clip, recorded by an F/A‑18 Super Hornet’s targeting pod in 2015, gained broad public attention because it depicts what appears to be a small object rotating against a backdrop of cloud tops while the pilots express surprise in cockpit audio. The U.S. Department of Defense (DoD) has formally authenticated the video as genuine military sensor footage and labelled the encounter *“unidentified”* — but that authentication does **not** mean the footage alone proves extraordinary physics, advanced technology, or extraterrestrial origin. In fact, the **limitations of the public clip are central to how it should be interpreted as evidence**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosuremonitor.com/articles/pentagon-officially-releases-uap-videos-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosuremonitor.com">[Disclosure Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosuremonitor.com</span><span class="citation-popover-snippet">Disclosure MonitorPentagon Officially Releases UAP Videos: What the Footage Shows and What It Does Not &#124; Disclosure MonitorApril 27, 2020...</span><span class="citation-popover-meta">Published: April 27, 2020</span></span></span>
 
 <img src="{{ "/assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-1-dark.svg" | relative_url }}" alt="Video Limits illustration 1" data-theme-src-dark="{{ "/assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This page focuses narrowly on what the Gimbal video *does* and *does not* establish on its own, and why infrared imagery can be misleading without additional data. That distinction matters because much of the public debate over the incident hinges on reading far more into the 34 seconds than the clip can empirically support.
 
 ## What the Gimbal Clip Actually Shows
 
-The public Gimbal video is an infrared recording from a Navy F/A‑18’s Advanced Targeting Forward‑Looking Infrared (ATFLIR) pod showing a bright thermal target against a cold cloud‑top background. The pilots’ audio, captured in‑cockpit, includes remarks such as “**Look at that thing, dude**” and “**It’s rotating!**”, conveying their surprise at the object’s behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iufodb.com/gimbal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iufodb.com">[Internet UFO Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iufodb.com</span><span class="citation-popover-snippet">Internet UFO DatabaseGimbal UFO Video 2015June 30, 2024...</span><span class="citation-popover-meta">Published: June 30, 2024</span></span></span>
+The public Gimbal video is an infrared recording from a Navy F/A‑18’s Advanced Targeting Forward‑Looking Infrared (ATFLIR) pod showing a bright thermal target against a cold cloud‑top background. The pilots’ audio, captured in‑cockpit, includes remarks such as “**Look at that thing, dude**” and “**It’s rotating!**”, conveying their surprise at the object’s behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iufodb.com/gimbal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iufodb.com">[Internet UFO Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iufodb.com</span><span class="citation-popover-snippet">Internet UFO DatabaseGimbal UFO Video 2015June 30, 2024...</span><span class="citation-popover-meta">Published: June 30, 2024</span></span></span>
 
 Crucially:
 
-* **Infrared imagery is not a daylight visual photograph:** Infrared sensors detect heat contrasts, not painted shapes, so the “silhouette” seen on screen is determined by temperature differences, sensor processing, contrast settings, and the way the ATFLIR stabilisation system operates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/flir-gimbal-gofast-an-explainer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">Unlocking New Realities FLIR, Gimbal, Go Fast: An Explainer</span><span class="citation-popover-snippet">Unlocking New RealitiesFLIR, Gimbal, GoFast: An Explainer - UAPediaOctober 14, 2025...</span><span class="citation-popover-meta">Published: October 14, 2025</span></span></span> - Unlocking New Realities
-* **The video itself contains no embedded range or radar data:** The publicly released clip shows no distance estimate, no altitude of the object, no independent radar track, and no absolute measures of speed embedded in the imagery. Without such data, basic physical parameters cannot be derived directly from the video. <span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosuremonitor.com/articles/pentagon-officially-releases-uap-videos-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosuremonitor.com">[Disclosure Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosuremonitor.com</span><span class="citation-popover-snippet">Disclosure MonitorPentagon Officially Releases UAP Videos: What the Footage Shows and What It Does Not &#124; Disclosure MonitorApril 27, 2020...</span><span class="citation-popover-meta">Published: April 27, 2020</span></span></span>
+* **Infrared imagery is not a daylight visual photograph:** Infrared sensors detect heat contrasts, not painted shapes, so the “silhouette” seen on screen is determined by temperature differences, sensor processing, contrast settings, and the way the ATFLIR stabilisation system operates.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/flir-gimbal-gofast-an-explainer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">Unlocking New Realities FLIR, Gimbal, Go Fast: An Explainer</span><span class="citation-popover-snippet">Unlocking New RealitiesFLIR, Gimbal, GoFast: An Explainer - UAPediaOctober 14, 2025...</span><span class="citation-popover-meta">Published: October 14, 2025</span></span></span> - Unlocking New Realities
+* **The video itself contains no embedded range or radar data:** The publicly released clip shows no distance estimate, no altitude of the object, no independent radar track, and no absolute measures of speed embedded in the imagery. Without such data, basic physical parameters cannot be derived directly from the video.<span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosuremonitor.com/articles/pentagon-officially-releases-uap-videos-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosuremonitor.com">[Disclosure Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosuremonitor.com</span><span class="citation-popover-snippet">Disclosure MonitorPentagon Officially Releases UAP Videos: What the Footage Shows and What It Does Not &#124; Disclosure MonitorApril 27, 2020...</span><span class="citation-popover-meta">Published: April 27, 2020</span></span></span>
 
 Because of these factors, the visible motion and apparent rotation cannot by themselves establish the physical size, flight dynamics, or three‑dimensional path of the object.
 
@@ -264,16 +264,16 @@ Because of these factors, the visible motion and apparent rotation cannot by the
 
 ### Lack of Absolute Distance and Scale
 
-The absence of verified range data is arguably the most important limitation of the public footage. Without a known distance between the F/A‑18 and the object, any estimation of size or speed from the imagery alone is underdetermined — many different actual sizes and velocities can produce the same angular motion on screen. This is true by basic geometry: angular change alone does not fix an object’s scale without distance calibration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosuremonitor.com/articles/pentagon-officially-releases-uap-videos-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosuremonitor.com">[Disclosure Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosuremonitor.com</span><span class="citation-popover-snippet">Disclosure MonitorPentagon Officially Releases UAP Videos: What the Footage Shows and What It Does Not &#124; Disclosure MonitorApril 27, 2020...</span><span class="citation-popover-meta">Published: April 27, 2020</span></span></span>
+The absence of verified range data is arguably the most important limitation of the public footage. Without a known distance between the F/A‑18 and the object, any estimation of size or speed from the imagery alone is underdetermined — many different actual sizes and velocities can produce the same angular motion on screen. This is true by basic geometry: angular change alone does not fix an object’s scale without distance calibration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosuremonitor.com/articles/pentagon-officially-releases-uap-videos-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosuremonitor.com">[Disclosure Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosuremonitor.com</span><span class="citation-popover-snippet">Disclosure MonitorPentagon Officially Releases UAP Videos: What the Footage Shows and What It Does Not &#124; Disclosure MonitorApril 27, 2020...</span><span class="citation-popover-meta">Published: April 27, 2020</span></span></span>
 
-In technical discussions of Gimbal and its sibling “GoFast” video, analysts consistently note that public clips lack sufficient measurement metadata to confirm claims about size, speed, or acceleration solely from the infrared imagery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/flir-gimbal-gofast-an-explainer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">Unlocking New Realities FLIR, Gimbal, Go Fast: An Explainer</span><span class="citation-popover-snippet">Unlocking New RealitiesFLIR, Gimbal, GoFast: An Explainer - UAPediaOctober 14, 2025...</span><span class="citation-popover-meta">Published: October 14, 2025</span></span></span> - Unlocking New Realities
+In technical discussions of Gimbal and its sibling “GoFast” video, analysts consistently note that public clips lack sufficient measurement metadata to confirm claims about size, speed, or acceleration solely from the infrared imagery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/flir-gimbal-gofast-an-explainer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">Unlocking New Realities FLIR, Gimbal, Go Fast: An Explainer</span><span class="citation-popover-snippet">Unlocking New RealitiesFLIR, Gimbal, GoFast: An Explainer - UAPediaOctober 14, 2025...</span><span class="citation-popover-meta">Published: October 14, 2025</span></span></span> - Unlocking New Realities
 
 ### Uncertainty in Interpretation of Motion
 
 Observers see what looks like **rotation** in the Gimbal clip, but there are multiple plausible explanations for this appearance:
 
-* **Sensor gimbal artefacts:** The ATFLIR system uses a multi‑axis gimbal and an image derotation mechanism to keep the horizon level. Under certain conditions, bright infrared sources can cause asymmetric glare or “lensing” effects that rotate relative to the stabilized frame even if the object itself isn’t rotating. Independent infrared optical engineers and sceptical investigators have discussed this mechanism as a viable source of the apparent rotation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gigazine.net/gsc_news/en/20220317-navy-ufo-video-camera-glare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gigazine.net">[GIGAZINE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gigazine.net</span><span class="citation-popover-snippet">It is pointed out that the UFO video that the U.S. Navy recognized as genuine is &#x27;due to the reflection of light&#x27; - GIGAZINEMarch...</span></span></span>
-* **Perspective and aircraft motion:** The F/A‑18 was manoeuvring during the recording. Combined aircraft movement, target motion, and stabilized camera tracking can produce complex apparent motion in the display that doesn’t map intuitively to the target’s actual behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/flir-gimbal-gofast-an-explainer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">Unlocking New Realities FLIR, Gimbal, Go Fast: An Explainer</span><span class="citation-popover-snippet">Unlocking New RealitiesFLIR, Gimbal, GoFast: An Explainer - UAPediaOctober 14, 2025...</span><span class="citation-popover-meta">Published: October 14, 2025</span></span></span> - Unlocking New Realities
+* **Sensor gimbal artefacts:** The ATFLIR system uses a multi‑axis gimbal and an image derotation mechanism to keep the horizon level. Under certain conditions, bright infrared sources can cause asymmetric glare or “lensing” effects that rotate relative to the stabilized frame even if the object itself isn’t rotating. Independent infrared optical engineers and sceptical investigators have discussed this mechanism as a viable source of the apparent rotation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gigazine.net/gsc_news/en/20220317-navy-ufo-video-camera-glare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gigazine.net">[GIGAZINE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gigazine.net</span><span class="citation-popover-snippet">It is pointed out that the UFO video that the U.S. Navy recognized as genuine is &#x27;due to the reflection of light&#x27; - GIGAZINEMarch...</span></span></span>
+* **Perspective and aircraft motion:** The F/A‑18 was manoeuvring during the recording. Combined aircraft movement, target motion, and stabilized camera tracking can produce complex apparent motion in the display that doesn’t map intuitively to the target’s actual behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/flir-gimbal-gofast-an-explainer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">Unlocking New Realities FLIR, Gimbal, Go Fast: An Explainer</span><span class="citation-popover-snippet">Unlocking New RealitiesFLIR, Gimbal, GoFast: An Explainer - UAPediaOctober 14, 2025...</span><span class="citation-popover-meta">Published: October 14, 2025</span></span></span> - Unlocking New Realities
 
 Because the public clip contains only the processed video without raw sensor data, it’s impossible for outside analysts to conclusively separate true target dynamics from artefacts introduced by the imaging system.
 
@@ -290,7 +290,7 @@ The video does not include the full set of contemporaneous sensor records, such 
 
 </div>
 
-The absence of these data streams means that external analysts cannot reconstruct the full engagement geometry; suggestions about highly unusual motions therefore remain unconfirmed outside of pilot statements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/flir-gimbal-gofast-an-explainer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">Unlocking New Realities FLIR, Gimbal, Go Fast: An Explainer</span><span class="citation-popover-snippet">Unlocking New RealitiesFLIR, Gimbal, GoFast: An Explainer - UAPediaOctober 14, 2025...</span><span class="citation-popover-meta">Published: October 14, 2025</span></span></span> - Unlocking New Realities
+The absence of these data streams means that external analysts cannot reconstruct the full engagement geometry; suggestions about highly unusual motions therefore remain unconfirmed outside of pilot statements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/flir-gimbal-gofast-an-explainer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">Unlocking New Realities FLIR, Gimbal, Go Fast: An Explainer</span><span class="citation-popover-snippet">Unlocking New RealitiesFLIR, Gimbal, GoFast: An Explainer - UAPediaOctober 14, 2025...</span><span class="citation-popover-meta">Published: October 14, 2025</span></span></span> - Unlocking New Realities
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZBtMbBPzqHY" title="Navy pilots describe encounters with UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZBtMbBPzqHY" target="_blank" rel="noopener noreferrer">Navy pilots describe encounters with UFOs</a></p><p class="youtube-embed-meta">Channel: 60 Minutes &middot; Views: 13.2M &middot; Uploaded: May 2021 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZBtMbBPzqHY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZBtMbBPzqHY">Open on YouTube</a></p></div></div></div>
 
@@ -298,16 +298,16 @@ The absence of these data streams means that external analysts cannot reconstruc
 
 Infrared systems can distort physical interpretation in ways that are not intuitively obvious to casual viewers:
 
-* **Spectral ambiguity:** Infrared imagery displays heat contrast. A relatively hot object far away can appear similar to a closer, cooler object on screen, depending on atmospheric transmission and sensor gain settings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/flir-gimbal-gofast-an-explainer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">Unlocking New Realities FLIR, Gimbal, Go Fast: An Explainer</span><span class="citation-popover-snippet">Unlocking New RealitiesFLIR, Gimbal, GoFast: An Explainer - UAPediaOctober 14, 2025...</span><span class="citation-popover-meta">Published: October 14, 2025</span></span></span> - Unlocking New Realities
-* **Optical artefacts:** Bright thermal sources can produce asymmetric flares and “ghost” reflections within the optics that move as the camera pan or stabiliser moves. Under certain conditions, these can mimic rotation or shape changes unrelated to the target. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gigazine.net/gsc_news/en/20220317-navy-ufo-video-camera-glare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gigazine.net">[GIGAZINE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gigazine.net</span><span class="citation-popover-snippet">It is pointed out that the UFO video that the U.S. Navy recognized as genuine is &#x27;due to the reflection of light&#x27; - GIGAZINEMarch...</span></span></span>
-* **Sensor processing choices:** The ATFLIR system’s automatic gain controls, field‑of‑view changes, and contrast adjustments all affect how the thermal target is rendered. Without raw data, it’s difficult to separate sensor processing effects from actual object behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/flir-gimbal-gofast-an-explainer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">Unlocking New Realities FLIR, Gimbal, Go Fast: An Explainer</span><span class="citation-popover-snippet">Unlocking New RealitiesFLIR, Gimbal, GoFast: An Explainer - UAPediaOctober 14, 2025...</span><span class="citation-popover-meta">Published: October 14, 2025</span></span></span> - Unlocking New Realities
+* **Spectral ambiguity:** Infrared imagery displays heat contrast. A relatively hot object far away can appear similar to a closer, cooler object on screen, depending on atmospheric transmission and sensor gain settings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/flir-gimbal-gofast-an-explainer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">Unlocking New Realities FLIR, Gimbal, Go Fast: An Explainer</span><span class="citation-popover-snippet">Unlocking New RealitiesFLIR, Gimbal, GoFast: An Explainer - UAPediaOctober 14, 2025...</span><span class="citation-popover-meta">Published: October 14, 2025</span></span></span> - Unlocking New Realities
+* **Optical artefacts:** Bright thermal sources can produce asymmetric flares and “ghost” reflections within the optics that move as the camera pan or stabiliser moves. Under certain conditions, these can mimic rotation or shape changes unrelated to the target.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gigazine.net/gsc_news/en/20220317-navy-ufo-video-camera-glare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gigazine.net">[GIGAZINE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gigazine.net</span><span class="citation-popover-snippet">It is pointed out that the UFO video that the U.S. Navy recognized as genuine is &#x27;due to the reflection of light&#x27; - GIGAZINEMarch...</span></span></span>
+* **Sensor processing choices:** The ATFLIR system’s automatic gain controls, field‑of‑view changes, and contrast adjustments all affect how the thermal target is rendered. Without raw data, it’s difficult to separate sensor processing effects from actual object behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/flir-gimbal-gofast-an-explainer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">Unlocking New Realities FLIR, Gimbal, Go Fast: An Explainer</span><span class="citation-popover-snippet">Unlocking New RealitiesFLIR, Gimbal, GoFast: An Explainer - UAPediaOctober 14, 2025...</span><span class="citation-popover-meta">Published: October 14, 2025</span></span></span> - Unlocking New Realities
 
 These technical characteristics underscore why infrared footage, while valuable as an initial observational record, is inherently limited as standalone proof of specific physical characteristics.
 
 <img src="{{ "/assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-3-dark.svg" | relative_url }}" alt="Video Limits illustration 3" data-theme-src-dark="{{ "/assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Theodore_Rooseve_a4867d_video_evidence_limit_a12b48-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Summary: Where the Evidence Stands
 
-The Gimbal video remains a **genuine Navy sensor recording** of an unidentified aerial object, authenticated by the U.S. Department of Defense. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/video/video-of-unidentified-aerial-phenomenon-off-East-Coast-of-United-States/-287330" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Unidentified Aerial Phenomena Sighting &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia BritannicaUnidentified Aerial Phenomena Sighting &#124; BritannicaMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span> However, as an isolated piece of public evidence, it **does not by itself prove:**
+The Gimbal video remains a **genuine Navy sensor recording** of an unidentified aerial object, authenticated by the U.S. Department of Defense.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/video/video-of-unidentified-aerial-phenomenon-off-East-Coast-of-United-States/-287330" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Unidentified Aerial Phenomena Sighting &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia BritannicaUnidentified Aerial Phenomena Sighting &#124; BritannicaMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span> However, as an isolated piece of public evidence, it **does not by itself prove:**
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -326,181 +326,181 @@ Given these constraints, serious analysis of the incident — whether technical,
 
 ## The Public’s Takeaway
 
-For most readers, the key lesson from the Gimbal video is this: while it provides a dramatic and compelling snapshot of an unresolved encounter, its evidential value is strictly limited by the **type of data it contains**. The footage is a starting point for inquiry, not an endpoint for definitive conclusions. Engaging with it responsibly means distinguishing between **what is visible** in the clip and **what can be rigorously demonstrated** based on the information that is publicly available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosuremonitor.com/articles/pentagon-officially-releases-uap-videos-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosuremonitor.com">[Disclosure Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosuremonitor.com</span><span class="citation-popover-snippet">Disclosure MonitorPentagon Officially Releases UAP Videos: What the Footage Shows and What It Does Not &#124; Disclosure MonitorApril 27, 2020...</span><span class="citation-popover-meta">Published: April 27, 2020</span></span></span>
+For most readers, the key lesson from the Gimbal video is this: while it provides a dramatic and compelling snapshot of an unresolved encounter, its evidential value is strictly limited by the **type of data it contains**. The footage is a starting point for inquiry, not an endpoint for definitive conclusions. Engaging with it responsibly means distinguishing between **what is visible** in the clip and **what can be rigorously demonstrated** based on the information that is publicly available.<span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosuremonitor.com/articles/pentagon-officially-releases-uap-videos-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosuremonitor.com">[Disclosure Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosuremonitor.com</span><span class="citation-popover-snippet">Disclosure MonitorPentagon Officially Releases UAP Videos: What the Footage Shows and What It Does Not &#124; Disclosure MonitorApril 27, 2020...</span><span class="citation-popover-meta">Published: April 27, 2020</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What the 34 Second Clip Can Prove. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What the 34 Second Clip Can Prove. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Details his first-hand involvement, investigative conclusions, and his formal assessment of the electromagnetic effect claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details his first-hand involvement, investigative conclusions, and his formal assessment of the electromagnetic effect claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Summarizes the controversy behind the Roosevelt electrical failure and the fallout when evidence remains anecdotal.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Summarizes the controversy behind the Roosevelt electrical failure and the fallout when evidence remains anecdotal.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches investigative methodology for analyzing credibility issues, contradictions, and narrative inflation in UFO testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches investigative methodology for analyzing credibility issues, contradictions, and narrative inflation in UFO testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Provides institutional background on how 2010s investigative bureaus indexed and eventually rejected vehicle-failure reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides institutional background on how 2010s investigative bureaus indexed and eventually rejected vehicle-failure reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer City Abstract Illustration XL Wall Art Canvas Print"><img src="{{ '/assets/images/marketplace-covers/08970d404cdaabe091d4.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer City Abstract Illustration XL Wall Art Canvas Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer City Abstract Illustration XL Wall Art Canvas Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer City Abstract Illustration XL Wall Art Canvas Print"><img src="{{ '/assets/images/marketplace-covers/08970d404cdaabe091d4.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer City Abstract Illustration XL Wall Art Canvas Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer City Abstract Illustration XL Wall Art Canvas Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Vintage UFO Flying Saucer Car Black &amp; White Framed Wall Art Print Large"><img src="{{ '/assets/images/marketplace-covers/f831d5ef2997af7f51bb.jpg' | relative_url }}" alt="Listing image for Retro Vintage UFO Flying Saucer Car Black &amp; White Framed Wall Art Print Large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book" target="_blank" rel="sponsored noopener noreferrer">Retro Vintage UFO Flying Saucer Car Black &amp; White Framed Wall Art Print Large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Vintage UFO Flying Saucer Car Black &amp; White Framed Wall Art Print Large"><img src="{{ '/assets/images/marketplace-covers/f831d5ef2997af7f51bb.jpg' | relative_url }}" alt="Listing image for Retro Vintage UFO Flying Saucer Car Black &amp; White Framed Wall Art Print Large" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book" target="_blank" rel="sponsored noopener noreferrer">Retro Vintage UFO Flying Saucer Car Black &amp; White Framed Wall Art Print Large</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLYING SAUCER UFO IN THE DESERT -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6b3c670b27172235f91d.jpg' | relative_url }}" alt="Listing image for FLYING SAUCER UFO IN THE DESERT -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book" target="_blank" rel="sponsored noopener noreferrer">FLYING SAUCER UFO IN THE DESERT -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLYING SAUCER UFO IN THE DESERT -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6b3c670b27172235f91d.jpg' | relative_url }}" alt="Listing image for FLYING SAUCER UFO IN THE DESERT -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book" target="_blank" rel="sponsored noopener noreferrer">FLYING SAUCER UFO IN THE DESERT -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="video-limits-what-the-34-second-clip-can-prove-uss-theodore-roosevelt-gimbal-video-2015-flying-saucer-wall-art-book-book" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -516,7 +516,7 @@ For most readers, the key lesson from the Gimbal video is this: while it provide
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -536,7 +536,7 @@ For most readers, the key lesson from the Gimbal video is this: while it provide
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -568,7 +568,7 @@ For most readers, the key lesson from the Gimbal video is this: while it provide
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -620,7 +620,7 @@ For most readers, the key lesson from the Gimbal video is this: while it provide
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -665,7 +665,7 @@ For most readers, the key lesson from the Gimbal video is this: while it provide
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -706,142 +706,142 @@ For most readers, the key lesson from the Gimbal video is this: while it provide
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: uapedia.ai  
    Title: Unlocking New Realities FLIR, Gimbal, Go Fast: An Explainer  
-   Link: <a href="https://uapedia.ai/wiki/flir-gimbal-gofast-an-explainer/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/flir-gimbal-gofast-an-explainer/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unlocking New RealitiesFLIR, Gimbal, GoFast: An Explainer - UAPediaOctober 14, 2025...</p></details>
+   Link:<a href="https://uapedia.ai/wiki/flir-gimbal-gofast-an-explainer/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/flir-gimbal-gofast-an-explainer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unlocking New RealitiesFLIR, Gimbal, GoFast: An Explainer - UAPediaOctober 14, 2025...</p></details>
    Published: October 14, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gigazine.net  
-   Link: <a href="https://gigazine.net/gsc_news/en/20220317-navy-ufo-video-camera-glare" target="_blank" rel="noopener noreferrer nofollow">https://gigazine.net/gsc_news/en/20220317-navy-ufo-video-camera-glare</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It is pointed out that the UFO video that the U.S. Navy recognized as genuine is &#x27;due to the reflection of light&#x27; - GIGAZINEMarch...</p></details>
+   Link:<a href="https://gigazine.net/gsc_news/en/20220317-navy-ufo-video-camera-glare" target="_blank" rel="noopener noreferrer nofollow">https://gigazine.net/gsc_news/en/20220317-navy-ufo-video-camera-glare</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is pointed out that the UFO video that the U.S. Navy recognized as genuine is &#x27;due to the reflection of light&#x27; - GIGAZINEMarch...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: uapedia.ai  
-   Link: <a href="https://uapedia.ai/wiki/the-roosevelt-encounters-how-gimbal-and-gofast-rewrote-the-uap-conversation/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/the-roosevelt-encounters-how-gimbal-and-gofast-rewrote-the-uap-conversation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unlocking New RealitiesThe Roosevelt Encounters: How “GIMBAL” and “GOFAST” Rewrote the UAP Conversation - UAPediaNovember 26, 2025...</p></details>
+   Link:<a href="https://uapedia.ai/wiki/the-roosevelt-encounters-how-gimbal-and-gofast-rewrote-the-uap-conversation/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/the-roosevelt-encounters-how-gimbal-and-gofast-rewrote-the-uap-conversation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unlocking New RealitiesThe Roosevelt Encounters: How “GIMBAL” and “GOFAST” Rewrote the UAP Conversation - UAPediaNovember 26, 2025...</p></details>
    Published: November 26, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Unidentified Aerial Phenomena Sighting | Britannica  
-   Link: <a href="https://www.britannica.com/video/video-of-unidentified-aerial-phenomenon-off-East-Coast-of-United-States/-287330" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/video/video-of-unidentified-aerial-phenomenon-off-East-Coast-of-United-States/-287330</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaUnidentified Aerial Phenomena Sighting | BritannicaMarch 11, 2026...</p></details>
+   Link:<a href="https://www.britannica.com/video/video-of-unidentified-aerial-phenomenon-off-East-Coast-of-United-States/-287330" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/video/video-of-unidentified-aerial-phenomenon-off-East-Coast-of-United-States/-287330</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaUnidentified Aerial Phenomena Sighting | BritannicaMarch 11, 2026...</p></details>
    Published: March 11, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: britannica.com  
    Title: Unidentified Aerial Phenomena Sighting | Britannica  
-   Link: <a href="https://www.britannica.com/video/234270/video-of-unidentified-aerial-phenomenon-off-East-Coast-of-United-States" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/video/234270/video-of-unidentified-aerial-phenomenon-off-East-Coast-of-United-States</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MILITARY VIDEO OF UNIDENTIFIED AERIAL PHENOMENA (UAP) * * * Image: Declassified U.S. military video of unidentified aerial phenomena (UAP...</p></details>
+   Link:<a href="https://www.britannica.com/video/234270/video-of-unidentified-aerial-phenomenon-off-East-Coast-of-United-States" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/video/234270/video-of-unidentified-aerial-phenomenon-off-East-Coast-of-United-States</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MILITARY VIDEO OF UNIDENTIFIED AERIAL PHENOMENA (UAP) * * * Image: Declassified U.S. military video of unidentified aerial phenomena (UAP...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: uapedia.ai  
    Title: Two glimpses, la  
-   Link: <a href="https://uapedia.ai/wiki/uss-roosevelt-gimbal-and-gofast-encounters-2015/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/uss-roosevelt-gimbal-and-gofast-encounters-2015/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Roosevelt: Gimbal and GoFast Encounters (2015) - UAPediaOctober 14, 2025 — USS ROOSEVELT: GIMBAL AND GOFAST ENCOUNTERS (2015) January...</p></details>
+   Link:<a href="https://uapedia.ai/wiki/uss-roosevelt-gimbal-and-gofast-encounters-2015/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/uss-roosevelt-gimbal-and-gofast-encounters-2015/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Roosevelt: Gimbal and GoFast Encounters (2015) - UAPediaOctober 14, 2025 — USS ROOSEVELT: GIMBAL AND GOFAST ENCOUNTERS (2015) January...</p></details>
    Published: October 14, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: blackboxufo.com  
-   Link: <a href="https://blackboxufo.com/cases/2014-uss-theodore-roosevelt-gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://blackboxufo.com/cases/2014-uss-theodore-roosevelt-gimbal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Theodore Roosevelt &#x27;Gimbal&#x27; UAP - January 21, 2015 - BlackBox UFO Research | BLACKBOXJanuary 21, 2015 — USS THEODORE ROOSEVELT &#x27;GIMBA...</p></details>
+   Link:<a href="https://blackboxufo.com/cases/2014-uss-theodore-roosevelt-gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://blackboxufo.com/cases/2014-uss-theodore-roosevelt-gimbal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Theodore Roosevelt &#x27;Gimbal&#x27; UAP - January 21, 2015 - BlackBox UFO Research | BLACKBOXJanuary 21, 2015 — USS THEODORE ROOSEVELT &#x27;GIMBA...</p></details>
    Published: January 21, 2015  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: My UFO Mistake  
-   Link: <a href="https://www.youtube.com/watch?v=_YIS16GfzfQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_YIS16GfzfQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gimbal UFO Video 2015...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_YIS16GfzfQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_YIS16GfzfQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gimbal UFO Video 2015...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qsEjV8DdSbs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy pilots describe encounters with UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qsEjV8DdSbs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy pilots describe encounters with UFOs...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: disclosuremonitor.com  
-   Link: <a href="https://disclosuremonitor.com/articles/pentagon-officially-releases-uap-videos-explained" target="_blank" rel="noopener noreferrer nofollow">https://disclosuremonitor.com/articles/pentagon-officially-releases-uap-videos-explained</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure MonitorPentagon Officially Releases UAP Videos: What the Footage Shows and What It Does Not | Disclosure MonitorApril 27, 2020...</p></details>
+   Link:<a href="https://disclosuremonitor.com/articles/pentagon-officially-releases-uap-videos-explained" target="_blank" rel="noopener noreferrer nofollow">https://disclosuremonitor.com/articles/pentagon-officially-releases-uap-videos-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure MonitorPentagon Officially Releases UAP Videos: What the Footage Shows and What It Does Not | Disclosure MonitorApril 27, 2020...</p></details>
    Published: April 27, 2020  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: iufodb.com  
-   Link: <a href="https://www.iufodb.com/gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.iufodb.com/gimbal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet UFO DatabaseGimbal UFO Video 2015June 30, 2024...</p></details>
+   Link:<a href="https://www.iufodb.com/gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.iufodb.com/gimbal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet UFO DatabaseGimbal UFO Video 2015June 30, 2024...</p></details>
    Published: June 30, 2024  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ufodisclosure.us  
-   Link: <a href="https://ufodisclosure.us/gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://ufodisclosure.us/gimbal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Roosevelt VideoGIMBAL – USS ROOSEVELT VIDEO USS Roosevelt “Gimbal” Navy Video During 2014–2015, fighter pilots associated with the US...</p></details>
+   Link:<a href="https://ufodisclosure.us/gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://ufodisclosure.us/gimbal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Roosevelt VideoGIMBAL – USS ROOSEVELT VIDEO USS Roosevelt “Gimbal” Navy Video During 2014–2015, fighter pilots associated with the US...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: commons.wikimedia.org  
    Title: It was captioned as follows: English: Gimbal is one of three US military videos  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AGimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm?uselang=lv" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AGimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm?uselang=lv</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Gimbal The First Official UAP Footage from the USG for Public Release.webm — Wikimedia CommonsJanuary 21, 2015 — ASSESS...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AGimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm?uselang=lv" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AGimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm?uselang=lv</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Gimbal The First Official UAP Footage from the USG for Public Release.webm — Wikimedia CommonsJanuary 21, 2015 — ASSESS...</p></details>
    Published: January 21, 2015  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: newspaceeconomy.ca  
    Title: the gimbal incident a detailed examination of the 2015 navy uap encounter  
-   Link: <a href="https://newspaceeconomy.ca/2025/12/06/the-gimbal-incident-a-detailed-examination-of-the-2015-navy-uap-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/12/06/the-gimbal-incident-a-detailed-examination-of-the-2015-navy-uap-encounter/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gimbal Incident: A Detailed Examination of the 2015 Navy UAP Encounter - New Space Economy3 days ago — THE GIMBAL INCIDENT: A DETAILE...</p></details>
+   Link:<a href="https://newspaceeconomy.ca/2025/12/06/the-gimbal-incident-a-detailed-examination-of-the-2015-navy-uap-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/12/06/the-gimbal-incident-a-detailed-examination-of-the-2015-navy-uap-encounter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Gimbal Incident: A Detailed Examination of the 2015 Navy UAP Encounter - New Space Economy3 days ago — THE GIMBAL INCIDENT: A DETAILE...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: uapcaucus.com  
    Title: reconstruction of potential flight paths for the january 2015 gimbal uap  
-   Link: <a href="https://www.uapcaucus.com/research/reconstruction-of-potential-flight-paths-for-the-january-2015-gimbal-uap" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcaucus.com/research/reconstruction-of-potential-flight-paths-for-the-january-2015-gimbal-uap</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstruction of Potential Flight Paths for the January 2015 “Gimbal” UAPJune 8, 2023 — RECONSTRUCTION OF POTENTIAL FLIGHT PATHS FOR THE...</p></details>
+   Link:<a href="https://www.uapcaucus.com/research/reconstruction-of-potential-flight-paths-for-the-january-2015-gimbal-uap" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcaucus.com/research/reconstruction-of-potential-flight-paths-for-the-january-2015-gimbal-uap</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstruction of Potential Flight Paths for the January 2015 “Gimbal” UAPJune 8, 2023 — RECONSTRUCTION OF POTENTIAL FLIGHT PATHS FOR THE...</p></details>
    Published: january 2015  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aliencouncil.com  
    Title: The Department of Defense confirmed the footage's authentic  
-   Link: <a href="https://aliencouncil.com/glossary/gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://aliencouncil.com/glossary/gimbal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gimbal — Glossary · The CouncilMay 8, 2026 — GIMBAL The 2015 ATFLIR video captured by an F/A-18 from the USS Theodore Roosevelt, showing...</p></details>
+   Link:<a href="https://aliencouncil.com/glossary/gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://aliencouncil.com/glossary/gimbal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gimbal — Glossary · The CouncilMay 8, 2026 — GIMBAL The 2015 ATFLIR video captured by an F/A-18 from the USS Theodore Roosevelt, showing...</p></details>
    Published: May 8, 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: unexplained.co  
    Title: Viral UAP Fires & Havana Clips: What’s Actually Proven  
-   Link: <a href="https://www.unexplained.co/news/viral-uap-fires-havana-syndrome-clips-fact-check" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained.co/news/viral-uap-fires-havana-syndrome-clips-fact-check</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 26, 2026 — Image: Viral UAP Fires &amp;amp; Havana Clips: What’s Actually Proven UFO &amp; Aliens VIRAL UAP FIRES &amp; HAVANA CLIPS: WHAT’S...</p></details>
+   Link:<a href="https://www.unexplained.co/news/viral-uap-fires-havana-syndrome-clips-fact-check" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained.co/news/viral-uap-fires-havana-syndrome-clips-fact-check</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 26, 2026 — Image: Viral UAP Fires &amp;amp; Havana Clips: What’s Actually Proven UFO &amp; Aliens VIRAL UAP FIRES &amp; HAVANA CLIPS: WHAT’S...</p></details>
    Published: January 26, 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: newspaceeconomy.ca  
    Title: The Scientific Case for Mundane Origins of UAP  
-   Link: <a href="https://newspaceeconomy.ca/2025/12/07/the-scientific-case-for-mundane-origins-of-uap/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/12/07/the-scientific-case-for-mundane-origins-of-uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Space EconomyMay 23, 2026 — SENSOR ARTIFACTS AND TECHNICAL GLITCHES Modern arguments for UAPs often rely on the claim that “sensors d...</p></details>
+   Link:<a href="https://newspaceeconomy.ca/2025/12/07/the-scientific-case-for-mundane-origins-of-uap/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/12/07/the-scientific-case-for-mundane-origins-of-uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Space EconomyMay 23, 2026 — SENSOR ARTIFACTS AND TECHNICAL GLITCHES Modern arguments for UAPs often rely on the claim that “sensors d...</p></details>
    Published: May 23, 2026  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theufodatabase.com  
    Title: uss roosevelt gimbal incident video  
-   Link: <a href="https://theufodatabase.com/videos/uss-roosevelt-gimbal-incident-video" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/videos/uss-roosevelt-gimbal-incident-video</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Roosevelt &#x27;Gimbal&#x27; UFO: Declassified Video | The UFO DatabaseUSS ROOSEVELT &#x27;GIMBAL&#x27; UFO: DECLASSIFIED VIDEO IMAGE: SHARE YouTube vide...</p></details>
+   Link:<a href="https://theufodatabase.com/videos/uss-roosevelt-gimbal-incident-video" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/videos/uss-roosevelt-gimbal-incident-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Roosevelt &#x27;Gimbal&#x27; UFO: Declassified Video | The UFO DatabaseUSS ROOSEVELT &#x27;GIMBAL&#x27; UFO: DECLASSIFIED VIDEO IMAGE: SHARE YouTube vide...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theufodatabase.com  
    Title: uss theodore roosevelt uap videos  
-   Link: <a href="https://theufodatabase.com/incidents/uss-theodore-roosevelt-uap-videos" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/incidents/uss-theodore-roosevelt-uap-videos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Theodore Roosevelt UAPs | The UFO DatabaseUSS THEODORE ROOSEVELT UAPS IMAGE: SHARE 2014-2015 Image: Play Image: Pause 5-minute listen...</p></details>
+   Link:<a href="https://theufodatabase.com/incidents/uss-theodore-roosevelt-uap-videos" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/incidents/uss-theodore-roosevelt-uap-videos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Theodore Roosevelt UAPs | The UFO DatabaseUSS THEODORE ROOSEVELT UAPS IMAGE: SHARE 2014-2015 Image: Play Image: Pause 5-minute listen...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: tvi.show  
    Title: analyzing the tic tac ufo footage  
-   Link: <a href="https://www.tvi.show/skywatch-files/analyzing-the-tic-tac-ufo-footage" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/analyzing-the-tic-tac-ufo-footage</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tic Tac UFO Footage Explained: Expert Analysis of the 2004 Navy EncounterANALYZING THE FOOTAGE: TECHNICAL DETAILS iframe Analysis of the...</p></details>
+   Link:<a href="https://www.tvi.show/skywatch-files/analyzing-the-tic-tac-ufo-footage" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/analyzing-the-tic-tac-ufo-footage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tic Tac UFO Footage Explained: Expert Analysis of the 2004 Navy EncounterANALYZING THE FOOTAGE: TECHNICAL DETAILS iframe Analysis of the...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: science.slashdot.org  
    Title: Syfy Wire's "Bad Astronomy" col  
-   Link: <a href="https://science.slashdot.org/story/20/05/02/2324228/why-the-navys-ufo-videos-arent-showing-aliens" target="_blank" rel="noopener noreferrer nofollow">https://science.slashdot.org/story/20/05/02/2324228/why-the-navys-ufo-videos-arent-showing-aliens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Navy&#x27;s UFO Videos Aren&#x27;t Showing Aliens - SlashdotMay 3, 2020 — 130286348 story WHY THE NAVY&#x27;S UFO VIDEOS AREN&#x27;T SHOWING ALIENS (SYFY...</p></details>
+   Link:<a href="https://science.slashdot.org/story/20/05/02/2324228/why-the-navys-ufo-videos-arent-showing-aliens" target="_blank" rel="noopener noreferrer nofollow">https://science.slashdot.org/story/20/05/02/2324228/why-the-navys-ufo-videos-arent-showing-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Navy&#x27;s UFO Videos Aren&#x27;t Showing Aliens - SlashdotMay 3, 2020 — 130286348 story WHY THE NAVY&#x27;S UFO VIDEOS AREN&#x27;T SHOWING ALIENS (SYFY...</p></details>
    Published: May 3, 2020

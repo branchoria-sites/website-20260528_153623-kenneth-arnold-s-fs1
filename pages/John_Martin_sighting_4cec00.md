@@ -758,18 +758,18 @@ image: /assets/images/John_Martin_sighting_4cec00-overview-social.jpg
 
 ## What Martin reportedly saw
 
-The core account appeared on the front page of the *Denison Daily News* on 25 January 1878 under the heading “A Strange Phenomenon”. The digitised issue is held by the University of North Texas Libraries’ Portal to Texas History, which identifies it as *Denison Daily News*, volume 5, number 280, page 1, digitised from 35 mm microfilm and credited to Grayson County Frontier Village. <span class="citation-chip-wrap"><a class="citation-chip" href="https://texashistory.unt.edu/ark%3A/67531/metapth326826/m1/1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texashistory.unt.edu">[The Portal to Texas History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texashistory.unt.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The core account appeared on the front page of the *Denison Daily News* on 25 January 1878 under the heading “A Strange Phenomenon”. The digitised issue is held by the University of North Texas Libraries’ Portal to Texas History, which identifies it as *Denison Daily News*, volume 5, number 280, page 1, digitised from 35 mm microfilm and credited to Grayson County Frontier Village.<span class="citation-chip-wrap"><a class="citation-chip" href="https://texashistory.unt.edu/ark%3A/67531/metapth326826/m1/1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texashistory.unt.edu">[The Portal to Texas History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texashistory.unt.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/John_Martin_sighting_4cec00-overview.webp" | relative_url }}" alt="Overview image for John Martin sighting 1878" loading="eager" decoding="sync" fetchpriority="high">
-Later transcriptions of the article give the essential sequence. Martin was out hunting on a Tuesday morning when he noticed a dark object high in the southern sky. It first appeared roughly “the size of an orange”, then seemed to increase in size as it approached. After staring at it for some time, Martin reportedly rested his eyes; when he looked again, the object was nearly overhead, moving very quickly and apparently at great height. When directly above him, it appeared “about the size of a large saucer”; Martin thought it resembled a balloon as well as he could judge. The article closed by calling Martin a man of “undoubted veracity” and suggesting that, if the object was not a balloon, it deserved scientific attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/fsar/fsar08.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Later transcriptions of the article give the essential sequence. Martin was out hunting on a Tuesday morning when he noticed a dark object high in the southern sky. It first appeared roughly “the size of an orange”, then seemed to increase in size as it approached. After staring at it for some time, Martin reportedly rested his eyes; when he looked again, the object was nearly overhead, moving very quickly and apparently at great height. When directly above him, it appeared “about the size of a large saucer”; Martin thought it resembled a balloon as well as he could judge. The article closed by calling Martin a man of “undoubted veracity” and suggesting that, if the object was not a balloon, it deserved scientific attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/fsar/fsar08.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The language is important. The “saucer” comparison does not necessarily mean Martin claimed to see a disc-shaped craft. In the report, “saucer” appears to describe apparent size in the sky, while the object itself is also compared with a balloon. That distinction is often lost in modern retellings, where the case is sometimes summarised too quickly as the first “flying saucer” sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://texascooppower.com/the-first-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texascooppower.com">[Texas Co-op Power]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texascooppower.com</span><span class="citation-popover-title">Texas Co-op Power The First “Flying Saucer” &#124; Texas Co-op Power</span><span class="citation-popover-snippet">Texas Co-op Power The First “Flying Saucer” &#124; Texas Co-op Power</span></span></span>
+The language is important. The “saucer” comparison does not necessarily mean Martin claimed to see a disc-shaped craft. In the report, “saucer” appears to describe apparent size in the sky, while the object itself is also compared with a balloon. That distinction is often lost in modern retellings, where the case is sometimes summarised too quickly as the first “flying saucer” sighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://texascooppower.com/the-first-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texascooppower.com">[Texas Co-op Power]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texascooppower.com</span><span class="citation-popover-title">Texas Co-op Power The First “Flying Saucer” &#124; Texas Co-op Power</span><span class="citation-popover-snippet">Texas Co-op Power The First “Flying Saucer” &#124; Texas Co-op Power</span></span></span>
 
 ## Why the date and location are messier than they first appear
 
-The most reliable fixed date is the publication date: 25 January 1878. The date of the sighting itself is less consistently repeated. Texas Co-op Power, drawing on the newspaper account, places the sighting on 22 January 1878, three days before the *Denison Daily News* report. Some UFO catalogue-style retellings give 2 January 1878 instead, apparently reflecting later transmission errors rather than the strongest newspaper-linked chronology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://texascooppower.com/the-first-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texascooppower.com">[Texas Co-op Power]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texascooppower.com</span><span class="citation-popover-title">Texas Co-op Power The First “Flying Saucer” &#124; Texas Co-op Power</span><span class="citation-popover-snippet">Texas Co-op Power The First “Flying Saucer” &#124; Texas Co-op Power</span></span></span>
+The most reliable fixed date is the publication date: 25 January 1878. The date of the sighting itself is less consistently repeated. Texas Co-op Power, drawing on the newspaper account, places the sighting on 22 January 1878, three days before the *Denison Daily News* report. Some UFO catalogue-style retellings give 2 January 1878 instead, apparently reflecting later transmission errors rather than the strongest newspaper-linked chronology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://texascooppower.com/the-first-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texascooppower.com">[Texas Co-op Power]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texascooppower.com</span><span class="citation-popover-title">Texas Co-op Power The First “Flying Saucer” &#124; Texas Co-op Power</span><span class="citation-popover-snippet">Texas Co-op Power The First “Flying Saucer” &#124; Texas Co-op Power</span></span></span>
 
-The location is also not perfectly settled. The *Denison Daily News* page is badly OCR-scanned in places, and later sources differ over whether Martin lived six miles north or south of Denison, or whether the original item was connected with the *Dallas Herald*. Texas Co-op Power notes that the *Denison Daily News* report was attributed to the *Dallas Herald*, and also points out a genealogical difficulty: the 1880 census shows a John E. Martin farming in Grayson County, where Denison is located, but several farmer John Martins in nearby Collin County and none in Dallas County. <span class="citation-chip-wrap"><a class="citation-chip" href="https://texashistory.unt.edu/ark%3A/67531/metapth326826/m1/1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texashistory.unt.edu">[The Portal to Texas History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texashistory.unt.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The location is also not perfectly settled. The *Denison Daily News* page is badly OCR-scanned in places, and later sources differ over whether Martin lived six miles north or south of Denison, or whether the original item was connected with the *Dallas Herald*. Texas Co-op Power notes that the *Denison Daily News* report was attributed to the *Dallas Herald*, and also points out a genealogical difficulty: the 1880 census shows a John E. Martin farming in Grayson County, where Denison is located, but several farmer John Martins in nearby Collin County and none in Dallas County.<span class="citation-chip-wrap"><a class="citation-chip" href="https://texashistory.unt.edu/ark%3A/67531/metapth326826/m1/1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texashistory.unt.edu">[The Portal to Texas History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texashistory.unt.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Those discrepancies do not make the whole report worthless, but they do lower its evidential value. For a modern case file, the ideal basics would include a precise observation point, time, direction of travel, weather, duration, angular size, and named corroborating witnesses. The Martin case preserves only a brief newspaper narrative and a few qualitative impressions.
 
@@ -778,24 +778,24 @@ Those discrepancies do not make the whole report worthless, but they do lower it
 
 There is no known physical evidence attached to the John Martin sighting. No recovered material, landing mark, photograph, drawing, official report, or astronomical calculation appears in the surviving mainstream record. The case rests on newspaper publication and later quotation.
 
-The strongest documentary anchor is the digitised *Denison Daily News* issue itself. Its OCR is imperfect, but the page metadata confirms the issue, date, page, publication title, and archival custody. Later writers and UFO historians preserved clearer transcriptions of the item, including Donald Keyhoe’s 1950 book *The Flying Saucers Are Real*, which quoted the report while discussing earlier aerial mysteries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://texashistory.unt.edu/ark%3A/67531/metapth326826/m1/1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texashistory.unt.edu">[The Portal to Texas History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texashistory.unt.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The strongest documentary anchor is the digitised *Denison Daily News* issue itself. Its OCR is imperfect, but the page metadata confirms the issue, date, page, publication title, and archival custody. Later writers and UFO historians preserved clearer transcriptions of the item, including Donald Keyhoe’s 1950 book *The Flying Saucers Are Real*, which quoted the report while discussing earlier aerial mysteries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://texashistory.unt.edu/ark%3A/67531/metapth326826/m1/1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texashistory.unt.edu">[The Portal to Texas History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texashistory.unt.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The report was not isolated in later memory. Texas Co-op Power states that the story also appeared in *The Dallas Weekly Herald* on 26 January and in the *Daily Oklahoman* soon afterwards; it was later revisited in *The Dallas Morning News* and in Texas UFO writing. That pattern shows the item circulated beyond a single local clipping, but circulation is not the same as corroboration: repeated newspaper publication may simply mean the same short story was reprinted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://texascooppower.com/the-first-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texascooppower.com">[Texas Co-op Power]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texascooppower.com</span><span class="citation-popover-title">Texas Co-op Power The First “Flying Saucer” &#124; Texas Co-op Power</span><span class="citation-popover-snippet">Texas Co-op Power The First “Flying Saucer” &#124; Texas Co-op Power</span></span></span>
+The report was not isolated in later memory. Texas Co-op Power states that the story also appeared in *The Dallas Weekly Herald* on 26 January and in the *Daily Oklahoman* soon afterwards; it was later revisited in *The Dallas Morning News* and in Texas UFO writing. That pattern shows the item circulated beyond a single local clipping, but circulation is not the same as corroboration: repeated newspaper publication may simply mean the same short story was reprinted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://texascooppower.com/the-first-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texascooppower.com">[Texas Co-op Power]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texascooppower.com</span><span class="citation-popover-title">Texas Co-op Power The First “Flying Saucer” &#124; Texas Co-op Power</span><span class="citation-popover-snippet">Texas Co-op Power The First “Flying Saucer” &#124; Texas Co-op Power</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9w9RowkJ1yY" title="Balloons! The Forgotten Flights That No One Talks About" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9w9RowkJ1yY" target="_blank" rel="noopener noreferrer">Balloons! The Forgotten Flights That No One Talks About</a></p><p class="youtube-embed-meta">Channel: Rex&#x27;s Hangar &middot; Views: 191.9K &middot; Uploaded: November 2022 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9w9RowkJ1yY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9w9RowkJ1yY">Open on YouTube</a></p></div></div></div>
 
 ## How credible was the witness?
 
-The original article vouched for Martin personally, calling him a man of “undoubted veracity”. That is a useful historical clue: the newspaper wanted readers to understand that Martin was not being presented as a comic crank. It also fits the style of nineteenth-century local reporting, where a witness’s reputation in the community could be used as a credibility marker. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/fsar/fsar08.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The original article vouched for Martin personally, calling him a man of “undoubted veracity”. That is a useful historical clue: the newspaper wanted readers to understand that Martin was not being presented as a comic crank. It also fits the style of nineteenth-century local reporting, where a witness’s reputation in the community could be used as a credibility marker.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/fsar/fsar08.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Still, credibility and accuracy are not the same thing. Martin may have honestly reported what he thought he saw while still misjudging distance, height, speed, size, or motion. A single observer looking at an object in open sky has few reference points. Without distance, an apparent “saucer-sized” object could be a small object nearby, a large object far away, or a fleeting optical impression. Jacques Vallée’s later discussion of the case, visible in search-indexed text from *Anatomy of a Phenomenon*, specifically criticised the usefulness of such size comparisons because they do not state the distance at which the comparison object is imagined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/1965JacquesValleeAnatomyOfAPhenomenonnotOCR/%281965%29%20Jacques%20Vallee%20-%20Anatomy%20of%20a%20Phenomenon%20%28not%20OCR%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Anatomy of a Phenomenon</span><span class="citation-popover-snippet">Internet Archive Anatomy of a Phenomenon</span></span></span>
+Still, credibility and accuracy are not the same thing. Martin may have honestly reported what he thought he saw while still misjudging distance, height, speed, size, or motion. A single observer looking at an object in open sky has few reference points. Without distance, an apparent “saucer-sized” object could be a small object nearby, a large object far away, or a fleeting optical impression. Jacques Vallée’s later discussion of the case, visible in search-indexed text from *Anatomy of a Phenomenon*, specifically criticised the usefulness of such size comparisons because they do not state the distance at which the comparison object is imagined.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/1965JacquesValleeAnatomyOfAPhenomenonnotOCR/%281965%29%20Jacques%20Vallee%20-%20Anatomy%20of%20a%20Phenomenon%20%28not%20OCR%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Anatomy of a Phenomenon</span><span class="citation-popover-snippet">Internet Archive Anatomy of a Phenomenon</span></span></span>
 
-The report also describes Martin becoming temporarily “blind” from prolonged looking. That detail could mean eye strain from staring towards a bright part of the sky, not necessarily a property of the object. It is vivid, but it complicates the observation: [the witness]({{ 'the-witness-19eed3/' | relative_url }}) may have lost continuous visual tracking during the crucial approach-to-overhead phase. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/fsar/fsar08.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The report also describes Martin becoming temporarily “blind” from prolonged looking. That detail could mean eye strain from staring towards a bright part of the sky, not necessarily a property of the object. It is vivid, but it complicates the observation: [the witness]({{ 'the-witness-19eed3/' | relative_url }}) may have lost continuous visual tracking during the crucial approach-to-overhead phase.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/fsar/fsar08.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/John_Martin_sighting_4cec00-Illustration-2-dark.svg" | relative_url }}" alt="John Martin sighting 1878 illustration 2" data-theme-src-dark="{{ "/assets/images/John_Martin_sighting_4cec00-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Martin_sighting_4cec00-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Balloon, astronomical object, or unresolved aerial phenomenon?
 
-The newspaper itself offered the most obvious nineteenth-century explanation: a balloon. That suggestion was reasonable for the era. Ballooning had existed since the late eighteenth century, and by the nineteenth century gas balloons were familiar enough as a concept to appear in war, science, public spectacle, and newspaper culture. ICAO’s aviation-history summary notes that ballooning rapidly became a subject of broad public fascination after the 1783 flights, while balloon-history sources note hydrogen gas balloons and later military uses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icao.int/sites/default/files/postalhistory/aviation_history_human_flights_with_balloons.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalballoonmuseum.com/about/history-of-ballooning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalballoonmuseum.com">[National Balloon Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalballoonmuseum.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The newspaper itself offered the most obvious nineteenth-century explanation: a balloon. That suggestion was reasonable for the era. Ballooning had existed since the late eighteenth century, and by the nineteenth century gas balloons were familiar enough as a concept to appear in war, science, public spectacle, and newspaper culture. ICAO’s aviation-history summary notes that ballooning rapidly became a subject of broad public fascination after the 1783 flights, while balloon-history sources note hydrogen gas balloons and later military uses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icao.int/sites/default/files/postalhistory/aviation_history_human_flights_with_balloons.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalballoonmuseum.com/about/history-of-ballooning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalballoonmuseum.com">[National Balloon Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalballoonmuseum.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A balloon explanation has strengths and weaknesses. It fits Martin’s own comparison and the newspaper’s immediate speculation. It also fits a dark object seen in daylight at an uncertain distance. But the reported “wonderful speed” is harder to square with an ordinary drifting balloon unless the speed was overestimated, the object was moving in strong upper winds, or the apparent motion was exaggerated by the viewing geometry.
 
@@ -809,210 +809,210 @@ The most careful conclusion is therefore not “alien craft” or “definitely 
 
 The Martin sighting is often promoted as an early or even first “flying saucer” report. That claim is partly fair and partly misleading. It is fair in the limited sense that the 1878 account used “large saucer” language for an unexplained aerial object decades before 1947. It is misleading if readers imagine a mature flying-saucer myth already existed in 1878, complete with disc-shaped alien spacecraft, government secrecy, or close encounters. Those associations came much later.
 
-The modern flying-saucer wave is usually traced to Kenneth Arnold’s 24 June 1947 sighting near Mount Rainier. The Smithsonian’s National Air and Space Museum says Arnold’s report added “flying saucer” to the vocabulary of millions, while later histories emphasise how quickly the phrase spread through newspapers after Arnold’s account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">1947 year flying saucer</span></span></span>
+The modern flying-saucer wave is usually traced to Kenneth Arnold’s 24 June 1947 sighting near Mount Rainier. The Smithsonian’s National Air and Space Museum says Arnold’s report added “flying saucer” to the vocabulary of millions, while later histories emphasise how quickly the phrase spread through newspapers after Arnold’s account.<span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">1947 year flying saucer</span></span></span>
 
 The Martin case sits differently. It did not create a national UFO wave, does not appear to have triggered an investigation, and did not establish a durable public category in 1878. Its importance is retrospective: once “flying saucer” became a famous twentieth-century term, researchers looked backwards and found that a Texas newspaper had used similar language much earlier.
 
 <img src="{{ "/assets/images/John_Martin_sighting_4cec00-Illustration-3-dark.svg" | relative_url }}" alt="John Martin sighting 1878 illustration 3" data-theme-src-dark="{{ "/assets/images/John_Martin_sighting_4cec00-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Martin_sighting_4cec00-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the case can and cannot support
 
-The John Martin sighting supports a few modest claims well. It shows that unexplained aerial observations were reported in American newspapers before powered flight. It shows that “saucer” language was used in an aerial context before the 1947 UFO era. It also shows how nineteenth-century observers and editors reached for the familiar language of balloons, household objects, speed, and scientific curiosity when describing something unusual in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://texashistory.unt.edu/ark%3A/67531/metapth326826/m1/1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texashistory.unt.edu">[The Portal to Texas History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texashistory.unt.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/fsar/fsar08.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The John Martin sighting supports a few modest claims well. It shows that unexplained aerial observations were reported in American newspapers before powered flight. It shows that “saucer” language was used in an aerial context before the 1947 UFO era. It also shows how nineteenth-century observers and editors reached for the familiar language of balloons, household objects, speed, and scientific curiosity when describing something unusual in the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://texashistory.unt.edu/ark%3A/67531/metapth326826/m1/1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texashistory.unt.edu">[The Portal to Texas History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texashistory.unt.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/fsar/fsar08.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-It does not support stronger claims very well. It cannot establish the object’s true size, altitude, speed, structure, origin, or technology. It cannot prove that Martin saw a craft, let alone an extraterrestrial one. It cannot even fully settle the witness identity without further genealogical work, because several men named John Martin fit parts of the regional profile. <span class="citation-chip-wrap"><a class="citation-chip" href="https://texascooppower.com/the-first-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texascooppower.com">[Texas Co-op Power]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texascooppower.com</span><span class="citation-popover-title">Texas Co-op Power The First “Flying Saucer” &#124; Texas Co-op Power</span><span class="citation-popover-snippet">Texas Co-op Power The First “Flying Saucer” &#124; Texas Co-op Power</span></span></span>
+It does not support stronger claims very well. It cannot establish the object’s true size, altitude, speed, structure, origin, or technology. It cannot prove that Martin saw a craft, let alone an extraterrestrial one. It cannot even fully settle the witness identity without further genealogical work, because several men named John Martin fit parts of the regional profile.<span class="citation-chip-wrap"><a class="citation-chip" href="https://texascooppower.com/the-first-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texascooppower.com">[Texas Co-op Power]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texascooppower.com</span><span class="citation-popover-title">Texas Co-op Power The First “Flying Saucer” &#124; Texas Co-op Power</span><span class="citation-popover-snippet">Texas Co-op Power The First “Flying Saucer” &#124; Texas Co-op Power</span></span></span>
 
 For a case dossier, the Martin sighting is therefore best filed as an early documentary precursor rather than a high-evidence encounter. Its value lies in chronology and cultural history: it is a small, durable clipping at the edge of UFO history, remembered because one ordinary comparison — “a large saucer” — later became one of the most famous phrases in the whole subject.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e7YceV3bvHM" title="1878: Texas Rancher and the UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e7YceV3bvHM" target="_blank" rel="noopener noreferrer">1878: Texas Rancher and the UFO</a></p><p class="youtube-embed-meta">Channel: The Hidden Truth &middot; Views: 178 &middot; Uploaded: October 2022 &middot; Length: 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e7YceV3bvHM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e7YceV3bvHM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was This America&#x27;s First Saucer Story?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was This America&#x27;s First Saucer Story?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Profiles the 1878 sighting as a foundational example of nineteenth-century aerial folklore and terminology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Profiles the 1878 sighting as a foundational example of nineteenth-century aerial folklore and terminology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Contextualizes the John Martin report as part of the cultural shift toward &#x27;saucer&#x27; language in aerial sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contextualizes the John Martin report as part of the cultural shift toward &#x27;saucer&#x27; language in aerial sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Explains why early aerial descriptions are often retroactively reframed by modern readers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why early aerial descriptions are often retroactively reframed by modern readers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Details why isolated, thin newspaper reports require corroboration before being categorized as significant sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details why isolated, thin newspaper reports require corroboration before being categorized as significant sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="john-martin-sighting-1878-was-this-america-s-first-saucer-story-ufo-poster-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1028,7 +1028,7 @@ For a case dossier, the Martin sighting is therefore best filed as an early docu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1048,7 +1048,7 @@ For a case dossier, the Martin sighting is therefore best filed as an early docu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1080,7 +1080,7 @@ For a case dossier, the Martin sighting is therefore best filed as an early docu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1132,7 +1132,7 @@ For a case dossier, the Martin sighting is therefore best filed as an early docu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1177,7 +1177,7 @@ For a case dossier, the Martin sighting is therefore best filed as an early docu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1218,114 +1218,114 @@ For a case dossier, the Martin sighting is therefore best filed as an early docu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.org  
    Title: Internet Archive Anatomy of a Phenomenon  
-   Link: <a href="https://archive.org/download/1965JacquesValleeAnatomyOfAPhenomenonnotOCR/%281965%29%20Jacques%20Vallee%20-%20Anatomy%20of%20a%20Phenomenon%20%28not%20OCR%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/1965JacquesValleeAnatomyOfAPhenomenonnotOCR/%281965%29%20Jacques%20Vallee%20-%20Anatomy%20of%20a%20Phenomenon%20%28not%20OCR%29.pdf</a>  
+   Link:<a href="https://archive.org/download/1965JacquesValleeAnatomyOfAPhenomenonnotOCR/%281965%29%20Jacques%20Vallee%20-%20Anatomy%20of%20a%20Phenomenon%20%28not%20OCR%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/1965JacquesValleeAnatomyOfAPhenomenonnotOCR/%281965%29%20Jacques%20Vallee%20-%20Anatomy%20of%20a%20Phenomenon%20%28not%20OCR%29.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: icao.int  
-   Link: <a href="https://www.icao.int/sites/default/files/postalhistory/aviation_history_human_flights_with_balloons.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/postalhistory/aviation_history_human_flights_with_balloons.htm</a>  
+   Link:<a href="https://www.icao.int/sites/default/files/postalhistory/aviation_history_human_flights_with_balloons.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/postalhistory/aviation_history_human_flights_with_balloons.htm</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: history.com  
    Title: Kenneth Arnold  
-   Link: <a href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/kenneth-arnold</a>  
+   Link:<a href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/kenneth-arnold</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/genealogicaland03cuttgoog/genealogicaland03cuttgoog_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/genealogicaland03cuttgoog/genealogicaland03cuttgoog_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/genealogicaland03cuttgoog/genealogicaland03cuttgoog_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/genealogicaland03cuttgoog/genealogicaland03cuttgoog_djvu.txt</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/fl-56204-tn-181988/FL56204_TN-181988_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/fl-56204-tn-181988/FL56204_TN-181988_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/fl-56204-tn-181988/FL56204_TN-181988_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/fl-56204-tn-181988/FL56204_TN-181988_djvu.txt</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/mcnairmcnearmcne00mcna_0/mcnairmcnearmcne00mcna_0_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/mcnairmcnearmcne00mcna_0/mcnairmcnearmcne00mcna_0_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/mcnairmcnearmcne00mcna_0/mcnairmcnearmcne00mcna_0_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/mcnairmcnearmcne00mcna_0/mcnairmcnearmcne00mcna_0_djvu.txt</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: texashistory.unt.edu  
-   Link: <a href="https://texashistory.unt.edu/ark%3A/67531/metapth326826/m1/1/" target="_blank" rel="noopener noreferrer nofollow">https://texashistory.unt.edu/ark%3A/67531/metapth326826/m1/1/</a>  
+   Link:<a href="https://texashistory.unt.edu/ark%3A/67531/metapth326826/m1/1/" target="_blank" rel="noopener noreferrer nofollow">https://texashistory.unt.edu/ark%3A/67531/metapth326826/m1/1/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: texascooppower.com  
    Title: Texas Co-op Power The First “Flying Saucer” | Texas Co-op Power  
-   Link: <a href="https://texascooppower.com/the-first-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://texascooppower.com/the-first-flying-saucer/</a>  
+   Link:<a href="https://texascooppower.com/the-first-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://texascooppower.com/the-first-flying-saucer/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: airandspace.si.edu  
    Title: 1947 year flying saucer  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
+   Link:<a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/fsar/fsar08.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/fsar/fsar08.htm</a>  
+   Link:<a href="https://sacred-texts.com/ufo/fsar/fsar08.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/fsar/fsar08.htm</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalballoonmuseum.com  
-   Link: <a href="https://www.nationalballoonmuseum.com/about/history-of-ballooning/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalballoonmuseum.com/about/history-of-ballooning/</a>  
+   Link:<a href="https://www.nationalballoonmuseum.com/about/history-of-ballooning/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalballoonmuseum.com/about/history-of-ballooning/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Flying saucer  
-   Link: <a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Kenneth Arnold  
-   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kenneth_Arnold" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: jhmovie.fandom.com  
    Title: Flying saucer  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Flying_saucer</a>  
+   Link:<a href="https://jhmovie.fandom.com/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Flying_saucer</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: historylink.org  
-   Link: <a href="https://www.historylink.org/file/2067" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/file/2067</a>  
+   Link:<a href="https://www.historylink.org/file/2067" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/file/2067</a>  
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=55I7On73RBY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=55I7On73RBY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Before the Wright Brothers – UFO Sightings of the 1800s...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=55I7On73RBY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=55I7On73RBY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Before the Wright Brothers – UFO Sightings of the 1800s...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=qKXwP5GTcbQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qKXwP5GTcbQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mindforked! History: Jan 1878 the first flying saucer! 🛸 #uap...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=qKXwP5GTcbQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qKXwP5GTcbQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mindforked! History: Jan 1878 the first flying saucer! 🛸 #uap...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=e7YceV3bvHM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=e7YceV3bvHM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;John Martin&quot; 1878 saucer ufo John Martin saw a flying saucer. He told the police...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=e7YceV3bvHM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=e7YceV3bvHM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;John Martin&quot; 1878 saucer ufo John Martin saw a flying saucer. He told the police...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYypAWnpfmm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYypAWnpfmm/</a>  
+   Link:<a href="https://www.instagram.com/reel/DYypAWnpfmm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYypAWnpfmm/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: authentictexas.com  
-   Link: <a href="https://authentictexas.com/unexplained-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://authentictexas.com/unexplained-phenomena/</a>  
+   Link:<a href="https://authentictexas.com/unexplained-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://authentictexas.com/unexplained-phenomena/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYoF9NcmRuo/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYoF9NcmRuo/</a>  
+   Link:<a href="https://www.instagram.com/p/DYoF9NcmRuo/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYoF9NcmRuo/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/107743962/Early_Frenchtonians_A_History_of_Saint_Nicholas_Catholic_Church_in_Big_Spring_Township_Seneca_County_Ohio" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/107743962/Early_Frenchtonians_A_History_of_Saint_Nicholas_Catholic_Church_in_Big_Spring_Township_Seneca_County_Ohio</a>  
+   Link:<a href="https://www.academia.edu/107743962/Early_Frenchtonians_A_History_of_Saint_Nicholas_Catholic_Church_in_Big_Spring_Township_Seneca_County_Ohio" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/107743962/Early_Frenchtonians_A_History_of_Saint_Nicholas_Catholic_Church_in_Big_Spring_Township_Seneca_County_Ohio</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/history/first-successful-balloon-flight-united-states" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/first-successful-balloon-flight-united-states</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/history/first-successful-balloon-flight-united-states" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/first-successful-balloon-flight-united-states</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/articles/prior_47/Bartholomew_R._From_Airships_to_Flying_Saucers_Oregon_Historic_l_Quarterly_V_101_I_2_2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/articles/prior_47/Bartholomew_R._From_Airships_to_Flying_Saucers_Oregon_Historic_l_Quarterly_V_101_I_2_2000.pdf</a>
+   Link:<a href="https://www.nicap.org/articles/prior_47/Bartholomew_R._From_Airships_to_Flying_Saucers_Oregon_Historic_l_Quarterly_V_101_I_2_2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/articles/prior_47/Bartholomew_R._From_Airships_to_Flying_Saucers_Oregon_Historic_l_Quarterly_V_101_I_2_2000.pdf</a>

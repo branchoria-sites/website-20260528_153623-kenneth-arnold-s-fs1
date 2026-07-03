@@ -758,50 +758,50 @@ image: /assets/images/Reverend_W_B_Gill_si_c31d68-overview-social.jpg
 
 ## What Gill and the Boianai witnesses said they saw
 
-The sightings took place at Boianai, then in the Australian-administered Territory of Papua and New Guinea. Gill was not an anonymous witness: he was the Anglican priest in charge of the mission, and his account was quickly circulated through civilian UFO groups and later discussed in Australian official channels. The National Library of Australia catalogue records a 1978 publication of Gill’s taped public address to the Victorian Flying Saucer Research Society, showing how the case entered the organised Australian UFO record rather than remaining only a local anecdote. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalogue.nla.gov.au/catalog/2951975" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalogue.nla.gov.au">[National Library of Australia Catalogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalogue.nla.gov.au</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The sightings took place at Boianai, then in the Australian-administered Territory of Papua and New Guinea. Gill was not an anonymous witness: he was the Anglican priest in charge of the mission, and his account was quickly circulated through civilian UFO groups and later discussed in Australian official channels. The National Library of Australia catalogue records a 1978 publication of Gill’s taped public address to the Victorian Flying Saucer Research Society, showing how the case entered the organised Australian UFO record rather than remaining only a local anecdote.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalogue.nla.gov.au/catalog/2951975" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalogue.nla.gov.au">[National Library of Australia Catalogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalogue.nla.gov.au</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Reverend_W_B_Gill_si_c31d68-overview.webp" | relative_url }}" alt="Overview image for Reverend W B Gill sightings 1959" loading="eager" decoding="sync" fetchpriority="high">
-The most dramatic reported events occurred on 26 and 27 June 1959. Gill’s notes describe a bright white light in the north-western sky that appeared to approach the mission and hover. The main object was described as a large circular or disc-shaped form, with a broad base, a narrower upper section, four apparent legs or supports beneath it, and brighter panels or portholes on one side. Witnesses also reported a blue shaft of light angled upward from the object and figures that looked like men appearing on its upper surface. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/father-gill-1959-papua-new-guinea-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">father gill 1959 papua new guinea ufo sighting</span><span class="citation-popover-snippet">father gill 1959 papua new guinea ufo sighting</span></span></span>
+The most dramatic reported events occurred on 26 and 27 June 1959. Gill’s notes describe a bright white light in the north-western sky that appeared to approach the mission and hover. The main object was described as a large circular or disc-shaped form, with a broad base, a narrower upper section, four apparent legs or supports beneath it, and brighter panels or portholes on one side. Witnesses also reported a blue shaft of light angled upward from the object and figures that looked like men appearing on its upper surface.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/father-gill-1959-papua-new-guinea-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">father gill 1959 papua new guinea ufo sighting</span><span class="citation-popover-snippet">father gill 1959 papua new guinea ufo sighting</span></span></span>
 
-The second evening is the part that made the case famous. Gill wrote that the large UFO was first noticed again at about 6 p.m. on 27 June, apparently in roughly the same position as the previous night. He and other observers watched what they took to be four human figures on top of the object. Gill said he waved; one figure seemed to wave back. Ananias Rarata, another witness, then waved both arms, and two outside figures reportedly did the same. Gill later directed torch flashes towards the object, after which it appeared to make wavering movements and briefly seem to come closer before stopping. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/father-gill-1959-papua-new-guinea-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">father gill 1959 papua new guinea ufo sighting</span><span class="citation-popover-snippet">father gill 1959 papua new guinea ufo sighting</span></span></span>
+The second evening is the part that made the case famous. Gill wrote that the large UFO was first noticed again at about 6 p.m. on 27 June, apparently in roughly the same position as the previous night. He and other observers watched what they took to be four human figures on top of the object. Gill said he waved; one figure seemed to wave back. Ananias Rarata, another witness, then waved both arms, and two outside figures reportedly did the same. Gill later directed torch flashes towards the object, after which it appeared to make wavering movements and briefly seem to come closer before stopping.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/father-gill-1959-papua-new-guinea-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">father gill 1959 papua new guinea ufo sighting</span><span class="citation-popover-snippet">father gill 1959 papua new guinea ufo sighting</span></span></span>
 
-A striking feature of Gill’s account is its plainness. He did not present the figures as monsters, angels, or obviously alien beings. He later said the scene did not feel eerie, and that he thought the occupants looked human and might have been ordinary military personnel in some kind of experimental craft. This matters because it cuts both ways: it can make the account feel less like a sensational contactee tale, but it also creates a puzzle for literal extraterrestrial readings, since the behaviour described is oddly mundane and inconclusive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/father-gill-1959-papua-new-guinea-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">father gill 1959 papua new guinea ufo sighting</span><span class="citation-popover-snippet">father gill 1959 papua new guinea ufo sighting</span></span></span>
+A striking feature of Gill’s account is its plainness. He did not present the figures as monsters, angels, or obviously alien beings. He later said the scene did not feel eerie, and that he thought the occupants looked human and might have been ordinary military personnel in some kind of experimental craft. This matters because it cuts both ways: it can make the account feel less like a sensational contactee tale, but it also creates a puzzle for literal extraterrestrial readings, since the behaviour described is oddly mundane and inconclusive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/father-gill-1959-papua-new-guinea-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">father gill 1959 papua new guinea ufo sighting</span><span class="citation-popover-snippet">father gill 1959 papua new guinea ufo sighting</span></span></span>
 
 ## The chronology is unusually specific, but not complete
 
-Gill’s notes give the case a firmer chronology than many UFO reports. For 26 June, archived material reproduces a data sheet covering observations from about 6.45 p.m. to 11.04 p.m., with sketches and signatures connected to appearances of “men” and the light shaft at specific times. The same archival text records the report as “Report on Unidentified Flying Objects, Boianai, Territory of Papua and New Guinea, 1959,” by W. B. Gill, dated at Boianai on 14 July 1959. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/AustralianUFOFiles/A703_580-1-1_Part%202_645647_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+Gill’s notes give the case a firmer chronology than many UFO reports. For 26 June, archived material reproduces a data sheet covering observations from about 6.45 p.m. to 11.04 p.m., with sketches and signatures connected to appearances of “men” and the light shaft at specific times. The same archival text records the report as “Report on Unidentified Flying Objects, Boianai, Territory of Papua and New Guinea, 1959,” by W. B. Gill, dated at Boianai on 14 July 1959.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/AustralianUFOFiles/A703_580-1-1_Part%202_645647_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
-For 27 June, Gill’s account gives a tighter sequence: the large object was seen at around 6 p.m.; figures were observed; the waving episode occurred; torch signals were used; the figures disappeared below deck; two reappeared at about 6.25 p.m.; and by 6.30 p.m. Gill went to dinner. At 7 p.m. the object was still said to be present, although smaller, after which observers went to evensong. Later cloud cover limited visibility, and at 10.40 p.m. an unexplained loud explosion was reported, though no object was seen at that moment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/father-gill-1959-papua-new-guinea-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">father gill 1959 papua new guinea ufo sighting</span><span class="citation-popover-snippet">father gill 1959 papua new guinea ufo sighting</span></span></span>
+For 27 June, Gill’s account gives a tighter sequence: the large object was seen at around 6 p.m.; figures were observed; the waving episode occurred; torch signals were used; the figures disappeared below deck; two reappeared at about 6.25 p.m.; and by 6.30 p.m. Gill went to dinner. At 7 p.m. the object was still said to be present, although smaller, after which observers went to evensong. Later cloud cover limited visibility, and at 10.40 p.m. an unexplained loud explosion was reported, though no object was seen at that moment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/father-gill-1959-papua-new-guinea-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">father gill 1959 papua new guinea ufo sighting</span><span class="citation-popover-snippet">father gill 1959 papua new guinea ufo sighting</span></span></span>
 
-The chronology is not the same as proof. It tells us that Gill and others organised their observations, recorded times, and attached signatures and sketches. It does not independently verify distance, altitude, size, or the physical nature of the object. Gill himself recognised this problem in his later report, noting that scientific investigation was lacking and that estimates of size and distance should not be treated as indisputable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/AustralianUFOFiles/A703_580-1-1_Part%202_645647_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+The chronology is not the same as proof. It tells us that Gill and others organised their observations, recorded times, and attached signatures and sketches. It does not independently verify distance, altitude, size, or the physical nature of the object. Gill himself recognised this problem in his later report, noting that scientific investigation was lacking and that estimates of size and distance should not be treated as indisputable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/AustralianUFOFiles/A703_580-1-1_Part%202_645647_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
 <img src="{{ "/assets/images/Reverend_W_B_Gill_si_c31d68-Illustration-1-dark.svg" | relative_url }}" alt="Reverend W B Gill sightings 1959 illustration 1" data-theme-src-dark="{{ "/assets/images/Reverend_W_B_Gill_si_c31d68-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Reverend_W_B_Gill_si_c31d68-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why witness credibility is central to the case
 
-The strength of the Gill case is not physical evidence; it is witness evidence. Civilian investigators considered Gill impressive, and the case became important partly because he was an educated, named missionary rather than a vague anonymous informant. The witness group also reportedly included mission teachers and local observers, with Gill, Ananias Rarata, Stephen Gill Moi and others connected to sketches or signatures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/father-gill-1959-papua-new-guinea-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">father gill 1959 papua new guinea ufo sighting</span><span class="citation-popover-snippet">father gill 1959 papua new guinea ufo sighting</span></span></span>
+The strength of the Gill case is not physical evidence; it is witness evidence. Civilian investigators considered Gill impressive, and the case became important partly because he was an educated, named missionary rather than a vague anonymous informant. The witness group also reportedly included mission teachers and local observers, with Gill, Ananias Rarata, Stephen Gill Moi and others connected to sketches or signatures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/father-gill-1959-papua-new-guinea-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">father gill 1959 papua new guinea ufo sighting</span><span class="citation-popover-snippet">father gill 1959 papua new guinea ufo sighting</span></span></span>
 
-Gill’s own report shows some awareness of the obvious objections. He explicitly listed possible problems: hallucination, suggestion, illusion, unreliable observers, inexperience in astronomical observation, and variations in descriptions among witnesses. He also described how observers were brought into a well-lit room after the 26 June sighting, how three observers drew what they thought they had seen in separate parts of the room, and how people were asked to sign only if they believed they had seen the UFO as represented in the drawings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/AustralianUFOFiles/A703_580-1-1_Part%202_645647_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+Gill’s own report shows some awareness of the obvious objections. He explicitly listed possible problems: hallucination, suggestion, illusion, unreliable observers, inexperience in astronomical observation, and variations in descriptions among witnesses. He also described how observers were brought into a well-lit room after the 26 June sighting, how three observers drew what they thought they had seen in separate parts of the room, and how people were asked to sign only if they believed they had seen the UFO as represented in the drawings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/AustralianUFOFiles/A703_580-1-1_Part%202_645647_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
-That procedure is valuable, but imperfect. It suggests an attempt to preserve testimony, yet it also shows the social nature of the evidence: the witnesses were gathered together, drawings were compared, and later signatures were made in a mission setting where Gill’s authority mattered. Gill himself raised the possibility that a European observer might have influenced “a less sophisticated or inexperienced native body” of witnesses, a phrasing of its era but also a real evidential concern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/AustralianUFOFiles/A703_580-1-1_Part%202_645647_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+That procedure is valuable, but imperfect. It suggests an attempt to preserve testimony, yet it also shows the social nature of the evidence: the witnesses were gathered together, drawings were compared, and later signatures were made in a mission setting where Gill’s authority mattered. Gill himself raised the possibility that a European observer might have influenced “a less sophisticated or inexperienced native body” of witnesses, a phrasing of its era but also a real evidential concern.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/AustralianUFOFiles/A703_580-1-1_Part%202_645647_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0135-dCw7Kg" title="People Communicate With Strange Alien Figures On Board UFO | Close Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0135-dCw7Kg" target="_blank" rel="noopener noreferrer">People Communicate With Strange Alien Figures On Board UFO | Close Encounters</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 1.4M &middot; Uploaded: February 2020 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0135-dCw7Kg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0135-dCw7Kg">Open on YouTube</a></p></div></div></div>
 
 ## The documentary trail: notes, sketches, signatures, and publicity
 
-The case has more documentary texture than most famous UFO stories. There were Gill’s field notes, letters, sketches, witness signatures, later public talks, civilian UFO group reports, and Australian government correspondence. The National Library record for *The Gill sightings, June 1959* identifies it as a ten-leaf publication transcribed from a tape-recorded address Gill gave at a Victorian Flying Saucer Research Society public meeting on 28 October 1959. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalogue.nla.gov.au/catalog/2951975" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalogue.nla.gov.au">[National Library of Australia Catalogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalogue.nla.gov.au</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The case has more documentary texture than most famous UFO stories. There were Gill’s field notes, letters, sketches, witness signatures, later public talks, civilian UFO group reports, and Australian government correspondence. The National Library record for *The Gill sightings, June 1959* identifies it as a ten-leaf publication transcribed from a tape-recorded address Gill gave at a Victorian Flying Saucer Research Society public meeting on 28 October 1959.<span class="citation-chip-wrap"><a class="citation-chip" href="https://catalogue.nla.gov.au/catalog/2951975" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalogue.nla.gov.au">[National Library of Australia Catalogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalogue.nla.gov.au</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Archived Australian UFO files also preserve a version of the Gill material. They include Gill’s cautious introduction, the observational data, notes about the sketches, and a forceful civilian UFO conclusion that the Boianai UFOs were not psychological phenomena, not meteors, birds, conventional aircraft or electrical phenomena, but “advanced craft” with humanoid beings. That last conclusion reflects the interpretation of UFO advocates, not an independent scientific finding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/AustralianUFOFiles/A703_580-1-1_Part%202_645647_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+Archived Australian UFO files also preserve a version of the Gill material. They include Gill’s cautious introduction, the observational data, notes about the sketches, and a forceful civilian UFO conclusion that the Boianai UFOs were not psychological phenomena, not meteors, birds, conventional aircraft or electrical phenomena, but “advanced craft” with humanoid beings. That last conclusion reflects the interpretation of UFO advocates, not an independent scientific finding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/AustralianUFOFiles/A703_580-1-1_Part%202_645647_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
 There is no comparable physical evidence at the centre of the case. No recovered material, radar track, clear photograph, landing trace, or instrument record has become the evidential anchor. The surviving case rests on human observation, written records, and later interpretation. That makes the Gill sightings stronger than a rumour, but weaker than a case with independent physical or technical corroboration.
 
 <img src="{{ "/assets/images/Reverend_W_B_Gill_si_c31d68-Illustration-2-dark.svg" | relative_url }}" alt="Reverend W B Gill sightings 1959 illustration 2" data-theme-src-dark="{{ "/assets/images/Reverend_W_B_Gill_si_c31d68-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Reverend_W_B_Gill_si_c31d68-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The official response was late and cautious
 
-The Australian official response did not match the drama of the report. Civilian UFO groups distributed Gill’s report to members of Australia’s House of Representatives, and on 24 November 1959 E. D. Cash asked the Minister for Air, F. M. Osborne, about recent sightings over Papua and New Guinea. The minister replied in general terms, saying most sightings were explained and only a small percentage remained unexplained, rather than directly resolving Gill’s case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/forum/bcoz5.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Gov&#x27;t Role In The UFO Controversy...</span></span></span>
+The Australian official response did not match the drama of the report. Civilian UFO groups distributed Gill’s report to members of Australia’s House of Representatives, and on 24 November 1959 E. D. Cash asked the Minister for Air, F. M. Osborne, about recent sightings over Papua and New Guinea. The minister replied in general terms, saying most sightings were explained and only a small percentage remained unexplained, rather than directly resolving Gill’s case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/forum/bcoz5.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Gov&#x27;t Role In The UFO Controversy...</span></span></span>
 
-The Royal Australian Air Force did not interview Gill until 29 December 1959, about six months after the June events. Squadron Leader F. A. Lang accepted that Gill could be regarded as a reliable observer, but concluded that the incidents could have been natural phenomena shaped by earlier events and subconscious UFO influences. The suggested explanation included planets, especially Jupiter, Saturn and Mars, seen through moving cloud, with refraction and varying cloud density creating impressions of size, motion and human-like shapes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/father-gill-1959-papua-new-guinea-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">father gill 1959 papua new guinea ufo sighting</span><span class="citation-popover-snippet">father gill 1959 papua new guinea ufo sighting</span></span></span>
+The Royal Australian Air Force did not interview Gill until 29 December 1959, about six months after the June events. Squadron Leader F. A. Lang accepted that Gill could be regarded as a reliable observer, but concluded that the incidents could have been natural phenomena shaped by earlier events and subconscious UFO influences. The suggested explanation included planets, especially Jupiter, Saturn and Mars, seen through moving cloud, with refraction and varying cloud density creating impressions of size, motion and human-like shapes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/father-gill-1959-papua-new-guinea-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">father gill 1959 papua new guinea ufo sighting</span><span class="citation-popover-snippet">father gill 1959 papua new guinea ufo sighting</span></span></span>
 
-That official conclusion is cautious rather than decisive. It does not claim to have reproduced every reported detail. It says firm conclusions were not possible, but that at least some lights could be explained astronomically. In a later Australian file discussion of a different clerical sighting, officials referred back to the Gill case as one in which the sightings had been concluded to be known planets seen through fast-moving cloud or natural phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/AustralianUFOFiles/A703_580-1-1_Part%202_645647_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+That official conclusion is cautious rather than decisive. It does not claim to have reproduced every reported detail. It says firm conclusions were not possible, but that at least some lights could be explained astronomically. In a later Australian file discussion of a different clerical sighting, officials referred back to the Gill case as one in which the sightings had been concluded to be known planets seen through fast-moving cloud or natural phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/AustralianUFOFiles/A703_580-1-1_Part%202_645647_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BFuW-zfH5RU" title="Avi Loeb: “This object came from another solar system!” (331)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BFuW-zfH5RU" target="_blank" rel="noopener noreferrer">Avi Loeb: “This object came from another solar system!” (331)</a></p><p class="youtube-embed-meta">Channel: Dr Brian Keating &middot; Views: 207.9K &middot; Uploaded: July 2023 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BFuW-zfH5RU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BFuW-zfH5RU">Open on YouTube</a></p></div></div></div>
 
@@ -809,26 +809,26 @@ That official conclusion is cautious rather than decisive. It does not claim to 
 
 The Gill sightings sit in an uncomfortable space between a simple misidentification and a straightforward extraordinary craft claim. Several [explanations]({{ 'explanations-e3f90b/' | relative_url }}) have been proposed, each solving some problems while leaving others.
 
-**Astronomical misidentification through cloud.** This is the core official and sceptical explanation. Bright planets and stars seen through broken cloud can appear to change brightness, move, vanish, reappear, and take on apparent shapes. David J. Halperin’s psychological analysis argues that the external stimulus has been persuasively identified as bright planets and stars viewed through gathering and dispersing clouds, while the more elaborate perceived details arose through collective projection and interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dsc.duq.edu/phenomenology-iajs/18/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dsc.duq.edu">[Duquesne Scholarship Collection]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dsc.duq.edu</span><span class="citation-popover-title">uesne Scholarship Collection</span><span class="citation-popover-snippet">Halperin, D: Anatomy of a Vision: A Psychological Approach To The Papu&quot; by David J. Halperin...</span></span></span>
+**Astronomical misidentification through cloud.** This is the core official and sceptical explanation. Bright planets and stars seen through broken cloud can appear to change brightness, move, vanish, reappear, and take on apparent shapes. David J. Halperin’s psychological analysis argues that the external stimulus has been persuasively identified as bright planets and stars viewed through gathering and dispersing clouds, while the more elaborate perceived details arose through collective projection and interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dsc.duq.edu/phenomenology-iajs/18/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dsc.duq.edu">[Duquesne Scholarship Collection]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dsc.duq.edu</span><span class="citation-popover-title">uesne Scholarship Collection</span><span class="citation-popover-snippet">Halperin, D: Anatomy of a Vision: A Psychological Approach To The Papu&quot; by David J. Halperin...</span></span></span>
 
-**Psychological and social amplification.** Gill’s own report shows that witnesses were discussing UFOs before the main events, and that earlier local sightings had raised interest. In that setting, ambiguous lights could become more elaborate through expectation, group attention, and the authority structure of a mission community. This does not require deliberate lying; it suggests that sincere witnesses can collectively elaborate an ambiguous stimulus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/AustralianUFOFiles/A703_580-1-1_Part%202_645647_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+**Psychological and social amplification.** Gill’s own report shows that witnesses were discussing UFOs before the main events, and that earlier local sightings had raised interest. In that setting, ambiguous lights could become more elaborate through expectation, group attention, and the authority structure of a mission community. This does not require deliberate lying; it suggests that sincere witnesses can collectively elaborate an ambiguous stimulus.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/AustralianUFOFiles/A703_580-1-1_Part%202_645647_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
-**Hoax.** Some sceptics have floated hoax as a possibility, but it is not the cleanest fit. Critics of the hoax hypothesis point to the number of witnesses, the involvement of teachers and mission personnel, the absence of an obvious payoff, and the oddly undramatic nature of Gill’s notes. The case lacks the usual theatrical elements of many fabricated contact stories: no landing, no message to humanity, no trip aboard the craft, and no later confession. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/gill-again-father-gill-case-reconsidered.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Gill Again: The Father Gill Case Reconsidered</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Gill Again: The Father Gill Case Reconsidered</span></span></span>
+**Hoax.** Some sceptics have floated hoax as a possibility, but it is not the cleanest fit. Critics of the hoax hypothesis point to the number of witnesses, the involvement of teachers and mission personnel, the absence of an obvious payoff, and the oddly undramatic nature of Gill’s notes. The case lacks the usual theatrical elements of many fabricated contact stories: no landing, no message to humanity, no trip aboard the craft, and no later confession.<span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/gill-again-father-gill-case-reconsidered.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Gill Again: The Father Gill Case Reconsidered</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Gill Again: The Father Gill Case Reconsidered</span></span></span>
 
 **Experimental aircraft or unknown craft.** Gill initially seems to have considered an earthly explanation, imagining a hovercraft or military device. The difficulty is that no supporting aviation record, craft identification, or independent technical evidence has emerged to confirm such an object at Boianai. The case’s advocates therefore often move from “unknown craft” to more exotic possibilities, but that leap exceeds the documentary evidence.
 
-**Extraterrestrial interpretation.** This is the most famous popular reading, but also the most evidentially demanding. The reported humanoid figures, apparent signalling, and repeated appearance are what make the case compelling to UFO believers. Yet the same details raise hard questions: why no landing, why no clear communication, why such human-looking occupants, and why behaviour that appears casual rather than purposeful? <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/gill-again-father-gill-case-reconsidered.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Gill Again: The Father Gill Case Reconsidered</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Gill Again: The Father Gill Case Reconsidered</span></span></span>
+**Extraterrestrial interpretation.** This is the most famous popular reading, but also the most evidentially demanding. The reported humanoid figures, apparent signalling, and repeated appearance are what make the case compelling to UFO believers. Yet the same details raise hard questions: why no landing, why no clear communication, why such human-looking occupants, and why behaviour that appears casual rather than purposeful?<span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/gill-again-father-gill-case-reconsidered.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[Magonia Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">Magonia Magazine MAGONIA ARCHIVE: Gill Again: The Father Gill Case Reconsidered</span><span class="citation-popover-snippet">Magonia Magazine MAGONIA ARCHIVE: Gill Again: The Father Gill Case Reconsidered</span></span></span>
 
 <img src="{{ "/assets/images/Reverend_W_B_Gill_si_c31d68-Illustration-3-dark.svg" | relative_url }}" alt="Reverend W B Gill sightings 1959 illustration 3" data-theme-src-dark="{{ "/assets/images/Reverend_W_B_Gill_si_c31d68-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Reverend_W_B_Gill_si_c31d68-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What makes the case hard to dismiss
 
-The Gill sightings endure because they resist the easiest dismissals. A single witness misperceiving Venus is one thing; a mission group signing drawings and notes after repeated observations is another. Gill was a named, accountable witness, and he did not present himself as a prophet or contactee. The records also show that he was capable of qualifying his claims, raising possible sources of error, and distinguishing observation from theory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/AustralianUFOFiles/A703_580-1-1_Part%202_645647_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
+The Gill sightings endure because they resist the easiest dismissals. A single witness misperceiving Venus is one thing; a mission group signing drawings and notes after repeated observations is another. Gill was a named, accountable witness, and he did not present himself as a prophet or contactee. The records also show that he was capable of qualifying his claims, raising possible sources of error, and distinguishing observation from theory.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/AustralianUFOFiles/A703_580-1-1_Part%202_645647_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
-The case is also memorable because of its human-scale details. The reported figures wave. Gill and Ananias wave back. A torch is flashed. The object seems to respond, then stops. The figures lose interest and go below deck. Gill goes to dinner, later explaining that after hours of watching and no landing, the scene had become almost ordinary. These details are either the case’s greatest strength, because they feel unforced, or its greatest weakness, because they are exactly the sort of humanised pattern-making that can arise around ambiguous lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/father-gill-1959-papua-new-guinea-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">father gill 1959 papua new guinea ufo sighting</span><span class="citation-popover-snippet">father gill 1959 papua new guinea ufo sighting</span></span></span>
+The case is also memorable because of its human-scale details. The reported figures wave. Gill and Ananias wave back. A torch is flashed. The object seems to respond, then stops. The figures lose interest and go below deck. Gill goes to dinner, later explaining that after hours of watching and no landing, the scene had become almost ordinary. These details are either the case’s greatest strength, because they feel unforced, or its greatest weakness, because they are exactly the sort of humanised pattern-making that can arise around ambiguous lights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/father-gill-1959-papua-new-guinea-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">father gill 1959 papua new guinea ufo sighting</span><span class="citation-popover-snippet">father gill 1959 papua new guinea ufo sighting</span></span></span>
 
 ## What keeps the case unresolved
 
-The Gill sightings cannot be responsibly treated as proven visitation. The evidence is witness-centred, there is no hard physical corroboration, and the official astronomical-cloud explanation is plausible for at least some of the reported lights. At the same time, the case cannot be reduced to a throwaway anecdote. It has named witnesses, dated notes, sketches, signatures, later testimony, and an official response that was delayed and arguably incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/forum/bcoz5.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Gov&#x27;t Role In The UFO Controversy...</span></span></span>
+The Gill sightings cannot be responsibly treated as proven visitation. The evidence is witness-centred, there is no hard physical corroboration, and the official astronomical-cloud explanation is plausible for at least some of the reported lights. At the same time, the case cannot be reduced to a throwaway anecdote. It has named witnesses, dated notes, sketches, signatures, later testimony, and an official response that was delayed and arguably incomplete.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/forum/bcoz5.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Gov&#x27;t Role In The UFO Controversy...</span></span></span>
 
 The fairest assessment is that the Reverend W. B. Gill sightings are a strong historical UFO testimony case, not a strong physical-evidence case. They show how a disciplined witness record can still leave crucial facts unsettled: what the original stimulus was, how much group expectation shaped the scene, whether the figures were perceived details rather than physical occupants, and why the official investigation did not test the account more rigorously while memories were fresh.
 
@@ -837,194 +837,194 @@ Within the wider Boianai case dossier, the Gill sightings are the central branch
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/24wAgpPgzZ4" title="Priest&#x27;s Puzzling UFO SIGHTING from Papua New Guinea in 1952" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=24wAgpPgzZ4" target="_blank" rel="noopener noreferrer">Priest&#x27;s Puzzling UFO SIGHTING from Papua New Guinea in 1952</a></p><p class="youtube-embed-meta">Channel: Weird World &middot; Views: 10.2K &middot; Uploaded: September 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=24wAgpPgzZ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=24wAgpPgzZ4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened at Boianai?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened at Boianai?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Profiles the 1959 Boianai, Papua New Guinea encounter, detailing Reverend W.B. Gill&#x27;s written notes and the multiple mission witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Profiles the 1959 Boianai, Papua New Guinea encounter, detailing Reverend W.B. Gill&#x27;s written notes and the multiple mission witnesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines the distinct visual exchange where observers on the ground waved and flashed torches at figures standing on a disc-like surface.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the distinct visual exchange where observers on the ground waved and flashed torches at figures standing on a disc-like surface.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Provides critical context on why Gill&#x27;s taped addresses were preserved inside the National Library of Australia archival files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides critical context on why Gill&#x27;s taped addresses were preserved inside the National Library of Australia archival files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Provides analytical tools to evaluate why uncorroborated group signaling claims fail to satisfy hard forensic validation standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides analytical tools to evaluate why uncorroborated group signaling claims fail to satisfy hard forensic validation standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-boianai-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-at-boianai-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1040,7 +1040,7 @@ Within the wider Boianai case dossier, the Gill sightings are the central branch
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1060,7 +1060,7 @@ Within the wider Boianai case dossier, the Gill sightings are the central branch
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1092,7 +1092,7 @@ Within the wider Boianai case dossier, the Gill sightings are the central branch
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1144,7 +1144,7 @@ Within the wider Boianai case dossier, the Gill sightings are the central branch
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1189,7 +1189,7 @@ Within the wider Boianai case dossier, the Gill sightings are the central branch
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1230,139 +1230,139 @@ Within the wider Boianai case dossier, the Gill sightings are the central branch
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Australian UFO Files"  
-   Link: <a href="https://archive.org/stream/AustralianUFOFiles/A703_580-1-1_Part%202_645647_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A703_580-1-1_Part%202_645647_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/AustralianUFOFiles/A703_580-1-1_Part%202_645647_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/A703_580-1-1_Part%202_645647_djvu.txt</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/forum/bcoz5.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/forum/bcoz5.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gov&#x27;t Role In The UFO Controversy...</p></details>
+   Link:<a href="https://www.project1947.com/forum/bcoz5.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/forum/bcoz5.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gov&#x27;t Role In The UFO Controversy...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dsc.duq.edu  
    Title: uesne Scholarship Collection  
-   Link: <a href="https://dsc.duq.edu/phenomenology-iajs/18/" target="_blank" rel="noopener noreferrer nofollow">https://dsc.duq.edu/phenomenology-iajs/18/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Halperin, D: Anatomy of a Vision: A Psychological Approach To The Papu&quot; by David J. Halperin...</p></details>
+   Link:<a href="https://dsc.duq.edu/phenomenology-iajs/18/" target="_blank" rel="noopener noreferrer nofollow">https://dsc.duq.edu/phenomenology-iajs/18/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Halperin, D: Anatomy of a Vision: A Psychological Approach To The Papu&quot; by David J. Halperin...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: project1947.com  
    Title: “Unusual Aerial Sightings”  
-   Link: <a href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kb_uasgov.htm</a>  
+   Link:<a href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kb_uasgov.htm</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: project1947.com  
    Title: Bill Chalker  
-   Link: <a href="https://www.project1947.com/forum/bcoz2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/forum/bcoz2.htm</a>  
+   Link:<a href="https://www.project1947.com/forum/bcoz2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/forum/bcoz2.htm</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/shg/symposium/salisbury.html" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/shg/symposium/salisbury.html</a>  
+   Link:<a href="https://www.project1947.com/shg/symposium/salisbury.html" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/shg/symposium/salisbury.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/shg/proceedings/shgproceed1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/shg/proceedings/shgproceed1.pdf</a>  
+   Link:<a href="https://www.project1947.com/shg/proceedings/shgproceed1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/shg/proceedings/shgproceed1.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: project1947.com  
    Title: Keith Basterfield  
-   Link: <a href="https://www.project1947.com/kbcat/kbmoreintoz.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbmoreintoz.htm</a>  
+   Link:<a href="https://www.project1947.com/kbcat/kbmoreintoz.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbmoreintoz.htm</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theblackvault.com  
    Title: father gill 1959 papua new guinea ufo sighting  
-   Link: <a href="https://www.theblackvault.com/casefiles/father-gill-1959-papua-new-guinea-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/father-gill-1959-papua-new-guinea-ufo-sighting/</a>  
+   Link:<a href="https://www.theblackvault.com/casefiles/father-gill-1959-papua-new-guinea-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/father-gill-1959-papua-new-guinea-ufo-sighting/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: catalogue.nla.gov.au  
-   Link: <a href="https://catalogue.nla.gov.au/catalog/2951975" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/2951975</a>  
+   Link:<a href="https://catalogue.nla.gov.au/catalog/2951975" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nla.gov.au/catalog/2951975</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: magoniamagazine.blogspot.com  
    Title: Magonia Magazine MAGONIA ARCHIVE: Gill Again: The Father Gill Case Reconsidered  
-   Link: <a href="https://magoniamagazine.blogspot.com/2013/12/gill-again-father-gill-case-reconsidered.html" target="_blank" rel="noopener noreferrer nofollow">https://magoniamagazine.blogspot.com/2013/12/gill-again-father-gill-case-reconsidered.html</a>  
+   Link:<a href="https://magoniamagazine.blogspot.com/2013/12/gill-again-father-gill-case-reconsidered.html" target="_blank" rel="noopener noreferrer nofollow">https://magoniamagazine.blogspot.com/2013/12/gill-again-father-gill-case-reconsidered.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nicap.org  
    Title: UFOWaves hall  
-   Link: <a href="https://www.nicap.org/articles/UFOWaves_hall.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/articles/UFOWaves_hall.pdf</a>  
+   Link:<a href="https://www.nicap.org/articles/UFOWaves_hall.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/articles/UFOWaves_hall.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/magonia.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/magonia.htm</a>  
+   Link:<a href="https://www.nicap.org/magonia.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/magonia.htm</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/492497106546332/posts/616772707452104/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/492497106546332/posts/616772707452104/</a>  
+   Link:<a href="https://www.facebook.com/groups/492497106546332/posts/616772707452104/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/492497106546332/posts/616772707452104/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/289262933043096/posts/611416027494450/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/289262933043096/posts/611416027494450/</a>  
+   Link:<a href="https://www.facebook.com/groups/289262933043096/posts/611416027494450/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/289262933043096/posts/611416027494450/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: documents.theblackvault.com  
    Title: A703 554 1 30 Part 1 637518  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/A703_554-1-30_Part%201_637518.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/A703_554-1-30_Part%201_637518.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/australia/A703_554-1-30_Part%201_637518.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/A703_554-1-30_Part%201_637518.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: documents.theblackvault.com  
    Title: A703 580 1 1 Part 2 645647  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/A703_580-1-1_Part%202_645647.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/A703_580-1-1_Part%202_645647.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/australia/A703_580-1-1_Part%202_645647.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/A703_580-1-1_Part%202_645647.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: podcastufo.com  
    Title: New Guinea  
-   Link: <a href="https://podcastufo.com/tag/new-guinea/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/tag/new-guinea/</a>  
+   Link:<a href="https://podcastufo.com/tag/new-guinea/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/tag/new-guinea/</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: People Communicate With Strange Alien Figures On Board UFO | Close Encounters  
-   Link: <a href="https://www.youtube.com/watch?v=0135-dCw7Kg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0135-dCw7Kg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BOIANAI UFO: SVEĆENIK koji je komunicirao s vanzemaljcima!?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0135-dCw7Kg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0135-dCw7Kg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BOIANAI UFO: SVEĆENIK koji je komunicirao s vanzemaljcima!?...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Avi Loeb: “This object came from another solar system!” (331)  
-   Link: <a href="https://www.youtube.com/watch?v=BFuW-zfH5RU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BFuW-zfH5RU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mogu li djeca IZMISLITI ovakvo nešto? INCIDENT u Broad Haven školi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BFuW-zfH5RU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BFuW-zfH5RU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mogu li djeca IZMISLITI ovakvo nešto? INCIDENT u Broad Haven školi...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: BOIANAI UFO: SVEĆENIK koji je komunicirao s vanzemaljcima!?  
-   Link: <a href="https://www.youtube.com/watch?v=jYTSQBF45hc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jYTSQBF45hc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Incydent UFO w Papui Nowej Gwinei w 1959 roku...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jYTSQBF45hc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jYTSQBF45hc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incydent UFO w Papui Nowej Gwinei w 1959 roku...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/occupants_hall.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/occupants_hall.htm</a>  
+   Link:<a href="https://www.nicap.org/occupants_hall.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/occupants_hall.htm</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ufocasebook.com  
-   Link: <a href="https://www.ufocasebook.com/williamgill.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/williamgill.html</a>  
+   Link:<a href="https://www.ufocasebook.com/williamgill.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/williamgill.html</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: rowancallick.com  
-   Link: <a href="https://rowancallick.com/article-for-png-post-courier/" target="_blank" rel="noopener noreferrer nofollow">https://rowancallick.com/article-for-png-post-courier/</a>  
+   Link:<a href="https://rowancallick.com/article-for-png-post-courier/" target="_blank" rel="noopener noreferrer nofollow">https://rowancallick.com/article-for-png-post-courier/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pinterest.com  
-   Link: <a href="https://www.pinterest.com/pin/scifi-fantasy--485333297335954486/" target="_blank" rel="noopener noreferrer nofollow">https://www.pinterest.com/pin/scifi-fantasy--485333297335954486/</a>  
+   Link:<a href="https://www.pinterest.com/pin/scifi-fantasy--485333297335954486/" target="_blank" rel="noopener noreferrer nofollow">https://www.pinterest.com/pin/scifi-fantasy--485333297335954486/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/dr-allen-hynek-was-hired-by-the-air-force-to-investigate-ufo-sightings-his-searc/10155659404891184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/dr-allen-hynek-was-hired-by-the-air-force-to-investigate-ufo-sightings-his-searc/10155659404891184/</a>  
+   Link:<a href="https://www.facebook.com/HISTORY/posts/dr-allen-hynek-was-hired-by-the-air-force-to-investigate-ufo-sightings-his-searc/10155659404891184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/dr-allen-hynek-was-hired-by-the-air-force-to-investigate-ufo-sightings-his-searc/10155659404891184/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/mcdonald/The_Dr.James_E_McDonald_Recordings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/mcdonald/The_Dr.James_E_McDonald_Recordings.pdf</a>  
+   Link:<a href="https://www.nicap.org/mcdonald/The_Dr.James_E_McDonald_Recordings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/mcdonald/The_Dr.James_E_McDonald_Recordings.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ufoevidence.org  
-   Link: <a href="https://www.ufoevidence.org/cases/case67.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case67.htm</a>
+   Link:<a href="https://www.ufoevidence.org/cases/case67.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case67.htm</a>

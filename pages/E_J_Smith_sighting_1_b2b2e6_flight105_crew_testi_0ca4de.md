@@ -300,200 +300,200 @@ The **E J Smith sighting** remains a key case in UFO history largely because
 <img src="{{ "/assets/images/E_J_Smith_sighting_1_b2b2e6_flight105_crew_testi_0ca4de-Illustration-3-dark.svg" | relative_url }}" alt="Crew Testimony illustration 3" data-theme-src-dark="{{ "/assets/images/E_J_Smith_sighting_1_b2b2e6_flight105_crew_testi_0ca4de-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/E_J_Smith_sighting_1_b2b2e6_flight105_crew_testi_0ca4de-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Flight 105 Crew Described the Mysterious Objects. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Flight 105 Crew Described the Mysterious Objects. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
-        </h4>
-        <p class="fr-book-author">By Guy Lawson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+</h4>
+<p class="fr-book-author">By Guy Lawson</p>
         
-        <p class="fr-book-desc">Directly evaluates the professional credentials of Captain Emil J. Smith, First Officer Ralph Stevens, and Marty Morrow.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly evaluates the professional credentials of Captain Emil J. Smith, First Officer Ralph Stevens, and Marty Morrow.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Documents the 21:04 MST Boise climb sequence, the five disc-shaped objects formation, and the landing light flashing logs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents the 21:04 MST Boise climb sequence, the five disc-shaped objects formation, and the landing light flashing logs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Tracks how civilian aviation infrastructure cooperated with defense networks to log corroborating regional witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Tracks how civilian aviation infrastructure cooperated with defense networks to log corroborating regional witnesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Details why internally consistent reporting by trained personnel requires cross-examination against conventional data lines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details why internally consistent reporting by trained personnel requires cross-examination against conventional data lines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Flight 105 UFO sighting  
-   Link: <a href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flight_105_UFO_sighting</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flight_105_UFO_sighting</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/fig/ual105.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/ual105.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947PROJECT 1947: UAL Flight 105, July 4, 1947 - Capt E. J. Smith...</p></details>
+   Link:<a href="https://www.project1947.com/fig/ual105.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/ual105.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947PROJECT 1947: UAL Flight 105, July 4, 1947 - Capt E. J. Smith...</p></details>
    Published: July 4, 1947  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nicap.org  
    Title: 470704emmett e  
-   Link: <a href="https://www.nicap.org/reports/470704emmett_e.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/470704emmett_e.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>470704e...</p></details>
+   Link:<a href="https://www.nicap.org/reports/470704emmett_e.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/470704emmett_e.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>470704e...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/articles/flying750.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/articles/flying750.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July, 1950The light from the object was so brilliant, indeed, that it caused “lightning blindness” to both pilots. They had to turn up th...</p></details>
+   Link:<a href="https://www.project1947.com/articles/flying750.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/articles/flying750.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July, 1950The light from the object was so brilliant, indeed, that it caused “lightning blindness” to both pilots. They had to turn up th...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: project1947.com  
-   Link: <a href="https://project1947.com/fig/1950a.htm" target="_blank" rel="noopener noreferrer nofollow">https://project1947.com/fig/1950a.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>He did not, however, see any form of a ship. The light from the object was so brilliant, indeed, that it caused &quot;lightning blindnes...</p></details>
+   Link:<a href="https://project1947.com/fig/1950a.htm" target="_blank" rel="noopener noreferrer nofollow">https://project1947.com/fig/1950a.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He did not, however, see any form of a ship. The light from the object was so brilliant, indeed, that it caused &quot;lightning blindnes...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: douglasdc3.com  
    Title: dc3ufo* * * AIRLINE CREW REPORTS WINGLESS DISCS Boise, Idaho  
-   Link: <a href="https://www.douglasdc3.com/dc3ufo/dc3ufo.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.douglasdc3.com/dc3ufo/dc3ufo.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rainier sighting by private pilot Kenneth Arnold, a United Air Lines DC-3 crew sighted t...</p></details>
+   Link:<a href="https://www.douglasdc3.com/dc3ufo/dc3ufo.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.douglasdc3.com/dc3ufo/dc3ufo.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rainier sighting by private pilot Kenneth Arnold, a United Air Lines DC-3 crew sighted t...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nicap.org  
    Title: UF O Report  
-   Link: <a href="https://www.nicap.org/Good_Cases/470704emmett_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/Good_Cases/470704emmett_dir.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportJuly 4, 1947 — Category 11 Case Directory SIGHTINGS FROM AIRCRAFT Preliminary Rating: 5 | | Image AVCAT is a special project be...</p></details>
+   Link:<a href="https://www.nicap.org/Good_Cases/470704emmett_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/Good_Cases/470704emmett_dir.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportJuly 4, 1947 — Category 11 Case Directory SIGHTINGS FROM AIRCRAFT Preliminary Rating: 5 | | Image AVCAT is a special project be...</p></details>
    Published: July 4, 1947  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufo-folkore.fandom.com  
    Title: E.J. Smith  
-   Link: <a href="https://ufo-folkore.fandom.com/wiki/E.J._Smith" target="_blank" rel="noopener noreferrer nofollow">https://ufo-folkore.fandom.com/wiki/E.J._Smith</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smith | UFO Folkore Wiki | FandomE.J. SMITH Sign in to edit * History * Purge * Talk (0) * United Airlines Capt. E. J. Smith had aerial s...</p></details>
+   Link:<a href="https://ufo-folkore.fandom.com/wiki/E.J._Smith" target="_blank" rel="noopener noreferrer nofollow">https://ufo-folkore.fandom.com/wiki/E.J._Smith</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smith | UFO Folkore Wiki | FandomE.J. SMITH Sign in to edit * History * Purge * Talk (0) * United Airlines Capt. E. J. Smith had aerial s...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: thinkaboutitdocs.com  
    Title: 1947 united airlines flight 105 pilots witness disc shaped objects  
-   Link: <a href="https://www.thinkaboutitdocs.com/1947-united-airlines-flight-105-pilots-witness-disc-shaped-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1947-united-airlines-flight-105-pilots-witness-disc-shaped-objects/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1947: United Airlines Flight 105 pilots witness disc-shaped objects – Think AboutIts1947: UNITED AIRLINES FLIGHT 105 PILOTS WITNESS DISC...</p></details>
+   Link:<a href="https://www.thinkaboutitdocs.com/1947-united-airlines-flight-105-pilots-witness-disc-shaped-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1947-united-airlines-flight-105-pilots-witness-disc-shaped-objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1947: United Airlines Flight 105 pilots witness disc-shaped objects – Think AboutIts1947: UNITED AIRLINES FLIGHT 105 PILOTS WITNESS DISC...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arewealoneinthisuniverse.fandom.com  
    Title: Flight 105 UFO sighting  
-   Link: <a href="https://arewealoneinthisuniverse.fandom.com/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://arewealoneinthisuniverse.fandom.com/wiki/Flight_105_UFO_sighting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>105 UFO sighting | Are_We_Alone Wiki | FandomFLIGHT 105 UFO SIGHTING Sign In to Save Save Edit * History * Purge * Talk (0) iframe On Jul...</p></details>
+   Link:<a href="https://arewealoneinthisuniverse.fandom.com/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://arewealoneinthisuniverse.fandom.com/wiki/Flight_105_UFO_sighting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>105 UFO sighting | Are_We_Alone Wiki | FandomFLIGHT 105 UFO SIGHTING Sign In to Save Save Edit * History * Purge * Talk (0) iframe On Jul...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=01sVLTO8xmo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=01sVLTO8xmo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;Tic Tac&quot; UFO: Can This Sighting Be Explained? | NOVA | PBS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=01sVLTO8xmo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=01sVLTO8xmo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;Tic Tac&quot; UFO: Can This Sighting Be Explained? | NOVA | PBS...</p></details>
    Published: June 1947  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ufosightingsdaily.com  
    Title: Rainier sighting by pr  
-   Link: <a href="https://www.ufosightingsdaily.com/p/pilot-sightings-49.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufosightingsdaily.com/p/pilot-sightings-49.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Daily: Pilot Sightings (49)United Airlines Flight 105 pilots witness formation of disc-shaped objects Date: July 4, 1947 Lo...</p></details>
+   Link:<a href="https://www.ufosightingsdaily.com/p/pilot-sightings-49.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufosightingsdaily.com/p/pilot-sightings-49.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Daily: Pilot Sightings (49)United Airlines Flight 105 pilots witness formation of disc-shaped objects Date: July 4, 1947 Lo...</p></details>
    Published: July 4, 1947  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: The "Tic Tac" UFO: Can This Sighting Be Explained? | NOVA | PBS  
-   Link: <a href="https://www.youtube.com/watch?v=rQs2NL7hcDA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rQs2NL7hcDA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Elite Witness Testimonies! | TOP 25 UFO ENCOUNTERS BY ASTRONAUTS, PILOTS AND MILITARY OFFICIALS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rQs2NL7hcDA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rQs2NL7hcDA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Elite Witness Testimonies! | TOP 25 UFO ENCOUNTERS BY ASTRONAUTS, PILOTS AND MILITARY OFFICIALS...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The First UFO Sighting In America | UFOs: The Lost Evidence  
-   Link: <a href="https://www.youtube.com/watch?v=MJp-YR34XBs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MJp-YR34XBs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>24th June 1947: The first widely-reported UFO sighting was made by private pilot Kenneth Arnold...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MJp-YR34XBs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MJp-YR34XBs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>24th June 1947: The first widely-reported UFO sighting was made by private pilot Kenneth Arnold...</p></details>
    Published: June 1947  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Kenneth Arnold and the First UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=qdXNAOxs6mo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qdXNAOxs6mo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The First UFO Sighting In America | UFOs: The Lost Evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qdXNAOxs6mo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qdXNAOxs6mo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The First UFO Sighting In America | UFOs: The Lost Evidence...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: saturdaynightuforia.com  
-   Link: <a href="https://www.saturdaynightuforia.com/html/articles/articlehtml/airpursuit48.html" target="_blank" rel="noopener noreferrer nofollow">https://www.saturdaynightuforia.com/html/articles/articlehtml/airpursuit48.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smith Above: A July 6, 1947 wire photo of United Airlines pilot E.J. Smith, who along with his copilot and stewardess had witnessed flyin...</p></details>
+   Link:<a href="https://www.saturdaynightuforia.com/html/articles/articlehtml/airpursuit48.html" target="_blank" rel="noopener noreferrer nofollow">https://www.saturdaynightuforia.com/html/articles/articlehtml/airpursuit48.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smith Above: A July 6, 1947 wire photo of United Airlines pilot E.J. Smith, who along with his copilot and stewardess had witnessed flyin...</p></details>
    Published: July 6, 1947  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: rr0.org  
    Title: Emil J  
-   Link: <a href="https://rr0.org/people/s/SmithEmilJ/" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/people/s/SmithEmilJ/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SmithMay 4, 2025 — EMIL J. SMITH Image: Emil J. SmithSmith tenant une assiette à l&#x27;envers en expliquant à l&#x27;hôtesse Marty Morrow quel étr...</p></details>
+   Link:<a href="https://rr0.org/people/s/SmithEmilJ/" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/people/s/SmithEmilJ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SmithMay 4, 2025 — EMIL J. SMITH Image: Emil J. SmithSmith tenant une assiette à l&#x27;envers en expliquant à l&#x27;hôtesse Marty Morrow quel étr...</p></details>
    Published: May 4, 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cufon.org  
-   Link: <a href="https://www.cufon.org/cufon/mcdon3.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/mcdon3.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Page 1July 29, 1968 — Information on some of these, as well as on smaller American groups, can be found in the two important books by...</p></details>
+   Link:<a href="https://www.cufon.org/cufon/mcdon3.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/mcdon3.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Page 1July 29, 1968 — Information on some of these, as well as on smaller American groups, can be found in the two important books by...</p></details>
    Published: July 29, 1968

@@ -758,25 +758,25 @@ image: /assets/images/Livingston_incident_b2c293-overview-social.jpg
 
 ## What Taylor said happened in Dechmont Woods
 
-Taylor was a Livingston Development Corporation forestry worker carrying out a routine inspection in Dechmont Woods, near Dechmont Law, with his red setter. The council’s own visitor information places the incident at Dechmont Law, West Lothian, on 9 November 1979, and summarises Taylor’s account: he came into a clearing and saw a large metallic circular object, around twenty feet across, before two smaller spheres came from the larger object and moved towards him. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westlothian.gov.uk">[West Lothian Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westlothian.gov.uk</span><span class="citation-popover-snippet">West Lothian Council</span></span></span>
+Taylor was a Livingston Development Corporation forestry worker carrying out a routine inspection in Dechmont Woods, near Dechmont Law, with his red setter. The council’s own visitor information places the incident at Dechmont Law, West Lothian, on 9 November 1979, and summarises Taylor’s account: he came into a clearing and saw a large metallic circular object, around twenty feet across, before two smaller spheres came from the larger object and moved towards him.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westlothian.gov.uk">[West Lothian Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westlothian.gov.uk</span><span class="citation-popover-snippet">West Lothian Council</span></span></span>
 
 <img src="{{ "/assets/images/Livingston_incident_b2c293-overview.webp" | relative_url }}" alt="Overview image for Livingston incident 1979" loading="eager" decoding="sync" fetchpriority="high">
-In Taylor’s account, the smaller objects caught his legs and began dragging him towards the larger object. He recalled an acrid smell and a hissing sound before losing consciousness. When he came round, he said the objects had gone; he was in pain, dishevelled, and unable to start his pickup, so he made his way home, where his wife called a doctor and the police. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westlothian.gov.uk">[West Lothian Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westlothian.gov.uk</span><span class="citation-popover-snippet">West Lothian Council</span></span></span>
+In Taylor’s account, the smaller objects caught his legs and began dragging him towards the larger object. He recalled an acrid smell and a hissing sound before losing consciousness. When he came round, he said the objects had gone; he was in pain, dishevelled, and unable to start his pickup, so he made his way home, where his wife called a doctor and the police.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westlothian.gov.uk">[West Lothian Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westlothian.gov.uk</span><span class="citation-popover-snippet">West Lothian Council</span></span></span>
 
-The details vary slightly across retellings, which is common in long-lived cases. Some sources describe the main object as a “flying dome” hovering above the forest floor; others call it a large circular sphere. Undiscovered Scotland records Taylor’s description as a dark grey dome about twenty feet across, with an outer flange and arms carrying propellers, plus a choking smell “like burning brakes”. The broad structure of the story, however, is stable: a close-range sighting, two smaller “mine-like” objects, loss of consciousness, injury or distress, and later discovery of ground marks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undiscoveredscotland.co.uk">[Undiscovered Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undiscoveredscotland.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The details vary slightly across retellings, which is common in long-lived cases. Some sources describe the main object as a “flying dome” hovering above the forest floor; others call it a large circular sphere. Undiscovered Scotland records Taylor’s description as a dark grey dome about twenty feet across, with an outer flange and arms carrying propellers, plus a choking smell “like burning brakes”. The broad structure of the story, however, is stable: a close-range sighting, two smaller “mine-like” objects, loss of consciousness, injury or distress, and later discovery of ground marks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undiscoveredscotland.co.uk">[Undiscovered Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undiscoveredscotland.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Why the police angle makes the case stand out
 
-The incident became unusual because Taylor’s condition led police to treat the matter as a possible assault rather than merely a strange sighting report. According to West Lothian Council’s summary, officers found two ladder-like indentations where the main object was said to have been and around forty small circular holes associated with the path of the smaller objects. The same account says police were puzzled because there were no obvious tracks leading in or out of the clearing and no corporation vehicle dimensions matched the marks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westlothian.gov.uk">[West Lothian Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westlothian.gov.uk</span><span class="citation-popover-snippet">West Lothian Council</span></span></span>
+The incident became unusual because Taylor’s condition led police to treat the matter as a possible assault rather than merely a strange sighting report. According to West Lothian Council’s summary, officers found two ladder-like indentations where the main object was said to have been and around forty small circular holes associated with the path of the smaller objects. The same account says police were puzzled because there were no obvious tracks leading in or out of the clearing and no corporation vehicle dimensions matched the marks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westlothian.gov.uk">[West Lothian Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westlothian.gov.uk</span><span class="citation-popover-snippet">West Lothian Council</span></span></span>
 
-Undiscovered Scotland similarly reports that police took Taylor back to the site, found ladder-shaped marks and other marks said to correspond with the smaller spheres, and recorded the incident as a criminal assault. This is the origin of the frequently repeated claim that the Livingston case is the only British UFO sighting to have become the subject of a criminal investigation. The wording should be treated carefully: it does not mean the police investigated aliens; it means Taylor’s injuries and torn clothing gave the police a conventional reason to open an assault inquiry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undiscoveredscotland.co.uk">[Undiscovered Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undiscoveredscotland.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Undiscovered Scotland similarly reports that police took Taylor back to the site, found ladder-shaped marks and other marks said to correspond with the smaller spheres, and recorded the incident as a criminal assault. This is the origin of the frequently repeated claim that the Livingston case is the only British UFO sighting to have become the subject of a criminal investigation. The wording should be treated carefully: it does not mean the police investigated aliens; it means Taylor’s injuries and torn clothing gave the police a conventional reason to open an assault inquiry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undiscoveredscotland.co.uk">[Undiscovered Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undiscoveredscotland.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A useful boundary on the evidence comes from West Lothian Archives. Its catalogue lists a Livingston Development Corporation file titled “UFO Sighting by Bob Taylor of LDC in Dechmont Law Wood November 1979”, dated 1979–1991, but states that the file comprises press cuttings and later estate-department press releases about the 1991 plaque. It explicitly says the file does not contain material relating to the Development Corporation’s internal investigation. That matters because it shows there is a local documentary trail, but not a complete public case file containing every investigative record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westlothian.gov.uk">[West Lothian Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westlothian.gov.uk</span><span class="citation-popover-snippet">West Lothian Council</span></span></span>
+A useful boundary on the evidence comes from West Lothian Archives. Its catalogue lists a Livingston Development Corporation file titled “UFO Sighting by Bob Taylor of LDC in Dechmont Law Wood November 1979”, dated 1979–1991, but states that the file comprises press cuttings and later estate-department press releases about the 1991 plaque. It explicitly says the file does not contain material relating to the Development Corporation’s internal investigation. That matters because it shows there is a local documentary trail, but not a complete public case file containing every investigative record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westlothian.gov.uk">[West Lothian Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westlothian.gov.uk</span><span class="citation-popover-snippet">West Lothian Council</span></span></span>
 
 <img src="{{ "/assets/images/Livingston_incident_b2c293-Illustration-1-dark.svg" | relative_url }}" alt="Livingston incident 1979 illustration 1" data-theme-src-dark="{{ "/assets/images/Livingston_incident_b2c293-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Livingston_incident_b2c293-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The physical evidence is intriguing but limited
 
-The most cited physical elements are Taylor’s torn trousers, the ground impressions, and his reported grazes and physical distress. West Lothian Council’s account says the clothing was sent for forensic analysis because the matter was treated as a suspected assault, with results described as consistent with a “sharp upward pull”. Undiscovered Scotland reports that Taylor’s wife called a doctor, who treated grazes to his chin and thighs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westlothian.gov.uk">[West Lothian Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westlothian.gov.uk</span><span class="citation-popover-snippet">West Lothian Council</span></span></span>
+The most cited physical elements are Taylor’s torn trousers, the ground impressions, and his reported grazes and physical distress. West Lothian Council’s account says the clothing was sent for forensic analysis because the matter was treated as a suspected assault, with results described as consistent with a “sharp upward pull”. Undiscovered Scotland reports that Taylor’s wife called a doctor, who treated grazes to his chin and thighs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westlothian.gov.uk">[West Lothian Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westlothian.gov.uk</span><span class="citation-popover-snippet">West Lothian Council</span></span></span>
 
 Those facts are stronger than an ordinary anecdotal UFO story, but they still fall short of a complete evidential chain. The public-facing summaries do not provide a full forensic laboratory report, measurements of all marks, photographs with chain-of-custody documentation, or a preserved official police file that can be independently audited from start to finish. The surviving public record supports that something unusual was reported and investigated, not that the object Taylor described was an extraterrestrial craft.
 
@@ -786,9 +786,9 @@ The ground marks are especially important because they are the main claimed corr
 
 ## Taylor’s credibility is central, but credibility is not proof
 
-Almost every serious discussion of the case returns to Taylor himself. West Lothian Council’s summary describes him as highly respected locally, honest, and unlikely to invent such a story, and says he did not seek fame or major publicity. Undiscovered Scotland also notes that even sceptical readers generally do not doubt that Taylor believed his experience was real. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westlothian.gov.uk">[West Lothian Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westlothian.gov.uk</span><span class="citation-popover-snippet">West Lothian Council</span></span></span>
+Almost every serious discussion of the case returns to Taylor himself. West Lothian Council’s summary describes him as highly respected locally, honest, and unlikely to invent such a story, and says he did not seek fame or major publicity. Undiscovered Scotland also notes that even sceptical readers generally do not doubt that Taylor believed his experience was real.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westlothian.gov.uk">[West Lothian Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westlothian.gov.uk</span><span class="citation-popover-snippet">West Lothian Council</span></span></span>
 
-That credibility is important. A hoax explanation has never been the easiest reading of the case, especially given the immediate involvement of his wife, a doctor, police, and his employer. Taylor’s reported consistency also helped the story endure. David Clarke, a British UFO historian and former consultant on the Ministry of Defence UFO files project with The National Archives, lists Livingston among his classic unresolved UK cases and describes Taylor as an “impressive witness” who never changed his story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/about/my-top-10-ufo-stories/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr David Clarke Our Top 10 UFO stories</span><span class="citation-popover-snippet">Dr David Clarke Our Top 10 UFO stories</span></span></span>
+That credibility is important. A hoax explanation has never been the easiest reading of the case, especially given the immediate involvement of his wife, a doctor, police, and his employer. Taylor’s reported consistency also helped the story endure. David Clarke, a British UFO historian and former consultant on the Ministry of Defence UFO files project with The National Archives, lists Livingston among his classic unresolved UK cases and describes Taylor as an “impressive witness” who never changed his story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/about/my-top-10-ufo-stories/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr David Clarke Our Top 10 UFO stories</span><span class="citation-popover-snippet">Dr David Clarke Our Top 10 UFO stories</span></span></span>
 
 But witness sincerity and event accuracy are different questions. A person can be honest and still misperceive, hallucinate, collapse, confabulate after a medical episode, or interpret real marks through the lens of a frightening experience. The fairest reading is that Taylor’s character makes deliberate fabrication less persuasive, but it cannot by itself identify the cause.
 
@@ -797,22 +797,22 @@ But witness sincerity and event accuracy are different questions. A person can b
 
 The sceptical explanations generally fall into two groups: a medical event that produced the experience, and ordinary objects or site activity that produced the ground marks or visual trigger.
 
-The medical explanation most often cited is an isolated epileptic or seizure-like episode, sometimes linked in retellings to Taylor’s previous meningitis and to symptoms such as smell, loss of consciousness, headache, dry throat, and difficulty moving afterwards. Undiscovered Scotland summarises this line as an epileptic attack accompanied by hallucinations. Wikipedia’s sourced summary attributes a developed version of this argument to sceptic Steuart Campbell, with medical input from Patricia Hannaford, and notes that Campbell also suggested a possible Venus mirage as a trigger. Because the detailed Campbell material is mainly in print rather than a readily inspectable official online file, the online case for this explanation is best treated as a reported sceptical argument rather than a settled diagnosis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undiscoveredscotland.co.uk">[Undiscovered Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undiscoveredscotland.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The medical explanation most often cited is an isolated epileptic or seizure-like episode, sometimes linked in retellings to Taylor’s previous meningitis and to symptoms such as smell, loss of consciousness, headache, dry throat, and difficulty moving afterwards. Undiscovered Scotland summarises this line as an epileptic attack accompanied by hallucinations. Wikipedia’s sourced summary attributes a developed version of this argument to sceptic Steuart Campbell, with medical input from Patricia Hannaford, and notes that Campbell also suggested a possible Venus mirage as a trigger. Because the detailed Campbell material is mainly in print rather than a readily inspectable official online file, the online case for this explanation is best treated as a reported sceptical argument rather than a settled diagnosis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undiscoveredscotland.co.uk">[Undiscovered Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undiscoveredscotland.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The site-based explanation argues that the marks could have had mundane origins. One version, associated with Campbell, points to possible PVC pipes or water-authority works near the area. Another, reported in 2013, suggested that a nearby saucer-shaped water tower, combined with illness or chemical exposure, could have contributed to Taylor’s interpretation. These theories are useful because they try to explain the physical scene rather than only the testimony, but they also have limits: they must account for Taylor’s close-range description, his injuries and clothing damage, the timing, and why the explanation was not obvious to police at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://shardsofmagonia.wordpress.com/2015/04/26/an-extraordinary-memory-failure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shardsofmagonia.wordpress.com">[Shards of Magonia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shardsofmagonia.wordpress.com</span><span class="citation-popover-title">Shards of Magonia / Scherben von Magonia An extraordinary memory failure?</span><span class="citation-popover-snippet">Shards of Magonia / Scherben von Magonia An extraordinary memory failure?</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://shardsofmagonia.wordpress.com/2015/04/26/an-extraordinary-memory-failure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shardsofmagonia.wordpress.com">[Scherben von Magonia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shardsofmagonia.wordpress.com</span><span class="citation-popover-title">Shards of Magonia / Scherben von Magonia An extraordinary memory failure?</span><span class="citation-popover-snippet">Shards of Magonia / Scherben von Magonia An extraordinary memory failure?</span></span></span>
+The site-based explanation argues that the marks could have had mundane origins. One version, associated with Campbell, points to possible PVC pipes or water-authority works near the area. Another, reported in 2013, suggested that a nearby saucer-shaped water tower, combined with illness or chemical exposure, could have contributed to Taylor’s interpretation. These theories are useful because they try to explain the physical scene rather than only the testimony, but they also have limits: they must account for Taylor’s close-range description, his injuries and clothing damage, the timing, and why the explanation was not obvious to police at the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://shardsofmagonia.wordpress.com/2015/04/26/an-extraordinary-memory-failure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shardsofmagonia.wordpress.com">[Shards of Magonia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shardsofmagonia.wordpress.com</span><span class="citation-popover-title">Shards of Magonia / Scherben von Magonia An extraordinary memory failure?</span><span class="citation-popover-snippet">Shards of Magonia / Scherben von Magonia An extraordinary memory failure?</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://shardsofmagonia.wordpress.com/2015/04/26/an-extraordinary-memory-failure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shardsofmagonia.wordpress.com">[Scherben von Magonia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shardsofmagonia.wordpress.com</span><span class="citation-popover-title">Shards of Magonia / Scherben von Magonia An extraordinary memory failure?</span><span class="citation-popover-snippet">Shards of Magonia / Scherben von Magonia An extraordinary memory failure?</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sxNdBY5NImo" title="Official | The Dechmont Woods Case - Documentary | Trailer 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sxNdBY5NImo" target="_blank" rel="noopener noreferrer">Official | The Dechmont Woods Case - Documentary | Trailer 2</a></p><p class="youtube-embed-meta">Channel: Condor Entertainment &middot; Views: 1.6K &middot; Uploaded: October 2023 &middot; Length: 2 minutes 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sxNdBY5NImo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sxNdBY5NImo">Open on YouTube</a></p></div></div></div>
 
 ## What official UFO context does, and does not, add
 
-The Livingston incident should not be confused with a Ministry of Defence conclusion that a craft visited Dechmont Woods. The public record available online points mainly to local police involvement and local archival material, not to a definitive national security finding. The National Archives explains that UK Ministry of Defence UFO files were generally concerned with whether reports showed a threat to UK airspace or national security, and that the MOD continued to state there was no such threat in the cases it handled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">ufo reports</span></span></span>
+The Livingston incident should not be confused with a Ministry of Defence conclusion that a craft visited Dechmont Woods. The public record available online points mainly to local police involvement and local archival material, not to a definitive national security finding. The National Archives explains that UK Ministry of Defence UFO files were generally concerned with whether reports showed a threat to UK airspace or national security, and that the MOD continued to state there was no such threat in the cases it handled.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">ufo reports</span></span></span>
 
-This distinction matters for readers. A local police inquiry into a possible assault is not the same as a defence-intelligence validation of a UFO. Conversely, the absence of an MOD extraterrestrial conclusion does not explain what happened to Taylor. It simply places the case in the broader British pattern: many reports were recorded, some were investigated for possible defence relevance, and most did not produce evidence of hostile or non-human technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Alien nation: Mo D releases final UFO files</span><span class="citation-popover-snippet">The Guardian Alien nation: Mo D releases final UFO files</span></span></span>
+This distinction matters for readers. A local police inquiry into a possible assault is not the same as a defence-intelligence validation of a UFO. Conversely, the absence of an MOD extraterrestrial conclusion does not explain what happened to Taylor. It simply places the case in the broader British pattern: many reports were recorded, some were investigated for possible defence relevance, and most did not produce evidence of hostile or non-human technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Alien nation: Mo D releases final UFO files</span><span class="citation-popover-snippet">The Guardian Alien nation: Mo D releases final UFO files</span></span></span>
 
 <img src="{{ "/assets/images/Livingston_incident_b2c293-Illustration-3-dark.svg" | relative_url }}" alt="Livingston incident 1979 illustration 3" data-theme-src-dark="{{ "/assets/images/Livingston_incident_b2c293-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Livingston_incident_b2c293-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the case should be assessed now
 
-The strongest case for taking Livingston seriously is not that it proves alien visitation. It is that the episode has more texture than a typical single-witness UFO report: a named adult witness with a solid local reputation; immediate physical distress; torn clothing; a doctor and police called soon after; ground marks observed at the alleged site; and later local commemoration. These features explain why the case remains a major branch in Scottish UFO lore and why it still appears in lists of unresolved British cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westlothian.gov.uk">[West Lothian Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westlothian.gov.uk</span><span class="citation-popover-snippet">West Lothian Council</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undiscoveredscotland.co.uk">[Undiscovered Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undiscoveredscotland.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The strongest case for taking Livingston seriously is not that it proves alien visitation. It is that the episode has more texture than a typical single-witness UFO report: a named adult witness with a solid local reputation; immediate physical distress; torn clothing; a doctor and police called soon after; ground marks observed at the alleged site; and later local commemoration. These features explain why the case remains a major branch in Scottish UFO lore and why it still appears in lists of unresolved British cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westlothian.gov.uk">[West Lothian Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westlothian.gov.uk</span><span class="citation-popover-snippet">West Lothian Council</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undiscoveredscotland.co.uk">[Undiscovered Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undiscoveredscotland.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The strongest case for caution is equally clear. There was no recovered craft, no independent eyewitness to the object, no publicly available full forensic package that resolves the clothing and ground marks, and no official conclusion identifying the source as non-human. Sceptical explanations are incomplete, but so is the extraterrestrial interpretation. The result is a case that is genuinely interesting without being evidentially decisive.
 
@@ -821,194 +821,194 @@ For a case dossier, the Livingston incident is best treated as an unresolved clo
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PTIUCPEc4qs" title="The Dechmont Incident - The Robert Taylor UFO Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PTIUCPEc4qs" target="_blank" rel="noopener noreferrer">The Dechmont Incident - The Robert Taylor UFO Story</a></p><p class="youtube-embed-meta">Channel: Paranormal Knights of Scotland &middot; Views: 97 &middot; Uploaded: February 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PTIUCPEc4qs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PTIUCPEc4qs">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened During the Livingston UFO Encounter?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened During the Livingston UFO Encounter?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Presents a comprehensive file on the 1979 Livingston encounter, summarizing police documentation and physical after-effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Presents a comprehensive file on the 1979 Livingston encounter, summarizing police documentation and physical after-effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches the investigative rigour needed to separate ground traces and physical anomalies from natural environmental processes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches the investigative rigour needed to separate ground traces and physical anomalies from natural environmental processes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Details why extraordinary trace claims require rigorous, independent verification against prosaic forestry and biological reality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details why extraordinary trace claims require rigorous, independent verification against prosaic forestry and biological reality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
-        </h4>
-        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+</h4>
+<p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
         
-        <p class="fr-book-desc">Discusses the importance of chain-of-custody in trace analysis and provides frameworks for interpreting reported close-range physical tra...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses the importance of chain-of-custody in trace analysis and provides frameworks for interpreting reported close-range physical tra...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-the-livingston-ufo-encounter-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1024,7 +1024,7 @@ For a case dossier, the Livingston incident is best treated as an unresolved clo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1044,7 +1044,7 @@ For a case dossier, the Livingston incident is best treated as an unresolved clo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1076,7 +1076,7 @@ For a case dossier, the Livingston incident is best treated as an unresolved clo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1128,7 +1128,7 @@ For a case dossier, the Livingston incident is best treated as an unresolved clo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1173,7 +1173,7 @@ For a case dossier, the Livingston incident is best treated as an unresolved clo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1214,137 +1214,137 @@ For a case dossier, the Livingston incident is best treated as an unresolved clo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: westlothian.gov.uk  
    Title: West Lothian Council  
-   Link: <a href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf</a>  
+   Link:<a href="https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.westlothian.gov.uk/media/26988/Dechmont-Law-UFO-info/pdf/Dechmont_Law_UFO.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Robert Taylor incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Robert_Taylor_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert_Taylor_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Robert_Taylor_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert_Taylor_incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ufology</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ufology</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: The UFO Files  
-   Link: <a href="https://en.wikipedia.org/wiki/The_UFO_Files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_UFO_Files</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_UFO_Files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_UFO_Files</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Man Knocked Unconscious By Huge UFO | Close Encounters  
-   Link: <a href="https://www.youtube.com/watch?v=lxgPUYv9Mys" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lxgPUYv9Mys</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Official | The Dechmont Woods Case - Documentary | Trailer 2...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lxgPUYv9Mys" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lxgPUYv9Mys</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Official | The Dechmont Woods Case - Documentary | Trailer 2...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Official | The Dechmont Woods Case  
-   Link: <a href="https://www.youtube.com/watch?v=sxNdBY5NImo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sxNdBY5NImo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dechmont Woods Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sxNdBY5NImo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sxNdBY5NImo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dechmont Woods Incident...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: undiscoveredscotland.co.uk  
-   Link: <a href="https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html</a>  
+   Link:<a href="https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.undiscoveredscotland.co.uk/livingston/livingstonincident/index.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: velocidad.westlothian.gov.uk  
-   Link: <a href="https://velocidad.westlothian.gov.uk/Record.aspx?id=LDC%2FCD%2F1%2F3%2F2%2F60&amp;src=CalmView.Catalog" target="_blank" rel="noopener noreferrer nofollow">https://velocidad.westlothian.gov.uk/Record.aspx?id=LDC%2FCD%2F1%2F3%2F2%2F60&amp;src=CalmView.Catalog</a>  
+   Link:<a href="https://velocidad.westlothian.gov.uk/Record.aspx?id=LDC%2FCD%2F1%2F3%2F2%2F60&amp;src=CalmView.Catalog" target="_blank" rel="noopener noreferrer nofollow">https://velocidad.westlothian.gov.uk/Record.aspx?id=LDC%2FCD%2F1%2F3%2F2%2F60&amp;src=CalmView.Catalog</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: drdavidclarke.co.uk  
    Title: Dr David Clarke Our Top 10 UFO stories  
-   Link: <a href="https://drdavidclarke.co.uk/about/my-top-10-ufo-stories/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/about/my-top-10-ufo-stories/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/about/my-top-10-ufo-stories/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/about/my-top-10-ufo-stories/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: shardsofmagonia.wordpress.com  
    Title: Shards of Magonia / Scherben von Magonia An extraordinary memory failure?  
-   Link: <a href="https://shardsofmagonia.wordpress.com/2015/04/26/an-extraordinary-memory-failure/" target="_blank" rel="noopener noreferrer nofollow">https://shardsofmagonia.wordpress.com/2015/04/26/an-extraordinary-memory-failure/</a>  
+   Link:<a href="https://shardsofmagonia.wordpress.com/2015/04/26/an-extraordinary-memory-failure/" target="_blank" rel="noopener noreferrer nofollow">https://shardsofmagonia.wordpress.com/2015/04/26/an-extraordinary-memory-failure/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
    Title: ufo reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
    Title: The Guardian Alien nation: Mo D releases final UFO files  
-   Link: <a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
+   Link:<a href="https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2013/jun/21/last-release-mod-ufo-files</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: economist.com  
    Title: robert taylor  
-   Link: <a href="https://www.economist.com/obituary/2007/03/29/robert-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.economist.com/obituary/2007/03/29/robert-taylor</a>  
+   Link:<a href="https://www.economist.com/obituary/2007/03/29/robert-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.economist.com/obituary/2007/03/29/robert-taylor</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/888274961677678/posts/2189498921555269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/888274961677678/posts/2189498921555269/</a>  
+   Link:<a href="https://www.facebook.com/groups/888274961677678/posts/2189498921555269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/888274961677678/posts/2189498921555269/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
    Title: the dechmont woods encounter  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/6dq0hy/the_dechmont_woods_encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/6dq0hy/the_dechmont_woods_encounter/</a>  
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/6dq0hy/the_dechmont_woods_encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/6dq0hy/the_dechmont_woods_encounter/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: drdavidclarke.co.uk  
    Title: The End of the UFO Files  
-   Link: <a href="https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: kids.kiddle.co  
    Title: Robert Taylor incident  
-   Link: <a href="https://kids.kiddle.co/Robert_Taylor_incident" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Robert_Taylor_incident</a>  
+   Link:<a href="https://kids.kiddle.co/Robert_Taylor_incident" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Robert_Taylor_incident</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ufos.ac.uk  
    Title: Dechmont Woods  
-   Link: <a href="https://ufos.ac.uk/dechmont-woods/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.ac.uk/dechmont-woods/</a>  
+   Link:<a href="https://ufos.ac.uk/dechmont-woods/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.ac.uk/dechmont-woods/</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/41809306/Contemporary_DireCtions_in_psyChopathology" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/41809306/Contemporary_DireCtions_in_psyChopathology</a>  
+   Link:<a href="https://www.academia.edu/41809306/Contemporary_DireCtions_in_psyChopathology" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/41809306/Contemporary_DireCtions_in_psyChopathology</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: sundaypost.com  
-   Link: <a href="https://www.sundaypost.com/fp/40-years-on-from-the-dechmont-incident-author-looks-back-at-baffling-flying-saucer-sighting-near-livingston/" target="_blank" rel="noopener noreferrer nofollow">https://www.sundaypost.com/fp/40-years-on-from-the-dechmont-incident-author-looks-back-at-baffling-flying-saucer-sighting-near-livingston/</a>  
+   Link:<a href="https://www.sundaypost.com/fp/40-years-on-from-the-dechmont-incident-author-looks-back-at-baffling-flying-saucer-sighting-near-livingston/" target="_blank" rel="noopener noreferrer nofollow">https://www.sundaypost.com/fp/40-years-on-from-the-dechmont-incident-author-looks-back-at-baffling-flying-saucer-sighting-near-livingston/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thescottishsun/posts/an-alien-hunter-last-night-slammed-museum-bosses-for-snubbing-the-chance-to-publ/1032101288962121/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thescottishsun/posts/an-alien-hunter-last-night-slammed-museum-bosses-for-snubbing-the-chance-to-publ/1032101288962121/</a>  
+   Link:<a href="https://www.facebook.com/thescottishsun/posts/an-alien-hunter-last-night-slammed-museum-bosses-for-snubbing-the-chance-to-publ/1032101288962121/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thescottishsun/posts/an-alien-hunter-last-night-slammed-museum-bosses-for-snubbing-the-chance-to-publ/1032101288962121/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/alien-civilizations-scientific-proof-of-their-existence-1517210399-9781517210397.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/alien-civilizations-scientific-proof-of-their-existence-1517210399-9781517210397.html</a>  
+   Link:<a href="https://dokumen.pub/alien-civilizations-scientific-proof-of-their-existence-1517210399-9781517210397.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/alien-civilizations-scientific-proof-of-their-existence-1517210399-9781517210397.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: telegraph.co.uk  
-   Link: <a href="https://www.telegraph.co.uk/news/obituaries/1546390/Bob-Taylor.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/obituaries/1546390/Bob-Taylor.html</a>  
+   Link:<a href="https://www.telegraph.co.uk/news/obituaries/1546390/Bob-Taylor.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/obituaries/1546390/Bob-Taylor.html</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/catalogofco1970324112lib/catalogofco1970324112lib_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/catalogofco1970324112lib/catalogofco1970324112lib_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/catalogofco1970324112lib/catalogofco1970324112lib_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/catalogofco1970324112lib/catalogofco1970324112lib_djvu.txt</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/ridpathlibraryof25ridp/ridpathlibraryof25ridp_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ridpathlibraryof25ridp/ridpathlibraryof25ridp_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/ridpathlibraryof25ridp/ridpathlibraryof25ridp_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ridpathlibraryof25ridp/ridpathlibraryof25ridp_djvu.txt</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/malcolm.robinson2/videos/matt-allwright-discusses-the-bob-taylor-incident/973661818592680/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/malcolm.robinson2/videos/matt-allwright-discusses-the-bob-taylor-incident/973661818592680/</a>  
+   Link:<a href="https://www.facebook.com/malcolm.robinson2/videos/matt-allwright-discusses-the-bob-taylor-incident/973661818592680/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/malcolm.robinson2/videos/matt-allwright-discusses-the-bob-taylor-incident/973661818592680/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/</a>  
+   Link:<a href="https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: economist.com  
-   Link: <a href="https://www.economist.com/topics/obituary?after=831f2c85-44bb-4bdb-998c-630a83ba9223" target="_blank" rel="noopener noreferrer nofollow">https://www.economist.com/topics/obituary?after=831f2c85-44bb-4bdb-998c-630a83ba9223</a>
+   Link:<a href="https://www.economist.com/topics/obituary?after=831f2c85-44bb-4bdb-998c-630a83ba9223" target="_blank" rel="noopener noreferrer nofollow">https://www.economist.com/topics/obituary?after=831f2c85-44bb-4bdb-998c-630a83ba9223</a>

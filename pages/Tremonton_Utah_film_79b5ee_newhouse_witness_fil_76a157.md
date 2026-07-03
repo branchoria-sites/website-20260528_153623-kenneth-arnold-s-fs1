@@ -248,14 +248,14 @@ image: /assets/images/Tremonton_Utah_film_79b5ee_newhouse_witness_fil_76a157-Ill
 
 ## Introduction
 
-The Tremonton, Utah film gained unusual credibility in 1952 because it was not presented as a dramatic tale from an anonymous civilian. The footage came from Delbert C. Newhouse, a US Navy warrant officer with extensive photographic training and long experience in aerial imaging work. That distinction shaped how the film was treated by Project Blue Book, the Robertson Panel and later researchers. Even sceptics who concluded the objects were probably birds generally accepted that Newhouse himself was a sincere and technically competent witness rather than a fabricator or publicity seeker. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report, Case 49: Tremonton, Utah</span><span class="citation-popover-snippet">Movie FilmIn favor of the hypothesis that the Tremonton objects were birds, probably gulls, we have the following arguments: (1) White gu...</span></span></span>
+The Tremonton, Utah film gained unusual credibility in 1952 because it was not presented as a dramatic tale from an anonymous civilian. The footage came from Delbert C. Newhouse, a US Navy warrant officer with extensive photographic training and long experience in aerial imaging work. That distinction shaped how the film was treated by Project Blue Book, the Robertson Panel and later researchers. Even sceptics who concluded the objects were probably birds generally accepted that Newhouse himself was a sincere and technically competent witness rather than a fabricator or publicity seeker.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report, Case 49: Tremonton, Utah</span><span class="citation-popover-snippet">Movie FilmIn favor of the hypothesis that the Tremonton objects were birds, probably gulls, we have the following arguments: (1) White gu...</span></span></span>
 
 <img src="{{ "/assets/images/Tremonton_Utah_film_79b5ee_newhouse_witness_fil_76a157-Illustration-1-dark.svg" | relative_url }}" alt="Newhouse Film illustration 1" data-theme-src-dark="{{ "/assets/images/Tremonton_Utah_film_79b5ee_newhouse_witness_fil_76a157-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tremonton_Utah_film_79b5ee_newhouse_witness_fil_76a157-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The film itself is visually ambiguous: it shows small bright objects moving against a clear sky, without enough detail to identify shape or structure conclusively. What made the case important was therefore not merely the footage, but the combination of physical film evidence and the reputation of the man who shot it. The credibility debate around Tremonton has always centred on a narrower question than many UFO cases: not whether Newhouse was honest, but whether an experienced military photographer could still have misidentified ordinary objects under difficult visual conditions.
 
 ## The roadside sighting near Tremonton
 
-On 2 July 1952, Delbert and Norma Newhouse were travelling by car north of Tremonton, Utah, with their children when Norma first noticed a cluster of bright objects in the sky. Newhouse later stated that he stopped the car, retrieved a 16mm Bell & Howell movie camera and filmed the objects for roughly seventy-five seconds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report, Case 49: Tremonton, Utah</span><span class="citation-popover-snippet">Movie FilmIn favor of the hypothesis that the Tremonton objects were birds, probably gulls, we have the following arguments: (1) White gu...</span></span></span>
+On 2 July 1952, Delbert and Norma Newhouse were travelling by car north of Tremonton, Utah, with their children when Norma first noticed a cluster of bright objects in the sky. Newhouse later stated that he stopped the car, retrieved a 16mm Bell & Howell movie camera and filmed the objects for roughly seventy-five seconds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report, Case 49: Tremonton, Utah</span><span class="citation-popover-snippet">Movie FilmIn favor of the hypothesis that the Tremonton objects were birds, probably gulls, we have the following arguments: (1) White gu...</span></span></span>
 
 Several details in Newhouse’s early statements became important in later credibility assessments:
 
@@ -268,25 +268,25 @@ Several details in Newhouse’s early statements became important in later credi
 
 </div>
 
-Those points mattered because they cut against the stereotype of exaggerated UFO testimony. Rather than claiming impossible manoeuvres or spectacular close-range observations, Newhouse consistently described a limited visual event with major observational uncertainties. Researchers later regarded this restraint as one of the strongest indicators that he was attempting to report accurately rather than sensationally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report, Case 49: Tremonton, Utah</span><span class="citation-popover-snippet">Movie FilmIn favor of the hypothesis that the Tremonton objects were birds, probably gulls, we have the following arguments: (1) White gu...</span></span></span>
+Those points mattered because they cut against the stereotype of exaggerated UFO testimony. Rather than claiming impossible manoeuvres or spectacular close-range observations, Newhouse consistently described a limited visual event with major observational uncertainties. Researchers later regarded this restraint as one of the strongest indicators that he was attempting to report accurately rather than sensationally.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report, Case 49: Tremonton, Utah</span><span class="citation-popover-snippet">Movie FilmIn favor of the hypothesis that the Tremonton objects were birds, probably gulls, we have the following arguments: (1) White gu...</span></span></span>
 
 The objects themselves appeared only as unresolved white points on the film. That limitation has always defined the case. Unlike later UFO photographs that supposedly showed structured craft, the Tremonton film depended heavily on interpretation of movement, brightness changes and witness testimony.
 
 ## What Newhouse said he could and could not tell
 
-One reason the case retained credibility over decades is that Newhouse’s statements remained relatively consistent. In his August 1952 letter to Project Blue Book, he acknowledged major uncertainties instead of overstating the evidence. According to later summaries of the Blue Book file, he explicitly said there was no way to estimate speed, size or range because the objects lacked visual reference markers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report, Case 49: Tremonton, Utah</span><span class="citation-popover-snippet">Movie FilmIn favor of the hypothesis that the Tremonton objects were birds, probably gulls, we have the following arguments: (1) White gu...</span></span></span>
+One reason the case retained credibility over decades is that Newhouse’s statements remained relatively consistent. In his August 1952 letter to Project Blue Book, he acknowledged major uncertainties instead of overstating the evidence. According to later summaries of the Blue Book file, he explicitly said there was no way to estimate speed, size or range because the objects lacked visual reference markers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report, Case 49: Tremonton, Utah</span><span class="citation-popover-snippet">Movie FilmIn favor of the hypothesis that the Tremonton objects were birds, probably gulls, we have the following arguments: (1) White gu...</span></span></span>
 
 That caution is significant because many UFO reports become less reliable when witnesses expand claims over time. In the Tremonton case, the opposite happened. Newhouse generally avoided dramatic elaboration.
 
 He also acknowledged limitations in the film itself. The camera did not capture enough detail to determine whether the objects had wings, fuselages or defined structure. In later discussions, Newhouse maintained that what he personally saw appeared more distinct than what the film reproduced. This is a common issue in long-range photography, especially with bright reflective objects against a bright sky. A moving 16mm camera with a telephoto lens could easily reduce distant objects to overexposed highlights.
 
-Importantly, Newhouse never claimed expert authority in ornithology, atmospheric optics or aeronautics. His expertise was photographic. That distinction shaped later analysis. Critics generally did not argue that he fabricated the film; instead, they argued that even a skilled photographer might misinterpret distant birds reflecting sunlight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report, Case 49: Tremonton, Utah</span><span class="citation-popover-snippet">Movie FilmIn favor of the hypothesis that the Tremonton objects were birds, probably gulls, we have the following arguments: (1) White gu...</span></span></span>
+Importantly, Newhouse never claimed expert authority in ornithology, atmospheric optics or aeronautics. His expertise was photographic. That distinction shaped later analysis. Critics generally did not argue that he fabricated the film; instead, they argued that even a skilled photographer might misinterpret distant birds reflecting sunlight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report, Case 49: Tremonton, Utah</span><span class="citation-popover-snippet">Movie FilmIn favor of the hypothesis that the Tremonton objects were birds, probably gulls, we have the following arguments: (1) White gu...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vbLvzgJMsIQ" title="Delbert Newhouse UFO Footage - 1952 - Tremonton Utah." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vbLvzgJMsIQ" target="_blank" rel="noopener noreferrer">Delbert Newhouse UFO Footage - 1952 - Tremonton Utah.</a></p><p class="youtube-embed-meta">Channel: parkerdonaldmusic &middot; Views: 20.7K &middot; Uploaded: September 2012 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vbLvzgJMsIQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vbLvzgJMsIQ">Open on YouTube</a></p></div></div></div>
 
 ## Why his Navy photography experience mattered
 
-The strongest argument for taking the Tremonton film seriously was Newhouse’s professional background. Air Force records and later summaries described him as a Navy photographic specialist with roughly nineteen years of service and extensive aerial photography experience. He reportedly had more than 1,000 hours connected with aerial photographic operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report, Case 49: Tremonton, Utah</span><span class="citation-popover-snippet">Movie FilmIn favor of the hypothesis that the Tremonton objects were birds, probably gulls, we have the following arguments: (1) White gu...</span></span></span>
+The strongest argument for taking the Tremonton film seriously was Newhouse’s professional background. Air Force records and later summaries described him as a Navy photographic specialist with roughly nineteen years of service and extensive aerial photography experience. He reportedly had more than 1,000 hours connected with aerial photographic operations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report, Case 49: Tremonton, Utah</span><span class="citation-popover-snippet">Movie FilmIn favor of the hypothesis that the Tremonton objects were birds, probably gulls, we have the following arguments: (1) White gu...</span></span></span>
 
 That background changed the institutional response in several ways.
 
@@ -294,13 +294,13 @@ That background changed the institutional response in several ways.
 
 Project Blue Book dealt constantly with poor-quality UFO photographs caused by reflections, processing defects or camera misuse. Newhouse was not an amateur experimenting with unfamiliar equipment. His training meant investigators assumed he understood exposure, focus, framing and optical behaviour better than the average civilian witness.
 
-As a result, officials took the footage more seriously than they would have taken an ordinary home movie. Edward J. Ruppelt, the early head of Project Blue Book, later described the Tremonton film as one of the best pieces of UFO photographic evidence available to the Air Force. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenberg The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">Tremonton Movie and the Montana Movie. These two bits of evidence represented the best photos of UFO&#x27;s that Project Blue Book had to offe...</span></span></span>
+As a result, officials took the footage more seriously than they would have taken an ordinary home movie. Edward J. Ruppelt, the early head of Project Blue Book, later described the Tremonton film as one of the best pieces of UFO photographic evidence available to the Air Force.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenberg The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">Tremonton Movie and the Montana Movie. These two bits of evidence represented the best photos of UFO&#x27;s that Project Blue Book had to offe...</span></span></span>
 
 ### He was considered a disciplined observer
 
 Military service also mattered culturally in the early 1950s. During the height of Cold War concern about unknown aircraft, a trained Navy warrant officer carried institutional credibility. The Air Force did not treat Newhouse as a fringe personality or attention-seeker.
 
-Even later sceptical analyses generally preserved that distinction. William K. Hartmann’s study for the Condon Report ultimately leaned towards the bird explanation, but Hartmann did not dismiss Newhouse as dishonest or incompetent. Instead, the report argued that difficult visual conditions may have produced a sincere misinterpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report, Case 49: Tremonton, Utah</span><span class="citation-popover-snippet">Movie FilmIn favor of the hypothesis that the Tremonton objects were birds, probably gulls, we have the following arguments: (1) White gu...</span></span></span>
+Even later sceptical analyses generally preserved that distinction. William K. Hartmann’s study for the Condon Report ultimately leaned towards the bird explanation, but Hartmann did not dismiss Newhouse as dishonest or incompetent. Instead, the report argued that difficult visual conditions may have produced a sincere misinterpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report, Case 49: Tremonton, Utah</span><span class="citation-popover-snippet">Movie FilmIn favor of the hypothesis that the Tremonton objects were birds, probably gulls, we have the following arguments: (1) White gu...</span></span></span>
 
 <img src="{{ "/assets/images/Tremonton_Utah_film_79b5ee_newhouse_witness_fil_76a157-Illustration-2-dark.svg" | relative_url }}" alt="Newhouse Film illustration 2" data-theme-src-dark="{{ "/assets/images/Tremonton_Utah_film_79b5ee_newhouse_witness_fil_76a157-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tremonton_Utah_film_79b5ee_newhouse_witness_fil_76a157-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### His experience raised the evidential stakes
@@ -313,9 +313,9 @@ That is one reason the Tremonton film remained historically important even after
 
 ## Why the film survived repeated sceptical review
 
-The Tremonton footage underwent several rounds of official and semi-official analysis. Early Air Force and Navy reviewers could not reach a firm identification. Some analysts argued that the objects’ changing brightness and apparent manoeuvres did not resemble aircraft. Others suspected birds but lacked decisive proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenberg The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">Tremonton Movie and the Montana Movie. These two bits of evidence represented the best photos of UFO&#x27;s that Project Blue Book had to offe...</span></span></span>
+The Tremonton footage underwent several rounds of official and semi-official analysis. Early Air Force and Navy reviewers could not reach a firm identification. Some analysts argued that the objects’ changing brightness and apparent manoeuvres did not resemble aircraft. Others suspected birds but lacked decisive proof.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenberg The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">Tremonton Movie and the Montana Movie. These two bits of evidence represented the best photos of UFO&#x27;s that Project Blue Book had to offe...</span></span></span>
 
-The later Condon Committee review by William Hartmann moved more strongly towards the bird hypothesis, especially white gulls reflecting sunlight. Hartmann argued that the apparent motions, brightness fluctuations and grouping behaviour were compatible with birds at moderate distance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report, Case 49: Tremonton, Utah</span><span class="citation-popover-snippet">Movie FilmIn favor of the hypothesis that the Tremonton objects were birds, probably gulls, we have the following arguments: (1) White gu...</span></span></span>
+The later Condon Committee review by William Hartmann moved more strongly towards the bird hypothesis, especially white gulls reflecting sunlight. Hartmann argued that the apparent motions, brightness fluctuations and grouping behaviour were compatible with birds at moderate distance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report, Case 49: Tremonton, Utah</span><span class="citation-popover-snippet">Movie FilmIn favor of the hypothesis that the Tremonton objects were birds, probably gulls, we have the following arguments: (1) White gu...</span></span></span>
 
 Yet the report stopped short of absolute certainty. That ambiguity helped preserve the case’s reputation among UFO researchers. Several features prevented a completely clean debunking:
 
@@ -338,7 +338,7 @@ What both sides often accepted, however, was that Newhouse himself remained a cr
 
 One of the most important lessons of the Tremonton case is that witness credibility and conclusion credibility are not the same thing.
 
-Newhouse’s reputation has held up comparatively well because there is little evidence that he fabricated the event, sought publicity aggressively or changed his story dramatically. His technical background, restrained reporting style and willingness to acknowledge uncertainty all strengthened his credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report, Case 49: Tremonton, Utah</span><span class="citation-popover-snippet">Movie FilmIn favor of the hypothesis that the Tremonton objects were birds, probably gulls, we have the following arguments: (1) White gu...</span></span></span>
+Newhouse’s reputation has held up comparatively well because there is little evidence that he fabricated the event, sought publicity aggressively or changed his story dramatically. His technical background, restrained reporting style and willingness to acknowledge uncertainty all strengthened his credibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report, Case 49: Tremonton, Utah</span><span class="citation-popover-snippet">Movie FilmIn favor of the hypothesis that the Tremonton objects were birds, probably gulls, we have the following arguments: (1) White gu...</span></span></span>
 
 But a credible witness can still misinterpret what they see.
 
@@ -360,162 +360,162 @@ The result is a case that remains historically significant less because of what 
 <img src="{{ "/assets/images/Tremonton_Utah_film_79b5ee_newhouse_witness_fil_76a157-Illustration-3-dark.svg" | relative_url }}" alt="Newhouse Film illustration 3" data-theme-src-dark="{{ "/assets/images/Tremonton_Utah_film_79b5ee_newhouse_witness_fil_76a157-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tremonton_Utah_film_79b5ee_newhouse_witness_fil_76a157-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Newhouse&#x27;s Film Was Taken Seriously. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Newhouse&#x27;s Film Was Taken Seriously. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Documents Ruppelt&#x27;s personal evaluation of Delbert C. Newhouse&#x27;s extensive military photography credentials and technical training logs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents Ruppelt&#x27;s personal evaluation of Delbert C. Newhouse&#x27;s extensive military photography credentials and technical training logs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
-        </h4>
-        <p class="fr-book-author">By Guy Lawson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+</h4>
+<p class="fr-book-author">By Guy Lawson</p>
         
-        <p class="fr-book-desc">Examines why the reputation of a trained Navy warrant officer ensures that ambiguous visual records face high-level defense audits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines why the reputation of a trained Navy warrant officer ensures that ambiguous visual records face high-level defense audits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Breaks down why separating an observer&#x27;s personal honesty from their technical sensory limitations is vital when reviewing historical ano...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Breaks down why separating an observer&#x27;s personal honesty from their technical sensory limitations is vital when reviewing historical ano...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Logan%27s+Run+by+William+F.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Logan&#x27;s Run on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Logan%27s+Run+by+William+F.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Logan&#x27;s Run">Logan&#x27;s Run</a>
-        </h4>
-        <p class="fr-book-author">By William F. Nolan, George Clayton Johnson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Logan%27s+Run+by+William+F.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Logan&#x27;s Run on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Logan%27s+Run+by+William+F.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Logan&#x27;s Run">Logan&#x27;s Run</a>
+</h4>
+<p class="fr-book-author">By William F. Nolan, George Clayton Johnson</p>
         
-        <p class="fr-book-desc">Analyzes the 75-second Bell &amp; Howell recording sequence, tracking exactly what Newhouse and his wife Norma observed at the roadside.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Logan%27s+Run+by+William+F.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Analyzes the 75-second Bell &amp; Howell recording sequence, tracking exactly what Newhouse and his wife Norma observed at the roadside.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Logan%27s+Run+by+William+F.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photography+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photography poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Poster, Retro 1970s Sci Fi Photography Print"><img src="{{ '/assets/images/marketplace-covers/22d63a21c04394d81fbf.jpg' | relative_url }}" alt="Listing image for Vintage UFO Poster, Retro 1970s Sci Fi Photography Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photography+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photography poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Poster, Retro 1970s Sci Fi Photography Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photography+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photography poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photography poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo photography poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photography+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photography poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photography+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photography poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Poster, Retro 1970s Sci Fi Photography Print"><img src="{{ '/assets/images/marketplace-covers/22d63a21c04394d81fbf.jpg' | relative_url }}" alt="Listing image for Vintage UFO Poster, Retro 1970s Sci Fi Photography Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photography+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photography poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Poster, Retro 1970s Sci Fi Photography Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photography+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photography poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photography poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo photography poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photography+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photography poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photography+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photography poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Poster, Retro 1970s Sci Fi Photography Print, Alien Spaceship Print"><img src="{{ '/assets/images/marketplace-covers/915c50f60ee954b17446.jpg' | relative_url }}" alt="Listing image for Vintage UFO Poster, Retro 1970s Sci Fi Photography Print, Alien Spaceship Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photography+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photography poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Poster, Retro 1970s Sci Fi Photography Print, Alien Spaceship Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photography+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photography poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photography poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo photography poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photography+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photography poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photography+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photography poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photography+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photography poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Poster, Retro 1970s Sci Fi Photography Print, Alien Spaceship Print"><img src="{{ '/assets/images/marketplace-covers/915c50f60ee954b17446.jpg' | relative_url }}" alt="Listing image for Vintage UFO Poster, Retro 1970s Sci Fi Photography Print, Alien Spaceship Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photography+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photography poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Poster, Retro 1970s Sci Fi Photography Print, Alien Spaceship Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photography+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photography poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photography poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo photography poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photography+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photography poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photography+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photography poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="newhouse-film-why-newhouse-s-film-was-taken-seriously-tremonton-utah-film-1952-ufo-photography-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -531,7 +531,7 @@ The result is a case that remains historically significant less because of what 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -551,7 +551,7 @@ The result is a case that remains historically significant less because of what 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -583,7 +583,7 @@ The result is a case that remains historically significant less because of what 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -635,7 +635,7 @@ The result is a case that remains historically significant less because of what 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -680,7 +680,7 @@ The result is a case that remains historically significant less because of what 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -721,97 +721,97 @@ The result is a case that remains historically significant less because of what 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: files.ncas.org  
    Title: Condon Report, Case 49: Tremonton, Utah  
-   Link: <a href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case49.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Movie FilmIn favor of the hypothesis that the Tremonton objects were birds, probably gulls, we have the following arguments: (1) White gu...</p></details>
+   Link:<a href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case49.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Movie FilmIn favor of the hypothesis that the Tremonton objects were birds, probably gulls, we have the following arguments: (1) White gu...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gutenberg.org  
    Title: Project Gutenberg The Report on Unidentified Flying Objects  
-   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tremonton Movie and the Montana Movie. These two bits of evidence represented the best photos of UFO&#x27;s that Project Blue Book had to offe...</p></details>
+   Link:<a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tremonton Movie and the Montana Movie. These two bits of evidence represented the best photos of UFO&#x27;s that Project Blue Book had to offe...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: delbert.com  
-   Link: <a href="https://www.delbert.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.delbert.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HOME | DelbertTexas blues and soul rocker Delbert McClinton released his most recent studio album Outdated Emotion, in 2022. The 16 song...</p></details>
+   Link:<a href="https://www.delbert.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.delbert.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HOME | DelbertTexas blues and soul rocker Delbert McClinton released his most recent studio album Outdated Emotion, in 2022. The 16 song...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifical...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifical...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Robertson Panel  
-   Link: <a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Robertson PanelThe CIA review itself was in response to widespread reports of unidentified flying objects, especially in the Washingto...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robertson PanelThe CIA review itself was in response to widespread reports of unidentified flying objects, especially in the Washingto...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Delbert" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Delbert</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DelbertDelbert is a given name. It is a short form of Adelbert, which is a combination of the German words adal, meaning noble, and be...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Delbert" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Delbert</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DelbertDelbert is a given name. It is a short form of Adelbert, which is a combination of the German words adal, meaning noble, and be...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/tremonton.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/tremonton.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Newhouse, at the time of his sighting, had been graduated from the naval photographic school, and was a veteran with...Read more...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/htm/tremonton.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/tremonton.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Newhouse, at the time of his sighting, had been graduated from the naval photographic school, and was a veteran with...Read more...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: delbertpharma.com  
-   Link: <a href="https://delbertpharma.com/our-vision/" target="_blank" rel="noopener noreferrer nofollow">https://delbertpharma.com/our-vision/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Delbert pharmaDelbert Pharma guarantees continuity of treatment in the fields of infectiology, pneumology, oncology, hematology and neuro...</p></details>
+   Link:<a href="https://delbertpharma.com/our-vision/" target="_blank" rel="noopener noreferrer nofollow">https://delbertpharma.com/our-vision/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Delbert pharmaDelbert Pharma guarantees continuity of treatment in the fields of infectiology, pneumology, oncology, hematology and neuro...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: jasoncolavito.com  
-   Link: <a href="https://www.jasoncolavito.com/report-on-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/report-on-ufos.html</a>  
+   Link:<a href="https://www.jasoncolavito.com/report-on-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/report-on-ufos.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/485787767/1952-07-7273984-Tremonton-Utah-1377-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/485787767/1952-07-7273984-Tremonton-Utah-1377-pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting Report: Tremonton, Utah | PDFIt describes an observation made by Delbert C. Newhouse on July 2, 1952 while driving 7 m...</p></details>
+   Link:<a href="https://www.scribd.com/document/485787767/1952-07-7273984-Tremonton-Utah-1377-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/485787767/1952-07-7273984-Tremonton-Utah-1377-pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting Report: Tremonton, Utah | PDFIt describes an observation made by Delbert C. Newhouse on July 2, 1952 while driving 7 m...</p></details>
    Published: July 2, 1952  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: screeningthepast.com  
-   Link: <a href="https://www.screeningthepast.com/issue-12-first-release/will-and-wilfulness-recent-commentary-on-hitchcocks%C2%A0the-birds/" target="_blank" rel="noopener noreferrer nofollow">https://www.screeningthepast.com/issue-12-first-release/will-and-wilfulness-recent-commentary-on-hitchcocks%C2%A0the-birds/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(Yes! After all, they are birds, and birds in this film symbolise the working of Will.) Are they more culpable of representing...Read more...</p></details>
+   Link:<a href="https://www.screeningthepast.com/issue-12-first-release/will-and-wilfulness-recent-commentary-on-hitchcocks%C2%A0the-birds/" target="_blank" rel="noopener noreferrer nofollow">https://www.screeningthepast.com/issue-12-first-release/will-and-wilfulness-recent-commentary-on-hitchcocks%C2%A0the-birds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Yes! After all, they are birds, and birds in this film symbolise the working of Will.) Are they more culpable of representing...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: the tremonton utah ufo color filmtremonton utah still frame1952 warrant officer  
-   Link: <a href="https://www.facebook.com/61570593867169/posts/the-tremonton-utah-ufo-color-filmtremonton-utah-still-frame1952-warrant-officer-/122152663310686462/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61570593867169/posts/the-tremonton-utah-ufo-color-filmtremonton-utah-still-frame1952-warrant-officer-/122152663310686462/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tremonton, Utah UFO Color Film...11 Sept 2025 — The hypothesis that the objects were out of focus sea gulls was considered by the Ai...</p></details>
+   Link:<a href="https://www.facebook.com/61570593867169/posts/the-tremonton-utah-ufo-color-filmtremonton-utah-still-frame1952-warrant-officer-/122152663310686462/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61570593867169/posts/the-tremonton-utah-ufo-color-filmtremonton-utah-still-frame1952-warrant-officer-/122152663310686462/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Tremonton, Utah UFO Color Film...11 Sept 2025 — The hypothesis that the objects were out of focus sea gulls was considered by the Ai...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: in 1952 these historic ufo images were captured theproofisoutthere  
-   Link: <a href="https://www.facebook.com/TheUnXplainedZone/posts/in-1952-these-historic-ufo-images-were-captured-theproofisoutthere/1112363341093097/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/posts/in-1952-these-historic-ufo-images-were-captured-theproofisoutthere/1112363341093097/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tremonton, Utah by Delbert C. Newhouse, Chief Photographer, a Commissioned Warrant Officer in the U.S. Navy at the time, recorded this pi...</p></details>
+   Link:<a href="https://www.facebook.com/TheUnXplainedZone/posts/in-1952-these-historic-ufo-images-were-captured-theproofisoutthere/1112363341093097/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/posts/in-1952-these-historic-ufo-images-were-captured-theproofisoutthere/1112363341093097/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tremonton, Utah by Delbert C. Newhouse, Chief Photographer, a Commissioned Warrant Officer in the U.S. Navy at the time, recorded this pi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: IMO one of the most compelling pieces of UFO footage out there.Read more  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/156xtzs/i_inverted_and_stabilized_a_clip_of_delbert/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/156xtzs/i_inverted_and_stabilized_a_clip_of_delbert/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I inverted and stabilized a clip of Delbert Newhouse&#x27;s UFO...I inverted and stabilized a clip of Delbert Newhouse&#x27;s UFO footage in Tremo...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/156xtzs/i_inverted_and_stabilized_a_clip_of_delbert/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/156xtzs/i_inverted_and_stabilized_a_clip_of_delbert/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I inverted and stabilized a clip of Delbert Newhouse&#x27;s UFO...I inverted and stabilized a clip of Delbert Newhouse&#x27;s UFO footage in Tremo...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
    Title: U S Navy Warrant Officer Delbert C. Newhouse  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/18kt1c4/us_navy_warrant_officer_delbert_c_newhouse_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18kt1c4/us_navy_warrant_officer_delbert_c_newhouse_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Navy Warrant Officer Delbert C. Newhouse - UFO footageOn page 23 under the title, &quot;Discs Filmed By Navy Officer&quot;, they speak about an...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/18kt1c4/us_navy_warrant_officer_delbert_c_newhouse_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18kt1c4/us_navy_warrant_officer_delbert_c_newhouse_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Navy Warrant Officer Delbert C. Newhouse - UFO footageOn page 23 under the title, &quot;Discs Filmed By Navy Officer&quot;, they speak about an...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of aerial photography mis¬ sions under his belt, was...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of aerial photography mis¬ sions under his belt, was...Read more...</p></details>

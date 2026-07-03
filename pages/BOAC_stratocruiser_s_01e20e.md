@@ -758,79 +758,79 @@ image: /assets/images/BOAC_stratocruiser_s_01e20e-overview-social.jpg
 
 ## Introduction
 
-The case matters because it sits at the intersection of strong witness credibility and weak physical evidence. The [witnesses]({{ 'witnesses-eac7bf/' | relative_url }}) were not casual observers; they were an airline crew at work in clear conditions, and Howard’s own voyage report was written soon after the event. Yet there was no confirmed radar track of the objects, no photograph, no recovered material, and no official identification. The strongest modern sceptical line is not that the crew invented the event, but that a rare atmospheric mirage, possibly involving distant cloud formations near sunset, may have produced an extraordinary but natural illusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[2files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</span></span></span>
+The case matters because it sits at the intersection of strong witness credibility and weak physical evidence. The [witnesses]({{ 'witnesses-eac7bf/' | relative_url }}) were not casual observers; they were an airline crew at work in clear conditions, and Howard’s own voyage report was written soon after the event. Yet there was no confirmed radar track of the objects, no photograph, no recovered material, and no official identification. The strongest modern sceptical line is not that the crew invented the event, but that a rare atmospheric mirage, possibly involving distant cloud formations near sunset, may have produced an extraordinary but natural illusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[2files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</span></span></span>
 
 <img src="{{ "/assets/images/BOAC_stratocruiser_s_01e20e-overview.webp" | relative_url }}" alt="Overview image for BOAC stratocruiser sighting 1954" loading="eager" decoding="sync" fetchpriority="high">
 ## What happened on the BOAC flight?
 
-BOAC Flight 510-196 left New York’s Idlewild Airport on 29 June 1954, bound for London, with a planned refuelling stop at Goose Bay because conditions did not favour a non-stop crossing. Later accounts identify the aircraft as Boeing 377-10-28 G-ALSC, RMA *Centaurus*, operated by British Overseas Airways Corporation. Martin Shough’s detailed 2009 study gives the departure as 17:03 local time, or 21:03 GMT, with 51 passengers aboard. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
+BOAC Flight 510-196 left New York’s Idlewild Airport on 29 June 1954, bound for London, with a planned refuelling stop at Goose Bay because conditions did not favour a non-stop crossing. Later accounts identify the aircraft as Boeing 377-10-28 G-ALSC, RMA *Centaurus*, operated by British Overseas Airways Corporation. Martin Shough’s detailed 2009 study gives the departure as 17:03 local time, or 21:03 GMT, with 51 passengers aboard.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
 
-The sighting began after the aircraft had crossed the St Lawrence area and was en route towards Goose Bay. In Howard’s later first-person account, he placed the start at about 9.05 p.m. Labrador time, roughly 20 minutes’ flying time north-east of Seven Islands. The aircraft was cruising at about 19,000 feet in clear upper air, with low cloud below and the sun setting to the left of the aircraft. Howard first described the object as a dark “blob” with smaller dark objects around it, then as something like an inverted pear, later seeming to change into other shapes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
+The sighting began after the aircraft had crossed the St Lawrence area and was en route towards Goose Bay. In Howard’s later first-person account, he placed the start at about 9.05 p.m. Labrador time, roughly 20 minutes’ flying time north-east of Seven Islands. The aircraft was cruising at about 19,000 feet in clear upper air, with low cloud below and the sun setting to the left of the aircraft. Howard first described the object as a dark “blob” with smaller dark objects around it, then as something like an inverted pear, later seeming to change into other shapes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
 
-The most important near-contemporary document is Howard’s voyage report, completed during the onward leg from Goose Bay to London. In that report he placed the sighting at 01:05 GMT on 30 June, about 150 nautical miles south-west of Goose Bay. He wrote that the objects appeared on the port beam, at approximately the same altitude as the aircraft, and seemed to keep station with it. He also recorded that First Officer Lee Boyd, both engineers, both navigators, the radio officer, two stewards and the stewardess watched the objects, and that “usually six” smaller objects were visible with the large one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
+The most important near-contemporary document is Howard’s voyage report, completed during the onward leg from Goose Bay to London. In that report he placed the sighting at 01:05 GMT on 30 June, about 150 nautical miles south-west of Goose Bay. He wrote that the objects appeared on the port beam, at approximately the same altitude as the aircraft, and seemed to keep station with it. He also recorded that First Officer Lee Boyd, both engineers, both navigators, the radio officer, two stewards and the stewardess watched the objects, and that “usually six” smaller objects were visible with the large one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
 
-The sequence ended as an interceptor approached. Goose Bay was contacted, a fighter was sent to investigate, and Howard later reported that the smaller objects seemed to enter the larger one before the main object shrank and disappeared. The crew landed at Goose Bay at about 01:45 GMT and were met by a US Air Force intelligence officer. Howard’s voyage report says Fighter Control had the BOAC aircraft on radar but “nothing else” on the screen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
+The sequence ended as an interceptor approached. Goose Bay was contacted, a fighter was sent to investigate, and Howard later reported that the smaller objects seemed to enter the larger one before the main object shrank and disappeared. The crew landed at Goose Bay at about 01:45 GMT and were met by a US Air Force intelligence officer. Howard’s voyage report says Fighter Control had the BOAC aircraft on radar but “nothing else” on the screen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
 
 <img src="{{ "/assets/images/BOAC_stratocruiser_s_01e20e-Illustration-1-dark.svg" | relative_url }}" alt="BOAC stratocruiser sighting 1954 illustration 1" data-theme-src-dark="{{ "/assets/images/BOAC_stratocruiser_s_01e20e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/BOAC_stratocruiser_s_01e20e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the witnesses are taken seriously
 
-The case is unusually strong as a witness case because the primary observers were trained aviation professionals, not a single startled ground witness. Howard was a former RAF Squadron Leader and an experienced BOAC captain. Shough’s review describes him as 33 years old, with about 7,500 flying hours and 256 Atlantic crossings at the time of the sighting; the same review says the standing of Howard and the other witnesses “has never been called in question”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
+The case is unusually strong as a witness case because the primary observers were trained aviation professionals, not a single startled ground witness. Howard was a former RAF Squadron Leader and an experienced BOAC captain. Shough’s review describes him as 33 years old, with about 7,500 flying hours and 256 Atlantic crossings at the time of the sighting; the same review says the standing of Howard and the other witnesses “has never been called in question”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
 
-Corroboration also came from within the aircraft. Howard did not report a fleeting light glimpsed through a window; he and other crew members watched an extended display. His voyage report names multiple categories of crew witnesses, and later accounts add that some passengers on the port side also saw the objects. That breadth of observation does not prove that the objects were extraordinary craft, but it does reduce the likelihood of a simple private mistake by one person. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/boac.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">BOA C Case: UFOS Follow British Airliner Over Labrador</span><span class="citation-popover-snippet">BOA C Case: UFOS Follow British Airliner Over Labrador</span></span></span>
+Corroboration also came from within the aircraft. Howard did not report a fleeting light glimpsed through a window; he and other crew members watched an extended display. His voyage report names multiple categories of crew witnesses, and later accounts add that some passengers on the port side also saw the objects. That breadth of observation does not prove that the objects were extraordinary craft, but it does reduce the likelihood of a simple private mistake by one person.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/boac.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">BOA C Case: UFOS Follow British Airliner Over Labrador</span><span class="citation-popover-snippet">BOA C Case: UFOS Follow British Airliner Over Labrador</span></span></span>
 
-The witness descriptions were also fairly consistent in their core features: dark silhouettes, no lights, no flames, no vapour trails, a large changing form, six smaller attendant objects, and an apparent pacing of the Stratocruiser. Howard’s 1967 University of Colorado sighting form again described “one large object and six small”, all opaque and sharp-edged, with the small objects globular and the large one continually changing shape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
+The witness descriptions were also fairly consistent in their core features: dark silhouettes, no lights, no flames, no vapour trails, a large changing form, six smaller attendant objects, and an apparent pacing of the Stratocruiser. Howard’s 1967 University of Colorado sighting form again described “one large object and six small”, all opaque and sharp-edged, with the small objects globular and the large one continually changing shape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
 
-The credibility issue cuts both ways. Good witnesses make the report worth studying, but professional expertise does not remove all perceptual traps. Airline pilots are trained to recognise aircraft, weather and navigational hazards, not necessarily rare optical effects viewed at sunset through atmospheric layers. The case’s enduring tension is that competent observers described something highly strange, while the physical record remains too thin to confirm that the strangeness belonged to an actual structured object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</span></span></span>
+The credibility issue cuts both ways. Good witnesses make the report worth studying, but professional expertise does not remove all perceptual traps. Airline pilots are trained to recognise aircraft, weather and navigational hazards, not necessarily rare optical effects viewed at sunset through atmospheric layers. The case’s enduring tension is that competent observers described something highly strange, while the physical record remains too thin to confirm that the strangeness belonged to an actual structured object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S96RPhlknj0" title="Captain James R. Howard on witnessing 7 UFOs during a flight over the Atlantic Ocean, 1954 #uap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S96RPhlknj0" target="_blank" rel="noopener noreferrer">Captain James R. Howard on witnessing 7 UFOs during a flight over the Atlantic Ocean, 1954 #uap</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 64.3K &middot; Uploaded: July 2022 &middot; Length: 3 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S96RPhlknj0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S96RPhlknj0">Open on YouTube</a></p></div></div></div>
 
 ## What evidence exists beyond testimony?
 
-The documentary record is stronger than many UFO cases but weaker than a decisive investigation would require. The best anchors are Howard’s voyage report, his later first-person account, the University of Colorado sighting material, press coverage, and later technical analysis. The case was publicised quickly after the flight, and Howard was filmed for BBC and cinema newsreels, helping to make it a well-known British UFO story within days. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
+The documentary record is stronger than many UFO cases but weaker than a decisive investigation would require. The best anchors are Howard’s voyage report, his later first-person account, the University of Colorado sighting material, press coverage, and later technical analysis. The case was publicised quickly after the flight, and Howard was filmed for BBC and cinema newsreels, helping to make it a well-known British UFO story within days.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
 
-There was, however, no confirmed radar evidence of the unknown objects. This point is crucial because the case is sometimes repeated as a radar-visual incident. The Condon Report’s optical and radar analysis explicitly categorised the Labrador case as “primarily visual” and stated that “no radar contact was made in this incident”. Howard’s own voyage report also says Fighter Control had the Stratocruiser on radar but did not have anything else on the screen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</span></span></span>
+There was, however, no confirmed radar evidence of the unknown objects. This point is crucial because the case is sometimes repeated as a radar-visual incident. The Condon Report’s optical and radar analysis explicitly categorised the Labrador case as “primarily visual” and stated that “no radar contact was made in this incident”. Howard’s own voyage report also says Fighter Control had the Stratocruiser on radar but did not have anything else on the screen.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</span></span></span>
 
-The fighter interception adds drama but not confirmation. Howard recalled being told that a fighter had the BOAC aircraft in radar contact and was closing head-on; this means the fighter had the airliner, not necessarily the objects. Howard also said he did not know whether the fighter saw anything, because the BOAC crew left Goose Bay before the fighter returned. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</span></span></span>
+The fighter interception adds drama but not confirmation. Howard recalled being told that a fighter had the BOAC aircraft in radar contact and was closing head-on; this means the fighter had the airliner, not necessarily the objects. Howard also said he did not know whether the fighter saw anything, because the BOAC crew left Goose Bay before the fighter returned.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</span></span></span>
 
-The sketches are useful but limited. Howard drew the changing configuration in his logbook, and later reproductions show the large central form shifting shape while smaller objects appear around it. Sketches can preserve the witness’s impression, but they are not measurements; the apparent size, distance and altitude of featureless objects against a bright sky are especially vulnerable to error. Shough’s analysis used the drawings to estimate angular size, but treated those estimates as approximate rather than definitive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
+The sketches are useful but limited. Howard drew the changing configuration in his logbook, and later reproductions show the large central form shifting shape while smaller objects appear around it. Sketches can preserve the witness’s impression, but they are not measurements; the apparent size, distance and altitude of featureless objects against a bright sky are especially vulnerable to error. Shough’s analysis used the drawings to estimate angular size, but treated those estimates as approximate rather than definitive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
 
 <img src="{{ "/assets/images/BOAC_stratocruiser_s_01e20e-Illustration-2-dark.svg" | relative_url }}" alt="BOAC stratocruiser sighting 1954 illustration 2" data-theme-src-dark="{{ "/assets/images/BOAC_stratocruiser_s_01e20e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/BOAC_stratocruiser_s_01e20e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official and technical interpretations
 
-The University of Colorado UFO Project, usually known through the 1968 Condon Report, did not dismiss the BOAC sighting as a hoax or a trivial misidentification. Its analysis described the object as a dark, opaque, “jellyfish-like” form that changed shape and noted that the description was suggestive of an optical cause. The report said there was too little meteorological data to confirm or rule out the relevant optical propagation mechanisms, but it listed several facts favouring a mirage hypothesis: the objects stayed near the aircraft’s horizontal plane, the aircraft held a steady 19,000-foot altitude, and the image was seen near the setting sun against a bright sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</span></span></span>
+The University of Colorado UFO Project, usually known through the 1968 Condon Report, did not dismiss the BOAC sighting as a hoax or a trivial misidentification. Its analysis described the object as a dark, opaque, “jellyfish-like” form that changed shape and noted that the description was suggestive of an optical cause. The report said there was too little meteorological data to confirm or rule out the relevant optical propagation mechanisms, but it listed several facts favouring a mirage hypothesis: the objects stayed near the aircraft’s horizontal plane, the aircraft held a steady 19,000-foot altitude, and the image was seen near the setting sun against a bright sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</span></span></span>
 
-The Condon analysis proposed a superior mirage: a dark reflected image, perhaps of terrain below, seen against the bright sky through a thin temperature inversion just above cruising altitude. It argued that the apparent dwindling and disappearance could fit a mirage layer weakening or the viewing geometry changing. Yet the same discussion admitted a major difficulty: the mirage would need to remain directionally limited and stable over roughly 85 nautical miles, which the report called “quite unusual”. Its final classification was cautious: “some almost certainly natural phenomenon” so rare that it had apparently not been reported before or since. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</span></span></span>
+The Condon analysis proposed a superior mirage: a dark reflected image, perhaps of terrain below, seen against the bright sky through a thin temperature inversion just above cruising altitude. It argued that the apparent dwindling and disappearance could fit a mirage layer weakening or the viewing geometry changing. Yet the same discussion admitted a major difficulty: the mirage would need to remain directionally limited and stable over roughly 85 nautical miles, which the report called “quite unusual”. Its final classification was cautious: “some almost certainly natural phenomenon” so rare that it had apparently not been reported before or since.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</span></span></span>
 
-Later research refined the natural-explanation side of the debate. Shough’s 2009 study, associated with NARCAP and Caelestia, considered spaceships, birds, balloons and mirage explanations, and concluded that the most likely explanation was an unusual mirage, while stressing that the evidence was not conclusive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caelestia.be/BOAC.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caelestia.be">[caelestia.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caelestia.be</span><span class="citation-popover-title">CAELESTI A The BOAC Labrador sighting</span><span class="citation-popover-snippet">CAELESTI A The BOAC Labrador sighting</span></span></span>
+Later research refined the natural-explanation side of the debate. Shough’s 2009 study, associated with NARCAP and Caelestia, considered spaceships, birds, balloons and mirage explanations, and concluded that the most likely explanation was an unusual mirage, while stressing that the evidence was not conclusive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caelestia.be/BOAC.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caelestia.be">[caelestia.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caelestia.be</span><span class="citation-popover-title">CAELESTI A The BOAC Labrador sighting</span><span class="citation-popover-snippet">CAELESTI A The BOAC Labrador sighting</span></span></span>
 
-That later mirage model shifted attention from reflected terrain to distant high clouds. Shough argued that a high-level duct near the aircraft’s altitude could, under special sunset conditions, preserve strong contrast from distant cloud tops and make them appear as dark, sharp-edged shapes near the horizon. The weather reconstruction matters here: June 1954 featured an unusual continental anticyclone, and Shough’s discussion cites high pressure over Labrador, warm conditions, and the possibility of stable atmospheric layers favourable to unusual refraction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
+That later mirage model shifted attention from reflected terrain to distant high clouds. Shough argued that a high-level duct near the aircraft’s altitude could, under special sunset conditions, preserve strong contrast from distant cloud tops and make them appear as dark, sharp-edged shapes near the horizon. The weather reconstruction matters here: June 1954 featured an unusual continental anticyclone, and Shough’s discussion cites high pressure over Labrador, warm conditions, and the possibility of stable atmospheric layers favourable to unusual refraction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
 
-The broader meteorological background is not invented for the UFO case. Joshua Z. Holland’s 1954 *Monthly Weather Review* article was explicitly about the weather and circulation of June 1954 and the birth and growth of a continental anticyclone, giving independent support to the idea that the month had unusual large-scale atmospheric conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.ametsoc.org/view/journals/mwre/82/6/1520-0493_1954_082_0163_twacoj_2_0_co_2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[American Meteorological Society Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-title">1520 0493 1954 082 0163 twacoj 2 0 co 2</span><span class="citation-popover-snippet">1520 0493 1954 082 0163 twacoj 2 0 co 2</span></span></span>
+The broader meteorological background is not invented for the UFO case. Joshua Z. Holland’s 1954 *Monthly Weather Review* article was explicitly about the weather and circulation of June 1954 and the birth and growth of a continental anticyclone, giving independent support to the idea that the month had unusual large-scale atmospheric conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.ametsoc.org/view/journals/mwre/82/6/1520-0493_1954_082_0163_twacoj_2_0_co_2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[American Meteorological Society Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-title">1520 0493 1954 082 0163 twacoj 2 0 co 2</span><span class="citation-popover-snippet">1520 0493 1954 082 0163 twacoj 2 0 co 2</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DpGgv1xuY6M" title="1954-06-30: BOAC Captain James Howard Sketches Sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DpGgv1xuY6M" target="_blank" rel="noopener noreferrer">1954-06-30: BOAC Captain James Howard Sketches Sighting</a></p><p class="youtube-embed-meta">Channel: Tom Owens UAP &middot; Views: 326 &middot; Uploaded: June 2020 &middot; Length: 3 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DpGgv1xuY6M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DpGgv1xuY6M">Open on YouTube</a></p></div></div></div>
 
 ## Why simple explanations struggle
 
-Some proposed explanations are weaker than they first appear. Birds can explain a dark, shape-changing mass, especially when silhouetted against a sunset; even Howard compared the large object’s changing shape to a swarm-like effect. Caelestia’s discussion notes that starling flocks and other bird swarms can form smooth, dark, changing shapes in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caelestia.be/BOAC4-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caelestia.be">[caelestia.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caelestia.be</span><span class="citation-popover-title">CAELESTI A The BOAC Labrador sighting</span><span class="citation-popover-snippet">CAELESTI A The BOAC Labrador sighting</span></span></span>
+Some proposed explanations are weaker than they first appear. Birds can explain a dark, shape-changing mass, especially when silhouetted against a sunset; even Howard compared the large object’s changing shape to a swarm-like effect. Caelestia’s discussion notes that starling flocks and other bird swarms can form smooth, dark, changing shapes in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caelestia.be/BOAC4-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caelestia.be">[caelestia.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caelestia.be</span><span class="citation-popover-title">CAELESTI A The BOAC Labrador sighting</span><span class="citation-popover-snippet">CAELESTI A The BOAC Labrador sighting</span></span></span>
 
-The difficulty is speed, altitude and continuity. The Stratocruiser was moving at roughly 230 knots, and Howard said the objects kept station for about 18 minutes, corresponding to around 80 miles. A normal bird flock would fall rapidly behind unless extreme winds or a sequence of replacement flocks created an illusion of continuity. Shough’s analysis argues that such a scenario would require implausibly large numbers of birds and repeated unnoticed transitions, and that late June is also a poor fit for a massive migration explanation in that region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
+The difficulty is speed, altitude and continuity. The Stratocruiser was moving at roughly 230 knots, and Howard said the objects kept station for about 18 minutes, corresponding to around 80 miles. A normal bird flock would fall rapidly behind unless extreme winds or a sequence of replacement flocks created an illusion of continuity. Shough’s analysis argues that such a scenario would require implausibly large numbers of birds and repeated unnoticed transitions, and that late June is also a poor fit for a massive migration explanation in that region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
 
-Balloons face similar problems. A high-altitude balloon could be dark against a bright sky and might change apparent shape, but the reported formation of one large object with six smaller objects, the apparent pacing, and the disappearance as the fighter approached do not fit neatly. The known later Project Genetrix balloon material discussed in Shough’s appendix relates to launches after the BOAC case period, not a straightforward identification for 29–30 June 1954. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
+Balloons face similar problems. A high-altitude balloon could be dark against a bright sky and might change apparent shape, but the reported formation of one large object with six smaller objects, the apparent pacing, and the disappearance as the fighter approached do not fit neatly. The known later Project Genetrix balloon material discussed in Shough’s appendix relates to launches after the BOAC case period, not a straightforward identification for 29–30 June 1954.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
 
-Ships, distant landforms or conventional aircraft also struggle unless combined with mirage. Shough considered whether ships could be miraged from a great distance, but argued that the angular size of even a carrier at hundreds of miles would be too small without an implausible “telescopic” mirage effect. Conventional aircraft do not match the reported dark, non-luminous, shape-changing main object with six smaller attendants and no lights or trails. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
+Ships, distant landforms or conventional aircraft also struggle unless combined with mirage. Shough considered whether ships could be miraged from a great distance, but argued that the angular size of even a carrier at hundreds of miles would be too small without an implausible “telescopic” mirage effect. Conventional aircraft do not match the reported dark, non-luminous, shape-changing main object with six smaller attendants and no lights or trails.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
 
-This is why the best sceptical explanation is not a simple “they saw birds” or “they saw another aircraft”. It is a compound atmospheric explanation: unusual viewing geometry, sunset contrast, stable high-level layers, possible distant cloud structures, and human interpretation of a rare optical display as nearby objects. That explanation is plausible enough to be taken seriously, but it remains inferential because the exact atmospheric profile and the exact distant target were not recorded at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</span></span></span>
+This is why the best sceptical explanation is not a simple “they saw birds” or “they saw another aircraft”. It is a compound atmospheric explanation: unusual viewing geometry, sunset contrast, stable high-level layers, possible distant cloud structures, and human interpretation of a rare optical display as nearby objects. That explanation is plausible enough to be taken seriously, but it remains inferential because the exact atmospheric profile and the exact distant target were not recorded at the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</span></span></span>
 
 <img src="{{ "/assets/images/BOAC_stratocruiser_s_01e20e-Illustration-3-dark.svg" | relative_url }}" alt="BOAC stratocruiser sighting 1954 illustration 3" data-theme-src-dark="{{ "/assets/images/BOAC_stratocruiser_s_01e20e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/BOAC_stratocruiser_s_01e20e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What remains unresolved?
 
 The case remains unresolved in the strict historical sense: no physical object was identified, no radar track confirmed the objects, and no single natural explanation has been proven. The most careful conclusion is that the witnesses almost certainly saw something real in the visual field, but the evidence does not establish that they saw structured craft flying in formation beside the aircraft.
 
-The strongest pro-UFO points are the quality of the witnesses, the duration, the multiple observers, the apparent station-keeping, and the specific behaviour of the smaller objects relative to the larger one. Howard’s reports were detailed and consistent on the main elements, and his immediate voyage report is especially valuable because it was written before decades of retelling could reshape the story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
+The strongest pro-UFO points are the quality of the witnesses, the duration, the multiple observers, the apparent station-keeping, and the specific behaviour of the smaller objects relative to the larger one. Howard’s reports were detailed and consistent on the main elements, and his immediate voyage report is especially valuable because it was written before decades of retelling could reshape the story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
 
-The strongest sceptical points are the lack of confirmed radar contact, the near-horizon and near-sunset geometry, the shape-changing dark silhouette, and the fact that rare optical effects are known to produce surprising distortions. The Condon Report and later Shough/Caelestia work both found mirage-like explanations more promising than spacecraft, birds, balloons or conventional aircraft, while acknowledging gaps. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[2files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</span></span></span>
+The strongest sceptical points are the lack of confirmed radar contact, the near-horizon and near-sunset geometry, the shape-changing dark silhouette, and the fact that rare optical effects are known to produce surprising distortions. The Condon Report and later Shough/Caelestia work both found mirage-like explanations more promising than spacecraft, birds, balloons or conventional aircraft, while acknowledging gaps.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[2files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</span></span></span>
 
-The most common overstatement is to call the BOAC case “radar confirmed”. The available record does not support that. It is better described as a multiple-witness airline sighting with a fighter scramble and radar involvement around the airliner, but no confirmed radar return from the unknown objects themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</span></span></span>
+The most common overstatement is to call the BOAC case “radar confirmed”. The available record does not support that. It is better described as a multiple-witness airline sighting with a fighter scramble and radar involvement around the airliner, but no confirmed radar return from the unknown objects themselves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/18Odviuj69I" title="1954: Cap. James Howard sketched a UFO he and his crew had observed from their BOAC Stratocruiser" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=18Odviuj69I" target="_blank" rel="noopener noreferrer">1954: Cap. James Howard sketched a UFO he and his crew had observed from their BOAC Stratocruiser</a></p><p class="youtube-embed-meta">Channel: UFOSFACTS - The Truth Exposed &middot; Views: 654 &middot; Uploaded: June 2021 &middot; Length: 2 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=18Odviuj69I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=18Odviuj69I">Open on YouTube</a></p></div></div></div>
 
@@ -841,178 +841,178 @@ The BOAC Stratocruiser sighting is a strong testimony case but not a strong phys
 The most balanced reading is that the crew of RMA *Centaurus* probably saw an unusual real visual phenomenon over Labrador on 29–30 June 1954. Whether that phenomenon was a rare mirage of distant clouds, some other atmospheric effect, or an unknown aerial object cannot be settled from the surviving evidence. The case’s value today is less as proof of extraterrestrial craft and more as a revealing example of how difficult a well-witnessed aviation UFO report can be: credible observers, vivid detail, genuine official interest, and still no decisive answer.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did the BOAC Crew Really See?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did the BOAC Crew Really See?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
-        </h4>
-        <p class="fr-book-author">By Guy Lawson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+</h4>
+<p class="fr-book-author">By Guy Lawson</p>
         
-        <p class="fr-book-desc">Contains documented flight records and witness analysis of Captain James R. Howard&#x27;s 18-minute aerial light observation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains documented flight records and witness analysis of Captain James R. Howard&#x27;s 18-minute aerial light observation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides an objective encyclopedic history of the Goose Bay sightings, detailing the flight crew, air traffic control, and intercept repo...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides an objective encyclopedic history of the Goose Bay sightings, detailing the flight crew, air traffic control, and intercept repo...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Reviews the historical record of the 1954 sighting, contextualizing how trained flight crew reports challenge conventional explanation bo...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reviews the historical record of the 1954 sighting, contextualizing how trained flight crew reports challenge conventional explanation bo...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Provides structural methodologies for assessing atmospheric mirages, temperature inversions, and visual tracking errors in high-latitude...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides structural methodologies for assessing atmospheric mirages, temperature inversions, and visual tracking errors in high-latitude...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boeing 377-SGT Super Guppy Airbus Skylink F-BPPA Desk Model 1/100 AV Airplane"><img src="{{ '/assets/images/marketplace-covers/1bd4677ea33ea333b517.jpg' | relative_url }}" alt="Listing image for Boeing 377-SGT Super Guppy Airbus Skylink F-BPPA Desk Model 1/100 AV Airplane" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer">Boeing 377-SGT Super Guppy Airbus Skylink F-BPPA Desk Model 1/100 AV Airplane</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Boeing 377 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Boeing 377 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boeing 377-SGT Super Guppy Airbus Skylink F-BPPA Desk Model 1/100 AV Airplane"><img src="{{ '/assets/images/marketplace-covers/1bd4677ea33ea333b517.jpg' | relative_url }}" alt="Listing image for Boeing 377-SGT Super Guppy Airbus Skylink F-BPPA Desk Model 1/100 AV Airplane" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer">Boeing 377-SGT Super Guppy Airbus Skylink F-BPPA Desk Model 1/100 AV Airplane</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Boeing 377 model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Boeing 377 model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dragon Wings 1:400 Boeing 377 Stratocruiser Northwest"><img src="{{ '/assets/images/marketplace-covers/d9d1ec04ce5d3ffb2259.jpg' | relative_url }}" alt="Listing image for Dragon Wings 1:400 Boeing 377 Stratocruiser Northwest" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer">Dragon Wings 1:400 Boeing 377 Stratocruiser Northwest</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Boeing 377 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Boeing 377 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dragon Wings 1:400 Boeing 377 Stratocruiser Northwest"><img src="{{ '/assets/images/marketplace-covers/d9d1ec04ce5d3ffb2259.jpg' | relative_url }}" alt="Listing image for Dragon Wings 1:400 Boeing 377 Stratocruiser Northwest" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer">Dragon Wings 1:400 Boeing 377 Stratocruiser Northwest</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Boeing 377 model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Boeing 377 model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Ray / Hobby Dax United Airlines Boeing Stratocruiser 377 Model Kit New"><img src="{{ '/assets/images/marketplace-covers/cebff4714260ae3b9d54.jpg' | relative_url }}" alt="Listing image for New Ray / Hobby Dax United Airlines Boeing Stratocruiser 377 Model Kit New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer">New Ray / Hobby Dax United Airlines Boeing Stratocruiser 377 Model Kit New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Boeing 377 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Boeing 377 model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Ray / Hobby Dax United Airlines Boeing Stratocruiser 377 Model Kit New"><img src="{{ '/assets/images/marketplace-covers/cebff4714260ae3b9d54.jpg' | relative_url }}" alt="Listing image for New Ray / Hobby Dax United Airlines Boeing Stratocruiser 377 Model Kit New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer">New Ray / Hobby Dax United Airlines Boeing Stratocruiser 377 Model Kit New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Boeing 377 model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Boeing 377 model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="boac-stratocruiser-sighting-1954-what-did-the-boac-crew-really-see-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1028,7 +1028,7 @@ The most balanced reading is that the crew of RMA *Centaurus* probably saw an un
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1048,7 +1048,7 @@ The most balanced reading is that the crew of RMA *Centaurus* probably saw an un
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1080,7 +1080,7 @@ The most balanced reading is that the crew of RMA *Centaurus* probably saw an un
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1132,7 +1132,7 @@ The most balanced reading is that the crew of RMA *Centaurus* probably saw an un
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1177,7 +1177,7 @@ The most balanced reading is that the crew of RMA *Centaurus* probably saw an un
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1218,131 +1218,131 @@ The most balanced reading is that the crew of RMA *Centaurus* probably saw an un
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland</a>  
+   Link:<a href="https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: files.ncas.org  
-   Link: <a href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s3chap05.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</p></details>
+   Link:<a href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s3chap05.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nicap.org  
    Title: BOA C Case: UFOS Follow British Airliner Over Labrador  
-   Link: <a href="https://www.nicap.org/reports/boac.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/boac.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/boac.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/boac.htm</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: caelestia.be  
    Title: CAELESTI A The BOAC Labrador sighting  
-   Link: <a href="https://www.caelestia.be/BOAC.html" target="_blank" rel="noopener noreferrer nofollow">https://www.caelestia.be/BOAC.html</a>  
+   Link:<a href="https://www.caelestia.be/BOAC.html" target="_blank" rel="noopener noreferrer nofollow">https://www.caelestia.be/BOAC.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: caelestia.be  
    Title: CAELESTI A The BOAC Labrador sighting  
-   Link: <a href="https://www.caelestia.be/BOAC4-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.caelestia.be/BOAC4-1.html</a>  
+   Link:<a href="https://www.caelestia.be/BOAC4-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.caelestia.be/BOAC4-1.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nicap.org  
    Title: UFO Evidence 1964  
-   Link: <a href="https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf</a>  
+   Link:<a href="https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/ufoe/section_10.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufoe/section_10.htm</a>  
+   Link:<a href="https://www.nicap.org/ufoe/section_10.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufoe/section_10.htm</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nicap.org  
    Title: flying saucer conspiracy  
-   Link: <a href="https://www.nicap.org/books/fsc/flying-saucer-conspiracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/books/fsc/flying-saucer-conspiracy.pdf</a>  
+   Link:<a href="https://www.nicap.org/books/fsc/flying-saucer-conspiracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/books/fsc/flying-saucer-conspiracy.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nicap.org  
    Title: 1968 UFO Symposium  
-   Link: <a href="https://nicap.org/books/1968Sym/1968_UFO_Symposium.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nicap.org/books/1968Sym/1968_UFO_Symposium.pdf</a>  
+   Link:<a href="https://nicap.org/books/1968Sym/1968_UFO_Symposium.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nicap.org/books/1968Sym/1968_UFO_Symposium.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034</a>  
+   Link:<a href="https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/Documents/in/UFO_phenomena?after=83069034</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: caelestia.be  
-   Link: <a href="https://www.caelestia.be/BOAC3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.caelestia.be/BOAC3.html</a>  
+   Link:<a href="https://www.caelestia.be/BOAC3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.caelestia.be/BOAC3.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: journals.ametsoc.org  
    Title: 1520 0493 1954 082 0163 twacoj 2 0 co 2  
-   Link: <a href="https://journals.ametsoc.org/view/journals/mwre/82/6/1520-0493_1954_082_0163_twacoj_2_0_co_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/mwre/82/6/1520-0493_1954_082_0163_twacoj_2_0_co_2.pdf</a>  
+   Link:<a href="https://journals.ametsoc.org/view/journals/mwre/82/6/1520-0493_1954_082_0163_twacoj_2_0_co_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/mwre/82/6/1520-0493_1954_082_0163_twacoj_2_0_co_2.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: journals.ametsoc.org  
    Title: 1520 0493 1954 082 0163 twacoj 2 0 co 2.xml  
-   Link: <a href="https://journals.ametsoc.org/abstract/journals/mwre/82/6/1520-0493_1954_082_0163_twacoj_2_0_co_2.xml" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/abstract/journals/mwre/82/6/1520-0493_1954_082_0163_twacoj_2_0_co_2.xml</a>  
+   Link:<a href="https://journals.ametsoc.org/abstract/journals/mwre/82/6/1520-0493_1954_082_0163_twacoj_2_0_co_2.xml" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/abstract/journals/mwre/82/6/1520-0493_1954_082_0163_twacoj_2_0_co_2.xml</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: climate-lab-book.ac.uk  
-   Link: <a href="https://www.climate-lab-book.ac.uk/category/weather/" target="_blank" rel="noopener noreferrer nofollow">https://www.climate-lab-book.ac.uk/category/weather/</a>  
+   Link:<a href="https://www.climate-lab-book.ac.uk/category/weather/" target="_blank" rel="noopener noreferrer nofollow">https://www.climate-lab-book.ac.uk/category/weather/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scribd.com  
    Title: Condon Report | PDF | Unidentified Flying Object | Science Condon Report  
-   Link: <a href="https://www.scribd.com/document/995965917/Condon-Report" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/995965917/Condon-Report</a>  
+   Link:<a href="https://www.scribd.com/document/995965917/Condon-Report" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/995965917/Condon-Report</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Boeing 377 Stratocruiser  
-   Link: <a href="https://en.wikipedia.org/wiki/Boeing_377_Stratocruiser" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Boeing_377_Stratocruiser</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Boeing_377_Stratocruiser" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Boeing_377_Stratocruiser</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: figshare.mq.edu.au  
-   Link: <a href="https://figshare.mq.edu.au/ndownloader/files/34541186" target="_blank" rel="noopener noreferrer nofollow">https://figshare.mq.edu.au/ndownloader/files/34541186</a>  
+   Link:<a href="https://figshare.mq.edu.au/ndownloader/files/34541186" target="_blank" rel="noopener noreferrer nofollow">https://figshare.mq.edu.au/ndownloader/files/34541186</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/520133" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/520133</a>  
+   Link:<a href="https://www.jstor.org/stable/520133" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/520133</a>  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=S96RPhlknj0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S96RPhlknj0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1954: Cap. James Howard sketched a UFO he and his crew had observed from their BOAC Stratocruiser...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=S96RPhlknj0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S96RPhlknj0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1954: Cap. James Howard sketched a UFO he and his crew had observed from their BOAC Stratocruiser...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=18Odviuj69I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=18Odviuj69I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1954-06-30: BOAC Captain James Howard Sketches Sighting...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=18Odviuj69I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=18Odviuj69I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1954-06-30: BOAC Captain James Howard Sketches Sighting...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=8MYFA6G28jQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8MYFA6G28jQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BOAC Stratocruiser UFO 1954 sighting 1954-06-29: BOAC Capt James Howard Mirage or UFO Tom Owens UAP...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8MYFA6G28jQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8MYFA6G28jQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BOAC Stratocruiser UFO 1954 sighting 1954-06-29: BOAC Capt James Howard Mirage or UFO Tom Owens UAP...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DpGgv1xuY6M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DpGgv1xuY6M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1954-06-29: BOAC Capt James Howard Mirage or UFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DpGgv1xuY6M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DpGgv1xuY6M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1954-06-29: BOAC Capt James Howard Mirage or UFO...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: worldradiohistory.com  
-   Link: <a href="https://www.worldradiohistory.com/UK/Melody-Maker/50s/Melody-Maker-1958-04-5-OCR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.worldradiohistory.com/UK/Melody-Maker/50s/Melody-Maker-1958-04-5-OCR.pdf</a>  
+   Link:<a href="https://www.worldradiohistory.com/UK/Melody-Maker/50s/Melody-Maker-1958-04-5-OCR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.worldradiohistory.com/UK/Melody-Maker/50s/Melody-Maker-1958-04-5-OCR.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf</a>  
+   Link:<a href="https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40johnmooner-chief/boac-boeing-ufo-sighting-by-captain-james-howard-400ebeac5222" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40johnmooner-chief/boac-boeing-ufo-sighting-by-captain-james-howard-400ebeac5222</a>  
+   Link:<a href="https://medium.com/%40johnmooner-chief/boac-boeing-ufo-sighting-by-captain-james-howard-400ebeac5222" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40johnmooner-chief/boac-boeing-ufo-sighting-by-captain-james-howard-400ebeac5222</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCArchive/posts/onthisday-1954-british-airline-pilot-captain-james-howard-and-his-crew-reported-/486815347076731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/posts/onthisday-1954-british-airline-pilot-captain-james-howard-and-his-crew-reported-/486815347076731/</a>  
+   Link:<a href="https://www.facebook.com/BBCArchive/posts/onthisday-1954-british-airline-pilot-captain-james-howard-and-his-crew-reported-/486815347076731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/posts/onthisday-1954-british-airline-pilot-captain-james-howard-and-his-crew-reported-/486815347076731/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/592060026020601/posts/922750122951588/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/592060026020601/posts/922750122951588/</a>
+   Link:<a href="https://www.facebook.com/groups/592060026020601/posts/922750122951588/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/592060026020601/posts/922750122951588/</a>

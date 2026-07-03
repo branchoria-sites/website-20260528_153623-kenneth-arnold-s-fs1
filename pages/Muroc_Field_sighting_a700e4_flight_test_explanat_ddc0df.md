@@ -242,12 +242,12 @@ image: /assets/images/Muroc_Field_sighting_a700e4_flight_test_explanat_ddc0df-Il
 
 ## Introduction
 
-The Muroc Field sightings of July 1947 are difficult to evaluate precisely because they occurred at one of the most unusual aviation sites in the United States. Muroc Army Air Field, later renamed Edwards Air Force Base, was already a centre for experimental aircraft, flight instrumentation, parachute work, rocket research, and high-risk testing. That environment cuts in two directions at once. It strengthens the credibility of the [witnesses]({{ 'witnesses-ee7e7a/' | relative_url }}), many of whom were pilots or technical personnel familiar with aircraft behaviour, but it also increases the number of ordinary yet unfamiliar objects that might have appeared strange under desert viewing conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.edwards.af.mil/About/Fact-Sheets/Display/Article/393907/edwards-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edwards.af.mil">[edwards.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edwards.af.mil</span><span class="citation-popover-title">edwards history</span><span class="citation-popover-snippet">Edwards&#x27; HistoryIn December 1949, Muroc was renamed Edwards Air Force Base in honor of Capt. Glen W. Edwards, who was killed a year earli...</span><span class="citation-popover-meta">Published: December 1949</span></span></span> Wikipedia This tension explains why the official paperwork never settled comfortably on a simple answer. The reports did not resemble a random civilian <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Edwards_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Edwards Air Force Base</span><span class="citation-popover-snippet">Edwards Air Force Base</span></span></span> panic, yet neither did they produce hard evidence pointing to anything extraordinary. The key question is therefore narrower and more practical: could activity typical of a 1947 flight-test base plausibly account for what witnesses described?
+The Muroc Field sightings of July 1947 are difficult to evaluate precisely because they occurred at one of the most unusual aviation sites in the United States. Muroc Army Air Field, later renamed Edwards Air Force Base, was already a centre for experimental aircraft, flight instrumentation, parachute work, rocket research, and high-risk testing. That environment cuts in two directions at once. It strengthens the credibility of the [witnesses]({{ 'witnesses-ee7e7a/' | relative_url }}), many of whom were pilots or technical personnel familiar with aircraft behaviour, but it also increases the number of ordinary yet unfamiliar objects that might have appeared strange under desert viewing conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.edwards.af.mil/About/Fact-Sheets/Display/Article/393907/edwards-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edwards.af.mil">[edwards.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edwards.af.mil</span><span class="citation-popover-title">edwards history</span><span class="citation-popover-snippet">Edwards&#x27; HistoryIn December 1949, Muroc was renamed Edwards Air Force Base in honor of Capt. Glen W. Edwards, who was killed a year earli...</span><span class="citation-popover-meta">Published: December 1949</span></span></span> Wikipedia This tension explains why the official paperwork never settled comfortably on a simple answer. The reports did not resemble a random civilian<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Edwards_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Edwards Air Force Base</span><span class="citation-popover-snippet">Edwards Air Force Base</span></span></span> panic, yet neither did they produce hard evidence pointing to anything extraordinary. The key question is therefore narrower and more practical: could activity typical of a 1947 flight-test base plausibly account for what witnesses described?
 
 <img src="{{ "/assets/images/Muroc_Field_sighting_a700e4_flight_test_explanat_ddc0df-Illustration-1-dark.svg" | relative_url }}" alt="Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/Muroc_Field_sighting_a700e4_flight_test_explanat_ddc0df-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Muroc_Field_sighting_a700e4_flight_test_explanat_ddc0df-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Muroc Naturally Produced Strange Sightings
 
-By 1947, Muroc had already become a proving ground for advanced military aviation. Experimental aircraft including the XP-84 and early rocket research programmes operated there before Chuck Yeager’s famous Bell X-1 supersonic flight later that same year. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unwritten-record.blogs.archives.gov/2022/10/13/captain-chuck-yeager-breaking-the-sound-barrier/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unwritten-record.blogs.archives.gov">[The Unwritten Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unwritten-record.blogs.archives.gov</span><span class="citation-popover-title">captain chuck yeager breaking the sound barrier</span><span class="citation-popover-snippet">The Unwritten RecordCaptain Chuck Yeager: Breaking the Sound Barrier13 Oct 2022 — On October 14, 1947, USAF Captain Charles E. “Chuck” Ye...</span><span class="citation-popover-meta">Published: October 14, 1947</span></span></span>
+By 1947, Muroc had already become a proving ground for advanced military aviation. Experimental aircraft including the XP-84 and early rocket research programmes operated there before Chuck Yeager’s famous Bell X-1 supersonic flight later that same year.<span class="citation-chip-wrap"><a class="citation-chip" href="https://unwritten-record.blogs.archives.gov/2022/10/13/captain-chuck-yeager-breaking-the-sound-barrier/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unwritten-record.blogs.archives.gov">[The Unwritten Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unwritten-record.blogs.archives.gov</span><span class="citation-popover-title">captain chuck yeager breaking the sound barrier</span><span class="citation-popover-snippet">The Unwritten RecordCaptain Chuck Yeager: Breaking the Sound Barrier13 Oct 2022 — On October 14, 1947, USAF Captain Charles E. “Chuck” Ye...</span><span class="citation-popover-meta">Published: October 14, 1947</span></span></span>
 
 The physical setting also mattered. Rogers Dry Lake offered exceptional visibility, enormous open airspace, and few visual reference points. Those conditions were ideal for testing aircraft, but they also distorted human perception. In the desert sky:
 
@@ -309,7 +309,7 @@ The same applies to test articles dropped from aircraft. A descending object und
 
 ### The later “test dummy” analogy — and its limits
 
-Later Air Force explanations for aspects of the Roswell mythology famously invoked high-altitude balloons and anthropomorphic test dummies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportAir Force activities which occurred over a period of many years have been consolidated and are now repres...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf?ver=2017-05-22-113514-370" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDReport of Air Force Research Regarding the &quot;Roswell...22 May 2017 — The &quot;Roswell Incident&quot; refers to an event that supposedly hap...</span><span class="citation-popover-meta">Published: May 2017</span></span></span>
+Later Air Force explanations for aspects of the Roswell mythology famously invoked high-altitude balloons and anthropomorphic test dummies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportAir Force activities which occurred over a period of many years have been consolidated and are now repres...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf?ver=2017-05-22-113514-370" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDReport of Air Force Research Regarding the &quot;Roswell...22 May 2017 — The &quot;Roswell Incident&quot; refers to an event that supposedly hap...</span><span class="citation-popover-meta">Published: May 2017</span></span></span>
 
 That comparison is useful only in a limited sense. The dummy programmes themselves occurred years after 1947, so they cannot directly explain the Muroc sightings. However, the broader point remains relevant: Cold War aviation testing frequently produced unfamiliar airborne objects and unusual debris that observers outside specialised programmes could misinterpret.
 
@@ -399,194 +399,194 @@ The unresolved character of the file therefore reflects uncertainty more than my
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5mW6evgIKG0" title="HISTORY OF EDWARDS AFB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5mW6evgIKG0" target="_blank" rel="noopener noreferrer">HISTORY OF EDWARDS AFB</a></p><p class="youtube-embed-meta">Channel: To Fly and Fight &middot; Views: 33.2K &middot; Uploaded: August 2023 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5mW6evgIKG0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5mW6evgIKG0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could Muroc Have Been Misidentified Test Activity?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could Muroc Have Been Misidentified Test Activity?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Details Wright Field&#x27;s systematic audits checking early parachute drops, rocket research projects, and balloon flights near Rogers Dry Lake.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details Wright Field&#x27;s systematic audits checking early parachute drops, rocket research projects, and balloon flights near Rogers Dry Lake.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Traces why the declassified 1947 files stayed unresolved despite military planners logging a massive wave of secret aviation designs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Traces why the declassified 1947 files stayed unresolved despite military planners logging a massive wave of secret aviation designs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Presents a balanced profile checking how technical personnel familiar with ordinary aircraft behavior can still misread test targets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Presents a balanced profile checking how technical personnel familiar with ordinary aircraft behavior can still misread test targets.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Breaks down why pilot credentials or engineering expertise do not exempt an individual&#x27;s vision from basic geometric illusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Breaks down why pilot credentials or engineering expertise do not exempt an individual&#x27;s vision from basic geometric illusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for B2 Stealth Bomber 450th Flight Test Unit Jacket Large Extremely Rare."><img src="{{ '/assets/images/marketplace-covers/de1922612a0cc7f4bcd7.jpg' | relative_url }}" alt="Listing image for B2 Stealth Bomber 450th Flight Test Unit Jacket Large Extremely Rare." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" target="_blank" rel="sponsored noopener noreferrer">B2 Stealth Bomber 450th Flight Test Unit Jacket Large Extremely Rare.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flight test patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: flight test patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for B2 Stealth Bomber 450th Flight Test Unit Jacket Large Extremely Rare."><img src="{{ '/assets/images/marketplace-covers/de1922612a0cc7f4bcd7.jpg' | relative_url }}" alt="Listing image for B2 Stealth Bomber 450th Flight Test Unit Jacket Large Extremely Rare." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" target="_blank" rel="sponsored noopener noreferrer">B2 Stealth Bomber 450th Flight Test Unit Jacket Large Extremely Rare.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flight test patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: flight test patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United States Air Force - Lockheed SR-71 Blackbird - 3+ Flight Test Patch"><img src="{{ '/assets/images/marketplace-covers/f1f522387a7e5e0787f0.jpg' | relative_url }}" alt="Listing image for United States Air Force - Lockheed SR-71 Blackbird - 3+ Flight Test Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" target="_blank" rel="sponsored noopener noreferrer">United States Air Force - Lockheed SR-71 Blackbird - 3+ Flight Test Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flight test patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: flight test patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United States Air Force - Lockheed SR-71 Blackbird - 3+ Flight Test Patch"><img src="{{ '/assets/images/marketplace-covers/f1f522387a7e5e0787f0.jpg' | relative_url }}" alt="Listing image for United States Air Force - Lockheed SR-71 Blackbird - 3+ Flight Test Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" target="_blank" rel="sponsored noopener noreferrer">United States Air Force - Lockheed SR-71 Blackbird - 3+ Flight Test Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flight test patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: flight test patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United Kingdom Space Operations Centre Flight Suite Patch."><img src="{{ '/assets/images/marketplace-covers/5635dea1d2c3882d4a29.jpg' | relative_url }}" alt="Listing image for United Kingdom Space Operations Centre Flight Suite Patch." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" target="_blank" rel="sponsored noopener noreferrer">United Kingdom Space Operations Centre Flight Suite Patch.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flight test patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: flight test patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United Kingdom Space Operations Centre Flight Suite Patch."><img src="{{ '/assets/images/marketplace-covers/5635dea1d2c3882d4a29.jpg' | relative_url }}" alt="Listing image for United Kingdom Space Operations Centre Flight Suite Patch." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" target="_blank" rel="sponsored noopener noreferrer">United Kingdom Space Operations Centre Flight Suite Patch.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flight test patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: flight test patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Odiham 27 Sqn B Flight Chinook &#x27;Ice Bucket Challenge&#x27; Cyprus 26 Fabric Patch"><img src="{{ '/assets/images/marketplace-covers/a7397f96f9e2668a6c39.jpg' | relative_url }}" alt="Listing image for RAF Odiham 27 Sqn B Flight Chinook &#x27;Ice Bucket Challenge&#x27; Cyprus 26 Fabric Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" target="_blank" rel="sponsored noopener noreferrer">RAF Odiham 27 Sqn B Flight Chinook &#x27;Ice Bucket Challenge&#x27; Cyprus 26 Fabric Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flight test patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: flight test patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Odiham 27 Sqn B Flight Chinook &#x27;Ice Bucket Challenge&#x27; Cyprus 26 Fabric Patch"><img src="{{ '/assets/images/marketplace-covers/a7397f96f9e2668a6c39.jpg' | relative_url }}" alt="Listing image for RAF Odiham 27 Sqn B Flight Chinook &#x27;Ice Bucket Challenge&#x27; Cyprus 26 Fabric Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" target="_blank" rel="sponsored noopener noreferrer">RAF Odiham 27 Sqn B Flight Chinook &#x27;Ice Bucket Challenge&#x27; Cyprus 26 Fabric Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flight test patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: flight test patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flight+test+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flight test patch" data-ebay-reference="explanations-9a4c42-could-muroc-have-been-misidentified-test-activity-muroc-field-sightings-1947-flight-test-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -602,7 +602,7 @@ The unresolved character of the file therefore reflects uncertainty more than my
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -622,7 +622,7 @@ The unresolved character of the file therefore reflects uncertainty more than my
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -654,7 +654,7 @@ The unresolved character of the file therefore reflects uncertainty more than my
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -706,7 +706,7 @@ The unresolved character of the file therefore reflects uncertainty more than my
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -751,7 +751,7 @@ The unresolved character of the file therefore reflects uncertainty more than my
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -792,120 +792,120 @@ The unresolved character of the file therefore reflects uncertainty more than my
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: edwards.af.mil  
    Title: edwards history  
-   Link: <a href="https://www.edwards.af.mil/About/Fact-Sheets/Display/Article/393907/edwards-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.edwards.af.mil/About/Fact-Sheets/Display/Article/393907/edwards-history/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Edwards&#x27; HistoryIn December 1949, Muroc was renamed Edwards Air Force Base in honor of Capt. Glen W. Edwards, who was killed a year earli...</p></details>
+   Link:<a href="https://www.edwards.af.mil/About/Fact-Sheets/Display/Article/393907/edwards-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.edwards.af.mil/About/Fact-Sheets/Display/Article/393907/edwards-history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Edwards&#x27; HistoryIn December 1949, Muroc was renamed Edwards Air Force Base in honor of Capt. Glen W. Edwards, who was killed a year earli...</p></details>
    Published: December 1949  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Edwards Air Force Base  
-   Link: <a href="https://en.wikipedia.org/wiki/Edwards_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Edwards_Air_Force_Base</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Edwards_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Edwards_Air_Force_Base</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Rogers Dry Lake  
-   Link: <a href="https://en.wikipedia.org/wiki/Rogers_Dry_Lake" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rogers_Dry_Lake</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rogers_Dry_Lake" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rogers_Dry_Lake</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell ReportAir Force activities which occurred over a period of many years have been consolidated and are now repres...</p></details>
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell ReportAir Force activities which occurred over a period of many years have been consolidated and are now repres...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf?ver=2017-05-22-113514-370" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf?ver=2017-05-22-113514-370</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDReport of Air Force Research Regarding the &quot;Roswell...22 May 2017 — The &quot;Roswell Incident&quot; refers to an event that supposedly hap...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf?ver=2017-05-22-113514-370" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf?ver=2017-05-22-113514-370</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDReport of Air Force Research Regarding the &quot;Roswell...22 May 2017 — The &quot;Roswell Incident&quot; refers to an event that supposedly hap...</p></details>
    Published: May 2017  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;However, following some initial confusion at Roswell Army Air Field, th...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;However, following some initial confusion at Roswell Army Air Field, th...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentDebris found by a rancher in 1947 near Roswell, New Mexico, has become the basis for UFO conspiracy theories alleging...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentDebris found by a rancher in 1947 near Roswell, New Mexico, has become the basis for UFO conspiracy theories alleging...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Chuck Yeager  
-   Link: <a href="https://en.wikipedia.org/wiki/Chuck_Yeager" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chuck_Yeager</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chuck YeagerBrigadier General Charles Elwood Yeager was a United States Air Force officer, flying ace, and record-setting test pilot w...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Chuck_Yeager" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chuck_Yeager</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chuck YeagerBrigadier General Charles Elwood Yeager was a United States Air Force officer, flying ace, and record-setting test pilot w...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: captain chuck yeager breaking the sound barrier  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/2022/10/13/captain-chuck-yeager-breaking-the-sound-barrier/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2022/10/13/captain-chuck-yeager-breaking-the-sound-barrier/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unwritten RecordCaptain Chuck Yeager: Breaking the Sound Barrier13 Oct 2022 — On October 14, 1947, USAF Captain Charles E. “Chuck” Ye...</p></details>
+   Link:<a href="https://unwritten-record.blogs.archives.gov/2022/10/13/captain-chuck-yeager-breaking-the-sound-barrier/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2022/10/13/captain-chuck-yeager-breaking-the-sound-barrier/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unwritten RecordCaptain Chuck Yeager: Breaking the Sound Barrier13 Oct 2022 — On October 14, 1947, USAF Captain Charles E. “Chuck” Ye...</p></details>
    Published: October 14, 1947  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/biography/Chuck-Yeager" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Chuck-Yeager</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaChuck Yeager | Biography, Test Pilot, &amp; Facts7 days ago — Chuck Yeager, American test pilot and U.S. Air Force off...</p></details>
+   Link:<a href="https://www.britannica.com/biography/Chuck-Yeager" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Chuck-Yeager</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaChuck Yeager | Biography, Test Pilot, &amp; Facts7 days ago — Chuck Yeager, American test pilot and U.S. Air Force off...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: knowledgetrain.co.uk  
-   Link: <a href="https://www.knowledgetrain.co.uk/project-management/projects?srsltid=AfmBOooF5xO9AwmJ9Jxi_dBMVXqn4-t7XiV7v2-of61t6Ni1WrtUZ_tK" target="_blank" rel="noopener noreferrer nofollow">https://www.knowledgetrain.co.uk/project-management/projects?srsltid=AfmBOooF5xO9AwmJ9Jxi_dBMVXqn4-t7XiV7v2-of61t6Ni1WrtUZ_tK</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Projects | Definition of a ProjectProjects are more than just temporary endeavours; they are the lifeblood of organizations, driving stra...</p></details>
+   Link:<a href="https://www.knowledgetrain.co.uk/project-management/projects?srsltid=AfmBOooF5xO9AwmJ9Jxi_dBMVXqn4-t7XiV7v2-of61t6Ni1WrtUZ_tK" target="_blank" rel="noopener noreferrer nofollow">https://www.knowledgetrain.co.uk/project-management/projects?srsltid=AfmBOooF5xO9AwmJ9Jxi_dBMVXqn4-t7XiV7v2-of61t6Ni1WrtUZ_tK</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Projects | Definition of a ProjectProjects are more than just temporary endeavours; they are the lifeblood of organizations, driving stra...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmi.org  
-   Link: <a href="https://www.pmi.org/about/what-is-a-project" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/about/what-is-a-project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Project, Examples and the Project LifecycleA project is a series of structured tasks, activities, and deliverables that are car...</p></details>
+   Link:<a href="https://www.pmi.org/about/what-is-a-project" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/about/what-is-a-project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Project, Examples and the Project LifecycleA project is a series of structured tasks, activities, and deliverables that are car...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: oct 14 onthisday in 1947 chuck yeager became the first person to break the sound  
-   Link: <a href="https://www.facebook.com/ArmstrongAirSpaceMuseum/posts/oct-14-onthisday-in-1947-chuck-yeager-became-the-first-person-to-break-the-sound/1248930137279467/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ArmstrongAirSpaceMuseum/posts/oct-14-onthisday-in-1947-chuck-yeager-became-the-first-person-to-break-the-sound/1248930137279467/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OCT 14: #OnThisDay in 1947, Chuck Yeager became the...October 14, 1947 - Over Rogers Dry Lake in Southern California, pilot Chuck Yeager...</p></details>
+   Link:<a href="https://www.facebook.com/ArmstrongAirSpaceMuseum/posts/oct-14-onthisday-in-1947-chuck-yeager-became-the-first-person-to-break-the-sound/1248930137279467/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ArmstrongAirSpaceMuseum/posts/oct-14-onthisday-in-1947-chuck-yeager-became-the-first-person-to-break-the-sound/1248930137279467/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OCT 14: #OnThisDay in 1947, Chuck Yeager became the...October 14, 1947 - Over Rogers Dry Lake in Southern California, pilot Chuck Yeager...</p></details>
    Published: October 14, 1947  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 9, 1947, story entitled “Army Debunks Roswell Flying Disk as World Simmers with...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 9, 1947, story entitled “Army Debunks Roswell Flying Disk as World Simmers with...Read more...</p></details>
    Published: July 9, 1947  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: hmdb.org  
    Title: Historical Markers and War Memorials in Edwards AFB,  
-   Link: <a href="https://www.hmdb.org/results.asp?Search=Place&amp;State=California&amp;Town=Edwards+AFB" target="_blank" rel="noopener noreferrer nofollow">https://www.hmdb.org/results.asp?Search=Place&amp;State=California&amp;Town=Edwards+AFB</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rogers Dry Lakebed and... Edwards AFB — Sound Barrier Cracked — Chuck Yeager —. On October 14, 1947, 42,000 feet above this monument, Ca...</p></details>
+   Link:<a href="https://www.hmdb.org/results.asp?Search=Place&amp;State=California&amp;Town=Edwards+AFB" target="_blank" rel="noopener noreferrer nofollow">https://www.hmdb.org/results.asp?Search=Place&amp;State=California&amp;Town=Edwards+AFB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rogers Dry Lakebed and... Edwards AFB — Sound Barrier Cracked — Chuck Yeager —. On October 14, 1947, 42,000 feet above this monument, Ca...</p></details>
    Published: October 14, 1947  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/VeteransAffairs/posts/air-force-veteran-chuck-yeager-is-best-known-for-becoming-the-first-person-to-br/1473723419938993/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VeteransAffairs/posts/air-force-veteran-chuck-yeager-is-best-known-for-becoming-the-first-person-to-br/1473723419938993/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>he sound barrier by flying faster than Mach 1, the speed of sound.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/VeteransAffairs/posts/air-force-veteran-chuck-yeager-is-best-known-for-becoming-the-first-person-to-br/1473723419938993/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VeteransAffairs/posts/air-force-veteran-chuck-yeager-is-best-known-for-becoming-the-first-person-to-br/1473723419938993/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>he sound barrier by flying faster than Mach 1, the speed of sound.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: merriam-webster.com  
    Title: PROJEC T Definition & Meaning3 days ago — 1  
-   Link: <a href="https://www.merriam-webster.com/dictionary/project" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a: to devise in the mind: design b: to plan, figure, or estimate for the future 2. to throw or cast forward: thrust 3. to put or set...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/project" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a: to devise in the mind: design b: to plan, figure, or estimate for the future 2. to throw or cast forward: thrust 3. to put or set...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: "The Roswell Reports"  
-   Link: <a href="https://www.facebook.com/cspanhistory/posts/the-roswell-reports-1997-us-air-force-film-on-c-span3in-the-mid-1990s-the-us-air/3256592167787641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cspanhistory/posts/the-roswell-reports-1997-us-air-force-film-on-c-span3in-the-mid-1990s-the-us-air/3256592167787641/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Film on C-...On 8 July 1947 Roswell Army Air Field (RAAF) issued a press release stating that a “flying disk” had crashed on a...</p></details>
+   Link:<a href="https://www.facebook.com/cspanhistory/posts/the-roswell-reports-1997-us-air-force-film-on-c-span3in-the-mid-1990s-the-us-air/3256592167787641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cspanhistory/posts/the-roswell-reports-1997-us-air-force-film-on-c-span3in-the-mid-1990s-the-us-air/3256592167787641/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Film on C-...On 8 July 1947 Roswell Army Air Field (RAAF) issued a press release stating that a “flying disk” had crashed on a...</p></details>
    Published: July 1947  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: thisdayinaviation.com  
-   Link: <a href="https://www.thisdayinaviation.com/tag/47-021/" target="_blank" rel="noopener noreferrer nofollow">https://www.thisdayinaviation.com/tag/47-021/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tag Archives: 47-02110 Mar 2026 — Hoover glided to a landing on Rogers Dry Lake. The... It is on display at the NASA Dryden Research Cen...</p></details>
+   Link:<a href="https://www.thisdayinaviation.com/tag/47-021/" target="_blank" rel="noopener noreferrer nofollow">https://www.thisdayinaviation.com/tag/47-021/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tag Archives: 47-02110 Mar 2026 — Hoover glided to a landing on Rogers Dry Lake. The... It is on display at the NASA Dryden Research Cen...</p></details>

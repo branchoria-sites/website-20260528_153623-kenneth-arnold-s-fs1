@@ -242,22 +242,22 @@ image: /assets/images/Aurora_Texas_airship_165367_grave_wreckage_evide_26d8a0-Il
 
 ## Introduction
 
-The most famous part of the Aurora, Texas airship legend is also the least supported by hard evidence. Stories about an alien grave, strange metal debris, a contaminated well, and vanished wreckage turned the 1897 incident into an enduring UFO myth, but every major physical claim is weakened by missing artefacts, uncertain provenance, or investigations that produced inconclusive results. The case survives because there was a real newspaper report and a strong local tradition. What has never surfaced is the kind of evidence that could independently verify the extraordinary claims: authenticated debris, documented burial records, preserved samples, reliable chain-of-custody documentation, or a confirmed grave excavation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
+The most famous part of the Aurora, Texas airship legend is also the least supported by hard evidence. Stories about an alien grave, strange metal debris, a contaminated well, and vanished wreckage turned the 1897 incident into an enduring UFO myth, but every major physical claim is weakened by missing artefacts, uncertain provenance, or investigations that produced inconclusive results. The case survives because there was a real newspaper report and a strong local tradition. What has never surfaced is the kind of evidence that could independently verify the extraordinary claims: authenticated debris, documented burial records, preserved samples, reliable chain-of-custody documentation, or a confirmed grave excavation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
 
 <img src="{{ "/assets/images/Aurora_Texas_airship_165367_grave_wreckage_evide_26d8a0-Illustration-1-dark.svg" | relative_url }}" alt="Missing Proof illustration 1" data-theme-src-dark="{{ "/assets/images/Aurora_Texas_airship_165367_grave_wreckage_evide_26d8a0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Aurora_Texas_airship_165367_grave_wreckage_evide_26d8a0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For believers, the missing evidence can look suspicious, as though material was removed or hidden. For sceptics, the gaps are exactly what would be expected from a local legend that expanded over decades without verifiable proof. The dispute over Aurora is therefore less about what exists than about what does not.
 
 ## What makes the grave claim so difficult to verify?
 
-The alleged burial of the “pilot” in Aurora Cemetery is the emotional centre of the story. According to the original 1897 account, townspeople recovered badly damaged remains from the crash and buried them with “Christian rites”. Later retellings transformed that brief newspaper detail into a fully developed alien-grave legend. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
+The alleged burial of the “pilot” in Aurora Cemetery is the emotional centre of the story. According to the original 1897 account, townspeople recovered badly damaged remains from the crash and buried them with “Christian rites”. Later retellings transformed that brief newspaper detail into a fully developed alien-grave legend.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
 
 The problem is that almost none of the expected supporting evidence exists.
 
-There is no confirmed burial record identifying an unusual corpse. No authenticated coffin, skeletal remains, photographs, funeral records, or preserved tissue samples have ever been produced. Even the supposed grave location became uncertain over time. Modern visitors are usually shown a general area in Aurora Cemetery rather than a documented burial plot. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/13501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[RoadsideAmerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-snippet">Space Alien Buried Here, Aurora, TexasCemetery where a crash-landed 19th century space alien is purported to be buried... In 2010 an ad...</span></span></span>
+There is no confirmed burial record identifying an unusual corpse. No authenticated coffin, skeletal remains, photographs, funeral records, or preserved tissue samples have ever been produced. Even the supposed grave location became uncertain over time. Modern visitors are usually shown a general area in Aurora Cemetery rather than a documented burial plot.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/13501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[RoadsideAmerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-snippet">Space Alien Buried Here, Aurora, TexasCemetery where a crash-landed 19th century space alien is purported to be buried... In 2010 an ad...</span></span></span>
 
 ### The missing headstone problem
 
-Much of the legend depends on reports of a small marker once associated with the alleged grave. Investigators connected with the Mutual UFO Network (MUFON) claimed that the marker displayed a crude flying-saucer-like engraving and that metal detectors registered anomalies beneath the site. They also reported that the marker later disappeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span> MUFON That disappearance became part of the mythology itself. Believers sometimes interpret it as evidence of deliberate removal <span class="citation-chip-wrap"><a class="citation-chip" href="https://mufon.com/2021/05/14/aurora-tx-crash-1897/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[mufon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-title">AURORA, TX CRASH</span><span class="citation-popover-snippet">189714 May 2021 — MUFON then investigated the Aurora Cemetery, and uncovered a grave marker that appeared to show a flying saucer of some...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>, possibly to conceal something beneath the grave. But the evidentiary problem is more basic:
+Much of the legend depends on reports of a small marker once associated with the alleged grave. Investigators connected with the Mutual UFO Network (MUFON) claimed that the marker displayed a crude flying-saucer-like engraving and that metal detectors registered anomalies beneath the site. They also reported that the marker later disappeared.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span> MUFON That disappearance became part of the mythology itself. Believers sometimes interpret it as evidence of deliberate removal<span class="citation-chip-wrap"><a class="citation-chip" href="https://mufon.com/2021/05/14/aurora-tx-crash-1897/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[mufon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-title">AURORA, TX CRASH</span><span class="citation-popover-snippet">189714 May 2021 — MUFON then investigated the Aurora Cemetery, and uncovered a grave marker that appeared to show a flying saucer of some...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>, possibly to conceal something beneath the grave. But the evidentiary problem is more basic:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -272,7 +272,7 @@ In practical terms, the marker cannot now function as evidence because it no lon
 
 ### Why no exhumation ever settled the issue
 
-Several investigators sought permission to exhume the alleged burial site, but Aurora Cemetery authorities repeatedly refused. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
+Several investigators sought permission to exhume the alleged burial site, but Aurora Cemetery authorities repeatedly refused.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
 
 That refusal created a permanent evidentiary stalemate. Without excavation, there is no direct way to determine whether the grave contains:
 
@@ -289,7 +289,7 @@ Sceptics argue that extraordinary claims cannot rely on inaccessible evidence fo
 
 ## Wreckage stories without verified wreckage
 
-The original Dallas Morning News article described debris scattered across several acres after the crash. Later accounts added claims about unusual metals, engraved fragments, and debris buried in or around the cemetery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
+The original Dallas Morning News article described debris scattered across several acres after the crash. Later accounts added claims about unusual metals, engraved fragments, and debris buried in or around the cemetery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
 
 Yet no authenticated wreckage linked conclusively to the 1897 event survives.
 
@@ -307,11 +307,11 @@ This is one of the sharpest evidence gaps in the Aurora story. A crash large eno
 
 ### The aluminium problem
 
-Several later investigations reported recovering small metallic fragments allegedly associated with the crash area. In some retellings, these pieces were described as unusual because they resembled aluminium at a time when aluminium was still relatively expensive and uncommon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://diggingupancientaliens.com/episode-21-aliens-in-the-old-west1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diggingupancientaliens.com">[diggingupancientaliens.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diggingupancientaliens.com</span><span class="citation-popover-snippet">Aliens in the wild west - Part 130 Aug 2022 — In 1973, Earl Watts and Bill Case of MUFON (Mutual UFO Network or Midwest UFO Network) led...</span></span></span>
+Several later investigations reported recovering small metallic fragments allegedly associated with the crash area. In some retellings, these pieces were described as unusual because they resembled aluminium at a time when aluminium was still relatively expensive and uncommon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://diggingupancientaliens.com/episode-21-aliens-in-the-old-west1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diggingupancientaliens.com">[diggingupancientaliens.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diggingupancientaliens.com</span><span class="citation-popover-snippet">Aliens in the wild west - Part 130 Aug 2022 — In 1973, Earl Watts and Bill Case of MUFON (Mutual UFO Network or Midwest UFO Network) led...</span></span></span>
 
 But this point weakens under scrutiny.
 
-By the 1890s aluminium was already commercially available, and nothing publicly demonstrated that the recovered fragments possessed exotic composition, advanced manufacturing, or non-terrestrial properties. Television investigations decades later reported elevated aluminium levels in water samples from the old well site, but aluminium itself is neither rare nor evidence of extraterrestrial technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
+By the 1890s aluminium was already commercially available, and nothing publicly demonstrated that the recovered fragments possessed exotic composition, advanced manufacturing, or non-terrestrial properties. Television investigations decades later reported elevated aluminium levels in water samples from the old well site, but aluminium itself is neither rare nor evidence of extraterrestrial technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
 
 No laboratory report has established that any Aurora fragment contained impossible alloys, isotopic anomalies, or unknown elements. In most cases, the fragments lack documented recovery history, making independent verification impossible.
 
@@ -337,7 +337,7 @@ Without continuous documentation from 1897 onward, no fragment can be reliably t
 
 ## The sealed well and the contamination legend
 
-One of the most persistent Aurora stories concerns a well beneath the damaged windmill. According to later accounts, crash debris was dumped into the well after the explosion. Decades later, property owner Brawley Oates allegedly cleaned out the well, used the water, developed severe arthritis, and blamed contamination from the wreckage. The well was then reportedly sealed under a concrete slab. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
+One of the most persistent Aurora stories concerns a well beneath the damaged windmill. According to later accounts, crash debris was dumped into the well after the explosion. Decades later, property owner Brawley Oates allegedly cleaned out the well, used the water, developed severe arthritis, and blamed contamination from the wreckage. The well was then reportedly sealed under a concrete slab.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
 
 This narrative became important because it offered a possible hidden repository for debris. If the grave could not be excavated, perhaps the well still contained physical remnants.
 
@@ -350,7 +350,7 @@ Television investigations eventually obtained permission to inspect the well are
 
 * the well contained no major intact debris,
 * water tests showed elevated aluminium but otherwise ordinary results,
-* and investigators concluded that any significant material may already have been removed by earlier owners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
+* and investigators concluded that any significant material may already have been removed by earlier owners.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
 
 </div>
 
@@ -362,7 +362,7 @@ The arthritis story is particularly problematic as evidence. Arthritis is common
 
 The well story also became tied to another controversy: whether Judge Proctor’s windmill even existed.
 
-A major sceptical argument held that the crash account was fabricated and that no windmill stood on the property in the first place. Later investigators claimed to identify remains consistent with a windmill base near the well site, weakening that particular debunking argument. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
+A major sceptical argument held that the crash account was fabricated and that no windmill stood on the property in the first place. Later investigators claimed to identify remains consistent with a windmill base near the well site, weakening that particular debunking argument.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
 
 However, proving that a windmill existed does not prove an alien crash occurred there. It only removes one possible objection to the original newspaper account.
 
@@ -370,7 +370,7 @@ However, proving that a windmill existed does not prove an alien crash occurred 
 
 Because excavation was blocked, investigators turned to indirect methods such as metal detection and ground-penetrating radar.
 
-These searches produced some of the most cited modern evidence in the Aurora legend. Investigators reported underground anomalies near the suspected grave site, and radar surveys appeared to indicate a burial-sized disturbance beneath the surface. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.olliewatson.co.uk/ufology/aurora-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: olliewatson.co.uk">[2olliewatson.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">olliewatson.co.uk</span><span class="citation-popover-title">Aurora UFO incident</span><span class="citation-popover-snippet">Ollie Watson&#x27;s WebsiteMUFON&#x27;s metal detector no longer picked up metal readings from the grave... During the 2008 investigation, Aurora...</span></span></span>
+These searches produced some of the most cited modern evidence in the Aurora legend. Investigators reported underground anomalies near the suspected grave site, and radar surveys appeared to indicate a burial-sized disturbance beneath the surface.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.olliewatson.co.uk/ufology/aurora-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: olliewatson.co.uk">[2olliewatson.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">olliewatson.co.uk</span><span class="citation-popover-title">Aurora UFO incident</span><span class="citation-popover-snippet">Ollie Watson&#x27;s WebsiteMUFON&#x27;s metal detector no longer picked up metal readings from the grave... During the 2008 investigation, Aurora...</span></span></span>
 
 But radar anomalies in an old cemetery are not extraordinary by themselves.
 
@@ -412,7 +412,7 @@ As a result, the radar evidence functions more as a suggestion than proof.
 
 A recurring feature of the Aurora story is the claim that evidence once existed but later vanished:
 
-* the grave marker disappeared, <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/tip/1244?offset=10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[roadsideamerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America.com Aurora, TX</span><span class="citation-popover-snippet">The grave marker has been stolen yet again, but with the help of an internet search I found the location. Take the last entrance into the...</span></span></span>
+* the grave marker disappeared,<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/tip/1244?offset=10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[roadsideamerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-title">Roadside America.com Aurora, TX</span><span class="citation-popover-snippet">The grave marker has been stolen yet again, but with the help of an internet search I found the location. Take the last entrance into the...</span></span></span>
 * the debris disappeared,
 * the well was sealed,
 * the supposed fragments cannot be verified,
@@ -436,181 +436,181 @@ There is:
 * no official investigative archive,
 * and no surviving physical artefact accepted by independent experts.
 
-That does not prove the original 1897 report was intentionally fraudulent. It does mean that the strongest claims in the story rest on the weakest evidentiary foundations. More than a century later, the alien grave and wreckage remain famous largely because they were never conclusively proved or disproved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mufon.com/2021/05/14/aurora-tx-crash-1897/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-title">AURORA, TX CRASH</span><span class="citation-popover-snippet">189714 May 2021 — MUFON then investigated the Aurora Cemetery, and uncovered a grave marker that appeared to show a flying saucer of some...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
+That does not prove the original 1897 report was intentionally fraudulent. It does mean that the strongest claims in the story rest on the weakest evidentiary foundations. More than a century later, the alien grave and wreckage remain famous largely because they were never conclusively proved or disproved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://mufon.com/2021/05/14/aurora-tx-crash-1897/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-title">AURORA, TX CRASH</span><span class="citation-popover-snippet">189714 May 2021 — MUFON then investigated the Aurora Cemetery, and uncovered a grave marker that appeared to show a flying saucer of some...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Evidence Is Missing in Aurora?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Evidence Is Missing in Aurora?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open It&#x27;s a Horse&#x27;s Life! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=swoVJIlrzmgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for It&#x27;s a Horse&#x27;s Life!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="It&#x27;s a Horse&#x27;s Life!">It&#x27;s a Horse&#x27;s Life!</a>
-        </h4>
-        <p class="fr-book-author">By Joanne Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open It&#x27;s a Horse&#x27;s Life! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=swoVJIlrzmgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for It&#x27;s a Horse&#x27;s Life!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="It&#x27;s a Horse&#x27;s Life!">It&#x27;s a Horse&#x27;s Life!</a>
+</h4>
+<p class="fr-book-author">By Joanne Friedman</p>
         
-        <p class="fr-book-desc">Investigates the physical claims regarding hidden metal fragments, the sealed well on Proctor&#x27;s land, and the lack of burial logs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Investigates the physical claims regarding hidden metal fragments, the sealed well on Proctor&#x27;s land, and the lack of burial logs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Details the mid-century investigations, metal analysis attempts, and ground-penetrating radar searches conducted at the Aurora cemetery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details the mid-century investigations, metal analysis attempts, and ground-penetrating radar searches conducted at the Aurora cemetery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Civil+War+Sites+by+James+Campi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Civil War Sites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BvNjvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Civil War Sites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Civil+War+Sites+by+James+Campi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Civil War Sites">Civil War Sites</a>
-        </h4>
-        <p class="fr-book-author">By James Campi, Civil War Preservation Trust</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Civil+War+Sites+by+James+Campi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Civil War Sites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BvNjvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Civil War Sites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Civil+War+Sites+by+James+Campi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Civil War Sites">Civil War Sites</a>
+</h4>
+<p class="fr-book-author">By James Campi, Civil War Preservation Trust</p>
         
-        <p class="fr-book-desc">Traces the missing chain-of-custody regarding the legendary wreckage, tracking why no verified artifacts ever survived.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Civil+War+Sites+by+James+Campi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Traces the missing chain-of-custody regarding the legendary wreckage, tracking why no verified artifacts ever survived.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Civil+War+Sites+by+James+Campi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches how to spot a total lack of provenance and sample contamination when investigating legendary crash wreckage site stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches how to spot a total lack of provenance and sample contamination when investigating legendary crash wreckage site stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">It&#x27;s a Horse&#x27;s Life!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Civil+War+Sites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Civil War Sites</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">It&#x27;s a Horse&#x27;s Life!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Civil+War+Sites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Civil War Sites</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zeppelin Metal Model Graf Zeppelin Aircraft 3D Laser Cut Model Kit Hobbies Gift"><img src="{{ '/assets/images/marketplace-covers/7b9d91bb743342de298a.jpg' | relative_url }}" alt="Listing image for Zeppelin Metal Model Graf Zeppelin Aircraft 3D Laser Cut Model Kit Hobbies Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer">Zeppelin Metal Model Graf Zeppelin Aircraft 3D Laser Cut Model Kit Hobbies Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for zeppelin model">Search <span data-ebay-domain-label>eBay.co.uk</span>: zeppelin model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zeppelin Metal Model Graf Zeppelin Aircraft 3D Laser Cut Model Kit Hobbies Gift"><img src="{{ '/assets/images/marketplace-covers/7b9d91bb743342de298a.jpg' | relative_url }}" alt="Listing image for Zeppelin Metal Model Graf Zeppelin Aircraft 3D Laser Cut Model Kit Hobbies Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer">Zeppelin Metal Model Graf Zeppelin Aircraft 3D Laser Cut Model Kit Hobbies Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for zeppelin model">Search<span data-ebay-domain-label>eBay.co.uk</span>: zeppelin model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Detailed Silver Airship Zeppelin Desk Top Display 1/500 Model 17 Inch"><img src="{{ '/assets/images/marketplace-covers/645c75cbaabc8310988e.jpg' | relative_url }}" alt="Listing image for Detailed Silver Airship Zeppelin Desk Top Display 1/500 Model 17 Inch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer">Detailed Silver Airship Zeppelin Desk Top Display 1/500 Model 17 Inch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for zeppelin model">Search <span data-ebay-domain-label>eBay.co.uk</span>: zeppelin model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Detailed Silver Airship Zeppelin Desk Top Display 1/500 Model 17 Inch"><img src="{{ '/assets/images/marketplace-covers/645c75cbaabc8310988e.jpg' | relative_url }}" alt="Listing image for Detailed Silver Airship Zeppelin Desk Top Display 1/500 Model 17 Inch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer">Detailed Silver Airship Zeppelin Desk Top Display 1/500 Model 17 Inch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for zeppelin model">Search<span data-ebay-domain-label>eBay.co.uk</span>: zeppelin model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zeppelin Airship Laser Cut Wooden - Steampunk Air Ship - 3D Model/Puzzle Kit"><img src="{{ '/assets/images/marketplace-covers/d131895dc73fc49f2eec.jpg' | relative_url }}" alt="Listing image for Zeppelin Airship Laser Cut Wooden - Steampunk Air Ship - 3D Model/Puzzle Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer">Zeppelin Airship Laser Cut Wooden - Steampunk Air Ship - 3D Model/Puzzle Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for zeppelin model">Search <span data-ebay-domain-label>eBay.co.uk</span>: zeppelin model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zeppelin Airship Laser Cut Wooden - Steampunk Air Ship - 3D Model/Puzzle Kit"><img src="{{ '/assets/images/marketplace-covers/d131895dc73fc49f2eec.jpg' | relative_url }}" alt="Listing image for Zeppelin Airship Laser Cut Wooden - Steampunk Air Ship - 3D Model/Puzzle Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer">Zeppelin Airship Laser Cut Wooden - Steampunk Air Ship - 3D Model/Puzzle Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for zeppelin model">Search<span data-ebay-domain-label>eBay.co.uk</span>: zeppelin model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="missing-proof-what-evidence-is-missing-in-aurora-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -626,7 +626,7 @@ That does not prove the original 1897 report was intentionally fraudulent. It do
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -646,7 +646,7 @@ That does not prove the original 1897 report was intentionally fraudulent. It do
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -678,7 +678,7 @@ That does not prove the original 1897 report was intentionally fraudulent. It do
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -730,7 +730,7 @@ That does not prove the original 1897 report was intentionally fraudulent. It do
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -775,7 +775,7 @@ That does not prove the original 1897 report was intentionally fraudulent. It do
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -816,100 +816,100 @@ That does not prove the original 1897 report was intentionally fraudulent. It do
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Aurora, Texas, UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: roadsideamerica.com  
-   Link: <a href="https://www.roadsideamerica.com/story/13501" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsideamerica.com/story/13501</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Alien Buried Here, Aurora, TexasCemetery where a crash-landed 19th century space alien is purported to be buried... In 2010 an ad...</p></details>
+   Link:<a href="https://www.roadsideamerica.com/story/13501" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsideamerica.com/story/13501</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Alien Buried Here, Aurora, TexasCemetery where a crash-landed 19th century space alien is purported to be buried... In 2010 an ad...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: roadsideamerica.com  
    Title: Roadside America.com Aurora, TX  
-   Link: <a href="https://www.roadsideamerica.com/tip/1244?offset=10" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsideamerica.com/tip/1244?offset=10</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The grave marker has been stolen yet again, but with the help of an internet search I found the location. Take the last entrance into the...</p></details>
+   Link:<a href="https://www.roadsideamerica.com/tip/1244?offset=10" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsideamerica.com/tip/1244?offset=10</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The grave marker has been stolen yet again, but with the help of an internet search I found the location. Take the last entrance into the...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mufon.com  
    Title: AURORA, TX CRASH  
-   Link: <a href="https://mufon.com/2021/05/14/aurora-tx-crash-1897/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/2021/05/14/aurora-tx-crash-1897/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>189714 May 2021 — MUFON then investigated the Aurora Cemetery, and uncovered a grave marker that appeared to show a flying saucer of some...</p></details>
+   Link:<a href="https://mufon.com/2021/05/14/aurora-tx-crash-1897/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/2021/05/14/aurora-tx-crash-1897/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>189714 May 2021 — MUFON then investigated the Aurora Cemetery, and uncovered a grave marker that appeared to show a flying saucer of some...</p></details>
    Published: May 2021  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: olliewatson.co.uk  
    Title: Aurora UFO incident  
-   Link: <a href="https://www.olliewatson.co.uk/ufology/aurora-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.olliewatson.co.uk/ufology/aurora-ufo-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ollie Watson&#x27;s WebsiteMUFON&#x27;s metal detector no longer picked up metal readings from the grave... During the 2008 investigation, Aurora...</p></details>
+   Link:<a href="https://www.olliewatson.co.uk/ufology/aurora-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.olliewatson.co.uk/ufology/aurora-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ollie Watson&#x27;s WebsiteMUFON&#x27;s metal detector no longer picked up metal readings from the grave... During the 2008 investigation, Aurora...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: diggingupancientaliens.com  
-   Link: <a href="https://diggingupancientaliens.com/episode-21-aliens-in-the-old-west1.html" target="_blank" rel="noopener noreferrer nofollow">https://diggingupancientaliens.com/episode-21-aliens-in-the-old-west1.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens in the wild west - Part 130 Aug 2022 — In 1973, Earl Watts and Bill Case of MUFON (Mutual UFO Network or Midwest UFO Network) led...</p></details>
+   Link:<a href="https://diggingupancientaliens.com/episode-21-aliens-in-the-old-west1.html" target="_blank" rel="noopener noreferrer nofollow">https://diggingupancientaliens.com/episode-21-aliens-in-the-old-west1.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens in the wild west - Part 130 Aug 2022 — In 1973, Earl Watts and Bill Case of MUFON (Mutual UFO Network or Midwest UFO Network) led...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: auroratexas.gov  
-   Link: <a href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.auroratexas.gov/community/history/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>History | Aurora, TX.On April 17th,1897, local lore tells of a “cigar shaped” spaceship crashing into a windmill belonging to a local Jud...</p></details>
+   Link:<a href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.auroratexas.gov/community/history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History | Aurora, TX.On April 17th,1897, local lore tells of a “cigar shaped” spaceship crashing into a windmill belonging to a local Jud...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/873928379320499/posts/25946793011607356/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/873928379320499/posts/25946793011607356/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora Texas alien crash site legendDuring the UFO investigation by MUFON the grave marker disappeared.... (Photos from left to right: A...</p></details>
+   Link:<a href="https://www.facebook.com/groups/873928379320499/posts/25946793011607356/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/873928379320499/posts/25946793011607356/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora Texas alien crash site legendDuring the UFO investigation by MUFON the grave marker disappeared.... (Photos from left to right: A...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ancestralfindings.com  
-   Link: <a href="https://ancestralfindings.com/the-1890s-alien-gravesite-a-curious-tale-from-aurora-cemetery-texas/" target="_blank" rel="noopener noreferrer nofollow">https://ancestralfindings.com/the-1890s-alien-gravesite-a-curious-tale-from-aurora-cemetery-texas/</a>  
+   Link:<a href="https://ancestralfindings.com/the-1890s-alien-gravesite-a-curious-tale-from-aurora-cemetery-texas/" target="_blank" rel="noopener noreferrer nofollow">https://ancestralfindings.com/the-1890s-alien-gravesite-a-curious-tale-from-aurora-cemetery-texas/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: in the spring of 1897 a reported ufo crash occurred on a farm near aurora in wis  
-   Link: <a href="https://www.facebook.com/TexasHistoricalCommission/posts/in-the-spring-of-1897-a-reported-ufo-crash-occurred-on-a-farm-near-aurora-in-wis/1144472984440318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TexasHistoricalCommission/posts/in-the-spring-of-1897-a-reported-ufo-crash-occurred-on-a-farm-near-aurora-in-wis/1144472984440318/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the spring of 1897, a reported UFO 👽 crash occurred...One of the strangest UFO stories occurred in Texas. Known as the Aurora inciden...</p></details>
+   Link:<a href="https://www.facebook.com/TexasHistoricalCommission/posts/in-the-spring-of-1897-a-reported-ufo-crash-occurred-on-a-farm-near-aurora-in-wis/1144472984440318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TexasHistoricalCommission/posts/in-the-spring-of-1897-a-reported-ufo-crash-occurred-on-a-farm-near-aurora-in-wis/1144472984440318/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the spring of 1897, a reported UFO 👽 crash occurred...One of the strangest UFO stories occurred in Texas. Known as the Aurora inciden...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tripadvisor.co.uk  
    Title: Attraction Review g2062966 d3750472 Reviews Aurora Cemetery Aurora Texas  
-   Link: <a href="https://www.tripadvisor.co.uk/Attraction_Review-g2062966-d3750472-Reviews-Aurora_Cemetery-Aurora_Texas.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Attraction_Review-g2062966-d3750472-Reviews-Aurora_Cemetery-Aurora_Texas.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora Cemetery15 Mar 2021 — Cemetery supposedly had an Alien burred here from a UFO Crash. It is stated on the Texas Historical Cemetery...</p></details>
+   Link:<a href="https://www.tripadvisor.co.uk/Attraction_Review-g2062966-d3750472-Reviews-Aurora_Cemetery-Aurora_Texas.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Attraction_Review-g2062966-d3750472-Reviews-Aurora_Cemetery-Aurora_Texas.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora Cemetery15 Mar 2021 — Cemetery supposedly had an Alien burred here from a UFO Crash. It is stated on the Texas Historical Cemetery...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: · NASA engineer John F. · The Kelly/Hopkinsville Incident Anniversary.Read more  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/x43k6x/the_1897_aurora_texas_ufo_crash_the_alien_buried/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/x43k6x/the_1897_aurora_texas_ufo_crash_the_alien_buried/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1897 Aurora, Texas, UFO Crash &amp; the &#x27;Alien&#x27; Buried in...Stopped by the Aurora, Texas cemetery where they buried an alien in 1897...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/x43k6x/the_1897_aurora_texas_ufo_crash_the_alien_buried/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/x43k6x/the_1897_aurora_texas_ufo_crash_the_alien_buried/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1897 Aurora, Texas, UFO Crash &amp; the &#x27;Alien&#x27; Buried in...Stopped by the Aurora, Texas cemetery where they buried an alien in 1897...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: 1897 ufo crash in aurora texas martian pilot was  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1chzffr/1897_ufo_crash_in_aurora_texas_martian_pilot_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1chzffr/1897_ufo_crash_in_aurora_texas_martian_pilot_was/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1897 UFO Crash in Aurora, Texas | &quot;Martian pilot&quot; was...The real key to this mystery lies beneath this giant oak tree. Legend says that...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1chzffr/1897_ufo_crash_in_aurora_texas_martian_pilot_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1chzffr/1897_ufo_crash_in_aurora_texas_martian_pilot_was/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1897 UFO Crash in Aurora, Texas | &quot;Martian pilot&quot; was...The real key to this mystery lies beneath this giant oak tree. Legend says that...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1fjhhvs/serious_on_april_17th_1897_a_ufo_crashed_into_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1fjhhvs/serious_on_april_17th_1897_a_ufo_crashed_into_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On April 17th, 1897 a ufo crashed into a windmill in Aurora...The &quot;not of this world&quot; pilot was buried in the Aurora Cemetary and the Te...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1fjhhvs/serious_on_april_17th_1897_a_ufo_crashed_into_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1fjhhvs/serious_on_april_17th_1897_a_ufo_crashed_into_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On April 17th, 1897 a ufo crashed into a windmill in Aurora...The &quot;not of this world&quot; pilot was buried in the Aurora Cemetary and the Te...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: what happened in 1897 in aurora texas regarding  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/7fzf2q/what_happened_in_1897_in_aurora_texas_regarding/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/7fzf2q/what_happened_in_1897_in_aurora_texas_regarding/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>investigations showed the stone was removed and no metal detecting signal was found but sonar showed there was an unmarked gr...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/7fzf2q/what_happened_in_1897_in_aurora_texas_regarding/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/7fzf2q/what_happened_in_1897_in_aurora_texas_regarding/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>investigations showed the stone was removed and no metal detecting signal was found but sonar showed there was an unmarked gr...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: the aurora ufo crash of 1897 ufo texas txchron  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-aurora-ufo-crash-of-1897-ufo-texas-txchron/1322641396184897/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-aurora-ufo-crash-of-1897-ufo-texas-txchron/1322641396184897/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Aurora UFO Crash of 1897: #ufo #texas #txchron☞On April 19, 1897, a newspaper article about the Aurora Alien Incident by S. E. Haydon...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-aurora-ufo-crash-of-1897-ufo-texas-txchron/1322641396184897/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-aurora-ufo-crash-of-1897-ufo-texas-txchron/1322641396184897/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Aurora UFO Crash of 1897: #ufo #texas #txchron☞On April 19, 1897, a newspaper article about the Aurora Alien Incident by S. E. Haydon...</p></details>
    Published: April 19, 1897  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thetravellingfool.com  
    Title: aurora texas mystery the curious story behind the legend of ned  
-   Link: <a href="https://thetravellingfool.com/aurora-texas-mystery-the-curious-story-behind-the-legend-of-ned/" target="_blank" rel="noopener noreferrer nofollow">https://thetravellingfool.com/aurora-texas-mystery-the-curious-story-behind-the-legend-of-ned/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>By the 1970&#x27;s locals were hosting UFO themed events and the cemetery marker became a tourist draw.Read more...</p></details>
+   Link:<a href="https://thetravellingfool.com/aurora-texas-mystery-the-curious-story-behind-the-legend-of-ned/" target="_blank" rel="noopener noreferrer nofollow">https://thetravellingfool.com/aurora-texas-mystery-the-curious-story-behind-the-legend-of-ned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By the 1970&#x27;s locals were hosting UFO themed events and the cemetery marker became a tourist draw.Read more...</p></details>

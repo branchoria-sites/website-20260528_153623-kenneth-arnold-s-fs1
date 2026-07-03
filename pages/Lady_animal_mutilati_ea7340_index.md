@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /lady-animal-mutilati-ea7340-index/
 description: Focused pages that expand on Lady animal mutilation 1966.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Lady_animal_mutilati_ea7340
 parent_title: Lady animal mutilation 1966
@@ -16,7 +16,7 @@ parent_permalink: /lady-animal-mutilation-1966/
 
 # Explore Topics in Lady animal mutilation 1966
 
-The following pages expand on the main **[Lady animal mutilation 1966]({{ '/lady-animal-mutilation-1966/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Lady animal mutilation 1966]({{ '/lady-animal-mutilation-1966/' | relative_url }})** page and cover its key branches in.
 
 - [Timeline]({{ '/timeline-084401/' | relative_url }})
 - [Condon Report]({{ '/condon-report/' | relative_url }})

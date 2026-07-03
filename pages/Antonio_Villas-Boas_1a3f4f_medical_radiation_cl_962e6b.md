@@ -242,7 +242,7 @@ image: /assets/images/Antonio_Villas-Boas_1a3f4f_medical_radiation_cl_962e6b-Ill
 
 ## Introduction
 
-The medical dimension of the Antonio Villas-Boas case became one of the main reasons the story survived beyond the sensational details of the alleged abduction itself. Shortly after the claimed encounter in October 1957, Villas-Boas reported nausea, weakness, headaches, burning eyes, and unusual skin lesions. A Brazilian physician, Dr Olavo Fontes, later examined him and cautiously suggested that some symptoms resembled mild radiation exposure. That assessment gave the case an aura of scientific seriousness within early UFO research circles, even though no laboratory confirmation, biopsy, radiation measurement, or hospital documentation was ever produced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ignaciodarnaude.es/wp-content/uploads/2022/05/Abduction-A.Vilas-Boas1957FSR-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-snippet">Ignacio Darnaude Rojas-Marcos.by Dr. Olavo FontesConcerning his medical history, the symptoms described suggest radiation... Olavo Fonte...</span></span></span>
+The medical dimension of the Antonio Villas-Boas case became one of the main reasons the story survived beyond the sensational details of the alleged abduction itself. Shortly after the claimed encounter in October 1957, Villas-Boas reported nausea, weakness, headaches, burning eyes, and unusual skin lesions. A Brazilian physician, Dr Olavo Fontes, later examined him and cautiously suggested that some symptoms resembled mild radiation exposure. That assessment gave the case an aura of scientific seriousness within early UFO research circles, even though no laboratory confirmation, biopsy, radiation measurement, or hospital documentation was ever produced.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ignaciodarnaude.es/wp-content/uploads/2022/05/Abduction-A.Vilas-Boas1957FSR-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-snippet">Ignacio Darnaude Rojas-Marcos.by Dr. Olavo FontesConcerning his medical history, the symptoms described suggest radiation... Olavo Fonte...</span></span></span>
 
 <img src="{{ "/assets/images/Antonio_Villas-Boas_1a3f4f_medical_radiation_cl_962e6b-Illustration-1-dark.svg" | relative_url }}" alt="Medical Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Antonio_Villas-Boas_1a3f4f_medical_radiation_cl_962e6b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antonio_Villas-Boas_1a3f4f_medical_radiation_cl_962e6b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The resulting debate has lasted for decades. Supporters argue that the physical symptoms separated the Villas-Boas report from a simple fantasy or hoax. Skeptics counter that the evidence was medically incomplete, reported after the fact, and filtered through UFO investigators already inclined to interpret the case as extraordinary. The dispute therefore centres less on whether Villas-Boas felt ill — he almost certainly did report illness — and more on whether the symptoms genuinely pointed to radiation exposure or anything non-human.
@@ -262,15 +262,15 @@ According to the accounts preserved by João Martins and Dr Olavo Fontes, Villas
 
 </div>
 
-The skin effects became the most discussed element because they sounded unusual and were described in medical language by Fontes. Later summaries of the report described “small reddish nodules” that were painful to touch and occasionally discharged fluid from a tiny central opening. The surrounding skin was reportedly discoloured with a violet tone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ant%C3%B4nio_Vilas-Boas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Antônio Vilas-Boas</span><span class="citation-popover-snippet">Antônio Vilas-Boas</span></span></span>
+The skin effects became the most discussed element because they sounded unusual and were described in medical language by Fontes. Later summaries of the report described “small reddish nodules” that were painful to touch and occasionally discharged fluid from a tiny central opening. The surrounding skin was reportedly discoloured with a violet tone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ant%C3%B4nio_Vilas-Boas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Antônio Vilas-Boas</span><span class="citation-popover-snippet">Antônio Vilas-Boas</span></span></span>
 
-Within UFO literature of the late 1950s and 1960s, these symptoms were quickly associated with radiation injury. The timing mattered. Public anxiety about radiation was extremely high during the Cold War and atomic age, and several UFO cases from the same era involved claims of burns, heat exposure, or sickness after encounters with bright aerial objects. The Villas-Boas case therefore entered a broader pattern already familiar to early ufologists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Brazil</span><span class="citation-popover-snippet">UFO sightings in Brazil</span></span></span>
+Within UFO literature of the late 1950s and 1960s, these symptoms were quickly associated with radiation injury. The timing mattered. Public anxiety about radiation was extremely high during the Cold War and atomic age, and several UFO cases from the same era involved claims of burns, heat exposure, or sickness after encounters with bright aerial objects. The Villas-Boas case therefore entered a broader pattern already familiar to early ufologists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Brazil</span><span class="citation-popover-snippet">UFO sightings in Brazil</span></span></span>
 
-Yet the actual chronology remains uncertain. The surviving descriptions do not provide precise dates for the onset, duration, or progression of the lesions. Nor do they establish whether independent doctors besides Fontes directly observed the condition. Most modern retellings rely on later reproductions of Fontes’s report rather than contemporaneous medical records from a hospital or clinic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ignaciodarnaude.es/wp-content/uploads/2022/05/Abduction-A.Vilas-Boas1957FSR-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-snippet">Ignacio Darnaude Rojas-Marcos.by Dr. Olavo FontesConcerning his medical history, the symptoms described suggest radiation... Olavo Fonte...</span></span></span>
+Yet the actual chronology remains uncertain. The surviving descriptions do not provide precise dates for the onset, duration, or progression of the lesions. Nor do they establish whether independent doctors besides Fontes directly observed the condition. Most modern retellings rely on later reproductions of Fontes’s report rather than contemporaneous medical records from a hospital or clinic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ignaciodarnaude.es/wp-content/uploads/2022/05/Abduction-A.Vilas-Boas1957FSR-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-snippet">Ignacio Darnaude Rojas-Marcos.by Dr. Olavo FontesConcerning his medical history, the symptoms described suggest radiation... Olavo Fonte...</span></span></span>
 
 ## Why Fontes Considered Radiation Possible
 
-Dr Olavo Fontes did not claim definitive proof that Villas-Boas had been irradiated. His wording was considerably more cautious than many later summaries suggested. He reportedly wrote that the symptoms “suggest radiation” or resembled exposure to a “large dose of radiation from some source”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ant%C3%B4nio_Vilas-Boas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Antônio Vilas-Boas</span><span class="citation-popover-snippet">Antônio Vilas-Boas</span></span></span>
+Dr Olavo Fontes did not claim definitive proof that Villas-Boas had been irradiated. His wording was considerably more cautious than many later summaries suggested. He reportedly wrote that the symptoms “suggest radiation” or resembled exposure to a “large dose of radiation from some source”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ant%C3%B4nio_Vilas-Boas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Antônio Vilas-Boas</span><span class="citation-popover-snippet">Antônio Vilas-Boas</span></span></span>
 
 That distinction is important. Fontes was attempting a medical interpretation of symptoms, not certifying the reality of an alien encounter. Several features influenced his thinking:
 
@@ -278,17 +278,17 @@ That distinction is important. Fontes was attempting a medical interpretation of
 
 ### The combination of skin and systemic symptoms
 
-Radiation exposure can produce nausea, weakness, skin irritation, and fatigue. The presence of both general illness and localised skin lesions likely made the case appear more medically interesting than a purely psychological account. Fontes evidently considered the cluster of complaints difficult to dismiss outright. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ignaciodarnaude.es/wp-content/uploads/2022/05/Abduction-A.Vilas-Boas1957FSR-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-snippet">Ignacio Darnaude Rojas-Marcos.by Dr. Olavo FontesConcerning his medical history, the symptoms described suggest radiation... Olavo Fonte...</span></span></span>
+Radiation exposure can produce nausea, weakness, skin irritation, and fatigue. The presence of both general illness and localised skin lesions likely made the case appear more medically interesting than a purely psychological account. Fontes evidently considered the cluster of complaints difficult to dismiss outright.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ignaciodarnaude.es/wp-content/uploads/2022/05/Abduction-A.Vilas-Boas1957FSR-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-snippet">Ignacio Darnaude Rojas-Marcos.by Dr. Olavo FontesConcerning his medical history, the symptoms described suggest radiation... Olavo Fonte...</span></span></span>
 
 ### The delayed appearance of lesions
 
-Some reports suggested the nodules continued appearing for months. Within UFO circles, this persistence was interpreted as evidence that the condition was not simply bruising or an ordinary rash. However, the descriptions were too vague to establish a recognised radiation syndrome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Brazil</span><span class="citation-popover-snippet">UFO sightings in Brazil</span></span></span>
+Some reports suggested the nodules continued appearing for months. Within UFO circles, this persistence was interpreted as evidence that the condition was not simply bruising or an ordinary rash. However, the descriptions were too vague to establish a recognised radiation syndrome.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Brazil</span><span class="citation-popover-snippet">UFO sightings in Brazil</span></span></span>
 
 ### Similarities to other UFO “burn” cases
 
-The late 1950s saw increasing discussion of alleged UFO-related physiological injuries. Cases involving heat, burns, paralysis, or illness were often grouped together by researchers attempting to argue that UFO encounters had measurable physical effects. The Villas-Boas symptoms fit comfortably into that emerging framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Brazil</span><span class="citation-popover-snippet">UFO sightings in Brazil</span></span></span>
+The late 1950s saw increasing discussion of alleged UFO-related physiological injuries. Cases involving heat, burns, paralysis, or illness were often grouped together by researchers attempting to argue that UFO encounters had measurable physical effects. The Villas-Boas symptoms fit comfortably into that emerging framework.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Brazil</span><span class="citation-popover-snippet">UFO sightings in Brazil</span></span></span>
 
-Even so, Fontes appears to have stopped short of claiming certainty. Later UFO writers often strengthened the wording into direct assertions of “radiation sickness”, but the original framing was more tentative and inferential. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ignaciodarnaude.es/wp-content/uploads/2022/05/Abduction-A.Vilas-Boas1957FSR-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-snippet">Ignacio Darnaude Rojas-Marcos.by Dr. Olavo FontesConcerning his medical history, the symptoms described suggest radiation... Olavo Fonte...</span></span></span>
+Even so, Fontes appears to have stopped short of claiming certainty. Later UFO writers often strengthened the wording into direct assertions of “radiation sickness”, but the original framing was more tentative and inferential.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ignaciodarnaude.es/wp-content/uploads/2022/05/Abduction-A.Vilas-Boas1957FSR-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-snippet">Ignacio Darnaude Rojas-Marcos.by Dr. Olavo FontesConcerning his medical history, the symptoms described suggest radiation... Olavo Fonte...</span></span></span>
 
 ## What Physical Evidence Was Missing
 
@@ -297,11 +297,11 @@ The medical claims became controversial precisely because the supporting evidenc
 <img src="{{ "/assets/images/Antonio_Villas-Boas_1a3f4f_medical_radiation_cl_962e6b-Illustration-2-dark.svg" | relative_url }}" alt="Medical Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Antonio_Villas-Boas_1a3f4f_medical_radiation_cl_962e6b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antonio_Villas-Boas_1a3f4f_medical_radiation_cl_962e6b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### No radiation measurements
 
-There is no surviving record of Geiger counter readings, dosimetry, or any direct measurement showing radioactive contamination. If Villas-Boas had truly experienced significant ionising radiation exposure, investigators would normally expect some attempt at measurement or environmental sampling. None is known to exist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ignaciodarnaude.es/wp-content/uploads/2022/05/Abduction-A.Vilas-Boas1957FSR-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-snippet">Ignacio Darnaude Rojas-Marcos.by Dr. Olavo FontesConcerning his medical history, the symptoms described suggest radiation... Olavo Fonte...</span></span></span>
+There is no surviving record of Geiger counter readings, dosimetry, or any direct measurement showing radioactive contamination. If Villas-Boas had truly experienced significant ionising radiation exposure, investigators would normally expect some attempt at measurement or environmental sampling. None is known to exist.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ignaciodarnaude.es/wp-content/uploads/2022/05/Abduction-A.Vilas-Boas1957FSR-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-snippet">Ignacio Darnaude Rojas-Marcos.by Dr. Olavo FontesConcerning his medical history, the symptoms described suggest radiation... Olavo Fonte...</span></span></span>
 
 ### No laboratory confirmation
 
-No blood tests, pathology reports, or biopsy results have surfaced publicly. Modern assessments of radiation exposure depend heavily on laboratory data, particularly white blood cell changes and tissue analysis. The Villas-Boas case relied almost entirely on descriptive observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ignaciodarnaude.es/wp-content/uploads/2022/05/Abduction-A.Vilas-Boas1957FSR-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-snippet">Ignacio Darnaude Rojas-Marcos.by Dr. Olavo FontesConcerning his medical history, the symptoms described suggest radiation... Olavo Fonte...</span></span></span>
+No blood tests, pathology reports, or biopsy results have surfaced publicly. Modern assessments of radiation exposure depend heavily on laboratory data, particularly white blood cell changes and tissue analysis. The Villas-Boas case relied almost entirely on descriptive observation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ignaciodarnaude.es/wp-content/uploads/2022/05/Abduction-A.Vilas-Boas1957FSR-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-snippet">Ignacio Darnaude Rojas-Marcos.by Dr. Olavo FontesConcerning his medical history, the symptoms described suggest radiation... Olavo Fonte...</span></span></span>
 
 ### No authenticated medical photographs
 
@@ -309,7 +309,7 @@ Some later UFO publications referenced skin marks or lesions, but authenticated 
 
 ### No hospitalisation or long-term deterioration
 
-Acute radiation sickness severe enough to produce notable lesions often causes progressive systemic decline. Villas-Boas reportedly recovered and later lived a normal life, eventually becoming a lawyer and raising a family. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Brazil</span><span class="citation-popover-snippet">UFO sightings in Brazil</span></span></span>
+Acute radiation sickness severe enough to produce notable lesions often causes progressive systemic decline. Villas-Boas reportedly recovered and later lived a normal life, eventually becoming a lawyer and raising a family.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Brazil</span><span class="citation-popover-snippet">UFO sightings in Brazil</span></span></span>
 
 Supporters argue that this only proves the exposure, if real, was mild. Skeptics respond that the recovery pattern makes the radiation interpretation less convincing.
 
@@ -331,7 +331,7 @@ Several ordinary possibilities have been proposed:
 
 </div>
 
-Researcher Peter Rogerson and other skeptical writers also emphasised the problem of delayed documentation. The detailed medical narrative reached wider publication years after the alleged event, and largely through UFO research networks already invested in the story’s significance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Brazil</span><span class="citation-popover-snippet">UFO sightings in Brazil</span></span></span>
+Researcher Peter Rogerson and other skeptical writers also emphasised the problem of delayed documentation. The detailed medical narrative reached wider publication years after the alleged event, and largely through UFO research networks already invested in the story’s significance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Brazil</span><span class="citation-popover-snippet">UFO sightings in Brazil</span></span></span>
 
 Another complication is retrospective embellishment. Over decades, retellings often transformed “symptoms suggestive of radiation” into claims of medically proven radiation sickness. The distinction between observation and interpretation gradually blurred in popular UFO literature.
 
@@ -352,201 +352,201 @@ The case helped establish several recurring themes in UFO culture:
 
 </div>
 
-In that sense, the importance of the medical claims is partly cultural rather than strictly scientific. The Villas-Boas story arrived before alien abduction narratives had become standardised in popular culture, and its references to bodily symptoms made it appear more concrete than a purely visionary or dream-like experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wwno.org/2013-11-27/probing-extraterrestrial-abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwno.org">[WWNO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwno.org</span><span class="citation-popover-title">probing extraterrestrial abduction</span><span class="citation-popover-snippet">Probing Extraterrestrial Abduction27 Nov 2013 — Most abduction stories have elements in common with that of Villas Boas: kidnapping i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/20250-alien-abductions-origins.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">20250 alien abductions origins</span><span class="citation-popover-snippet">Fontes sent a detailed report about the Villas Boas case to the Aerial Phenomena Research Organization, but, Gonzalez explained, they...</span></span></span>
+In that sense, the importance of the medical claims is partly cultural rather than strictly scientific. The Villas-Boas story arrived before alien abduction narratives had become standardised in popular culture, and its references to bodily symptoms made it appear more concrete than a purely visionary or dream-like experience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wwno.org/2013-11-27/probing-extraterrestrial-abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwno.org">[WWNO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwno.org</span><span class="citation-popover-title">probing extraterrestrial abduction</span><span class="citation-popover-snippet">Probing Extraterrestrial Abduction27 Nov 2013 — Most abduction stories have elements in common with that of Villas Boas: kidnapping i...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/20250-alien-abductions-origins.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">20250 alien abductions origins</span><span class="citation-popover-snippet">Fontes sent a detailed report about the Villas Boas case to the Aerial Phenomena Research Organization, but, Gonzalez explained, they...</span></span></span>
 
 At the same time, the case demonstrates the central weakness of many early UFO medical claims: intriguing symptoms without rigorous documentation. The evidence was substantial enough to fuel decades of debate, but insufficient to settle it.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8wAbekdypYA" title="UFO - najsławniejsze uprowadzenia - Betty &amp; Barney Hill, Antonio Villas Boas, Travis Walton" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8wAbekdypYA" target="_blank" rel="noopener noreferrer">UFO - najsławniejsze uprowadzenia - Betty &amp; Barney Hill, Antonio Villas Boas, Travis Walton</a></p><p class="youtube-embed-meta">Channel: SEKIELSKI BROTHERS STUDIO &middot; Views: 135.5K &middot; Uploaded: December 2023 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8wAbekdypYA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8wAbekdypYA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were the Symptoms Evidence of Radiation?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were the Symptoms Evidence of Radiation?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Details the medical interpretations of the 1957 Brazilian case, analyzing the reports of radiation sickness against the available data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details the medical interpretations of the 1957 Brazilian case, analyzing the reports of radiation sickness against the available data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
-        </h4>
-        <p class="fr-book-author">By John E. Mack, Mack</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+</h4>
+<p class="fr-book-author">By John E. Mack, Mack</p>
         
-        <p class="fr-book-desc">Covers the psychological and physical aftermath commonly reported in close encounters, adding context to the radiation claims of the era.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the psychological and physical aftermath commonly reported in close encounters, adding context to the radiation claims of the era.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open It&#x27;s a Horse&#x27;s Life! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=swoVJIlrzmgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for It&#x27;s a Horse&#x27;s Life!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="It&#x27;s a Horse&#x27;s Life!">It&#x27;s a Horse&#x27;s Life!</a>
-        </h4>
-        <p class="fr-book-author">By Joanne Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open It&#x27;s a Horse&#x27;s Life! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=swoVJIlrzmgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for It&#x27;s a Horse&#x27;s Life!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="It&#x27;s a Horse&#x27;s Life!">It&#x27;s a Horse&#x27;s Life!</a>
+</h4>
+<p class="fr-book-author">By Joanne Friedman</p>
         
-        <p class="fr-book-desc">Documents how injury and medical claims in UFO literature have evolved over time as part of the broader abduction narrative.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents how injury and medical claims in UFO literature have evolved over time as part of the broader abduction narrative.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches how to distinguish legitimate physical symptoms from those misattributed to environmental or unknown causes in abduction claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches how to distinguish legitimate physical symptoms from those misattributed to environmental or unknown causes in abduction claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">It&#x27;s a Horse&#x27;s Life!</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">It&#x27;s a Horse&#x27;s Life!</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-symptoms-evidence-of-radiation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-symptoms-evidence-of-radiation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ At the same time, the case demonstrates the central weakness of many early UFO m
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ At the same time, the case demonstrates the central weakness of many early UFO m
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ At the same time, the case demonstrates the central weakness of many early UFO m
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ At the same time, the case demonstrates the central weakness of many early UFO m
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ At the same time, the case demonstrates the central weakness of many early UFO m
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -749,100 +749,99 @@ At the same time, the case demonstrates the central weakness of many early UFO m
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Antônio Vilas-Boas  
-   Link: <a href="https://en.wikipedia.org/wiki/Ant%C3%B4nio_Vilas-Boas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ant%C3%B4nio_Vilas-Boas</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ant%C3%B4nio_Vilas-Boas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ant%C3%B4nio_Vilas-Boas</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: UFO sightings in Brazil  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Brazil</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wwno.org  
    Title: probing extraterrestrial abduction  
-   Link: <a href="https://www.wwno.org/2013-11-27/probing-extraterrestrial-abduction" target="_blank" rel="noopener noreferrer nofollow">https://www.wwno.org/2013-11-27/probing-extraterrestrial-abduction</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Probing Extraterrestrial Abduction27 Nov 2013 — Most abduction stories have elements in common with that of Villas Boas: kidnapping i...</p></details>
+   Link:<a href="https://www.wwno.org/2013-11-27/probing-extraterrestrial-abduction" target="_blank" rel="noopener noreferrer nofollow">https://www.wwno.org/2013-11-27/probing-extraterrestrial-abduction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Probing Extraterrestrial Abduction27 Nov 2013 — Most abduction stories have elements in common with that of Villas Boas: kidnapping i...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bmQmRyMpwmE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bmQmRyMpwmE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO - the most famous abductions - Betty &amp; Barney Hill, Antonio Villas Boas, Travis Walton...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bmQmRyMpwmE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bmQmRyMpwmE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO - the most famous abductions - Betty &amp; Barney Hill, Antonio Villas Boas, Travis Walton...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=8wAbekdypYA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8wAbekdypYA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO Mystery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8wAbekdypYA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8wAbekdypYA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum UFO Mystery...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ignaciodarnaude.es  
-   Link: <a href="https://ignaciodarnaude.es/wp-content/uploads/2022/05/Abduction-A.Vilas-Boas1957FSR-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ignaciodarnaude.es/wp-content/uploads/2022/05/Abduction-A.Vilas-Boas1957FSR-3.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ignacio Darnaude Rojas-Marcos.by Dr. Olavo FontesConcerning his medical history, the symptoms described suggest radiation... Olavo Fonte...</p></details>
+   Link:<a href="https://ignaciodarnaude.es/wp-content/uploads/2022/05/Abduction-A.Vilas-Boas1957FSR-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ignaciodarnaude.es/wp-content/uploads/2022/05/Abduction-A.Vilas-Boas1957FSR-3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ignacio Darnaude Rojas-Marcos.by Dr. Olavo FontesConcerning his medical history, the symptoms described suggest radiation... Olavo Fonte...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: livescience.com  
    Title: 20250 alien abductions origins  
-   Link: <a href="https://www.livescience.com/20250-alien-abductions-origins.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/20250-alien-abductions-origins.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fontes sent a detailed report about the Villas Boas case to the Aerial Phenomena Research Organization, but, Gonzalez explained, they...</p></details>
+   Link:<a href="https://www.livescience.com/20250-alien-abductions-origins.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/20250-alien-abductions-origins.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fontes sent a detailed report about the Villas Boas case to the Aerial Phenomena Research Organization, but, Gonzalez explained, they...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RoswellUFOmuseum/posts/one-of-the-earliest-studied-cases-of-alien-abductions-happened-in-brazil-to-a-fa/1776506099055423/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoswellUFOmuseum/posts/one-of-the-earliest-studied-cases-of-alien-abductions-happened-in-brazil-to-a-fa/1776506099055423/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>International UFO Museum &amp; Research CenterAlien abduction Alien abduction (also called abduction phenomenon, alien abduction syndrome, or...</p></details>
+   Link:<a href="https://www.facebook.com/RoswellUFOmuseum/posts/one-of-the-earliest-studied-cases-of-alien-abductions-happened-in-brazil-to-a-fa/1776506099055423/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoswellUFOmuseum/posts/one-of-the-earliest-studied-cases-of-alien-abductions-happened-in-brazil-to-a-fa/1776506099055423/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International UFO Museum &amp; Research CenterAlien abduction Alien abduction (also called abduction phenomenon, alien abduction syndrome, or...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: alamy.com  
-   Link: <a href="https://www.alamy.com/stock-photo/medical-history-examination.html?pseudoid=6696D240422941AA8BA43B8E5251CCFD" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/medical-history-examination.html?pseudoid=6696D240422941AA8BA43B8E5251CCFD</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Medical history examination Stock Photos and ImagesRM 2M9BFG8–Brazilian farmer Antonio Villas Boas, abducted while working at night, is g...</p></details>
+   Link:<a href="https://www.alamy.com/stock-photo/medical-history-examination.html?pseudoid=6696D240422941AA8BA43B8E5251CCFD" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/medical-history-examination.html?pseudoid=6696D240422941AA8BA43B8E5251CCFD</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Medical history examination Stock Photos and ImagesRM 2M9BFG8–Brazilian farmer Antonio Villas Boas, abducted while working at night, is g...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: handwiki.org  
-   Link: <a href="https://www.handwiki.org/wiki/Biography%3AAnt%C3%B4nio_Vilas_Boas" target="_blank" rel="noopener noreferrer nofollow">https://www.handwiki.org/wiki/Biography%3AAnt%C3%B4nio_Vilas_Boas</a>  
+   Link:<a href="https://www.handwiki.org/wiki/Biography%3AAnt%C3%B4nio_Vilas_Boas" target="_blank" rel="noopener noreferrer nofollow">https://www.handwiki.org/wiki/Biography%3AAnt%C3%B4nio_Vilas_Boas</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: we finally know the truth about the first verified case of alien abduction nbc s  
-   Link: <a href="https://www.facebook.com/SYFY/posts/we-finally-know-the-truth-about-the-first-verified-case-of-alien-abduction-nbc-s/971928968132731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SYFY/posts/we-finally-know-the-truth-about-the-first-verified-case-of-alien-abduction-nbc-s/971928968132731/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We finally know the truth about the first verified case of...[4] Notable abduction claims 1956: Elizabeth Klarer (South Africa) 1957: An...</p></details>
+   Link:<a href="https://www.facebook.com/SYFY/posts/we-finally-know-the-truth-about-the-first-verified-case-of-alien-abduction-nbc-s/971928968132731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SYFY/posts/we-finally-know-the-truth-about-the-first-verified-case-of-alien-abduction-nbc-s/971928968132731/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We finally know the truth about the first verified case of...[4] Notable abduction claims 1956: Elizabeth Klarer (South Africa) 1957: An...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: abduction of antônio vilasboas 1957 4 years  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/xiocf6/abduction_of_ant%C3%B4nio_vilasboas_1957_4_years/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/xiocf6/abduction_of_ant%C3%B4nio_vilasboas_1957_4_years/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abduction of Antônio Vilas-Boas, 1957: 4 years before the...A brazilian farmer named Antonio Biles-Boas had an experience that&#x27;s now con...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/xiocf6/abduction_of_ant%C3%B4nio_vilasboas_1957_4_years/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/xiocf6/abduction_of_ant%C3%B4nio_vilasboas_1957_4_years/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abduction of Antônio Vilas-Boas, 1957: 4 years before the...A brazilian farmer named Antonio Biles-Boas had an experience that&#x27;s now con...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: medium.com  
    Title: PASSPOR T TO MAGONIA. On UFOs, Folklore  
-   Link: <a href="https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PASSPORT TO MAGONIA. On UFOs, Folklore... - MediumOlavo Fontes found physical evidence consistent with Villas Boas&#x27;s account, including...</p></details>
+   Link:<a href="https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PASSPORT TO MAGONIA. On UFOs, Folklore... - MediumOlavo Fontes found physical evidence consistent with Villas Boas&#x27;s account, including...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: anomalien.com  
    Title: alien abduction the antonio boas story  
-   Link: <a href="https://anomalien.com/alien-abduction-the-antonio-boas-story/" target="_blank" rel="noopener noreferrer nofollow">https://anomalien.com/alien-abduction-the-antonio-boas-story/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Abduction: The Antonio Boas Story22 Feb 2018 — Antonio Villas Boas, 23, from Brazil, reports he was abducted on October 15, 1957 wh...</p></details>
+   Link:<a href="https://anomalien.com/alien-abduction-the-antonio-boas-story/" target="_blank" rel="noopener noreferrer nofollow">https://anomalien.com/alien-abduction-the-antonio-boas-story/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Abduction: The Antonio Boas Story22 Feb 2018 — Antonio Villas Boas, 23, from Brazil, reports he was abducted on October 15, 1957 wh...</p></details>
    Published: October 15, 1957  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GhostAdventures/posts/a-victim-of-a-reported-alien-abduction-shares-her-harrowing-tale-on-the-premiere/1398591598295934/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GhostAdventures/posts/a-victim-of-a-reported-alien-abduction-shares-her-harrowing-tale-on-the-premiere/1398591598295934/?locale=en_GB</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>emiere of #GhostAdventures, tonight at 11P on Discovery...</p></details>
+   Link:<a href="https://www.facebook.com/GhostAdventures/posts/a-victim-of-a-reported-alien-abduction-shares-her-harrowing-tale-on-the-premiere/1398591598295934/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GhostAdventures/posts/a-victim-of-a-reported-alien-abduction-shares-her-harrowing-tale-on-the-premiere/1398591598295934/?locale=en_GB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>emiere of #GhostAdventures, tonight at 11P on Discovery...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: bps.org.uk  
    Title: close encounters psychological kind  
-   Link: <a href="https://www.bps.org.uk/psychologist/close-encounters-psychological-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/close-encounters-psychological-kind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Antonio Villas Boas who claimed that in 1957 he was dragged into a spaceship by aliens and forced to have sex with an attractive female...</p></details>
+   Link:<a href="https://www.bps.org.uk/psychologist/close-encounters-psychological-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/close-encounters-psychological-kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Antonio Villas Boas who claimed that in 1957 he was dragged into a spaceship by aliens and forced to have sex with an attractive female...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
    Title: Forbidden Science Dispatches #2: Dr  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/18ozrvn/forbidden_science_dispatches_2_dr_olavo_t_fontes/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/18ozrvn/forbidden_science_dispatches_2_dr_olavo_t_fontes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Olavo T. Fontes and...Olavo T. Fontes would pass away from cancer less than two years later, on May 9th, 1968. The well-regarded doctor...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/18ozrvn/forbidden_science_dispatches_2_dr_olavo_t_fontes/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/18ozrvn/forbidden_science_dispatches_2_dr_olavo_t_fontes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Olavo T. Fontes and...Olavo T. Fontes would pass away from cancer less than two years later, on May 9th, 1968. The well-regarded doctor...</p></details>

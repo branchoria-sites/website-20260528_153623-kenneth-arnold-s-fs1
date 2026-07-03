@@ -242,12 +242,12 @@ image: /assets/images/Herbert_Schirmer_abd_b149a3_case_42_evidence_faa204-Illust
 
 ## Introduction
 
-The Herbert Schirmer incident gained unusual status in UFO history because it did not remain only a personal story. The case entered the Air Force-funded University of Colorado UFO study under physicist Edward Condon and became “Case 42” in the final Condon Report. That official review matters because it tested the case against physical evidence rather than treating it solely as folklore or rumour. Investigators examined the reported landing site, checked for radiation, analysed a small metallic fragment recovered near the road, reviewed police records, and evaluated Schirmer himself. Their conclusion was cautious but clear: they found no convincing physical proof that an extraordinary craft had actually been present, even while acknowledging that the witness appeared sincere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/officer-herbert-schirmer-and-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">officer herbert schirmer and the ufo</span><span class="citation-popover-snippet">2 Aug 2020 — It is listed as case 42 in “The Scientific Study of Unidentified Flying Objects” published in 1969. Staff members from Color...</span></span></span> Wikipedia What keeps the case alive is the tension between those two findings. The official review did not dismiss Schirmer as a fraud <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>, yet it also found that the evidence failed to support an objectively verified encounter. The entire debate around “Case 42” therefore turns on one question: did anything measurable remain behind after the alleged event?
+The Herbert Schirmer incident gained unusual status in UFO history because it did not remain only a personal story. The case entered the Air Force-funded University of Colorado UFO study under physicist Edward Condon and became “Case 42” in the final Condon Report. That official review matters because it tested the case against physical evidence rather than treating it solely as folklore or rumour. Investigators examined the reported landing site, checked for radiation, analysed a small metallic fragment recovered near the road, reviewed police records, and evaluated Schirmer himself. Their conclusion was cautious but clear: they found no convincing physical proof that an extraordinary craft had actually been present, even while acknowledging that the witness appeared sincere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/officer-herbert-schirmer-and-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">officer herbert schirmer and the ufo</span><span class="citation-popover-snippet">2 Aug 2020 — It is listed as case 42 in “The Scientific Study of Unidentified Flying Objects” published in 1969. Staff members from Color...</span></span></span> Wikipedia What keeps the case alive is the tension between those two findings. The official review did not dismiss Schirmer as a fraud<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>, yet it also found that the evidence failed to support an objectively verified encounter. The entire debate around “Case 42” therefore turns on one question: did anything measurable remain behind after the alleged event?
 
 <img src="{{ "/assets/images/Herbert_Schirmer_abd_b149a3_case_42_evidence_faa204-Illustration-1-dark.svg" | relative_url }}" alt="Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/Herbert_Schirmer_abd_b149a3_case_42_evidence_faa204-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Herbert_Schirmer_abd_b149a3_case_42_evidence_faa204-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Case 42 Drew Serious Attention
 
-Most UFO reports from the 1960s vanished quickly because they lacked documentation or identifiable witnesses. Schirmer’s report looked different from the start. He was a police officer on duty, he entered a contemporaneous note into the police log, and his superiors reportedly considered him dependable. The Condon investigators specifically recorded that his superior officer viewed him as honest and emotionally stable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/officer-herbert-schirmer-and-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">officer herbert schirmer and the ufo</span><span class="citation-popover-snippet">2 Aug 2020 — It is listed as case 42 in “The Scientific Study of Unidentified Flying Objects” published in 1969. Staff members from Color...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoevidence.org/cases/case659.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.org">[UFO Evidence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.org</span><span class="citation-popover-snippet">Police Officer Herbert Schirmer AbductionSgt. Schirmer was on patrol when he encountered a UFO hovering above the road, which shot up whe...</span></span></span>
+Most UFO reports from the 1960s vanished quickly because they lacked documentation or identifiable witnesses. Schirmer’s report looked different from the start. He was a police officer on duty, he entered a contemporaneous note into the police log, and his superiors reportedly considered him dependable. The Condon investigators specifically recorded that his superior officer viewed him as honest and emotionally stable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/officer-herbert-schirmer-and-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">officer herbert schirmer and the ufo</span><span class="citation-popover-snippet">2 Aug 2020 — It is listed as case 42 in “The Scientific Study of Unidentified Flying Objects” published in 1969. Staff members from Color...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoevidence.org/cases/case659.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.org">[UFO Evidence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.org</span><span class="citation-popover-snippet">Police Officer Herbert Schirmer AbductionSgt. Schirmer was on patrol when he encountered a UFO hovering above the road, which shot up whe...</span></span></span>
 
 The case also arrived during a transitional moment in UFO research. The University of Colorado project had been tasked with determining whether UFO reports justified continuing scientific investigation. As a result, Case 42 was not treated merely as entertainment material. Investigators attempted to approach it as a possible evidence problem: if an unknown object had hovered low over a highway, some measurable trace might exist.
 
@@ -263,17 +263,17 @@ None of those areas ultimately produced decisive confirmation.
 
 ### What investigators actually found
 
-The most cited physical artefact in the Schirmer case was a tiny metallic-looking chip reportedly recovered by Schirmer’s superior near the location where the object had allegedly hovered. The fragment was described as paper-thin, less than a centimetre long, dark on one side and reflective on the other. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/officer-herbert-schirmer-and-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">officer herbert schirmer and the ufo</span><span class="citation-popover-snippet">2 Aug 2020 — It is listed as case 42 in “The Scientific Study of Unidentified Flying Objects” published in 1969. Staff members from Color...</span></span></span>
+The most cited physical artefact in the Schirmer case was a tiny metallic-looking chip reportedly recovered by Schirmer’s superior near the location where the object had allegedly hovered. The fragment was described as paper-thin, less than a centimetre long, dark on one side and reflective on the other.<span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/officer-herbert-schirmer-and-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">officer herbert schirmer and the ufo</span><span class="citation-popover-snippet">2 Aug 2020 — It is listed as case 42 in “The Scientific Study of Unidentified Flying Objects” published in 1969. Staff members from Color...</span></span></span>
 
 This detail became important because UFO cases rarely contain any recoverable material at all. For supporters of the case, the fragment represented the possibility that the encounter had produced tangible residue. The Condon investigators therefore submitted it to laboratory analysis.
 
-The results were anticlimactic. Testing reportedly identified iron and silicon as the major constituents. Those materials are common in ordinary industrial and roadside debris. Investigators did not identify unusual isotopes, exotic alloys, or manufacturing features suggesting non-human origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/officer-herbert-schirmer-and-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">officer herbert schirmer and the ufo</span><span class="citation-popover-snippet">2 Aug 2020 — It is listed as case 42 in “The Scientific Study of Unidentified Flying Objects” published in 1969. Staff members from Color...</span></span></span>
+The results were anticlimactic. Testing reportedly identified iron and silicon as the major constituents. Those materials are common in ordinary industrial and roadside debris. Investigators did not identify unusual isotopes, exotic alloys, or manufacturing features suggesting non-human origin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/officer-herbert-schirmer-and-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">officer herbert schirmer and the ufo</span><span class="citation-popover-snippet">2 Aug 2020 — It is listed as case 42 in “The Scientific Study of Unidentified Flying Objects” published in 1969. Staff members from Color...</span></span></span>
 
 ### Why the fragment failed as proof
 
 The decisive problem was provenance rather than chemistry. Investigators could not establish a reliable chain linking the chip to the alleged craft itself.
 
-According to later summaries of the Condon findings, the fragment had been found in an area already containing ordinary litter and metal refuse, including roadside debris. Because the object was not recovered directly during the event and because no one observed material falling from the craft, the committee considered the connection “tenuous”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/officer-herbert-schirmer-and-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">officer herbert schirmer and the ufo</span><span class="citation-popover-snippet">2 Aug 2020 — It is listed as case 42 in “The Scientific Study of Unidentified Flying Objects” published in 1969. Staff members from Color...</span></span></span>
+According to later summaries of the Condon findings, the fragment had been found in an area already containing ordinary litter and metal refuse, including roadside debris. Because the object was not recovered directly during the event and because no one observed material falling from the craft, the committee considered the connection “tenuous”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/officer-herbert-schirmer-and-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">officer herbert schirmer and the ufo</span><span class="citation-popover-snippet">2 Aug 2020 — It is listed as case 42 in “The Scientific Study of Unidentified Flying Objects” published in 1969. Staff members from Color...</span></span></span>
 
 That word became central to the case’s official standing. The issue was not simply that the chip looked ordinary. Even if the sighting itself were genuine, investigators had no solid reason to think the fragment came from the object rather than from the surrounding environment.
 
@@ -298,7 +298,7 @@ This pattern is common in older UFO cases. A small object, mark, or residue may 
 
 Because Schirmer described an object hovering low over the road, investigators looked for physical effects that might remain at the scene. During the 1960s, UFO investigators frequently checked alleged landing sites for radiation anomalies, scorched vegetation, magnetic disturbance, or mechanical damage.
 
-The Schirmer site produced none of the stronger indicators that investigators hoped to find. Reports associated with the Condon review state that radiation testing showed normal readings and that no convincing ground traces demonstrated the recent presence of a heavy or energetic object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/officer-herbert-schirmer-and-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">officer herbert schirmer and the ufo</span><span class="citation-popover-snippet">2 Aug 2020 — It is listed as case 42 in “The Scientific Study of Unidentified Flying Objects” published in 1969. Staff members from Color...</span></span></span>
+The Schirmer site produced none of the stronger indicators that investigators hoped to find. Reports associated with the Condon review state that radiation testing showed normal readings and that no convincing ground traces demonstrated the recent presence of a heavy or energetic object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/officer-herbert-schirmer-and-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">officer herbert schirmer and the ufo</span><span class="citation-popover-snippet">2 Aug 2020 — It is listed as case 42 in “The Scientific Study of Unidentified Flying Objects” published in 1969. Staff members from Color...</span></span></span>
 
 This mattered because Schirmer’s account involved a close-range event rather than a distant light in the sky. A hovering object only a few feet above a roadway would, in principle, have been more likely to leave measurable effects.
 
@@ -327,13 +327,13 @@ This distinction became important in the final interpretation of Case 42. The co
 1. Did Schirmer genuinely believe something unusual happened?
 2. Was there objective evidence that an extraordinary craft physically appeared?
 
-The committee leaned toward “possibly yes” on the first question and “no evidence” on the second. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/officer-herbert-schirmer-and-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">officer herbert schirmer and the ufo</span><span class="citation-popover-snippet">2 Aug 2020 — It is listed as case 42 in “The Scientific Study of Unidentified Flying Objects” published in 1969. Staff members from Color...</span></span></span>
+The committee leaned toward “possibly yes” on the first question and “no evidence” on the second.<span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/officer-herbert-schirmer-and-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">officer herbert schirmer and the ufo</span><span class="citation-popover-snippet">2 Aug 2020 — It is listed as case 42 in “The Scientific Study of Unidentified Flying Objects” published in 1969. Staff members from Color...</span></span></span>
 
 ## Why investigators accepted sincerity but not the event
 
 ### The polygraph and psychological evaluation
 
-Part of the case’s reputation comes from the fact that Schirmer reportedly passed a polygraph examination and later underwent psychological testing connected with the Colorado study. According to summaries of the case, examiners did not conclude that he was deliberately fabricating the story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/officer-herbert-schirmer-and-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">officer herbert schirmer and the ufo</span><span class="citation-popover-snippet">2 Aug 2020 — It is listed as case 42 in “The Scientific Study of Unidentified Flying Objects” published in 1969. Staff members from Color...</span></span></span>
+Part of the case’s reputation comes from the fact that Schirmer reportedly passed a polygraph examination and later underwent psychological testing connected with the Colorado study. According to summaries of the case, examiners did not conclude that he was deliberately fabricating the story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/officer-herbert-schirmer-and-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">officer herbert schirmer and the ufo</span><span class="citation-popover-snippet">2 Aug 2020 — It is listed as case 42 in “The Scientific Study of Unidentified Flying Objects” published in 1969. Staff members from Color...</span></span></span>
 
 That distinction is frequently misunderstood in popular retellings.
 
@@ -345,7 +345,7 @@ The Condon investigators therefore treated Schirmer’s apparent sincerity as re
 
 ### Hypnosis complicated the evidential picture
 
-Another complication came from hypnotic sessions conducted later in the investigation. Under [hypnosis]({{ 'hypnosis-c702a7/' | relative_url }}), Schirmer reportedly added dramatic details involving humanoid occupants, communication, and onboard experiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/officer-herbert-schirmer-and-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">officer herbert schirmer and the ufo</span><span class="citation-popover-snippet">2 Aug 2020 — It is listed as case 42 in “The Scientific Study of Unidentified Flying Objects” published in 1969. Staff members from Color...</span></span></span>
+Another complication came from hypnotic sessions conducted later in the investigation. Under [hypnosis]({{ 'hypnosis-c702a7/' | relative_url }}), Schirmer reportedly added dramatic details involving humanoid occupants, communication, and onboard experiences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/officer-herbert-schirmer-and-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">officer herbert schirmer and the ufo</span><span class="citation-popover-snippet">2 Aug 2020 — It is listed as case 42 in “The Scientific Study of Unidentified Flying Objects” published in 1969. Staff members from Color...</span></span></span>
 
 From an evidential standpoint, hypnosis weakened rather than strengthened the case in the eyes of many sceptical investigators. Even during the 1960s, memory researchers warned that hypnosis could increase confidence in imagined or reconstructed material rather than recover objective memory.
 
@@ -383,7 +383,7 @@ Sceptics emphasise something different:
 
 </div>
 
-The Condon Committee’s position largely aligned with the second framework. Investigators essentially argued that sincerity alone could not transform an unsupported account into scientific evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/officer-herbert-schirmer-and-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">officer herbert schirmer and the ufo</span><span class="citation-popover-snippet">2 Aug 2020 — It is listed as case 42 in “The Scientific Study of Unidentified Flying Objects” published in 1969. Staff members from Color...</span></span></span>
+The Condon Committee’s position largely aligned with the second framework. Investigators essentially argued that sincerity alone could not transform an unsupported account into scientific evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/officer-herbert-schirmer-and-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">officer herbert schirmer and the ufo</span><span class="citation-popover-snippet">2 Aug 2020 — It is listed as case 42 in “The Scientific Study of Unidentified Flying Objects” published in 1969. Staff members from Color...</span></span></span>
 
 <img src="{{ "/assets/images/Herbert_Schirmer_abd_b149a3_case_42_evidence_faa204-Illustration-3-dark.svg" | relative_url }}" alt="Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/Herbert_Schirmer_abd_b149a3_case_42_evidence_faa204-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Herbert_Schirmer_abd_b149a3_case_42_evidence_faa204-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Case 42 as a model of unresolved UFO evidence
@@ -404,183 +404,183 @@ That combination made the case difficult to dismiss outright yet equally difficu
 
 For historians of UFO culture, Case 42 is therefore less important as proof of alien visitation than as an example of how official investigators handled ambiguous evidence during the late Project Blue Book era. The Colorado team did not find fraud, but neither did it find measurable evidence capable of surviving scientific scrutiny.
 
-In the end, the physical record of the Schirmer incident remained surprisingly thin for a case so often described as one of the strongest police UFO encounters of the 1960s. The road produced a tiny fragment of uncertain origin, normal radiation readings, and no verifiable trace that an extraordinary machine had ever been there. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/officer-herbert-schirmer-and-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">officer herbert schirmer and the ufo</span><span class="citation-popover-snippet">2 Aug 2020 — It is listed as case 42 in “The Scientific Study of Unidentified Flying Objects” published in 1969. Staff members from Color...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
+In the end, the physical record of the Schirmer incident remained surprisingly thin for a case so often described as one of the strongest police UFO encounters of the 1960s. The road produced a tiny fragment of uncertain origin, normal radiation readings, and no verifiable trace that an extraordinary machine had ever been there.<span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/officer-herbert-schirmer-and-the-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">officer herbert schirmer and the ufo</span><span class="citation-popover-snippet">2 Aug 2020 — It is listed as case 42 in “The Scientific Study of Unidentified Flying Objects” published in 1969. Staff members from Color...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AcRu2uINLmI" title="The Alienist: Corruption in the Police Department - Season 1, Ep. 3 [CLIP] | TNT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AcRu2uINLmI" target="_blank" rel="noopener noreferrer">The Alienist: Corruption in the Police Department - Season 1, Ep. 3 [CLIP] | TNT</a></p><p class="youtube-embed-meta">Channel: TNT &middot; Views: 9.7K &middot; Uploaded: February 2018 &middot; Length: 1 minute 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AcRu2uINLmI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AcRu2uINLmI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Case 42 Leave Any Real Trace?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Case 42 Leave Any Real Trace?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides an objective case-file entry documenting the Condon Committee’s investigation into the Schirmer reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides an objective case-file entry documenting the Condon Committee’s investigation into the Schirmer reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
-        </h4>
-        <p class="fr-book-author">By John E. Mack, Mack</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+</h4>
+<p class="fr-book-author">By John E. Mack, Mack</p>
         
-        <p class="fr-book-desc">Contextualizes the Schirmer file in the history of abduction documentation, evaluating why testimony is often treated as empirical evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contextualizes the Schirmer file in the history of abduction documentation, evaluating why testimony is often treated as empirical evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches investigative standards to evaluate whether abduction research files, built on circumstantial evidence, can survive modern verifi...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches investigative standards to evaluate whether abduction research files, built on circumstantial evidence, can survive modern verifi...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Describes how government investigations contrast with privately-collected UFO researcher dossiers, providing context for what proof actua...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Describes how government investigations contrast with privately-collected UFO researcher dossiers, providing context for what proof actua...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="evidence-eb5549-did-case-42-leave-any-real-trace-herbert-schirmer-abduction-1967-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -596,7 +596,7 @@ In the end, the physical record of the Schirmer incident remained surprisingly t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -616,7 +616,7 @@ In the end, the physical record of the Schirmer incident remained surprisingly t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -648,7 +648,7 @@ In the end, the physical record of the Schirmer incident remained surprisingly t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -700,7 +700,7 @@ In the end, the physical record of the Schirmer incident remained surprisingly t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -745,7 +745,7 @@ In the end, the physical record of the Schirmer incident remained surprisingly t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -786,84 +786,84 @@ In the end, the physical record of the Schirmer incident remained surprisingly t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: podcastufo.com  
    Title: officer herbert schirmer and the ufo  
-   Link: <a href="https://podcastufo.com/officer-herbert-schirmer-and-the-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/officer-herbert-schirmer-and-the-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Aug 2020 — It is listed as case 42 in “The Scientific Study of Unidentified Flying Objects” published in 1969. Staff members from Color...</p></details>
+   Link:<a href="https://podcastufo.com/officer-herbert-schirmer-and-the-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/officer-herbert-schirmer-and-the-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Aug 2020 — It is listed as case 42 in “The Scientific Study of Unidentified Flying Objects” published in 1969. Staff members from Color...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Condon Committee  
-   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Psychosocial UFO hypothesis  
-   Link: <a href="https://en.wikipedia.org/wiki/Psychosocial_UFO_hypothesis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Psychosocial_UFO_hypothesis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychosocial UFO hypothesisClark, Jerome (1998), The UFO Book: Encyclopedia of the Extraterrestrial, Visible Ink, ISBN 1-57859-029-9 ·...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Psychosocial_UFO_hypothesis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Psychosocial_UFO_hypothesis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychosocial UFO hypothesisClark, Jerome (1998), The UFO Book: Encyclopedia of the Extraterrestrial, Visible Ink, ISBN 1-57859-029-9 ·...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: scholarworks.umass.edu  
-   Link: <a href="https://scholarworks.umass.edu/bitstreams/fcf5455e-536e-41c4-9ad3-9c7df1c6173c/download" target="_blank" rel="noopener noreferrer nofollow">https://scholarworks.umass.edu/bitstreams/fcf5455e-536e-41c4-9ad3-9c7df1c6173c/download</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Identities in Sport Fandom: Balance, Conflict, &amp; NegotiationEmpirical evidence for a relationship between fandom and physical well-being...</p></details>
+   Link:<a href="https://scholarworks.umass.edu/bitstreams/fcf5455e-536e-41c4-9ad3-9c7df1c6173c/download" target="_blank" rel="noopener noreferrer nofollow">https://scholarworks.umass.edu/bitstreams/fcf5455e-536e-41c4-9ad3-9c7df1c6173c/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identities in Sport Fandom: Balance, Conflict, &amp; NegotiationEmpirical evidence for a relationship between fandom and physical well-being...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufoevidence.org  
-   Link: <a href="https://www.ufoevidence.org/cases/case659.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case659.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Police Officer Herbert Schirmer AbductionSgt. Schirmer was on patrol when he encountered a UFO hovering above the road, which shot up whe...</p></details>
+   Link:<a href="https://www.ufoevidence.org/cases/case659.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case659.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Police Officer Herbert Schirmer AbductionSgt. Schirmer was on patrol when he encountered a UFO hovering above the road, which shot up whe...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: avalonlibrary.net  
-   Link: <a href="https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%201.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ABDUCTIONS: THE MEASURE OF A MYSTERY.The &quot;interrupted journey&quot; of Barney and Betty Hill ha5 becoMe leg- end. A Married couple sight a...</p></details>
+   Link:<a href="https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%201.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ABDUCTIONS: THE MEASURE OF A MYSTERY.The &quot;interrupted journey&quot; of Barney and Betty Hill ha5 becoMe leg- end. A Married couple sight a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: avalonlibrary.net  
-   Link: <a href="https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%202.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%202.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ABDUCTIONS: THE MEASURE OF A MYSTERY.UFO ABDUCTIONS: THE MEASURE OF A MYSTERY. Volu~e 2: Catalogue of Cases. by. Tho~as E. Bullard.Re...</p></details>
+   Link:<a href="https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%202.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%202.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ABDUCTIONS: THE MEASURE OF A MYSTERY.UFO ABDUCTIONS: THE MEASURE OF A MYSTERY. Volu~e 2: Catalogue of Cases. by. Tho~as E. Bullard.Re...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/671336928/UFO-Archive-record" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/671336928/UFO-Archive-record</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Archive Record | PDFHerbert Schirmer Ecounter With UFO. PDF. No ratings yet. Herbert Schirmer Ecounter With UFO. 10 pages. UFO Midwes...</p></details>
+   Link:<a href="https://www.scribd.com/document/671336928/UFO-Archive-record" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/671336928/UFO-Archive-record</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Archive Record | PDFHerbert Schirmer Ecounter With UFO. PDF. No ratings yet. Herbert Schirmer Ecounter With UFO. 10 pages. UFO Midwes...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: saintmarys.edu  
-   Link: <a href="https://www.saintmarys.edu/files/courier/issues/courier-09spring.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.saintmarys.edu/files/courier/issues/courier-09spring.pdf</a>  
+   Link:<a href="https://www.saintmarys.edu/files/courier/issues/courier-09spring.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.saintmarys.edu/files/courier/issues/courier-09spring.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archive.org  
    Title: The mammoth encyclopedia of extraterrestrial encounters djvu.txt  
-   Link: <a href="https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;The Mammoth Encyclopedia Of Extraterrestrial...Herbert Schirmer received some media attention in 1967; and in 1973, a repo...</p></details>
+   Link:<a href="https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;The Mammoth Encyclopedia Of Extraterrestrial...Herbert Schirmer received some media attention in 1967; and in 1973, a repo...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/041%20MAR%201968.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/041%20MAR%201968.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>*&quot;U.F.O.InvestigatorWe employees of the Cumberland. County. Nursing. Home reported a hope to obtain a full accotult of the hypnotic exper...</p></details>
+   Link:<a href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/041%20MAR%201968.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/041%20MAR%201968.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>*&quot;U.F.O.InvestigatorWe employees of the Cumberland. County. Nursing. Home reported a hope to obtain a full accotult of the hypnotic exper...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: truthbrary.mpaq.org  
    Title: Schirmers Complete Rhyming Dictionary Paul Zollo  
-   Link: <a href="https://truthbrary.mpaq.org/BOOKS/Languages%20-%20Dictionaries%20%28Books%29/Languages/Schirmers_Complete_Rhyming_Dictionary_-_Paul_Zollo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://truthbrary.mpaq.org/BOOKS/Languages%20-%20Dictionaries%20%28Books%29/Languages/Schirmers_Complete_Rhyming_Dictionary_-_Paul_Zollo.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mpaq.orgSchirmer&#x27;s Complete Rhyming Dictionary - TruthBraryRhymes. For songwriters, they are like the intricate machinery inside of a clo...</p></details>
+   Link:<a href="https://truthbrary.mpaq.org/BOOKS/Languages%20-%20Dictionaries%20%28Books%29/Languages/Schirmers_Complete_Rhyming_Dictionary_-_Paul_Zollo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://truthbrary.mpaq.org/BOOKS/Languages%20-%20Dictionaries%20%28Books%29/Languages/Schirmers_Complete_Rhyming_Dictionary_-_Paul_Zollo.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mpaq.orgSchirmer&#x27;s Complete Rhyming Dictionary - TruthBraryRhymes. For songwriters, they are like the intricate machinery inside of a clo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: believingthebizarre.com  
-   Link: <a href="https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The red welt represented tangible physical evidence—a body...Read more...</p></details>
+   Link:<a href="https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The red welt represented tangible physical evidence—a body...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archive.org  
    Title: Full text of "THE UFO ABDUCTORS Brad Steiger"  
-   Link: <a href="https://archive.org/stream/the-ufo-abductors-brad-steiger/THE%20UFO%20ABDUCTORS%20Brad%20Steiger_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/the-ufo-abductors-brad-steiger/THE%20UFO%20ABDUCTORS%20Brad%20Steiger_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO just past the intersection of Highways 6 and 63. Later, during a hypnotic session, Schirmer recalled boarding the UFO and communicati...</p></details>
+   Link:<a href="https://archive.org/stream/the-ufo-abductors-brad-steiger/THE%20UFO%20ABDUCTORS%20Brad%20Steiger_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/the-ufo-abductors-brad-steiger/THE%20UFO%20ABDUCTORS%20Brad%20Steiger_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO just past the intersection of Highways 6 and 63. Later, during a hypnotic session, Schirmer recalled boarding the UFO and communicati...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scribd.com  
    Title: Blum Beyond Earth Man s Contact with UFOs  
-   Link: <a href="https://www.scribd.com/document/731742835/Blum-Beyond-Earth-Man-s-Contact-with-UFOs" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/731742835/Blum-Beyond-Earth-Man-s-Contact-with-UFOs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings: A 1973 Overview | PDFSchirmer&#x27;s is the best-documented case of its kind on record. In reporting Case 42, the Condon Report...</p></details>
+   Link:<a href="https://www.scribd.com/document/731742835/Blum-Beyond-Earth-Man-s-Contact-with-UFOs" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/731742835/Blum-Beyond-Earth-Man-s-Contact-with-UFOs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings: A 1973 Overview | PDFSchirmer&#x27;s is the best-documented case of its kind on record. In reporting Case 42, the Condon Report...</p></details>

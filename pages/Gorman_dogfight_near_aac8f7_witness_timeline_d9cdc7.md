@@ -242,40 +242,40 @@ image: /assets/images/Gorman_dogfight_near_aac8f7_witness_timeline_d9cdc7-Illust
 
 ## Introduction
 
-The strength of the 1948 Gorman “dogfight” case depends heavily on a distinction that is often blurred in later retellings: multiple people did see an unexplained light over Fargo, but only Lieutenant George F. Gorman claimed a prolonged, high-speed aerial pursuit involving aggressive manoeuvres and near-collisions. The tower personnel and the occupants of a nearby Piper Cub corroborated the presence of a bright moving light. They did not independently confirm the dramatic turning battle described by Gorman. That gap between shared observation and individual interpretation became central to later Air Force and sceptical analyses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo dogfight gorman us plane fargo</span><span class="citation-popover-snippet">HistoryWhen a US Fighter Pilot Got Into a Dogfight with a UFO19 Jul 2018 — The government explained the rapidly maneuvering lights as a w...</span></span></span> Wikipedia Reconstructing the timeline matters because the case changed character as the minutes passed. Early in the encounter <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman dogfight</span><span class="citation-popover-snippet">Gorman dogfight</span></span></span>, several witnesses were looking at the same object in roughly the same area of sky. Later, Gorman chased the light away from Fargo and continued manoeuvring long after the tower observers had lost any meaningful sense of what he was tracking. The chronology therefore marks the point where corroboration weakens and subjective pilot perception becomes the dominant evidence.
+The strength of the 1948 Gorman “dogfight” case depends heavily on a distinction that is often blurred in later retellings: multiple people did see an unexplained light over Fargo, but only Lieutenant George F. Gorman claimed a prolonged, high-speed aerial pursuit involving aggressive manoeuvres and near-collisions. The tower personnel and the occupants of a nearby Piper Cub corroborated the presence of a bright moving light. They did not independently confirm the dramatic turning battle described by Gorman. That gap between shared observation and individual interpretation became central to later Air Force and sceptical analyses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo dogfight gorman us plane fargo</span><span class="citation-popover-snippet">HistoryWhen a US Fighter Pilot Got Into a Dogfight with a UFO19 Jul 2018 — The government explained the rapidly maneuvering lights as a w...</span></span></span> Wikipedia Reconstructing the timeline matters because the case changed character as the minutes passed. Early in the encounter<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman dogfight</span><span class="citation-popover-snippet">Gorman dogfight</span></span></span>, several witnesses were looking at the same object in roughly the same area of sky. Later, Gorman chased the light away from Fargo and continued manoeuvring long after the tower observers had lost any meaningful sense of what he was tracking. The chronology therefore marks the point where corroboration weakens and subjective pilot perception becomes the dominant evidence.
 
 <img src="{{ "/assets/images/Gorman_dogfight_near_aac8f7_witness_timeline_d9cdc7-Illustration-1-dark.svg" | relative_url }}" alt="Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/Gorman_dogfight_near_aac8f7_witness_timeline_d9cdc7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gorman_dogfight_near_aac8f7_witness_timeline_d9cdc7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Gorman's flight path and decisions
 
 ### Why Gorman stayed airborne
 
-On the evening of 1 October 1948, Gorman returned to Fargo with other North Dakota Air National Guard pilots after a cross-country exercise. The group arrived over Hector Airport at roughly 8:30 pm. While the other pilots landed, Gorman chose to remain airborne to accumulate additional night-flying time in clear weather conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman dogfight</span><span class="citation-popover-snippet">Gorman dogfight</span></span></span>
+On the evening of 1 October 1948, Gorman returned to Fargo with other North Dakota Air National Guard pilots after a cross-country exercise. The group arrived over Hector Airport at roughly 8:30 pm. While the other pilots landed, Gorman chose to remain airborne to accumulate additional night-flying time in clear weather conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman dogfight</span><span class="citation-popover-snippet">Gorman dogfight</span></span></span>
 
-At around 9 pm, Gorman was circling over Fargo in his F-51 Mustang. He noticed a Piper Cub flying below him and received confirmation from the tower that the Cub was operating in the area. At that stage, the situation was routine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
+At around 9 pm, Gorman was circling over Fargo in his F-51 Mustang. He noticed a Piper Cub flying below him and received confirmation from the tower that the Cub was operating in the area. At that stage, the situation was routine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
 
-The event changed when Gorman observed another light to his west. He later stressed that he could distinguish the Piper Cub’s physical outline against the city lights, but could not see any fuselage or wings attached to the second object. He described it initially as a blinking white light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman dogfight</span><span class="citation-popover-snippet">Gorman dogfight</span></span></span>
+The event changed when Gorman observed another light to his west. He later stressed that he could distinguish the Piper Cub’s physical outline against the city lights, but could not see any fuselage or wings attached to the second object. He described it initially as a blinking white light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman dogfight</span><span class="citation-popover-snippet">Gorman dogfight</span></span></span>
 
 ### The first interception attempt
 
-At approximately 9:07 pm, Gorman radioed Hector Airport and asked whether any aircraft other than the Piper Cub and his own fighter were nearby. The tower answered no. The controller then contacted the Piper Cub pilot, Dr A. D. Cannon, who confirmed that he and his passenger could also see a light to the west. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
+At approximately 9:07 pm, Gorman radioed Hector Airport and asked whether any aircraft other than the Piper Cub and his own fighter were nearby. The tower answered no. The controller then contacted the Piper Cub pilot, Dr A. D. Cannon, who confirmed that he and his passenger could also see a light to the west.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
 
 That exchange is one of the strongest corroborated points in the case. It establishes that:
 
-* Gorman saw a light. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/worldwarwings/posts/in-1948-george-f-gorman-a-25-year-old-wwii-veteran-and-north-dakota-national-gua/1157356346432782/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">in 1948 george f gorman a 25 year old wwii veteran and north dakota national gua</span><span class="citation-popover-snippet">In 1948, George F. Gorman, a 25-year-old WWII veteran...&quot; The pilot of the Piper Cub, Dr. A. E. Cannon, and his passenger, Einar Nielson...</span></span></span>
+* Gorman saw a light.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/worldwarwings/posts/in-1948-george-f-gorman-a-25-year-old-wwii-veteran-and-north-dakota-national-gua/1157356346432782/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">in 1948 george f gorman a 25 year old wwii veteran and north dakota national gua</span><span class="citation-popover-snippet">In 1948, George F. Gorman, a 25-year-old WWII veteran...&quot; The pilot of the Piper Cub, Dr. A. E. Cannon, and his passenger, Einar Nielson...</span></span></span>
 * The Piper Cub occupants saw a light.
 * Tower personnel were aware that something luminous was present in the area.
 
 It does not establish that all witnesses perceived identical motion or behaviour.
 
-After receiving confirmation that the object was not known air traffic, Gorman decided to investigate. He accelerated to several hundred miles per hour and attempted to close the distance. He later claimed the light became steady and brighter as he approached it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
+After receiving confirmation that the object was not known air traffic, Gorman decided to investigate. He accelerated to several hundred miles per hour and attempted to close the distance. He later claimed the light became steady and brighter as he approached it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
 
 ### The reported “dogfight”
 
-The most famous part of the incident comes from Gorman’s own account of the next twenty minutes. According to his later sworn statement, the object appeared to execute abrupt turns, steep climbs, and repeated apparent passes toward his aircraft. He described one near head-on approach in which he believed a collision was imminent before the light passed above his canopy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
+The most famous part of the incident comes from Gorman’s own account of the next twenty minutes. According to his later sworn statement, the object appeared to execute abrupt turns, steep climbs, and repeated apparent passes toward his aircraft. He described one near head-on approach in which he believed a collision was imminent before the light passed above his canopy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
 
-Gorman also reported climbing steeply in pursuit. During one climb, he said his F-51 stalled at roughly 14,000 feet while the object continued upward beyond him. He claimed the object repeatedly out-turned and out-climbed his aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
+Gorman also reported climbing steeply in pursuit. During one climb, he said his F-51 stalled at roughly 14,000 feet while the object continued upward beyond him. He claimed the object repeatedly out-turned and out-climbed his aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
 
-In his later testimony, Gorman framed the motion as intelligent rather than random. He argued that the object behaved according to “the laws of inertia”, meaning that it curved naturally rather than changing direction instantaneously. He also stated that he briefly blacked out while trying to match its manoeuvres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
+In his later testimony, Gorman framed the motion as intelligent rather than random. He argued that the object behaved according to “the laws of inertia”, meaning that it curved naturally rather than changing direction instantaneously. He also stated that he briefly blacked out while trying to match its manoeuvres.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
 
 That detail is important because it later became part of the sceptical interpretation. Investigators argued that a pilot performing aggressive night manoeuvres around a distant point of light could easily misjudge relative motion, speed, and distance.
 
@@ -283,7 +283,7 @@ That detail is important because it later became part of the sceptical interpret
 
 ### The final phase south-west of Fargo
 
-The encounter eventually moved away from Hector Airport. Gorman continued following the light to the south-west of Fargo, reportedly as far as twenty-five miles from the city. He finally lost sight of it around 9:27 pm and returned to land. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
+The encounter eventually moved away from Hector Airport. Gorman continued following the light to the south-west of Fargo, reportedly as far as twenty-five miles from the city. He finally lost sight of it around 9:27 pm and returned to land.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
 
 This later stage is where the evidential structure changes most sharply. By then, there were effectively no independent observers capable of verifying what Gorman was chasing or how the object behaved. The only detailed description of the “combat” phase came from Gorman himself.
 
@@ -291,20 +291,20 @@ This later stage is where the evidential structure changes most sharply. By then
 
 ### What the tower controller actually confirmed
 
-The principal tower witness was L. D. Jensen, the air traffic controller at Hector Airport. Jensen observed the light through binoculars while Gorman pursued it. He reportedly could not see any definite shape around the light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
+The principal tower witness was L. D. Jensen, the air traffic controller at Hector Airport. Jensen observed the light through binoculars while Gorman pursued it. He reportedly could not see any definite shape around the light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
 
-That testimony is narrower than many later UFO summaries imply. Jensen corroborated the existence of a visible luminous object. He did not independently verify impossible accelerations, close passes, or extreme climbs. In fact, later Air Force analysis specifically noted that tower observers did not report the spectacular manoeuvres described by Gorman. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
+That testimony is narrower than many later UFO summaries imply. Jensen corroborated the existence of a visible luminous object. He did not independently verify impossible accelerations, close passes, or extreme climbs. In fact, later Air Force analysis specifically noted that tower observers did not report the spectacular manoeuvres described by Gorman.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
 
 The distinction matters because a distant light can appear unusual without behaving like a structured craft. Much of the later mythology of the case treats all witnesses as though they confirmed the same event in the same way. The surviving descriptions do not support that interpretation.
 
 <img src="{{ "/assets/images/Gorman_dogfight_near_aac8f7_witness_timeline_d9cdc7-Illustration-2-dark.svg" | relative_url }}" alt="Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/Gorman_dogfight_near_aac8f7_witness_timeline_d9cdc7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gorman_dogfight_near_aac8f7_witness_timeline_d9cdc7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Piper Cub witnesses
 
-The Piper Cub was flown by Dr A. D. Cannon, accompanied by a passenger generally identified as Einar Nielson. Both men confirmed seeing a light in the western sky while airborne. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
+The Piper Cub was flown by Dr A. D. Cannon, accompanied by a passenger generally identified as Einar Nielson. Both men confirmed seeing a light in the western sky while airborne.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
 
-At some point during the event, Cannon landed and went to the tower with his passenger to continue observing the object from the ground. This detail strengthened the impression that the sighting involved several independent witnesses connected to aviation rather than casual observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
+At some point during the event, Cannon landed and went to the tower with his passenger to continue observing the object from the ground. This detail strengthened the impression that the sighting involved several independent witnesses connected to aviation rather than casual observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
 
-However, the Piper Cub testimony has often been overstated in later retellings. Some popular accounts claim Cannon confirmed impossible speeds or extraordinary manoeuvres. The more careful historical summaries indicate only that he saw a bright moving light and believed it was travelling rapidly relative to Gorman’s fighter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
+However, the Piper Cub testimony has often been overstated in later retellings. Some popular accounts claim Cannon confirmed impossible speeds or extraordinary manoeuvres. The more careful historical summaries indicate only that he saw a bright moving light and believed it was travelling rapidly relative to Gorman’s fighter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
 
 Importantly, Cannon and his passenger did not follow the object across large distances, did not engage in aerial pursuit, and did not provide a minute-by-minute reconstruction matching Gorman’s account.
 
@@ -343,7 +343,7 @@ Those dramatic elements came almost entirely from Gorman’s interpretation duri
 
 The strongest modern readings of the case separate the encounter into two stages.
 
-The first stage involved shared observation near Fargo: a light seen by Gorman, the Piper Cub crew, and tower personnel. This part is relatively solid historically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
+The first stage involved shared observation near Fargo: a light seen by Gorman, the Piper Cub crew, and tower personnel. This part is relatively solid historically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
 
 The second stage involved Gorman’s prolonged pursuit and interpretation of the light’s behaviour. Here, corroboration weakens sharply. Once the chase moved farther from the airport and became dependent on rapid manoeuvring in darkness, no outside observer could reliably track both aircraft and object together.
 
@@ -353,11 +353,11 @@ That transition is crucial because the “dogfight” reputation rests mostly on
 
 ### Why investigators focused on perception
 
-Project Sign investigators eventually concluded that a lighted weather balloon probably explained the original object seen near Fargo. Air Weather Service records showed that a balloon equipped with a light had been released from Fargo at approximately 8:50 pm, placing it in the right general area around the beginning of the sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
+Project Sign investigators eventually concluded that a lighted weather balloon probably explained the original object seen near Fargo. Air Weather Service records showed that a balloon equipped with a light had been released from Fargo at approximately 8:50 pm, placing it in the right general area around the beginning of the sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
 
-Investigators then argued that Gorman’s later impressions of violent motion were amplified by his own manoeuvres. A pilot turning sharply at night while fixated on a single bright point can create powerful illusions of relative movement. Changes in angle, background, and aircraft attitude may make the light appear to dart, climb, or rush directly at the observer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
+Investigators then argued that Gorman’s later impressions of violent motion were amplified by his own manoeuvres. A pilot turning sharply at night while fixated on a single bright point can create powerful illusions of relative movement. Changes in angle, background, and aircraft attitude may make the light appear to dart, climb, or rush directly at the observer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
 
-Project Sign also proposed that after losing the original light, Gorman may at some point have continued chasing Jupiter near the horizon. Critics of the Air Force explanation dispute that part of the theory more strongly than the weather-balloon component. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
+Project Sign also proposed that after losing the original light, Gorman may at some point have continued chasing Jupiter near the horizon. Critics of the Air Force explanation dispute that part of the theory more strongly than the weather-balloon component.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
 
 <img src="{{ "/assets/images/Gorman_dogfight_near_aac8f7_witness_timeline_d9cdc7-Illustration-3-dark.svg" | relative_url }}" alt="Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/Gorman_dogfight_near_aac8f7_witness_timeline_d9cdc7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gorman_dogfight_near_aac8f7_witness_timeline_d9cdc7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why the case still remained influential
@@ -374,167 +374,167 @@ Even with those weaknesses, the Gorman case retained unusual influence because i
 
 </div>
 
-Those features made the case appear much stronger than a simple lone-witness sighting. Yet the witness timeline shows that the corroboration was narrower than the legend suggests. Multiple observers confirmed a mysterious light over Fargo. Only Gorman described an extended aerial duel with an intelligently controlled object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo dogfight gorman us plane fargo</span><span class="citation-popover-snippet">HistoryWhen a US Fighter Pilot Got Into a Dogfight with a UFO19 Jul 2018 — The government explained the rapidly maneuvering lights as a w...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
+Those features made the case appear much stronger than a simple lone-witness sighting. Yet the witness timeline shows that the corroboration was narrower than the legend suggests. Multiple observers confirmed a mysterious light over Fargo. Only Gorman described an extended aerial duel with an intelligently controlled object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo dogfight gorman us plane fargo</span><span class="citation-popover-snippet">HistoryWhen a US Fighter Pilot Got Into a Dogfight with a UFO19 Jul 2018 — The government explained the rapidly maneuvering lights as a w...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman Dogfight</span><span class="citation-popover-snippet">Gorman Dogfight</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Saw What During the Fargo Chase?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Saw What During the Fargo Chase?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Maps out the chronology of the Fargo sighting, from initial takeoff to tower observation to the subsequent chase phase.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Maps out the chronology of the Fargo sighting, from initial takeoff to tower observation to the subsequent chase phase.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Cross-references the sequential reports from ground towers, secondary observers, and the pilot&#x27;s own radio logs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Cross-references the sequential reports from ground towers, secondary observers, and the pilot&#x27;s own radio logs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches skills for auditing how witness testimony evolves between immediate radio communication and later formal questioning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches skills for auditing how witness testimony evolves between immediate radio communication and later formal questioning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Documents how investigative bureaus processed multiple reports for chronological accuracy during flight incident audits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents how investigative bureaus processed multiple reports for chronological accuracy during flight incident audits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: history.com  
    Title: ufo dogfight gorman us plane fargo  
-   Link: <a href="https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo</a>  
+   Link:<a href="https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Gorman dogfight  
-   Link: <a href="https://en.wikipedia.org/wiki/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gorman_dogfight</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gorman_dogfight</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Gorman Dogfight  
-   Link: <a href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Gorman_Dogfight</a>  
+   Link:<a href="https://de.wikipedia.org/wiki/Gorman_Dogfight" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Gorman_Dogfight</a>  
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2030822207183428/posts/2137635036502144/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2030822207183428/posts/2137635036502144/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Other postsAs he was preparing to land, the control tower advised him that a Piper Cub was in the air.... Gorman had a dogfight with a w...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2030822207183428/posts/2137635036502144/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2030822207183428/posts/2137635036502144/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Other postsAs he was preparing to land, the control tower advised him that a Piper Cub was in the air.... Gorman had a dogfight with a w...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
    Title: in 1948 george f gorman a 25 year old wwii veteran and north dakota national gua  
-   Link: <a href="https://www.facebook.com/worldwarwings/posts/in-1948-george-f-gorman-a-25-year-old-wwii-veteran-and-north-dakota-national-gua/1157356346432782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/worldwarwings/posts/in-1948-george-f-gorman-a-25-year-old-wwii-veteran-and-north-dakota-national-gua/1157356346432782/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1948, George F. Gorman, a 25-year-old WWII veteran...&quot; The pilot of the Piper Cub, Dr. A. E. Cannon, and his passenger, Einar Nielson...</p></details>
+   Link:<a href="https://www.facebook.com/worldwarwings/posts/in-1948-george-f-gorman-a-25-year-old-wwii-veteran-and-north-dakota-national-gua/1157356346432782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/worldwarwings/posts/in-1948-george-f-gorman-a-25-year-old-wwii-veteran-and-north-dakota-national-gua/1157356346432782/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1948, George F. Gorman, a 25-year-old WWII veteran...&quot; The pilot of the Piper Cub, Dr. A. E. Cannon, and his passenger, Einar Nielson...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: krocnews.com  
    Title: 1948 dogfight with ufo above fargo on history channel video  
-   Link: <a href="https://krocnews.com/1948-dogfight-with-ufo-above-fargo-on-history-channel-video/" target="_blank" rel="noopener noreferrer nofollow">https://krocnews.com/1948-dogfight-with-ufo-above-fargo-on-history-channel-video/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1948 Dogfight With UFO Above Fargo On History Channel...A widely publicized UFO incident occurred when 25 years old George Gorman spotte...</p></details>
+   Link:<a href="https://krocnews.com/1948-dogfight-with-ufo-above-fargo-on-history-channel-video/" target="_blank" rel="noopener noreferrer nofollow">https://krocnews.com/1948-dogfight-with-ufo-above-fargo-on-history-channel-video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1948 Dogfight With UFO Above Fargo On History Channel...A widely publicized UFO incident occurred when 25 years old George Gorman spotte...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DPCJb3DgMfD/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DPCJb3DgMfD/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 1948, in the skies over Fargo, North Dakota, United States.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DPCJb3DgMfD/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DPCJb3DgMfD/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 1948, in the skies over Fargo, North Dakota, United States.Read more...</p></details>
    Published: October 1, 1948  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: wyominghistoryday.org  
    Title: ufo sighting fargo north dakota october 1 1948  
-   Link: <a href="https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/ufo-sighting-fargo-north-dakota-october-1-1948" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/ufo-sighting-fargo-north-dakota-october-1-1948</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting in Fargo, North Dakota on October 1, 1948Records from U.S. Air Force&#x27;s &quot;Project Sign&quot; relating to Gorman sighting. The copie...</p></details>
+   Link:<a href="https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/ufo-sighting-fargo-north-dakota-october" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/ufo-sighting-fargo-north-dakota-october</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting in Fargo, North Dakota on October 1, 1948Records from U.S. Air Force&#x27;s &quot;Project Sign&quot; relating to Gorman sighting. The copie...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100095324142521/posts/flying-his-p-51-mustang-on-a-clear-october-evening-gorman-spotted-something-stra/1007643215756474/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100095324142521/posts/flying-his-p-51-mustang-on-a-clear-october-evening-gorman-spotted-something-stra/1007643215756474/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the air. Gorman saw the Piper 500 feet below, but then...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/100095324142521/posts/flying-his-p-51-mustang-on-a-clear-october-evening-gorman-spotted-something-stra/1007643215756474/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100095324142521/posts/flying-his-p-51-mustang-on-a-clear-october-evening-gorman-spotted-something-stra/1007643215756474/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the air. Gorman saw the Piper 500 feet below, but then...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ancientastronauttheory/posts/2230963380754342/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ancientastronauttheory/posts/2230963380754342/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a weather balloon, but ufologists never believed this theory...</p></details>
+   Link:<a href="https://www.facebook.com/groups/ancientastronauttheory/posts/2230963380754342/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ancientastronauttheory/posts/2230963380754342/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a weather balloon, but ufologists never believed this theory...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theportugalnews.com  
    Title: the gorman white ball engagement  
-   Link: <a href="https://www.theportugalnews.com/news/2022-03-20/the-gorman-white-ball-engagement/65849" target="_blank" rel="noopener noreferrer nofollow">https://www.theportugalnews.com/news/2022-03-20/the-gorman-white-ball-engagement/65849</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Mar 2022 —... Fargo weather station had purportedly released a balloon ten minutes prior to the engagement.... Cannon, the pilot of...</p></details>
+   Link:<a href="https://www.theportugalnews.com/news/2022-03-20/the-gorman-white-ball-engagement/65849" target="_blank" rel="noopener noreferrer nofollow">https://www.theportugalnews.com/news/2022-03-20/the-gorman-white-ball-engagement/65849</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 Mar 2022 —... Fargo weather station had purportedly released a balloon ten minutes prior to the engagement.... Cannon, the pilot of...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: gorman ufo dogfight of 1948  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/vbdsp8/gorman_ufo_dogfight_of_1948/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/vbdsp8/gorman_ufo_dogfight_of_1948/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gorman dogfight was a UFO incident which took place on October 1, 1948, in the skies over Fargo, North Dakota, United States.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/vbdsp8/gorman_ufo_dogfight_of_1948/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/vbdsp8/gorman_ufo_dogfight_of_1948/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Gorman dogfight was a UFO incident which took place on October 1, 1948, in the skies over Fargo, North Dakota, United States.Read more...</p></details>
    Published: October 1, 1948  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: open.spotify.com  
    Title: 6RI6INVUJTwl5VRk WUOqk2  
-   Link: <a href="https://open.spotify.com/episode/6RI6INVUJTwl5VRkWUOqk2" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/6RI6INVUJTwl5VRkWUOqk2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>#124 - What If You Chased A UFO? (Project Blue Book...What did George Gorman actually see, and dogfight with, that night in October? Wh...</p></details>
+   Link:<a href="https://open.spotify.com/episode/6RI6INVUJTwl5VRkWUOqk2" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/6RI6INVUJTwl5VRkWUOqk2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#124 - What If You Chased A UFO? (Project Blue Book...What did George Gorman actually see, and dogfight with, that night in October? Wh...</p></details>

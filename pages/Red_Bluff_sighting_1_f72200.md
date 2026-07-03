@@ -758,33 +758,33 @@ image: /assets/images/Red_Bluff_sighting_1_f72200-overview-social.jpg
 
 ## What the Officers Reported
 
-On the night in question, **California Highway Patrol officers Charles A. Carson and Stanley Scott** were patrolling **Hoag Road east of Corning**, south of Red Bluff, when they saw what initially appeared to be an aircraft in distress. Around **11:50 p.m.**, they observed a large lighted object descending rapidly at first — seemingly on a collision course with terrain — then **hovering silently 100–200 feet above the ground** before reversing direction and climbing to around 500 feet. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/600813.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Red Bluff UFO</span><span class="citation-popover-snippet">Red Bluff UFO</span></span></span>
+On the night in question, **California Highway Patrol officers Charles A. Carson and Stanley Scott** were patrolling **Hoag Road east of Corning**, south of Red Bluff, when they saw what initially appeared to be an aircraft in distress. Around **11:50 p.m.**, they observed a large lighted object descending rapidly at first — seemingly on a collision course with terrain — then **hovering silently 100–200 feet above the ground** before reversing direction and climbing to around 500 feet.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/600813.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Red Bluff UFO</span><span class="citation-popover-snippet">Red Bluff UFO</span></span></span>
 
 <img src="{{ "/assets/images/Red_Bluff_sighting_1_f72200-overview.webp" | relative_url }}" alt="Overview image for Red Bluff sighting 1960" loading="eager" decoding="sync" fetchpriority="high">
-According to their accounts, the object was **oblong or round**, surrounded by a glow, and had **definite red lights at each end**, with intermittent white lights in between. Over the course of the sighting (which various witness reports suggest lasted more than two hours), they described the object performing manoeuvres described as “unbelievable” — including abrupt direction changes and rapid ascents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/600813.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Red Bluff UFO</span><span class="citation-popover-snippet">Red Bluff UFO</span></span></span>
+According to their accounts, the object was **oblong or round**, surrounded by a glow, and had **definite red lights at each end**, with intermittent white lights in between. Over the course of the sighting (which various witness reports suggest lasted more than two hours), they described the object performing manoeuvres described as “unbelievable” — including abrupt direction changes and rapid ascents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/600813.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Red Bluff UFO</span><span class="citation-popover-snippet">Red Bluff UFO</span></span></span>
 
-As the officers continued to observe, the object came close to their patrol vehicle on several occasions, reportedly sweeping a **bright red beam of light** over the area. They also experienced **radio interference** when attempting to communicate, an effect they associated with the object’s proximity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/redbluff-1960.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">Red Bluff</span><span class="citation-popover-snippet">1960On August 13, 1960 at about 11:30PM, Officers [Scott] and [Carson] of the California Hiway [sic] Patrol radioed the Tehama Co. Sherif...</span><span class="citation-popover-meta">Published: August 13, 1960</span></span></span>
+As the officers continued to observe, the object came close to their patrol vehicle on several occasions, reportedly sweeping a **bright red beam of light** over the area. They also experienced **radio interference** when attempting to communicate, an effect they associated with the object’s proximity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/redbluff-1960.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">Red Bluff</span><span class="citation-popover-snippet">1960On August 13, 1960 at about 11:30PM, Officers [Scott] and [Carson] of the California Hiway [sic] Patrol radioed the Tehama Co. Sherif...</span><span class="citation-popover-meta">Published: August 13, 1960</span></span></span>
 
 ## Corroborating Witnesses and Radar Claims
 
-Following the initial sighting, the officers reported the event to the **Tehama County Sheriff’s Office**. Other law enforcement personnel — including deputies — reportedly saw the object from different vantage points. Additional civilian witnesses in the region also described seeing unusual lights or objects in the sky that night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/redbluff-1960.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">Red Bluff</span><span class="citation-popover-snippet">1960On August 13, 1960 at about 11:30PM, Officers [Scott] and [Carson] of the California Hiway [sic] Patrol radioed the Tehama Co. Sherif...</span><span class="citation-popover-meta">Published: August 13, 1960</span></span></span>
+Following the initial sighting, the officers reported the event to the **Tehama County Sheriff’s Office**. Other law enforcement personnel — including deputies — reportedly saw the object from different vantage points. Additional civilian witnesses in the region also described seeing unusual lights or objects in the sky that night.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/redbluff-1960.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">Red Bluff</span><span class="citation-popover-snippet">1960On August 13, 1960 at about 11:30PM, Officers [Scott] and [Carson] of the California Hiway [sic] Patrol radioed the Tehama Co. Sherif...</span><span class="citation-popover-meta">Published: August 13, 1960</span></span></span>
 
-Some accounts from the period also suggest that personnel at the nearby **Red Bluff Air Force Radar Station** initially confirmed an unidentified return on radar during the sighting. However, subsequent statements from military personnel, when officers later inquired, denied any radar detection of an unknown target that night. This apparent contradiction has fuelled much of the later debate about the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/redbluff-1960.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">Red Bluff</span><span class="citation-popover-snippet">1960On August 13, 1960 at about 11:30PM, Officers [Scott] and [Carson] of the California Hiway [sic] Patrol radioed the Tehama Co. Sherif...</span><span class="citation-popover-meta">Published: August 13, 1960</span></span></span>
+Some accounts from the period also suggest that personnel at the nearby **Red Bluff Air Force Radar Station** initially confirmed an unidentified return on radar during the sighting. However, subsequent statements from military personnel, when officers later inquired, denied any radar detection of an unknown target that night. This apparent contradiction has fuelled much of the later debate about the case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/redbluff-1960.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">Red Bluff</span><span class="citation-popover-snippet">1960On August 13, 1960 at about 11:30PM, Officers [Scott] and [Carson] of the California Hiway [sic] Patrol radioed the Tehama Co. Sherif...</span><span class="citation-popover-meta">Published: August 13, 1960</span></span></span>
 
 <img src="{{ "/assets/images/Red_Bluff_sighting_1_f72200-Illustration-1-dark.svg" | relative_url }}" alt="Red Bluff sighting 1960 illustration 1" data-theme-src-dark="{{ "/assets/images/Red_Bluff_sighting_1_f72200-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Red_Bluff_sighting_1_f72200-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official Investigation: Project Blue Book
 
-The Red Bluff incident attracted the attention of the United States Air Force’s official UFO investigation programme, **Project Blue Book**, which operated from 1952 to 1969 to analyse reported UFO sightings. Under Blue Book’s protocols, significant sightings — especially those involving credible witnesses such as trained observers or multiple corroborators — were documented and evaluated against potential conventional [explanations]({{ 'explanations-3a7447/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+The Red Bluff incident attracted the attention of the United States Air Force’s official UFO investigation programme, **Project Blue Book**, which operated from 1952 to 1969 to analyse reported UFO sightings. Under Blue Book’s protocols, significant sightings — especially those involving credible witnesses such as trained observers or multiple corroborators — were documented and evaluated against potential conventional [explanations]({{ 'explanations-3a7447/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
-Declassified Blue Book documentation indicates that personnel collected witness statements and attempted to reconcile accounts with available radar data. According to summaries of those records, the Air Force ultimately classified the case with an explanation involving **atmospheric refraction of bright celestial objects** (specifically, planetary and stellar light being distorted under certain conditions) — though this interpretation has been questioned by researchers and remains controversial among UFO historians. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/redbluff-1960.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">Red Bluff</span><span class="citation-popover-snippet">1960On August 13, 1960 at about 11:30PM, Officers [Scott] and [Carson] of the California Hiway [sic] Patrol radioed the Tehama Co. Sherif...</span><span class="citation-popover-meta">Published: August 13, 1960</span></span></span>
+Declassified Blue Book documentation indicates that personnel collected witness statements and attempted to reconcile accounts with available radar data. According to summaries of those records, the Air Force ultimately classified the case with an explanation involving **atmospheric refraction of bright celestial objects** (specifically, planetary and stellar light being distorted under certain conditions) — though this interpretation has been questioned by researchers and remains controversial among UFO historians.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/redbluff-1960.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">Red Bluff</span><span class="citation-popover-snippet">1960On August 13, 1960 at about 11:30PM, Officers [Scott] and [Carson] of the California Hiway [sic] Patrol radioed the Tehama Co. Sherif...</span><span class="citation-popover-meta">Published: August 13, 1960</span></span></span>
 
 ## Skeptical Interpretations and Challenges
 
 Critics of the more extraordinary interpretations of the Red Bluff sighting point out several factors that complicate the narrative:
 
-* **Atmospheric optics**: Temperature inversions and atmospheric layering can cause lights from distant sources — such as stars, planets, or artificial lighting — to be refracted in ways that appear to move or hover. This is one of the conventional phenomena the Air Force cited in its classification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/redbluff-1960.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">Red Bluff</span><span class="citation-popover-snippet">1960On August 13, 1960 at about 11:30PM, Officers [Scott] and [Carson] of the California Hiway [sic] Patrol radioed the Tehama Co. Sherif...</span><span class="citation-popover-meta">Published: August 13, 1960</span></span></span>
-* **Inconsistencies in witness reports**: Some later analysis of sheriff’s reports and media coverage shows variations in times, directions, and descriptions when compared across different witness accounts, which can reduce the reliability of a single unified event narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/redbluff-1960.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">Red Bluff</span><span class="citation-popover-snippet">1960On August 13, 1960 at about 11:30PM, Officers [Scott] and [Carson] of the California Hiway [sic] Patrol radioed the Tehama Co. Sherif...</span><span class="citation-popover-meta">Published: August 13, 1960</span></span></span>
-* **Radar ambiguity**: The record of a confirmed radar return remains contested. While officers were told a radar contact had occurred, subsequent official denials and the publicly available radar logs do not clearly document an unidentified return matching the sighting’s timeframe. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/redbluff-1960.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">Red Bluff</span><span class="citation-popover-snippet">1960On August 13, 1960 at about 11:30PM, Officers [Scott] and [Carson] of the California Hiway [sic] Patrol radioed the Tehama Co. Sherif...</span><span class="citation-popover-meta">Published: August 13, 1960</span></span></span>
+* **Atmospheric optics**: Temperature inversions and atmospheric layering can cause lights from distant sources — such as stars, planets, or artificial lighting — to be refracted in ways that appear to move or hover. This is one of the conventional phenomena the Air Force cited in its classification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/redbluff-1960.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">Red Bluff</span><span class="citation-popover-snippet">1960On August 13, 1960 at about 11:30PM, Officers [Scott] and [Carson] of the California Hiway [sic] Patrol radioed the Tehama Co. Sherif...</span><span class="citation-popover-meta">Published: August 13, 1960</span></span></span>
+* **Inconsistencies in witness reports**: Some later analysis of sheriff’s reports and media coverage shows variations in times, directions, and descriptions when compared across different witness accounts, which can reduce the reliability of a single unified event narrative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/redbluff-1960.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">Red Bluff</span><span class="citation-popover-snippet">1960On August 13, 1960 at about 11:30PM, Officers [Scott] and [Carson] of the California Hiway [sic] Patrol radioed the Tehama Co. Sherif...</span><span class="citation-popover-meta">Published: August 13, 1960</span></span></span>
+* **Radar ambiguity**: The record of a confirmed radar return remains contested. While officers were told a radar contact had occurred, subsequent official denials and the publicly available radar logs do not clearly document an unidentified return matching the sighting’s timeframe.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/redbluff-1960.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">Red Bluff</span><span class="citation-popover-snippet">1960On August 13, 1960 at about 11:30PM, Officers [Scott] and [Carson] of the California Hiway [sic] Patrol radioed the Tehama Co. Sherif...</span><span class="citation-popover-meta">Published: August 13, 1960</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UlmwakUTo3M" title="UFO Interview, 1966" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UlmwakUTo3M" target="_blank" rel="noopener noreferrer">UFO Interview, 1966</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 688.0K &middot; Uploaded: September 2013 &middot; Length: 4 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UlmwakUTo3M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UlmwakUTo3M">Open on YouTube</a></p></div></div></div>
 
@@ -792,9 +792,9 @@ Critics of the more extraordinary interpretations of the Red Bluff sighting poin
 
 The Red Bluff incident continues to be cited in UFO literature for several reasons:
 
-* **Witness credibility**: Sightings by trained, sober, professional law enforcement officers are relatively rare and tend to attract sustained interest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/600813.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Red Bluff UFO</span><span class="citation-popover-snippet">Red Bluff UFO</span></span></span>
-* **Detail and duration**: The event wasn’t a brief flash or ambiguous distant light; the officers reported **extended close observation** with specific manoeuvres. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/redbluff-1960.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">Red Bluff</span><span class="citation-popover-snippet">1960On August 13, 1960 at about 11:30PM, Officers [Scott] and [Carson] of the California Hiway [sic] Patrol radioed the Tehama Co. Sherif...</span><span class="citation-popover-meta">Published: August 13, 1960</span></span></span>
-* **Attempts at official investigation**: The involvement of Project Blue Book ensured contemporaneous documentation and provides researchers with a formal investigation record, even if inconclusive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/redbluff-1960.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">Red Bluff</span><span class="citation-popover-snippet">1960On August 13, 1960 at about 11:30PM, Officers [Scott] and [Carson] of the California Hiway [sic] Patrol radioed the Tehama Co. Sherif...</span><span class="citation-popover-meta">Published: August 13, 1960</span></span></span>
+* **Witness credibility**: Sightings by trained, sober, professional law enforcement officers are relatively rare and tend to attract sustained interest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/600813.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Red Bluff UFO</span><span class="citation-popover-snippet">Red Bluff UFO</span></span></span>
+* **Detail and duration**: The event wasn’t a brief flash or ambiguous distant light; the officers reported **extended close observation** with specific manoeuvres.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/redbluff-1960.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">Red Bluff</span><span class="citation-popover-snippet">1960On August 13, 1960 at about 11:30PM, Officers [Scott] and [Carson] of the California Hiway [sic] Patrol radioed the Tehama Co. Sherif...</span><span class="citation-popover-meta">Published: August 13, 1960</span></span></span>
+* **Attempts at official investigation**: The involvement of Project Blue Book ensured contemporaneous documentation and provides researchers with a formal investigation record, even if inconclusive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/redbluff-1960.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">Red Bluff</span><span class="citation-popover-snippet">1960On August 13, 1960 at about 11:30PM, Officers [Scott] and [Carson] of the California Hiway [sic] Patrol radioed the Tehama Co. Sherif...</span><span class="citation-popover-meta">Published: August 13, 1960</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W89jh2C2Ry8" title="&#x27;Project Blue Book&#x27; Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W89jh2C2Ry8" target="_blank" rel="noopener noreferrer">&#x27;Project Blue Book&#x27; Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series</a></p><p class="youtube-embed-meta">Channel: SHOWTIME &middot; Views: 290.8K &middot; Uploaded: August 2021 &middot; Length: 1 minute 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W89jh2C2Ry8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W89jh2C2Ry8">Open on YouTube</a></p></div></div></div>
 
@@ -815,194 +815,194 @@ As a result, the Red Bluff sighting persists in UFO case files as a **notable en
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7o3DaUhJmKA" title="UFO Sighting in Corning California" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7o3DaUhJmKA" target="_blank" rel="noopener noreferrer">UFO Sighting in Corning California</a></p><p class="youtube-embed-meta">Channel: Finding NorCal &middot; Views: 494 &middot; Uploaded: January 2024 &middot; Length: 2 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7o3DaUhJmKA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7o3DaUhJmKA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened Near Red Bluff?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened Near Red Bluff?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Profiles the Red Bluff sighting objectively, situating the police witness testimony within the history of California patrol encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Profiles the Red Bluff sighting objectively, situating the police witness testimony within the history of California patrol encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Explains why even credible witnesses can misinterpret natural light displays when viewing conditions are difficult.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why even credible witnesses can misinterpret natural light displays when viewing conditions are difficult.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches forensic standards for evaluating police-witness testimony against environmental factors and potential illusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches forensic standards for evaluating police-witness testimony against environmental factors and potential illusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
-        </h4>
-        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+</h4>
+<p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
         
-        <p class="fr-book-desc">Details the importance of checking weather and atmospheric conditions when evaluating landmark patrol sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details the importance of checking weather and atmospheric conditions when evaluating landmark patrol sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="red-bluff-sighting-1960-what-really-happened-near-red-bluff-ufo-poster-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1018,7 +1018,7 @@ As a result, the Red Bluff sighting persists in UFO case files as a **notable en
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1038,7 +1038,7 @@ As a result, the Red Bluff sighting persists in UFO case files as a **notable en
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1070,7 +1070,7 @@ As a result, the Red Bluff sighting persists in UFO case files as a **notable en
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1122,7 +1122,7 @@ As a result, the Red Bluff sighting persists in UFO case files as a **notable en
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1167,7 +1167,7 @@ As a result, the Red Bluff sighting persists in UFO case files as a **notable en
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1208,57 +1208,57 @@ As a result, the Red Bluff sighting persists in UFO case files as a **notable en
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nicap.org  
    Title: Red Bluff UFO  
-   Link: <a href="https://www.nicap.org/600813.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/600813.htm</a>  
+   Link:<a href="https://www.nicap.org/600813.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/600813.htm</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: saturdaynightuforia.com  
    Title: Red Bluff  
-   Link: <a href="https://www.saturdaynightuforia.com/html/articles/articlehtml/redbluff-1960.html" target="_blank" rel="noopener noreferrer nofollow">https://www.saturdaynightuforia.com/html/articles/articlehtml/redbluff-1960.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1960On August 13, 1960 at about 11:30PM, Officers [Scott] and [Carson] of the California Hiway [sic] Patrol radioed the Tehama Co. Sherif...</p></details>
+   Link:<a href="https://www.saturdaynightuforia.com/html/articles/articlehtml/redbluff-1960.html" target="_blank" rel="noopener noreferrer nofollow">https://www.saturdaynightuforia.com/html/articles/articlehtml/redbluff-1960.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1960On August 13, 1960 at about 11:30PM, Officers [Scott] and [Carson] of the California Hiway [sic] Patrol radioed the Tehama Co. Sherif...</p></details>
    Published: August 13, 1960  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.youtube.com/watch?v=_xyesq1k3Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_xyesq1k3Ns</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>4 &#x27;Project Blue Book&#x27; Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_xyesq1k3Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_xyesq1k3Ns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 &#x27;Project Blue Book&#x27; Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series...</p></details>
    Published: December 2021  
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: 'Project Blue Book' Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series  
-   Link: <a href="https://www.youtube.com/watch?v=W89jh2C2Ry8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W89jh2C2Ry8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5 UFO Project Blue Book at National Archives Museum...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=W89jh2C2Ry8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W89jh2C2Ry8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 UFO Project Blue Book at National Archives Museum...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UlmwakUTo3M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UlmwakUTo3M</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Project Blue Book - 1969| Movietone Moment | 17 December 2021...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UlmwakUTo3M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UlmwakUTo3M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Project Blue Book - 1969| Movietone Moment | 17 December 2021...</p></details>
    Published: December 2021  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: UFO Project Blue Book at National Archives Museum  
-   Link: <a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JHeZjJgO9Ns</a>  
+   Link:<a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JHeZjJgO9Ns</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: UFO Sighting in Corning California  
-   Link: <a href="https://www.youtube.com/watch?v=7o3DaUhJmKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7o3DaUhJmKA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2 UFO Interview, 1966...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7o3DaUhJmKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7o3DaUhJmKA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 UFO Interview, 1966...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: calif-tech.com  
-   Link: <a href="https://www.calif-tech.com/corning/history/81360.html" target="_blank" rel="noopener noreferrer nofollow">https://www.calif-tech.com/corning/history/81360.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 13, 1960, UFO Sighting...</p></details>
+   Link:<a href="https://www.calif-tech.com/corning/history/81360.html" target="_blank" rel="noopener noreferrer nofollow">https://www.calif-tech.com/corning/history/81360.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 13, 1960, UFO Sighting...</p></details>
    Published: August 13, 1960

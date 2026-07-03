@@ -758,273 +758,273 @@ image: /assets/images/Rex_Heflin_photograp_32bdf2-overview-social.jpg
 
 ## What Heflin said happened on Myford Road
 
-On 3 August 1965, Rex E. Heflin was working as an Orange County road department highway maintenance engineer near Myford Road and Walnut Avenue, close to El Toro Marine Base. He had stopped in his county vehicle to document roadside obstruction work with a Model 101 Polaroid camera loaded with high-speed film. According to the later Journal of Scientific Exploration reanalysis, Heflin first tried to report the obstructed sign by radio, but experienced an unexplained radio failure before he noticed a silvery object moving across his field of view. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-snippet">Tustin Area Historical Society</span></span></span>
+On 3 August 1965, Rex E. Heflin was working as an Orange County road department highway maintenance engineer near Myford Road and Walnut Avenue, close to El Toro Marine Base. He had stopped in his county vehicle to document roadside obstruction work with a Model 101 Polaroid camera loaded with high-speed film. According to the later Journal of Scientific Exploration reanalysis, Heflin first tried to report the obstructed sign by radio, but experienced an unexplained radio failure before he noticed a silvery object moving across his field of view.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-snippet">Tustin Area Historical Society</span></span></span>
 
 <img src="{{ "/assets/images/Rex_Heflin_photograp_32bdf2-overview.webp" | relative_url }}" alt="Overview image for Rex Heflin photographs 1965" loading="eager" decoding="sync" fetchpriority="high">
-Heflin described the object as moving from his left to right, momentarily hovering, then continuing north-east. He took the first photograph through the windscreen and the next two through the right-side window. In his account, the object showed a dark underside and a rotating light or beam-like feature, wobbled like a losing gyroscope, then accelerated away while leaving a blue-black, doughnut-shaped vapour ring. The Condon Report’s Case 52 summary records essentially the same sequence and notes that the fourth image of the smoke ring was not part of the earliest three-photo publicity sequence but appeared in early NICAP-linked documentation by late September 1965. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case52.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 52: Traffic Investigator Photographs...</span></span></span>
+Heflin described the object as moving from his left to right, momentarily hovering, then continuing north-east. He took the first photograph through the windscreen and the next two through the right-side window. In his account, the object showed a dark underside and a rotating light or beam-like feature, wobbled like a losing gyroscope, then accelerated away while leaving a blue-black, doughnut-shaped vapour ring. The Condon Report’s Case 52 summary records essentially the same sequence and notes that the fourth image of the smoke ring was not part of the earliest three-photo publicity sequence but appeared in early NICAP-linked documentation by late September 1965.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case52.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 52: Traffic Investigator Photographs...</span></span></span>
 
-The physical setting gave the case some unusual specificity. The Condon Report identifies the site as Myford Road, about 0.3 miles south-west of the Santa Ana Freeway, with Heflin moving slowly along the shoulder in an official Ford van. The reported sighting duration was short, roughly 15 to 25 seconds for the object itself, but the camera test conducted later indicated that an experienced user could take three Polaroid photographs within 12 seconds, so the timing was not impossible on its face. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">presents the Condon Report on UFOs</span><span class="citation-popover-snippet">presents the Condon Report on UFOs</span></span></span>
+The physical setting gave the case some unusual specificity. The Condon Report identifies the site as Myford Road, about 0.3 miles south-west of the Santa Ana Freeway, with Heflin moving slowly along the shoulder in an official Ford van. The reported sighting duration was short, roughly 15 to 25 seconds for the object itself, but the camera test conducted later indicated that an experienced user could take three Polaroid photographs within 12 seconds, so the timing was not impossible on its face.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">presents the Condon Report on UFOs</span><span class="citation-popover-snippet">presents the Condon Report on UFOs</span></span></span>
 
 ## Why the fourth photograph became the pivot
 
-The fourth image is central because it changes the case from “three pictures of a disc-shaped object” into “a photographed sequence with an alleged physical aftermath”. Heflin said he drove closer to the vapour ring, got out and photographed it. The reanalysis describes the fourth picture as containing only limited reference features: a telephone wire and part of an orange tree beneath a cloudy sky. That scarcity of fixed detail is exactly why later investigators argued over whether the image could be securely tied to the same location and sequence as the first three pictures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-snippet">Tustin Area Historical Society</span></span></span>
+The fourth image is central because it changes the case from “three pictures of a disc-shaped object” into “a photographed sequence with an alleged physical aftermath”. Heflin said he drove closer to the vapour ring, got out and photographed it. The reanalysis describes the fourth picture as containing only limited reference features: a telephone wire and part of an orange tree beneath a cloudy sky. That scarcity of fixed detail is exactly why later investigators argued over whether the image could be securely tied to the same location and sequence as the first three pictures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-snippet">Tustin Area Historical Society</span></span></span>
 
-For supporters, the smoke ring was a corroborating clue: if it was genuinely photographed from the Myford Road area shortly after the object departed, it would suggest something more than a simple tossed model. For sceptics, it was a vulnerability: the sky conditions in the fourth photograph became one of the strongest arguments against the case, because some analyses suggested the weather did not match the expected conditions at the reported time and place. The Condon Report explicitly said that confirming the smoke-ring photograph’s location would have been strong evidence in favour of the UFO report, but also found that the tree-and-wire geometry was not enough for absolute certainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Section I: Conclusions &amp; Recommendations...</span></span></span>
+For supporters, the smoke ring was a corroborating clue: if it was genuinely photographed from the Myford Road area shortly after the object departed, it would suggest something more than a simple tossed model. For sceptics, it was a vulnerability: the sky conditions in the fourth photograph became one of the strongest arguments against the case, because some analyses suggested the weather did not match the expected conditions at the reported time and place. The Condon Report explicitly said that confirming the smoke-ring photograph’s location would have been strong evidence in favour of the UFO report, but also found that the tree-and-wire geometry was not enough for absolute certainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Section I: Conclusions &amp; Recommendations...</span></span></span>
 
 This is the first major lesson of the case: a photograph can look dramatic while still lacking the geometric data needed to determine size, distance and location independently. The Heflin images show apparent shape and sequence, but they do not by themselves establish whether the object was a nearby small model, a distant object, or something genuinely anomalous.
 
 <img src="{{ "/assets/images/Rex_Heflin_photograp_32bdf2-Illustration-1-dark.svg" | relative_url }}" alt="Rex Heflin photographs 1965 illustration 1" data-theme-src-dark="{{ "/assets/images/Rex_Heflin_photograp_32bdf2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rex_Heflin_photograp_32bdf2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official handling: from field investigation to “hoax”
 
-The early official record is more complicated than a simple debunk. Captain Charles F. Reichmuth, the Air Force investigating officer, interviewed Heflin, checked his supervisors’ views of his character and work record, and reportedly found no evidence that Heflin was attempting to perpetrate a hoax. Yet Project Blue Book’s photographic analysis moved in the opposite direction. Its test used a nine-inch tray tossed 8 to 12 feet high at an estimated 15 to 20 feet from the camera; the resulting photographs were considered similar enough to Heflin’s to support a hoax classification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-snippet">Tustin Area Historical Society</span></span></span>
+The early official record is more complicated than a simple debunk. Captain Charles F. Reichmuth, the Air Force investigating officer, interviewed Heflin, checked his supervisors’ views of his character and work record, and reportedly found no evidence that Heflin was attempting to perpetrate a hoax. Yet Project Blue Book’s photographic analysis moved in the opposite direction. Its test used a nine-inch tray tossed 8 to 12 feet high at an estimated 15 to 20 feet from the camera; the resulting photographs were considered similar enough to Heflin’s to support a hoax classification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-snippet">Tustin Area Historical Society</span></span></span>
 
-The Blue Book reasoning leaned heavily on photographic ambiguity. The Air Force argued that the road stripe and the object had similar sharpness, suggesting the object might have been close to the camera rather than a full-sized craft at distance. It estimated the object as roughly one to three feet in diameter and 15 to 20 feet above the ground, not the much larger and more distant object implied by Heflin’s account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/contents.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
+The Blue Book reasoning leaned heavily on photographic ambiguity. The Air Force argued that the road stripe and the object had similar sharpness, suggesting the object might have been close to the camera rather than a full-sized craft at distance. It estimated the object as roughly one to three feet in diameter and 15 to 20 feet above the ground, not the much larger and more distant object implied by Heflin’s account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/contents.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
 
-NICAP strongly disputed that conclusion, arguing that calling the case a hoax unfairly impugned a responsible witness without decisive evidence. The NICAP case directory still summarises the Santa Ana case as a significant photographic event and notes that later MUFON photo analyst Jeffrey Sainio rejected the “string” hypothesis in 1993. That does not settle the matter, but it shows why the case remained contested rather than simply disappearing after Blue Book’s judgement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/casework/2012indexes/2012oct/650803santaana_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+NICAP strongly disputed that conclusion, arguing that calling the case a hoax unfairly impugned a responsible witness without decisive evidence. The NICAP case directory still summarises the Santa Ana case as a significant photographic event and notes that later MUFON photo analyst Jeffrey Sainio rejected the “string” hypothesis in 1993. That does not settle the matter, but it shows why the case remained contested rather than simply disappearing after Blue Book’s judgement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/casework/2012indexes/2012oct/650803santaana_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/36Ty_S1qs20" title="Pentagon Admits Secret Program AATIP Investigated UFOs | The Basement Office | New York Post" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=36Ty_S1qs20" target="_blank" rel="noopener noreferrer">Pentagon Admits Secret Program AATIP Investigated UFOs | The Basement Office | New York Post</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 164.8K &middot; Uploaded: May 2019 &middot; Length: 4 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=36Ty_S1qs20" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=36Ty_S1qs20">Open on YouTube</a></p></div></div></div>
 
 ## The Condon Report’s more cautious verdict
 
-The University of Colorado’s Scientific Study of Unidentified Flying Objects, usually called the Condon Report, is important because it was an Air Force-funded academic review rather than a private UFO group’s assessment. The study was conducted under contract with the United States Air Force and directed by physicist Edward U. Condon; its broad conclusion was that further extensive UFO study was unlikely to advance science. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/appndx-w.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">appndx w</span><span class="citation-popover-snippet">appndx w</span></span></span>
+The University of Colorado’s Scientific Study of Unidentified Flying Objects, usually called the Condon Report, is important because it was an Air Force-funded academic review rather than a private UFO group’s assessment. The study was conducted under contract with the United States Air Force and directed by physicist Edward U. Condon; its broad conclusion was that further extensive UFO study was unlikely to advance science.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/appndx-w.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">appndx w</span><span class="citation-popover-snippet">appndx w</span></span></span>
 
-Within that generally sceptical framework, the Heflin case was not dismissed as neatly as Blue Book had dismissed it. The Condon Case 52 analysis stated that the first three photographs could be effectively simulated by suspending a model from a thread attached to a rod on a truck roof. That meant the photographs alone had “little probative value” for proving extraordinary flying objects. But the report did not claim to have proved fabrication. It concluded that the case was equivocal, that the evidence was not strong enough to establish the reality of an extraordinary object, and that the case “must remain inconclusive”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/s5chap02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
+Within that generally sceptical framework, the Heflin case was not dismissed as neatly as Blue Book had dismissed it. The Condon Case 52 analysis stated that the first three photographs could be effectively simulated by suspending a model from a thread attached to a rod on a truck roof. That meant the photographs alone had “little probative value” for proving extraordinary flying objects. But the report did not claim to have proved fabrication. It concluded that the case was equivocal, that the evidence was not strong enough to establish the reality of an extraordinary object, and that the case “must remain inconclusive”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/s5chap02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
 
 That distinction matters. “Inconclusive” is not the same as “authentic”, and it is not the same as “hoax proved”. The Condon treatment places the Heflin photographs in a middle category: well documented, interesting, and difficult enough to deserve attention, but not independently decisive. That is still the most defensible baseline for a reader trying to separate the case record from later legend.
 
 <img src="{{ "/assets/images/Rex_Heflin_photograp_32bdf2-Illustration-2-dark.svg" | relative_url }}" alt="Rex Heflin photographs 1965 illustration 2" data-theme-src-dark="{{ "/assets/images/Rex_Heflin_photograp_32bdf2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rex_Heflin_photograp_32bdf2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Witness credibility and corroboration
 
-Heflin’s credibility is one of the case’s strongest supporting points. He was not an anonymous storyteller producing a single isolated snapshot; he was a county employee carrying a camera for work reasons, using it in the course of his duties. The later reanalysis reports that LANS and McDonald-linked investigators checked his character and work record over two years and found him regarded as straightforward and responsible by superiors and co-workers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-snippet">Tustin Area Historical Society</span></span></span>
+Heflin’s credibility is one of the case’s strongest supporting points. He was not an anonymous storyteller producing a single isolated snapshot; he was a county employee carrying a camera for work reasons, using it in the course of his duties. The later reanalysis reports that LANS and McDonald-linked investigators checked his character and work record over two years and found him regarded as straightforward and responsible by superiors and co-workers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-snippet">Tustin Area Historical Society</span></span></span>
 
-There was also limited corroboration of the radio anomaly. The Condon Report records that Heflin reported a sudden radio failure just before the sighting and that a road maintenance superintendent heard Heflin’s transmission begin, then cut off sharply after only a few words. The same passage notes that the Federal Communications Commission facility reported no UHF or VHF interference that day, which cuts both ways: it makes the specific radio failure harder to dismiss as ordinary interference, but also prevents it from becoming independent confirmation of a large external phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/covrletr.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
+There was also limited corroboration of the radio anomaly. The Condon Report records that Heflin reported a sudden radio failure just before the sighting and that a road maintenance superintendent heard Heflin’s transmission begin, then cut off sharply after only a few words. The same passage notes that the Federal Communications Commission facility reported no UHF or VHF interference that day, which cuts both ways: it makes the specific radio failure harder to dismiss as ordinary interference, but also prevents it from becoming independent confirmation of a large external phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/covrletr.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
 
-Radar evidence did not strengthen the case. Marine Corps checks found no UFO on radar at the time, and later Condon discussion observed that the available radar systems might not have treated such a target as remarkable even if a small or low object had appeared. The absence of radar confirmation therefore weakens any claim of multi-sensor proof, but it does not by itself disprove Heflin’s sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/s3chap01.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
+Radar evidence did not strengthen the case. Marine Corps checks found no UFO on radar at the time, and later Condon discussion observed that the available radar systems might not have treated such a target as remarkable even if a small or low object had appeared. The absence of radar confirmation therefore weakens any claim of multi-sensor proof, but it does not by itself disprove Heflin’s sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/s3chap01.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ceQL3QPOP08" title="Ep. 9 | The Basement Office | World War II UFOs, Antarctica and Kecksburg Crash | New York Post" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ceQL3QPOP08" target="_blank" rel="noopener noreferrer">Ep. 9 | The Basement Office | World War II UFOs, Antarctica and Kecksburg Crash | New York Post</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 916.7K &middot; Uploaded: May 2020 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ceQL3QPOP08" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ceQL3QPOP08">Open on YouTube</a></p></div></div></div>
 
 ## The “NORAD men” and the damaged chain of custody
 
-The strangest documentary problem is the alleged removal of the original photos. Heflin said that, after publicity, men claiming to represent NORAD visited him and borrowed three of the original Polaroids. According to later accounts, NORAD denied knowledge of such investigators, and the originals were not returned for decades. This episode is often treated as a “Men in Black” element, but for evidential purposes its main importance is simpler: it broke the chain of custody and forced many later analysts to work from copies of uncertain generation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-snippet">Tustin Area Historical Society</span></span></span>
+The strangest documentary problem is the alleged removal of the original photos. Heflin said that, after publicity, men claiming to represent NORAD visited him and borrowed three of the original Polaroids. According to later accounts, NORAD denied knowledge of such investigators, and the originals were not returned for decades. This episode is often treated as a “Men in Black” element, but for evidential purposes its main importance is simpler: it broke the chain of custody and forced many later analysts to work from copies of uncertain generation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-snippet">Tustin Area Historical Society</span></span></span>
 
-The Condon Report treated the “NORAD” story as one of the case’s internal weaknesses, partly because early records about the visitors were inconsistent. The report also noted later alleged inquiries, including a supposed “Captain C. H. Edmonds”, but found the significance unclear. These episodes are intriguing, but they are not secure proof of official suppression; they are better understood as unresolved claims that complicated the already fragile evidence record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case52.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 52: Traffic Investigator Photographs...</span></span></span>
+The Condon Report treated the “NORAD” story as one of the case’s internal weaknesses, partly because early records about the visitors were inconsistent. The report also noted later alleged inquiries, including a supposed “Captain C. H. Edmonds”, but found the significance unclear. These episodes are intriguing, but they are not secure proof of official suppression; they are better understood as unresolved claims that complicated the already fragile evidence record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case52.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 52: Traffic Investigator Photographs...</span></span></span>
 
-In 1993, the story took another turn. The 2000 reanalysis says Heflin received anonymous calls asking whether he had checked his mailbox, then found a plain manila envelope containing what appeared to be the three long-missing original Polaroids. He reportedly recognised them by size, texture and his own blue ink numbering, while the backs also bore markings he said he had not made. This return made renewed analysis possible, but it did not erase the problem that the originals had been outside documented custody for 28 years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-snippet">Tustin Area Historical Society</span></span></span>
+In 1993, the story took another turn. The 2000 reanalysis says Heflin received anonymous calls asking whether he had checked his mailbox, then found a plain manila envelope containing what appeared to be the three long-missing original Polaroids. He reportedly recognised them by size, texture and his own blue ink numbering, while the backs also bore markings he said he had not made. This return made renewed analysis possible, but it did not erase the problem that the originals had been outside documented custody for 28 years.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-snippet">Tustin Area Historical Society</span></span></span>
 
 <img src="{{ "/assets/images/Rex_Heflin_photograp_32bdf2-Illustration-3-dark.svg" | relative_url }}" alt="Rex Heflin photographs 1965 illustration 3" data-theme-src-dark="{{ "/assets/images/Rex_Heflin_photograp_32bdf2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rex_Heflin_photograp_32bdf2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Later reanalysis and the “string” dispute
 
-The best-known sceptical explanation is that Heflin photographed a small object suspended by a string or thrown near the camera. The model-on-a-thread explanation had appeal because the Condon investigator could simulate the first three pictures, and because later Ground Saucer Watch analysis claimed to find a string descending to the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">presents the Condon Report on UFOs</span><span class="citation-popover-snippet">presents the Condon Report on UFOs</span></span></span>
+The best-known sceptical explanation is that Heflin photographed a small object suspended by a string or thrown near the camera. The model-on-a-thread explanation had appeal because the Condon investigator could simulate the first three pictures, and because later Ground Saucer Watch analysis claimed to find a string descending to the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">presents the Condon Report on UFOs</span><span class="citation-popover-snippet">presents the Condon Report on UFOs</span></span></span>
 
-The pro-authenticity side answered that the “string” finding depended on poor or multi-generation copies. The 2000 reanalysis by Ann Druffel, Robert M. Wood and Eric Kelson argued that work from the returned originals found no supporting strings or wires around the object, that earlier “string” claims were likely reproduction artefacts or errors, and that enhanced images supported overcast conditions and even suggested a possible wake or smoke trail in the third photograph. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-snippet">Tustin Area Historical Society</span></span></span>
+The pro-authenticity side answered that the “string” finding depended on poor or multi-generation copies. The 2000 reanalysis by Ann Druffel, Robert M. Wood and Eric Kelson argued that work from the returned originals found no supporting strings or wires around the object, that earlier “string” claims were likely reproduction artefacts or errors, and that enhanced images supported overcast conditions and even suggested a possible wake or smoke trail in the third photograph.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-snippet">Tustin Area Historical Society</span></span></span>
 
-That reanalysis is valuable, but it should be read with caution. It was published in the Journal of Scientific Exploration, a venue sympathetic to anomalous-phenomena research, and its conclusions are not equivalent to a mainstream forensic consensus. It does, however, preserve technical detail and case history that are essential for understanding why supporters still regard the Heflin photographs as stronger than many classic UFO images. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-snippet">Tustin Area Historical Society</span></span></span>
+That reanalysis is valuable, but it should be read with caution. It was published in the Journal of Scientific Exploration, a venue sympathetic to anomalous-phenomena research, and its conclusions are not equivalent to a mainstream forensic consensus. It does, however, preserve technical detail and case history that are essential for understanding why supporters still regard the Heflin photographs as stronger than many classic UFO images.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin Area Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-snippet">Tustin Area Historical Society</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gy5tIevquP0" title="Ep. 5 | PART 1: Rendlesham Forest UFO Incident | Real evidence &amp; witnesses | The Basement Office" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gy5tIevquP0" target="_blank" rel="noopener noreferrer">Ep. 5 | PART 1: Rendlesham Forest UFO Incident | Real evidence &amp; witnesses | The Basement Office</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 357.2K &middot; Uploaded: June 2019 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gy5tIevquP0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gy5tIevquP0">Open on YouTube</a></p></div></div></div>
 
 ## What the case can and cannot prove
 
-The Heflin photographs are strongest as a case study in contested evidence. They have a named witness, a work-related reason for having a camera, a specific location, early press and institutional attention, multiple official and private investigations, and a long paper trail. They are also recognised in archival contexts: the National Archives’ UAP-related photographic records list includes a Santa Ana Heflin image from the Scientific Study of UFOs material, which places the case within the documentary record of official UFO-era photo analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Heflin photographs are strongest as a case study in contested evidence. They have a named witness, a work-related reason for having a camera, a specific location, early press and institutional attention, multiple official and private investigations, and a long paper trail. They are also recognised in archival contexts: the National Archives’ UAP-related photographic records list includes a Santa Ana Heflin image from the Scientific Study of UFOs material, which places the case within the documentary record of official UFO-era photo analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Their weaknesses are equally important. The pictures do not independently establish size or distance. The fourth photograph’s location and sky conditions became disputed. The original Polaroids disappeared for nearly three decades, undermining chain of custody. The official Blue Book hoax judgement rested on a plausible small-object replication, while the Condon review found the case interesting but not probative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Section I: Conclusions &amp; Recommendations...</span></span></span>
+Their weaknesses are equally important. The pictures do not independently establish size or distance. The fourth photograph’s location and sky conditions became disputed. The original Polaroids disappeared for nearly three decades, undermining chain of custody. The official Blue Book hoax judgement rested on a plausible small-object replication, while the Condon review found the case interesting but not probative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Section I: Conclusions &amp; Recommendations...</span></span></span>
 
 The fairest assessment is therefore not that the Heflin photographs prove an extraterrestrial craft, nor that they have been conclusively exposed as a fraud. They remain a serious but unresolved photographic UFO case: unusually well documented, technically debated, and historically important because it shows how quickly a photograph can become less a simple image than a conflict over testimony, custody, interpretation and institutional trust.
 
 ## Why the Rex Heflin case still matters
 
-The case endures because it illustrates the core problem of classic UFO photography. A camera can preserve an appearance, but without reliable scale, distance, sequence, custody and independent sensor data, the image still needs a witness narrative to carry most of the weight. In Heflin’s case, that narrative came from a witness many investigators found credible, but it also included features — missing originals, alleged official visitors, disputed weather, a late-returned photo set — that made sceptics more wary rather than less. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/contents.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
+The case endures because it illustrates the core problem of classic UFO photography. A camera can preserve an appearance, but without reliable scale, distance, sequence, custody and independent sensor data, the image still needs a witness narrative to carry most of the weight. In Heflin’s case, that narrative came from a witness many investigators found credible, but it also included features — missing originals, alleged official visitors, disputed weather, a late-returned photo set — that made sceptics more wary rather than less.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/contents.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
 
 For a broader case dossier, the Heflin photographs connect naturally to three sibling questions: how Project Blue Book handled photographic cases, how the Condon Report evaluated “classic” UFO claims, and how later researchers reassessed old analogue photographs once better enhancement tools became available. The value of the case is not that it gives an easy answer. Its value is that it shows, in unusually concrete form, why UFO evidence can be simultaneously compelling, frustrating and unresolved.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do the Heflin UFO Photos Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do the Heflin UFO Photos Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Provides institutional context on how 1960s authorities handled photographic evidence against popular skepticism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides institutional context on how 1960s authorities handled photographic evidence against popular skepticism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides an objective case-file entry for the Rex Heflin incident, detailing the Polaroid sequence and the long-term forensic debate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides an objective case-file entry for the Rex Heflin incident, detailing the Polaroid sequence and the long-term forensic debate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches investigative methodologies to separate dramatic images from photographic physics and lighting limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches investigative methodologies to separate dramatic images from photographic physics and lighting limitations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
-        </h4>
-        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+</h4>
+<p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
         
-        <p class="fr-book-desc">Details the importance of chain-of-custody in photographic evidence and forensic standards for rejecting hoaxes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details the importance of chain-of-custody in photographic evidence and forensic standards for rejecting hoaxes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/a5f58c820be9e212e78d.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/a5f58c820be9e212e78d.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Vehicle Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/515424d9b9f1d48ff309.jpg' | relative_url }}" alt="Listing image for UFO (TV) Vehicle Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Vehicle Scene 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Vehicle Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/515424d9b9f1d48ff309.jpg' | relative_url }}" alt="Listing image for UFO (TV) Vehicle Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Vehicle Scene 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Antonia Ellis 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/2847c8ac5f521e77be42.jpg' | relative_url }}" alt="Listing image for UFO (TV) Antonia Ellis 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Antonia Ellis 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Antonia Ellis 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/2847c8ac5f521e77be42.jpg' | relative_url }}" alt="Listing image for UFO (TV) Antonia Ellis 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Antonia Ellis 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/bd6934eaba82fb5a9f41.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/bd6934eaba82fb5a9f41.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="rex-heflin-photographs-1965-what-do-the-heflin-ufo-photos-prove-ufo-photo-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1040,7 +1040,7 @@ For a broader case dossier, the Heflin photographs connect naturally to three si
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1060,7 +1060,7 @@ For a broader case dossier, the Heflin photographs connect naturally to three si
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1092,7 +1092,7 @@ For a broader case dossier, the Heflin photographs connect naturally to three si
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1144,7 +1144,7 @@ For a broader case dossier, the Heflin photographs connect naturally to three si
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1189,7 +1189,7 @@ For a broader case dossier, the Heflin photographs connect naturally to three si
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1230,115 +1230,115 @@ For a broader case dossier, the Heflin photographs connect naturally to three si
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: files.ncas.org  
-   Link: <a href="https://files.ncas.org/condon/text/case52.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case52.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Case 52: Traffic Investigator Photographs...</p></details>
+   Link:<a href="https://files.ncas.org/condon/text/case52.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case52.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Case 52: Traffic Investigator Photographs...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: tustinhistory.com  
    Title: Tustin Area Historical Society  
-   Link: <a href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf</a>  
+   Link:<a href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nicap.org  
    Title: UF O Report  
-   Link: <a href="https://www.nicap.org/casework/2012indexes/2012oct/650803santaana_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/casework/2012indexes/2012oct/650803santaana_dir.htm</a>  
+   Link:<a href="https://www.nicap.org/casework/2012indexes/2012oct/650803santaana_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/casework/2012indexes/2012oct/650803santaana_dir.htm</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: files.ncas.org  
    Title: presents the Condon Report on UFOs  
-   Link: <a href="https://files.ncas.org/condon/" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/</a>  
+   Link:<a href="https://files.ncas.org/condon/" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: files.ncas.org  
-   Link: <a href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/sec-i.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Section I: Conclusions &amp; Recommendations...</p></details>
+   Link:<a href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/sec-i.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Section I: Conclusions &amp; Recommendations...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: files.ncas.org  
-   Link: <a href="https://files.ncas.org/condon/text/contents.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/contents.htm</a>  
+   Link:<a href="https://files.ncas.org/condon/text/contents.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/contents.htm</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: files.ncas.org  
    Title: appndx w  
-   Link: <a href="https://files.ncas.org/condon/text/appndx-w.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/appndx-w.htm</a>  
+   Link:<a href="https://files.ncas.org/condon/text/appndx-w.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/appndx-w.htm</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: files.ncas.org  
-   Link: <a href="https://files.ncas.org/condon/text/s5chap02.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s5chap02.htm</a>  
+   Link:<a href="https://files.ncas.org/condon/text/s5chap02.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s5chap02.htm</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: files.ncas.org  
-   Link: <a href="https://files.ncas.org/condon/text/covrletr.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/covrletr.htm</a>  
+   Link:<a href="https://files.ncas.org/condon/text/covrletr.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/covrletr.htm</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: files.ncas.org  
-   Link: <a href="https://files.ncas.org/condon/text/s3chap01.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s3chap01.htm</a>  
+   Link:<a href="https://files.ncas.org/condon/text/s3chap01.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s3chap01.htm</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nicap.org  
    Title: UF O Report Heflin UFO Photos Santa Ana, California  
-   Link: <a href="https://www.nicap.org/reports/heflinhall.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/heflinhall.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/heflinhall.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/heflinhall.htm</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/650803santaana_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/650803santaana_dir.htm</a>  
+   Link:<a href="https://www.nicap.org/650803santaana_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/650803santaana_dir.htm</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: colorado.edu  
    Title: condon report cu boulders historic ufo study  
-   Link: <a href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study</a>  
+   Link:<a href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study</a>  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=36Ty_S1qs20" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=36Ty_S1qs20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. 2 | Flying Saucer UFOs | Roswell, Kenneth Arnold, McMinnville, Rex Heflin | The Basement Office New York Post · 488K views...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=36Ty_S1qs20" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=36Ty_S1qs20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. 2 | Flying Saucer UFOs | Roswell, Kenneth Arnold, McMinnville, Rex Heflin | The Basement Office New York Post · 488K views...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=gy5tIevquP0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gy5tIevquP0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>My UFO sighting, revisiting where I saw a creepy flying V-shaped craft | The Basement Office Extras...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gy5tIevquP0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gy5tIevquP0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>My UFO sighting, revisiting where I saw a creepy flying V-shaped craft | The Basement Office Extras...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=z25NfZ0Ea9c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z25NfZ0Ea9c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. 5 | PART 1: Rendlesham Forest UFO Incident | Real evidence &amp; witnesses | The Basement Office...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=z25NfZ0Ea9c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z25NfZ0Ea9c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. 5 | PART 1: Rendlesham Forest UFO Incident | Real evidence &amp; witnesses | The Basement Office...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=xWfN8u9YHWc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xWfN8u9YHWc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. 9 | The Basement Office | World War II UFOs, Antarctica and Kecksburg Crash...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xWfN8u9YHWc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xWfN8u9YHWc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. 9 | The Basement Office | World War II UFOs, Antarctica and Kecksburg Crash...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Ep. 9 | The Basement Office | World War II UFOs, Antarctica and Kecksburg Crash  
-   Link: <a href="https://www.youtube.com/watch?v=ceQL3QPOP08" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ceQL3QPOP08</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Admits Secret Program AATIP Investigated UFOs | The Basement Office | New York Post...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ceQL3QPOP08" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ceQL3QPOP08</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Admits Secret Program AATIP Investigated UFOs | The Basement Office | New York Post...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: governmentattic.org  
-   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
+   Link:<a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/bmft9d/heflin_photos_genuine/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/bmft9d/heflin_photos_genuine/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/bmft9d/heflin_photos_genuine/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/bmft9d/heflin_photos_genuine/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: mauritius-images.com  
-   Link: <a href="https://www.mauritius-images.com/en/asset/ME-PI-6377407_mauritius_images_image_number_11912938_ufo-taken-by-rex-heflin-at-santa-ana-california-usa-3-august-1965" target="_blank" rel="noopener noreferrer nofollow">https://www.mauritius-images.com/en/asset/ME-PI-6377407_mauritius_images_image_number_11912938_ufo-taken-by-rex-heflin-at-santa-ana-california-usa-3-august-1965</a>  
+   Link:<a href="https://www.mauritius-images.com/en/asset/ME-PI-6377407_mauritius_images_image_number_11912938_ufo-taken-by-rex-heflin-at-santa-ana-california-usa-3-august-1965" target="_blank" rel="noopener noreferrer nofollow">https://www.mauritius-images.com/en/asset/ME-PI-6377407_mauritius_images_image_number_11912938_ufo-taken-by-rex-heflin-at-santa-ana-california-usa-3-august-1965</a>  
    Published: august 1965  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Scientific-study-of-unidentified-flying-objects.-Condon-Gillmor/922e9ba072893af1a144fedf82c4052acbaf1120" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Scientific-study-of-unidentified-flying-objects.-Condon-Gillmor/922e9ba072893af1a144fedf82c4052acbaf1120</a>
+   Link:<a href="https://www.semanticscholar.org/paper/Scientific-study-of-unidentified-flying-objects.-Condon-Gillmor/922e9ba072893af1a144fedf82c4052acbaf1120" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Scientific-study-of-unidentified-flying-objects.-Condon-Gillmor/922e9ba072893af1a144fedf82c4052acbaf1120</a>

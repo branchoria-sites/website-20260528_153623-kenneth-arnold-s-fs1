@@ -242,47 +242,47 @@ image: /assets/images/Battle_of_Los_Angele_969c9e_false_air_raid_expla_b86b96-Il
 
 ## Introduction
 
-The strongest explanations for the “Battle of Los Angeles” do not depend on secret aircraft, hidden wreckage, or unidentified craft. They depend on how wartime air-defence systems behaved once uncertainty, darkness, radar anxiety, searchlights, anti-aircraft fire, and public fear combined in one place. The core sceptical argument is not that “nothing happened”, but that a real military mobilisation escalated around misidentified ordinary objects and self-reinforcing visual effects. In this reading, the guns were firing at a mixture of suspected targets, shell bursts, drifting balloons, and illusions created by the defence response itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[2sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">1942Probably much of the confusion came from the fact that anti-aircraft shell bursts, caught by the searchlights, were themselves mistak...</span></span></span>
+The strongest explanations for the “Battle of Los Angeles” do not depend on secret aircraft, hidden wreckage, or unidentified craft. They depend on how wartime air-defence systems behaved once uncertainty, darkness, radar anxiety, searchlights, anti-aircraft fire, and public fear combined in one place. The core sceptical argument is not that “nothing happened”, but that a real military mobilisation escalated around misidentified ordinary objects and self-reinforcing visual effects. In this reading, the guns were firing at a mixture of suspected targets, shell bursts, drifting balloons, and illusions created by the defence response itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[2sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">1942Probably much of the confusion came from the fact that anti-aircraft shell bursts, caught by the searchlights, were themselves mistak...</span></span></span>
 
 <img src="{{ "/assets/images/Battle_of_Los_Angele_969c9e_false_air_raid_expla_b86b96-Illustration-1-dark.svg" | relative_url }}" alt="Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/Battle_of_Los_Angele_969c9e_false_air_raid_expla_b86b96-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Battle_of_Los_Angele_969c9e_false_air_raid_expla_b86b96-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That interpretation became the dominant official and historical explanation after the war. The U.S. Coast Artillery Association later argued that a meteorological balloon “started all the shooting”, while the U.S. Office of Air Force History concluded in 1983 that “war nerves” and weather balloons best explained the incident. The important point is that these explanations are cumulative rather than singular: radar uncertainty triggered readiness, visual sightings escalated the alarm, and the barrage itself generated new apparent targets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox6now.com/weather/battle-los-angeles-anniversary-balloon-sparked-air-raid-ufo-scare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox6now.com">[2FOX6 News Milwaukee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox6now.com</span><span class="citation-popover-title">battle los angeles anniversary balloon sparked air raid ufo scare</span><span class="citation-popover-snippet">FOX6 News MilwaukeeBattle of Los Angeles Anniversary: How a weather balloon...25 Feb 2026 — A military review concluded a meteorological...</span></span></span>
+That interpretation became the dominant official and historical explanation after the war. The U.S. Coast Artillery Association later argued that a meteorological balloon “started all the shooting”, while the U.S. Office of Air Force History concluded in 1983 that “war nerves” and weather balloons best explained the incident. The important point is that these explanations are cumulative rather than singular: radar uncertainty triggered readiness, visual sightings escalated the alarm, and the barrage itself generated new apparent targets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox6now.com/weather/battle-los-angeles-anniversary-balloon-sparked-air-raid-ufo-scare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox6now.com">[2FOX6 News Milwaukee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox6now.com</span><span class="citation-popover-title">battle los angeles anniversary balloon sparked air raid ufo scare</span><span class="citation-popover-snippet">FOX6 News MilwaukeeBattle of Los Angeles Anniversary: How a weather balloon...25 Feb 2026 — A military review concluded a meteorological...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6oY8HIWBS-Y" title="The Battle of Los Angeles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6oY8HIWBS-Y" target="_blank" rel="noopener noreferrer">The Battle of Los Angeles</a></p><p class="youtube-embed-meta">Channel: LEMMiNO &middot; Views: 7.7M &middot; Uploaded: August 2018 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6oY8HIWBS-Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6oY8HIWBS-Y">Open on YouTube</a></p></div></div></div>
 
 ## Radar uncertainty and the first reported target
 
-The first stage of the incident was not visual at all. It began with defensive expectation. Southern California was already on edge after the Japanese submarine shelling of Ellwood on 23 February 1942, and military intelligence warnings suggested another attack might be imminent. Under those conditions, radar operators and coastal defence commanders were primed to treat ambiguous returns seriously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/history/great-los-angeles-air-raid-terrified-citizenseven-though-no-bombs-were-dropped-180967890/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">The WWII “battle” was an example of what happens when the...Read more...</span></span></span>
+The first stage of the incident was not visual at all. It began with defensive expectation. Southern California was already on edge after the Japanese submarine shelling of Ellwood on 23 February 1942, and military intelligence warnings suggested another attack might be imminent. Under those conditions, radar operators and coastal defence commanders were primed to treat ambiguous returns seriously.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/history/great-los-angeles-air-raid-terrified-citizenseven-though-no-bombs-were-dropped-180967890/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">The WWII “battle” was an example of what happens when the...Read more...</span></span></span>
 
-Accounts reproduced from wartime Army Air Forces histories describe radar detecting what appeared to be an incoming object approaching the coast. Yet the contact was inconsistent and apparently disappeared. This matters because early wartime radar was far less reliable than later systems. Operators could misread atmospheric effects, sea reflections, equipment noise, or slow-moving non-aircraft objects. Radar in 1942 was still new enough that crews often struggled to distinguish meaningful targets from clutter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">1942Probably much of the confusion came from the fact that anti-aircraft shell bursts, caught by the searchlights, were themselves mistak...</span></span></span>
+Accounts reproduced from wartime Army Air Forces histories describe radar detecting what appeared to be an incoming object approaching the coast. Yet the contact was inconsistent and apparently disappeared. This matters because early wartime radar was far less reliable than later systems. Operators could misread atmospheric effects, sea reflections, equipment noise, or slow-moving non-aircraft objects. Radar in 1942 was still new enough that crews often struggled to distinguish meaningful targets from clutter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">1942Probably much of the confusion came from the fact that anti-aircraft shell bursts, caught by the searchlights, were themselves mistak...</span></span></span>
 
 The sceptical interpretation argues that once a radar alert existed, observers began interpreting later lights and shapes through the assumption that enemy aircraft were already overhead. In practical terms, the military did not begin with a carefully tracked bomber formation. It began with uncertainty interpreted under combat conditions.
 
-That distinction helps explain why reports rapidly diverged. Some observers claimed to see a few aircraft; others reported formations; others described stationary lights or slow-moving objects. No consistent aircraft count, speed, altitude, or flight path emerged from the reports. The more the alert spread through command networks and civil-defence systems, the more observers searched the sky expecting to find confirmation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">1942Probably much of the confusion came from the fact that anti-aircraft shell bursts, caught by the searchlights, were themselves mistak...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/world-war-iis-bizarre-battle-of-los-angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HistoryNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">world war iis bizarre battle of los angeles</span><span class="citation-popover-snippet">World War II&#x27;s Bizarre &#x27;Battle of Los Angeles&#x27;23 Feb 2017 — On February 25, 1942, an infamous false alarm saw American military units unl...</span><span class="citation-popover-meta">Published: February 25, 1942</span></span></span>
+That distinction helps explain why reports rapidly diverged. Some observers claimed to see a few aircraft; others reported formations; others described stationary lights or slow-moving objects. No consistent aircraft count, speed, altitude, or flight path emerged from the reports. The more the alert spread through command networks and civil-defence systems, the more observers searched the sky expecting to find confirmation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">1942Probably much of the confusion came from the fact that anti-aircraft shell bursts, caught by the searchlights, were themselves mistak...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/world-war-iis-bizarre-battle-of-los-angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HistoryNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">world war iis bizarre battle of los angeles</span><span class="citation-popover-snippet">World War II&#x27;s Bizarre &#x27;Battle of Los Angeles&#x27;23 Feb 2017 — On February 25, 1942, an infamous false alarm saw American military units unl...</span><span class="citation-popover-meta">Published: February 25, 1942</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eAH59Wh-Ymo" title="How a UFO Caused the Battle of Los Angeles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eAH59Wh-Ymo" target="_blank" rel="noopener noreferrer">How a UFO Caused the Battle of Los Angeles</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 1.8M &middot; Uploaded: May 2022 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eAH59Wh-Ymo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eAH59Wh-Ymo">Open on YouTube</a></p></div></div></div>
 
 ## Balloons, flares, bursts, and searchlight effects
 
-The most influential sceptical explanation centres on a meteorological balloon or similar airborne object becoming the initial visual trigger. Wartime sources later pointed specifically to a weather balloon carrying a red flare or tracking light seen over Santa Monica shortly after 3:00 a.m. Anti-aircraft batteries opened fire almost immediately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">1942Probably much of the confusion came from the fact that anti-aircraft shell bursts, caught by the searchlights, were themselves mistak...</span></span></span>
+The most influential sceptical explanation centres on a meteorological balloon or similar airborne object becoming the initial visual trigger. Wartime sources later pointed specifically to a weather balloon carrying a red flare or tracking light seen over Santa Monica shortly after 3:00 a.m. Anti-aircraft batteries opened fire almost immediately.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">1942Probably much of the confusion came from the fact that anti-aircraft shell bursts, caught by the searchlights, were themselves mistak...</span></span></span>
 
-Once firing started, the visual environment changed dramatically. Searchlights crossed through smoke and cloud layers while anti-aircraft shells exploded overhead. Every shell burst created bright flashes, expanding smoke puffs, and drifting fragments. Under searchlights, these effects could appear solid or metallic from the ground. The barrage effectively manufactured new “targets” in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">1942Probably much of the confusion came from the fact that anti-aircraft shell bursts, caught by the searchlights, were themselves mistak...</span></span></span> LinkedIn Several mechanisms reinforced the illusion: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/skys-limit-night-la-battled-its-own-imagination-james-jim-hoadley-sqbje" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Sky&#x27;s the Limit: The Night L.A. Battled Its Own ImaginationShell bursts, illuminated by searchlights, were misinterpreted as airc...</span></span></span>
+Once firing started, the visual environment changed dramatically. Searchlights crossed through smoke and cloud layers while anti-aircraft shells exploded overhead. Every shell burst created bright flashes, expanding smoke puffs, and drifting fragments. Under searchlights, these effects could appear solid or metallic from the ground. The barrage effectively manufactured new “targets” in the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">1942Probably much of the confusion came from the fact that anti-aircraft shell bursts, caught by the searchlights, were themselves mistak...</span></span></span> LinkedIn Several mechanisms reinforced the illusion:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/skys-limit-night-la-battled-its-own-imagination-james-jim-hoadley-sqbje" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Sky&#x27;s the Limit: The Night L.A. Battled Its Own ImaginationShell bursts, illuminated by searchlights, were misinterpreted as airc...</span></span></span>
 
 * **Shell bursts illuminated by searchlights** could resemble aircraft silhouettes or moving objects.
 * **Smoke clouds from explosions** lingered and reflected light unevenly.
 * **Tracer rounds** created the impression of objects moving through defensive fire.
 * **Crossing searchlight beams** produced apparent outlines and motion where nothing solid existed.
-* **Observers at different locations** interpreted isolated flashes as separate aircraft rather than fragments of the same barrage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">1942Probably much of the confusion came from the fact that anti-aircraft shell bursts, caught by the searchlights, were themselves mistak...</span></span></span> LinkedIn The famous newspaper photograph often associated with UFO claims actually fits this explanation unusually well. Historians and image analysts <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/skys-limit-night-la-battled-its-own-imagination-james-jim-hoadley-sqbje" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Sky&#x27;s the Limit: The Night L.A. Battled Its Own ImaginationShell bursts, illuminated by searchlights, were misinterpreted as airc...</span></span></span> note that the dramatic “object” in the image was heavily retouched for newspaper reproduction, while the bright spots around it align closely with illuminated shell bursts and smoke. The photograph captures the interaction of searchlights, smoke, and anti-aircraft fire more convincingly than it demonstrates a structured craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span>
+* **Observers at different locations** interpreted isolated flashes as separate aircraft rather than fragments of the same barrage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">1942Probably much of the confusion came from the fact that anti-aircraft shell bursts, caught by the searchlights, were themselves mistak...</span></span></span> LinkedIn The famous newspaper photograph often associated with UFO claims actually fits this explanation unusually well. Historians and image analysts<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/skys-limit-night-la-battled-its-own-imagination-james-jim-hoadley-sqbje" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Sky&#x27;s the Limit: The Night L.A. Battled Its Own ImaginationShell bursts, illuminated by searchlights, were misinterpreted as airc...</span></span></span> note that the dramatic “object” in the image was heavily retouched for newspaper reproduction, while the bright spots around it align closely with illuminated shell bursts and smoke. The photograph captures the interaction of searchlights, smoke, and anti-aircraft fire more convincingly than it demonstrates a structured craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span>
 
-This is why later military summaries repeatedly stressed that observers may have mistaken shell bursts for enemy aircraft. The process became circular: crews fired because they believed they saw aircraft, and the firing itself generated more apparent aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">1942Probably much of the confusion came from the fact that anti-aircraft shell bursts, caught by the searchlights, were themselves mistak...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Los Angeles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span>
+This is why later military summaries repeatedly stressed that observers may have mistaken shell bursts for enemy aircraft. The process became circular: crews fired because they believed they saw aircraft, and the firing itself generated more apparent aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">1942Probably much of the confusion came from the fact that anti-aircraft shell bursts, caught by the searchlights, were themselves mistak...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Los Angeles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span>
 
 <img src="{{ "/assets/images/Battle_of_Los_Angele_969c9e_false_air_raid_expla_b86b96-Illustration-2-dark.svg" | relative_url }}" alt="Explanations illustration 2" data-theme-src-dark="{{ "/assets/images/Battle_of_Los_Angele_969c9e_false_air_raid_expla_b86b96-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Battle_of_Los_Angele_969c9e_false_air_raid_expla_b86b96-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the false-air-raid explanation became dominant
 
 The false-air-raid interpretation gained strength not because it explained every witness report perfectly, but because competing explanations lacked supporting evidence.
 
-No confirmed Japanese aircraft were recovered or documented. Japanese post-war records did not support claims of an attack on Los Angeles that night. No bomb damage consistent with an air raid appeared. American fighter aircraft were never sent into successful interception. Most importantly, the anti-aircraft barrage produced no verified wreckage from hostile aircraft despite more than 1,400 rounds being fired. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/world-war-iis-bizarre-battle-of-los-angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">world war iis bizarre battle of los angeles</span><span class="citation-popover-snippet">World War II&#x27;s Bizarre &#x27;Battle of Los Angeles&#x27;23 Feb 2017 — On February 25, 1942, an infamous false alarm saw American military units unl...</span><span class="citation-popover-meta">Published: February 25, 1942</span></span></span> This absence became central to official reasoning. If large formations of enemy aircraft had crossed Los Angeles for hours under concentrated searchlights and anti-aircraft fire, military investigators expected at least one crash site, body, engine fragment, fuel fire, or bomb impact. Instead, the physical aftermath mostly consisted of falling shell fragments, damaged buildings, shattered windows, traffic accidents, and panic-related deaths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span>
+No confirmed Japanese aircraft were recovered or documented. Japanese post-war records did not support claims of an attack on Los Angeles that night. No bomb damage consistent with an air raid appeared. American fighter aircraft were never sent into successful interception. Most importantly, the anti-aircraft barrage produced no verified wreckage from hostile aircraft despite more than 1,400 rounds being fired.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/world-war-iis-bizarre-battle-of-los-angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">world war iis bizarre battle of los angeles</span><span class="citation-popover-snippet">World War II&#x27;s Bizarre &#x27;Battle of Los Angeles&#x27;23 Feb 2017 — On February 25, 1942, an infamous false alarm saw American military units unl...</span><span class="citation-popover-meta">Published: February 25, 1942</span></span></span> This absence became central to official reasoning. If large formations of enemy aircraft had crossed Los Angeles for hours under concentrated searchlights and anti-aircraft fire, military investigators expected at least one crash site, body, engine fragment, fuel fire, or bomb impact. Instead, the physical aftermath mostly consisted of falling shell fragments, damaged buildings, shattered windows, traffic accidents, and panic-related deaths.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span>
 
-The Army and Navy initially complicated matters by issuing conflicting public statements. Navy Secretary Frank Knox quickly described the incident as a “false alarm” caused by wartime nerves, while some Army officials left open the possibility of unidentified aircraft or psychological warfare. Those contradictions fuelled later speculation because they created the appearance of uncertainty or concealment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span>
+The Army and Navy initially complicated matters by issuing conflicting public statements. Navy Secretary Frank Knox quickly described the incident as a “false alarm” caused by wartime nerves, while some Army officials left open the possibility of unidentified aircraft or psychological warfare. Those contradictions fuelled later speculation because they created the appearance of uncertainty or concealment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span>
 
 Yet the later historical trend moved toward consolidation rather than expansion of mystery claims. The weather-balloon explanation did not stand alone; it became part of a broader systems explanation involving:
 
@@ -294,9 +294,9 @@ Yet the later historical trend moved toward consolidation rather than expansion 
 2. Expectation of Japanese attack.
 3. Ambiguous radar readings.
 4. A likely balloon or flare sighting.
-5. Self-reinforcing anti-aircraft fire. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/world-war-iis-bizarre-battle-of-los-angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">world war iis bizarre battle of los angeles</span><span class="citation-popover-snippet">World War II&#x27;s Bizarre &#x27;Battle of Los Angeles&#x27;23 Feb 2017 — On February 25, 1942, an infamous false alarm saw American military units unl...</span><span class="citation-popover-meta">Published: February 25, 1942</span></span></span>
+5. Self-reinforcing anti-aircraft fire.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/world-war-iis-bizarre-battle-of-los-angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">world war iis bizarre battle of los angeles</span><span class="citation-popover-snippet">World War II&#x27;s Bizarre &#x27;Battle of Los Angeles&#x27;23 Feb 2017 — On February 25, 1942, an infamous false alarm saw American military units unl...</span><span class="citation-popover-meta">Published: February 25, 1942</span></span></span>
 6. Searchlight and smoke distortions.
-7. Mass misinterpretation under blackout conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[2sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">1942Probably much of the confusion came from the fact that anti-aircraft shell bursts, caught by the searchlights, were themselves mistak...</span></span></span>
+7. Mass misinterpretation under blackout conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[2sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">1942Probably much of the confusion came from the fact that anti-aircraft shell bursts, caught by the searchlights, were themselves mistak...</span></span></span>
 
 </div>
 
@@ -304,189 +304,189 @@ Yet the later historical trend moved toward consolidation rather than expansion 
 
 One reason the Battle of Los Angeles remains culturally powerful is that many witnesses sincerely believed they saw structured objects or aircraft. The sceptical case does not require assuming mass dishonesty. Instead, it argues that wartime perception under stress is unreliable, especially during collective events involving noise, darkness, authority signals, and expectation.
 
-The reports themselves were highly unstable. Witnesses disagreed about the number of objects, their speed, altitude, shape, and direction. Some described fast-moving aircraft; others described hovering lights; others saw only explosions and beams. In evidentiary terms, the reports lacked convergence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">1942Probably much of the confusion came from the fact that anti-aircraft shell bursts, caught by the searchlights, were themselves mistak...</span></span></span>
+The reports themselves were highly unstable. Witnesses disagreed about the number of objects, their speed, altitude, shape, and direction. Some described fast-moving aircraft; others described hovering lights; others saw only explosions and beams. In evidentiary terms, the reports lacked convergence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">1942Probably much of the confusion came from the fact that anti-aircraft shell bursts, caught by the searchlights, were themselves mistak...</span></span></span>
 
 The timing also mattered. Most observations occurred after searchlights and anti-aircraft fire had already begun. That means many witnesses were observing a sky filled with artificial flashes, smoke, tracers, and drifting debris rather than a clean visual target. Once attention became fixed upward, ordinary atmospheric or military effects acquired heightened meaning.
 
-This pattern appears repeatedly in later studies of false alarms and aerial scares: the defence response itself becomes part of the perceived threat. During the Battle of Los Angeles, every new burst of fire encouraged observers to assume the military had identified a genuine target, which in turn encouraged more reports from civilians and spotters. The cycle validated itself in real time even without confirmed enemy aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">1942Probably much of the confusion came from the fact that anti-aircraft shell bursts, caught by the searchlights, were themselves mistak...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/history/great-los-angeles-air-raid-terrified-citizenseven-though-no-bombs-were-dropped-180967890/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">The WWII “battle” was an example of what happens when the...Read more...</span></span></span>
+This pattern appears repeatedly in later studies of false alarms and aerial scares: the defence response itself becomes part of the perceived threat. During the Battle of Los Angeles, every new burst of fire encouraged observers to assume the military had identified a genuine target, which in turn encouraged more reports from civilians and spotters. The cycle validated itself in real time even without confirmed enemy aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">1942Probably much of the confusion came from the fact that anti-aircraft shell bursts, caught by the searchlights, were themselves mistak...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/history/great-los-angeles-air-raid-terrified-citizenseven-though-no-bombs-were-dropped-180967890/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">The WWII “battle” was an example of what happens when the...Read more...</span></span></span>
 
-The endurance of UFO interpretations owes much to the dramatic imagery and scale of the event. Searchlights converging over Los Angeles during a blackout naturally looked extraordinary, especially in reproduced newspaper photographs. But when historians revisit the mechanics of the incident rather than the mythology surrounding it, the strongest evidence still points toward a wartime false alarm amplified by visual confusion and anti-aircraft fire rather than a hidden air battle against unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Los Angeles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span>
+The endurance of UFO interpretations owes much to the dramatic imagery and scale of the event. Searchlights converging over Los Angeles during a blackout naturally looked extraordinary, especially in reproduced newspaper photographs. But when historians revisit the mechanics of the incident rather than the mythology surrounding it, the strongest evidence still points toward a wartime false alarm amplified by visual confusion and anti-aircraft fire rather than a hidden air battle against unknown craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Los Angeles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span>
 
 <img src="{{ "/assets/images/Battle_of_Los_Angele_969c9e_false_air_raid_expla_b86b96-Illustration-3-dark.svg" | relative_url }}" alt="Explanations illustration 3" data-theme-src-dark="{{ "/assets/images/Battle_of_Los_Angele_969c9e_false_air_raid_expla_b86b96-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Battle_of_Los_Angele_969c9e_false_air_raid_expla_b86b96-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were The Guns Firing At Anything Real?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were The Guns Firing At Anything Real?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Explains how human sensory systems interpret chaotic stimulus like anti-aircraft bursts under conditions of high distress.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how human sensory systems interpret chaotic stimulus like anti-aircraft bursts under conditions of high distress.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Railway+Dictionary+by+Alan+Arthur+Jackson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Railway Dictionary on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aSFhHAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Railway Dictionary" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Railway+Dictionary+by+Alan+Arthur+Jackson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Railway Dictionary">The Railway Dictionary</a>
-        </h4>
-        <p class="fr-book-author">By Alan Arthur Jackson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Railway+Dictionary+by+Alan+Arthur+Jackson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Railway Dictionary on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aSFhHAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Railway Dictionary" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Railway+Dictionary+by+Alan+Arthur+Jackson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Railway Dictionary">The Railway Dictionary</a>
+</h4>
+<p class="fr-book-author">By Alan Arthur Jackson</p>
         
-        <p class="fr-book-desc">Explores how illuminated smoke, searchlight convergences, and bursting shell fragments create self-reinforcing optical illusions of struc...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Railway+Dictionary+by+Alan+Arthur+Jackson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how illuminated smoke, searchlight convergences, and bursting shell fragments create self-reinforcing optical illusions of struc...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Railway+Dictionary+by+Alan+Arthur+Jackson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Examines why scattered visual reports from civilians did not match the formal military tracking assessments after the war.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines why scattered visual reports from civilians did not match the formal military tracking assessments after the war.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Purpose+Based+Retirement&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Purpose Based Retirement on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Purpose+Based+Retirement&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Purpose Based Retirement">Purpose Based Retirement</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Purpose+Based+Retirement&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Purpose Based Retirement on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Purpose+Based+Retirement&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Purpose Based Retirement">Purpose Based Retirement</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Details the Office of Air Force History&#x27;s conclusions regarding &#x27;war nerves&#x27; and drifting weather balloons as the primary triggers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Purpose+Based+Retirement&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details the Office of Air Force History&#x27;s conclusions regarding &#x27;war nerves&#x27; and drifting weather balloons as the primary triggers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Purpose+Based+Retirement&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Railway+Dictionary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Railway Dictionary</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Railway+Dictionary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Railway Dictionary</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large Framed WWII Allied Propaganda Poster – Henry Koerner – 127 x 90 cm"><img src="{{ '/assets/images/marketplace-covers/e4d89fa55ff9b59e543e.jpg' | relative_url }}" alt="Listing image for Large Framed WWII Allied Propaganda Poster – Henry Koerner – 127 x 90 cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large Framed WWII Allied Propaganda Poster – Henry Koerner – 127 x 90 cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for WWII poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: WWII poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large Framed WWII Allied Propaganda Poster – Henry Koerner – 127 x 90 cm"><img src="{{ '/assets/images/marketplace-covers/e4d89fa55ff9b59e543e.jpg' | relative_url }}" alt="Listing image for Large Framed WWII Allied Propaganda Poster – Henry Koerner – 127 x 90 cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large Framed WWII Allied Propaganda Poster – Henry Koerner – 127 x 90 cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for WWII poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: WWII poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage WWII Poster Orbis Publishing Print LETS GIVE HIM ENOUGH AND ON TIME 70s"><img src="{{ '/assets/images/marketplace-covers/93c310d16a6e2ba0e186.jpg' | relative_url }}" alt="Listing image for Vintage WWII Poster Orbis Publishing Print LETS GIVE HIM ENOUGH AND ON TIME 70s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage WWII Poster Orbis Publishing Print LETS GIVE HIM ENOUGH AND ON TIME 70s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for WWII poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: WWII poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage WWII Poster Orbis Publishing Print LETS GIVE HIM ENOUGH AND ON TIME 70s"><img src="{{ '/assets/images/marketplace-covers/93c310d16a6e2ba0e186.jpg' | relative_url }}" alt="Listing image for Vintage WWII Poster Orbis Publishing Print LETS GIVE HIM ENOUGH AND ON TIME 70s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage WWII Poster Orbis Publishing Print LETS GIVE HIM ENOUGH AND ON TIME 70s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for WWII poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: WWII poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WB17 Vintage WW2 Fine Work Canal Workers Carry On British WWII War Poster A4"><img src="{{ '/assets/images/marketplace-covers/55b1411129a34cefb8f9.jpg' | relative_url }}" alt="Listing image for WB17 Vintage WW2 Fine Work Canal Workers Carry On British WWII War Poster A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">WB17 Vintage WW2 Fine Work Canal Workers Carry On British WWII War Poster A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for WWII poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: WWII poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WB17 Vintage WW2 Fine Work Canal Workers Carry On British WWII War Poster A4"><img src="{{ '/assets/images/marketplace-covers/55b1411129a34cefb8f9.jpg' | relative_url }}" alt="Listing image for WB17 Vintage WW2 Fine Work Canal Workers Carry On British WWII War Poster A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">WB17 Vintage WW2 Fine Work Canal Workers Carry On British WWII War Poster A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for WWII poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: WWII poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="explanations-95342a-were-the-guns-firing-at-anything-real-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -502,7 +502,7 @@ The endurance of UFO interpretations owes much to the dramatic imagery and scale
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -522,7 +522,7 @@ The endurance of UFO interpretations owes much to the dramatic imagery and scale
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -554,7 +554,7 @@ The endurance of UFO interpretations owes much to the dramatic imagery and scale
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -606,7 +606,7 @@ The endurance of UFO interpretations owes much to the dramatic imagery and scale
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -651,7 +651,7 @@ The endurance of UFO interpretations owes much to the dramatic imagery and scale
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -692,119 +692,119 @@ The endurance of UFO interpretations owes much to the dramatic imagery and scale
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Battle of Los Angeles  
-   Link: <a href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Battle_of_Los_Angeles</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Battle_of_Los_Angeles</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sfmuseum.org  
    Title: The Battle of Los Angeles  
-   Link: <a href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow">https://sfmuseum.org/hist9/aaf2.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1942Probably much of the confusion came from the fact that anti-aircraft shell bursts, caught by the searchlights, were themselves mistak...</p></details>
+   Link:<a href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow">https://sfmuseum.org/hist9/aaf2.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1942Probably much of the confusion came from the fact that anti-aircraft shell bursts, caught by the searchlights, were themselves mistak...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: history.com  
    Title: world war iis bizarre battle of los angeles  
-   Link: <a href="https://www.history.com/articles/world-war-iis-bizarre-battle-of-los-angeles" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/world-war-iis-bizarre-battle-of-los-angeles</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World War II&#x27;s Bizarre &#x27;Battle of Los Angeles&#x27;23 Feb 2017 — On February 25, 1942, an infamous false alarm saw American military units unl...</p></details>
+   Link:<a href="https://www.history.com/articles/world-war-iis-bizarre-battle-of-los-angeles" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/world-war-iis-bizarre-battle-of-los-angeles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World War II&#x27;s Bizarre &#x27;Battle of Los Angeles&#x27;23 Feb 2017 — On February 25, 1942, an infamous false alarm saw American military units unl...</p></details>
    Published: February 25, 1942  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: historynet.com  
-   Link: <a href="https://historynet.com/the-battle-of-l-a/" target="_blank" rel="noopener noreferrer nofollow">https://historynet.com/the-battle-of-l-a/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Did Enemy Aircraft Threaten Los Angeles During World...19 Mar 2019 — Navy Secretary Frank Knox, however, announced it had been a “false...</p></details>
+   Link:<a href="https://historynet.com/the-battle-of-l-a/" target="_blank" rel="noopener noreferrer nofollow">https://historynet.com/the-battle-of-l-a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did Enemy Aircraft Threaten Los Angeles During World...19 Mar 2019 — Navy Secretary Frank Knox, however, announced it had been a “false...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/skys-limit-night-la-battled-its-own-imagination-james-jim-hoadley-sqbje" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/skys-limit-night-la-battled-its-own-imagination-james-jim-hoadley-sqbje</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky&#x27;s the Limit: The Night L.A. Battled Its Own ImaginationShell bursts, illuminated by searchlights, were misinterpreted as airc...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/skys-limit-night-la-battled-its-own-imagination-james-jim-hoadley-sqbje" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/skys-limit-night-la-battled-its-own-imagination-james-jim-hoadley-sqbje</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky&#x27;s the Limit: The Night L.A. Battled Its Own ImaginationShell bursts, illuminated by searchlights, were misinterpreted as airc...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: us.shop.battle.net  
-   Link: <a href="https://us.shop.battle.net/en-us" target="_blank" rel="noopener noreferrer nofollow">https://us.shop.battle.net/en-us</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>battle.netBattle.net: HomeBattle.net is your one stop shop into the world of Blizzard and Activision. Buy digital games, in-game items, b...</p></details>
+   Link:<a href="https://us.shop.battle.net/en-us" target="_blank" rel="noopener noreferrer nofollow">https://us.shop.battle.net/en-us</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>battle.netBattle.net: HomeBattle.net is your one stop shop into the world of Blizzard and Activision. Buy digital games, in-game items, b...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: military.com  
-   Link: <a href="https://www.military.com/daily-news/investigations-and-features/2025/11/13/wwii-mystery-behind-1942-battle-of-los-angeles-axis-planes-aliens-or-mass-hysteria.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/investigations-and-features/2025/11/13/wwii-mystery-behind-1942-battle-of-los-angeles-axis-planes-aliens-or-mass-hysteria.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Once spotted, jumpy...Read more...</p></details>
+   Link:<a href="https://www.military.com/daily-news/investigations-and-features/2025/11/13/wwii-mystery-behind-1942-battle-of-los-angeles-axis-planes-aliens-or-mass-hysteria.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/investigations-and-features/2025/11/13/wwii-mystery-behind-1942-battle-of-los-angeles-axis-planes-aliens-or-mass-hysteria.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Once spotted, jumpy...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: The Battle of Los Angeles  
-   Link: <a href="http://www.youtube.com/watch?v=6oY8HIWBS-Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=6oY8HIWBS-Y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How a UFO Caused the Battle of Los Angeles...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=6oY8HIWBS-Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=6oY8HIWBS-Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How a UFO Caused the Battle of Los Angeles...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: fox6now.com  
    Title: battle los angeles anniversary balloon sparked air raid ufo scare  
-   Link: <a href="https://www.fox6now.com/weather/battle-los-angeles-anniversary-balloon-sparked-air-raid-ufo-scare" target="_blank" rel="noopener noreferrer nofollow">https://www.fox6now.com/weather/battle-los-angeles-anniversary-balloon-sparked-air-raid-ufo-scare</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FOX6 News MilwaukeeBattle of Los Angeles Anniversary: How a weather balloon...25 Feb 2026 — A military review concluded a meteorological...</p></details>
+   Link:<a href="https://www.fox6now.com/weather/battle-los-angeles-anniversary-balloon-sparked-air-raid-ufo-scare" target="_blank" rel="noopener noreferrer nofollow">https://www.fox6now.com/weather/battle-los-angeles-anniversary-balloon-sparked-air-raid-ufo-scare</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOX6 News MilwaukeeBattle of Los Angeles Anniversary: How a weather balloon...25 Feb 2026 — A military review concluded a meteorological...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/history/great-los-angeles-air-raid-terrified-citizenseven-though-no-bombs-were-dropped-180967890/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/great-los-angeles-air-raid-terrified-citizenseven-though-no-bombs-were-dropped-180967890/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The WWII “battle” was an example of what happens when the...Read more...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/history/great-los-angeles-air-raid-terrified-citizenseven-though-no-bombs-were-dropped-180967890/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/great-los-angeles-air-raid-terrified-citizenseven-though-no-bombs-were-dropped-180967890/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The WWII “battle” was an example of what happens when the...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: latimes.com  
    Title: la me fw archives 1942 battle la 20170221 story  
-   Link: <a href="https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles TimesFrom the Archives: The 1942 Battle of L.A.Feb 23, 2017 — They carried lights for tracking purposes, and these “lighted b...</p></details>
+   Link:<a href="https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles TimesFrom the Archives: The 1942 Battle of L.A.Feb 23, 2017 — They carried lights for tracking purposes, and these “lighted b...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/zl50i5/photo_of_the_unidentified_object_that_triggered/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/zl50i5/photo_of_the_unidentified_object_that_triggered/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>That&#x27;s why all the artillery was loaded and manned in the 1st place. As to the photo being enhanced, yes.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/zl50i5/photo_of_the_unidentified_object_that_triggered/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/zl50i5/photo_of_the_unidentified_object_that_triggered/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>That&#x27;s why all the artillery was loaded and manned in the 1st place. As to the photo being enhanced, yes.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: celebratecalifornia.library.ca.gov  
    Title: february 24 1942 the battle of los angeles 2  
-   Link: <a href="https://celebratecalifornia.library.ca.gov/february-24-1942-the-battle-of-los-angeles-2/" target="_blank" rel="noopener noreferrer nofollow">https://celebratecalifornia.library.ca.gov/february-24-1942-the-battle-of-los-angeles-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Battle of Los Angeles” The Army Air Forces in World War II, Vol. 1 posits weather balloons as the most likely explanation. A photo from t...</p></details>
+   Link:<a href="https://celebratecalifornia.library.ca.gov/february-24-1942-the-battle-of-los-angeles-2/" target="_blank" rel="noopener noreferrer nofollow">https://celebratecalifornia.library.ca.gov/february-24-1942-the-battle-of-los-angeles-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Battle of Los Angeles” The Army Air Forces in World War II, Vol. 1 posits weather balloons as the most likely explanation. A photo from t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sofrep.com  
    Title: the battle of los angeles war jitters or ufo mystery  
-   Link: <a href="https://sofrep.com/news/the-battle-of-los-angeles-war-jitters-or-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/the-battle-of-los-angeles-war-jitters-or-ufo-mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Battle of Los Angeles: War Jitters or UFO Mystery?19 Apr 2026 — The Battle of Los Angeles fuses wartime tension with the unknown, rem...</p></details>
+   Link:<a href="https://sofrep.com/news/the-battle-of-los-angeles-war-jitters-or-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/the-battle-of-los-angeles-war-jitters-or-ufo-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Battle of Los Angeles: War Jitters or UFO Mystery?19 Apr 2026 — The Battle of Los Angeles fuses wartime tension with the unknown, rem...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: feburary 25 1942 the night that the los angeles  
-   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/kh180n/feburary_25_1942_the_night_that_the_los_angeles/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/kh180n/feburary_25_1942_the_night_that_the_los_angeles/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feburary 25, 1942. The night that the Los Angeles Civil...Feburary 25, 1942. The night that the Los Angeles Civil Defense came together...</p></details>
+   Link:<a href="https://www.reddit.com/r/interestingasfuck/comments/kh180n/feburary_25_1942_the_night_that_the_los_angeles/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/kh180n/feburary_25_1942_the_night_that_the_los_angeles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feburary 25, 1942. The night that the Los Angeles Civil...Feburary 25, 1942. The night that the Los Angeles Civil Defense came together...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/15lw29u/what_do_you_think_might_really_happened_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15lw29u/what_do_you_think_might_really_happened_in_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Air Force History attributed the event to a case of &quot;war nerves&quot; triggered by a lost weather balloon and exacerbated...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/15lw29u/what_do_you_think_might_really_happened_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15lw29u/what_do_you_think_might_really_happened_in_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Air Force History attributed the event to a case of &quot;war nerves&quot; triggered by a lost weather balloon and exacerbated...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DVKkUEFEQaL/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVKkUEFEQaL/?hl=en-gb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>with one sentence: once the firing began, imagination created all...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DVKkUEFEQaL/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVKkUEFEQaL/?hl=en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>with one sentence: once the firing began, imagination created all...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100071131374238/posts/on-february-25-1942-just-weeks-after-the-us-entered-world-war-ii-air-raid-sirens/973133841734319/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100071131374238/posts/on-february-25-1942-just-weeks-after-the-us-entered-world-war-ii-air-raid-sirens/973133841734319/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>er proven. Decades later, it remains one of the most...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/100071131374238/posts/on-february-25-1942-just-weeks-after-the-us-entered-world-war-ii-air-raid-sirens/973133841734319/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100071131374238/posts/on-february-25-1942-just-weeks-after-the-us-entered-world-war-ii-air-raid-sirens/973133841734319/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>er proven. Decades later, it remains one of the most...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40AWKhistory/the-mysterious-battle-of-los-angeles-americas-first-ufo-battle-3d58c9d1cf02" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40AWKhistory/the-mysterious-battle-of-los-angeles-americas-first-ufo-battle-3d58c9d1cf02</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>identified aircraft. A few quietly hinted at mass hysteria. But...</p></details>
+   Link:<a href="https://medium.com/%40AWKhistory/the-mysterious-battle-of-los-angeles-americas-first-ufo-battle-3d58c9d1cf02" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40AWKhistory/the-mysterious-battle-of-los-angeles-americas-first-ufo-battle-3d58c9d1cf02</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>identified aircraft. A few quietly hinted at mass hysteria. But...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: laalmanac.com  
-   Link: <a href="https://www.laalmanac.com/history/hi07s.php" target="_blank" rel="noopener noreferrer nofollow">https://www.laalmanac.com/history/hi07s.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LA AlmanacThe Mysterious Battle of Los Angeles, 1942Explanations for what had spooked gunners ranged from a false alarm to meteorological...</p></details>
+   Link:<a href="https://www.laalmanac.com/history/hi07s.php" target="_blank" rel="noopener noreferrer nofollow">https://www.laalmanac.com/history/hi07s.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LA AlmanacThe Mysterious Battle of Los Angeles, 1942Explanations for what had spooked gunners ranged from a false alarm to meteorological...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: airminded.org  
    Title: new light on the battle of los angeles  
-   Link: <a href="https://airminded.org/2011/04/20/new-light-on-the-battle-of-los-angeles/" target="_blank" rel="noopener noreferrer nofollow">https://airminded.org/2011/04/20/new-light-on-the-battle-of-los-angeles/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New light on the Battle of Los Angeles20 Apr 2011 — They&#x27;re due to bursting anti-aircraft shells. The question is, are they actu...</p></details>
+   Link:<a href="https://airminded.org/2011/04/20/new-light-on-the-battle-of-los-angeles/" target="_blank" rel="noopener noreferrer nofollow">https://airminded.org/2011/04/20/new-light-on-the-battle-of-los-angeles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New light on the Battle of Los Angeles20 Apr 2011 — They&#x27;re due to bursting anti-aircraft shells. The question is, are they actu...</p></details>

@@ -758,233 +758,233 @@ image: /assets/images/Topcliffe_incident_1_80cbf4-overview-social.jpg
 
 ## What Happened at RAF Topcliffe?
 
-On the **morning of Friday 19 September 1952**, RAF personnel at Topcliffe observed an anomaly in the sky as a **Gloster Meteor fighter jet** was descending towards the airfield around **10:53 am**. Witness statements consistently describe a **white or silvery circular object** at an altitude somewhat above the Meteor’s flight path. It appeared to be **travelling on a similar course**, albeit slower, before descending and demonstrating unusual motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/shg/ukufo/1952topcliffe.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947Sign Historical Group - Topcliffe Incident - David Clarke...</span></span></span>
+On the **morning of Friday 19 September 1952**, RAF personnel at Topcliffe observed an anomaly in the sky as a **Gloster Meteor fighter jet** was descending towards the airfield around **10:53 am**. Witness statements consistently describe a **white or silvery circular object** at an altitude somewhat above the Meteor’s flight path. It appeared to be **travelling on a similar course**, albeit slower, before descending and demonstrating unusual motion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/shg/ukufo/1952topcliffe.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947Sign Historical Group - Topcliffe Incident - David Clarke...</span></span></span>
 
 <img src="{{ "/assets/images/Topcliffe_incident_1_80cbf4-overview.webp" | relative_url }}" alt="Overview image for Topcliffe incident 1952" loading="eager" decoding="sync" fetchpriority="high">
-According to contemporaneous accounts preserved in RAF records (AIR 16/1199) and later historical summaries, the object initially **swayed like a falling leaf**, leading observers to briefly consider mundane [explanations]({{ 'explanations-25e9ae/' | relative_url }}) such as an aircraft part or parachute. However, as the Meteor turned to land, the object was reported to have **hovered and rotated on its own axis**. In a matter of **15–20 seconds**, it then **accelerated at high speed towards the west and disappeared from view**. The rate of acceleration was said by witnesses to be **greater than that of a shooting star**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/shg/ukufo/1952topcliffe.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947Sign Historical Group - Topcliffe Incident - David Clarke...</span></span></span>
+According to contemporaneous accounts preserved in RAF records (AIR 16/1199) and later historical summaries, the object initially **swayed like a falling leaf**, leading observers to briefly consider mundane [explanations]({{ 'explanations-25e9ae/' | relative_url }}) such as an aircraft part or parachute. However, as the Meteor turned to land, the object was reported to have **hovered and rotated on its own axis**. In a matter of **15–20 seconds**, it then **accelerated at high speed towards the west and disappeared from view**. The rate of acceleration was said by witnesses to be **greater than that of a shooting star**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/shg/ukufo/1952topcliffe.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947Sign Historical Group - Topcliffe Incident - David Clarke...</span></span></span>
 
-The primary written report was submitted by **Flight Lieutenant John W. Kilburn** of 269 Squadron, who, along with other aircrew and RAF officers, provided detailed descriptions. Observers emphasised that the object’s behaviour was **not consistent with known aircraft of the day** and that the movements were unfamiliar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/uk-ufos-mainbrace-nato?ms=GT24Facebook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-snippet">The UFO Sightings that Pushed the UK to Take &#x27;Flying Saucers&#x27; More Seriously &#124; HISTORY...</span></span></span>
+The primary written report was submitted by **Flight Lieutenant John W. Kilburn** of 269 Squadron, who, along with other aircrew and RAF officers, provided detailed descriptions. Observers emphasised that the object’s behaviour was **not consistent with known aircraft of the day** and that the movements were unfamiliar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/uk-ufos-mainbrace-nato?ms=GT24Facebook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-snippet">The UFO Sightings that Pushed the UK to Take &#x27;Flying Saucers&#x27; More Seriously &#124; HISTORY...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i4FG3k3izyI" title="OPERATION &quot;MAINBRACE&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i4FG3k3izyI" target="_blank" rel="noopener noreferrer">OPERATION &quot;MAINBRACE&quot;</a></p><p class="youtube-embed-meta">Channel: British Movietone &middot; Views: 4.8K &middot; Uploaded: July 2015 &middot; Length: 1 minute 33 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i4FG3k3izyI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i4FG3k3izyI">Open on YouTube</a></p></div></div></div>
 
 ## Context: Operation Mainbrace and UFO Reports in 1952
 
-The Topcliffe sighting took place against the backdrop of **Operation Mainbrace**, a major **NATO military exercise** from **14 to 25 September 1952** that involved tens of thousands of personnel, hundreds of aircraft, and numerous ships from allied nations. During this period, **multiple reports of unidentified aerial phenomena** were made by military personnel across Northern Europe, not just at Topcliffe. Some of these included sightings by naval crews and other RAF units. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theufodatabase.com/incidents/1952-nato-exercise-mainbrace-training-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufodatabase.com">[The UFO Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufodatabase.com</span><span class="citation-popover-title">The UFO Database Exercise Mainbrace Sightings &#124; The UFO Database</span><span class="citation-popover-snippet">The UFO DatabaseExercise Mainbrace Sightings &#124; The UFO DatabaseSeptember 13, 1952...</span><span class="citation-popover-meta">Published: September 13, 1952</span></span></span>
+The Topcliffe sighting took place against the backdrop of **Operation Mainbrace**, a major **NATO military exercise** from **14 to 25 September 1952** that involved tens of thousands of personnel, hundreds of aircraft, and numerous ships from allied nations. During this period, **multiple reports of unidentified aerial phenomena** were made by military personnel across Northern Europe, not just at Topcliffe. Some of these included sightings by naval crews and other RAF units.<span class="citation-chip-wrap"><a class="citation-chip" href="https://theufodatabase.com/incidents/1952-nato-exercise-mainbrace-training-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufodatabase.com">[The UFO Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufodatabase.com</span><span class="citation-popover-title">The UFO Database Exercise Mainbrace Sightings &#124; The UFO Database</span><span class="citation-popover-snippet">The UFO DatabaseExercise Mainbrace Sightings &#124; The UFO DatabaseSeptember 13, 1952...</span><span class="citation-popover-meta">Published: September 13, 1952</span></span></span>
 
 <img src="{{ "/assets/images/Topcliffe_incident_1_80cbf4-Illustration-1-dark.svg" | relative_url }}" alt="Topcliffe incident 1952 illustration 1" data-theme-src-dark="{{ "/assets/images/Topcliffe_incident_1_80cbf4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Topcliffe_incident_1_80cbf4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 1952 was a peak year for UFO reports globally, most notably in the **United States** where radar and visual sightings over Washington, D.C., attracted significant public and military attention that summer. The British encounters during Mainbrace contributed to renewed scrutiny of aerial reports within military circles on both sides of the Atlantic. [Wikipedia]
 
 ## Official Response and Documentation
 
-The sighting at Topcliffe was **reported through official RAF channels** and reached the Air Ministry, which retained the file reference **AIR 16/1199** for UFO occurrence reports made by service personnel at the station. This catalogue entry survives at **The National Archives (Kew)**, though the full details of witness statements require in‑person access and have not been fully digitised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.nationalarchives.gov.uk/details/r/C507596" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.nationalarchives.gov.uk">[Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The sighting at Topcliffe was **reported through official RAF channels** and reached the Air Ministry, which retained the file reference **AIR 16/1199** for UFO occurrence reports made by service personnel at the station. This catalogue entry survives at **The National Archives (Kew)**, though the full details of witness statements require in‑person access and have not been fully digitised.<span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.nationalarchives.gov.uk/details/r/C507596" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.nationalarchives.gov.uk">[Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Contemporary newspaper coverage — including front‑page reports in regional British presses — helped publicise the event beyond military circles. According to later analysis, the incident played a role in prompting the Air Ministry to reconsider how UFO reports were handled and contributed to the establishment of a more systematic “UFO desk” within intelligence branches in 1953. However, official MoD publications have never produced a public, definitive explanation for the Topcliffe sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">This Scoutmaster Had a Run-in with a UFO</span><span class="citation-popover-snippet">The Kids Saw it Too. &#124; HISTORYAugust 23, 2018 — By: Colin Bertram Mysteries &amp; Folklore THIS SCOUTMASTER HAD A RUN-IN WITH A UFO. THE KIDS...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
+Contemporary newspaper coverage — including front‑page reports in regional British presses — helped publicise the event beyond military circles. According to later analysis, the incident played a role in prompting the Air Ministry to reconsider how UFO reports were handled and contributed to the establishment of a more systematic “UFO desk” within intelligence branches in 1953. However, official MoD publications have never produced a public, definitive explanation for the Topcliffe sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">This Scoutmaster Had a Run-in with a UFO</span><span class="citation-popover-snippet">The Kids Saw it Too. &#124; HISTORYAugust 23, 2018 — By: Colin Bertram Mysteries &amp; Folklore THIS SCOUTMASTER HAD A RUN-IN WITH A UFO. THE KIDS...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9vE2fNgwi8g" title="1952 REPORT OF THE U.S. NAVY GLOBAL OPERATIONS / KOREAN WAR 28474" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9vE2fNgwi8g" target="_blank" rel="noopener noreferrer">1952 REPORT OF THE U.S. NAVY GLOBAL OPERATIONS / KOREAN WAR 28474</a></p><p class="youtube-embed-meta">Channel: PeriscopeFilm &middot; Views: 5.8K &middot; Uploaded: November 2017 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9vE2fNgwi8g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9vE2fNgwi8g">Open on YouTube</a></p></div></div></div>
 
 ## Witness Credibility and Evidence
 
-The Topcliffe incident is notable because the observers were **trained military personnel with aviation experience**, including an RAF squadron officer and members of a long‑range patrol squadron waiting on the airfield. Many witnesses had extensive flying hours and familiarity with conventional aircraft behaviours. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/uk-ufos-mainbrace-nato?ms=GT24Facebook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-snippet">The UFO Sightings that Pushed the UK to Take &#x27;Flying Saucers&#x27; More Seriously &#124; HISTORY...</span></span></span>
+The Topcliffe incident is notable because the observers were **trained military personnel with aviation experience**, including an RAF squadron officer and members of a long‑range patrol squadron waiting on the airfield. Many witnesses had extensive flying hours and familiarity with conventional aircraft behaviours.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/uk-ufos-mainbrace-nato?ms=GT24Facebook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-snippet">The UFO Sightings that Pushed the UK to Take &#x27;Flying Saucers&#x27; More Seriously &#124; HISTORY...</span></span></span>
 
-Multiple independent descriptions reported **consistent features**: a circular shape, metallic or reflective appearance, capacity to hover, a period of rotation, and rapid acceleration inconsistent with known aircraft technology of 1952. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/ncp/ncp-mainbrace.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ncp mainbrace</span><span class="citation-popover-snippet">Operation Mainbrace Sightings 1952...</span></span></span>
+Multiple independent descriptions reported **consistent features**: a circular shape, metallic or reflective appearance, capacity to hover, a period of rotation, and rapid acceleration inconsistent with known aircraft technology of 1952.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/ncp/ncp-mainbrace.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ncp mainbrace</span><span class="citation-popover-snippet">Operation Mainbrace Sightings 1952...</span></span></span>
 
 However, physical evidence beyond eyewitness testimony — such as radar data or recovered material — has not surfaced in publicly accessible archives. No declassified MoD or Ministry of Defence technical report has been published that conclusively interprets the phenomenon as extraterrestrial, technologically advanced, or misidentified atmospheric phenomenon.
 
 <img src="{{ "/assets/images/Topcliffe_incident_1_80cbf4-Illustration-2-dark.svg" | relative_url }}" alt="Topcliffe incident 1952 illustration 2" data-theme-src-dark="{{ "/assets/images/Topcliffe_incident_1_80cbf4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Topcliffe_incident_1_80cbf4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Explanations and Skeptical Views
 
-Over the decades, explanations proposed for the Topcliffe sighting have ranged widely: <span class="citation-chip-wrap"><a class="citation-chip" href="https://isaackoi.com/ufo-history/ufo/19520919-topcliffe-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[isaackoi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">19520919 topcliffe sighting</span><span class="citation-popover-snippet">Isaac Koi Archive1952.0919 Topcliffe sighting &#124; Isaac Koi Archive...</span></span></span>
+Over the decades, explanations proposed for the Topcliffe sighting have ranged widely:<span class="citation-chip-wrap"><a class="citation-chip" href="https://isaackoi.com/ufo-history/ufo/19520919-topcliffe-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[isaackoi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">19520919 topcliffe sighting</span><span class="citation-popover-snippet">Isaac Koi Archive1952.0919 Topcliffe sighting &#124; Isaac Koi Archive...</span></span></span>
 
-* **Misidentification of known aerial objects**: Some researchers suggest observers may have misinterpreted a conventional object, such as a **balloon or aircraft part**, though proponents argue these do not fit reported behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spookyvalley.com/events/topcliffe-yorkshire-ufo-1952/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spookyvalley.com">[Spooky Valley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spookyvalley.com</span><span class="citation-popover-title">Spooky Valley RAF Topcliffe UFO Incident</span><span class="citation-popover-snippet">Spooky ValleyRAF Topcliffe UFO Incident - UFO in RAF Topcliffe, Yorkshire, England &#124; Spooky ValleyMay 10, 2026...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
-* **Optical or perceptual effects**: Atmospheric conditions sometimes create illusions of motion or shape that are not representative of the true object. Multiple observers, however, make simple illusion explanations harder to sustain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">This Scoutmaster Had a Run-in with a UFO</span><span class="citation-popover-snippet">The Kids Saw it Too. &#124; HISTORYAugust 23, 2018 — By: Colin Bertram Mysteries &amp; Folklore THIS SCOUTMASTER HAD A RUN-IN WITH A UFO. THE KIDS...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
-* **Experimental aircraft**: The possibility that secret or little‑known aircraft were in the region has been raised, but no candidate programme from 1952 matches the specific manoeuvres reported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">This Scoutmaster Had a Run-in with a UFO</span><span class="citation-popover-snippet">The Kids Saw it Too. &#124; HISTORYAugust 23, 2018 — By: Colin Bertram Mysteries &amp; Folklore THIS SCOUTMASTER HAD A RUN-IN WITH A UFO. THE KIDS...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
-* **Classic UFO interpretation**: Some UFO researchers argue that the object demonstrated capabilities beyond known technology, citing the acceleration and hovering as unexplained. This interpretation is common in UFO literature but is not endorsed by official defence sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spookyvalley.com/events/topcliffe-yorkshire-ufo-1952/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spookyvalley.com">[Spooky Valley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spookyvalley.com</span><span class="citation-popover-title">Spooky Valley RAF Topcliffe UFO Incident</span><span class="citation-popover-snippet">Spooky ValleyRAF Topcliffe UFO Incident - UFO in RAF Topcliffe, Yorkshire, England &#124; Spooky ValleyMay 10, 2026...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
+* **Misidentification of known aerial objects**: Some researchers suggest observers may have misinterpreted a conventional object, such as a **balloon or aircraft part**, though proponents argue these do not fit reported behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spookyvalley.com/events/topcliffe-yorkshire-ufo-1952/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spookyvalley.com">[Spooky Valley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spookyvalley.com</span><span class="citation-popover-title">Spooky Valley RAF Topcliffe UFO Incident</span><span class="citation-popover-snippet">Spooky ValleyRAF Topcliffe UFO Incident - UFO in RAF Topcliffe, Yorkshire, England &#124; Spooky ValleyMay 10, 2026...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
+* **Optical or perceptual effects**: Atmospheric conditions sometimes create illusions of motion or shape that are not representative of the true object. Multiple observers, however, make simple illusion explanations harder to sustain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">This Scoutmaster Had a Run-in with a UFO</span><span class="citation-popover-snippet">The Kids Saw it Too. &#124; HISTORYAugust 23, 2018 — By: Colin Bertram Mysteries &amp; Folklore THIS SCOUTMASTER HAD A RUN-IN WITH A UFO. THE KIDS...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
+* **Experimental aircraft**: The possibility that secret or little‑known aircraft were in the region has been raised, but no candidate programme from 1952 matches the specific manoeuvres reported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">This Scoutmaster Had a Run-in with a UFO</span><span class="citation-popover-snippet">The Kids Saw it Too. &#124; HISTORYAugust 23, 2018 — By: Colin Bertram Mysteries &amp; Folklore THIS SCOUTMASTER HAD A RUN-IN WITH A UFO. THE KIDS...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
+* **Classic UFO interpretation**: Some UFO researchers argue that the object demonstrated capabilities beyond known technology, citing the acceleration and hovering as unexplained. This interpretation is common in UFO literature but is not endorsed by official defence sources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spookyvalley.com/events/topcliffe-yorkshire-ufo-1952/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spookyvalley.com">[Spooky Valley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spookyvalley.com</span><span class="citation-popover-title">Spooky Valley RAF Topcliffe UFO Incident</span><span class="citation-popover-snippet">Spooky ValleyRAF Topcliffe UFO Incident - UFO in RAF Topcliffe, Yorkshire, England &#124; Spooky ValleyMay 10, 2026...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JhDoRZlpGyU" title="FLYING SAUCERS - SOUND" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JhDoRZlpGyU" target="_blank" rel="noopener noreferrer">FLYING SAUCERS - SOUND</a></p><p class="youtube-embed-meta">Channel: British Movietone &middot; Views: 15.1K &middot; Uploaded: July 2015 &middot; Length: 2 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JhDoRZlpGyU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JhDoRZlpGyU">Open on YouTube</a></p></div></div></div>
 
 ## Legacy and Documentation Status
 
-The Topcliffe incident remains a **featured case in UFO historiography** and is regularly cited in compilations of notable sightings from the 1950s. Its inclusion in works such as NICAP’s *The UFO Evidence* and analyses by historians of ufology reflects its prominence within UFO reporting circles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://isaackoi.com/ufo-history/ufo/19520919-topcliffe-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">19520919 topcliffe sighting</span><span class="citation-popover-snippet">Isaac Koi Archive1952.0919 Topcliffe sighting &#124; Isaac Koi Archive...</span></span></span>
+The Topcliffe incident remains a **featured case in UFO historiography** and is regularly cited in compilations of notable sightings from the 1950s. Its inclusion in works such as NICAP’s *The UFO Evidence* and analyses by historians of ufology reflects its prominence within UFO reporting circles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://isaackoi.com/ufo-history/ufo/19520919-topcliffe-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">19520919 topcliffe sighting</span><span class="citation-popover-snippet">Isaac Koi Archive1952.0919 Topcliffe sighting &#124; Isaac Koi Archive...</span></span></span>
 
-From a historical documentation perspective, the case illustrates the challenges of evaluating mid‑20th‑century unexplained aerial reports: official records are often fragmentary, eyewitness testimony is the principal source, and sceptical explanation requires careful consideration of alternative atmospheric or observational factors. The absence of a publicly available official conclusion leaves the Topcliffe incident formally **unresolved** in the public record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.nationalarchives.gov.uk/details/r/C507596" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.nationalarchives.gov.uk">[Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+From a historical documentation perspective, the case illustrates the challenges of evaluating mid‑20th‑century unexplained aerial reports: official records are often fragmentary, eyewitness testimony is the principal source, and sceptical explanation requires careful consideration of alternative atmospheric or observational factors. The absence of a publicly available official conclusion leaves the Topcliffe incident formally **unresolved** in the public record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.nationalarchives.gov.uk/details/r/C507596" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.nationalarchives.gov.uk">[Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Overall, the Topcliffe incident remains part of the broader narrative of unexplained sightings during the early Cold War era, notable for its military witnesses, press coverage, and its situational context within an international military exercise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">This Scoutmaster Had a Run-in with a UFO</span><span class="citation-popover-snippet">The Kids Saw it Too. &#124; HISTORYAugust 23, 2018 — By: Colin Bertram Mysteries &amp; Folklore THIS SCOUTMASTER HAD A RUN-IN WITH A UFO. THE KIDS...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
+Overall, the Topcliffe incident remains part of the broader narrative of unexplained sightings during the early Cold War era, notable for its military witnesses, press coverage, and its situational context within an international military exercise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">This Scoutmaster Had a Run-in with a UFO</span><span class="citation-popover-snippet">The Kids Saw it Too. &#124; HISTORYAugust 23, 2018 — By: Colin Bertram Mysteries &amp; Folklore THIS SCOUTMASTER HAD A RUN-IN WITH A UFO. THE KIDS...</span><span class="citation-popover-meta">Published: August 23, 2018</span></span></span>
 
 <img src="{{ "/assets/images/Topcliffe_incident_1_80cbf4-Illustration-3-dark.svg" | relative_url }}" alt="Topcliffe incident 1952 illustration 3" data-theme-src-dark="{{ "/assets/images/Topcliffe_incident_1_80cbf4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Topcliffe_incident_1_80cbf4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened at RAF Topcliffe in 1952?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened at RAF Topcliffe in 1952?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Profiles the Topcliffe encounter, detailing the witness statements, the military context, and the unresolved official record.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Profiles the Topcliffe encounter, detailing the witness statements, the military context, and the unresolved official record.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Details why extraordinary object reports in military settings require rigorous independent verification against prosaic aviation reality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details why extraordinary object reports in military settings require rigorous independent verification against prosaic aviation reality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches the investigative rigour needed to evaluate radar-visual sightings and differentiate them from aerial misidentification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches the investigative rigour needed to evaluate radar-visual sightings and differentiate them from aerial misidentification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Provides institutional background on how RAF-documented evidence was handled within British air-defense efforts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides institutional background on how RAF-documented evidence was handled within British air-defense efforts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Gloster+Meteor+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Gloster Meteor model" data-ebay-reference="topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Corgi Aviation Archive Gloster Meteor Mk.9 50th Anniversary 500pc"><img src="{{ '/assets/images/marketplace-covers/15536acd11b8943bbe01.jpg' | relative_url }}" alt="Listing image for Corgi Aviation Archive Gloster Meteor Mk.9 50th Anniversary 500pc" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Gloster+Meteor+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Gloster Meteor model" data-ebay-reference="topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model" target="_blank" rel="sponsored noopener noreferrer">Corgi Aviation Archive Gloster Meteor Mk.9 50th Anniversary 500pc</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Gloster+Meteor+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Gloster Meteor model" data-ebay-reference="topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Gloster Meteor model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Gloster Meteor model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Gloster+Meteor+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Gloster Meteor model" data-ebay-reference="topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Gloster+Meteor+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Gloster Meteor model" data-ebay-reference="topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Corgi Aviation Archive Gloster Meteor Mk.9 50th Anniversary 500pc"><img src="{{ '/assets/images/marketplace-covers/15536acd11b8943bbe01.jpg' | relative_url }}" alt="Listing image for Corgi Aviation Archive Gloster Meteor Mk.9 50th Anniversary 500pc" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Gloster+Meteor+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Gloster Meteor model" data-ebay-reference="topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model" target="_blank" rel="sponsored noopener noreferrer">Corgi Aviation Archive Gloster Meteor Mk.9 50th Anniversary 500pc</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Gloster+Meteor+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Gloster Meteor model" data-ebay-reference="topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Gloster Meteor model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Gloster Meteor model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Gloster+Meteor+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Gloster Meteor model" data-ebay-reference="topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Gloster+Meteor+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Gloster Meteor model" data-ebay-reference="topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Amercom Diecast Model Aircraft 1:100 Gloster Meteor F8 RAF"><img src="{{ '/assets/images/marketplace-covers/d254e5595d808bd5a9dc.jpg' | relative_url }}" alt="Listing image for Amercom Diecast Model Aircraft 1:100 Gloster Meteor F8 RAF" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Gloster+Meteor+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Gloster Meteor model" data-ebay-reference="topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model" target="_blank" rel="sponsored noopener noreferrer">Amercom Diecast Model Aircraft 1:100 Gloster Meteor F8 RAF</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Gloster+Meteor+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Gloster Meteor model" data-ebay-reference="topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Gloster Meteor model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Gloster Meteor model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Gloster+Meteor+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Gloster Meteor model" data-ebay-reference="topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Gloster+Meteor+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Gloster Meteor model" data-ebay-reference="topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Amercom Diecast Model Aircraft 1:100 Gloster Meteor F8 RAF"><img src="{{ '/assets/images/marketplace-covers/d254e5595d808bd5a9dc.jpg' | relative_url }}" alt="Listing image for Amercom Diecast Model Aircraft 1:100 Gloster Meteor F8 RAF" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Gloster+Meteor+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Gloster Meteor model" data-ebay-reference="topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model" target="_blank" rel="sponsored noopener noreferrer">Amercom Diecast Model Aircraft 1:100 Gloster Meteor F8 RAF</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Gloster+Meteor+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Gloster Meteor model" data-ebay-reference="topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Gloster Meteor model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Gloster Meteor model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Gloster+Meteor+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Gloster Meteor model" data-ebay-reference="topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Gloster+Meteor+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Gloster Meteor model" data-ebay-reference="topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airfix A04067 Gloster Meteor F.8/FR.9 1:72 Model Kit"><img src="{{ '/assets/images/marketplace-covers/bc016e14de97006d01c6.jpg' | relative_url }}" alt="Listing image for Airfix A04067 Gloster Meteor F.8/FR.9 1:72 Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Gloster+Meteor+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Gloster Meteor model" data-ebay-reference="topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model" target="_blank" rel="sponsored noopener noreferrer">Airfix A04067 Gloster Meteor F.8/FR.9 1:72 Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Gloster+Meteor+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Gloster Meteor model" data-ebay-reference="topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Gloster Meteor model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Gloster Meteor model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Gloster+Meteor+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Gloster Meteor model" data-ebay-reference="topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Gloster+Meteor+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Gloster Meteor model" data-ebay-reference="topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Gloster+Meteor+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Gloster Meteor model" data-ebay-reference="topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airfix A04067 Gloster Meteor F.8/FR.9 1:72 Model Kit"><img src="{{ '/assets/images/marketplace-covers/bc016e14de97006d01c6.jpg' | relative_url }}" alt="Listing image for Airfix A04067 Gloster Meteor F.8/FR.9 1:72 Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Gloster+Meteor+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Gloster Meteor model" data-ebay-reference="topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model" target="_blank" rel="sponsored noopener noreferrer">Airfix A04067 Gloster Meteor F.8/FR.9 1:72 Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Gloster+Meteor+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Gloster Meteor model" data-ebay-reference="topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Gloster Meteor model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Gloster Meteor model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Gloster+Meteor+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Gloster Meteor model" data-ebay-reference="topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Gloster+Meteor+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Gloster Meteor model" data-ebay-reference="topcliffe-incident-1952-what-really-happened-at-raf-topcliffe-in-1952-gloster-meteor-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1000,7 +1000,7 @@ Overall, the Topcliffe incident remains part of the broader narrative of unexpla
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1020,7 +1020,7 @@ Overall, the Topcliffe incident remains part of the broader narrative of unexpla
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1052,7 +1052,7 @@ Overall, the Topcliffe incident remains part of the broader narrative of unexpla
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1104,7 +1104,7 @@ Overall, the Topcliffe incident remains part of the broader narrative of unexpla
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1149,7 +1149,7 @@ Overall, the Topcliffe incident remains part of the broader narrative of unexpla
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1190,124 +1190,124 @@ Overall, the Topcliffe incident remains part of the broader narrative of unexpla
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: history.com  
-   Link: <a href="https://www.history.com/news/uk-ufos-mainbrace-nato?ms=GT24Facebook" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/uk-ufos-mainbrace-nato?ms=GT24Facebook</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Sightings that Pushed the UK to Take &#x27;Flying Saucers&#x27; More Seriously | HISTORY...</p></details>
+   Link:<a href="https://www.history.com/news/uk-ufos-mainbrace-nato?ms=GT24Facebook" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/uk-ufos-mainbrace-nato?ms=GT24Facebook</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Sightings that Pushed the UK to Take &#x27;Flying Saucers&#x27; More Seriously | HISTORY...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/shg/ukufo/1952topcliffe.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/shg/ukufo/1952topcliffe.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947Sign Historical Group - Topcliffe Incident - David Clarke...</p></details>
+   Link:<a href="https://www.project1947.com/shg/ukufo/1952topcliffe.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/shg/ukufo/1952topcliffe.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947Sign Historical Group - Topcliffe Incident - David Clarke...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nicap.org  
    Title: ncp mainbrace  
-   Link: <a href="https://www.nicap.org/ncp/ncp-mainbrace.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ncp/ncp-mainbrace.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Operation Mainbrace Sightings 1952...</p></details>
+   Link:<a href="https://www.nicap.org/ncp/ncp-mainbrace.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ncp/ncp-mainbrace.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Operation Mainbrace Sightings 1952...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: 1952 Washington, D.C. UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: history.com  
    Title: This Scoutmaster Had a Run-in with a UFO  
-   Link: <a href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kids Saw it Too. | HISTORYAugust 23, 2018 — By: Colin Bertram Mysteries &amp; Folklore THIS SCOUTMASTER HAD A RUN-IN WITH A UFO. THE KIDS...</p></details>
+   Link:<a href="https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/ufo-encounter-florida-desvergers-scoutmaster-burned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kids Saw it Too. | HISTORYAugust 23, 2018 — By: Colin Bertram Mysteries &amp; Folklore THIS SCOUTMASTER HAD A RUN-IN WITH A UFO. THE KIDS...</p></details>
    Published: August 23, 2018  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theufodatabase.com  
    Title: The UFO Database Exercise Mainbrace Sightings | The UFO Database  
-   Link: <a href="https://theufodatabase.com/incidents/1952-nato-exercise-mainbrace-training-incident" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/incidents/1952-nato-exercise-mainbrace-training-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO DatabaseExercise Mainbrace Sightings | The UFO DatabaseSeptember 13, 1952...</p></details>
+   Link:<a href="https://theufodatabase.com/incidents/1952-nato-exercise-mainbrace-training-incident" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/incidents/1952-nato-exercise-mainbrace-training-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO DatabaseExercise Mainbrace Sightings | The UFO DatabaseSeptember 13, 1952...</p></details>
    Published: September 13, 1952  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/r/C507596" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C507596</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/r/C507596" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C507596</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: spookyvalley.com  
    Title: Spooky Valley RAF Topcliffe UFO Incident  
-   Link: <a href="https://spookyvalley.com/events/topcliffe-yorkshire-ufo-1952/" target="_blank" rel="noopener noreferrer nofollow">https://spookyvalley.com/events/topcliffe-yorkshire-ufo-1952/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spooky ValleyRAF Topcliffe UFO Incident - UFO in RAF Topcliffe, Yorkshire, England | Spooky ValleyMay 10, 2026...</p></details>
+   Link:<a href="https://spookyvalley.com/events/topcliffe-yorkshire-ufo-1952/" target="_blank" rel="noopener noreferrer nofollow">https://spookyvalley.com/events/topcliffe-yorkshire-ufo-1952/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spooky ValleyRAF Topcliffe UFO Incident - UFO in RAF Topcliffe, Yorkshire, England | Spooky ValleyMay 10, 2026...</p></details>
    Published: May 10, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: isaackoi.com  
    Title: 19520919 topcliffe sighting  
-   Link: <a href="https://isaackoi.com/ufo-history/ufo/19520919-topcliffe-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://isaackoi.com/ufo-history/ufo/19520919-topcliffe-sighting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Isaac Koi Archive1952.0919 Topcliffe sighting | Isaac Koi Archive...</p></details>
+   Link:<a href="https://isaackoi.com/ufo-history/ufo/19520919-topcliffe-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://isaackoi.com/ufo-history/ufo/19520919-topcliffe-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Isaac Koi Archive1952.0919 Topcliffe sighting | Isaac Koi Archive...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: mundooculto.es  
    Title: historias de ovnis piloto de combate de la raf es acechado por un ovni en 1952  
-   Link: <a href="https://mundooculto.es/historias-de-ovnis-piloto-de-combate-de-la-raf-es-acechado-por-un-ovni-en-1952/" target="_blank" rel="noopener noreferrer nofollow">https://mundooculto.es/historias-de-ovnis-piloto-de-combate-de-la-raf-es-acechado-por-un-ovni-en-1952/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historias de OVNIs: Piloto de combate de la RAF es acechado por un ovni en 1952January 26, 2023 — HISTORIAS DE OVNIS: PILOTO DE COMBATE D...</p></details>
+   Link:<a href="https://mundooculto.es/historias-de-ovnis-piloto-de-combate-de-la-raf-es-acechado-por-un-ovni-en-1952/" target="_blank" rel="noopener noreferrer nofollow">https://mundooculto.es/historias-de-ovnis-piloto-de-combate-de-la-raf-es-acechado-por-un-ovni-en-1952/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historias de OVNIs: Piloto de combate de la RAF es acechado por un ovni en 1952January 26, 2023 — HISTORIAS DE OVNIS: PILOTO DE COMBATE D...</p></details>
    Published: January 26, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ufologie.patrickgross.org  
    Title: THE CASE: Details about the case can be read in the main page devoted t  
-   Link: <a href="https://ufologie.patrickgross.org/htm/mainbrace01.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/mainbrace01.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: Operation Mainbrace cases, 1952, a press articleOPERATION MAINBRACE: Several UFO cases reported during NATO maneuver...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/htm/mainbrace01.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/mainbrace01.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: Operation Mainbrace cases, 1952, a press articleOPERATION MAINBRACE: Several UFO cases reported during NATO maneuver...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sott.net  
    Title: 226113 As it was seen then UFO sightings over 1950s Teesside UK  
-   Link: <a href="https://www.sott.net/article/226113-As-it-was-seen-then-UFO-sightings-over-1950s-Teesside-UK" target="_blank" rel="noopener noreferrer nofollow">https://www.sott.net/article/226113-As-it-was-seen-then-UFO-sightings-over-1950s-Teesside-UK</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As it was seen then: UFO sightings over 1950s Teesside, UK — High Strangeness — Sott.netMarch 20, 2011 — AS IT WAS SEEN THEN: UFO SIGHTIN...</p></details>
+   Link:<a href="https://www.sott.net/article/226113-As-it-was-seen-then-UFO-sightings-over-1950s-Teesside-UK" target="_blank" rel="noopener noreferrer nofollow">https://www.sott.net/article/226113-As-it-was-seen-then-UFO-sightings-over-1950s-Teesside-UK</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As it was seen then: UFO sightings over 1950s Teesside, UK — High Strangeness — Sott.netMarch 20, 2011 — AS IT WAS SEEN THEN: UFO SIGHTIN...</p></details>
    Published: March 20, 2011  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: yorkshirepost.co.uk  
    Title: The strangest and most unusual UFO sightings in Yorkshire  
-   Link: <a href="https://www.yorkshirepost.co.uk/news/the-strangest-and-most-unusual-ufo-sightings-in-yorkshire-48448" target="_blank" rel="noopener noreferrer nofollow">https://www.yorkshirepost.co.uk/news/the-strangest-and-most-unusual-ufo-sightings-in-yorkshire-48448</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 5, 2018 — THE STRANGEST AND MOST UNUSUAL UFO SIGHTINGS IN YORKSHIRE By The Newsroom Published 5th Apr 2018, 16:33 GMT Updated 6th A...</p></details>
+   Link:<a href="https://www.yorkshirepost.co.uk/news/the-strangest-and-most-unusual-ufo-sightings-in-yorkshire-48448" target="_blank" rel="noopener noreferrer nofollow">https://www.yorkshirepost.co.uk/news/the-strangest-and-most-unusual-ufo-sightings-in-yorkshire-48448</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 5, 2018 — THE STRANGEST AND MOST UNUSUAL UFO SIGHTINGS IN YORKSHIRE By The Newsroom Published 5th Apr 2018, 16:33 GMT Updated 6th A...</p></details>
    Published: April 5, 2018  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: drdavidclarke.co.uk  
    Title: We See Everything – even Flying Saucers  
-   Link: <a href="https://drdavidclarke.co.uk/2022/09/18/70th-anniversary-of-the-rafs-ufo-project/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2022/09/18/70th-anniversary-of-the-rafs-ufo-project/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 18, 2022 — WE SEE EVERYTHING – EVEN FLYING SAUCERS Posted on September 18, 2022 by Dr David Clarke September 2022 marks the 70t...</p></details>
+   Link:<a href="https://drdavidclarke.co.uk/2022/09/18/70th-anniversary-of-the-rafs-ufo-project/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2022/09/18/70th-anniversary-of-the-rafs-ufo-project/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 18, 2022 — WE SEE EVERYTHING – EVEN FLYING SAUCERS Posted on September 18, 2022 by Dr David Clarke September 2022 marks the 70t...</p></details>
    Published: September 18, 2022  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: old.straipsniai.lt  
    Title: lt UF O  
-   Link: <a href="https://www.old.straipsniai.lt/en/UFO/page/6672" target="_blank" rel="noopener noreferrer nofollow">https://www.old.straipsniai.lt/en/UFO/page/6672</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAF TopcliffeMay 22, 2026 — RAF Topcliffe On 19th September 1952, during a NATO exercise, 2 RAF officers and 3 aircrew at RAF Topcliffe o...</p></details>
+   Link:<a href="https://www.old.straipsniai.lt/en/UFO/page/6672" target="_blank" rel="noopener noreferrer nofollow">https://www.old.straipsniai.lt/en/UFO/page/6672</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAF TopcliffeMay 22, 2026 — RAF Topcliffe On 19th September 1952, during a NATO exercise, 2 RAF officers and 3 aircrew at RAF Topcliffe o...</p></details>
    Published: May 22, 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: OPERATION "MAINBRACE"  
-   Link: <a href="https://www.youtube.com/watch?v=i4FG3k3izyI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i4FG3k3izyI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Maj. Gen. John A. Samford&#x27;s Statement on &quot;Flying Saucers&quot;, Pentagon, Washington, DC, 07/31/1952...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=i4FG3k3izyI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i4FG3k3izyI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Maj. Gen. John A. Samford&#x27;s Statement on &quot;Flying Saucers&quot;, Pentagon, Washington, DC, 07/31/1952...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4-MbGYAv7Cg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4-MbGYAv7Cg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 FLYING SAUCERS - SOUND...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4-MbGYAv7Cg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4-MbGYAv7Cg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 FLYING SAUCERS - SOUND...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: FLYING SAUCERS  
-   Link: <a href="https://www.youtube.com/watch?v=JhDoRZlpGyU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JhDoRZlpGyU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 1952 REPORT OF THE U.S. NAVY GLOBAL OPERATIONS / KOREAN WAR 28474...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JhDoRZlpGyU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JhDoRZlpGyU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 1952 REPORT OF THE U.S. NAVY GLOBAL OPERATIONS / KOREAN WAR 28474...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=U_mZIV9X72A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U_mZIV9X72A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 OPERATION &quot;MAINBRACE&quot;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=U_mZIV9X72A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U_mZIV9X72A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 OPERATION &quot;MAINBRACE&quot;...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /oloron-angel-hair-in-61d462-index/
 description: Focused pages that expand on Oloron Angel Hair incident 1952.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Oloron_Angel_Hair_in_61d462
 parent_title: Oloron Angel Hair incident 1952
@@ -16,7 +16,7 @@ parent_permalink: /oloron-angel-hair-incident-1952/
 
 # Explore Topics in Oloron Angel Hair incident 1952
 
-The following pages expand on the main **[Oloron Angel Hair incident 1952]({{ '/oloron-angel-hair-incident-1952/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Oloron Angel Hair incident 1952]({{ '/oloron-angel-hair-incident-1952/' | relative_url }})** page and cover its key branches in.
 
 - [Spider Silk]({{ '/spider-silk/' | relative_url }})
 - [Record Gaps]({{ '/record-gaps/' | relative_url }})

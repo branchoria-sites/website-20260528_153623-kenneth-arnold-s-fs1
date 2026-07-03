@@ -242,43 +242,43 @@ image: /assets/images/Nash_and_Fortenberry_0a9bf2_blue_book_unknown_3f7f41-Illus
 
 ## Introduction
 
-The Nash and Fortenberry sighting became one of the most discussed UFO incidents of 1952 partly because the United States Air Force did not close the file with an ordinary explanation. Under Project Blue Book, the case remained classified as “Unknown” or “Unidentified”. That label has often been treated in popular UFO writing as official confirmation of something extraordinary. The actual meaning was narrower and more procedural. Blue Book investigators concluded that the available information did not allow them to match the sighting confidently to aircraft, balloons, astronomy, weather effects, or another recognised cause. It did not mean the Air Force had proved alien craft, advanced technology, or a hidden military programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Nash-Fortenberry_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nash-Fortenberry UFO sighting</span><span class="citation-popover-snippet">Air Force&#x27;s Project Blue Book as an &quot;unknown.&quot; Donald Howard Menzel in his book The World of Flying Saucers (1963) suggested...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The Nash and Fortenberry sighting became one of the most discussed UFO incidents of 1952 partly because the United States Air Force did not close the file with an ordinary explanation. Under Project Blue Book, the case remained classified as “Unknown” or “Unidentified”. That label has often been treated in popular UFO writing as official confirmation of something extraordinary. The actual meaning was narrower and more procedural. Blue Book investigators concluded that the available information did not allow them to match the sighting confidently to aircraft, balloons, astronomy, weather effects, or another recognised cause. It did not mean the Air Force had proved alien craft, advanced technology, or a hidden military programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Nash-Fortenberry_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nash-Fortenberry UFO sighting</span><span class="citation-popover-snippet">Air Force&#x27;s Project Blue Book as an &quot;unknown.&quot; Donald Howard Menzel in his book The World of Flying Saucers (1963) suggested...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 <img src="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2_blue_book_unknown_3f7f41-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2_blue_book_unknown_3f7f41-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2_blue_book_unknown_3f7f41-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Understanding why the case stayed unresolved requires looking closely at what Blue Book checked after the pilots’ radio report, what the “unknown” category meant inside the Air Force system, and why the absence of radar, photographs, or physical traces limited any firmer conclusion. The importance of the classification lies less in mystery alone than in what it reveals about the standards and limits of Cold War-era UFO investigations.
 
 ## Why Blue Book took the report seriously
 
-Project Blue Book began officially in 1952, the same year as the Nash and Fortenberry encounter. The programme was created after earlier Air Force efforts were criticised as too dismissive, and its new leadership under Captain Edward J. Ruppelt aimed to treat reports more systematically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Edward_J._Ruppelt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Edward J. Ruppelt</span><span class="citation-popover-snippet">Edward J. Ruppelt</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Nash-Fortenberry_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nash-Fortenberry UFO sighting</span><span class="citation-popover-snippet">Air Force&#x27;s Project Blue Book as an &quot;unknown.&quot; Donald Howard Menzel in his book The World of Flying Saucers (1963) suggested...Read more...</span></span></span>
+Project Blue Book began officially in 1952, the same year as the Nash and Fortenberry encounter. The programme was created after earlier Air Force efforts were criticised as too dismissive, and its new leadership under Captain Edward J. Ruppelt aimed to treat reports more systematically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Edward_J._Ruppelt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Edward J. Ruppelt</span><span class="citation-popover-snippet">Edward J. Ruppelt</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Nash-Fortenberry_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nash-Fortenberry UFO sighting</span><span class="citation-popover-snippet">Air Force&#x27;s Project Blue Book as an &quot;unknown.&quot; Donald Howard Menzel in his book The World of Flying Saucers (1963) suggested...Read more...</span></span></span>
 
-The Nash and Fortenberry case immediately stood out for several reasons: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Nash-Fortenberry_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nash-Fortenberry UFO sighting</span><span class="citation-popover-snippet">Air Force&#x27;s Project Blue Book as an &quot;unknown.&quot; Donald Howard Menzel in his book The World of Flying Saucers (1963) suggested...Read more...</span></span></span>
+The Nash and Fortenberry case immediately stood out for several reasons:<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Nash-Fortenberry_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nash-Fortenberry UFO sighting</span><span class="citation-popover-snippet">Air Force&#x27;s Project Blue Book as an &quot;unknown.&quot; Donald Howard Menzel in his book The World of Flying Saucers (1963) suggested...Read more...</span></span></span>
 
 * The witnesses were experienced Pan American pilots rather than casual observers.
 * The report was made quickly through aviation channels rather than years later.
 * The sighting involved structured movement and formation behaviour rather than a single distant light.
-* Additional ground observations in the Norfolk area were reported around the same time. Wikipedia Academia Blue Book investigators did not automatically accept the pilots’ interpretation <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Revisiting One of the Classics: The Nash/Fortenberry UFO...The research draws upon declassified military records, archival documentation...</span></span></span>, but they considered the witnesses credible enough that the incident could not be casually dismissed. This distinction matters. In Blue Book terminology, a reliable witness describing something unexplained could still produce an “unknown” even when the evidence remained incomplete.
+* Additional ground observations in the Norfolk area were reported around the same time. Wikipedia Academia Blue Book investigators did not automatically accept the pilots’ interpretation<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Revisiting One of the Classics: The Nash/Fortenberry UFO...The research draws upon declassified military records, archival documentation...</span></span></span>, but they considered the witnesses credible enough that the incident could not be casually dismissed. This distinction matters. In Blue Book terminology, a reliable witness describing something unexplained could still produce an “unknown” even when the evidence remained incomplete.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hYYVwXCpgj4" title="Ancient Aliens: Project Blue Book Proves UFO Phenomenon (Season 16) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hYYVwXCpgj4" target="_blank" rel="noopener noreferrer">Ancient Aliens: Project Blue Book Proves UFO Phenomenon (Season 16) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 43.5K &middot; Uploaded: October 2024 &middot; Length: 4 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hYYVwXCpgj4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hYYVwXCpgj4">Open on YouTube</a></p></div></div></div>
 
 ## Air Force checks after the radio report
 
-One reason the case survived as an “unknown” was that investigators did perform at least basic elimination checks. Surviving summaries indicate that the Air Force examined whether the pilots could have seen known aircraft or military activity in the area and reportedly found no satisfactory match. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+One reason the case survived as an “unknown” was that investigators did perform at least basic elimination checks. Surviving summaries indicate that the Air Force examined whether the pilots could have seen known aircraft or military activity in the area and reportedly found no satisfactory match.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-The sighting occurred during a period of intense military aviation activity and public concern over UFO reports. July 1952 became one of the busiest months in Blue Book history, including the later Washington radar incidents. Because of that wider context, the Air Force had institutional reasons to determine whether reports reflected ordinary traffic, misidentification, or something potentially relevant to air defence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Edward_J._Ruppelt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Edward J. Ruppelt</span><span class="citation-popover-snippet">Edward J. Ruppelt</span></span></span>
+The sighting occurred during a period of intense military aviation activity and public concern over UFO reports. July 1952 became one of the busiest months in Blue Book history, including the later Washington radar incidents. Because of that wider context, the Air Force had institutional reasons to determine whether reports reflected ordinary traffic, misidentification, or something potentially relevant to air defence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Edward_J._Ruppelt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Edward J. Ruppelt</span><span class="citation-popover-snippet">Edward J. Ruppelt</span></span></span>
 
-The checks carried out after the Nash and Fortenberry report appear to have included: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Nash-Fortenberry_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nash-Fortenberry UFO sighting</span><span class="citation-popover-snippet">Air Force&#x27;s Project Blue Book as an &quot;unknown.&quot; Donald Howard Menzel in his book The World of Flying Saucers (1963) suggested...Read more...</span></span></span>
+The checks carried out after the Nash and Fortenberry report appear to have included:<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Nash-Fortenberry_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nash-Fortenberry UFO sighting</span><span class="citation-popover-snippet">Air Force&#x27;s Project Blue Book as an &quot;unknown.&quot; Donald Howard Menzel in his book The World of Flying Saucers (1963) suggested...Read more...</span></span></span>
 
 * Examination of known aircraft operations in the region.
 * Review of weather and visibility conditions.
 * Consideration of astronomical explanations.
-* Interviews and written statements from the witnesses. Wikipedia Academia None of those checks produced a definitive answer acceptable to investigators at the time. Importantly <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Revisiting One of the Classics: The Nash/Fortenberry UFO...The research draws upon declassified military records, archival documentation...</span></span></span>, however, the case file does not show that the Air Force discovered corroborating physical evidence either. The unresolved status came from the failure of elimination rather than positive proof of an exotic object.
+* Interviews and written statements from the witnesses. Wikipedia Academia None of those checks produced a definitive answer acceptable to investigators at the time. Importantly<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Revisiting One of the Classics: The Nash/Fortenberry UFO...The research draws upon declassified military records, archival documentation...</span></span></span>, however, the case file does not show that the Air Force discovered corroborating physical evidence either. The unresolved status came from the failure of elimination rather than positive proof of an exotic object.
 
 <img src="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2_blue_book_unknown_3f7f41-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2_blue_book_unknown_3f7f41-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2_blue_book_unknown_3f7f41-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What “unknown” meant inside Project Blue Book
 
-The term “unknown” carried a narrower meaning in Blue Book files than later UFO mythology often suggests. Blue Book handled thousands of reports between 1952 and 1969, and most were eventually assigned ordinary explanations such as stars, meteors, aircraft, balloons, or hoaxes. A smaller percentage remained unresolved after investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archivesfoundation.org">[National Archives Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archivesfoundation.org</span><span class="citation-popover-snippet">National Archives Foundation50 Years Ago: Government Stops Investigating UFOsTo mark the 50th anniversary of the end of Project Blue Book...</span></span></span>
+The term “unknown” carried a narrower meaning in Blue Book files than later UFO mythology often suggests. Blue Book handled thousands of reports between 1952 and 1969, and most were eventually assigned ordinary explanations such as stars, meteors, aircraft, balloons, or hoaxes. A smaller percentage remained unresolved after investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archivesfoundation.org">[National Archives Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archivesfoundation.org</span><span class="citation-popover-snippet">National Archives Foundation50 Years Ago: Government Stops Investigating UFOsTo mark the 50th anniversary of the end of Project Blue Book...</span></span></span>
 
-Edward J. Ruppelt, the first head of Project Blue Book, described the category as applying to cases where investigators could not fit the report to a known explanation after review. He noted that a residual percentage of reports consistently remained in this class. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">BY EDWARD J. RUPPELT Former Head of the Air Force Project Blue Book. Published by. DOUBLEDAY &amp; COMPANY, INC. Garden...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://s3.us-west-1.wasabisys.com/luminist/EB/R/Ruppelt%20-%20The%20Report%20on%20UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3.us-west-1.wasabisys.com">[2s3.us-west-1.wasabisys.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3.us-west-1.wasabisys.com</span><span class="citation-popover-snippet">The only book about FLYING SAUCERS based...Of the several thousand UFO reports that the Air Force has received since 1947, some 15 to 20...</span></span></span>
+Edward J. Ruppelt, the first head of Project Blue Book, described the category as applying to cases where investigators could not fit the report to a known explanation after review. He noted that a residual percentage of reports consistently remained in this class.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">BY EDWARD J. RUPPELT Former Head of the Air Force Project Blue Book. Published by. DOUBLEDAY &amp; COMPANY, INC. Garden...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://s3.us-west-1.wasabisys.com/luminist/EB/R/Ruppelt%20-%20The%20Report%20on%20UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3.us-west-1.wasabisys.com">[2s3.us-west-1.wasabisys.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3.us-west-1.wasabisys.com</span><span class="citation-popover-snippet">The only book about FLYING SAUCERS based...Of the several thousand UFO reports that the Air Force has received since 1947, some 15 to 20...</span></span></span>
 
 That definition is important because it was administrative rather than metaphysical. In practice, “unknown” could mean several different things:
 
@@ -293,7 +293,7 @@ That definition is important because it was administrative rather than metaphysi
 
 The Nash and Fortenberry report fit this pattern closely. Blue Book could not conclusively identify the objects, but it also lacked the evidence needed to establish what they actually were.
 
-This is one reason historians and sceptics alike caution against reading too much into the label. The classification showed investigative uncertainty, not official endorsement of extraterrestrial claims. Even the Air Force’s later public summaries stressed that “unidentified” cases did not constitute evidence of technology beyond known science or proof of alien origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geekchocolate.co.uk/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geekchocolate.co.uk">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geekchocolate.co.uk</span><span class="citation-popover-title">project blue book</span><span class="citation-popover-snippet">9 Jan 2019 — “This series is inspired by Dr. J. Allen Hynek&#x27;s investigations for the U.S. Air Force into the existence of UFOs.Read more...</span></span></span>
+This is one reason historians and sceptics alike caution against reading too much into the label. The classification showed investigative uncertainty, not official endorsement of extraterrestrial claims. Even the Air Force’s later public summaries stressed that “unidentified” cases did not constitute evidence of technology beyond known science or proof of alien origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geekchocolate.co.uk/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geekchocolate.co.uk">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geekchocolate.co.uk</span><span class="citation-popover-title">project blue book</span><span class="citation-popover-snippet">9 Jan 2019 — “This series is inspired by Dr. J. Allen Hynek&#x27;s investigations for the U.S. Air Force into the existence of UFOs.Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DNh7iHsx6g8" title="The Report on Unidentified Flying Objects 📖 By Edward Ruppelt. FULL Audiobook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DNh7iHsx6g8" target="_blank" rel="noopener noreferrer">The Report on Unidentified Flying Objects 📖 By Edward Ruppelt. FULL Audiobook</a></p><p class="youtube-embed-meta">Channel: Best Full Audiobooks &middot; Views: 255 &middot; Uploaded: January 2024 &middot; Length: 11 hours 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DNh7iHsx6g8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DNh7iHsx6g8">Open on YouTube</a></p></div></div></div>
 
@@ -301,9 +301,9 @@ This is one reason historians and sceptics alike caution against reading too muc
 
 The strongest limitation in the Nash and Fortenberry case was not witness quality but measurement quality. The pilots described apparent size, speed, and manoeuvres, yet none of those estimates could be independently verified because the objects’ actual distance was unknown.
 
-This problem became central to later sceptical analysis. Astronomer Donald Menzel argued that if the estimated range was wrong, then the calculated speed and dimensions collapsed as well. A nearby light source can appear to move dramatically relative to an observer, especially at night and without stable visual reference points. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Edward_J._Ruppelt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Edward J. Ruppelt</span><span class="citation-popover-snippet">Edward J. Ruppelt</span></span></span>
+This problem became central to later sceptical analysis. Astronomer Donald Menzel argued that if the estimated range was wrong, then the calculated speed and dimensions collapsed as well. A nearby light source can appear to move dramatically relative to an observer, especially at night and without stable visual reference points.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Edward_J._Ruppelt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Edward J. Ruppelt</span><span class="citation-popover-snippet">Edward J. Ruppelt</span></span></span>
 
-Blue Book’s inability to settle the case therefore reflected a deeper evidential problem: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span>
+Blue Book’s inability to settle the case therefore reflected a deeper evidential problem:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span>
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -322,205 +322,205 @@ The “unknown” status effectively acknowledged this gap. Investigators did no
 <img src="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2_blue_book_unknown_3f7f41-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2_blue_book_unknown_3f7f41-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2_blue_book_unknown_3f7f41-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the classification still attracts attention
 
-The case remains important because it sits in a narrow category of Blue Book reports that combined credible witnesses with official uncertainty. UFO researchers have long highlighted the Air Force classification as evidence that some sightings resisted explanation even after review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Edward_J._Ruppelt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Edward J. Ruppelt</span><span class="citation-popover-snippet">Edward J. Ruppelt</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/ibx6k5/the_1952_nashfortenberry_sighting_was_a_blue_book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the 1952 nashfortenberry sighting was a blue book</span><span class="citation-popover-snippet">The 1952 Nash-Fortenberry sighting was a Blue Book...The 1952 Nash-Fortenberry sighting was a Blue Book “unknown” and NICAP&#x27;s favorite c...</span></span></span>
+The case remains important because it sits in a narrow category of Blue Book reports that combined credible witnesses with official uncertainty. UFO researchers have long highlighted the Air Force classification as evidence that some sightings resisted explanation even after review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Edward_J._Ruppelt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Edward J. Ruppelt</span><span class="citation-popover-snippet">Edward J. Ruppelt</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/ibx6k5/the_1952_nashfortenberry_sighting_was_a_blue_book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the 1952 nashfortenberry sighting was a blue book</span><span class="citation-popover-snippet">The 1952 Nash-Fortenberry sighting was a Blue Book...The 1952 Nash-Fortenberry sighting was a Blue Book “unknown” and NICAP&#x27;s favorite c...</span></span></span>
 
 Sceptics, however, point out that unresolved does not equal inexplicable in principle. Many Blue Book “unknowns” were likely the result of incomplete information, fleeting observation conditions, or limitations in Cold War-era investigative methods. The Nash and Fortenberry sighting illustrates exactly that tension.
 
 For supporters of the case’s significance, the key point is that professional pilots reported structured objects performing manoeuvres unlike ordinary aircraft, and the Air Force could not explain the report away. For critics, the same file demonstrates how quickly certainty disappears when there is no instrumented evidence to establish distance, velocity, or physical form.
 
-That balance is why the case still appears in discussions of classic Project Blue Book incidents. The unresolved classification was genuine, but its meaning was procedural and evidential rather than sensational. The Air Force left the file open because the available information did not justify a conventional identification, not because investigators had proved an extraordinary origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">BY EDWARD J. RUPPELT Former Head of the Air Force Project Blue Book. Published by. DOUBLEDAY &amp; COMPANY, INC. Garden...Read more...</span></span></span>
+That balance is why the case still appears in discussions of classic Project Blue Book incidents. The unresolved classification was genuine, but its meaning was procedural and evidential rather than sensational. The Air Force left the file open because the available information did not justify a conventional identification, not because investigators had proved an extraordinary origin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">BY EDWARD J. RUPPELT Former Head of the Air Force Project Blue Book. Published by. DOUBLEDAY &amp; COMPANY, INC. Garden...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YvpN6Imoj44" title="Project Blue Book: UFO Secrets Hidden Inside Hangar 18 (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YvpN6Imoj44" target="_blank" rel="noopener noreferrer">Project Blue Book: UFO Secrets Hidden Inside Hangar 18 (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 140.8K &middot; Uploaded: March 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YvpN6Imoj44" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YvpN6Imoj44">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did Blue Book Leave It Unknown?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did Blue Book Leave It Unknown?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Ruppelt details his personal efforts to treat reports systematically in 1952, explaining why missing radar or physical data left files open.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Ruppelt details his personal efforts to treat reports systematically in 1952, explaining why missing radar or physical data left files open.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Tracks the formal checks executed by military intelligence after the Pan American radio report, outlining why aircraft or balloon matches...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Tracks the formal checks executed by military intelligence after the Pan American radio report, outlining why aircraft or balloon matches...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Catalogs the historical processing of the 1952 Virginia case data independently of modern conspiracy frameworks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Catalogs the historical processing of the 1952 Virginia case data independently of modern conspiracy frameworks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Teaches fundamental skills on how to separate an unresolved technical record file from proof of an active non-human program.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches fundamental skills on how to separate an unresolved technical record file from proof of an active non-human program.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Original Pan Am Madrid Travel Poster Aaron Fine Litho Spain Aviation"><img src="https://i.ebayimg.com/images/g/ztEAAeSwaw9qKkJ6/s-l225.jpg" alt="Listing image for Vintage Original Pan Am Madrid Travel Poster Aaron Fine Litho Spain Aviation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Original Pan Am Madrid Travel Poster Aaron Fine Litho Spain Aviation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Pan Am poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Pan Am poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Original Pan Am Madrid Travel Poster Aaron Fine Litho Spain Aviation"><img src="https://i.ebayimg.com/images/g/ztEAAeSwaw9qKkJ6/s-l225.jpg" alt="Listing image for Vintage Original Pan Am Madrid Travel Poster Aaron Fine Litho Spain Aviation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Original Pan Am Madrid Travel Poster Aaron Fine Litho Spain Aviation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Pan Am poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Pan Am poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE POSTER London Pan Am Airlines Travel Advert Retro ART Deco PRINT A3 A4"><img src="https://i.ebayimg.com/images/g/w7MAAOSwNexbwzt5/s-l225.jpg" alt="Listing image for VINTAGE POSTER London Pan Am Airlines Travel Advert Retro ART Deco PRINT A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE POSTER London Pan Am Airlines Travel Advert Retro ART Deco PRINT A3 A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Pan Am poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Pan Am poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE POSTER London Pan Am Airlines Travel Advert Retro ART Deco PRINT A3 A4"><img src="https://i.ebayimg.com/images/g/w7MAAOSwNexbwzt5/s-l225.jpg" alt="Listing image for VINTAGE POSTER London Pan Am Airlines Travel Advert Retro ART Deco PRINT A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE POSTER London Pan Am Airlines Travel Advert Retro ART Deco PRINT A3 A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Pan Am poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Pan Am poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Pan Am Flights To Miami Airline Poster Print A3/A4"><img src="https://i.ebayimg.com/images/g/HUQAAOSwArFi1ptL/s-l225.jpg" alt="Listing image for Vintage Pan Am Flights To Miami Airline Poster Print A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Pan Am Flights To Miami Airline Poster Print A3/A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Pan Am poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Pan Am poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Pan Am Flights To Miami Airline Poster Print A3/A4"><img src="https://i.ebayimg.com/images/g/HUQAAOSwArFi1ptL/s-l225.jpg" alt="Listing image for Vintage Pan Am Flights To Miami Airline Poster Print A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Pan Am Flights To Miami Airline Poster Print A3/A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Pan Am poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Pan Am poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pan American / Pan Am Vintage Retro Advertising Poster Printed on Metal Sign"><img src="https://i.ebayimg.com/images/g/eIwAAOSw10JoJl7f/s-l225.jpg" alt="Listing image for Pan American / Pan Am Vintage Retro Advertising Poster Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" target="_blank" rel="sponsored noopener noreferrer">Pan American / Pan Am Vintage Retro Advertising Poster Printed on Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Pan Am poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Pan Am poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pan American / Pan Am Vintage Retro Advertising Poster Printed on Metal Sign"><img src="https://i.ebayimg.com/images/g/eIwAAOSw10JoJl7f/s-l225.jpg" alt="Listing image for Pan American / Pan Am Vintage Retro Advertising Poster Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" target="_blank" rel="sponsored noopener noreferrer">Pan American / Pan Am Vintage Retro Advertising Poster Printed on Metal Sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Pan Am poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Pan Am poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pan+Am+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-leave-it-unknown-pan-am-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pan Am poster" data-ebay-reference="why-did-blue-book-leave-it-unknown-pan-am-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -536,7 +536,7 @@ That balance is why the case still appears in discussions of classic Project Blu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -556,7 +556,7 @@ That balance is why the case still appears in discussions of classic Project Blu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -588,7 +588,7 @@ That balance is why the case still appears in discussions of classic Project Blu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -640,7 +640,7 @@ That balance is why the case still appears in discussions of classic Project Blu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -685,7 +685,7 @@ That balance is why the case still appears in discussions of classic Project Blu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -726,142 +726,142 @@ That balance is why the case still appears in discussions of classic Project Blu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Nash-Fortenberry UFO sighting  
-   Link: <a href="https://en.wikipedia.org/wiki/Nash-Fortenberry_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nash-Fortenberry_UFO_sighting</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s Project Blue Book as an &quot;unknown.&quot; Donald Howard Menzel in his book The World of Flying Saucers (1963) suggested...Read more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Nash-Fortenberry_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nash-Fortenberry_UFO_sighting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s Project Blue Book as an &quot;unknown.&quot; Donald Howard Menzel in his book The World of Flying Saucers (1963) suggested...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation e...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation e...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Edward J. Ruppelt  
-   Link: <a href="https://en.wikipedia.org/wiki/Edward_J._Ruppelt" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Edward_J._Ruppelt</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Edward_J._Ruppelt" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Edward_J._Ruppelt</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BY EDWARD J. RUPPELT Former Head of the Air Force Project Blue Book. Published by. DOUBLEDAY &amp; COMPANY, INC. Garden...Read more...</p></details>
+   Link:<a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BY EDWARD J. RUPPELT Former Head of the Air Force Project Blue Book. Published by. DOUBLEDAY &amp; COMPANY, INC. Garden...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Revisiting One of the Classics: The Nash/Fortenberry UFO...The research draws upon declassified military records, archival documentation...</p></details>
+   Link:<a href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revisiting One of the Classics: The Nash/Fortenberry UFO...The research draws upon declassified military records, archival documentation...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: s3.us-west-1.wasabisys.com  
-   Link: <a href="https://s3.us-west-1.wasabisys.com/luminist/EB/R/Ruppelt%20-%20The%20Report%20on%20UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.us-west-1.wasabisys.com/luminist/EB/R/Ruppelt%20-%20The%20Report%20on%20UFOs.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The only book about FLYING SAUCERS based...Of the several thousand UFO reports that the Air Force has received since 1947, some 15 to 20...</p></details>
+   Link:<a href="https://s3.us-west-1.wasabisys.com/luminist/EB/R/Ruppelt%20-%20The%20Report%20on%20UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.us-west-1.wasabisys.com/luminist/EB/R/Ruppelt%20-%20The%20Report%20on%20UFOs.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The only book about FLYING SAUCERS based...Of the several thousand UFO reports that the Air Force has received since 1947, some 15 to 20...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: the 1952 nashfortenberry sighting was a blue book  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/ibx6k5/the_1952_nashfortenberry_sighting_was_a_blue_book/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/ibx6k5/the_1952_nashfortenberry_sighting_was_a_blue_book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1952 Nash-Fortenberry sighting was a Blue Book...The 1952 Nash-Fortenberry sighting was a Blue Book “unknown” and NICAP&#x27;s favorite c...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/ibx6k5/the_1952_nashfortenberry_sighting_was_a_blue_book/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/ibx6k5/the_1952_nashfortenberry_sighting_was_a_blue_book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1952 Nash-Fortenberry sighting was a Blue Book...The 1952 Nash-Fortenberry sighting was a Blue Book “unknown” and NICAP&#x27;s favorite c...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Him and his team researched and categorized thousands of UFO...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Him and his team researched and categorized thousands of UFO...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: the 1952 nashfortenberry case when two pilots saw  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/rtld7x/the_1952_nashfortenberry_case_when_two_pilots_saw/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/rtld7x/the_1952_nashfortenberry_case_when_two_pilots_saw/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When two pilots saw 8...2006 O&#x27;Hare International Airport UFO sighting.... Records Related to Unidentified Flying Objects (UFOs) and Un...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/rtld7x/the_1952_nashfortenberry_case_when_two_pilots_saw/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/rtld7x/the_1952_nashfortenberry_case_when_two_pilots_saw/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When two pilots saw 8...2006 O&#x27;Hare International Airport UFO sighting.... Records Related to Unidentified Flying Objects (UFOs) and Un...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives Foundation50 Years Ago: Government Stops Investigating UFOsTo mark the 50th anniversary of the end of Project Blue Book...</p></details>
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives Foundation50 Years Ago: Government Stops Investigating UFOsTo mark the 50th anniversary of the end of Project Blue Book...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: britannica.com  
    Title: Why are some flying objects considered “unidentified”?Read more  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book | Definition, History, Aliens, UFOs, &amp; FactsThe project aimed to apply a methodical approach to the program by document...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book | Definition, History, Aliens, UFOs, &amp; FactsThe project aimed to apply a methodical approach to the program by document...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: spreaker.com  
    Title: Edward J  
-   Link: <a href="https://www.spreaker.com/episode/the-report-on-unidentified-flying-objects-edward-j-ruppelt-s-official-air-force-ufo-investigation-classic-audiobook-part-2--69319603" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-report-on-unidentified-flying-objects-edward-j-ruppelt-s-official-air-force-ufo-investigation-classic-audiobook-part-2--69319603</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ruppelt&#x27;s Official Air Force UFO Investigation...7 Jan 2026 — The Report on Unidentified Flying Objects – Edward J. Ruppelt&#x27;s Official A...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/the-report-on-unidentified-flying-objects-edward-j-ruppelt-s-official-air-force-ufo-investigation-classic-audiobook-part-2--69319603" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-report-on-unidentified-flying-objects-edward-j-ruppelt-s-official-air-force-ufo-investigation-classic-audiobook-part-2--69319603</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ruppelt&#x27;s Official Air Force UFO Investigation...7 Jan 2026 — The Report on Unidentified Flying Objects – Edward J. Ruppelt&#x27;s Official A...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: geekchocolate.co.uk  
    Title: project blue book  
-   Link: <a href="https://geekchocolate.co.uk/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://geekchocolate.co.uk/project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Jan 2019 — “This series is inspired by Dr. J. Allen Hynek&#x27;s investigations for the U.S. Air Force into the existence of UFOs.Read more...</p></details>
+   Link:<a href="https://geekchocolate.co.uk/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://geekchocolate.co.uk/project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 Jan 2019 — “This series is inspired by Dr. J. Allen Hynek&#x27;s investigations for the U.S. Air Force into the existence of UFOs.Read more...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Force regulation establishing and controlling the program for investigating and analyzing UFOs was rescinded.Read more...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Force regulation establishing and controlling the program for investigating and analyzing UFOs was rescinded.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: globalgreyebooks.com  
-   Link: <a href="https://www.globalgreyebooks.com/report-on-unidentified-flying-objects-ebook.html" target="_blank" rel="noopener noreferrer nofollow">https://www.globalgreyebooks.com/report-on-unidentified-flying-objects-ebook.html</a>  
+   Link:<a href="https://www.globalgreyebooks.com/report-on-unidentified-flying-objects-ebook.html" target="_blank" rel="noopener noreferrer nofollow">https://www.globalgreyebooks.com/report-on-unidentified-flying-objects-ebook.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: bpr.org  
    Title: ufo report no sign of aliens but 143 mystery objects defy explanation  
-   Link: <a href="https://www.bpr.org/npr-news-blue-ridge-public-radio/2021-06-25/ufo-report-no-sign-of-aliens-but-143-mystery-objects-defy-explanation" target="_blank" rel="noopener noreferrer nofollow">https://www.bpr.org/npr-news-blue-ridge-public-radio/2021-06-25/ufo-report-no-sign-of-aliens-but-143-mystery-objects-defy-explanation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>government report on UFOs says it found no evidence of aliens but acknowledged 143 reports of &quot;unidentified aerial phenomena&quot; since 2004...</p></details>
+   Link:<a href="https://www.bpr.org/npr-news-blue-ridge-public-radio/2021-06-25/ufo-report-no-sign-of-aliens-but-143-mystery-objects-defy-explanation" target="_blank" rel="noopener noreferrer nofollow">https://www.bpr.org/npr-news-blue-ridge-public-radio/2021-06-25/ufo-report-no-sign-of-aliens-but-143-mystery-objects-defy-explanation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government report on UFOs says it found no evidence of aliens but acknowledged 143 reports of &quot;unidentified aerial phenomena&quot; since 2004...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PAAMUSEUM/posts/we-found-an-early-portrait-of-pan-american-world-airways-captain-william-b-nash-/1174599441538806/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PAAMUSEUM/posts/we-found-an-early-portrait-of-pan-american-world-airways-captain-william-b-nash-/1174599441538806/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The case was investigated and officially labeled &quot;unknown&quot; by Project Blue Book. It remains...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/PAAMUSEUM/posts/we-found-an-early-portrait-of-pan-american-world-airways-captain-william-b-nash-/1174599441538806/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PAAMUSEUM/posts/we-found-an-early-portrait-of-pan-american-world-airways-captain-william-b-nash-/1174599441538806/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The case was investigated and officially labeled &quot;unknown&quot; by Project Blue Book. It remains...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: The Report on Unidentified Flying Objects by Edward J  
-   Link: <a href="https://www.facebook.com/groups/4995087850/posts/10162813009302851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/4995087850/posts/10162813009302851/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ed Ruppelt of Project Blue Book wrote an article on UAOs... Hill said “My sighting was investigated by Project Blue Book, classified as...</p></details>
+   Link:<a href="https://www.facebook.com/groups/4995087850/posts/10162813009302851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/4995087850/posts/10162813009302851/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ed Ruppelt of Project Blue Book wrote an article on UAOs... Hill said “My sighting was investigated by Project Blue Book, classified as...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Ancient Aliens: Project Blue Book Proves UFO Phenomenon (Season 16) | History  
-   Link: <a href="http://www.youtube.com/watch?v=hYYVwXCpgj4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=hYYVwXCpgj4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO unknown classification explained Project Blue Book REVEALED Everything About UFOs Julian Dorey...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=hYYVwXCpgj4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=hYYVwXCpgj4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO unknown classification explained Project Blue Book REVEALED Everything About UFOs Julian Dorey...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: iheart.com  
    Title: How Project Blue Book Worked, Pt II  
-   Link: <a href="https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stuff You Should KnowA rash of UFO sightings kicks off a new spike in America&#x27;s UFO fever and new headaches for the Air Force, which cont...</p></details>
+   Link:<a href="https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stuff You Should KnowA rash of UFO sightings kicks off a new spike in America&#x27;s UFO fever and new headaches for the Air Force, which cont...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: governmentattic.org  
    Title: An Annotated Bibliography, Lynn E  
-   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Catoe, Prepared byReviews USAF&#x27;s Project Blue Book investigation of UFO reports and sum- marizes aims of independent 15-month study by Un...</p></details>
+   Link:<a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Catoe, Prepared byReviews USAF&#x27;s Project Blue Book investigation of UFO reports and sum- marizes aims of independent 15-month study by Un...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: history.navy.mil  
    Title: u2s ufos and operation blue book  
-   Link: <a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U-2s, UFOs, and Operation Blue Book24 Jan 2024 — (Front page) This comic strip relates to a 19 July 1952 series of multiple sightings of...</p></details>
+   Link:<a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U-2s, UFOs, and Operation Blue Book24 Jan 2024 — (Front page) This comic strip relates to a 19 July 1952 series of multiple sightings of...</p></details>
    Published: July 1952

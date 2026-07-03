@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /trans-en-provence-en-439c97-index/
 description: Focused pages that expand on Trans en Provence encounter 1981.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Trans-en-Provence_en_439c97
 parent_title: Trans en Provence encounter 1981
@@ -16,7 +16,7 @@ parent_permalink: /trans-en-provence-encounter-1981/
 
 # Explore Topics in Trans en Provence encounter 1981
 
-The following pages expand on the main **[Trans en Provence encounter 1981]({{ '/trans-en-provence-encounter-1981/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Trans en Provence encounter 1981]({{ '/trans-en-provence-encounter-1981/' | relative_url }})** page and cover its key branches in.
 
 - [Official vs Tyres]({{ '/official-vs-tyres/' | relative_url }})
 - [The Witness]({{ '/the-witness-bb3f71/' | relative_url }})

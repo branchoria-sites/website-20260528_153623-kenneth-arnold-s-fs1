@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /uss-theodore-rooseve-a4867d-index/
 description: Focused pages that expand on USS Theodore Roosevelt Gimbal video 2015.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: USS_Theodore_Rooseve_a4867d
 parent_title: USS Theodore Roosevelt Gimbal video 2015
@@ -16,7 +16,7 @@ parent_permalink: /uss-theodore-roosevelt-gimbal-video-2015/
 
 # Explore Topics in USS Theodore Roosevelt Gimbal video 2015
 
-The following pages expand on the main **[USS Theodore Roosevelt Gimbal video 2015]({{ '/uss-theodore-roosevelt-gimbal-video-2015/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[USS Theodore Roosevelt Gimbal video 2015]({{ '/uss-theodore-roosevelt-gimbal-video-2015/' | relative_url }})** page and cover its key branches in.
 
 - [Glare Debate]({{ '/glare-debate/' | relative_url }})
 - [Pilot Claims]({{ '/pilot-claims/' | relative_url }})

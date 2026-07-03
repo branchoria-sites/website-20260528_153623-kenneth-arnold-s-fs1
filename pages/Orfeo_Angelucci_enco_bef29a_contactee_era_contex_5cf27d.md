@@ -242,14 +242,14 @@ image: /assets/images/Orfeo_Angelucci_enco_bef29a_contactee_era_contex_5cf27d-Il
 
 ## Introduction
 
-Orfeo Angelucci became famous not because investigators uncovered strong physical evidence for extraterrestrial contact, but because his story perfectly matched the emerging culture of the 1950s UFO “contactee” movement. In that world, flying saucers were rarely described as hostile machines. Instead, they carried wise “space brothers” who warned humanity about nuclear war, spiritual decline and moral failure. Angelucci’s 1955 book *The Secret of the Saucers*, edited by Ray Palmer, turned his experiences into one of the defining narratives of the era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe Secret of the Saucers Index20 Dec 2007 — The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full t...</span></span></span> Wikipedia Modern readers often approach the Angelucci case less as a literal alien encounter and more as a revealing cultural document. Skeptics point <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Orfeo_Angelucci" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Orfeo Angelucci</span><span class="citation-popover-snippet">Orfeo Angelucci</span></span></span> to the overlap between his claims and the broader contactee scene: mystical visions, telepathic messages, cosmic brotherhood, apocalyptic warnings and pulp-science imagery were already circulating widely in UFO culture. Believers saw a prophet-like witness. Critics saw a visionary narrative shaped by Cold War fears, spiritual longing and the commercial UFO publishing boom of the 1950s. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5931.2011.00842.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1540 5931.2011.00842.x</span><span class="citation-popover-snippet">Wiley Online LibraryBefore Abduction: The Contactee Narrative of the 1950s2 Jun 2011 — Adamski&#x27;s aliens, like the ones described by his f...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Orfeo_Angelucci" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Orfeo Angelucci</span><span class="citation-popover-snippet">Orfeo Angelucci</span></span></span>
+Orfeo Angelucci became famous not because investigators uncovered strong physical evidence for extraterrestrial contact, but because his story perfectly matched the emerging culture of the 1950s UFO “contactee” movement. In that world, flying saucers were rarely described as hostile machines. Instead, they carried wise “space brothers” who warned humanity about nuclear war, spiritual decline and moral failure. Angelucci’s 1955 book *The Secret of the Saucers*, edited by Ray Palmer, turned his experiences into one of the defining narratives of the era.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe Secret of the Saucers Index20 Dec 2007 — The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full t...</span></span></span> Wikipedia Modern readers often approach the Angelucci case less as a literal alien encounter and more as a revealing cultural document. Skeptics point<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Orfeo_Angelucci" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Orfeo Angelucci</span><span class="citation-popover-snippet">Orfeo Angelucci</span></span></span> to the overlap between his claims and the broader contactee scene: mystical visions, telepathic messages, cosmic brotherhood, apocalyptic warnings and pulp-science imagery were already circulating widely in UFO culture. Believers saw a prophet-like witness. Critics saw a visionary narrative shaped by Cold War fears, spiritual longing and the commercial UFO publishing boom of the 1950s.<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5931.2011.00842.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1540 5931.2011.00842.x</span><span class="citation-popover-snippet">Wiley Online LibraryBefore Abduction: The Contactee Narrative of the 1950s2 Jun 2011 — Adamski&#x27;s aliens, like the ones described by his f...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Orfeo_Angelucci" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Orfeo Angelucci</span><span class="citation-popover-snippet">Orfeo Angelucci</span></span></span>
 
 <img src="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_contactee_era_contex_5cf27d-Illustration-1-dark.svg" | relative_url }}" alt="Contactee Era illustration 1" data-theme-src-dark="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_contactee_era_contex_5cf27d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_contactee_era_contex_5cf27d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the 1950s Produced Contactees
 
-The Angelucci story emerged during a very specific cultural moment. After the 1947 Kenneth Arnold sighting and the Roswell incident, UFO reports spread rapidly across the United States. By the early 1950s, public fascination with flying saucers mixed with anxiety about atomic war, rapid technological change and the possibility of global destruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/63595674/UFOs_and_Aliens_as_Signs_of_Hope_in_New_Religions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">UFOs and Aliens as Signs of Hope in New Religions</span><span class="citation-popover-snippet">Academia(PDF) UFOs and Aliens as Signs of Hope in New Religions9 Dec 2021 — The Roswell incident (an alleged alien spacecraft crash) and...</span></span></span>
+The Angelucci story emerged during a very specific cultural moment. After the 1947 Kenneth Arnold sighting and the Roswell incident, UFO reports spread rapidly across the United States. By the early 1950s, public fascination with flying saucers mixed with anxiety about atomic war, rapid technological change and the possibility of global destruction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/63595674/UFOs_and_Aliens_as_Signs_of_Hope_in_New_Religions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">UFOs and Aliens as Signs of Hope in New Religions</span><span class="citation-popover-snippet">Academia(PDF) UFOs and Aliens as Signs of Hope in New Religions9 Dec 2021 — The Roswell incident (an alleged alien spacecraft crash) and...</span></span></span>
 
-The earliest “contactees” differed sharply from later alien-abduction narratives. Instead of terrifying kidnappings, contactees usually described compassionate humanoid beings delivering spiritual or moral lessons. The entities often looked idealised and human rather than monstrous. Their messages emphasised peace, universal brotherhood and warnings against nuclear conflict. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">Digital CommonsThe UFO Contact Movement from the 1950&#x27;s to the Presentby C Bader · 1995 · Cited by 16 — The first claims of extended cont...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5931.2011.00842.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1540 5931.2011.00842.x</span><span class="citation-popover-snippet">Wiley Online LibraryBefore Abduction: The Contactee Narrative of the 1950s2 Jun 2011 — Adamski&#x27;s aliens, like the ones described by his f...</span></span></span>
+The earliest “contactees” differed sharply from later alien-abduction narratives. Instead of terrifying kidnappings, contactees usually described compassionate humanoid beings delivering spiritual or moral lessons. The entities often looked idealised and human rather than monstrous. Their messages emphasised peace, universal brotherhood and warnings against nuclear conflict.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">Digital CommonsThe UFO Contact Movement from the 1950&#x27;s to the Presentby C Bader · 1995 · Cited by 16 — The first claims of extended cont...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5931.2011.00842.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1540 5931.2011.00842.x</span><span class="citation-popover-snippet">Wiley Online LibraryBefore Abduction: The Contactee Narrative of the 1950s2 Jun 2011 — Adamski&#x27;s aliens, like the ones described by his f...</span></span></span>
 
 Several recurring themes defined the movement:
 
@@ -263,15 +263,15 @@ Several recurring themes defined the movement:
 
 </div>
 
-Angelucci’s account contains every one of these elements. His beings warned about humanity’s aggression, described cosmic laws restricting intervention, and portrayed Earth as spiritually immature. His story therefore fit naturally into the contactee template that was already developing in UFO culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe Secret of the Saucers Index20 Dec 2007 — The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe Secret of the Saucers Index20 Dec 2007 — The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full t...</span></span></span>
+Angelucci’s account contains every one of these elements. His beings warned about humanity’s aggression, described cosmic laws restricting intervention, and portrayed Earth as spiritually immature. His story therefore fit naturally into the contactee template that was already developing in UFO culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe Secret of the Saucers Index20 Dec 2007 — The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe Secret of the Saucers Index20 Dec 2007 — The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full t...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U_mZIV9X72A" title="The Flying Saucer Mystery (1952) | Vintage UFO Documentary | Donald E. Keyhoe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U_mZIV9X72A" target="_blank" rel="noopener noreferrer">The Flying Saucer Mystery (1952) | Vintage UFO Documentary | Donald E. Keyhoe</a></p><p class="youtube-embed-meta">Channel: Gemini International Movies &amp; TV &middot; Views: 1.5K &middot; Uploaded: June 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U_mZIV9X72A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U_mZIV9X72A">Open on YouTube</a></p></div></div></div>
 
 ## Ray Palmer and the 1955 Publication Setting
 
-Angelucci’s rise cannot be separated from Ray Palmer, one of the most influential figures in early UFO publishing. Palmer had previously built an audience through science-fiction magazines and the sensational “Shaver Mystery” stories of hidden underground beings. By the time Angelucci appeared, Palmer already understood how to package extraordinary claims for a mass readership. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe Secret of the Saucers Index20 Dec 2007 — The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full t...</span></span></span>
+Angelucci’s rise cannot be separated from Ray Palmer, one of the most influential figures in early UFO publishing. Palmer had previously built an audience through science-fiction magazines and the sensational “Shaver Mystery” stories of hidden underground beings. By the time Angelucci appeared, Palmer already understood how to package extraordinary claims for a mass readership.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe Secret of the Saucers Index20 Dec 2007 — The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full t...</span></span></span>
 
-This publication context matters because *The Secret of the Saucers* was not presented as a dry witness statement or technical report. It was structured as an emotionally immersive narrative: a lonely worker chosen for revelation, mystical encounters under strange lights, journeys into space and spiritual transformation. The style blended autobiography, religious testimony and speculative science fiction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe Secret of the Saucers Index20 Dec 2007 — The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalgreyebooks.com/secret-of-the-saucers-ebook.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalgreyebooks.com">[Global Grey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalgreyebooks.com</span><span class="citation-popover-title">Global Grey The Secret of the Saucers by Ofreo M</span><span class="citation-popover-snippet">Angelucci, free ebookThe Secret of the Saucers is a book by Orfeo M. Angelucci, first published in 1955. This autobiographical account de...</span></span></span>
+This publication context matters because *The Secret of the Saucers* was not presented as a dry witness statement or technical report. It was structured as an emotionally immersive narrative: a lonely worker chosen for revelation, mystical encounters under strange lights, journeys into space and spiritual transformation. The style blended autobiography, religious testimony and speculative science fiction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe Secret of the Saucers Index20 Dec 2007 — The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalgreyebooks.com/secret-of-the-saucers-ebook.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalgreyebooks.com">[Global Grey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalgreyebooks.com</span><span class="citation-popover-title">Global Grey The Secret of the Saucers by Ofreo M</span><span class="citation-popover-snippet">Angelucci, free ebookThe Secret of the Saucers is a book by Orfeo M. Angelucci, first published in 1955. This autobiographical account de...</span></span></span>
 
 Palmer’s editorial influence also linked Angelucci directly to a growing commercial saucer subculture that included:
 
@@ -285,50 +285,50 @@ Palmer’s editorial influence also linked Angelucci directly to a growing comme
 
 </div>
 
-This environment rewarded dramatic personal testimony more than verifiable evidence. A compelling narrative could rapidly elevate an unknown claimant into a national UFO personality. Angelucci’s emotional sincerity and elaborate cosmology made him particularly memorable within that ecosystem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe Secret of the Saucers Index20 Dec 2007 — The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://web2.ph.utexas.edu/~coker2/index.files/sbrothers.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web2.ph.utexas.edu">[Department of Physics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web2.ph.utexas.edu</span><span class="citation-popover-snippet">Department of Physics1950s ContacteesCaptured by Aliens, by Joel Achenbach, Simon &amp; Schuster, NY, 1999. UFOs and Alien Contact, by Robert...</span></span></span>
+This environment rewarded dramatic personal testimony more than verifiable evidence. A compelling narrative could rapidly elevate an unknown claimant into a national UFO personality. Angelucci’s emotional sincerity and elaborate cosmology made him particularly memorable within that ecosystem.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe Secret of the Saucers Index20 Dec 2007 — The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://web2.ph.utexas.edu/~coker2/index.files/sbrothers.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web2.ph.utexas.edu">[Department of Physics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web2.ph.utexas.edu</span><span class="citation-popover-snippet">Department of Physics1950s ContacteesCaptured by Aliens, by Joel Achenbach, Simon &amp; Schuster, NY, 1999. UFOs and Alien Contact, by Robert...</span></span></span>
 
 ## Adamski, Van Tassel and the Shared Contactee Template
 
 Angelucci was not an isolated figure. His claims appeared alongside those of other famous contactees such as George Adamski and George Van Tassel, who helped create a recognisable contactee mythology.
 
-Adamski became famous for claiming meetings with beautiful, human-like Venusians who preached peace and spiritual evolution. Van Tassel hosted the Giant Rock Spacecraft Convention in the Mojave Desert, turning UFO belief into a public gathering culture. Angelucci shared their central assumptions: extraterrestrials were benevolent, spiritually advanced and deeply concerned about Earth’s future. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kar.kent.ac.uk/86204/1/342159.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[2kar.kent.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-snippet">pdf - Kent Academic Repositoryby S Palmer · 2000 · Cited by 1 — Contactee George van Tassel claims being contacted by an alien named &#x27;Ash...</span></span></span>
+Adamski became famous for claiming meetings with beautiful, human-like Venusians who preached peace and spiritual evolution. Van Tassel hosted the Giant Rock Spacecraft Convention in the Mojave Desert, turning UFO belief into a public gathering culture. Angelucci shared their central assumptions: extraterrestrials were benevolent, spiritually advanced and deeply concerned about Earth’s future.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kar.kent.ac.uk/86204/1/342159.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[2kar.kent.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-snippet">pdf - Kent Academic Repositoryby S Palmer · 2000 · Cited by 1 — Contactee George van Tassel claims being contacted by an alien named &#x27;Ash...</span></span></span>
 
-Yet Angelucci’s version stood out for its intensely mystical and emotional tone. His encounters often resembled religious visions more than physical meetings. He described feelings of overwhelming love, altered consciousness, radiant light and transcendence. He also incorporated elaborate metaphysical ideas about karma, cosmic evolution and the spiritual destiny of humanity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe Secret of the Saucers Index20 Dec 2007 — The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe Secret of the Saucers Index20 Dec 2007 — The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full t...</span></span></span>
+Yet Angelucci’s version stood out for its intensely mystical and emotional tone. His encounters often resembled religious visions more than physical meetings. He described feelings of overwhelming love, altered consciousness, radiant light and transcendence. He also incorporated elaborate metaphysical ideas about karma, cosmic evolution and the spiritual destiny of humanity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe Secret of the Saucers Index20 Dec 2007 — The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe Secret of the Saucers Index20 Dec 2007 — The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full t...</span></span></span>
 
-This overlap between UFO belief and spiritual revelation became one of the defining features of the contactee era. Scholars of religion and culture later argued that the movement functioned partly as a modern myth system: technological imagery replaced angels or divine messengers, while saucers became vehicles for moral and apocalyptic teaching. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/63595674/UFOs_and_Aliens_as_Signs_of_Hope_in_New_Religions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">UFOs and Aliens as Signs of Hope in New Religions</span><span class="citation-popover-snippet">Academia(PDF) UFOs and Aliens as Signs of Hope in New Religions9 Dec 2021 — The Roswell incident (an alleged alien spacecraft crash) and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">Digital CommonsThe UFO Contact Movement from the 1950&#x27;s to the Presentby C Bader · 1995 · Cited by 16 — The first claims of extended cont...</span></span></span>
+This overlap between UFO belief and spiritual revelation became one of the defining features of the contactee era. Scholars of religion and culture later argued that the movement functioned partly as a modern myth system: technological imagery replaced angels or divine messengers, while saucers became vehicles for moral and apocalyptic teaching.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/63595674/UFOs_and_Aliens_as_Signs_of_Hope_in_New_Religions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">UFOs and Aliens as Signs of Hope in New Religions</span><span class="citation-popover-snippet">Academia(PDF) UFOs and Aliens as Signs of Hope in New Religions9 Dec 2021 — The Roswell incident (an alleged alien spacecraft crash) and...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">Digital CommonsThe UFO Contact Movement from the 1950&#x27;s to the Presentby C Bader · 1995 · Cited by 16 — The first claims of extended cont...</span></span></span>
 
 <img src="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_contactee_era_contex_5cf27d-Illustration-2-dark.svg" | relative_url }}" alt="Contactee Era illustration 2" data-theme-src-dark="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_contactee_era_contex_5cf27d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_contactee_era_contex_5cf27d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Skeptics Read Angelucci as a Visionary Narrative
 
-Skeptical interpretations of Angelucci rarely focus on proving deliberate fraud. Instead, many critics argue that his experiences fit patterns associated with visionary, psychological or culturally scripted narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Skeptical interpretations of Angelucci rarely focus on proving deliberate fraud. Instead, many critics argue that his experiences fit patterns associated with visionary, psychological or culturally scripted narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 Several features encourage that interpretation.
 
 ### The stories followed established cultural scripts
 
-By the mid-1950s, the contactee template was already familiar. Audiences expected tales involving wise aliens, telepathy, advanced technology and warnings about war. Angelucci’s account reproduced these motifs closely enough that skeptics see it as culturally shaped rather than independently evidential. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5931.2011.00842.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1540 5931.2011.00842.x</span><span class="citation-popover-snippet">Wiley Online LibraryBefore Abduction: The Contactee Narrative of the 1950s2 Jun 2011 — Adamski&#x27;s aliens, like the ones described by his f...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Orfeo_Angelucci" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Orfeo Angelucci</span><span class="citation-popover-snippet">Orfeo Angelucci</span></span></span>
+By the mid-1950s, the contactee template was already familiar. Audiences expected tales involving wise aliens, telepathy, advanced technology and warnings about war. Angelucci’s account reproduced these motifs closely enough that skeptics see it as culturally shaped rather than independently evidential.<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5931.2011.00842.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1540 5931.2011.00842.x</span><span class="citation-popover-snippet">Wiley Online LibraryBefore Abduction: The Contactee Narrative of the 1950s2 Jun 2011 — Adamski&#x27;s aliens, like the ones described by his f...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Orfeo_Angelucci" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Orfeo Angelucci</span><span class="citation-popover-snippet">Orfeo Angelucci</span></span></span>
 
 ### The experiences were intensely subjective
 
-The strongest parts of Angelucci’s narrative concern feelings, impressions and altered states rather than independently verifiable events. He described overwhelming emotions, telepathic communication and spiritual illumination. Physical evidence remained thin, ambiguous or absent. Even sympathetic readers often concede that the case depends almost entirely on accepting Angelucci’s sincerity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The strongest parts of Angelucci’s narrative concern feelings, impressions and altered states rather than independently verifiable events. He described overwhelming emotions, telepathic communication and spiritual illumination. Physical evidence remained thin, ambiguous or absent. Even sympathetic readers often concede that the case depends almost entirely on accepting Angelucci’s sincerity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HPDbZYvNROM" title="Orfeo M Angelucci Travelling In A Disk From Another World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HPDbZYvNROM" target="_blank" rel="noopener noreferrer">Orfeo M Angelucci Travelling In A Disk From Another World</a></p><p class="youtube-embed-meta">Channel: Brian Scott &middot; Views: 20.2K &middot; Uploaded: October 2021 &middot; Length: 1 hour 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HPDbZYvNROM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HPDbZYvNROM">Open on YouTube</a></p></div></div></div>
 
 ### Mysticism and UFO technology merged together
 
-Angelucci mixed speculative physics with spiritual revelation in a way common to contactee literature. Saucers allegedly operated through magnetic principles or crystal-like structures while simultaneously serving as instruments of cosmic enlightenment. Skeptics argue this blend resembles speculative fiction and esoteric religion more than investigative evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe Secret of the Saucers Index20 Dec 2007 — The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full t...</span></span></span>
+Angelucci mixed speculative physics with spiritual revelation in a way common to contactee literature. Saucers allegedly operated through magnetic principles or crystal-like structures while simultaneously serving as instruments of cosmic enlightenment. Skeptics argue this blend resembles speculative fiction and esoteric religion more than investigative evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe Secret of the Saucers Index20 Dec 2007 — The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full t...</span></span></span>
 
 ### The narrative expanded over time
 
-Like many contactee stories, Angelucci’s mythology grew increasingly elaborate in later writings and lectures. Additional cosmological teachings, prophetic themes and metaphysical claims accumulated around the original encounters. Critics see this expansion as characteristic of evolving belief systems rather than stable eyewitness testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Like many contactee stories, Angelucci’s mythology grew increasingly elaborate in later writings and lectures. Additional cosmological teachings, prophetic themes and metaphysical claims accumulated around the original encounters. Critics see this expansion as characteristic of evolving belief systems rather than stable eyewitness testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4jnm1K0PjR0" title="FLYING SAUCERS: A Modern Myth of Things Seen in… by C.G. Jung · Audiobook preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4jnm1K0PjR0" target="_blank" rel="noopener noreferrer">FLYING SAUCERS: A Modern Myth of Things Seen in… by C.G. Jung · Audiobook preview</a></p><p class="youtube-embed-meta">Channel: Google Play Books &middot; Views: 8 &middot; Uploaded: May 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4jnm1K0PjR0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4jnm1K0PjR0">Open on YouTube</a></p></div></div></div>
 
 ## Carl Jung and the Psychological Reading
 
-One reason Angelucci remained culturally significant is that the Swiss psychiatrist Carl Jung discussed his case in *Flying Saucers: A Modern Myth of Things Seen in the Skies*. Jung did not endorse the encounters as objectively real alien events. Instead, he treated them as psychologically important symbols emerging from modern anxieties and spiritual needs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+One reason Angelucci remained culturally significant is that the Swiss psychiatrist Carl Jung discussed his case in *Flying Saucers: A Modern Myth of Things Seen in the Skies*. Jung did not endorse the encounters as objectively real alien events. Instead, he treated them as psychologically important symbols emerging from modern anxieties and spiritual needs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-Jung considered UFO imagery meaningful even if it was not literally extraterrestrial. He argued that flying saucers functioned as mythic symbols in a technological age, expressing fears about destruction alongside hopes for salvation and higher order. Angelucci’s account interested him precisely because it combined cosmic machinery with religious transcendence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Jung considered UFO imagery meaningful even if it was not literally extraterrestrial. He argued that flying saucers functioned as mythic symbols in a technological age, expressing fears about destruction alongside hopes for salvation and higher order. Angelucci’s account interested him precisely because it combined cosmic machinery with religious transcendence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 That interpretation influenced later skeptical and academic readings of the contactee movement. Instead of asking only whether saucers physically existed, researchers began asking why so many people in the Cold War period found these stories emotionally persuasive.
 
@@ -344,204 +344,204 @@ In Angelucci’s case, several pressures converged:
 
 </div>
 
-The result was a narrative that felt simultaneously futuristic and spiritual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">Digital CommonsThe UFO Contact Movement from the 1950&#x27;s to the Presentby C Bader · 1995 · Cited by 16 — The first claims of extended cont...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/63595674/UFOs_and_Aliens_as_Signs_of_Hope_in_New_Religions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">UFOs and Aliens as Signs of Hope in New Religions</span><span class="citation-popover-snippet">Academia(PDF) UFOs and Aliens as Signs of Hope in New Religions9 Dec 2021 — The Roswell incident (an alleged alien spacecraft crash) and...</span></span></span>
+The result was a narrative that felt simultaneously futuristic and spiritual.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">Digital CommonsThe UFO Contact Movement from the 1950&#x27;s to the Presentby C Bader · 1995 · Cited by 16 — The first claims of extended cont...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/63595674/UFOs_and_Aliens_as_Signs_of_Hope_in_New_Religions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">UFOs and Aliens as Signs of Hope in New Religions</span><span class="citation-popover-snippet">Academia(PDF) UFOs and Aliens as Signs of Hope in New Religions9 Dec 2021 — The Roswell incident (an alleged alien spacecraft crash) and...</span></span></span>
 
 <img src="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_contactee_era_contex_5cf27d-Illustration-3-dark.svg" | relative_url }}" alt="Contactee Era illustration 3" data-theme-src-dark="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_contactee_era_contex_5cf27d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_contactee_era_contex_5cf27d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Angelucci Story Still Matters
 
-Within UFO history, Angelucci occupies an important transitional position. His case helped move flying saucers away from simple aerial mysteries and toward grand spiritual narratives involving cosmic destiny and chosen messengers. Many themes that later appeared in UFO religions, New Age movements and modern experiencer culture were already present in his 1955 account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe Secret of the Saucers Index20 Dec 2007 — The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">Digital CommonsThe UFO Contact Movement from the 1950&#x27;s to the Presentby C Bader · 1995 · Cited by 16 — The first claims of extended cont...</span></span></span>
+Within UFO history, Angelucci occupies an important transitional position. His case helped move flying saucers away from simple aerial mysteries and toward grand spiritual narratives involving cosmic destiny and chosen messengers. Many themes that later appeared in UFO religions, New Age movements and modern experiencer culture were already present in his 1955 account.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe Secret of the Saucers Index20 Dec 2007 — The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">Digital CommonsThe UFO Contact Movement from the 1950&#x27;s to the Presentby C Bader · 1995 · Cited by 16 — The first claims of extended cont...</span></span></span>
 
-At the same time, the weaknesses of the case remain central to skeptical criticism. There was no convincing physical evidence, no reliable corroboration for the most extraordinary claims and no investigative record comparable to stronger radar or military UFO cases. The enduring fascination comes largely from the story’s symbolic power and historical place within the contactee era rather than from demonstrable proof of alien visitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+At the same time, the weaknesses of the case remain central to skeptical criticism. There was no convincing physical evidence, no reliable corroboration for the most extraordinary claims and no investigative record comparable to stronger radar or military UFO cases. The enduring fascination comes largely from the story’s symbolic power and historical place within the contactee era rather than from demonstrable proof of alien visitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Angelucci Became a 1950 s Contactee Figure. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Angelucci Became a 1950 s Contactee Figure. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
-        </h4>
-        <p class="fr-book-author">By Guy Lawson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+</h4>
+<p class="fr-book-author">By Guy Lawson</p>
         
-        <p class="fr-book-desc">Sets the governing commercial and informational context for the official military disclosure process concerning unidentified drone encoun...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Sets the governing commercial and informational context for the official military disclosure process concerning unidentified drone encoun...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides broad context on the 2019-era incidents and the ongoing intelligence debate regarding naval security and unmanned aerial systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broad context on the 2019-era incidents and the ongoing intelligence debate regarding naval security and unmanned aerial systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Movie+EVERYONE+Is+Hillbillying+About+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Movie EVERYONE Is Hillbillying About on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Movie+EVERYONE+Is+Hillbillying+About+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Movie EVERYONE Is Hillbillying About">The UFO Movie EVERYONE Is Hillbillying About</a>
-        </h4>
-        <p class="fr-book-author">By Mick West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Movie+EVERYONE+Is+Hillbillying+About+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Movie EVERYONE Is Hillbillying About on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Movie+EVERYONE+Is+Hillbillying+About+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Movie EVERYONE Is Hillbillying About">The UFO Movie EVERYONE Is Hillbillying About</a>
+</h4>
+<p class="fr-book-author">By Mick West</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Movie+EVERYONE+Is+Hillbillying+About+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Movie+EVERYONE+Is+Hillbillying+About+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Movie+EVERYONE+Is+Hillbillying+About&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Movie EVERYONE Is Hillbillying About</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Movie+EVERYONE+Is+Hillbillying+About&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Movie EVERYONE Is Hillbillying About</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Spaceship Poster - Vintage Sci-Fi Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/YpgAAOSwSZZn0XrB/s-l225.jpg" alt="Listing image for Retro UFO Spaceship Poster - Vintage Sci-Fi Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Spaceship Poster - Vintage Sci-Fi Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro sci fi poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro sci fi poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Spaceship Poster - Vintage Sci-Fi Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/YpgAAOSwSZZn0XrB/s-l225.jpg" alt="Listing image for Retro UFO Spaceship Poster - Vintage Sci-Fi Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Spaceship Poster - Vintage Sci-Fi Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro sci fi poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro sci fi poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RETRO SCI FI UFO ED STRAKER POSTER ART -JUMBO FRIDGE MAGNET"><img src="https://i.ebayimg.com/images/g/-~4AAeSwum9pmEC5/s-l225.jpg" alt="Listing image for RETRO SCI FI UFO ED STRAKER POSTER ART -JUMBO FRIDGE MAGNET" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" target="_blank" rel="sponsored noopener noreferrer">RETRO SCI FI UFO ED STRAKER POSTER ART -JUMBO FRIDGE MAGNET</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro sci fi poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro sci fi poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RETRO SCI FI UFO ED STRAKER POSTER ART -JUMBO FRIDGE MAGNET"><img src="https://i.ebayimg.com/images/g/-~4AAeSwum9pmEC5/s-l225.jpg" alt="Listing image for RETRO SCI FI UFO ED STRAKER POSTER ART -JUMBO FRIDGE MAGNET" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" target="_blank" rel="sponsored noopener noreferrer">RETRO SCI FI UFO ED STRAKER POSTER ART -JUMBO FRIDGE MAGNET</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro sci fi poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro sci fi poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Trek Movie Posters Classic Retro Sci fi Film Print Picture"><img src="https://i.ebayimg.com/images/g/wTsAAOSw8DdmVGRc/s-l225.jpg" alt="Listing image for Star Trek Movie Posters Classic Retro Sci fi Film Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" target="_blank" rel="sponsored noopener noreferrer">Star Trek Movie Posters Classic Retro Sci fi Film Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro sci fi poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro sci fi poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Trek Movie Posters Classic Retro Sci fi Film Print Picture"><img src="https://i.ebayimg.com/images/g/wTsAAOSw8DdmVGRc/s-l225.jpg" alt="Listing image for Star Trek Movie Posters Classic Retro Sci fi Film Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" target="_blank" rel="sponsored noopener noreferrer">Star Trek Movie Posters Classic Retro Sci fi Film Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro sci fi poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro sci fi poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SCI FI Forbidden Planet Vintage Movie Poster CANVAS WALL ART PRINT ARTWORK"><img src="https://i.ebayimg.com/images/g/NoAAAOSw~WpeQW7f/s-l225.jpg" alt="Listing image for SCI FI Forbidden Planet Vintage Movie Poster CANVAS WALL ART PRINT ARTWORK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" target="_blank" rel="sponsored noopener noreferrer">SCI FI Forbidden Planet Vintage Movie Poster CANVAS WALL ART PRINT ARTWORK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro sci fi poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro sci fi poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SCI FI Forbidden Planet Vintage Movie Poster CANVAS WALL ART PRINT ARTWORK"><img src="https://i.ebayimg.com/images/g/NoAAAOSw~WpeQW7f/s-l225.jpg" alt="Listing image for SCI FI Forbidden Planet Vintage Movie Poster CANVAS WALL ART PRINT ARTWORK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" target="_blank" rel="sponsored noopener noreferrer">SCI FI Forbidden Planet Vintage Movie Poster CANVAS WALL ART PRINT ARTWORK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro sci fi poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro sci fi poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+sci+fi+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro sci fi poster" data-ebay-reference="why-angelucci-became-a-1950s-contactee-figure-retro-sci-fi-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ At the same time, the weaknesses of the case remain central to skeptical critici
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ At the same time, the weaknesses of the case remain central to skeptical critici
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ At the same time, the weaknesses of the case remain central to skeptical critici
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ At the same time, the weaknesses of the case remain central to skeptical critici
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ At the same time, the weaknesses of the case remain central to skeptical critici
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,148 +747,148 @@ At the same time, the weaknesses of the case remain central to skeptical critici
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Orfeo Angelucci  
-   Link: <a href="https://en.wikipedia.org/wiki/Orfeo_Angelucci" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Orfeo_Angelucci</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Orfeo_Angelucci" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Orfeo_Angelucci</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: onlinelibrary.wiley.com  
    Title: j.1540 5931.2011.00842.x  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5931.2011.00842.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5931.2011.00842.x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryBefore Abduction: The Contactee Narrative of the 1950s2 Jun 2011 — Adamski&#x27;s aliens, like the ones described by his f...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5931.2011.00842.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5931.2011.00842.x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryBefore Abduction: The Contactee Narrative of the 1950s2 Jun 2011 — Adamski&#x27;s aliens, like the ones described by his f...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Contactee</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Contactee</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: academia.edu  
    Title: UFOs and Aliens as Signs of Hope in New Religions  
-   Link: <a href="https://www.academia.edu/63595674/UFOs_and_Aliens_as_Signs_of_Hope_in_New_Religions" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/63595674/UFOs_and_Aliens_as_Signs_of_Hope_in_New_Religions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) UFOs and Aliens as Signs of Hope in New Religions9 Dec 2021 — The Roswell incident (an alleged alien spacecraft crash) and...</p></details>
+   Link:<a href="https://www.academia.edu/63595674/UFOs_and_Aliens_as_Signs_of_Hope_in_New_Religions" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/63595674/UFOs_and_Aliens_as_Signs_of_Hope_in_New_Religions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) UFOs and Aliens as Signs of Hope in New Religions9 Dec 2021 — The Roswell incident (an alleged alien spacecraft crash) and...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: kar.kent.ac.uk  
-   Link: <a href="https://kar.kent.ac.uk/86204/1/342159.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/86204/1/342159.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>pdf - Kent Academic Repositoryby S Palmer · 2000 · Cited by 1 — Contactee George van Tassel claims being contacted by an alien named &#x27;Ash...</p></details>
+   Link:<a href="https://kar.kent.ac.uk/86204/1/342159.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/86204/1/342159.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pdf - Kent Academic Repositoryby S Palmer · 2000 · Cited by 1 — Contactee George van Tassel claims being contacted by an alien named &#x27;Ash...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ia600600.us.archive.org  
-   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO book: encyclopedia of the extraterrestrialSome individuals became consumed with UFOs, and by the early 1950s the first UFO organizat...</p></details>
+   Link:<a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO book: encyclopedia of the extraterrestrialSome individuals became consumed with UFOs, and by the early 1950s the first UFO organizat...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/sos/index.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Sacred Text ArchiveThe Secret of the Saucers Index20 Dec 2007 — The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full t...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/sos/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/sos/index.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Sacred Text ArchiveThe Secret of the Saucers Index20 Dec 2007 — The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full t...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: digitalcommons.chapman.edu  
-   Link: <a href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital CommonsThe UFO Contact Movement from the 1950&#x27;s to the Presentby C Bader · 1995 · Cited by 16 — The first claims of extended cont...</p></details>
+   Link:<a href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital CommonsThe UFO Contact Movement from the 1950&#x27;s to the Presentby C Bader · 1995 · Cited by 16 — The first claims of extended cont...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sacred-texts.com  
    Title: Internet Sacred Text Archive The Secret of the Saucers: Chapter I  
-   Link: <a href="https://sacred-texts.com/ufo/sos/sos03.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/sos/sos03.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Disk From Anoth...The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full text etext at sacred... &quot;We&#x27;ll contact you again, O...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/sos/sos03.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/sos/sos03.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Disk From Anoth...The Secret of the Saucers, by Orfeo M. Angelucci, [1955], full text etext at sacred... &quot;We&#x27;ll contact you again, O...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: globalgreyebooks.com  
    Title: Global Grey The Secret of the Saucers by Ofreo M  
-   Link: <a href="https://www.globalgreyebooks.com/secret-of-the-saucers-ebook.html" target="_blank" rel="noopener noreferrer nofollow">https://www.globalgreyebooks.com/secret-of-the-saucers-ebook.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Angelucci, free ebookThe Secret of the Saucers is a book by Orfeo M. Angelucci, first published in 1955. This autobiographical account de...</p></details>
+   Link:<a href="https://www.globalgreyebooks.com/secret-of-the-saucers-ebook.html" target="_blank" rel="noopener noreferrer nofollow">https://www.globalgreyebooks.com/secret-of-the-saucers-ebook.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Angelucci, free ebookThe Secret of the Saucers is a book by Orfeo M. Angelucci, first published in 1955. This autobiographical account de...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: web2.ph.utexas.edu  
-   Link: <a href="https://web2.ph.utexas.edu/~coker2/index.files/sbrothers.shtml" target="_blank" rel="noopener noreferrer nofollow">https://web2.ph.utexas.edu/~coker2/index.files/sbrothers.shtml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Physics1950s ContacteesCaptured by Aliens, by Joel Achenbach, Simon &amp; Schuster, NY, 1999. UFOs and Alien Contact, by Robert...</p></details>
+   Link:<a href="https://web2.ph.utexas.edu/~coker2/index.files/sbrothers.shtml" target="_blank" rel="noopener noreferrer nofollow">https://web2.ph.utexas.edu/~coker2/index.files/sbrothers.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Physics1950s ContacteesCaptured by Aliens, by Joel Achenbach, Simon &amp; Schuster, NY, 1999. UFOs and Alien Contact, by Robert...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: amazon.co.uk  
    Title: The Secret Of The Saucers  
-   Link: <a href="https://www.amazon.co.uk/Secret-Saucers-Orfeo-M-Angelucci/dp/125877190X" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Secret-Saucers-Orfeo-M-Angelucci/dp/125877190X</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon UK...</p></details>
+   Link:<a href="https://www.amazon.co.uk/Secret-Saucers-Orfeo-M-Angelucci/dp/125877190X" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Secret-Saucers-Orfeo-M-Angelucci/dp/125877190X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon UK...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: abebooks.co.uk  
    Title: The Secret of the Saucers  
-   Link: <a href="https://www.abebooks.co.uk/9789357408431/Secret-Saucers-Orfeo-Angelucci-9357408436/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9789357408431/Secret-Saucers-Orfeo-Angelucci-9357408436/plp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Angelucci, an Italian-American contactee who claimed to have had numerous encounters with...</p></details>
+   Link:<a href="https://www.abebooks.co.uk/9789357408431/Secret-Saucers-Orfeo-Angelucci-9357408436/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9789357408431/Secret-Saucers-Orfeo-Angelucci-9357408436/plp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Angelucci, an Italian-American contactee who claimed to have had numerous encounters with...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scribd.com  
    Title: Orfeo Angelucci | PDF | Ufo Related Phenomena | Ufologyorfeo angelucci  
-   Link: <a href="https://www.scribd.com/document/800711656/orfeo-angelucci" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/800711656/orfeo-angelucci</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Free download as PDF File (.pdf), Text File (.txt) or read online for free...</p></details>
+   Link:<a href="https://www.scribd.com/document/800711656/orfeo-angelucci" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/800711656/orfeo-angelucci</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Free download as PDF File (.pdf), Text File (.txt) or read online for free...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: x.com  
    Title: ""Orfeo Angelucci""  
-   Link: <a href="https://x.com/search?f=tweets&amp;q=%22Orfeo+Angelucci%22&amp;src=typd&amp;vertical=default" target="_blank" rel="noopener noreferrer nofollow">https://x.com/search?f=tweets&amp;q=%22Orfeo+Angelucci%22&amp;src=typd&amp;vertical=default</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Results on X | Live Posts &amp; UpdatesThere are correlations between Arthur Shuttlewood&#x27;s quotations of the Aenstrian space people and the t...</p></details>
+   Link:<a href="https://x.com/search?f=tweets&amp;q=%22Orfeo+Angelucci%22&amp;src=typd&amp;vertical=default" target="_blank" rel="noopener noreferrer nofollow">https://x.com/search?f=tweets&amp;q=%22Orfeo+Angelucci%22&amp;src=typd&amp;vertical=default</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Results on X | Live Posts &amp; UpdatesThere are correlations between Arthur Shuttlewood&#x27;s quotations of the Aenstrian space people and the t...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: books.google.com  
    Title: The Secret of the Saucers  
-   Link: <a href="https://books.google.com/books/about/The_Secret_of_the_Saucers.html?id=bC_w0AEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Secret_of_the_Saucers.html?id=bC_w0AEACAAJ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret of the Saucers: How UFOs Work15 Oct 2024 — Angelucci shares his extraordinary experiences as one of the most notable UFO contactee...</p></details>
+   Link:<a href="https://books.google.com/books/about/The_Secret_of_the_Saucers.html?id=bC_w0AEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Secret_of_the_Saucers.html?id=bC_w0AEACAAJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secret of the Saucers: How UFOs Work15 Oct 2024 — Angelucci shares his extraordinary experiences as one of the most notable UFO contactee...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/800712104/contactee" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/800712104/contactee</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of UFO Contactees | PDF | UfologyContactee accounts generally describe positive, beneficial experiences with humanoid space alie...</p></details>
+   Link:<a href="https://www.scribd.com/document/800712104/contactee" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/800712104/contactee</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of UFO Contactees | PDF | UfologyContactee accounts generally describe positive, beneficial experiences with humanoid space alie...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: everand.com  
    Title: The Secret of the Saucers How UFOs Work  
-   Link: <a href="https://www.everand.com/book/777822000/The-Secret-of-the-Saucers-How-UFOs-Work" target="_blank" rel="noopener noreferrer nofollow">https://www.everand.com/book/777822000/The-Secret-of-the-Saucers-How-UFOs-Work</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of the Saucers: How UFOs Work11 Oct 2024 — In The Secret of the Saucers, Orfeo M. Angelucci shares his extraordinary experienc...</p></details>
+   Link:<a href="https://www.everand.com/book/777822000/The-Secret-of-the-Saucers-How-UFOs-Work" target="_blank" rel="noopener noreferrer nofollow">https://www.everand.com/book/777822000/The-Secret-of-the-Saucers-How-UFOs-Work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of the Saucers: How UFOs Work11 Oct 2024 — In The Secret of the Saucers, Orfeo M. Angelucci shares his extraordinary experienc...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: abebooks.co.uk  
    Title: The Secret of the Saucers (Hardcover)  
-   Link: <a href="https://www.abebooks.co.uk/Secret-Saucers-Orfeo-Angelucci-Zinc-Read/32423156297/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/Secret-Saucers-Orfeo-Angelucci-Zinc-Read/32423156297/bd</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Orfeo Angelucci&quot;The Secret of the Saucers&quot; is a book written by Orfeo M. Angelucci, an Italian-American contactee who claimed to have had...</p></details>
+   Link:<a href="https://www.abebooks.co.uk/Secret-Saucers-Orfeo-Angelucci-Zinc-Read/32423156297/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/Secret-Saucers-Orfeo-Angelucci-Zinc-Read/32423156297/bd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Orfeo Angelucci&quot;The Secret of the Saucers&quot; is a book written by Orfeo M. Angelucci, an Italian-American contactee who claimed to have had...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: goodreads.com  
    Title: The Secret of the Saucers by Orfeo M  
-   Link: <a href="https://www.goodreads.com/book/show/27404911" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/27404911</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AngelucciThe Secret of the Saucers; Orfeo Matthew Angelucci was one of the most unusual of the mid-1950s contactees who claimed to be in...</p></details>
+   Link:<a href="https://www.goodreads.com/book/show/27404911" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/27404911</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AngelucciThe Secret of the Saucers; Orfeo Matthew Angelucci was one of the most unusual of the mid-1950s contactees who claimed to be in...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reasons.org  
    Title: alien encounters fail the test  
-   Link: <a href="https://reasons.org/explore/publications/facts-for-faith/alien-encounters-fail-the-test" target="_blank" rel="noopener noreferrer nofollow">https://reasons.org/explore/publications/facts-for-faith/alien-encounters-fail-the-test</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Apr 2001 — In the context of UFO phenomena, a contactee is an individual who claims to have direct and/or personal contact with alien e...</p></details>
+   Link:<a href="https://reasons.org/explore/publications/facts-for-faith/alien-encounters-fail-the-test" target="_blank" rel="noopener noreferrer nofollow">https://reasons.org/explore/publications/facts-for-faith/alien-encounters-fail-the-test</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Apr 2001 — In the context of UFO phenomena, a contactee is an individual who claims to have direct and/or personal contact with alien e...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: eprints.lancs.ac.uk  
    Title: Inner Space Outer Space  
-   Link: <a href="https://eprints.lancs.ac.uk/id/eprint/133752/1/Inner_Space_Outer_Space.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.lancs.ac.uk/id/eprint/133752/1/Inner_Space_Outer_Space.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McKenna&#x27;s Jungian Psychedelic Ufologymentioned by the contactee Orfeo Angelucci (1912-1993), whose usage was quoted by. Jung.145 The coll...</p></details>
+   Link:<a href="https://eprints.lancs.ac.uk/id/eprint/133752/1/Inner_Space_Outer_Space.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.lancs.ac.uk/id/eprint/133752/1/Inner_Space_Outer_Space.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKenna&#x27;s Jungian Psychedelic Ufologymentioned by the contactee Orfeo Angelucci (1912-1993), whose usage was quoted by. Jung.145 The coll...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4jnm1K0PjR0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4jnm1K0PjR0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Flying Saucer Mystery (1952) | Vintage UFO Documentary | Donald E. Keyhoe...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4jnm1K0PjR0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4jnm1K0PjR0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Flying Saucer Mystery (1952) | Vintage UFO Documentary | Donald E. Keyhoe...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/episode/6NpNKRSw17T5kLqnGGU1P6" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/6NpNKRSw17T5kLqnGGU1P6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Angelucci: Secret of the Saucers10 Jun 2017 — This was the incredible claim in Angelucci&#x27;s book, The Secret of the Saucers, which tells t...</p></details>
+   Link:<a href="https://open.spotify.com/episode/6NpNKRSw17T5kLqnGGU1P6" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/6NpNKRSw17T5kLqnGGU1P6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Angelucci: Secret of the Saucers10 Jun 2017 — This was the incredible claim in Angelucci&#x27;s book, The Secret of the Saucers, which tells t...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: George Adamski: Alien Contactee!  
-   Link: <a href="https://www.youtube.com/watch?v=eh_LMjd_dZA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eh_LMjd_dZA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS: A Modern Myth of Things Seen in… by C.G. Jung · Audiobook preview...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eh_LMjd_dZA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eh_LMjd_dZA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS: A Modern Myth of Things Seen in… by C.G. Jung · Audiobook preview...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=U_mZIV9X72A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U_mZIV9X72A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Orfeo M Angelucci Travelling In A Disk From Another World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=U_mZIV9X72A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U_mZIV9X72A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Orfeo M Angelucci Travelling In A Disk From Another World...</p></details>

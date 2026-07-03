@@ -758,50 +758,50 @@ image: /assets/images/Cisco_Grove_incident_29820a-overview-social.jpg
 
 ## What Shrum said happened near Cisco Grove
 
-The standard account places the incident on 4 September 1964 near Cisco Grove, in Placer County, in the Sierra Nevada region of northern California. NICAP’s case directory, summarising Richard Hall’s account, says Donald Schrum or Shrum, aged 28, was bow hunting with friends in an isolated area when he became separated from them. At sunset he reportedly chose to sleep in a tree, then saw a low, zigzagging white light which he first interpreted as a possible helicopter. After he lit signal fires, the object allegedly stopped roughly 50 to 60 yards away, frightening him enough to climb back into the tree. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/640904ciscogrove_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+The standard account places the incident on 4 September 1964 near Cisco Grove, in Placer County, in the Sierra Nevada region of northern California. NICAP’s case directory, summarising Richard Hall’s account, says Donald Schrum or Shrum, aged 28, was bow hunting with friends in an isolated area when he became separated from them. At sunset he reportedly chose to sleep in a tree, then saw a low, zigzagging white light which he first interpreted as a possible helicopter. After he lit signal fires, the object allegedly stopped roughly 50 to 60 yards away, frightening him enough to climb back into the tree.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/640904ciscogrove_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
 
 <img src="{{ "/assets/images/Cisco_Grove_incident_29820a-overview.webp" | relative_url }}" alt="Overview image for Cisco Grove incident 1964" loading="eager" decoding="sync" fetchpriority="high">
-The narrative then becomes the reason the case is remembered. According to the same NICAP summary, Shrum reported two humanoid beings and at least one robot-like creature approaching the tree. The robot-like figure allegedly emitted a white vapour that made him black out and wake nauseous. Shrum said he tried to defend himself with matches and arrows; one arrow allegedly struck the robot-like figure, producing an arc flash and knocking it backwards. The siege, in this account, continued through the night until near dawn, when he awoke hanging from his belt and found the beings gone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/640904ciscogrove_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+The narrative then becomes the reason the case is remembered. According to the same NICAP summary, Shrum reported two humanoid beings and at least one robot-like creature approaching the tree. The robot-like figure allegedly emitted a white vapour that made him black out and wake nauseous. Shrum said he tried to defend himself with matches and arrows; one arrow allegedly struck the robot-like figure, producing an arc flash and knocking it backwards. The siege, in this account, continued through the night until near dawn, when he awoke hanging from his belt and found the beings gone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/640904ciscogrove_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
 
-J. Allen Hynek’s later retelling in *The Hynek UFO Report* gives a similar but not identical version under the title “The Hunter in the Tree”. Hynek dated the event to the night of 5 September 1964 and anonymised the witness as “Mr S”. In his account, the witness saw three flying objects with rotating lights and “cooing” noises, left the tree to light signal fires, then saw silvery objects circling his position and two humanlike figures in silvery, collarless suits. Hynek’s version also includes the robot-like figure and the witness’s later reunion with his hunting companions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;The Hynek UFO Report</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;The Hynek UFO Report</span></span></span>
+J. Allen Hynek’s later retelling in *The Hynek UFO Report* gives a similar but not identical version under the title “The Hunter in the Tree”. Hynek dated the event to the night of 5 September 1964 and anonymised the witness as “Mr S”. In his account, the witness saw three flying objects with rotating lights and “cooing” noises, left the tree to light signal fires, then saw silvery objects circling his position and two humanlike figures in silvery, collarless suits. Hynek’s version also includes the robot-like figure and the witness’s later reunion with his hunting companions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;The Hynek UFO Report</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;The Hynek UFO Report</span></span></span>
 
 That date variation is a small but useful warning sign for readers. UFO case histories often circulate through summaries, books, case catalogues and interviews, and details can shift even when the broad story remains recognisable. In this case, the difference between 4 and 5 September is not the central evidential issue; the central issue is that the most dramatic parts of the story rest overwhelmingly on Shrum’s own reported experience.
 
 ## Why the chronology is hard to verify
 
-A cautious chronology has three layers. The first is the outdoor-hunting frame: Shrum and companions went into the mountains near Cisco Grove, became separated, and reconnected after the night in question. The Donner Summit Historical Society’s review of the 2011 book *Aliens in the Forest* places the party near the Loch Leven trailhead east of Big Bend, describes the terrain as rugged, and says the three men separated while hunting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.donnersummithistoricalsociety.org/pages/bookreviews/AliensintheForest.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: donnersummithistoricalsociety.org">[donnersummithistoricalsociety.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">donnersummithistoricalsociety.org</span><span class="citation-popover-title">Aliens in the Forest</span><span class="citation-popover-snippet">Aliens in the Forest</span></span></span>
+A cautious chronology has three layers. The first is the outdoor-hunting frame: Shrum and companions went into the mountains near Cisco Grove, became separated, and reconnected after the night in question. The Donner Summit Historical Society’s review of the 2011 book *Aliens in the Forest* places the party near the Loch Leven trailhead east of Big Bend, describes the terrain as rugged, and says the three men separated while hunting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.donnersummithistoricalsociety.org/pages/bookreviews/AliensintheForest.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: donnersummithistoricalsociety.org">[donnersummithistoricalsociety.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">donnersummithistoricalsociety.org</span><span class="citation-popover-title">Aliens in the Forest</span><span class="citation-popover-snippet">Aliens in the Forest</span></span></span>
 
-The second layer is Shrum’s claimed night-long encounter. The main sequence generally runs as follows: separation from companions, decision to spend the night in a tree, sighting of a strange light, signal fires, approach of an object or objects, appearance of humanoids and robot-like figures, alleged attempts to dislodge or incapacitate him, and disappearance of the figures near dawn. NICAP’s compact case file and Hynek’s book preserve the same basic structure, though they differ in some descriptive details. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/640904ciscogrove_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+The second layer is Shrum’s claimed night-long encounter. The main sequence generally runs as follows: separation from companions, decision to spend the night in a tree, sighting of a strange light, signal fires, approach of an object or objects, appearance of humanoids and robot-like figures, alleged attempts to dislodge or incapacitate him, and disappearance of the figures near dawn. NICAP’s compact case file and Hynek’s book preserve the same basic structure, though they differ in some descriptive details.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/640904ciscogrove_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
 
-The third layer is the post-incident reporting chain. Hynek says the witness told his companions, then his father-in-law, and was persuaded to contact authorities. Later accounts claim Air Force interest and cite Project Blue Book or the wider Blue Book environment, but the easily accessible public summaries are uneven in quality. The National Archives confirms that Project Blue Book records were declassified, transferred to NARA, and arranged as chronological case files, but that general reference page does not by itself authenticate every later claim made about Cisco Grove. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;The Hynek UFO Report</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;The Hynek UFO Report</span></span></span>
+The third layer is the post-incident reporting chain. Hynek says the witness told his companions, then his father-in-law, and was persuaded to contact authorities. Later accounts claim Air Force interest and cite Project Blue Book or the wider Blue Book environment, but the easily accessible public summaries are uneven in quality. The National Archives confirms that Project Blue Book records were declassified, transferred to NARA, and arranged as chronological case files, but that general reference page does not by itself authenticate every later claim made about Cisco Grove.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;The Hynek UFO Report</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;The Hynek UFO Report</span></span></span>
 
 <img src="{{ "/assets/images/Cisco_Grove_incident_29820a-Illustration-1-dark.svg" | relative_url }}" alt="Cisco Grove incident 1964 illustration 1" data-theme-src-dark="{{ "/assets/images/Cisco_Grove_incident_29820a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cisco_Grove_incident_29820a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The witness question: credible person, extraordinary claim
 
-Shrum is often presented by UFO writers as a better-than-average witness because he was not simply an anonymous passer-by. Later publisher and bookseller descriptions of *Aliens in the Forest* identify him as Donald R. Shrum and say he worked for a missile-related company, which is used by advocates to argue that he had technical familiarity and something to lose by publicising a strange story. The same description says the 2011 book was written with cooperation from Shrum and his family and presented as the first fully authorised account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indigo.ca/products/aliens-in-the-forest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indigo.ca">[Indigo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indigo.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Shrum is often presented by UFO writers as a better-than-average witness because he was not simply an anonymous passer-by. Later publisher and bookseller descriptions of *Aliens in the Forest* identify him as Donald R. Shrum and say he worked for a missile-related company, which is used by advocates to argue that he had technical familiarity and something to lose by publicising a strange story. The same description says the 2011 book was written with cooperation from Shrum and his family and presented as the first fully authorised account.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indigo.ca/products/aliens-in-the-forest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indigo.ca">[Indigo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indigo.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That improves the human interest of the case, but not automatically the proof. Witness credibility and claim credibility are separate questions. A person can be sincere, stable and observant while still misperceiving events under stress, darkness, fatigue, isolation, fear of animals and the disorientation of being separated from camp. Conversely, the more elaborate the claim becomes — multiple craft, humanoids, robots, vapour, unconsciousness and defensive arrows — the more independent corroboration it needs.
 
-The companions’ role is therefore important but limited. The Donner Summit Historical Society review says one friend later saw the light but did not share Shrum’s full alleged encounter. That gives the story a possible corroborating edge for an unusual light in the area, but it does not corroborate the close-range beings, the robot-like figures, the gas attacks or the struggle at the tree. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.donnersummithistoricalsociety.org/pages/bookreviews/AliensintheForest.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: donnersummithistoricalsociety.org">[donnersummithistoricalsociety.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">donnersummithistoricalsociety.org</span><span class="citation-popover-title">Aliens in the Forest</span><span class="citation-popover-snippet">Aliens in the Forest</span></span></span>
+The companions’ role is therefore important but limited. The Donner Summit Historical Society review says one friend later saw the light but did not share Shrum’s full alleged encounter. That gives the story a possible corroborating edge for an unusual light in the area, but it does not corroborate the close-range beings, the robot-like figures, the gas attacks or the struggle at the tree.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.donnersummithistoricalsociety.org/pages/bookreviews/AliensintheForest.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: donnersummithistoricalsociety.org">[donnersummithistoricalsociety.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">donnersummithistoricalsociety.org</span><span class="citation-popover-title">Aliens in the Forest</span><span class="citation-popover-snippet">Aliens in the Forest</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4yEkCSyTTxg" title="Mystery in Cisco Grove: Don Shrum’s Encounter with UFOs, Aliens and Robots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4yEkCSyTTxg" target="_blank" rel="noopener noreferrer">Mystery in Cisco Grove: Don Shrum’s Encounter with UFOs, Aliens and Robots</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 3.2M &middot; Uploaded: December 2023 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4yEkCSyTTxg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4yEkCSyTTxg">Open on YouTube</a></p></div></div></div>
 
 ## Physical traces and documentary evidence
 
-The physical-evidence claims are intriguing but weakly preserved in public sources. The Donner Summit Historical Society review says the Air Force took one of Shrum’s arrows, described as bent and bearing the best deposit of metal, and that the site had been cleaned up or raked before Shrum later found another arrow. This is the kind of detail that makes the case memorable, but without a clear, accessible laboratory report, custody record or official conclusion tied to the object, it cannot carry much evidential weight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.donnersummithistoricalsociety.org/pages/bookreviews/AliensintheForest.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: donnersummithistoricalsociety.org">[donnersummithistoricalsociety.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">donnersummithistoricalsociety.org</span><span class="citation-popover-title">Aliens in the Forest</span><span class="citation-popover-snippet">Aliens in the Forest</span></span></span>
+The physical-evidence claims are intriguing but weakly preserved in public sources. The Donner Summit Historical Society review says the Air Force took one of Shrum’s arrows, described as bent and bearing the best deposit of metal, and that the site had been cleaned up or raked before Shrum later found another arrow. This is the kind of detail that makes the case memorable, but without a clear, accessible laboratory report, custody record or official conclusion tied to the object, it cannot carry much evidential weight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.donnersummithistoricalsociety.org/pages/bookreviews/AliensintheForest.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: donnersummithistoricalsociety.org">[donnersummithistoricalsociety.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">donnersummithistoricalsociety.org</span><span class="citation-popover-title">Aliens in the Forest</span><span class="citation-popover-snippet">Aliens in the Forest</span></span></span>
 
-NICAP’s short case entry reports the alleged effects within the story — arc flashes, repeated vapour attacks, blackouts and nausea — but it does not provide independent measurements of chemical exposure, medical records, photographs of injuries, verified trace samples or a chain of custody for materials. Hynek’s retelling likewise preserves the narrative but does not turn the case into a documented physical-evidence case in the stronger sense used for photographs, radar records, multiple independent witnesses or recoverable material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/640904ciscogrove_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+NICAP’s short case entry reports the alleged effects within the story — arc flashes, repeated vapour attacks, blackouts and nausea — but it does not provide independent measurements of chemical exposure, medical records, photographs of injuries, verified trace samples or a chain of custody for materials. Hynek’s retelling likewise preserves the narrative but does not turn the case into a documented physical-evidence case in the stronger sense used for photographs, radar records, multiple independent witnesses or recoverable material.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/640904ciscogrove_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
 
-The documentary record is also mixed. The US Air Force’s wider Project Blue Book programme did collect thousands of UFO reports, and the National Archives states that Blue Book records include 37 cubic feet of chronological case files plus other administrative and investigative files. The Air Force’s own fact sheet says Blue Book recorded 12,618 sightings from 1947 to 1969, of which 701 remained “Unidentified”, and that the programme was ended after the University of Colorado study, National Academy of Sciences review and Air Force experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2011 research guide</span><span class="citation-popover-snippet">aug 2011 research guide</span></span></span>
+The documentary record is also mixed. The US Air Force’s wider Project Blue Book programme did collect thousands of UFO reports, and the National Archives states that Blue Book records include 37 cubic feet of chronological case files plus other administrative and investigative files. The Air Force’s own fact sheet says Blue Book recorded 12,618 sightings from 1947 to 1969, of which 701 remained “Unidentified”, and that the programme was ended after the University of Colorado study, National Academy of Sciences review and Air Force experience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2011 research guide</span><span class="citation-popover-snippet">aug 2011 research guide</span></span></span>
 
 For Cisco Grove specifically, however, the public-facing evidence most readers encounter is still mediated through UFO case directories, Hynek’s later book, local historical commentary and the authorised 2011 retelling. That does not make the incident worthless as a case study, but it does make it fragile as a claim about external reality.
 
 <img src="{{ "/assets/images/Cisco_Grove_incident_29820a-Illustration-2-dark.svg" | relative_url }}" alt="Cisco Grove incident 1964 illustration 2" data-theme-src-dark="{{ "/assets/images/Cisco_Grove_incident_29820a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cisco_Grove_incident_29820a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official and scientific handling of the case
 
-Cisco Grove sits in the shadow of Project Blue Book and the Condon Report, the University of Colorado study formally titled *Scientific Study of Unidentified Flying Objects*. The National Archives says Blue Book was declassified and closed in 1969; the Air Force says its closure followed the Colorado report, a National Academy of Sciences review and earlier Air Force experience. The Air Force’s final public position was that investigated UFO reports showed no threat to national security, no evidence of technology beyond current scientific knowledge, and no evidence that unidentified sightings were extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2011 research guide</span><span class="citation-popover-snippet">aug 2011 research guide</span></span></span>
+Cisco Grove sits in the shadow of Project Blue Book and the Condon Report, the University of Colorado study formally titled *Scientific Study of Unidentified Flying Objects*. The National Archives says Blue Book was declassified and closed in 1969; the Air Force says its closure followed the Colorado report, a National Academy of Sciences review and earlier Air Force experience. The Air Force’s final public position was that investigated UFO reports showed no threat to national security, no evidence of technology beyond current scientific knowledge, and no evidence that unidentified sightings were extraterrestrial vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2011 research guide</span><span class="citation-popover-snippet">aug 2011 research guide</span></span></span>
 
-The Cisco Grove story appears to have been used in discussions of the Condon Report as an example of the problem posed by “high strangeness” cases. Richard L. Thompson’s later summary of the report notes that Condon discussed the “Cisco Grove Robot” and found the material troubling partly because it had been gathered by Dr James A. Harder, a University of California, Berkeley civil-engineering academic associated with UFO investigation. Thompson presents the case as an example of how bizarre entity stories could repel mainstream scientific investigators even when collected by technically trained people. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/parallels-ancient-insights-into-modern-ufo-phenomena-0998187143-9780998187143-i-6277054.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">Parallels: Ancient Insights into Modern UFO Phenomena</span><span class="citation-popover-snippet">0998187143, 9780998187143 - DOKUMEN.PUB...</span></span></span>
+The Cisco Grove story appears to have been used in discussions of the Condon Report as an example of the problem posed by “high strangeness” cases. Richard L. Thompson’s later summary of the report notes that Condon discussed the “Cisco Grove Robot” and found the material troubling partly because it had been gathered by Dr James A. Harder, a University of California, Berkeley civil-engineering academic associated with UFO investigation. Thompson presents the case as an example of how bizarre entity stories could repel mainstream scientific investigators even when collected by technically trained people.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/parallels-ancient-insights-into-modern-ufo-phenomena-0998187143-9780998187143-i-6277054.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">Parallels: Ancient Insights into Modern UFO Phenomena</span><span class="citation-popover-snippet">0998187143, 9780998187143 - DOKUMEN.PUB...</span></span></span>
 
 That point cuts both ways. For sceptics, Cisco Grove illustrates why official investigators were reluctant to treat every UFO narrative as a scientific mystery: the story is elaborate, theatrical and difficult to test. For UFO advocates, the same official discomfort can look like premature dismissal of a witness whose account did not fit conventional categories. A fair reading is that the case was not ignored in the broader UFO literature, but neither did it produce public evidence strong enough to force a scientific reclassification.
 
@@ -811,11 +811,11 @@ That point cuts both ways. For sceptics, Cisco Grove illustrates why official in
 
 The Cisco Grove incident has three broad interpretive camps, each with strengths and weaknesses.
 
-**Literal extraordinary encounter.** This is the version favoured in sympathetic UFO retellings. It treats Shrum as a sincere witness who experienced a close encounter with non-human entities or unknown technology. Its strengths are the narrative’s internal persistence, the claimed later involvement of investigators, the witness’s reported reluctance and the striking specificity of the tree, vapour, arrows and robot-like figures. Its weakness is the lack of publicly decisive independent evidence for the most extraordinary elements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/640904ciscogrove_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
+**Literal extraordinary encounter.** This is the version favoured in sympathetic UFO retellings. It treats Shrum as a sincere witness who experienced a close encounter with non-human entities or unknown technology. Its strengths are the narrative’s internal persistence, the claimed later involvement of investigators, the witness’s reported reluctance and the striking specificity of the tree, vapour, arrows and robot-like figures. Its weakness is the lack of publicly decisive independent evidence for the most extraordinary elements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/640904ciscogrove_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span>
 
 **Misinterpretation under extreme conditions.** This is the most economical sceptical frame. A lost hunter in darkness may have misread lights, aircraft, animals, terrain, sounds and bodily sensations while frightened, exhausted and possibly semi-asleep. The tree setting matters: a man tied into a tree, anxious about wildlife and rescue, drifting between waking and sleep, is in a poor environment for reliable perception. This explanation does not neatly account for every reported detail, but it explains why the story could feel utterly real to Shrum without requiring robots in the forest.
 
-**Hoax or embellished story.** A deliberate fabrication is possible in principle, but the case is not strengthened by merely asserting it. Later sympathetic sources stress that Shrum did not immediately turn the case into a public celebrity vehicle, and the authorised book’s marketing frames his silence as connected to family and employment concerns. Still, later publication, UFO-community interest and decades of retelling create incentives for narrative polishing even without an original hoax. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indigo.ca/products/aliens-in-the-forest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indigo.ca">[Indigo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indigo.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Hoax or embellished story.** A deliberate fabrication is possible in principle, but the case is not strengthened by merely asserting it. Later sympathetic sources stress that Shrum did not immediately turn the case into a public celebrity vehicle, and the authorised book’s marketing frames his silence as connected to family and employment concerns. Still, later publication, UFO-community interest and decades of retelling create incentives for narrative polishing even without an original hoax.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indigo.ca/products/aliens-in-the-forest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indigo.ca">[Indigo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indigo.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Some modern online speculation adds intelligence experiments, secret military tests or hallucinogenic dosing. Those ideas may feel more “plausible” to some readers than aliens, but they usually rest on association rather than evidence. Without documents tying Shrum to a test programme, such theories do not solve the evidential problem; they simply replace one unverified scenario with another.
 
@@ -832,199 +832,199 @@ That is why Cisco Grove is useful in a case dossier. It helps distinguish betwee
 
 ## Bottom line
 
-The safest assessment is that something probably did happen to Donald Shrum in the mountains near Cisco Grove: he appears to have had a frightening night after becoming separated from companions, and his account became part of UFO-investigation literature. The leap from that to actual non-human beings, robot-like attackers or advanced craft is not supported by the public evidence currently available. NICAP and Hynek preserve the claim; local and later UFO sources preserve the tradition; Air Force and Blue Book context show why such claims were investigated and later deprioritised. None of those layers supplies the missing independent proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/640904ciscogrove_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[3nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;The Hynek UFO Report</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;The Hynek UFO Report</span></span></span>
+The safest assessment is that something probably did happen to Donald Shrum in the mountains near Cisco Grove: he appears to have had a frightening night after becoming separated from companions, and his account became part of UFO-investigation literature. The leap from that to actual non-human beings, robot-like attackers or advanced craft is not supported by the public evidence currently available. NICAP and Hynek preserve the claim; local and later UFO sources preserve the tradition; Air Force and Blue Book context show why such claims were investigated and later deprioritised. None of those layers supplies the missing independent proof.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/640904ciscogrove_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[3nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report</span><span class="citation-popover-snippet">UF O Report</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;The Hynek UFO Report</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;The Hynek UFO Report</span></span></span>
 
 Cisco Grove is therefore best treated as a significant folklore-and-UFO-history case rather than a verified encounter. Its value lies in the tension it exposes: sincere testimony can be powerful, detailed and life-changing, yet still fall short of demonstrating what physically occurred.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened During the Cisco Grove UFO Sighting?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened During the Cisco Grove UFO Sighting?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Establishes the procedural guidelines used by Project Blue Book to index civilian close encounter statements in the 1960s.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Establishes the procedural guidelines used by Project Blue Book to index civilian close encounter statements in the 1960s.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Features an objective, detailed core summary of the Cisco Grove case file and its subsequent movement through civilian research groups.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Features an objective, detailed core summary of the Cisco Grove case file and its subsequent movement through civilian research groups.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Provides analytical tools to evaluate why cases completely lacking robust physical evidence survive for decades in cultural memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides analytical tools to evaluate why cases completely lacking robust physical evidence survive for decades in cultural memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Details the psychological vulnerabilities of solitary wilderness isolation, addressing sleep deprivation and night vision hallucinations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details the psychological vulnerabilities of solitary wilderness isolation, addressing sleep deprivation and night vision hallucinations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 3 Ultimate Edition Horror Action Figure - (NEW BOXED)"><img src="https://i.ebayimg.com/images/g/RHoAAeSwGjlofOcj/s-l225.jpg" alt="Listing image for Alien 3 Ultimate Edition Horror Action Figure - (NEW BOXED)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Alien 3 Ultimate Edition Horror Action Figure - (NEW BOXED)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 3 Ultimate Edition Horror Action Figure - (NEW BOXED)"><img src="https://i.ebayimg.com/images/g/RHoAAeSwGjlofOcj/s-l225.jpg" alt="Listing image for Alien 3 Ultimate Edition Horror Action Figure - (NEW BOXED)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Alien 3 Ultimate Edition Horror Action Figure - (NEW BOXED)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift"><img src="https://i.ebayimg.com/images/g/ob0AAOSwe2dhqm-Q/s-l225.jpg" alt="Listing image for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift"><img src="https://i.ebayimg.com/images/g/ob0AAOSwe2dhqm-Q/s-l225.jpg" alt="Listing image for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NECA Alien Hadleys Hope Carter J.Burke Xenomorph Warrior 2 Pack 7&quot; Action Figure"><img src="https://i.ebayimg.com/images/g/UU0AAeSwcYdonBc-/s-l225.jpg" alt="Listing image for NECA Alien Hadleys Hope Carter J.Burke Xenomorph Warrior 2 Pack 7&quot; Action Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" target="_blank" rel="sponsored noopener noreferrer">NECA Alien Hadleys Hope Carter J.Burke Xenomorph Warrior 2 Pack 7&quot; Action Figure</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NECA Alien Hadleys Hope Carter J.Burke Xenomorph Warrior 2 Pack 7&quot; Action Figure"><img src="https://i.ebayimg.com/images/g/UU0AAeSwcYdonBc-/s-l225.jpg" alt="Listing image for NECA Alien Hadleys Hope Carter J.Burke Xenomorph Warrior 2 Pack 7&quot; Action Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" target="_blank" rel="sponsored noopener noreferrer">NECA Alien Hadleys Hope Carter J.Burke Xenomorph Warrior 2 Pack 7&quot; Action Figure</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Mini Figure Lot with Xenomorph Figures and Accessories"><img src="https://i.ebayimg.com/images/g/xxgAAeSwSKNqKaRb/s-l225.jpg" alt="Listing image for Alien Mini Figure Lot with Xenomorph Figures and Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Mini Figure Lot with Xenomorph Figures and Accessories</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Mini Figure Lot with Xenomorph Figures and Accessories"><img src="https://i.ebayimg.com/images/g/xxgAAeSwSKNqKaRb/s-l225.jpg" alt="Listing image for Alien Mini Figure Lot with Xenomorph Figures and Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Mini Figure Lot with Xenomorph Figures and Accessories</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-really-happened-during-the-cisco-grove-ufo-sighting-alien-figure" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1040,7 +1040,7 @@ Cisco Grove is therefore best treated as a significant folklore-and-UFO-history 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1060,7 +1060,7 @@ Cisco Grove is therefore best treated as a significant folklore-and-UFO-history 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1092,7 +1092,7 @@ Cisco Grove is therefore best treated as a significant folklore-and-UFO-history 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1144,7 +1144,7 @@ Cisco Grove is therefore best treated as a significant folklore-and-UFO-history 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1189,7 +1189,7 @@ Cisco Grove is therefore best treated as a significant folklore-and-UFO-history 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1230,167 +1230,167 @@ Cisco Grove is therefore best treated as a significant folklore-and-UFO-history 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nicap.org  
    Title: UF O Report  
-   Link: <a href="https://www.nicap.org/640904ciscogrove_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/640904ciscogrove_dir.htm</a>  
+   Link:<a href="https://www.nicap.org/640904ciscogrove_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/640904ciscogrove_dir.htm</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "The Hynek UFO Report"  
-   Link: <a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: donnersummithistoricalsociety.org  
    Title: Aliens in the Forest  
-   Link: <a href="https://www.donnersummithistoricalsociety.org/pages/bookreviews/AliensintheForest.html" target="_blank" rel="noopener noreferrer nofollow">https://www.donnersummithistoricalsociety.org/pages/bookreviews/AliensintheForest.html</a>  
+   Link:<a href="https://www.donnersummithistoricalsociety.org/pages/bookreviews/AliensintheForest.html" target="_blank" rel="noopener noreferrer nofollow">https://www.donnersummithistoricalsociety.org/pages/bookreviews/AliensintheForest.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: indigo.ca  
-   Link: <a href="https://www.indigo.ca/products/aliens-in-the-forest" target="_blank" rel="noopener noreferrer nofollow">https://www.indigo.ca/products/aliens-in-the-forest</a>  
+   Link:<a href="https://www.indigo.ca/products/aliens-in-the-forest" target="_blank" rel="noopener noreferrer nofollow">https://www.indigo.ca/products/aliens-in-the-forest</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dokumen.pub  
    Title: Parallels: Ancient Insights into Modern UFO Phenomena  
-   Link: <a href="https://dokumen.pub/parallels-ancient-insights-into-modern-ufo-phenomena-0998187143-9780998187143-i-6277054.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/parallels-ancient-insights-into-modern-ufo-phenomena-0998187143-9780998187143-i-6277054.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>0998187143, 9780998187143 - DOKUMEN.PUB...</p></details>
+   Link:<a href="https://dokumen.pub/parallels-ancient-insights-into-modern-ufo-phenomena-0998187143-9780998187143-i-6277054.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/parallels-ancient-insights-into-modern-ufo-phenomena-0998187143-9780998187143-i-6277054.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>0998187143, 9780998187143 - DOKUMEN.PUB...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/publications/lists/special-list19.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/publications/lists/special-list19.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/publications/lists/special-list19.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/publications/lists/special-list19.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: obamawhitehouse.archives.gov  
    Title: big data rfi responses  
-   Link: <a href="https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/PCAST/big_data_rfi_responses.pdf" target="_blank" rel="noopener noreferrer nofollow">https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/PCAST/big_data_rfi_responses.pdf</a>  
+   Link:<a href="https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/PCAST/big_data_rfi_responses.pdf" target="_blank" rel="noopener noreferrer nofollow">https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/PCAST/big_data_rfi_responses.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gov  
    Title: 44 dl 2649 sec 002 ser 201 325 part 6 of 8  
-   Link: <a href="https://www.archives.gov/files/research/mlk/releases/2025/0721/44-dl-2649_sec_002_ser_201-325-part_6_of_8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/mlk/releases/2025/0721/44-dl-2649_sec_002_ser_201-325-part_6_of_8.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/research/mlk/releases/2025/0721/44-dl-2649_sec_002_ser_201-325-part_6_of_8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/mlk/releases/2025/0721/44-dl-2649_sec_002_ser_201-325-part_6_of_8.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/research/cartographic/special-list-43-hydrographic-office.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/cartographic/special-list-43-hydrographic-office.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/research/cartographic/special-list-43-hydrographic-office.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/cartographic/special-list-43-hydrographic-office.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: georgewbush-whitehouse.archives.gov  
    Title: gov1. Instructions  
-   Link: <a href="https://georgewbush-whitehouse.archives.gov/omb/procurement/fair/2004fair_spreadsheet.xls" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/omb/procurement/fair/2004fair_spreadsheet.xls</a>  
+   Link:<a href="https://georgewbush-whitehouse.archives.gov/omb/procurement/fair/2004fair_spreadsheet.xls" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/omb/procurement/fair/2004fair_spreadsheet.xls</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: obamawhitehouse.archives.gov  
    Title: Copyright Alliance  
-   Link: <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/IPEC/frn_comments/CopyrightAlliance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://obamawhitehouse.archives.gov/sites/default/files/omb/IPEC/frn_comments/CopyrightAlliance.pdf</a>  
+   Link:<a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/IPEC/frn_comments/CopyrightAlliance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://obamawhitehouse.archives.gov/sites/default/files/omb/IPEC/frn_comments/CopyrightAlliance.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archives.gov  
    Title: 62 sf 5481 sec 001 ser 1 100 part 3 of 5  
-   Link: <a href="https://www.archives.gov/files/research/rfk/releases/2025/0507/62-sf-5481_sec_001_ser_1-100-part_3_of_5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/rfk/releases/2025/0507/62-sf-5481_sec_001_ser_1-100-part_3_of_5.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/research/rfk/releases/2025/0507/62-sf-5481_sec_001_ser_1-100-part_3_of_5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/rfk/releases/2025/0507/62-sf-5481_sec_001_ser_1-100-part_3_of_5.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/druffel_firestorm_james_mcdonald_fight_ufo_science/druffel_firestorm_james_mcdonald_fight_ufo_science_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/druffel_firestorm_james_mcdonald_fight_ufo_science/druffel_firestorm_james_mcdonald_fight_ufo_science_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/druffel_firestorm_james_mcdonald_fight_ufo_science/druffel_firestorm_james_mcdonald_fight_ufo_science_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/druffel_firestorm_james_mcdonald_fight_ufo_science/druffel_firestorm_james_mcdonald_fight_ufo_science_djvu.txt</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/8141059915977763/posts/26429588873364922/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/8141059915977763/posts/26429588873364922/</a>  
+   Link:<a href="https://www.facebook.com/groups/8141059915977763/posts/26429588873364922/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/8141059915977763/posts/26429588873364922/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/109968836314110/posts/1597414057569573/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/109968836314110/posts/1597414057569573/</a>  
+   Link:<a href="https://www.facebook.com/groups/109968836314110/posts/1597414057569573/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/109968836314110/posts/1597414057569573/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
+   Link:<a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: oregonmufon.com  
-   Link: <a href="https://www.oregonmufon.com/index.php/books" target="_blank" rel="noopener noreferrer nofollow">https://www.oregonmufon.com/index.php/books</a>  
+   Link:<a href="https://www.oregonmufon.com/index.php/books" target="_blank" rel="noopener noreferrer nofollow">https://www.oregonmufon.com/index.php/books</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2011 research guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2011-research-guide.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: paranormal-world.fandom.com  
    Title: The Cisco Grove Incident  
-   Link: <a href="https://paranormal-world.fandom.com/wiki/The_Cisco_Grove_Incident" target="_blank" rel="noopener noreferrer nofollow">https://paranormal-world.fandom.com/wiki/The_Cisco_Grove_Incident</a>  
+   Link:<a href="https://paranormal-world.fandom.com/wiki/The_Cisco_Grove_Incident" target="_blank" rel="noopener noreferrer nofollow">https://paranormal-world.fandom.com/wiki/The_Cisco_Grove_Incident</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Mystery in Cisco Grove: Don Shrum's Encounter with UFOs, Aliens and Robots  
-   Link: <a href="https://www.youtube.com/watch?v=4yEkCSyTTxg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4yEkCSyTTxg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Disturbing Cisco Grove Incident: California&#x27;s Strangest Real Life Encounter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4yEkCSyTTxg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4yEkCSyTTxg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Disturbing Cisco Grove Incident: California&#x27;s Strangest Real Life Encounter...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: After Files: Gino Story Hour  
-   Link: <a href="https://www.youtube.com/watch?v=xpjIjQL9YGU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xpjIjQL9YGU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>అడవిలో ఏలియన్స్! The Night He Fought Aliens in Forest: Donald Shrum Cisco Grove UFO Encounter 1964...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xpjIjQL9YGU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xpjIjQL9YGU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>అడవిలో ఏలియన్స్! The Night He Fought Aliens in Forest: Donald Shrum Cisco Grove UFO Encounter 1964...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: The Disturbing Cisco Grove Incident: California's Strangest Real Life Encounter  
-   Link: <a href="https://www.youtube.com/watch?v=QUHibt2ve9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QUHibt2ve9o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>After Files: Gino Story Hour - The Cisco Grove Alien...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QUHibt2ve9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QUHibt2ve9o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>After Files: Gino Story Hour - The Cisco Grove Alien...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=F3SrSk7VNWY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F3SrSk7VNWY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Aliens Will Probably Be AI Robots...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F3SrSk7VNWY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F3SrSk7VNWY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Aliens Will Probably Be AI Robots...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/664911255/Alien-Identities" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/664911255/Alien-Identities</a>  
+   Link:<a href="https://www.scribd.com/document/664911255/Alien-Identities" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/664911255/Alien-Identities</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: theswissbay.ch  
-   Link: <a href="https://theswissbay.ch/pdf/Gentoomen%20Library/Misc/Allen.and.Unwin-The.UFO.Diaries.Travels.in.the.Weird.World.of.High.Strangeness.2011.RETAiL.EBook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theswissbay.ch/pdf/Gentoomen%20Library/Misc/Allen.and.Unwin-The.UFO.Diaries.Travels.in.the.Weird.World.of.High.Strangeness.2011.RETAiL.EBook.pdf</a>  
+   Link:<a href="https://theswissbay.ch/pdf/Gentoomen%20Library/Misc/Allen.and.Unwin-The.UFO.Diaries.Travels.in.the.Weird.World.of.High.Strangeness.2011.RETAiL.EBook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theswissbay.ch/pdf/Gentoomen%20Library/Misc/Allen.and.Unwin-The.UFO.Diaries.Travels.in.the.Weird.World.of.High.Strangeness.2011.RETAiL.EBook.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/khaleejtimes/posts/an-official-report-says-the-study-of-ufos-will-require-new-scientific-techniques/837893381330822/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/khaleejtimes/posts/an-official-report-says-the-study-of-ufos-will-require-new-scientific-techniques/837893381330822/</a>  
+   Link:<a href="https://www.facebook.com/khaleejtimes/posts/an-official-report-says-the-study-of-ufos-will-require-new-scientific-techniques/837893381330822/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/khaleejtimes/posts/an-official-report-says-the-study-of-ufos-will-require-new-scientific-techniques/837893381330822/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXNloF2ieUi/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXNloF2ieUi/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DXNloF2ieUi/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXNloF2ieUi/?hl=en</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Missing411/comments/iwoip2/m411_bow_hunter_encounter_in_tahoe_national_park/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Missing411/comments/iwoip2/m411_bow_hunter_encounter_in_tahoe_national_park/</a>
+   Link:<a href="https://www.reddit.com/r/Missing411/comments/iwoip2/m411_bow_hunter_encounter_in_tahoe_national_park/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Missing411/comments/iwoip2/m411_bow_hunter_encounter_in_tahoe_national_park/</a>

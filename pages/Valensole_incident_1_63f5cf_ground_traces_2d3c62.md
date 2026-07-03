@@ -248,14 +248,14 @@ image: /assets/images/Valensole_incident_1_63f5cf_ground_traces_2d3c62-Illustrat
 
 ## Introduction
 
-The Valensole incident remained famous largely because it was never just a story about a farmer claiming to see a strange craft. Maurice Masse’s report became important in UFO history because investigators found physical traces in the lavender field: a central hole, cross-like furrows, allegedly hardened soil, and later claims of damaged vegetation. Those traces gave the case a level of apparent material evidence uncommon in close-encounter reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/node/46692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanVALENSOLE (04) 01.07.1965VALENSOLE (04) 01.07.1965. Summary. Observation d&#x27;un engin inconnu et rencontre rapprochée; traces au sol...</span></span></span>
+The Valensole incident remained famous largely because it was never just a story about a farmer claiming to see a strange craft. Maurice Masse’s report became important in UFO history because investigators found physical traces in the lavender field: a central hole, cross-like furrows, allegedly hardened soil, and later claims of damaged vegetation. Those traces gave the case a level of apparent material evidence uncommon in close-encounter reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/node/46692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanVALENSOLE (04) 01.07.1965VALENSOLE (04) 01.07.1965. Summary. Observation d&#x27;un engin inconnu et rencontre rapprochée; traces au sol...</span></span></span>
 
 <img src="{{ "/assets/images/Valensole_incident_1_63f5cf_ground_traces_2d3c62-Illustration-1-dark.svg" | relative_url }}" alt="Ground Traces illustration 1" data-theme-src-dark="{{ "/assets/images/Valensole_incident_1_63f5cf_ground_traces_2d3c62-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Valensole_incident_1_63f5cf_ground_traces_2d3c62-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 At the same time, the physical evidence is also where the case becomes most fragile. The site was disturbed quickly, witness statements evolved over time, measurements varied between reports, and later retellings often exaggerated what the original gendarmerie records actually documented. Supporters treat Valensole as one of Europe’s strongest “trace cases”. Skeptics argue that the traces were ordinary agricultural marks later folded into an extraordinary narrative. The debate has lasted for decades because both sides can point to genuine weaknesses in the record.
 
 ## The Central Hole and the X-Shaped Marks
 
-The most consistently documented trace was a cylindrical hole found near the centre of the alleged landing site. French gendarmerie reports described a hole roughly 18 centimetres wide and about 40 centimetres deep, surrounded by shallow furrows forming a cross or X-shaped pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Rencontre_de_Valensole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rencontre de Valensole</span><span class="citation-popover-snippet">Rencontre de Valensole</span></span></span>
+The most consistently documented trace was a cylindrical hole found near the centre of the alleged landing site. French gendarmerie reports described a hole roughly 18 centimetres wide and about 40 centimetres deep, surrounded by shallow furrows forming a cross or X-shaped pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Rencontre_de_Valensole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rencontre de Valensole</span><span class="citation-popover-snippet">Rencontre de Valensole</span></span></span>
 
 That detail matters because later popular retellings often transformed the traces into elaborate “landing gear” impressions or six-legged support marks matching Masse’s description of the object. The surviving police summaries do not clearly support such dramatic patterns. Instead, they describe a relatively simple arrangement:
 
@@ -267,15 +267,15 @@ That detail matters because later popular retellings often transformed the trace
 
 </div>
 
-The gap between [the witness]({{ 'the-witness-de4755/' | relative_url }}) description and the measured traces became an important sceptical point. Masse initially described an object standing on several supports, yet investigators mainly documented a cross-shaped mark and a single hole. Critics argue this mismatch weakens the idea that the traces directly reflected a structured machine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_France" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in France</span><span class="citation-popover-snippet">UFO sightings in FranceJuly 1, 1965, Valensole, Alpes-de-Haute-Provence. An alleged UFO sighting and close encounter (Rencontre de Val...</span><span class="citation-popover-meta">Published: July 1, 1965</span></span></span>
+The gap between [the witness]({{ 'the-witness-de4755/' | relative_url }}) description and the measured traces became an important sceptical point. Masse initially described an object standing on several supports, yet investigators mainly documented a cross-shaped mark and a single hole. Critics argue this mismatch weakens the idea that the traces directly reflected a structured machine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_France" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in France</span><span class="citation-popover-snippet">UFO sightings in FranceJuly 1, 1965, Valensole, Alpes-de-Haute-Provence. An alleged UFO sighting and close encounter (Rencontre de Val...</span><span class="citation-popover-meta">Published: July 1, 1965</span></span></span>
 
-Supporters counter that agricultural terrain was uneven and partially disturbed before formal measurements began. They also note that Masse stated the object lifted away while retracting a central tube or pivot, which could theoretically correspond to the cylindrical hole. In this interpretation, the grooves represented stabilising contact points rather than full landing legs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/sjkgcx/valensole_france_ufo_incident_1965_2_alien_beings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">valensole france ufo incident 1965 2 alien beings</span><span class="citation-popover-snippet">Valensole France UFO incident, 1965 - 2 alien beings...Valensole France UFO incident, 1965 - 2 alien beings paralyze a farmer with...</span></span></span>
+Supporters counter that agricultural terrain was uneven and partially disturbed before formal measurements began. They also note that Masse stated the object lifted away while retracting a central tube or pivot, which could theoretically correspond to the cylindrical hole. In this interpretation, the grooves represented stabilising contact points rather than full landing legs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/sjkgcx/valensole_france_ufo_incident_1965_2_alien_beings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">valensole france ufo incident 1965 2 alien beings</span><span class="citation-popover-snippet">Valensole France UFO incident, 1965 - 2 alien beings...Valensole France UFO incident, 1965 - 2 alien beings paralyze a farmer with...</span></span></span>
 
 The problem is that the physical geometry was never documented with the level of precision expected in a modern forensic investigation. No detailed soil mapping, controlled excavation, or systematic casting procedure was performed. The case therefore depends heavily on photographs and written descriptions produced after contamination had already begun.
 
 ## Why the Hardened Soil Became So Important
 
-One of the most repeated elements in the Valensole story is the claim that the ground became “hard as cement”. According to Masse, the soil near the trace changed noticeably during the day after the encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/node/46692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanVALENSOLE (04) 01.07.1965VALENSOLE (04) 01.07.1965. Summary. Observation d&#x27;un engin inconnu et rencontre rapprochée; traces au sol...</span></span></span>
+One of the most repeated elements in the Valensole story is the claim that the ground became “hard as cement”. According to Masse, the soil near the trace changed noticeably during the day after the encounter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/node/46692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanVALENSOLE (04) 01.07.1965VALENSOLE (04) 01.07.1965. Summary. Observation d&#x27;un engin inconnu et rencontre rapprochée; traces au sol...</span></span></span>
 
 This claim mattered because it implied more than a mechanical impression. A simple heavy object could leave marks in soft earth, but unusual hardening suggested heat, pressure, chemical change, or some unknown physical process. UFO researchers later treated this as evidence of an energetic effect associated with the alleged craft.
 
@@ -292,13 +292,13 @@ Several complications appear in the historical record:
 
 </div>
 
-Some later accounts claimed abnormal calcium levels were found in the ground. These claims circulated widely in UFO literature, but sourcing is inconsistent and often indirect. More cautious summaries note only that unusual conditions were alleged, not conclusively demonstrated through preserved scientific documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">valensole ufo</span><span class="citation-popover-snippet">The 1965 Valensole UFO EncounterIn 1965, the Valensole UFO landed near Maurice Masse&#x27;s workplace, and two figures exited the...</span></span></span>
+Some later accounts claimed abnormal calcium levels were found in the ground. These claims circulated widely in UFO literature, but sourcing is inconsistent and often indirect. More cautious summaries note only that unusual conditions were alleged, not conclusively demonstrated through preserved scientific documentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">valensole ufo</span><span class="citation-popover-snippet">The 1965 Valensole UFO EncounterIn 1965, the Valensole UFO landed near Maurice Masse&#x27;s workplace, and two figures exited the...</span></span></span>
 
 The hardening issue illustrates a recurring pattern in Valensole research: a modest original observation became amplified through decades of retelling. Early reports describe unusual firmness. Later versions often imply near-miraculous geological alteration.
 
 ## Gendarmerie Measurements and Photographs
 
-The French gendarmerie response gave the case unusual credibility compared with many UFO reports. Officers visited the site, questioned Masse repeatedly, measured the traces, and photographed the area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/node/46692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanVALENSOLE (04) 01.07.1965VALENSOLE (04) 01.07.1965. Summary. Observation d&#x27;un engin inconnu et rencontre rapprochée; traces au sol...</span></span></span>
+The French gendarmerie response gave the case unusual credibility compared with many UFO reports. Officers visited the site, questioned Masse repeatedly, measured the traces, and photographed the area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/node/46692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanVALENSOLE (04) 01.07.1965VALENSOLE (04) 01.07.1965. Summary. Observation d&#x27;un engin inconnu et rencontre rapprochée; traces au sol...</span></span></span>
 
 This official involvement is one reason Valensole survived long after many contemporary UFO stories disappeared from public memory. Researchers could point to:
 
@@ -318,13 +318,13 @@ Yet the same official documentation also exposed inconsistencies.
 
 ### Distance Discrepancies
 
-The witness gave differing estimates of how close he came to the object. Early statements placed him farther away than later accounts. Gendarmerie measurements also differed from Masse’s own estimates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/node/46692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanVALENSOLE (04) 01.07.1965VALENSOLE (04) 01.07.1965. Summary. Observation d&#x27;un engin inconnu et rencontre rapprochée; traces au sol...</span></span></span>
+The witness gave differing estimates of how close he came to the object. Early statements placed him farther away than later accounts. Gendarmerie measurements also differed from Masse’s own estimates.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/node/46692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanVALENSOLE (04) 01.07.1965VALENSOLE (04) 01.07.1965. Summary. Observation d&#x27;un engin inconnu et rencontre rapprochée; traces au sol...</span></span></span>
 
 Those differences may seem minor, but they matter because the entire physical-evidence interpretation depends on spatial reconstruction. If the witness position changed between tellings, confidence in the exact mechanics of the encounter also weakens.
 
 ### Timing Problems
 
-The site was not immediately sealed. Word spread locally before full investigation occurred, and villagers reportedly visited the field before detailed examination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/node/46692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanVALENSOLE (04) 01.07.1965VALENSOLE (04) 01.07.1965. Summary. Observation d&#x27;un engin inconnu et rencontre rapprochée; traces au sol...</span></span></span>
+The site was not immediately sealed. Word spread locally before full investigation occurred, and villagers reportedly visited the field before detailed examination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/node/46692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanVALENSOLE (04) 01.07.1965VALENSOLE (04) 01.07.1965. Summary. Observation d&#x27;un engin inconnu et rencontre rapprochée; traces au sol...</span></span></span>
 
 That contamination issue is central to the debate. Any footprints, soil disturbances, or vegetation changes observed later could no longer be treated as pristine evidence.
 
@@ -338,7 +338,7 @@ The photographs therefore became interpretive evidence rather than conclusive ev
 
 ## Soil, Lavender, and the Contamination Problem
 
-Claims about vegetation damage became another major pillar of the Valensole legend. Later UFO literature frequently stated that lavender plants died along the departure path and that crops would not grow properly for years afterwards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">valensole ufo</span><span class="citation-popover-snippet">The 1965 Valensole UFO EncounterIn 1965, the Valensole UFO landed near Maurice Masse&#x27;s workplace, and two figures exited the...</span></span></span>
+Claims about vegetation damage became another major pillar of the Valensole legend. Later UFO literature frequently stated that lavender plants died along the departure path and that crops would not grow properly for years afterwards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">valensole ufo</span><span class="citation-popover-snippet">The 1965 Valensole UFO EncounterIn 1965, the Valensole UFO landed near Maurice Masse&#x27;s workplace, and two figures exited the...</span></span></span>
 
 These claims helped move Valensole from a simple witness encounter into the category later called a “trace case”, where physical after-effects supposedly remained measurable after the event.
 
@@ -362,7 +362,7 @@ Because no controlled baseline study existed before the incident, later claims a
 
 ### Visitor Traffic Damaged the Site
 
-By the time investigators documented the traces in detail, numerous people had reportedly walked through the area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/node/46692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanVALENSOLE (04) 01.07.1965VALENSOLE (04) 01.07.1965. Summary. Observation d&#x27;un engin inconnu et rencontre rapprochée; traces au sol...</span></span></span>
+By the time investigators documented the traces in detail, numerous people had reportedly walked through the area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/node/46692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanVALENSOLE (04) 01.07.1965VALENSOLE (04) 01.07.1965. Summary. Observation d&#x27;un engin inconnu et rencontre rapprochée; traces au sol...</span></span></span>
 
 That created major evidential problems:
 
@@ -385,13 +385,13 @@ The strongest vegetation claims mainly appeared in later UFO literature rather t
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Long-term crop sterility.
-* biochemical soil changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/reel/DX1e8uTMIvI/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">ed biochemical changes similar to exposure to intense...Read more...</span></span></span>
+* biochemical soil changes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/reel/DX1e8uTMIvI/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">ed biochemical changes similar to exposure to intense...Read more...</span></span></span>
 * persistent mineral anomalies.
 * electromagnetic effects.
 
 </div>
 
-Not all of these claims can be traced cleanly to contemporary records. Some appear to be accumulations from repeated retellings across UFO books, magazines, documentaries, and internet discussions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">valensole ufo</span><span class="citation-popover-snippet">The 1965 Valensole UFO EncounterIn 1965, the Valensole UFO landed near Maurice Masse&#x27;s workplace, and two figures exited the...</span></span></span>
+Not all of these claims can be traced cleanly to contemporary records. Some appear to be accumulations from repeated retellings across UFO books, magazines, documentaries, and internet discussions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">valensole ufo</span><span class="citation-popover-snippet">The 1965 Valensole UFO EncounterIn 1965, the Valensole UFO landed near Maurice Masse&#x27;s workplace, and two figures exited the...</span></span></span>
 
 This does not necessarily mean the original observations were false. It does mean the modern legend often contains stronger claims than the primary documentation clearly supports.
 
@@ -402,7 +402,7 @@ The physical traces generated several non-extraterrestrial [explanations]({{ 'ex
 <img src="{{ "/assets/images/Valensole_incident_1_63f5cf_ground_traces_2d3c62-Illustration-3-dark.svg" | relative_url }}" alt="Ground Traces illustration 3" data-theme-src-dark="{{ "/assets/images/Valensole_incident_1_63f5cf_ground_traces_2d3c62-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Valensole_incident_1_63f5cf_ground_traces_2d3c62-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Helicopter Landing Theory
 
-One common explanation proposed that Masse saw or heard a helicopter, possibly military, and later interpreted ordinary landing traces through the lens of growing UFO culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsUFOs are generally considered to include any perceived aerial phenomenon that cannot be immediately iden...</span></span></span>
+One common explanation proposed that Masse saw or heard a helicopter, possibly military, and later interpreted ordinary landing traces through the lens of growing UFO culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsUFOs are generally considered to include any perceived aerial phenomenon that cannot be immediately iden...</span></span></span>
 
 Supporters of this theory point to:
 
@@ -415,7 +415,7 @@ Critics argue that helicopter landings usually produce broader rotor wash effect
 
 ### Agricultural Equipment or Tank Marks
 
-Another theory suggested the traces resembled impressions from agricultural apparatus, including liquid fertiliser tanks or field equipment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Rencontre_de_Valensole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rencontre de Valensole</span><span class="citation-popover-snippet">Rencontre de Valensole</span></span></span>
+Another theory suggested the traces resembled impressions from agricultural apparatus, including liquid fertiliser tanks or field equipment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Rencontre_de_Valensole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rencontre de Valensole</span><span class="citation-popover-snippet">Rencontre de Valensole</span></span></span>
 
 This explanation benefits from the fact that the site was active farmland rather than untouched terrain. Skeptics argue that ordinary farm-related disturbances later became attached to a dramatic narrative after media attention intensified.
 
@@ -423,7 +423,7 @@ This explanation benefits from the fact that the site was active farmland rather
 
 ### Hoax and Narrative Embellishment
 
-A smaller but persistent sceptical view is that Masse embellished or partially invented the event. This theory gained attention because some details appeared only in later statements, especially the paralysis device and more elaborate humanoid descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_France" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in France</span><span class="citation-popover-snippet">UFO sightings in FranceJuly 1, 1965, Valensole, Alpes-de-Haute-Provence. An alleged UFO sighting and close encounter (Rencontre de Val...</span><span class="citation-popover-meta">Published: July 1, 1965</span></span></span>
+A smaller but persistent sceptical view is that Masse embellished or partially invented the event. This theory gained attention because some details appeared only in later statements, especially the paralysis device and more elaborate humanoid descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_France" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in France</span><span class="citation-popover-snippet">UFO sightings in FranceJuly 1, 1965, Valensole, Alpes-de-Haute-Provence. An alleged UFO sighting and close encounter (Rencontre de Val...</span><span class="citation-popover-meta">Published: July 1, 1965</span></span></span>
 
 In this reading, the physical traces were real but mundane, while the extraordinary interpretation grew over time.
 
@@ -435,7 +435,7 @@ Valensole remains important because it sits in an uncomfortable middle ground. T
 
 Several features continue to attract researchers:
 
-* Official police involvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tvi.show/close-encounters/the-1981-trans-en-provence-landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvi.show">[tvi.show]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvi.show</span><span class="citation-popover-title">the 1981 trans en provence landing</span><span class="citation-popover-snippet">The 1981 Trans-en-Provence UFO Landing29 Apr 2025 — The Trans-en-Provence UFO incident is noted for its reported physical trace evidence...</span></span></span>
+* Official police involvement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tvi.show/close-encounters/the-1981-trans-en-provence-landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvi.show">[tvi.show]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvi.show</span><span class="citation-popover-title">the 1981 trans en provence landing</span><span class="citation-popover-snippet">The 1981 Trans-en-Provence UFO Landing29 Apr 2025 — The Trans-en-Provence UFO incident is noted for its reported physical trace evidence...</span></span></span>
 * Contemporary measurements and photographs.
 * A witness widely regarded as sincere.
 * Physical marks that were at least unusual enough to merit investigation.
@@ -454,194 +454,194 @@ That tension explains why Valensole survived as one of Europe’s best-known UFO
 In practical terms, the Valensole ground evidence demonstrates how UFO cases often become strongest and weakest at the same point: the physical traces create apparent objectivity, but once those traces are incomplete, contaminated, or poorly documented, they also become the centre of endless interpretation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Valensole Traces Prove Anything?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Valensole Traces Prove Anything?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Features Vallee&#x27;s direct field notes on the Valensole site, tracking the central hole dimensions and the X-shaped furrow measurements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Features Vallee&#x27;s direct field notes on the Valensole site, tracking the central hole dimensions and the X-shaped furrow measurements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Examines why the gendarmerie records of hardened soil and damaged lavender vegetation are considered fragile due to rapid wilderness cont...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines why the gendarmerie records of hardened soil and damaged lavender vegetation are considered fragile due to rapid wilderness cont...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Catalogs the early French gendarmerie photographic records, providing a balanced baseline of the field aftermath.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Catalogs the early French gendarmerie photographic records, providing a balanced baseline of the field aftermath.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Anatomy+of+a+Phenomenon+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Anatomy of a Phenomenon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Anatomy+of+a+Phenomenon+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anatomy of a Phenomenon">Anatomy of a Phenomenon</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Anatomy+of+a+Phenomenon+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Anatomy of a Phenomenon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Anatomy+of+a+Phenomenon+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anatomy of a Phenomenon">Anatomy of a Phenomenon</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Details how early GEIPAN archives cataloged and modeled environmental soil changes following local farm notifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Anatomy+of+a+Phenomenon+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details how early GEIPAN archives cataloged and modeled environmental soil changes following local farm notifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Anatomy+of+a+Phenomenon+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Iconic Horror Movie Posters Classic Scary Film Cinema Wall Art Poster Prints"><img src="{{ '/assets/images/marketplace-covers/60e7c1c704608404b949.jpg' | relative_url }}" alt="Listing image for Iconic Horror Movie Posters Classic Scary Film Cinema Wall Art Poster Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Iconic Horror Movie Posters Classic Scary Film Cinema Wall Art Poster Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for did poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: did poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Iconic Horror Movie Posters Classic Scary Film Cinema Wall Art Poster Prints"><img src="{{ '/assets/images/marketplace-covers/60e7c1c704608404b949.jpg' | relative_url }}" alt="Listing image for Iconic Horror Movie Posters Classic Scary Film Cinema Wall Art Poster Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Iconic Horror Movie Posters Classic Scary Film Cinema Wall Art Poster Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for did poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: did poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Vintage Things We Did Didn&#x27;t Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/00a79b2365f124b0a2b5.jpg' | relative_url }}" alt="Listing image for Retro Vintage Things We Did Didn&#x27;t Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Retro Vintage Things We Did Didn&#x27;t Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for did poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: did poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Vintage Things We Did Didn&#x27;t Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/00a79b2365f124b0a2b5.jpg' | relative_url }}" alt="Listing image for Retro Vintage Things We Did Didn&#x27;t Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Retro Vintage Things We Did Didn&#x27;t Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for did poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: did poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Daddy, What Did You Do in the Great War? 1915 WWI British Poster"><img src="{{ '/assets/images/marketplace-covers/ec0e279cb53e2d93b311.jpg' | relative_url }}" alt="Listing image for Daddy, What Did You Do in the Great War? 1915 WWI British Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Daddy, What Did You Do in the Great War? 1915 WWI British Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for did poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: did poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Daddy, What Did You Do in the Great War? 1915 WWI British Poster"><img src="{{ '/assets/images/marketplace-covers/ec0e279cb53e2d93b311.jpg' | relative_url }}" alt="Listing image for Daddy, What Did You Do in the Great War? 1915 WWI British Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Daddy, What Did You Do in the Great War? 1915 WWI British Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for did poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: did poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RETRO HORROR MOVIE POSTERS CLASSIC GREATEST CINEMA ROOM PRINTS WALL ART A4 A3"><img src="{{ '/assets/images/marketplace-covers/715b3b1426ae2d6963f8.jpg' | relative_url }}" alt="Listing image for RETRO HORROR MOVIE POSTERS CLASSIC GREATEST CINEMA ROOM PRINTS WALL ART A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">RETRO HORROR MOVIE POSTERS CLASSIC GREATEST CINEMA ROOM PRINTS WALL ART A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for did poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: did poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RETRO HORROR MOVIE POSTERS CLASSIC GREATEST CINEMA ROOM PRINTS WALL ART A4 A3"><img src="{{ '/assets/images/marketplace-covers/715b3b1426ae2d6963f8.jpg' | relative_url }}" alt="Listing image for RETRO HORROR MOVIE POSTERS CLASSIC GREATEST CINEMA ROOM PRINTS WALL ART A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">RETRO HORROR MOVIE POSTERS CLASSIC GREATEST CINEMA ROOM PRINTS WALL ART A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for did poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: did poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="ground-traces-did-the-valensole-traces-prove-anything-valensole-incident-1965-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -657,7 +657,7 @@ In practical terms, the Valensole ground evidence demonstrates how UFO cases oft
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -677,7 +677,7 @@ In practical terms, the Valensole ground evidence demonstrates how UFO cases oft
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -709,7 +709,7 @@ In practical terms, the Valensole ground evidence demonstrates how UFO cases oft
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -761,7 +761,7 @@ In practical terms, the Valensole ground evidence demonstrates how UFO cases oft
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -806,7 +806,7 @@ In practical terms, the Valensole ground evidence demonstrates how UFO cases oft
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -847,106 +847,106 @@ In practical terms, the Valensole ground evidence demonstrates how UFO cases oft
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Rencontre de Valensole  
-   Link: <a href="https://fr.wikipedia.org/wiki/Rencontre_de_Valensole" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Rencontre_de_Valensole</a>  
+   Link:<a href="https://fr.wikipedia.org/wiki/Rencontre_de_Valensole" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Rencontre_de_Valensole</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
    Title: valensole france ufo incident 1965 2 alien beings  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/sjkgcx/valensole_france_ufo_incident_1965_2_alien_beings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/sjkgcx/valensole_france_ufo_incident_1965_2_alien_beings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Valensole France UFO incident, 1965 - 2 alien beings...Valensole France UFO incident, 1965 - 2 alien beings paralyze a farmer with...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/sjkgcx/valensole_france_ufo_incident_1965_2_alien_beings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/sjkgcx/valensole_france_ufo_incident_1965_2_alien_beings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Valensole France UFO incident, 1965 - 2 alien beings...Valensole France UFO incident, 1965 - 2 alien beings paralyze a farmer with...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.howstuffworks.com  
    Title: valensole ufo  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1965 Valensole UFO EncounterIn 1965, the Valensole UFO landed near Maurice Masse&#x27;s workplace, and two figures exited the...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1965 Valensole UFO EncounterIn 1965, the Valensole UFO landed near Maurice Masse&#x27;s workplace, and two figures exited the...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: headed for his lavender fields located on the plateau near the village.Read more  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/ynar1g/1965_french_ufo_case_from_valensole_with_physical/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ynar1g/1965_french_ufo_case_from_valensole_with_physical/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1965 French UFO case from Valensole with physical tracesAt Valensole on July 1, 1965, Maurice Masse, who left his home at 5:00 am...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/ynar1g/1965_french_ufo_case_from_valensole_with_physical/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ynar1g/1965_french_ufo_case_from_valensole_with_physical/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1965 French UFO case from Valensole with physical tracesAt Valensole on July 1, 1965, Maurice Masse, who left his home at 5:00 am...</p></details>
    Published: July 1, 1965  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: UFO sightings in France  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_France" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_France</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in FranceJuly 1, 1965, Valensole, Alpes-de-Haute-Provence. An alleged UFO sighting and close encounter (Rencontre de Val...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_France" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_France</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in FranceJuly 1, 1965, Valensole, Alpes-de-Haute-Provence. An alleged UFO sighting and close encounter (Rencontre de Val...</p></details>
    Published: July 1, 1965  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsUFOs are generally considered to include any perceived aerial phenomenon that cannot be immediately iden...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsUFOs are generally considered to include any perceived aerial phenomenon that cannot be immediately iden...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/46692" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/46692</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanVALENSOLE (04) 01.07.1965VALENSOLE (04) 01.07.1965. Summary. Observation d&#x27;un engin inconnu et rencontre rapprochée; traces au sol...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/en/node/46692" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/46692</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanVALENSOLE (04) 01.07.1965VALENSOLE (04) 01.07.1965. Summary. Observation d&#x27;un engin inconnu et rencontre rapprochée; traces au sol...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: silviolobo.com.br  
    Title: Valensole Incident  
-   Link: <a href="https://silviolobo.com.br/leitura/en/mysteries-xv/valensole-incident" target="_blank" rel="noopener noreferrer nofollow">https://silviolobo.com.br/leitura/en/mysteries-xv/valensole-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sílvio de Souza Lôbo Júnior14 May 2026 — The Valensole Incident, which occurred on July 1, 1965, brought a local farmer and an unidentifi...</p></details>
+   Link:<a href="https://silviolobo.com.br/leitura/en/mysteries-xv/valensole-incident" target="_blank" rel="noopener noreferrer nofollow">https://silviolobo.com.br/leitura/en/mysteries-xv/valensole-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sílvio de Souza Lôbo Júnior14 May 2026 — The Valensole Incident, which occurred on July 1, 1965, brought a local farmer and an unidentifi...</p></details>
    Published: July 1, 1965  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/tvmoviesseries.ntgroup/posts/3218853144962650/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/tvmoviesseries.ntgroup/posts/3218853144962650/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Trans-en-Provence UFO landing case in FranceNicolai immediately went to the apparent scene of the landing and observed circular marks and...</p></details>
+   Link:<a href="https://www.facebook.com/groups/tvmoviesseries.ntgroup/posts/3218853144962650/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/tvmoviesseries.ntgroup/posts/3218853144962650/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trans-en-Provence UFO landing case in FranceNicolai immediately went to the apparent scene of the landing and observed circular marks and...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: usufocenter.com  
-   Link: <a href="https://www.usufocenter.com/arc-us-ufo-center-sightings-history-references.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/arc-us-ufo-center-sightings-history-references.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects: History and FolkloreClaims of physical trace of landing UFOs, including ground impressions, burned or desicc...</p></details>
+   Link:<a href="https://www.usufocenter.com/arc-us-ufo-center-sightings-history-references.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/arc-us-ufo-center-sightings-history-references.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects: History and FolkloreClaims of physical trace of landing UFOs, including ground impressions, burned or desicc...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2031%20No.%202.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2031%20No.%202.pdf</a>  
+   Link:<a href="https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2031%20No.%202.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2031%20No.%202.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: france valensole 1965 at dawn farmer maurice masse discovers a ufo in his lavend  
-   Link: <a href="https://www.facebook.com/capcityfilmfest/posts/france-valensole-1965-at-dawn-farmer-maurice-masse-discovers-a-ufo-in-his-lavend/1170606348398500/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/capcityfilmfest/posts/france-valensole-1965-at-dawn-farmer-maurice-masse-discovers-a-ufo-in-his-lavend/1170606348398500/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>France, Valensole, 1965. At dawn, farmer Maurice Masse...At dawn, farmer Maurice Masse discovers a UFO in his lavender field that takes...</p></details>
+   Link:<a href="https://www.facebook.com/capcityfilmfest/posts/france-valensole-1965-at-dawn-farmer-maurice-masse-discovers-a-ufo-in-his-lavend/1170606348398500/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/capcityfilmfest/posts/france-valensole-1965-at-dawn-farmer-maurice-masse-discovers-a-ufo-in-his-lavend/1170606348398500/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>France, Valensole, 1965. At dawn, farmer Maurice Masse...At dawn, farmer Maurice Masse discovers a UFO in his lavender field that takes...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KRDO13/posts/the-buzz-started-in-a-hay-meadow-at-the-foot-of-a-mysterious-looking-geological-/1464064852430985/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KRDO13/posts/the-buzz-started-in-a-hay-meadow-at-the-foot-of-a-mysterious-looking-geological-/1464064852430985/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 29, 2014, when witnesses were watching the clear, moonless sky in a rural area?Read more...</p></details>
+   Link:<a href="https://www.facebook.com/KRDO13/posts/the-buzz-started-in-a-hay-meadow-at-the-foot-of-a-mysterious-looking-geological-/1464064852430985/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KRDO13/posts/the-buzz-started-in-a-hay-meadow-at-the-foot-of-a-mysterious-looking-geological-/1464064852430985/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 29, 2014, when witnesses were watching the clear, moonless sky in a rural area?Read more...</p></details>
    Published: May 29, 2014  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DObDDXRDcbf/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DObDDXRDcbf/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>French police documented everything. Soil analysis revealed unusual...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DObDDXRDcbf/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DObDDXRDcbf/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>French police documented everything. Soil analysis revealed unusual...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: No wonder that UAPs were attracted by this location  
-   Link: <a href="https://www.facebook.com/groups/238876956176484/posts/2807591965971624/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/238876956176484/posts/2807591965971624/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1965 just outside of Valensole, France, Maurice Masse, a local farmer claimed that he witnessed a UFO land in a lavender field and wat...</p></details>
+   Link:<a href="https://www.facebook.com/groups/238876956176484/posts/2807591965971624/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/238876956176484/posts/2807591965971624/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1965 just outside of Valensole, France, Maurice Masse, a local farmer claimed that he witnessed a UFO land in a lavender field and wat...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DX1e8uTMIvI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DX1e8uTMIvI/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ed biochemical changes similar to exposure to intense...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DX1e8uTMIvI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DX1e8uTMIvI/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ed biochemical changes similar to exposure to intense...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40thegaijin.wolfenstein/the-watchers-observers-monitoring-humanity-at-the-threshold-616f080846ae" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40thegaijin.wolfenstein/the-watchers-observers-monitoring-humanity-at-the-threshold-616f080846ae</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tic anomalies, and physical impressions (Rendlesham...Read more...</p></details>
+   Link:<a href="https://medium.com/%40thegaijin.wolfenstein/the-watchers-observers-monitoring-humanity-at-the-threshold-616f080846ae" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40thegaijin.wolfenstein/the-watchers-observers-monitoring-humanity-at-the-threshold-616f080846ae</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tic anomalies, and physical impressions (Rendlesham...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tvi.show  
    Title: the 1981 trans en provence landing  
-   Link: <a href="https://www.tvi.show/close-encounters/the-1981-trans-en-provence-landing" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/close-encounters/the-1981-trans-en-provence-landing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1981 Trans-en-Provence UFO Landing29 Apr 2025 — The Trans-en-Provence UFO incident is noted for its reported physical trace evidence...</p></details>
+   Link:<a href="https://www.tvi.show/close-encounters/the-1981-trans-en-provence-landing" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/close-encounters/the-1981-trans-en-provence-landing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1981 Trans-en-Provence UFO Landing29 Apr 2025 — The Trans-en-Provence UFO incident is noted for its reported physical trace evidence...</p></details>

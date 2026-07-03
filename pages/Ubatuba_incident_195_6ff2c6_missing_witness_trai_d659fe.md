@@ -242,14 +242,14 @@ image: /assets/images/Ubatuba_incident_195_6ff2c6_missing_witness_trai_d659fe-Il
 
 ## Introduction
 
-The weakest part of the 1957 Ubatuba incident is also the part that made the story famous: the alleged eyewitnesses. The case entered public view through a dramatic anonymous letter published in the Brazilian newspaper *O Globo*, claiming that a disc-shaped object exploded near a beach at Ubatuba and scattered metallic fragments into the surf. Yet no named witness ever publicly stepped forward, no verified local resident confirmed the event directly, and later investigators failed to reconstruct a reliable trail from the beach to the laboratory samples. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/237309319_On_Events_Possibly_Related_to_the_%27%27Brazil_Magnesium" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">On Events Possibly Related to the &#x27;&#x27;Brazil Magnesium</span><span class="citation-popover-snippet">June 1, 2004 — Inquiries in the Ubatuba area have yielded evidence of three aerial events that may be related to an unusual magnesium spe...</span><span class="citation-popover-meta">Published: June 1, 2004</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Peter_Sturrock/publication/237233241_Composition_Analysis_of_the_Brazil_Magnesium/links/5474a9cb0cf29afed60f8e5c/Composition-Analysis-of-the-Brazil-Magnesium.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Composition Analysis of the Brazil Magnesium</span><span class="citation-popover-snippet">Abstract—Some of the surviving fragments of the Brazil magnesium that purportedly had their origin in the explosion of a UFO have been su...</span></span></span>
+The weakest part of the 1957 Ubatuba incident is also the part that made the story famous: the alleged eyewitnesses. The case entered public view through a dramatic anonymous letter published in the Brazilian newspaper *O Globo*, claiming that a disc-shaped object exploded near a beach at Ubatuba and scattered metallic fragments into the surf. Yet no named witness ever publicly stepped forward, no verified local resident confirmed the event directly, and later investigators failed to reconstruct a reliable trail from the beach to the laboratory samples.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/237309319_On_Events_Possibly_Related_to_the_%27%27Brazil_Magnesium" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">On Events Possibly Related to the &#x27;&#x27;Brazil Magnesium</span><span class="citation-popover-snippet">June 1, 2004 — Inquiries in the Ubatuba area have yielded evidence of three aerial events that may be related to an unusual magnesium spe...</span><span class="citation-popover-meta">Published: June 1, 2004</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Peter_Sturrock/publication/237233241_Composition_Analysis_of_the_Brazil_Magnesium/links/5474a9cb0cf29afed60f8e5c/Composition-Analysis-of-the-Brazil-Magnesium.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Composition Analysis of the Brazil Magnesium</span><span class="citation-popover-snippet">Abstract—Some of the surviving fragments of the Brazil magnesium that purportedly had their origin in the explosion of a UFO have been su...</span></span></span>
 
 <img src="{{ "/assets/images/Ubatuba_incident_195_6ff2c6_missing_witness_trai_d659fe-Illustration-1-dark.svg" | relative_url }}" alt="Witness Trail illustration 1" data-theme-src-dark="{{ "/assets/images/Ubatuba_incident_195_6ff2c6_missing_witness_trai_d659fe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ubatuba_incident_195_6ff2c6_missing_witness_trai_d659fe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That missing witness trail matters because the entire interpretation of the Ubatuba fragments depends on provenance. If identifiable people really collected debris from a sudden aerial explosion, the metal samples become potentially extraordinary evidence. If the story cannot be tied to real observers, dates, or locations, the fragments become detached laboratory curiosities with no secure connection to a UFO event at all. The Ubatuba case therefore hinges less on metallurgy than on a basic historical problem: who actually saw anything near the beach, and can their story be verified?
 
 ## The *O Globo* Letter and What It Claimed
 
-The public version of the incident began on 14 September 1957 when columnist Ibrahim Sued published a reader letter in *O Globo*. According to the text later reproduced in UFO literature and technical reviews, the unnamed author said he and several companions were fishing near Ubatuba when they saw a fast-moving disc approaching the coast. Just before apparently striking the sea, the object supposedly rose sharply and exploded in flames, scattering glowing debris “like fireworks”. Some fragments allegedly fell into the water while smaller pieces landed near the beach and were collected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/237309319_On_Events_Possibly_Related_to_the_%27%27Brazil_Magnesium" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">On Events Possibly Related to the &#x27;&#x27;Brazil Magnesium</span><span class="citation-popover-snippet">June 1, 2004 — Inquiries in the Ubatuba area have yielded evidence of three aerial events that may be related to an unusual magnesium spe...</span><span class="citation-popover-meta">Published: June 1, 2004</span></span></span> [검은 기록 보관소]
+The public version of the incident began on 14 September 1957 when columnist Ibrahim Sued published a reader letter in *O Globo*. According to the text later reproduced in UFO literature and technical reviews, the unnamed author said he and several companions were fishing near Ubatuba when they saw a fast-moving disc approaching the coast. Just before apparently striking the sea, the object supposedly rose sharply and exploded in flames, scattering glowing debris “like fireworks”. Some fragments allegedly fell into the water while smaller pieces landed near the beach and were collected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/237309319_On_Events_Possibly_Related_to_the_%27%27Brazil_Magnesium" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">On Events Possibly Related to the &#x27;&#x27;Brazil Magnesium</span><span class="citation-popover-snippet">June 1, 2004 — Inquiries in the Ubatuba area have yielded evidence of three aerial events that may be related to an unusual magnesium spe...</span><span class="citation-popover-meta">Published: June 1, 2004</span></span></span> [검은 기록 보관소]
 
 Several details immediately complicated the story:
 
@@ -263,7 +263,7 @@ Several details immediately complicated the story:
 
 </div>
 
-Those omissions would become central to every later debate about the case. A dramatic daylight explosion over a populated coastline should, in theory, have produced multiple independent reports. Instead, the entire event entered the public record through a single mediated newspaper account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Peter_Sturrock/publication/237233241_Composition_Analysis_of_the_Brazil_Magnesium/links/5474a9cb0cf29afed60f8e5c/Composition-Analysis-of-the-Brazil-Magnesium.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Composition Analysis of the Brazil Magnesium</span><span class="citation-popover-snippet">Abstract—Some of the surviving fragments of the Brazil magnesium that purportedly had their origin in the explosion of a UFO have been su...</span></span></span>
+Those omissions would become central to every later debate about the case. A dramatic daylight explosion over a populated coastline should, in theory, have produced multiple independent reports. Instead, the entire event entered the public record through a single mediated newspaper account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Peter_Sturrock/publication/237233241_Composition_Analysis_of_the_Brazil_Magnesium/links/5474a9cb0cf29afed60f8e5c/Composition-Analysis-of-the-Brazil-Magnesium.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Composition Analysis of the Brazil Magnesium</span><span class="citation-popover-snippet">Abstract—Some of the surviving fragments of the Brazil magnesium that purportedly had their origin in the explosion of a UFO have been su...</span></span></span>
 
 The letter nevertheless gained importance because metallic fragments accompanied it. These samples eventually passed to physician and UFO investigator Olavo Fontes, who became the main promoter of the case within international UFO research circles. Once laboratory testing began, the anonymous beach account stopped being treated as mere folklore and became attached to physical evidence. That shift increased the stakes around witness credibility: if the witness story collapsed, the evidential meaning of the fragments would collapse with it.
 
@@ -271,9 +271,9 @@ The letter nevertheless gained importance because metallic fragments accompanied
 
 The search for witnesses was not a minor side issue. Even early UFO researchers understood that anonymous testimony severely weakened the case.
 
-Fontes and journalist João Martins reportedly travelled to the Ubatuba area attempting to identify people who had seen the explosion or handled the debris. Later summaries of their inquiries describe a frustrating result: they could not locate the original observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...Fontes and Joao Martins canvassed the beach area in the neigh...</span></span></span>
+Fontes and journalist João Martins reportedly travelled to the Ubatuba area attempting to identify people who had seen the explosion or handled the debris. Later summaries of their inquiries describe a frustrating result: they could not locate the original observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...Fontes and Joao Martins canvassed the beach area in the neigh...</span></span></span>
 
-Instead, investigators found only indirect recollections. One fisherman reportedly remembered hearing tourists discuss an unusual aerial event and display pieces of grey metallic material, but he could not identify the people involved or provide precise details. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...Fontes and Joao Martins canvassed the beach area in the neigh...</span></span></span>
+Instead, investigators found only indirect recollections. One fisherman reportedly remembered hearing tourists discuss an unusual aerial event and display pieces of grey metallic material, but he could not identify the people involved or provide precise details.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...Fontes and Joao Martins canvassed the beach area in the neigh...</span></span></span>
 
 This distinction is crucial. The fisherman was not presented as a direct witness to the explosion itself. He was a witness to rumours about witnesses.
 
@@ -309,16 +309,16 @@ The alleged event was not subtle. The story described a flaming aerial explosion
 
 </div>
 
-Technical reviews by Peter Sturrock and collaborators repeatedly acknowledged this weakness. Even researchers interested in anomalous physical evidence admitted that the provenance of the samples was uncertain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Peter_Sturrock/publication/237233241_Composition_Analysis_of_the_Brazil_Magnesium/links/5474a9cb0cf29afed60f8e5c/Composition-Analysis-of-the-Brazil-Magnesium.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Composition Analysis of the Brazil Magnesium</span><span class="citation-popover-snippet">Abstract—Some of the surviving fragments of the Brazil magnesium that purportedly had their origin in the explosion of a UFO have been su...</span></span></span>
+Technical reviews by Peter Sturrock and collaborators repeatedly acknowledged this weakness. Even researchers interested in anomalous physical evidence admitted that the provenance of the samples was uncertain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Peter_Sturrock/publication/237233241_Composition_Analysis_of_the_Brazil_Magnesium/links/5474a9cb0cf29afed60f8e5c/Composition-Analysis-of-the-Brazil-Magnesium.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Composition Analysis of the Brazil Magnesium</span><span class="citation-popover-snippet">Abstract—Some of the surviving fragments of the Brazil magnesium that purportedly had their origin in the explosion of a UFO have been su...</span></span></span>
 
 Sturrock’s later work became especially revealing because it separated two questions that popular retellings often merge together:
 
-* Was the magnesium unusual? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/237309319_On_Events_Possibly_Related_to_the_%27%27Brazil_Magnesium" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">On Events Possibly Related to the &#x27;&#x27;Brazil Magnesium</span><span class="citation-popover-snippet">June 1, 2004 — Inquiries in the Ubatuba area have yielded evidence of three aerial events that may be related to an unusual magnesium spe...</span><span class="citation-popover-meta">Published: June 1, 2004</span></span></span>
+* Was the magnesium unusual?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/237309319_On_Events_Possibly_Related_to_the_%27%27Brazil_Magnesium" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">On Events Possibly Related to the &#x27;&#x27;Brazil Magnesium</span><span class="citation-popover-snippet">June 1, 2004 — Inquiries in the Ubatuba area have yielded evidence of three aerial events that may be related to an unusual magnesium spe...</span><span class="citation-popover-meta">Published: June 1, 2004</span></span></span>
 * Did it truly come from a UFO explosion near Ubatuba?
 
-His reviews suggested that unusual metallurgical findings alone could not answer the second question. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Peter_Sturrock/publication/237233241_Composition_Analysis_of_the_Brazil_Magnesium/links/5474a9cb0cf29afed60f8e5c/Composition-Analysis-of-the-Brazil-Magnesium.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Composition Analysis of the Brazil Magnesium</span><span class="citation-popover-snippet">Abstract—Some of the surviving fragments of the Brazil magnesium that purportedly had their origin in the explosion of a UFO have been su...</span></span></span>
+His reviews suggested that unusual metallurgical findings alone could not answer the second question.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Peter_Sturrock/publication/237233241_Composition_Analysis_of_the_Brazil_Magnesium/links/5474a9cb0cf29afed60f8e5c/Composition-Analysis-of-the-Brazil-Magnesium.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Composition Analysis of the Brazil Magnesium</span><span class="citation-popover-snippet">Abstract—Some of the surviving fragments of the Brazil magnesium that purportedly had their origin in the explosion of a UFO have been su...</span></span></span>
 
-Inquiries in the region even uncovered reports of other aerial incidents around the same period, including aircraft accidents and possible meteor events, further muddying attempts to connect any remembered explosion specifically to the famous UFO story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Peter_Sturrock/publication/237233241_Composition_Analysis_of_the_Brazil_Magnesium/links/5474a9cb0cf29afed60f8e5c/Composition-Analysis-of-the-Brazil-Magnesium.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Composition Analysis of the Brazil Magnesium</span><span class="citation-popover-snippet">Abstract—Some of the surviving fragments of the Brazil magnesium that purportedly had their origin in the explosion of a UFO have been su...</span></span></span>
+Inquiries in the region even uncovered reports of other aerial incidents around the same period, including aircraft accidents and possible meteor events, further muddying attempts to connect any remembered explosion specifically to the famous UFO story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Peter_Sturrock/publication/237233241_Composition_Analysis_of_the_Brazil_Magnesium/links/5474a9cb0cf29afed60f8e5c/Composition-Analysis-of-the-Brazil-Magnesium.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Composition Analysis of the Brazil Magnesium</span><span class="citation-popover-snippet">Abstract—Some of the surviving fragments of the Brazil magnesium that purportedly had their origin in the explosion of a UFO have been su...</span></span></span>
 
 That ambiguity matters because memory contamination becomes more likely when investigators arrive months or years after an alleged spectacle. Once newspaper stories circulate, local recollections can begin blending independent incidents together.
 
@@ -339,9 +339,9 @@ A metal fragment in isolation proves only that a metal fragment exists. To becom
 
 </div>
 
-In criminal investigations, archaeology, and accident reconstruction, this is known as chain of custody. Once the early custody trail becomes uncertain, later scientific analysis loses interpretive power because the origin of the sample cannot be trusted. The Ubatuba fragments suffer from precisely this problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe New Science of Unidentified Aerospace-Undersea...The Collaboration&#x27;s strategy is designed to maintain the quality of raw data...</span></span></span>
+In criminal investigations, archaeology, and accident reconstruction, this is known as chain of custody. Once the early custody trail becomes uncertain, later scientific analysis loses interpretive power because the origin of the sample cannot be trusted. The Ubatuba fragments suffer from precisely this problem.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe New Science of Unidentified Aerospace-Undersea...The Collaboration&#x27;s strategy is designed to maintain the quality of raw data...</span></span></span>
 
-Even authors broadly sympathetic to UFO investigations have conceded this limitation. The fragments can be traced reasonably well after reaching Fontes and later researchers, but the crucial first link — from beach recovery to newspaper columnist — remains opaque. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Peter_Sturrock/publication/237233241_Composition_Analysis_of_the_Brazil_Magnesium/links/5474a9cb0cf29afed60f8e5c/Composition-Analysis-of-the-Brazil-Magnesium.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Composition Analysis of the Brazil Magnesium</span><span class="citation-popover-snippet">Abstract—Some of the surviving fragments of the Brazil magnesium that purportedly had their origin in the explosion of a UFO have been su...</span></span></span>
+Even authors broadly sympathetic to UFO investigations have conceded this limitation. The fragments can be traced reasonably well after reaching Fontes and later researchers, but the crucial first link — from beach recovery to newspaper columnist — remains opaque.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Peter_Sturrock/publication/237233241_Composition_Analysis_of_the_Brazil_Magnesium/links/5474a9cb0cf29afed60f8e5c/Composition-Analysis-of-the-Brazil-Magnesium.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Composition Analysis of the Brazil Magnesium</span><span class="citation-popover-snippet">Abstract—Some of the surviving fragments of the Brazil magnesium that purportedly had their origin in the explosion of a UFO have been su...</span></span></span>
 
 Critics such as Kevin Randle have therefore argued that the witness problem is not secondary but fatal to the stronger extraterrestrial interpretation. The issue is not whether magnesium samples existed; it is whether there is reliable evidence tying those samples to the dramatic event described in the letter.
 
@@ -349,7 +349,7 @@ Critics such as Kevin Randle have therefore argued that the witness problem is n
 
 ## The “Tourists” Problem
 
-One subtle but important feature of the witness trail is the repeated suggestion that the original observers were tourists rather than local residents. According to later accounts, fishermen in the area remembered outsiders discussing the incident and showing metallic pieces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...Fontes and Joao Martins canvassed the beach area in the neigh...</span></span></span>
+One subtle but important feature of the witness trail is the repeated suggestion that the original observers were tourists rather than local residents. According to later accounts, fishermen in the area remembered outsiders discussing the incident and showing metallic pieces.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...Fontes and Joao Martins canvassed the beach area in the neigh...</span></span></span>
 
 That detail created a practical dead end for investigators.
 
@@ -388,7 +388,7 @@ Over time, serious discussion of the case moved away from eyewitness reliability
 
 </div>
 
-Yet the unresolved witness trail never disappeared. Every technical paper discussing the fragments had to acknowledge uncertainty about origin and provenance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Peter_Sturrock/publication/237233241_Composition_Analysis_of_the_Brazil_Magnesium/links/5474a9cb0cf29afed60f8e5c/Composition-Analysis-of-the-Brazil-Magnesium.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Composition Analysis of the Brazil Magnesium</span><span class="citation-popover-snippet">Abstract—Some of the surviving fragments of the Brazil magnesium that purportedly had their origin in the explosion of a UFO have been su...</span></span></span>
+Yet the unresolved witness trail never disappeared. Every technical paper discussing the fragments had to acknowledge uncertainty about origin and provenance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Peter_Sturrock/publication/237233241_Composition_Analysis_of_the_Brazil_Magnesium/links/5474a9cb0cf29afed60f8e5c/Composition-Analysis-of-the-Brazil-Magnesium.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Composition Analysis of the Brazil Magnesium</span><span class="citation-popover-snippet">Abstract—Some of the surviving fragments of the Brazil magnesium that purportedly had their origin in the explosion of a UFO have been su...</span></span></span>
 
 This creates a paradox at the heart of the Ubatuba dossier:
 
@@ -402,194 +402,194 @@ That circular dependency explains why the Ubatuba incident remains controversial
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v4HWxOel7zw" title="UFO Crash Debris! (Art&#x27;s Parts) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v4HWxOel7zw" target="_blank" rel="noopener noreferrer">UFO Crash Debris! (Art&#x27;s Parts) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 11.1K &middot; Uploaded: May 2022 &middot; Length: 1 hour 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v4HWxOel7zw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v4HWxOel7zw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Really Saw the Ubatuba Explosion?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Really Saw the Ubatuba Explosion?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches field audit skills to identify why a case completely fails when it cannot be tied to specific individuals, dates, or addresses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches field audit skills to identify why a case completely fails when it cannot be tied to specific individuals, dates, or addresses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Reviews the complete 14 September 1957 newspaper record trail, tracking why subsequent coastal searches failed to turn up local confirmat...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reviews the complete 14 September 1957 newspaper record trail, tracking why subsequent coastal searches failed to turn up local confirmat...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Addresses why dramatic claims of exploding discs scattering glowing debris require open, verifiable witness trails before gaining scienti...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses why dramatic claims of exploding discs scattering glowing debris require open, verifiable witness trails before gaining scienti...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Logan%27s+Run+by+William+F.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Logan&#x27;s Run on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Logan%27s+Run+by+William+F.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Logan&#x27;s Run">Logan&#x27;s Run</a>
-        </h4>
-        <p class="fr-book-author">By William F. Nolan, George Clayton Johnson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Logan%27s+Run+by+William+F.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Logan&#x27;s Run on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Logan%27s+Run+by+William+F.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Logan&#x27;s Run">Logan&#x27;s Run</a>
+</h4>
+<p class="fr-book-author">By William F. Nolan, George Clayton Johnson</p>
         
-        <p class="fr-book-desc">Outlines the Condon project&#x27;s attempt to trace a secure chain of custody from the Ubatuba fishing beach to American research labs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Logan%27s+Run+by+William+F.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Outlines the Condon project&#x27;s attempt to trace a secure chain of custody from the Ubatuba fishing beach to American research labs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Logan%27s+Run+by+William+F.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/ao8AAeSw0HJp1S2n/s-l225.jpg" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/ao8AAeSw0HJp1S2n/s-l225.jpg" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Watercolor Alien/UFO Art Fr Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/vTwAAeSw-2ppy~rQ/s-l225.jpg" alt="Listing image for Roswell Watercolor Alien/UFO Art Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell Watercolor Alien/UFO Art Fr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Watercolor Alien/UFO Art Fr Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/vTwAAeSw-2ppy~rQ/s-l225.jpg" alt="Listing image for Roswell Watercolor Alien/UFO Art Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell Watercolor Alien/UFO Art Fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster"><img src="https://i.ebayimg.com/images/g/T1AAAeSwtiBptWKN/s-l225.jpg" alt="Listing image for Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster"><img src="https://i.ebayimg.com/images/g/T1AAAeSwtiBptWKN/s-l225.jpg" alt="Listing image for Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/Q1kAAeSw6Sxp1S37/s-l225.jpg" alt="Listing image for UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/Q1kAAeSw6Sxp1S37/s-l225.jpg" alt="Listing image for UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-saw-the-ubatuba-explosion-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="who-really-saw-the-ubatuba-explosion-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -605,7 +605,7 @@ That circular dependency explains why the Ubatuba incident remains controversial
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -625,7 +625,7 @@ That circular dependency explains why the Ubatuba incident remains controversial
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -657,7 +657,7 @@ That circular dependency explains why the Ubatuba incident remains controversial
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -709,7 +709,7 @@ That circular dependency explains why the Ubatuba incident remains controversial
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -754,7 +754,7 @@ That circular dependency explains why the Ubatuba incident remains controversial
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -795,87 +795,87 @@ That circular dependency explains why the Ubatuba incident remains controversial
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
    Title: On Events Possibly Related to the ''Brazil Magnesium  
-   Link: <a href="https://www.researchgate.net/publication/237309319_On_Events_Possibly_Related_to_the_%27%27Brazil_Magnesium" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237309319_On_Events_Possibly_Related_to_the_%27%27Brazil_Magnesium</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 1, 2004 — Inquiries in the Ubatuba area have yielded evidence of three aerial events that may be related to an unusual magnesium spe...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/237309319_On_Events_Possibly_Related_to_the_%27%27Brazil_Magnesium" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237309319_On_Events_Possibly_Related_to_the_%27%27Brazil_Magnesium</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 1, 2004 — Inquiries in the Ubatuba area have yielded evidence of three aerial events that may be related to an unusual magnesium spe...</p></details>
    Published: June 1, 2004  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Composition Analysis of the Brazil Magnesium  
-   Link: <a href="https://www.researchgate.net/profile/Peter_Sturrock/publication/237233241_Composition_Analysis_of_the_Brazil_Magnesium/links/5474a9cb0cf29afed60f8e5c/Composition-Analysis-of-the-Brazil-Magnesium.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Peter_Sturrock/publication/237233241_Composition_Analysis_of_the_Brazil_Magnesium/links/5474a9cb0cf29afed60f8e5c/Composition-Analysis-of-the-Brazil-Magnesium.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract—Some of the surviving fragments of the Brazil magnesium that purportedly had their origin in the explosion of a UFO have been su...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/Peter_Sturrock/publication/237233241_Composition_Analysis_of_the_Brazil_Magnesium/links/5474a9cb0cf29afed60f8e5c/Composition-Analysis-of-the-Brazil-Magnesium.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Peter_Sturrock/publication/237233241_Composition_Analysis_of_the_Brazil_Magnesium/links/5474a9cb0cf29afed60f8e5c/Composition-Analysis-of-the-Brazil-Magnesium.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract—Some of the surviving fragments of the Brazil magnesium that purportedly had their origin in the explosion of a UFO have been su...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...Fontes and Joao Martins canvassed the beach area in the neigh...</p></details>
+   Link:<a href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...Fontes and Joao Martins canvassed the beach area in the neigh...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: theblackarchive.net  
-   Link: <a href="https://theblackarchive.net/en/case/14" target="_blank" rel="noopener noreferrer nofollow">https://theblackarchive.net/en/case/14</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1957 Ubatuba UFO Explosion Incident — CASE FILE 014 | The...In September 1957, an eyewitness account of a flying saucer exploding ov...</p></details>
+   Link:<a href="https://theblackarchive.net/en/case/14" target="_blank" rel="noopener noreferrer nofollow">https://theblackarchive.net/en/case/14</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1957 Ubatuba UFO Explosion Incident — CASE FILE 014 | The...In September 1957, an eyewitness account of a flying saucer exploding ov...</p></details>
    Published: September 1957  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/PDFs/JUFOS/1992_NS_vol4_JUFOS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/JUFOS/1992_NS_vol4_JUFOS.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JOURNAL OF UFOAnalysis of Alleged Fragments from an Exploding UFO near Ubatuba, Brazil. An Introduction.. Michael D Swords. 1. Further...</p></details>
+   Link:<a href="https://cufos.org/PDFs/JUFOS/1992_NS_vol4_JUFOS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/JUFOS/1992_NS_vol4_JUFOS.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JOURNAL OF UFOAnalysis of Alleged Fragments from an Exploding UFO near Ubatuba, Brazil. An Introduction.. Michael D Swords. 1. Further...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: threshold of the visible the latest issue of notebook magazine is organized on t  
-   Link: <a href="https://www.facebook.com/mubi/posts/threshold-of-the-visible-the-latest-issue-of-notebook-magazine-is-organized-on-t/1203386201814771/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mubi/posts/threshold-of-the-visible-the-latest-issue-of-notebook-magazine-is-organized-on-t/1203386201814771/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUBIIn 1977, Peter Sturrock, a professor of space science and astrophysics at Stanford University, mailed 2,611 questionnaires about UFO...</p></details>
+   Link:<a href="https://www.facebook.com/mubi/posts/threshold-of-the-visible-the-latest-issue-of-notebook-magazine-is-organized-on-t/1203386201814771/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mubi/posts/threshold-of-the-visible-the-latest-issue-of-notebook-magazine-is-organized-on-t/1203386201814771/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MUBIIn 1977, Peter Sturrock, a professor of space science and astrophysics at Stanford University, mailed 2,611 questionnaires about UFO...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: downey-n1.cs.northwestern.edu  
    Title: edubiennials verplank tsukino biysk woode nunnery icici gavar  
-   Link: <a href="https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt" target="_blank" rel="noopener noreferrer nofollow">https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>chain soue egba pastner abdyl godefroot dujon igwebuike hurtubise mathewson... kevin cassandra squaw cossart nikola squat nikole cicigno...</p></details>
+   Link:<a href="https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt" target="_blank" rel="noopener noreferrer nofollow">https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chain soue egba pastner abdyl godefroot dujon igwebuike hurtubise mathewson... kevin cassandra squaw cossart nikola squat nikole cicigno...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: thinkaboutitdocs.com  
-   Link: <a href="https://thinkaboutitdocs.com/1957-a-report-on-the-investigation-of-a-ufo-explosion-over-the-sea-in-brazil/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/1957-a-report-on-the-investigation-of-a-ufo-explosion-over-the-sea-in-brazil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1957: A Report on the Investigation of a UFO Explosion...8 Apr 2013 — The identity of the witnesses to the original incident remains unk...</p></details>
+   Link:<a href="https://thinkaboutitdocs.com/1957-a-report-on-the-investigation-of-a-ufo-explosion-over-the-sea-in-brazil/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/1957-a-report-on-the-investigation-of-a-ufo-explosion-over-the-sea-in-brazil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1957: A Report on the Investigation of a UFO Explosion...8 Apr 2013 — The identity of the witnesses to the original incident remains unk...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/inform4EP/posts/was-there-a-ufo-crash-near-el-indio-tx-back-in-the-1950s-by-jose-g-landa-in-1984/1211875520867969/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/inform4EP/posts/was-there-a-ufo-crash-near-el-indio-tx-back-in-the-1950s-by-jose-g-landa-in-1984/1211875520867969/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Was there a UFO Crash Near El Indio Tx Back in the 1950s...In 1991, Kevin Randle and Donald Schmitt published UFO Crash at Roswell...</p></details>
+   Link:<a href="https://www.facebook.com/inform4EP/posts/was-there-a-ufo-crash-near-el-indio-tx-back-in-the-1950s-by-jose-g-landa-in-1984/1211875520867969/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/inform4EP/posts/was-there-a-ufo-crash-near-el-indio-tx-back-in-the-1950s-by-jose-g-landa-in-1984/1211875520867969/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Was there a UFO Crash Near El Indio Tx Back in the 1950s...In 1991, Kevin Randle and Donald Schmitt published UFO Crash at Roswell...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/32099249/Table_of_Contents_Part_2" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/32099249/Table_of_Contents_Part_2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 26, 1963, p. 2), the most vociferous public comments on the choice of Doxiadis to prepare the plan considered it to be an insult...</p></details>
+   Link:<a href="https://www.academia.edu/32099249/Table_of_Contents_Part_2" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/32099249/Table_of_Contents_Part_2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 26, 1963, p. 2), the most vociferous public comments on the choice of Doxiadis to prepare the plan considered it to be an insult...</p></details>
    Published: October 26, 1963  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/Johannite/posts/10159086313900590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Johannite/posts/10159086313900590/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>g to analyze possible ET craft fragments was truly...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/Johannite/posts/10159086313900590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Johannite/posts/10159086313900590/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>g to analyze possible ET craft fragments was truly...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: linguateca.pt  
-   Link: <a href="https://www.linguateca.pt/dispara/CorTrad/unidades/formas.cortrad_jorn_tradf.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.linguateca.pt/dispara/CorTrad/unidades/formas.cortrad_jorn_tradf.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ine 42 Leite 42 kidney 42 joint 42 issues 42...Read more...</p></details>
+   Link:<a href="https://www.linguateca.pt/dispara/CorTrad/unidades/formas.cortrad_jorn_tradf.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.linguateca.pt/dispara/CorTrad/unidades/formas.cortrad_jorn_tradf.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ine 42 Leite 42 kidney 42 joint 42 issues 42...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scribd.com  
    Title: Anomaly(A Scientific Exploration of the UFO Phenomenon)O n  
-   Link: <a href="https://www.scribd.com/document/738170551/Anomaly-A-Scientific-Exploration-of-the-UFO-Phenomenon-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/738170551/Anomaly-A-Scientific-Exploration-of-the-UFO-Phenomenon-2022</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>journalist Ibrahim Sued, a columnist for the Rio de Janeiro newspaper. O Globo. Carefully...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/738170551/Anomaly-A-Scientific-Exploration-of-the-UFO-Phenomenon-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/738170551/Anomaly-A-Scientific-Exploration-of-the-UFO-Phenomenon-2022</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>journalist Ibrahim Sued, a columnist for the Rio de Janeiro newspaper. O Globo. Carefully...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dokumen.pub  
    Title: p. cm. Includes bibliographical references and index.Read more  
-   Link: <a href="https://dokumen.pub/the-lure-of-the-edge-scientific-passions-religious-beliefs-and-the-pursuit-of-ufos-9780520930278.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-lure-of-the-edge-scientific-passions-religious-beliefs-and-the-pursuit-of-ufos-9780520930278.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lure of the Edge: Scientific Passions, Religious Beliefs...The lure of the edge: scientific passions, religious beliefs, and the pur...</p></details>
+   Link:<a href="https://dokumen.pub/the-lure-of-the-edge-scientific-passions-religious-beliefs-and-the-pursuit-of-ufos-9780520930278.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-lure-of-the-edge-scientific-passions-religious-beliefs-and-the-pursuit-of-ufos-9780520930278.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Lure of the Edge: Scientific Passions, Religious Beliefs...The lure of the edge: scientific passions, religious beliefs, and the pur...</p></details>

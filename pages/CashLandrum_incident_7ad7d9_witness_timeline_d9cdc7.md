@@ -242,53 +242,53 @@ image: /assets/images/CashLandrum_incident_7ad7d9_witness_timeline_d9cdc7-Illust
 
 ## Introduction
 
-The Cash/Landrum incident stands or falls on the reliability of three interconnected claims: where Betty Cash, Vickie Landrum and seven-year-old Colby Landrum were on the night of 29 December 1980, what they said they saw on FM 1485, and whether their timeline remained stable over time. Every later argument about helicopters, radiation, illness, military secrecy or UFOs depends on that sequence holding together. The witnesses consistently described a frightening roadside encounter involving a bright diamond-shaped object, extreme heat and multiple helicopters, but investigators and sceptics later argued that important details shifted or could not be independently fixed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The Cash/Landrum incident stands or falls on the reliability of three interconnected claims: where Betty Cash, Vickie Landrum and seven-year-old Colby Landrum were on the night of 29 December 1980, what they said they saw on FM 1485, and whether their timeline remained stable over time. Every later argument about helicopters, radiation, illness, military secrecy or UFOs depends on that sequence holding together. The witnesses consistently described a frightening roadside encounter involving a bright diamond-shaped object, extreme heat and multiple helicopters, but investigators and sceptics later argued that important details shifted or could not be independently fixed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 <img src="{{ "/assets/images/CashLandrum_incident_7ad7d9_witness_timeline_d9cdc7-Illustration-1-dark.svg" | relative_url }}" alt="Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/CashLandrum_incident_7ad7d9_witness_timeline_d9cdc7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/CashLandrum_incident_7ad7d9_witness_timeline_d9cdc7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes the case unusually difficult is that the broad outline stayed remarkably consistent for years, while many of the specific details remained disputed. The trio agreed on the route, the fear, the heat and the helicopters. Yet questions persisted about the precise location, the exact timing, the number and type of aircraft, and even whether the object’s shape was clearly visible at the moment of the encounter. Those unresolved points became central not only to UFO debates but also to the failed federal lawsuit that followed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_Farm_to_Market_Roads_in_Texas_%281400%E2%80%931499%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of Farm to Market Roads in Texas (1400–1499</span><span class="citation-popover-snippet">List of Farm to Market Roads in Texas (1400–1499</span></span></span>
+What makes the case unusually difficult is that the broad outline stayed remarkably consistent for years, while many of the specific details remained disputed. The trio agreed on the route, the fear, the heat and the helicopters. Yet questions persisted about the precise location, the exact timing, the number and type of aircraft, and even whether the object’s shape was clearly visible at the moment of the encounter. Those unresolved points became central not only to UFO debates but also to the failed federal lawsuit that followed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_Farm_to_Market_Roads_in_Texas_%281400%E2%80%931499%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of Farm to Market Roads in Texas (1400–1499</span><span class="citation-popover-snippet">List of Farm to Market Roads in Texas (1400–1499</span></span></span>
 
 ## The route, restaurant stop, and reported time window
 
-The witnesses said they had spent the evening travelling in the rural north-east Houston area before driving towards Dayton, Texas. According to later retellings and the Bergstrom Air Force Base interview transcript, they had attempted to attend bingo, stopped at a restaurant near the junction of Highway 59 and FM 1485, and then continued along the dark two-lane roads linking New Caney, Huffman and Dayton. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
+The witnesses said they had spent the evening travelling in the rural north-east Houston area before driving towards Dayton, Texas. According to later retellings and the Bergstrom Air Force Base interview transcript, they had attempted to attend bingo, stopped at a restaurant near the junction of Highway 59 and FM 1485, and then continued along the dark two-lane roads linking New Caney, Huffman and Dayton.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
 
-The estimated encounter window is usually placed between about 9.00 pm and 9.30 pm. The timing matters because later investigators tried to compare the account against military flight records, civilian helicopter activity, weather conditions and witness corroboration. None of those comparisons produced a definitive match. The uncertainty was made worse because the witnesses were reconstructing the route after an emotionally intense event rather than documenting it in real time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
+The estimated encounter window is usually placed between about 9.00 pm and 9.30 pm. The timing matters because later investigators tried to compare the account against military flight records, civilian helicopter activity, weather conditions and witness corroboration. None of those comparisons produced a definitive match. The uncertainty was made worse because the witnesses were reconstructing the route after an emotionally intense event rather than documenting it in real time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-Most reconstructions place the core encounter somewhere along the FM 1485 and FM 2100 corridor in wooded countryside south of the Inland Road area. The route itself was plausible. FM 1485 was, and remains, a lightly developed road cutting through sparsely populated sections of Montgomery and Harris counties before connecting towards Huffman and Dayton. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_Farm_to_Market_Roads_in_Texas_%281400%E2%80%931499%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of Farm to Market Roads in Texas (1400–1499</span><span class="citation-popover-snippet">List of Farm to Market Roads in Texas (1400–1499</span></span></span>
+Most reconstructions place the core encounter somewhere along the FM 1485 and FM 2100 corridor in wooded countryside south of the Inland Road area. The route itself was plausible. FM 1485 was, and remains, a lightly developed road cutting through sparsely populated sections of Montgomery and Harris counties before connecting towards Huffman and Dayton.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_Farm_to_Market_Roads_in_Texas_%281400%E2%80%931499%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of Farm to Market Roads in Texas (1400–1499</span><span class="citation-popover-snippet">List of Farm to Market Roads in Texas (1400–1499</span></span></span>
 
-The witnesses described first noticing a distant light above the trees, initially assuming it was an ordinary aircraft approaching Houston Intercontinental Airport. Only later, after continuing along winding rural roads, did they conclude the light was unusually low, bright and stationary. That gradual escalation is one reason some researchers considered the account psychologically credible: the story did not begin with an immediate declaration of “a UFO”, but with uncertainty and reinterpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
+The witnesses described first noticing a distant light above the trees, initially assuming it was an ordinary aircraft approaching Houston Intercontinental Airport. Only later, after continuing along winding rural roads, did they conclude the light was unusually low, bright and stationary. That gradual escalation is one reason some researchers considered the account psychologically credible: the story did not begin with an immediate declaration of “a UFO”, but with uncertainty and reinterpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
 
-At the same time, sceptics pointed out that the timeline was reconstructed months later and filtered through repeated interviews, television appearances and UFO-investigator involvement. By the time formal Air Force interviews took place in August 1981, the story had already become nationally known within UFO circles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
+At the same time, sceptics pointed out that the timeline was reconstructed months later and filtered through repeated interviews, television appearances and UFO-investigator involvement. By the time formal Air Force interviews took place in August 1981, the story had already become nationally known within UFO circles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UzoOTCOUMKA" title="SHOCKING - THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY |" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer">SHOCKING - THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY |</a></p><p class="youtube-embed-meta">Channel: Amaze World &middot; Views: 10.3K &middot; Uploaded: January 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UzoOTCOUMKA">Open on YouTube</a></p></div></div></div>
 
 ## The diamond-shaped object, heat, fear, and helicopters
 
-The central event began when the object allegedly descended or hovered low enough to block the road ahead. The witnesses described it as diamond-shaped or vertically elongated, glowing intensely and periodically blasting flames downward from its underside. According to their account, the heat became so severe that they feared the car would ignite. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
+The central event began when the object allegedly descended or hovered low enough to block the road ahead. The witnesses described it as diamond-shaped or vertically elongated, glowing intensely and periodically blasting flames downward from its underside. According to their account, the heat became so severe that they feared the car would ignite.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
 
-Betty Cash’s role in the story was always distinct from that of the Landrums. She reportedly exited the vehicle and stood outside longer, allegedly exposing herself more directly to the heat. This later became important because Cash also claimed the most severe medical effects. Vickie Landrum largely stayed near the vehicle with Colby, who was said to be terrified throughout the encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
+Betty Cash’s role in the story was always distinct from that of the Landrums. She reportedly exited the vehicle and stood outside longer, allegedly exposing herself more directly to the heat. This later became important because Cash also claimed the most severe medical effects. Vickie Landrum largely stayed near the vehicle with Colby, who was said to be terrified throughout the encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
 
-One of the most repeated details concerns the emotional state inside the car. Vickie Landrum, described as deeply religious, reportedly tried to calm Colby by telling him the object might be associated with Jesus or the Second Coming. Believers often cite this as evidence of spontaneous human panic rather than rehearsed storytelling. Critics interpret it differently: as an example of frightened witnesses interpreting a confusing stimulus through personal beliefs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
+One of the most repeated details concerns the emotional state inside the car. Vickie Landrum, described as deeply religious, reportedly tried to calm Colby by telling him the object might be associated with Jesus or the Second Coming. Believers often cite this as evidence of spontaneous human panic rather than rehearsed storytelling. Critics interpret it differently: as an example of frightened witnesses interpreting a confusing stimulus through personal beliefs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
 
-The heat claims are among the strongest sensory elements in the testimony. The witnesses said the metal of the car became too hot to touch directly, that the dashboard softened, and that the object emitted repeated bursts of flame. These details gave the story physical texture and distinguished it from distant-light sightings. However, no independently verified physical evidence from the car ever conclusively established exposure to extraordinary heat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
+The heat claims are among the strongest sensory elements in the testimony. The witnesses said the metal of the car became too hot to touch directly, that the dashboard softened, and that the object emitted repeated bursts of flame. These details gave the story physical texture and distinguished it from distant-light sightings. However, no independently verified physical evidence from the car ever conclusively established exposure to extraordinary heat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
 
-The helicopter claims transformed the incident from a possible misidentification case into an alleged military-linked encounter. The witnesses said that after the object rose above the trees, numerous helicopters appeared around it or behind it. Betty Cash later estimated that there were twenty-three helicopters, several supposedly resembling CH-47 Chinooks with tandem rotors. She also claimed to have seen “United States Air Force” markings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
+The helicopter claims transformed the incident from a possible misidentification case into an alleged military-linked encounter. The witnesses said that after the object rose above the trees, numerous helicopters appeared around it or behind it. Betty Cash later estimated that there were twenty-three helicopters, several supposedly resembling CH-47 Chinooks with tandem rotors. She also claimed to have seen “United States Air Force” markings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
 
-That detail immediately created problems. The CH-47 Chinook is primarily an Army aircraft rather than an Air Force platform. Investigators spent years attempting to determine whether any military units were operating large helicopter formations in the area that night. No confirmed flight operation matching the witnesses’ description was ever documented publicly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
+That detail immediately created problems. The CH-47 Chinook is primarily an Army aircraft rather than an Air Force platform. Investigators spent years attempting to determine whether any military units were operating large helicopter formations in the area that night. No confirmed flight operation matching the witnesses’ description was ever documented publicly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
 
-Still, the helicopter element did receive limited partial corroboration. In 1982, a Dayton police officer and his wife reported seeing a group of Chinook-type helicopters in roughly the same region on the same night, although they did not report a UFO. Supporters argue this strengthens the witnesses’ broader account. Sceptics counter that helicopters in the region do not prove the existence of an anomalous craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
+Still, the helicopter element did receive limited partial corroboration. In 1982, a Dayton police officer and his wife reported seeing a group of Chinook-type helicopters in roughly the same region on the same night, although they did not report a UFO. Supporters argue this strengthens the witnesses’ broader account. Sceptics counter that helicopters in the region do not prove the existence of an anomalous craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
 
 <img src="{{ "/assets/images/CashLandrum_incident_7ad7d9_witness_timeline_d9cdc7-Illustration-2-dark.svg" | relative_url }}" alt="Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/CashLandrum_incident_7ad7d9_witness_timeline_d9cdc7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/CashLandrum_incident_7ad7d9_witness_timeline_d9cdc7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the exact roadside location remains disputed
 
-The most persistent weakness in the witness timeline is geographical precision. Although the general FM 1485 corridor remained constant, investigators never established a universally accepted exact encounter point. Over time, maps, sketches and reconstructions placed the object in slightly different locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
+The most persistent weakness in the witness timeline is geographical precision. Although the general FM 1485 corridor remained constant, investigators never established a universally accepted exact encounter point. Over time, maps, sketches and reconstructions placed the object in slightly different locations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
 
 This matters more than it first appears. If the location were fixed with confidence, researchers could better evaluate sightlines, traffic conditions, nearby infrastructure, possible aircraft routes and celestial explanations. Instead, the uncertainty left room for competing interpretations.
 
-Later sceptical analysis argued that neither the witnesses nor principal UFO investigator John Schuessler ever pinned down the location precisely enough to eliminate ordinary explanations completely. Robert Sheaffer, writing in *Skeptical Inquirer*, argued that the encounter geography became less certain the more closely the original testimony was examined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
+Later sceptical analysis argued that neither the witnesses nor principal UFO investigator John Schuessler ever pinned down the location precisely enough to eliminate ordinary explanations completely. Robert Sheaffer, writing in *Skeptical Inquirer*, argued that the encounter geography became less certain the more closely the original testimony was examined.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
 
 The problem was compounded by the nature of rural Texas roads at the time. FM 1485 and connecting roads passed through sparsely lit woodland and undeveloped stretches that could feel visually repetitive at night. The witnesses were driving under stress, in darkness, after rain, while focusing on a bright airborne object. Human memory under those conditions is vulnerable to later reconstruction errors even without intentional deception.
 
-Another complication concerns direction of travel. Some reconstructions place the witnesses travelling southbound along the FM 1485/FM 2100 route, while others frame the movement differently depending on which interview or map is used. Small discrepancies in direction change the likely position of the object relative to intersections, tree lines and landmarks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
+Another complication concerns direction of travel. Some reconstructions place the witnesses travelling southbound along the FM 1485/FM 2100 route, while others frame the movement differently depending on which interview or map is used. Small discrepancies in direction change the likely position of the object relative to intersections, tree lines and landmarks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
 
 The location dispute also affects the famous “road blocked by object” description. In some retellings, the object hovered directly over the roadway, forcing the car to stop. In others, it appears slightly off-road or above nearby trees. The emotional core of the story remained stable, but the physical geometry did not always remain exact across retellings.
 
@@ -296,220 +296,220 @@ The location dispute also affects the famous “road blocked by object” descri
 
 ## Did the witnesses change their story?
 
-The broad narrative remained surprisingly stable over decades: bright object, intense heat, helicopters, illness afterward. That consistency is one reason the case retained influence within UFO literature. None of the witnesses ever publicly abandoned the core claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
+The broad narrative remained surprisingly stable over decades: bright object, intense heat, helicopters, illness afterward. That consistency is one reason the case retained influence within UFO literature. None of the witnesses ever publicly abandoned the core claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
 
 Yet important details did evolve.
 
-One often-cited inconsistency concerns the object’s shape. In the later Bergstrom Air Force interview, Betty Cash and Vickie Landrum endorsed a diamond-shaped sketch. But in an earlier recorded account taken only weeks after the incident, Cash reportedly said the light was too bright to determine the shape clearly, while Vickie likewise expressed uncertainty and said Colby was the one insisting it looked like a diamond. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
+One often-cited inconsistency concerns the object’s shape. In the later Bergstrom Air Force interview, Betty Cash and Vickie Landrum endorsed a diamond-shaped sketch. But in an earlier recorded account taken only weeks after the incident, Cash reportedly said the light was too bright to determine the shape clearly, while Vickie likewise expressed uncertainty and said Colby was the one insisting it looked like a diamond.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
 
 To sceptics, that shift matters because the “diamond craft” became the defining visual image of the case. To defenders, the difference is understandable: witnesses often become more confident in visual interpretation after repeated recollection and discussion.
 
-The helicopter count also appears unstable. Twenty-three helicopters is the number most often repeated, but exact counts under stressful nighttime conditions are notoriously unreliable. The witnesses may have been estimating rather than literally counting every aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
+The helicopter count also appears unstable. Twenty-three helicopters is the number most often repeated, but exact counts under stressful nighttime conditions are notoriously unreliable. The witnesses may have been estimating rather than literally counting every aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
 
 The emotional intensity of the encounter complicates credibility assessments. The witnesses did not present as detached observers carefully recording technical details. They described panic, confusion, prayer, heat and fear. Such conditions can strengthen sincerity while simultaneously weakening precision.
 
 <img src="{{ "/assets/images/CashLandrum_incident_7ad7d9_witness_timeline_d9cdc7-Illustration-3-dark.svg" | relative_url }}" alt="Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/CashLandrum_incident_7ad7d9_witness_timeline_d9cdc7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/CashLandrum_incident_7ad7d9_witness_timeline_d9cdc7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the timeline can and cannot establish
 
-The witness timeline establishes several things with reasonable confidence. Three people were travelling together on rural roads in the FM 1485 corridor on the night of 29 December 1980. They later consistently reported an unusual aerial encounter involving intense light and perceived heat. They also consistently claimed the presence of multiple helicopters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
+The witness timeline establishes several things with reasonable confidence. Three people were travelling together on rural roads in the FM 1485 corridor on the night of 29 December 1980. They later consistently reported an unusual aerial encounter involving intense light and perceived heat. They also consistently claimed the presence of multiple helicopters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
 
 What the timeline does not establish is equally important.
 
-It does not conclusively identify the object. It does not prove military involvement. It does not firmly place the event at one exact roadside point. It does not independently verify the claimed number of helicopters. And it does not demonstrate that later medical problems were necessarily caused by exposure during the encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
+It does not conclusively identify the object. It does not prove military involvement. It does not firmly place the event at one exact roadside point. It does not independently verify the claimed number of helicopters. And it does not demonstrate that later medical problems were necessarily caused by exposure during the encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
 
 That ambiguity explains why the Cash/Landrum case remains influential decades later. The witness accounts are too detailed and emotionally compelling to dismiss casually, yet too uncertain and weakly corroborated to resolve cleanly. The FM 1485 timeline is therefore not simply a chronology. It is the fault line on which the entire case rests.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RVeOy9W8EUE" title="Terrifying Texas UFO Encounter - The Cash Landrum Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RVeOy9W8EUE" target="_blank" rel="noopener noreferrer">Terrifying Texas UFO Encounter - The Cash Landrum Incident</a></p><p class="youtube-embed-meta">Channel: Scary Mysteries &middot; Views: 48.5K &middot; Uploaded: June 2024 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RVeOy9W8EUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RVeOy9W8EUE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Solid Is the Witness Timeline?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Solid Is the Witness Timeline?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
-        </h4>
-        <p class="fr-book-author">By Guy Lawson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+</h4>
+<p class="fr-book-author">By Guy Lawson</p>
         
-        <p class="fr-book-desc">Useful for understanding why the presence of helicopters and military involvement in cases like Cash-Landrum complicates official explana...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding why the presence of helicopters and military involvement in cases like Cash-Landrum complicates official explana...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Contextualizes the Cash-Landrum case within a history of encounters involving potential military hardware or secret aerospace programs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contextualizes the Cash-Landrum case within a history of encounters involving potential military hardware or secret aerospace programs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Radford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+</h4>
+<p class="fr-book-author">By Benjamin Radford</p>
         
-        <p class="fr-book-desc">Teaches the critical methodology for reconstructing timelines and evaluating how witness narratives can drift away from documented facts...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches the critical methodology for reconstructing timelines and evaluating how witness narratives can drift away from documented facts...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cash-Landrum UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cash-Landrum UFO Incident">The Cash-Landrum UFO Incident</a>
-        </h4>
-        <p class="fr-book-author">By John F. Schuessler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cash-Landrum UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cash-Landrum UFO Incident">The Cash-Landrum UFO Incident</a>
+</h4>
+<p class="fr-book-author">By John F. Schuessler</p>
         
-        <p class="fr-book-desc">Provides the most thorough reconstruction of the witness route, restaurant stop, and the reported time window of the 1980 incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the most thorough reconstruction of the witness route, restaurant stop, and the reported time window of the 1980 incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -525,7 +525,7 @@ That ambiguity explains why the Cash/Landrum case remains influential decades la
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -545,7 +545,7 @@ That ambiguity explains why the Cash/Landrum case remains influential decades la
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -577,7 +577,7 @@ That ambiguity explains why the Cash/Landrum case remains influential decades la
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -629,7 +629,7 @@ That ambiguity explains why the Cash/Landrum case remains influential decades la
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -674,7 +674,7 @@ That ambiguity explains why the Cash/Landrum case remains influential decades la
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -715,75 +715,75 @@ That ambiguity explains why the Cash/Landrum case remains influential decades la
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: List of Farm to Market Roads in Texas (1400–1499)  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_Farm_to_Market_Roads_in_Texas_%281400%E2%80%931499%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_Farm_to_Market_Roads_in_Texas_%281400%E2%80%931499%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_Farm_to_Market_Roads_in_Texas_%281400%E2%80%931499%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_Farm_to_Market_Roads_in_Texas_%281400%E2%80%931499%29</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Incidente ovni Cash-Landrum  
-   Link: <a href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum</a>  
+   Link:<a href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum</a>  
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentThe Cash-Landrum case is unique due to its detailed witness accounts and the severe health effects reported afte...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentThe Cash-Landrum case is unique due to its detailed witness accounts and the severe health effects reported afte...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: stateoftheunknown.com  
-   Link: <a href="https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47" target="_blank" rel="noopener noreferrer nofollow">https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash–Landrum Incident | The Night the Sky Burned Over...24 Mar 2026 — On December 29, 1980, three witnesses driving along a rural ro...</p></details>
+   Link:<a href="https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47" target="_blank" rel="noopener noreferrer nofollow">https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash–Landrum Incident | The Night the Sky Burned Over...24 Mar 2026 — On December 29, 1980, three witnesses driving along a rural ro...</p></details>
    Published: December 29, 1980  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: spreaker.com  
-   Link: <a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — On December 29, 1980, Betty Cash, Vickie Landrum, and seven-year-old C...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — On December 29, 1980, Betty Cash, Vickie Landrum, and seven-year-old C...</p></details>
    Published: December 29, 1980  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: jimharold.com  
    Title: the cash landrum incident a case for critical review micah hanks reports  
-   Link: <a href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — Here, we are presented with a tale of three witnesses to some strange...</p></details>
+   Link:<a href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — Here, we are presented with a tale of three witnesses to some strange...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Night of Fire and Mystery...The witnesses counted 25 helicopters in all, with most of them being Chinooks...</p></details>
+   Link:<a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Night of Fire and Mystery...The witnesses counted 25 helicopters in all, with most of them being Chinooks...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: the unsolved cashlandrum incident of 1980 two  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Two women and a child receive radiation poisoning after witnessing military heli...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Two women and a child receive radiation poisoning after witnessing military heli...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>om the United States in 1980, which witnesses insist was...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>om the United States in 1980, which witnesses insist was...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: does disclosure mean that we will we finally  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>learn what...The Unsolved Cash-Landrum Incident of 1980, two women and a child receive radiation poisoning after witnessing military hel...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>learn what...The Unsolved Cash-Landrum Incident of 1980, two women and a child receive radiation poisoning after witnessing military hel...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: discoveryuk.com  
    Title: highway encounter the cash landrum incident  
-   Link: <a href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Highway Encounter: The Cash-Landrum Incident14 Apr 2026 — Was there a diamond shaped UFO over rural Texas in 1980? This is the astonishin...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Highway Encounter: The Cash-Landrum Incident14 Apr 2026 — Was there a diamond shaped UFO over rural Texas in 1980? This is the astonishin...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/C3QU0u9LKy_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C3QU0u9LKy_/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>object like an escort. Within hours, all three were sick. Betty...</p></details>
+   Link:<a href="https://www.instagram.com/reel/C3QU0u9LKy_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C3QU0u9LKy_/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>object like an escort. Within hours, all three were sick. Betty...</p></details>
